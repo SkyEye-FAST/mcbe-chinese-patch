@@ -114,7 +114,8 @@ foreach ($package in $packageInfo) {
         if ($langContents[$langFile] -and $langContents[$langFile].Count -gt 0) {
             $foundAnyLangFiles = $true
             $outputFile = Join-Path $packageOutputDir $langFile
-            [System.IO.File]::WriteAllLines($outputFile, $langContents[$langFile], [System.Text.Encoding]::UTF8)
+            $content = ($langContents[$langFile] -join "`n") + "`n"
+            [System.IO.File]::WriteAllText($outputFile, $content, [System.Text.Encoding]::UTF8)
             Write-Host "Created $($package.FolderName)\$langFile with $($langContents[$langFile].Count) lines" -ForegroundColor Green
         }
     }
