@@ -90,7 +90,7 @@ $packageInfo = @(
 
 $targetLanguages = @("en_US.lang", "zh_CN.lang", "zh_TW.lang")
 
-$outputDir = "$PSScriptRoot\extracted_lang"
+$outputDir = "$PSScriptRoot\extracted"
 if (-not (Test-Path $outputDir)) { New-Item -ItemType Directory -Path $outputDir | Out-Null }
 
 foreach ($package in $packageInfo) {
