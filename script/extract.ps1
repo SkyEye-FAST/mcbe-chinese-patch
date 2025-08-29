@@ -13,14 +13,15 @@ function Get-AppxFile($Name) {
         if ($link.outerHTML -match '(?<=<a\b[^>]*>).*?(?=</a>)') {
             $linkText = $Matches[0]
             if ($linkText -match 'x64.*\.appx\b') {
+                $appxPath = Join-Path (Split-Path $PSScriptRoot -Parent) $linkText
                 Write-Host "Downloading $linkText ..."
-                if (Test-Path -Path $linkText) {
+                if (Test-Path -Path $appxPath) {
                     Write-Host "Already exists, skipping $linkText"
                 }
                 else {
-                    Invoke-WebRequest -Uri $link.href -OutFile $linkText
+                    Invoke-WebRequest -Uri $link.href -OutFile $appxPath
                 }
-                return $linkText
+                return $appxPath
             }
         }
     }
@@ -37,7 +38,7 @@ function Get-TextsFromZip($zipPath, $extractDir, $targetLanguages) {
         $textsEntries = $zip.Entries | Where-Object {
             $_.FullName -like "*/resource_packs/*/texts/*" -and
             $_.FullName.EndsWith(".lang")
-        }
+        } | Sort-Object FullName
 
         $langContents = @{}
         foreach ($lang in $targetLanguages) {
@@ -60,7 +61,11 @@ function Get-TextsFromZip($zipPath, $extractDir, $targetLanguages) {
                 $reader.Close()
                 $stream.Close()
 
-                $content = $rawContent -split "`r?`n" | Where-Object { $_ -match '\S' }
+                $content = $rawContent -split "`r?`n" | ForEach-Object {
+                    # Remove UTF-8 BOM if present
+                    $line = $_ -replace "^\uFEFF", ""
+                    $line
+                } | Where-Object { $_ -match '\S' }
 
                 if ($content.Count -gt 0) {
                     $sourcePath = $entry.FullName -replace '^.*(?=resource_packs)', ''
@@ -90,7 +95,7 @@ $packageInfo = @(
 
 $targetLanguages = @("en_US.lang", "zh_CN.lang", "zh_TW.lang")
 
-$outputDir = "$PSScriptRoot\extracted"
+$outputDir = Join-Path (Split-Path $PSScriptRoot -Parent) "extracted"
 if (-not (Test-Path $outputDir)) { New-Item -ItemType Directory -Path $outputDir | Out-Null }
 
 foreach ($package in $packageInfo) {

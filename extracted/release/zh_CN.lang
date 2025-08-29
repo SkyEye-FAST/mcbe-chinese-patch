@@ -1635,6 +1635,25 @@ editor.agfx.shadowStylization.tooltip=与阴影样式相关的所有设置
 editor.agfx.shadowStylization.shadowStyle.tooltip=样式选择：柔和或纹素阴影
 editor.agfx.shadowStylization.texelSize.tooltip=基于纹素的阴影的大小
 
+# resource_packs/education_demo/texts/zh_CN.lang
+deathScreen.quit.secondaryClient.confirmLeaveWarning=感谢您的探索！这是一个演示课程，因此您的进度不会被保存。
+menu.quit.edu=退出课程
+menu.quit.edu.title=退出演示课程
+start_screen.start_demo=开始课程
+lesson.finished=我完成了
+lesson.end.dialog.title=课程完成！
+lesson.end.dialog.body.title=恭喜！
+lesson.end.dialog.body.wimages=您获得了结业证书。查看本课程中的照片并保存副本。
+lesson.end.dialog.body.checkport=查看本课程中的照片并保存副本。
+lesson.end.dialog.body.noimages=您获得了结业证书！
+lesson.end.dialog.button.morecoding=更多编程
+lesson.end.dialog.button.getcert=获取证书
+lesson.end.dialog.button.exit=退出课程
+lesson.end.dialog.button.export=保存
+lesson.end.access.imagespreview=课程照片 第 %1 张，共 %2 张
+lesson.end.access.export=导出课程照片
+progressScreen.saving=正在退出世界
+
 # resource_packs/education/texts/zh_CN.lang
 authentication.popup.setup.title=账户设置
 authentication.popup.setup.firstPage.body=欢迎来到 Minecraft Education！%1%1在我们开始之前，我们需要验证您的年龄。为此，我们将打开您的网页浏览器，要求您使用个人 Microsoft 账号登录。%1%1如果您没有个人 Microsoft 账号，请不用担心... 您可以在登录页面上创建一个账号。
@@ -2106,25 +2125,6 @@ worlds.storage.android.settings=打开 Android 设置
 worlds.storage.permission.dialog.title=需要设备权限
 worlds.storage.missing=您的世界不见了吗？请尝试更改《我的世界》的存储位置：
 bookAndQuill.unsignedName=书
-
-# resource_packs/education_demo/texts/zh_CN.lang
-deathScreen.quit.secondaryClient.confirmLeaveWarning=感谢您的探索！这是一个演示课程，因此您的进度不会被保存。
-menu.quit.edu=退出课程
-menu.quit.edu.title=退出演示课程
-start_screen.start_demo=开始课程
-lesson.finished=我完成了
-lesson.end.dialog.title=课程完成！
-lesson.end.dialog.body.title=恭喜！
-lesson.end.dialog.body.wimages=您获得了结业证书。查看本课程中的照片并保存副本。
-lesson.end.dialog.body.checkport=查看本课程中的照片并保存副本。
-lesson.end.dialog.body.noimages=您获得了结业证书！
-lesson.end.dialog.button.morecoding=更多编程
-lesson.end.dialog.button.getcert=获取证书
-lesson.end.dialog.button.exit=退出课程
-lesson.end.dialog.button.export=保存
-lesson.end.access.imagespreview=课程照片 第 %1 张，共 %2 张
-lesson.end.access.export=导出课程照片
-progressScreen.saving=正在退出世界
 
 # resource_packs/oreui/texts/zh_CN.lang
 hbui.BackButton.back=返回

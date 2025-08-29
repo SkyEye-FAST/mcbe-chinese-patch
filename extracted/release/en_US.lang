@@ -1635,6 +1635,25 @@ editor.agfx.shadowStylization.tooltip=All settings pertaining to shadow styles
 editor.agfx.shadowStylization.shadowStyle.tooltip=Style selection: soft or texel shadows
 editor.agfx.shadowStylization.texelSize.tooltip=Size of texel based shadows
 
+# resource_packs/education_demo/texts/en_US.lang
+deathScreen.quit.secondaryClient.confirmLeaveWarning=Thanks for playing! This is a demo lesson, so your progress will not be saved.
+menu.quit.edu=EXIT LESSON
+menu.quit.edu.title=Exit Demo Lesson
+start_screen.start_demo=Start Lesson
+lesson.finished=I'm Finished
+lesson.end.dialog.title=Lesson Complete!
+lesson.end.dialog.body.title=CONGRATULATIONS!
+lesson.end.dialog.body.wimages=You earned a certificate of completion. Check out the photos from this lesson and save a copy.
+lesson.end.dialog.body.checkport=Check out the photos from this lesson and save a copy.
+lesson.end.dialog.body.noimages=You earned a certificate of completion!
+lesson.end.dialog.button.morecoding=More Coding
+lesson.end.dialog.button.getcert=Get Certificate
+lesson.end.dialog.button.exit=Exit Lesson
+lesson.end.dialog.button.export=Save
+lesson.end.access.imagespreview=Lesson photo %1 of %2
+lesson.end.access.export=Export lesson photos
+progressScreen.saving=Exiting world
+
 # resource_packs/education/texts/en_US.lang
 authentication.popup.setup.title=Account Setup
 authentication.popup.setup.firstPage.body=Welcome to Minecraft Education!%1%1Before we can get started we'll need to verify your age. To do this, we'll open your web browser and ask you to sign in with your personal Microsoft account.%1%1If you don't have a personal Microsoft account, don't worry... you can create one on the sign-in page.
@@ -2107,25 +2126,6 @@ worlds.storage.android.settings=Open Android Settings
 worlds.storage.permission.dialog.title=Device Permission Needed
 worlds.storage.missing=Are your worlds missing? Try changing Minecraft's storage location:
 bookAndQuill.unsignedName=Book
-
-# resource_packs/education_demo/texts/en_US.lang
-deathScreen.quit.secondaryClient.confirmLeaveWarning=Thanks for playing! This is a demo lesson, so your progress will not be saved.
-menu.quit.edu=EXIT LESSON
-menu.quit.edu.title=Exit Demo Lesson
-start_screen.start_demo=Start Lesson
-lesson.finished=I'm Finished
-lesson.end.dialog.title=Lesson Complete!
-lesson.end.dialog.body.title=CONGRATULATIONS!
-lesson.end.dialog.body.wimages=You earned a certificate of completion. Check out the photos from this lesson and save a copy.
-lesson.end.dialog.body.checkport=Check out the photos from this lesson and save a copy.
-lesson.end.dialog.body.noimages=You earned a certificate of completion!
-lesson.end.dialog.button.morecoding=More Coding
-lesson.end.dialog.button.getcert=Get Certificate
-lesson.end.dialog.button.exit=Exit Lesson
-lesson.end.dialog.button.export=Save
-lesson.end.access.imagespreview=Lesson photo %1 of %2
-lesson.end.access.export=Export lesson photos
-progressScreen.saving=Exiting world
 
 # resource_packs/experimental_y_2025_drop_3/texts/en_US.lang
 entity.copper_golem.name=Copper Golem 
