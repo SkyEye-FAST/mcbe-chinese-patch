@@ -58,7 +58,6 @@ get_texts_from_zip() {
         is_first_entry["$lang"]=true
     done
 
-    # Create a list of files sorted by path to match PowerShell processing order
     local sorted_files=()
     while IFS= read -r -d '' file; do
         sorted_files+=("$file")
@@ -81,10 +80,8 @@ get_texts_from_zip() {
             local source_path=$(echo "$file" | sed "s|^$temp_dir/||" | sed 's|^data/||')
 
             if [[ -s "$file" ]]; then
-                # First, collect the valid content lines
                 local valid_lines=()
                 while IFS= read -r line || [[ -n "$line" ]]; do
-                    # Remove UTF-8 BOM and carriage return
                     line="${line#﻿}"
                     line="${line%$'\r'}"
                     if [[ "$line" =~ [^[:space:]] ]]; then
@@ -92,7 +89,6 @@ get_texts_from_zip() {
                     fi
                 done < "$file"
 
-                # Only add source path and content if there are valid lines
                 if [[ ${#valid_lines[@]} -gt 0 ]]; then
                     if [[ "${is_first_entry[$filename]}" != "true" ]]; then
                         lang_contents["$filename"]+=$'\n'
@@ -110,13 +106,11 @@ get_texts_from_zip() {
 
     rm -rf "$temp_dir"
 
-    # Write files directly
     local found_any=false
     for lang in "${target_languages[@]}"; do
         if [[ -n "${lang_contents[$lang]}" ]]; then
             local output_file="$output_dir/$lang"
-            # Add UTF-8 BOM at the beginning to match PowerShell output
-            printf '\357\273\277%s' "${lang_contents[$lang]}" > "$output_file"
+            printf '%s' "${lang_contents[$lang]}" > "$output_file"
             local line_count=$(echo -n "${lang_contents[$lang]}" | wc -l)
             echo "Created $lang with $line_count lines" >&2
             found_any=true

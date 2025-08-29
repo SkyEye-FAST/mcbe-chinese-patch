@@ -62,7 +62,6 @@ function Get-TextsFromZip($zipPath, $extractDir, $targetLanguages) {
                 $stream.Close()
 
                 $content = $rawContent -split "`r?`n" | ForEach-Object {
-                    # Remove UTF-8 BOM if present
                     $line = $_ -replace "^\uFEFF", ""
                     $line
                 } | Where-Object { $_ -match '\S' }
@@ -120,7 +119,8 @@ foreach ($package in $packageInfo) {
             $foundAnyLangFiles = $true
             $outputFile = Join-Path $packageOutputDir $langFile
             $content = ($langContents[$langFile] -join "`n") + "`n"
-            [System.IO.File]::WriteAllText($outputFile, $content, [System.Text.Encoding]::UTF8)
+            $utf8NoBom = New-Object System.Text.UTF8Encoding $false
+            [System.IO.File]::WriteAllText($outputFile, $content, $utf8NoBom)
             Write-Host "Created $($package.FolderName)\$langFile with $($langContents[$langFile].Count) lines" -ForegroundColor Green
         }
     }
