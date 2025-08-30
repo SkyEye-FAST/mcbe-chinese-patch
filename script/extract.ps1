@@ -52,6 +52,35 @@ function Convert-LangToJson($langContent) {
     return $jsonData
 }
 
+function Remove-DuplicateKeys($langContent) {
+    $seenKeys = New-Object System.Collections.Generic.HashSet[string]
+    $resultLines = @()
+
+    foreach ($line in $langContent -split "`r?`n") {
+        $trimmedLine = $line -replace '^[ \t\r\n\f\v]+|[ \t\r\n\f\v]+$', ''
+
+        if ([string]::IsNullOrWhiteSpace($trimmedLine) -or $trimmedLine.StartsWith("##")) {
+            $resultLines += $line
+            continue
+        }
+
+        $equalIndex = $trimmedLine.IndexOf('=')
+        if ($equalIndex -gt 0) {
+            $key = ($trimmedLine.Substring(0, $equalIndex)) -replace '^[ \t\r\n\f\v]+|[ \t\r\n\f\v]+$', ''
+
+            if (-not $seenKeys.Contains($key)) {
+                $seenKeys.Add($key) | Out-Null
+                $resultLines += $line
+            }
+        }
+        else {
+            $resultLines += $line
+        }
+    }
+
+    return $resultLines -join "`n"
+}
+
 function Extract-FilesToStructure($zipPath, $baseOutputDir, $targetLanguages) {
     Write-Host "Extracting files to directory structure from $zipPath..."
 
@@ -86,6 +115,8 @@ function Extract-FilesToStructure($zipPath, $baseOutputDir, $targetLanguages) {
             if ([string]::IsNullOrWhiteSpace($cleanedContent)) {
                 continue
             }
+
+            $cleanedContent = Remove-DuplicateKeys $cleanedContent
 
             $relativePath = $entry.FullName -replace '^data/resource_packs/', '' -replace '/texts/', '/'
             $outputFile = Join-Path $baseOutputDir $relativePath
@@ -157,6 +188,8 @@ function Extract-ReleaseFiles($zipPath, $baseOutputDir, $targetLanguages) {
             if ([string]::IsNullOrWhiteSpace($cleanedContent)) {
                 continue
             }
+
+            $cleanedContent = Remove-DuplicateKeys $cleanedContent
 
             $outputFile = Join-Path $baseOutputDir $relativePath
             $outputDir = Split-Path $outputFile -Parent
