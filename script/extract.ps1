@@ -32,7 +32,7 @@ function Convert-LangToJson($langContent) {
     $jsonData = New-Object System.Collections.Specialized.OrderedDictionary
 
     foreach ($line in $langContent -split "`r?`n") {
-        $line = $line.Trim()
+        $line = $line -replace '^[ \t\r\n\f\v]+|[ \t\r\n\f\v]+$', ''
 
         if ([string]::IsNullOrWhiteSpace($line) -or $line.StartsWith("##")) {
             continue
@@ -40,8 +40,8 @@ function Convert-LangToJson($langContent) {
 
         $equalIndex = $line.IndexOf('=')
         if ($equalIndex -gt 0) {
-            $key = $line.Substring(0, $equalIndex).Trim()
-            $value = $line.Substring($equalIndex + 1).Trim()
+            $key = ($line.Substring(0, $equalIndex)) -replace '^[ \t\r\n\f\v]+|[ \t\r\n\f\v]+$', ''
+            $value = ($line.Substring($equalIndex + 1)) -replace '^[ \t\r\n\f\v]+', '' -replace '[ \t\r\n\f\v]+$', ''
 
             if (-not $jsonData.Contains($key)) {
                 $jsonData[$key] = $value
@@ -202,7 +202,8 @@ foreach ($package in $packageInfo) {
     if ($firstPackage) {
         Write-Host "Processing package: $($package.Name)" -ForegroundColor Cyan
         $firstPackage = $false
-    } else {
+    }
+    else {
         Write-Host ""
         Write-Host "Processing package: $($package.Name)" -ForegroundColor Cyan
     }
@@ -222,7 +223,8 @@ foreach ($package in $packageInfo) {
     $success = $false
     if ($package.Name -eq "Microsoft.MinecraftUWP_8wekyb3d8bbwe") {
         $success = Extract-ReleaseFiles $appxFile $packageOutputDir $targetLanguages
-    } else {
+    }
+    else {
         $success = Extract-FilesToStructure $appxFile $packageOutputDir $targetLanguages
     }
 
