@@ -1,4 +1,4 @@
-# resource_packs/beta/texts/zh_TW.lang
+## resource_packs/beta/texts/zh_TW.lang
 menu.play=遊玩測試版
 beta.loading.1=使用測試版時，你只能與其他同樣也使用測試版的好友一起玩遊戲！
 beta.loading.2=提醒你，你無法在使用測試版時於大多數伺服器中遊玩遊戲。    
@@ -26,7 +26,7 @@ tips.realms.6=在 Realm 上玩遊戲時，從遊戲功能表前往 Realms 故事
 tips.realms.7=在 Realms 故事的成員分頁中了解你的 Realm 社群。
 tips.realms.8=使用 Realms 故事進行社交活動，了解好友的進度，並安排遊戲時間。
 
-# resource_packs/chemistry/texts/zh_TW.lang
+## resource_packs/chemistry/texts/zh_TW.lang
 action.interact.balloon=裝上
 action.interact.unballoon=卸下
 compoundcreator.title=複合物製造器
@@ -322,7 +322,7 @@ tile.materialreducer.name=物質消除器
 tile.underwater_tnt.name=水下炸藥
 tile.underwater_torch.name=水下火把
 
-# resource_packs/editor/texts/zh_TW.lang
+## resource_packs/editor/texts/zh_TW.lang
 commands.editor.project.beginExport=正在匯出...
 commands.editor.project.description=操作當前載入的專案
 commands.editor.project.export=專案匯出
@@ -1635,7 +1635,7 @@ editor.agfx.shadowStylization.tooltip=所有與陰影樣式相關的設定
 editor.agfx.shadowStylization.shadowStyle.tooltip=樣式選擇：柔和陰影或紋素陰影
 editor.agfx.shadowStylization.texelSize.tooltip=紋素陰影的大小
 
-# resource_packs/education_demo/texts/zh_TW.lang
+## resource_packs/education_demo/texts/zh_TW.lang
 deathScreen.quit.secondaryClient.confirmLeaveWarning=感謝您玩遊戲！此為示範課程，因此您的進度將不會儲存。
 menu.quit.edu=結束課程
 menu.quit.edu.title=退出示範課程
@@ -1654,7 +1654,7 @@ lesson.end.access.imagespreview=課程照片 %1 (共 %2 張)
 lesson.end.access.export=匯出課程照片
 progressScreen.saving=退出世界
 
-# resource_packs/education/texts/zh_TW.lang
+## resource_packs/education/texts/zh_TW.lang
 authentication.popup.setup.title=帳戶設置
 authentication.popup.setup.firstPage.body=歡迎來到 Minecraft Education！%1%1在開始之前，我們需要驗證你的年齡。為此，我們將開啟你的網頁瀏覽器，並要求你使用個人 Microsoft 帳號登入。%1%1如果你没有個人 Microsoft 帳號，請不必擔心... 你可以在登入頁面上建立帳號。
 authentication.popup.setup.firstPage.learnMore=為什麼需要驗證我的年齡？
@@ -2126,7 +2126,7 @@ worlds.storage.permission.dialog.title=需要裝置權限
 worlds.storage.missing=你的世界不見了嗎？試著變更 Minecraft 的儲存空間位置：
 bookAndQuill.unsignedName=書本
 
-# resource_packs/oreui/texts/zh_TW.lang
+## resource_packs/oreui/texts/zh_TW.lang
 hbui.Editor.title=輸入映射
 hbui.EditorActionBar.leftTray=向左
 hbui.EditorActionBar.rightTray=向右
@@ -6578,43 +6578,43 @@ hbui.TitleBar.Buttons.Back.narration=返回按鈕
 hbui.TitleBar.Buttons.Close.inputLegend=關閉
 hbui.TitleBar.Buttons.Close.narration=關閉按鈕
 
-# resource_packs/persona/emote_followMe/texts/zh_TW.lang
+## resource_packs/persona/emote_followMe/texts/zh_TW.lang
 persona.emote.chatMessage=@ 要大家&跟隨&。
 persona.emote.chatMessageEasterEgg=@：羊駝火車，推出！(&跟隨&)
 
-# resource_packs/persona/emote_overThere/texts/zh_TW.lang
+## resource_packs/persona/emote_overThere/texts/zh_TW.lang
 persona.emote.chatMessage=@ 正在指向&那邊&！
 persona.emote.chatMessageEasterEgg=@：這不管用...是苦力怕！
 
-# resource_packs/persona/emote_simpleClap/texts/zh_TW.lang
+## resource_packs/persona/emote_simpleClap/texts/zh_TW.lang
 persona.emote.chatMessage=@ 正在&鼓掌&。
 persona.emote.chatMessageEasterEgg=@：恭喜！
 
-# resource_packs/persona/emote_wave/texts/zh_TW.lang
+## resource_packs/persona/emote_wave/texts/zh_TW.lang
 persona.emote.chatMessage=@ 正在&揮手&。
 persona.emote.chatMessageEasterEgg=@ 的手臂因為揮手揮太久而疲憊不堪。
 
-# resource_packs/persona/pieces/emote_followMe/texts/zh_TW.lang
+## resource_packs/persona/pieces/emote_followMe/texts/zh_TW.lang
 persona.offer.title=跟著我
 persona.emote.chat_message=@ 要大家&跟隨&。
 persona.emote.easter_egg=@：羊駝火車，推出！(&跟隨&)
 
-# resource_packs/persona/pieces/emote_overThere/texts/zh_TW.lang
+## resource_packs/persona/pieces/emote_overThere/texts/zh_TW.lang
 persona.offer.title=在那邊
 persona.emote.chat_message=@ 正在指向&那邊&！
 persona.emote.easter_egg=@：這不管用... 是苦力怕！
 
-# resource_packs/persona/pieces/emote_simpleClap/texts/zh_TW.lang
+## resource_packs/persona/pieces/emote_simpleClap/texts/zh_TW.lang
 persona.offer.title=鼓掌
 persona.emote.chat_message=@ 正在&鼓掌&。
 persona.emote.easter_egg=@：恭喜！
 
-# resource_packs/persona/pieces/emote_wave/texts/zh_TW.lang
+## resource_packs/persona/pieces/emote_wave/texts/zh_TW.lang
 persona.offer.title=揮手
 persona.emote.chat_message=@ 正在&揮手&。
 persona.emote.easter_egg=@ 的手臂因為揮手揮太久而疲憊不堪。
 
-# resource_packs/persona/texts/zh_TW.lang
+## resource_packs/persona/texts/zh_TW.lang
 menu.character_cast.ftue_page1=快去更衣室看看吧！
 menu.character_cast.ftue_page2_left=按「從角色清單中選擇」以建立角色
 menu.character_cast.ftue_page2_right=選擇你最喜歡的並自訂它們！
@@ -6696,7 +6696,7 @@ skin.Standard.Steve=史提夫
 skin.Standard.Sunny=桑妮
 skin.Standard.Zuri=祖里
 
-# resource_packs/vanilla/texts/zh_TW.lang
+## resource_packs/vanilla/texts/zh_TW.lang
 accessibility.disableTTS=文字轉換語音已停用
 accessibility.enableTTS=文字轉換語音已啟用
 accessibility.chat.tts.gamepad.back=按 %s 返回

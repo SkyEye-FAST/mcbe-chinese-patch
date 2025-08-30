@@ -1,4 +1,4 @@
-# resource_packs/beta/texts/zh_CN.lang
+## resource_packs/beta/texts/zh_CN.lang
 menu.play=玩测试版
 beta.loading.1=如果您玩的是测试版，那么只能和其他也在玩测试版的好友一起玩！
 beta.loading.2=请记住，当你处于测试版模式时，无法在大多数服务器上进行游戏。    
@@ -26,7 +26,7 @@ tips.realms.6=在 Realm 上游玩时，从游戏菜单访问 Realms 故事。
 tips.realms.7=在 Realms 故事中的成员选项卡中了解你的 Realm 社区。
 tips.realms.8=使用 Realms 故事进行社交活动，了解好友进度，并安排游玩时间。
 
-# resource_packs/chemistry/texts/zh_CN.lang
+## resource_packs/chemistry/texts/zh_CN.lang
 action.interact.balloon=连接
 action.interact.unballoon=分离
 compoundcreator.title=化合物创建器
@@ -322,7 +322,7 @@ tile.materialreducer.name=材料分解器
 tile.underwater_tnt.name=水下 TNT
 tile.underwater_torch.name=水下火炬
 
-# resource_packs/editor/texts/zh_CN.lang
+## resource_packs/editor/texts/zh_CN.lang
 entity.npc.name=非玩家角色
 commands.editor.project.beginExport=正在导出...
 commands.editor.project.description=操作当前加载的项目
@@ -1734,7 +1734,7 @@ editor.agfx.shadowStylization.tooltip=与阴影样式相关的所有设置
 editor.agfx.shadowStylization.shadowStyle.tooltip=样式选择：柔和或纹素阴影
 editor.agfx.shadowStylization.texelSize.tooltip=基于纹素的阴影的大小
 
-# resource_packs/oreui/texts/zh_CN.lang
+## resource_packs/oreui/texts/zh_CN.lang
 hbui.Accordion.closeInputLegend=关闭
 hbui.Accordion.narrationComponentType=手风琴
 hbui.Accordion.narrationCountLabel=%1$s - (%2$s)
@@ -6308,7 +6308,7 @@ hbui.TitleBar.Buttons.Back.narration=返回按钮
 hbui.TitleBar.Buttons.Close.inputLegend=关闭
 hbui.TitleBar.Buttons.Close.narration=关闭按钮
 
-# resource_packs/persona/texts/zh_CN.lang
+## resource_packs/persona/texts/zh_CN.lang
 menu.character_cast.ftue_page1=在更衣室里瞧瞧他们！
 menu.character_cast.ftue_page2_left=按下“从角色列表中选择”以创建角色
 menu.character_cast.ftue_page2_right=选择你最喜欢的并进行自定义！
@@ -6390,7 +6390,7 @@ skin.Standard.Steve=史蒂夫
 skin.Standard.Sunny=桑尼
 skin.Standard.Zuri=祖里
 
-# resource_packs/previewapp/texts/zh_CN.lang
+## resource_packs/previewapp/texts/zh_CN.lang
 gui.importRetailWorld.text.1=您必须先导入此世界，然后才能在预览版中使用。
 gui.importRetailWorld.text.3=您想为此世界制作一个预览版副本吗？
 menu.play=使用预览版
@@ -6412,7 +6412,7 @@ tips.realms.6=在 Realm 上游玩时，从游戏菜单访问 Realms 故事。
 tips.realms.7=在 Realms 故事中的成员选项卡中了解你的 Realm 社区。
 tips.realms.8=使用 Realms 故事进行社交活动，了解好友进度，并安排游玩时间。
 
-# resource_packs/vanilla/texts/zh_CN.lang
+## resource_packs/vanilla/texts/zh_CN.lang
 accessibility.disableTTS=文本转语音已禁用
 accessibility.enableTTS=文本转语音已启用
 accessibility.chat.tts.gamepad.back=按下 %s 返回

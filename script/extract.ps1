@@ -38,7 +38,7 @@ function Convert-LangToJson($langContent) {
             continue
         }
 
-        if ($line.StartsWith("# ")) {
+        if ($line.StartsWith("## ")) {
             continue
         }
 
@@ -101,7 +101,7 @@ function Get-TextsFromZip($zipPath, $extractDir, $targetLanguages) {
                         $langContents[$fileName] += ""
                     }
 
-                    $langContents[$fileName] += "# $sourcePath"
+                    $langContents[$fileName] += "## $sourcePath"
                     $langContents[$fileName] += $content
                     $isFirstEntry[$fileName] = $false
                 }

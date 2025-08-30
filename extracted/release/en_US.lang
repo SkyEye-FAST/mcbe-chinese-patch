@@ -1,4 +1,4 @@
-# resource_packs/beta/texts/en_US.lang
+## resource_packs/beta/texts/en_US.lang
 menu.play=Play Beta
 beta.loading.1=When you're on the beta, you can only play with other friends who are also on the beta!
 beta.loading.2=Remember, you can't play on most servers when you're on the beta.    
@@ -26,7 +26,7 @@ tips.realms.6=Access Realms Stories from the game menu while playing on the Real
 tips.realms.7=Get to know your Realm's community on the Members tab in Realms Stories.
 tips.realms.8=Use Realms Stories to get social, keep up with your friends' progress, and organize playtime.
 
-# resource_packs/chemistry/texts/en_US.lang
+## resource_packs/chemistry/texts/en_US.lang
 action.interact.balloon=Attach
 action.interact.unballoon=Detach
 compoundcreator.title=Compound Creator
@@ -322,7 +322,7 @@ tile.materialreducer.name=Material Reducer
 tile.underwater_tnt.name=Underwater TNT
 tile.underwater_torch.name=Underwater Torch
 
-# resource_packs/editor/texts/en_US.lang
+## resource_packs/editor/texts/en_US.lang
 commands.editor.project.beginExport=Exporting...
 commands.editor.project.description=Manipulate the currently loaded project
 commands.editor.project.export=project export
@@ -1635,7 +1635,7 @@ editor.agfx.shadowStylization.tooltip=All settings pertaining to shadow styles
 editor.agfx.shadowStylization.shadowStyle.tooltip=Style selection: soft or texel shadows
 editor.agfx.shadowStylization.texelSize.tooltip=Size of texel based shadows
 
-# resource_packs/education_demo/texts/en_US.lang
+## resource_packs/education_demo/texts/en_US.lang
 deathScreen.quit.secondaryClient.confirmLeaveWarning=Thanks for playing! This is a demo lesson, so your progress will not be saved.
 menu.quit.edu=EXIT LESSON
 menu.quit.edu.title=Exit Demo Lesson
@@ -1654,7 +1654,7 @@ lesson.end.access.imagespreview=Lesson photo %1 of %2
 lesson.end.access.export=Export lesson photos
 progressScreen.saving=Exiting world
 
-# resource_packs/education/texts/en_US.lang
+## resource_packs/education/texts/en_US.lang
 authentication.popup.setup.title=Account Setup
 authentication.popup.setup.firstPage.body=Welcome to Minecraft Education!%1%1Before we can get started we'll need to verify your age. To do this, we'll open your web browser and ask you to sign in with your personal Microsoft account.%1%1If you don't have a personal Microsoft account, don't worry... you can create one on the sign-in page.
 authentication.popup.setup.firstPage.learnMore=Why do I need to verify my age?
@@ -2127,7 +2127,7 @@ worlds.storage.permission.dialog.title=Device Permission Needed
 worlds.storage.missing=Are your worlds missing? Try changing Minecraft's storage location:
 bookAndQuill.unsignedName=Book
 
-# resource_packs/experimental_y_2025_drop_3/texts/en_US.lang
+## resource_packs/experimental_y_2025_drop_3/texts/en_US.lang
 entity.copper_golem.name=Copper Golem 
 item.spawn_egg.entity.copper_golem.name=Copper Golem Spawn Egg 
 item.copper_nugget.name=Copper Nugget
@@ -2149,7 +2149,7 @@ tile.waxed_exposed_copper_chest.name=Waxed Exposed Copper Chest
 tile.waxed_weathered_copper_chest.name=Waxed Weathered Copper Chest
 tile.waxed_oxidized_copper_chest.name=Waxed Oxidized Copper Chest
 
-# resource_packs/oreui/texts/en_US.lang
+## resource_packs/oreui/texts/en_US.lang
 hbui.Accordion.closeInputLegend=Close
 hbui.Accordion.narrationComponentType=Accordion
 hbui.Accordion.narrationCountLabel=%1$s - (%2$s)
@@ -6561,27 +6561,27 @@ hbui.TitleBar.Buttons.Back.narration=Back button
 hbui.TitleBar.Buttons.Close.inputLegend=Close
 hbui.TitleBar.Buttons.Close.narration=Close button
 
-# resource_packs/persona/pieces/emote_followMe/texts/en_US.lang
+## resource_packs/persona/pieces/emote_followMe/texts/en_US.lang
 persona.offer.title=Follow Me
 persona.emote.chat_message=@ is asking everyone to &Follow& along.
 persona.emote.easter_egg=@: Llama train, rolling out! (&Follow&)
 
-# resource_packs/persona/pieces/emote_overThere/texts/en_US.lang
+## resource_packs/persona/pieces/emote_overThere/texts/en_US.lang
 persona.offer.title=Over There
 persona.emote.chat_message=@ is pointing &over there&!
 persona.emote.easter_egg=@: This isn't working... CREEPER!
 
-# resource_packs/persona/pieces/emote_simpleClap/texts/en_US.lang
+## resource_packs/persona/pieces/emote_simpleClap/texts/en_US.lang
 persona.offer.title=Clapping
 persona.emote.chat_message=@ is &Clapping&.
 persona.emote.easter_egg=@: Congratulations!
 
-# resource_packs/persona/pieces/emote_wave/texts/en_US.lang
+## resource_packs/persona/pieces/emote_wave/texts/en_US.lang
 persona.offer.title=Wave
 persona.emote.chat_message=@ is &Waving&.
 persona.emote.easter_egg=@'s arm is tired from so much Waving.
 
-# resource_packs/persona/texts/en_US.lang
+## resource_packs/persona/texts/en_US.lang
 menu.character_cast.ftue_page1=Check them out in the dressing room!
 menu.character_cast.ftue_page2_left=Press "Select from character list" to create a character
 menu.character_cast.ftue_page2_right=Choose your favorite and customize them!
@@ -6663,7 +6663,7 @@ skin.Standard.Steve=Steve
 skin.Standard.Sunny=Sunny
 skin.Standard.Zuri=Zuri
 
-# resource_packs/vanilla/texts/en_US.lang
+## resource_packs/vanilla/texts/en_US.lang
 accessibility.disableTTS=Text To Speech disabled
 accessibility.enableTTS=Text To Speech enabled
 accessibility.chat.tts.gamepad.back=Press the %s to go back

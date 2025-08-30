@@ -1,4 +1,4 @@
-# resource_packs/beta/texts/zh_TW.lang
+## resource_packs/beta/texts/zh_TW.lang
 menu.play=遊玩測試版
 beta.loading.1=使用測試版時，你只能與其他同樣也使用測試版的好友一起玩遊戲！
 beta.loading.2=提醒你，你無法在使用測試版時於大多數伺服器中遊玩遊戲。    
@@ -26,7 +26,7 @@ tips.realms.6=在 Realm 上玩遊戲時，從遊戲功能表前往 Realms 故事
 tips.realms.7=在 Realms 故事的成員分頁中了解你的 Realm 社群。
 tips.realms.8=使用 Realms 故事進行社交活動，了解好友的進度，並安排遊戲時間。
 
-# resource_packs/chemistry/texts/zh_TW.lang
+## resource_packs/chemistry/texts/zh_TW.lang
 action.interact.balloon=裝上
 action.interact.unballoon=卸下
 compoundcreator.title=複合物製造器
@@ -322,7 +322,7 @@ tile.materialreducer.name=物質消除器
 tile.underwater_tnt.name=水下炸藥
 tile.underwater_torch.name=水下火把
 
-# resource_packs/editor/texts/zh_TW.lang
+## resource_packs/editor/texts/zh_TW.lang
 entity.npc.name=非玩家角色
 commands.editor.project.beginExport=正在匯出...
 commands.editor.project.description=操作當前載入的專案
@@ -1734,7 +1734,7 @@ editor.agfx.shadowStylization.tooltip=所有與陰影樣式相關的設定
 editor.agfx.shadowStylization.shadowStyle.tooltip=樣式選擇：柔和陰影或紋素陰影
 editor.agfx.shadowStylization.texelSize.tooltip=紋素陰影的大小
 
-# resource_packs/oreui/texts/zh_TW.lang
+## resource_packs/oreui/texts/zh_TW.lang
 hbui.Accordion.closeInputLegend=關閉
 hbui.Accordion.openInputLegend=開啟
 hbui.BackButton.back=返回
@@ -6308,7 +6308,7 @@ hbui.TitleBar.Buttons.Close.inputLegend=關閉
 hbui.TitleBar.Buttons.Close.narration=關閉按鈕
 hbui.Sample.hello=你好 %1$s！
 
-# resource_packs/persona/texts/zh_TW.lang
+## resource_packs/persona/texts/zh_TW.lang
 menu.character_cast.ftue_page1=快去更衣室看看吧！
 menu.character_cast.ftue_page2_left=按「從角色清單中選擇」以建立角色
 menu.character_cast.ftue_page2_right=選擇你最喜歡的並自訂它們！
@@ -6390,7 +6390,7 @@ skin.Standard.Steve=史提夫
 skin.Standard.Sunny=桑妮
 skin.Standard.Zuri=祖里
 
-# resource_packs/previewapp/texts/zh_TW.lang
+## resource_packs/previewapp/texts/zh_TW.lang
 gui.importRetailWorld.text.1=必須先匯入這個世界，才能在預覽版中使用。
 gui.importRetailWorld.text.3=要製作這個世界的預覽版嗎？
 menu.play=遊玩預覽版
@@ -6412,7 +6412,7 @@ tips.realms.6=在 Realm 上玩遊戲時，從遊戲功能表前往 Realms 故事
 tips.realms.7=在 Realms 故事的成員分頁中了解你的 Realm 社群。
 tips.realms.8=使用 Realms 故事進行社交活動，了解好友的進度，並安排遊戲時間。
 
-# resource_packs/vanilla/texts/zh_TW.lang
+## resource_packs/vanilla/texts/zh_TW.lang
 accessibility.disableTTS=文字轉換語音已停用
 accessibility.enableTTS=文字轉換語音已啟用
 accessibility.chat.tts.gamepad.back=按 %s 返回
