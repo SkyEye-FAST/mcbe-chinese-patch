@@ -82,6 +82,36 @@ convert_lang_to_json() {
     }' > "$output_file"
 }
 
+remove_duplicate_keys() {
+    local lang_content="$1"
+
+    echo "$lang_content" | awk '
+    /^[[:space:]]*$/ || /^##/ {
+        print
+        next
+    }
+
+    /^[^=]+=/ {
+        eq_pos = index($0, "=")
+        if (eq_pos > 0) {
+            key = substr($0, 1, eq_pos - 1)
+            gsub(/^[[:space:]]+|[[:space:]]+$/, "", key)
+
+            if (key in seen_keys) {
+                next
+            }
+            seen_keys[key] = 1
+            print
+        } else {
+            print
+        }
+    }
+
+    !/^[[:space:]]*$/ && !/^##/ && !/^[^=]+=/ {
+        print
+    }'
+}
+
 extract_files_to_structure() {
     local zip_path="$1"
     local base_output_dir="$2"
@@ -130,11 +160,14 @@ extract_files_to_structure() {
         cleaned_content=$(sed $'s/\xEF\xBB\xBF//; s/\r$//; /^[[:space:]]*$/d' "$file")
 
         if [[ -n "$cleaned_content" ]]; then
-            printf '%s' "$cleaned_content" > "$output_file"
+            local deduplicated_content
+            deduplicated_content=$(remove_duplicate_keys "$cleaned_content")
+
+            printf '%s' "$deduplicated_content" > "$output_file"
             echo "Created $relative_path" >&2
 
             local json_file="${output_file%.lang}.json"
-            convert_lang_to_json "$cleaned_content" "$json_file"
+            convert_lang_to_json "$deduplicated_content" "$json_file"
 
             local json_entry_count=$(grep -c '".*":' "$json_file" 2>/dev/null || echo "0")
             echo "Created ${relative_path%.lang}.json with $json_entry_count entries" >&2
@@ -206,11 +239,15 @@ extract_release_files() {
         cleaned_content=$(sed $'s/\xEF\xBB\xBF//; s/\r$//; /^[[:space:]]*$/d' "$file")
 
         if [[ -n "$cleaned_content" ]]; then
-            printf '%s' "$cleaned_content" > "$output_file"
+            # 去除重复键
+            local deduplicated_content
+            deduplicated_content=$(remove_duplicate_keys "$cleaned_content")
+
+            printf '%s' "$deduplicated_content" > "$output_file"
             echo "Created $relative_path" >&2
 
             local json_file="${output_file%.lang}.json"
-            convert_lang_to_json "$cleaned_content" "$json_file"
+            convert_lang_to_json "$deduplicated_content" "$json_file"
 
             local json_entry_count=$(grep -c '".*":' "$json_file" 2>/dev/null || echo "0")
             echo "Created ${relative_path%.lang}.json with $json_entry_count entries" >&2
