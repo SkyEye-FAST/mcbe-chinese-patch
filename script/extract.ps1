@@ -81,7 +81,7 @@ function Remove-DuplicateKeys($langContent) {
     return $resultLines -join "`n"
 }
 
-function Extract-FilesToStructure($zipPath, $baseOutputDir, $targetLanguages) {
+function Export-FilesToStructure($zipPath, $baseOutputDir, $targetLanguages) {
     Write-Host "Extracting files to directory structure from $zipPath..."
 
     Add-Type -AssemblyName System.IO.Compression.FileSystem
@@ -148,7 +148,7 @@ function Extract-FilesToStructure($zipPath, $baseOutputDir, $targetLanguages) {
     }
 }
 
-function Extract-ReleaseFiles($zipPath, $baseOutputDir, $targetLanguages) {
+function Export-ReleaseFiles($zipPath, $baseOutputDir, $targetLanguages) {
     Write-Host "Extracting release files from $zipPath..."
 
     Add-Type -AssemblyName System.IO.Compression.FileSystem
@@ -255,10 +255,10 @@ foreach ($package in $packageInfo) {
 
     $success = $false
     if ($package.Name -eq "Microsoft.MinecraftUWP_8wekyb3d8bbwe") {
-        $success = Extract-ReleaseFiles $appxFile $packageOutputDir $targetLanguages
+        $success = Export-ReleaseFiles $appxFile $packageOutputDir $targetLanguages
     }
     else {
-        $success = Extract-FilesToStructure $appxFile $packageOutputDir $targetLanguages
+        $success = Export-FilesToStructure $appxFile $packageOutputDir $targetLanguages
     }
 
     if (-not $success) {
