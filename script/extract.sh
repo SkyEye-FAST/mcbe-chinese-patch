@@ -58,6 +58,11 @@ convert_lang_to_json() {
             gsub(/^[[:space:]]+|[[:space:]]+$/, "", key)
             gsub(/^[[:space:]]+|[[:space:]]+$/, "", value)
 
+            if (key in seen_keys) {
+                next
+            }
+            seen_keys[key] = 1
+
             gsub(/\\/, "\\\\", key)
             gsub(/"/, "\\\"", key)
             gsub(/\\/, "\\\\", value)
@@ -73,8 +78,7 @@ convert_lang_to_json() {
     }
 
     END {
-        print ""
-        print "}"
+        printf "\n}"
     }' > "$output_file"
 }
 
@@ -185,7 +189,7 @@ extract_release_files() {
         fi
 
         local relative_path=$(echo "$file" | sed "s|^$temp_dir/data/resource_packs/||" | sed "s|/texts/|/|")
-        
+
         if [[ "$relative_path" == *"beta/"* ]]; then
             echo "  Skipping beta path: $relative_path" >&2
             continue
