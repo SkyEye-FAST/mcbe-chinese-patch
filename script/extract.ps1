@@ -28,6 +28,34 @@ function Get-AppxFile($Name) {
     return $null
 }
 
+function Convert-LangToJson($langContent) {
+    $jsonData = New-Object System.Collections.Specialized.OrderedDictionary
+
+    foreach ($line in $langContent) {
+        $line = $line.Trim()
+
+        if ([string]::IsNullOrWhiteSpace($line)) {
+            continue
+        }
+
+        if ($line.StartsWith("# ")) {
+            continue
+        }
+
+        $equalIndex = $line.IndexOf('=')
+        if ($equalIndex -gt 0) {
+            $key = $line.Substring(0, $equalIndex).Trim()
+            $value = $line.Substring($equalIndex + 1).Trim()
+
+            if (-not $jsonData.Contains($key)) {
+                $jsonData[$key] = $value
+            }
+        }
+    }
+
+    return $jsonData
+}
+
 function Get-TextsFromZip($zipPath, $extractDir, $targetLanguages) {
     Write-Host "Extracting texts folders from $zipPath..."
 
@@ -117,11 +145,21 @@ foreach ($package in $packageInfo) {
     foreach ($langFile in $targetLanguages) {
         if ($langContents[$langFile] -and $langContents[$langFile].Count -gt 0) {
             $foundAnyLangFiles = $true
+
+            # Output .lang file
             $outputFile = Join-Path $packageOutputDir $langFile
             $content = ($langContents[$langFile] -join "`n") + "`n"
             $utf8NoBom = New-Object System.Text.UTF8Encoding $false
             [System.IO.File]::WriteAllText($outputFile, $content, $utf8NoBom)
             Write-Host "Created $($package.FolderName)\$langFile with $($langContents[$langFile].Count) lines" -ForegroundColor Green
+
+            # Convert to JSON and output .json file
+            $jsonData = Convert-LangToJson $langContents[$langFile]
+            $jsonFile = $langFile -replace '\.lang$', '.json'
+            $jsonOutputFile = Join-Path $packageOutputDir $jsonFile
+            $jsonContent = $jsonData | ConvertTo-Json -Depth 100 -Compress:$false
+            [System.IO.File]::WriteAllText($jsonOutputFile, $jsonContent, $utf8NoBom)
+            Write-Host "Created $($package.FolderName)\$jsonFile with $($jsonData.Count) entries" -ForegroundColor Green
         }
     }
 
