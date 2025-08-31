@@ -1,5 +1,3 @@
-$ErrorActionPreference = 'Stop'
-
 $mergeOrder = @(
     'vanilla',
     'experimental_*',
