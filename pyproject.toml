@@ -1,0 +1,7 @@
+[project]
+name = "mcbe-chinese-patch"
+version = "0.1.0"
+description = "Minecraft: Bedrock Edition Chinese Language Patch Tools"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ["requests>=2.31.0", "beautifulsoup4>=4.12.0"]
