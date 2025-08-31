@@ -1,5 +1,3 @@
-param()
-
 $ErrorActionPreference = 'Stop'
 
 $mergeOrder = @(
