@@ -4,10 +4,11 @@ This script merges multiple language JSON files from different resource packs
 into consolidated files for release, beta, and preview versions.
 """
 
-import json
 import sys
 from pathlib import Path
 from typing import Any, TypedDict
+
+import orjson
 
 
 class TargetConfig(TypedDict):
@@ -55,16 +56,15 @@ def merge_lang_files(file_list: list[Path]) -> dict[str, Any]:
     merged: dict[str, Any] = {}
 
     for file_path in file_list:
-        if file_path.exists():
-            try:
-                with file_path.open("r", encoding="utf-8") as f:
-                    data = json.load(f)
-                    for key, value in data.items():
-                        if key not in merged:
-                            merged[key] = value
-            except (json.JSONDecodeError, FileNotFoundError, PermissionError) as e:
-                print(f"Warning: Failed to read {file_path}: {e}", file=sys.stderr)
-                continue
+        if not file_path.exists():
+            continue
+
+        try:
+            with file_path.open("r", encoding="utf-8") as f:
+                data = orjson.loads(f.read())
+                merged.update({k: v for k, v in data.items() if k not in merged})
+        except (orjson.JSONDecodeError, FileNotFoundError, PermissionError) as e:
+            print(f"Warning: Failed to read {file_path}: {e}", file=sys.stderr)
 
     return dict(sorted(merged.items()))
 
@@ -105,6 +105,35 @@ def get_ordered_subdirs(base_dir: Path, exclude_dirs: list[str] | None = None) -
     return ordered
 
 
+def get_target_subdirs(src_dir: Path, target_name: str) -> list[str]:
+    """Get ordered subdirectories for a specific target.
+
+    Args:
+        src_dir (Path): Source directory path
+        target_name (str): Target name (release, beta, or preview)
+
+    Returns:
+        list[str]: List of ordered subdirectory paths
+    """
+    target_config = {
+        "beta": {"exclude": ["previewapp"], "special_dir": "beta"},
+        "preview": {"exclude": ["beta"], "special_dir": "previewapp"},
+    }
+
+    if target_name not in target_config:
+        return get_ordered_subdirs(src_dir)
+
+    config = target_config[target_name]
+    ordered_subdirs = get_ordered_subdirs(src_dir, exclude_dirs=config["exclude"])
+
+    special_dir = src_dir / config["special_dir"]
+    if special_dir.exists():
+        special_subdirs = get_ordered_subdirs(special_dir)
+        ordered_subdirs.extend(f"{config['special_dir']}/{subdir}" for subdir in special_subdirs)
+
+    return ordered_subdirs
+
+
 def process_target(target: TargetConfig, base_dir: Path) -> None:
     """Process a single target configuration (release, beta, or preview).
 
@@ -120,20 +149,7 @@ def process_target(target: TargetConfig, base_dir: Path) -> None:
     out_dir = base_dir / "merged" / target["name"]
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    if target["name"] == "beta":
-        ordered_subdirs = get_ordered_subdirs(src_dir, exclude_dirs=["previewapp"])
-        beta_dir = src_dir / "beta"
-        if beta_dir.exists():
-            beta_subdirs = get_ordered_subdirs(beta_dir)
-            ordered_subdirs.extend(f"beta/{subdir}" for subdir in beta_subdirs)
-    elif target["name"] == "preview":
-        ordered_subdirs = get_ordered_subdirs(src_dir, exclude_dirs=["beta"])
-        preview_dir = src_dir / "previewapp"
-        if preview_dir.exists():
-            preview_subdirs = get_ordered_subdirs(preview_dir)
-            ordered_subdirs.extend(f"previewapp/{subdir}" for subdir in preview_subdirs)
-    else:
-        ordered_subdirs = get_ordered_subdirs(src_dir)
+    ordered_subdirs = get_target_subdirs(src_dir, target["name"])
 
     for lang_file in LANG_FILES:
         file_list: list[Path] = []
@@ -152,8 +168,9 @@ def process_target(target: TargetConfig, base_dir: Path) -> None:
 
         output_file = out_dir / lang_file
         try:
-            with output_file.open("w", encoding="utf-8", newline="\n") as f:
-                json.dump(merged_data, f, ensure_ascii=False, indent=2, sort_keys=True)
+            with output_file.open("wb") as f:
+                options = orjson.OPT_INDENT_2 | orjson.OPT_SORT_KEYS
+                f.write(orjson.dumps(merged_data, option=options))
 
             print(f"Merged {len(file_list)} files to {output_file}")
             print(f"  Total keys: {len(merged_data)}")

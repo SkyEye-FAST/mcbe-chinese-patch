@@ -4,7 +4,6 @@ This script downloads Minecraft Bedrock Edition appx packages and extracts
 language files from them, converting .lang files to both .lang and .json formats.
 """
 
-import json
 import re
 import sys
 import zipfile
@@ -12,6 +11,7 @@ from collections import OrderedDict
 from pathlib import Path
 from typing import TypedDict
 
+import orjson
 import requests
 from bs4 import BeautifulSoup, Tag
 
@@ -96,19 +96,17 @@ def get_appx_file(package_name: str, base_dir: Path) -> Path | None:
                                 f.write(chunk)
                                 downloaded_size += len(chunk)
 
+                                downloaded_mb = downloaded_size / 1024 / 1024
                                 if total_size > 0:
                                     progress = (downloaded_size / total_size) * 100
-                                    downloaded_mb = downloaded_size / 1024 / 1024
                                     total_mb = total_size / 1024 / 1024
                                     progress_text = (
                                         f"\r  Progress: {progress:.1f}% "
                                         f"({downloaded_mb:.1f}/{total_mb:.1f} MB)"
                                     )
-                                    print(progress_text, end="", flush=True)
                                 else:
-                                    downloaded_mb = downloaded_size / 1024 / 1024
                                     progress_text = f"\r  Downloaded: {downloaded_mb:.1f} MB"
-                                    print(progress_text, end="", flush=True)
+                                print(progress_text, end="", flush=True)
                     print()
                 return appx_path
             except requests.RequestException as e:
@@ -134,7 +132,7 @@ def convert_lang_to_json(lang_content: str) -> OrderedDict[str, str]:
     json_data: OrderedDict[str, str] = OrderedDict()
 
     for line in lang_content.splitlines():
-        line = line.strip(" \t\r\n\f\v")
+        line = line.strip(" \t\r\n\f\v")  # Keep U+00A0
 
         if not line or line.startswith("##"):
             continue
@@ -183,6 +181,24 @@ def remove_duplicate_keys(lang_content: str) -> str:
     return "\n".join(result_lines)
 
 
+def clean_lang_content(raw_content: str) -> str:
+    """Clean and normalize language file content.
+
+    Args:
+        raw_content (str): Raw content from the language file
+
+    Returns:
+        str: Cleaned content with normalized line endings and no empty lines
+    """
+    cleaned_content = raw_content.replace("\ufeff", "").replace("\r\n", "\n").replace("\r", "\n")
+
+    cleaned_content = "\n".join(
+        line for line in cleaned_content.splitlines() if line.strip(" \t\r\n\f\v")
+    )
+
+    return remove_duplicate_keys(cleaned_content) if cleaned_content.strip() else ""
+
+
 def export_files_to_structure(
     zip_path: Path, base_output_dir: Path, target_languages: list[str]
 ) -> bool:
@@ -217,26 +233,18 @@ def export_files_to_structure(
                 if filename not in target_languages:
                     continue
 
-                print(f"  Processing: {entry.filename}")
-
-                raw_content = zip_file.read(entry).decode("utf-8", errors="ignore")
-
-                cleaned_content = (
-                    raw_content.replace("\ufeff", "").replace("\r\n", "\n").replace("\r", "\n")
-                )
-
-                cleaned_content = "\n".join(
-                    line for line in cleaned_content.splitlines() if line.strip(" \t\r\n\f\v")
-                )
-
-                if not cleaned_content.strip():
-                    continue
-
-                cleaned_content = remove_duplicate_keys(cleaned_content)
-
                 relative_path = entry.filename.replace("data/resource_packs/", "").replace(
                     "/texts/", "/"
                 )
+
+                print(f"  Processing: {entry.filename}")
+
+                raw_content = zip_file.read(entry).decode("utf-8", errors="ignore")
+                cleaned_content = clean_lang_content(raw_content)
+
+                if not cleaned_content:
+                    continue
+
                 output_file = base_output_dir / relative_path
                 output_file.parent.mkdir(parents=True, exist_ok=True)
 
@@ -246,8 +254,8 @@ def export_files_to_structure(
                 json_data = convert_lang_to_json(cleaned_content)
                 json_file = output_file.with_suffix(".json")
 
-                with json_file.open("w", encoding="utf-8", newline="\n") as f:
-                    json.dump(json_data, f, ensure_ascii=False, indent=2)
+                with json_file.open("wb") as f:
+                    f.write(orjson.dumps(json_data, option=orjson.OPT_INDENT_2))
 
                 json_relative_path = relative_path.replace(".lang", ".json")
                 print(f"Created {json_relative_path} with {len(json_data)} entries")
@@ -301,6 +309,7 @@ def export_release_files(
                 relative_path = entry.filename.replace("data/resource_packs/", "").replace(
                     "/texts/", "/"
                 )
+
                 if "beta/" in relative_path:
                     print(f"  Skipping beta path: {relative_path}")
                     continue
@@ -308,19 +317,10 @@ def export_release_files(
                 print(f"  Processing: {entry.filename}")
 
                 raw_content = zip_file.read(entry).decode("utf-8", errors="ignore")
+                cleaned_content = clean_lang_content(raw_content)
 
-                cleaned_content = (
-                    raw_content.replace("\ufeff", "").replace("\r\n", "\n").replace("\r", "\n")
-                )
-
-                cleaned_content = "\n".join(
-                    line for line in cleaned_content.splitlines() if line.strip(" \t\r\n\f\v")
-                )
-
-                if not cleaned_content.strip():
+                if not cleaned_content:
                     continue
-
-                cleaned_content = remove_duplicate_keys(cleaned_content)
 
                 output_file = base_output_dir / relative_path
                 output_file.parent.mkdir(parents=True, exist_ok=True)
@@ -331,8 +331,8 @@ def export_release_files(
                 json_data = convert_lang_to_json(cleaned_content)
                 json_file = output_file.with_suffix(".json")
 
-                with json_file.open("w", encoding="utf-8", newline="\n") as f:
-                    json.dump(json_data, f, ensure_ascii=False, indent=2)
+                with json_file.open("wb") as f:
+                    f.write(orjson.dumps(json_data, option=orjson.OPT_INDENT_2))
 
                 json_relative_path = relative_path.replace(".lang", ".json")
                 print(f"Created {json_relative_path} with {len(json_data)} entries")
@@ -361,13 +361,9 @@ def main() -> None:
     print(f"Base directory: {base_dir}")
     print(f"Output directory: {output_dir}")
 
-    first_package = True
-    for package in PACKAGE_INFO:
-        if first_package:
-            print(f"\nProcessing package: {package['name']}")
-            first_package = False
-        else:
-            print(f"\n\nProcessing package: {package['name']}")
+    for i, package in enumerate(PACKAGE_INFO):
+        prefix = "\n" if i == 0 else "\n\n"
+        print(f"{prefix}Processing package: {package['name']}")
 
         appx_file = get_appx_file(package["name"], base_dir)
 
@@ -378,8 +374,8 @@ def main() -> None:
         package_output_dir = output_dir / package["folder_name"]
         package_output_dir.mkdir(exist_ok=True)
 
-        success = False
-        if package["name"] == "Microsoft.MinecraftUWP_8wekyb3d8bbwe":
+        is_release = package["name"] == "Microsoft.MinecraftUWP_8wekyb3d8bbwe"
+        if is_release:
             success = export_release_files(appx_file, package_output_dir, TARGET_LANGUAGES)
         else:
             success = export_files_to_structure(appx_file, package_output_dir, TARGET_LANGUAGES)
