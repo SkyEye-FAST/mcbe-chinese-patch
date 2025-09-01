@@ -1,1 +1,10 @@
-files: []
+files:
+  - source: /merged/release/en_US.json
+    translation: /patched/release/%locale_with_underscore%.json
+    multilingual: 1
+  - source: /merged/beta/en_US.json
+    translation: /patched/beta/%locale_with_underscore%.json
+    multilingual: 1
+  - source: /merged/preview/en_US.json
+    translation: /patched/preview/%locale_with_underscore%.json
+    multilingual: 1
