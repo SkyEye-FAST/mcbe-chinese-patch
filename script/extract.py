@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Minecraft: Bedrock Edition Language File Extractor.
 
 This script downloads Minecraft Bedrock Edition appx packages and extracts
@@ -135,7 +134,7 @@ def convert_lang_to_json(lang_content: str) -> OrderedDict[str, str]:
     json_data: OrderedDict[str, str] = OrderedDict()
 
     for line in lang_content.splitlines():
-        line = line.strip()
+        line = line.strip(" \t\r\n\f\v")
 
         if not line or line.startswith("##"):
             continue
@@ -143,7 +142,7 @@ def convert_lang_to_json(lang_content: str) -> OrderedDict[str, str]:
         equal_index = line.find("=")
         if equal_index > 0:
             key = line[:equal_index].strip()
-            value = line[equal_index + 1 :].strip()
+            value = line[equal_index + 1 :].strip(" \t\r\n\f\v")
 
             if key not in json_data:
                 json_data[key] = value
@@ -227,7 +226,7 @@ def export_files_to_structure(
                 )
 
                 cleaned_content = "\n".join(
-                    line for line in cleaned_content.splitlines() if line.strip()
+                    line for line in cleaned_content.splitlines() if line.strip(" \t\r\n\f\v")
                 )
 
                 if not cleaned_content.strip():
@@ -315,7 +314,7 @@ def export_release_files(
                 )
 
                 cleaned_content = "\n".join(
-                    line for line in cleaned_content.splitlines() if line.strip()
+                    line for line in cleaned_content.splitlines() if line.strip(" \t\r\n\f\v")
                 )
 
                 if not cleaned_content.strip():

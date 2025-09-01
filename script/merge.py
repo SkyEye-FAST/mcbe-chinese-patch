@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Minecraft: Bedrock Edition Language File Merger.
 
 This script merges multiple language JSON files from different resource packs
