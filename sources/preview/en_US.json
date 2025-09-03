@@ -2436,7 +2436,7 @@
     "crowdinContext": "Original Translation\nzh_CN.json: * %s %s\nzh_TW.json: * %s %s"
   },
   "chat.type.sleeping": {
-    "text": "%s is sleeping in a bed. To skip to dawn, %s more users need to sleep in beds at the same time.",
+    "text": "%s is sleeping in a bed. To skip to dawn, %s more players need to sleep in beds at the same time.",
     "crowdinContext": "Original Translation\nzh_CN.json: %s正在床上睡觉。要快进到黎明，还需要 %s 名用户同时在床上睡觉。\nzh_TW.json: %s 正在床舖上睡覺。如果要讓遊戲時間跳至日出，還要有 %s 位使用者同時睡在床舖上。"
   },
   "chat.type.text": {
@@ -2615,6 +2615,18 @@
     "text": "Uploading world files [%d/%d]",
     "crowdinContext": "Original Translation\nzh_CN.json: 世界文件上传中 [%d/%d]\nzh_TW.json: 上傳世界檔案 [%d/%d]"
   },
+  "codeScreen.IDEDeprecated.body2": {
+    "text": "MakeCode lets you code Minecraft in Blocks, Python or JavaScript. Try it out!",
+    "crowdinContext": "Original Translation"
+  },
+  "codeScreen.IDEDeprecated.title": {
+    "text": "Project Unavailable",
+    "crowdinContext": "Original Translation"
+  },
+  "codeScreen.IDEDeprecated.try": {
+    "text": "Try MakeCode",
+    "crowdinContext": "Original Translation"
+  },
   "codeScreen.aznbReset.body": {
     "text": "You are about to clear all projects. This operation can't be undone. Are you sure?",
     "crowdinContext": "Original Translation\nzh_CN.json: 您即将清除所有项目。无法撤消此操作。是否确定？\nzh_TW.json: 您即將清除所有專案。此操作將無法復原。是否確定清除？"
@@ -2622,6 +2634,10 @@
   "codeScreen.aznbReset.title": {
     "text": "Reset All Notebooks",
     "crowdinContext": "Original Translation\nzh_CN.json: 重置所有笔记本\nzh_TW.json: 重置所有筆記本"
+  },
+  "codeScreen.azurenotebooksDeprecated.body1": {
+    "text": "Azure Notebooks projects are no longer supported in Minecraft Education.",
+    "crowdinContext": "Original Translation"
   },
   "codeScreen.button.changeEditor": {
     "text": "Change Editor",
@@ -2667,18 +2683,6 @@
     "text": "Move Right",
     "crowdinContext": "Original Translation\nzh_CN.json: 向右移动\nzh_TW.json: 往右"
   },
-  "codeScreen.changeEditorModal.change": {
-    "text": "Change",
-    "crowdinContext": "Original Translation\nzh_CN.json: 更改\nzh_TW.json: 變更"
-  },
-  "codeScreen.changeEditorModal.title": {
-    "text": "Change Editor",
-    "crowdinContext": "Original Translation\nzh_CN.json: 更改编辑器\nzh_TW.json: 變更編輯器"
-  },
-  "codeScreen.chooseEditor": {
-    "text": "Choose your editor:",
-    "crowdinContext": "Original Translation\nzh_CN.json: 选择编辑器：\nzh_TW.json: 選擇編輯工具："
-  },
   "codeScreen.deprecatedIDE.body": {
     "text": "It's time to think about switching to MakeCode for your coding adventures. Tynker will be available until July 2025. Python Notebooks will be phased out no earlier than January 2026.",
     "crowdinContext": "Original Translation\nzh_CN.json: 是时候考虑改用 MakeCode 进行编码冒险了。Tynker 将持续可用到 2025 年 7 月。Python Notebooks 将在 2026 年 1 月之前逐步淘汰。\nzh_TW.json: 是時候考慮改用 MakeCode 來展開你的程式設計冒險了。Tynker 將可使用至 2025 年 7 月。Python Notebooks 則不會早於 2026 年 1 月逐步淘汰。"
@@ -2694,14 +2698,6 @@
   "codeScreen.deprecatedIDE.title": {
     "text": "Code Editor Changes",
     "crowdinContext": "Original Translation\nzh_CN.json: 代码编辑器更改\nzh_TW.json: 代碼編輯器變更"
-  },
-  "codeScreen.editor.description.aznb": {
-    "text": "Python Notebooks - Until January 2026",
-    "crowdinContext": "Original Translation\nzh_CN.json: Python Notebooks：至 2026 年 1 月\nzh_TW.json: Python Notebooks - 支援至 2026 年 1 月"
-  },
-  "codeScreen.editor.description.makeCode": {
-    "text": "MakeCode - Code in Minecraft with Blocks, Python or JavaScript!",
-    "crowdinContext": "Original Translation\nzh_CN.json: MakeCode - 在 Minecraft 中使用 Blocks、Python 或 JavaScript 进行编程！\nzh_TW.json: MakeCode - 使用 Blocks、Python 或 JavaScript 在 Minecraft 中寫程式！"
   },
   "codeScreen.filePicker.csvFile": {
     "text": "CSV File",
@@ -2731,10 +2727,6 @@
     "text": "Unable to connect to network, check your network settings.",
     "crowdinContext": "Original Translation\nzh_CN.json: 无法连接网络。请检查您的互联网设置。\nzh_TW.json: 無法連接至網路，請檢查您的網路設定。"
   },
-  "codeScreen.resetWarning": {
-    "text": "Are you sure you want to change the editor you are using? All unsaved work will be lost.",
-    "crowdinContext": "Original Translation\nzh_CN.json: 是否确定要更改正在使用的编辑器？所有未保存的工作都将丢失。\nzh_TW.json: 您是否確定要變更使用中的編輯器？所有未儲存的工作都將遺失。"
-  },
   "codeScreen.title": {
     "text": "Code Builder",
     "crowdinContext": "Original Translation\nzh_CN.json: 代码编辑器\nzh_TW.json: 程式碼生成器"
@@ -2742,18 +2734,6 @@
   "codeScreen.tynkerDeprecated.body1": {
     "text": "Tynker projects are no longer supported in Minecraft Education.",
     "crowdinContext": "Original Translation\nzh_CN.json: Minecraft Education 不再支持 Tynker 项目。\nzh_TW.json: Minecraft Education 已不再支援 Tynker 專案。"
-  },
-  "codeScreen.tynkerDeprecated.body2": {
-    "text": "MakeCode lets you code Minecraft in Blocks, Python or JavaScript. Try it out!",
-    "crowdinContext": "Original Translation\nzh_CN.json: 你可以通过 MakeCode 在 Minecraft 中使用 Blocks、Python 或 JavaScript 进行编程。来试试吧！\nzh_TW.json: MakeCode 讓你能使用 Blocks、Python 或 JavaScript 在 Minecraft 中寫程式。試試看！"
-  },
-  "codeScreen.tynkerDeprecated.title": {
-    "text": "Project Unavailable",
-    "crowdinContext": "Original Translation\nzh_CN.json: 项目不可用\nzh_TW.json: 專案無法使用"
-  },
-  "codeScreen.tynkerDeprecated.try": {
-    "text": "Try MakeCode",
-    "crowdinContext": "Original Translation\nzh_CN.json: 尝试 MakeCode\nzh_TW.json: 嘗試 MakeCode"
   },
   "color.aqua": {
     "text": "Aqua",
@@ -6802,6 +6782,14 @@
   "content.import.succeeded_with_warnings.subtitle": {
     "text": "Click here for more info",
     "crowdinContext": "Original Translation\nzh_CN.json: 点击此处查看更多信息\nzh_TW.json: 按此取得更多資訊"
+  },
+  "content.load.failed": {
+    "text": "Failed to load content for pack %s",
+    "crowdinContext": "Original Translation"
+  },
+  "content.load.failed.subtitle": {
+    "text": "Check your pack for errors and try importing again",
+    "crowdinContext": "Original Translation"
   },
   "contentlog.clear_files": {
     "text": "Delete Old Logs",
@@ -11275,6 +11263,34 @@
     "text": "Exporting world was Successful. World Location: %s",
     "crowdinContext": "Original Translation\nzh_CN.json: 成功导出世界。世界位置：%s\nzh_TW.json: 匯出世界成功。世界位置：%s"
   },
+  "editor.sharedUtils.modaldialogconfirmation.No": {
+    "text": "No",
+    "crowdinContext": "Original Translation"
+  },
+  "editor.sharedUtils.modaldialogconfirmation.cancel": {
+    "text": "Cancel",
+    "crowdinContext": "Original Translation"
+  },
+  "editor.sharedUtils.modaldialogconfirmation.title": {
+    "text": "Are you sure?",
+    "crowdinContext": "Original Translation"
+  },
+  "editor.sharedUtils.modaldialogconfirmation.yes": {
+    "text": "Yes",
+    "crowdinContext": "Original Translation"
+  },
+  "editor.sharedUtils.modaldialogstringinput.cancel": {
+    "text": "Cancel",
+    "crowdinContext": "Original Translation"
+  },
+  "editor.sharedUtils.modaldialogstringinput.ok": {
+    "text": "OK",
+    "crowdinContext": "Original Translation"
+  },
+  "editor.sharedUtils.modaldialogstringinput.title": {
+    "text": "Input Required",
+    "crowdinContext": "Original Translation"
+  },
   "editor.vibrantVisuals.pane.graphicsProgress": {
     "text": "Refreshing graphics, please wait...",
     "crowdinContext": "Original Translation\nzh_CN.json: 正在刷新图形，请稍候…\nzh_TW.json: 正在重新整理圖形，請稍候…"
@@ -11450,6 +11466,14 @@
   "edu.servers_screen.title": {
     "text": "Servers",
     "crowdinContext": "Original Translation\nzh_CN.json: 服务器\nzh_TW.json: 伺服器"
+  },
+  "edu.servers_screen.world.disabled": {
+    "text": "Disabled",
+    "crowdinContext": "Original Translation"
+  },
+  "edu.servers_screen.world.unavailable": {
+    "text": "Unavailable",
+    "crowdinContext": "Original Translation"
   },
   "edu.signin_screen.viewTerms": {
     "text": "View Terms",
@@ -18913,7 +18937,7 @@
   },
   "hbui.DropdownItem.elementType": {
     "text": "item",
-    "crowdinContext": "Original Translation\nzh_CN.json: 项目\nzh_TW.json: 物品"
+    "crowdinContext": "Original Translation\nzh_CN.json: 物品\nzh_TW.json: 物品"
   },
   "hbui.DropdownItem.narrationComponentType": {
     "text": "Option",
@@ -18929,7 +18953,7 @@
   },
   "hbui.DropdownItem.unselected": {
     "text": "not selected",
-    "crowdinContext": "Original Translation\nzh_CN.json: 未当选\nzh_TW.json: 未選擇"
+    "crowdinContext": "Original Translation\nzh_CN.json: 未选择\nzh_TW.json: 未選擇"
   },
   "hbui.EditRealmWorld.ConfirmModals.cancel": {
     "text": "Cancel",
@@ -19766,6 +19790,50 @@
   "hbui.EditorConflictMessagesPopup.conflictMessage": {
     "text": "%1$s is already in use and will be removed from %2$s > %3$s if confirmed.",
     "crowdinContext": "Original Translation\nzh_CN.json: %1$s 已在使用中，如果确认，将从 %2$s > %3$s 中移除。\nzh_TW.json: %1$s 已在使用，如果確認，將從 %2$s > %3$s 中移除。"
+  },
+  "hbui.EditorConflictMessagesPopup.reset": {
+    "text": "Reset",
+    "crowdinContext": "Original Translation"
+  },
+  "hbui.EditorConflictMessagesPopup.resetAll": {
+    "text": "Reset All",
+    "crowdinContext": "Original Translation"
+  },
+  "hbui.EditorConflictMessagesPopup.resetAllMessage": {
+    "text": "You are about to reset all keyboard settings changes back to the last saved change.[*newLine]Do you want to continue?",
+    "crowdinContext": "Original Translation"
+  },
+  "hbui.EditorConflictMessagesPopup.resetMessage": {
+    "text": "You are about to reset the keyboard settings changes of this section back to the last saved change.[*newLine]Do you want to continue?",
+    "crowdinContext": "Original Translation"
+  },
+  "hbui.EditorConflictMessagesPopup.restore": {
+    "text": "Restore to Default",
+    "crowdinContext": "Original Translation"
+  },
+  "hbui.EditorConflictMessagesPopup.restoreAll": {
+    "text": "Restore All to Default",
+    "crowdinContext": "Original Translation"
+  },
+  "hbui.EditorConflictMessagesPopup.restoreAllMessage": {
+    "text": "You are about to restore all keyboard settings back to default.[*newLine]Do you want to continue?",
+    "crowdinContext": "Original Translation"
+  },
+  "hbui.EditorConflictMessagesPopup.restoreMessage": {
+    "text": "You are about to restore the keyboard settings of this section back to default.[*newLine]Do you want to continue?",
+    "crowdinContext": "Original Translation"
+  },
+  "hbui.EditorConflictMessagesPopup.revertChangesAndClose": {
+    "text": "Revert Changes & Close",
+    "crowdinContext": "Original Translation"
+  },
+  "hbui.EditorConflictMessagesPopup.saveAllAndClose": {
+    "text": "Save All & Close",
+    "crowdinContext": "Original Translation"
+  },
+  "hbui.EditorConflictMessagesPopup.unsavedChanges": {
+    "text": "You have unsaved changes.[*newLine]You can Save or Restore them all, or Cancel to continue making changes.",
+    "crowdinContext": "Original Translation"
   },
   "hbui.EditorCrosshairMode.toast.modeSwitch": {
     "text": "ESC or %1 to go back to Tool Mode",
@@ -21895,6 +21963,10 @@
     "text": "You’ve been away for a bit. Press any button to jump back into the game",
     "crowdinContext": "Original Translation\nzh_CN.json: 你已经离开了一会儿。按下任意按钮即可返回游戏\nzh_TW.json: 你有一段時間沒回來了。按下任一按鈕即可回到遊戲中"
   },
+  "hbui.ImageTabPane.tabNarration": {
+    "text": "%1%s Tab",
+    "crowdinContext": "Original Translation"
+  },
   "hbui.InboxContentItem.narration.createdBy": {
     "text": "By %1$s",
     "crowdinContext": "Original Translation\nzh_CN.json: 作者：%1$s\nzh_TW.json: 作者：%1$s"
@@ -23323,6 +23395,10 @@
     "text": "Reading error",
     "crowdinContext": "Original Translation\nzh_CN.json: 读取错误\nzh_TW.json: 閱讀錯誤"
   },
+  "hbui.PackListItem.errorPackUnownedContent": {
+    "text": "Unowned content",
+    "crowdinContext": "Original Translation"
+  },
   "hbui.PackListItem.errorPackUnsupportedFormat": {
     "text": "Unsupported format",
     "crowdinContext": "Original Translation\nzh_CN.json: 不支持的格式\nzh_TW.json: 不支援的格式"
@@ -24572,11 +24648,11 @@
     "crowdinContext": "Original Translation\nzh_CN.json: 续订 Realm\nzh_TW.json: 續訂 Realm 定期服務"
   },
   "hbui.PlayScreen.realmsTab.renewRealmsMissingSubscriptionIdModal.description": {
-    "text": "Could not fetch the subscription id. Please try again.",
+    "text": "Could not fetch the subscription ID. Please try again.",
     "crowdinContext": "Original Translation\nzh_CN.json: 无法获取订阅 id。请重试。\nzh_TW.json: 無法擷取訂閱 ID。請再試一次。"
   },
   "hbui.PlayScreen.realmsTab.renewRealmsMissingSubscriptionIdModal.title": {
-    "text": "Missing subscription id",
+    "text": "Missing subscription ID",
     "crowdinContext": "Original Translation\nzh_CN.json: 缺少订阅 id\nzh_TW.json: 缺少訂閱 ID"
   },
   "hbui.PlayScreen.realmsTab.renewRealmsMissingSubscriptionIdModal.tryAgain": {
@@ -25150,6 +25226,10 @@
   "hbui.PlayScreen.unexpectedLaunchErrorModal.missmatchingGameVersion": {
     "text": "A newer version of the game has saved this world. It cannot be loaded.",
     "crowdinContext": "Original Translation\nzh_CN.json: 游戏的最新版本已保存此世界数据，当前版本无法载入。\nzh_TW.json: 遊戲的新版本已經儲存了這個世界，無法載入。"
+  },
+  "hbui.PlayScreen.unexpectedLaunchErrorModal.subscriptionContentExpired": {
+    "text": "Your Marketplace Pass subscription no longer includes at least one of the packs applied to this world. To play, remove the missing packs or purchase it from the marketplace.",
+    "crowdinContext": "Original Translation"
   },
   "hbui.PlayScreen.unexpectedLaunchErrorModal.title": {
     "text": "Something went wrong",
@@ -30115,25 +30195,33 @@
     "text": "%1$s thumbnail updated",
     "crowdinContext": "Original Translation\nzh_CN.json: %1$s 缩略图已更新\nzh_TW.json: %1$s 縮圖已更新"
   },
+  "hbui.Settings.modals.ttsNotSupported.buttonLabel": {
+    "text": "OK",
+    "crowdinContext": "Original Translation"
+  },
+  "hbui.Settings.modals.ttsNotSupported.description": {
+    "text": "The selected language is not supported by Text to Speech.",
+    "crowdinContext": "Original Translation"
+  },
+  "hbui.Settings.modals.ttsNotSupported.title": {
+    "text": "Language not supported",
+    "crowdinContext": "Original Translation"
+  },
   "hbui.Settings.settingsButton.narration.role": {
     "text": "Button",
     "crowdinContext": "Original Translation\nzh_CN.json: 按钮\nzh_TW.json: 按鈕"
   },
+  "hbui.Settings.settingsGroup.narration.componentTypeSectionHeader": {
+    "text": "Group",
+    "crowdinContext": "Original Translation"
+  },
+  "hbui.Settings.settingsGroup.narration.sectionEnumeration": {
+    "text": "%1$s of %2$s",
+    "crowdinContext": "Original Translation"
+  },
   "hbui.Settings.title": {
     "text": "Settings",
     "crowdinContext": "Original Translation\nzh_CN.json: 设置\nzh_TW.json: 設定"
-  },
-  "hbui.SettingsGroupTab.narrationComponentTypeSectionHeader": {
-    "text": "Group",
-    "crowdinContext": "Original Translation\nzh_CN.json: 群组\nzh_TW.json: 群組"
-  },
-  "hbui.SettingsGroupTab.sectionEnumeration": {
-    "text": "%1$s of %2$s",
-    "crowdinContext": "Original Translation\nzh_CN.json: 第 %1$s 个，共 %2$s 个\nzh_TW.json: %1$s/%2$s"
-  },
-  "hbui.SettingsHeader.audio.description": {
-    "text": "Adjust the volume of each aspect of the game to create your perfect soundscape",
-    "crowdinContext": "Original Translation\nzh_CN.json: 调整游戏中各个方面的音量，打造你理想的音景\nzh_TW.json: 調整遊戲各方面的音量，建立完美的音效"
   },
   "hbui.ShareCurrentPlayerProfileModal.title": {
     "text": "Share my profile",
@@ -30266,26 +30354,6 @@
   "hbui.SignInPlayOnServerRoute.signInPrompt": {
     "text": "Sign in or sign up for free to play on featured servers.",
     "crowdinContext": "Original Translation\nzh_CN.json: 登录或免费注册以在推荐服务器上游玩。\nzh_TW.json: 登入或免費註冊，在精選伺服器上遊玩。"
-  },
-  "hbui.SignInSavePurchasesRoute.createAccountPrompt": {
-    "text": "Don't have a Microsoft account? Create one now - for free!",
-    "crowdinContext": "Original Translation\nzh_CN.json: 没有 Microsoft 帐户？立即免费创建一个！\nzh_TW.json: 還沒有 Microsoft 帳號嗎？立即免費建立帳號吧！"
-  },
-  "hbui.SignInSavePurchasesRoute.laterButton": {
-    "text": "Maybe later",
-    "crowdinContext": "Original Translation\nzh_CN.json: 过一会吧\nzh_TW.json: 稍後再說"
-  },
-  "hbui.SignInSavePurchasesRoute.signInButton": {
-    "text": "Sign in now",
-    "crowdinContext": "Original Translation\nzh_CN.json: 立即登录\nzh_TW.json: 立即登入"
-  },
-  "hbui.SignInSavePurchasesRoute.signInHeader": {
-    "text": "Save your purchases",
-    "crowdinContext": "Original Translation\nzh_CN.json: 保存您的购买物品\nzh_TW.json: 儲存你的購買項目"
-  },
-  "hbui.SignInSavePurchasesRoute.signInPrompt": {
-    "text": "Sign in or sign up for free to save your Marketplace purchases.",
-    "crowdinContext": "Original Translation\nzh_CN.json: 登录或免费注册以保存您在市场中购买的物品。\nzh_TW.json: 登入或免費註冊，儲存你在市集中的購買項目。"
   },
   "hbui.SignInWorldsFriendsServersRoute.createAccountPrompt": {
     "text": "Don't have a Microsoft account? Create one now - for free!",
@@ -43776,7 +43844,7 @@
     "crowdinContext": "Original Translation\nzh_CN.json: 打开辅助功能设置\nzh_TW.json: 開啟協助工具設定"
   },
   "menu.accessibility.access.nogamepad": {
-    "text": "Select the Accessibility Tab to to open the Accessibility Settings.",
+    "text": "Select the Accessibility Tab to open the Accessibility Settings.",
     "crowdinContext": "Original Translation\nzh_CN.json: 选择”辅助功能“选项卡以打开”辅助功能设置“。\nzh_TW.json: 選擇「協助工具」分頁以開啟協助工具設定。"
   },
   "menu.accessibility.access.noicon": {
@@ -43828,7 +43896,7 @@
     "crowdinContext": "Original Translation\nzh_CN.json: 按 :_gamepad_face_button_down: 打开”音频设置“。\nzh_TW.json: 按下 :_gamepad_face_button_down: 來開啟音訊設定。"
   },
   "menu.audio.access.nogamepad": {
-    "text": "Select the Audio Tab to to open the Audio Settings.",
+    "text": "Select the Audio Tab to open the Audio Settings.",
     "crowdinContext": "Original Translation\nzh_CN.json: 选择”音频“选项卡以打开”音频设置“。\nzh_TW.json: 選擇音訊分頁來開啟音訊設定。"
   },
   "menu.audio.access.noicon": {
@@ -43927,6 +43995,42 @@
     "text": "Game menu",
     "crowdinContext": "Original Translation\nzh_CN.json: 游戏菜单\nzh_TW.json: 遊戲目錄"
   },
+  "menu.general.access": {
+    "text": "Press :_gamepad_face_button_down: to open the General Settings.",
+    "crowdinContext": "Original Translation"
+  },
+  "menu.general.access.button": {
+    "text": "Open general settings",
+    "crowdinContext": "Original Translation"
+  },
+  "menu.general.access.nogamepad": {
+    "text": "Select the General Tab to open the General Settings.",
+    "crowdinContext": "Original Translation"
+  },
+  "menu.general.access.noicon": {
+    "text": "Select [A] to open the Accessibility Settings.",
+    "crowdinContext": "Original Translation"
+  },
+  "menu.general.generalMessage": {
+    "text": "We have moved the general settingns.",
+    "crowdinContext": "Original Translation"
+  },
+  "menu.general.tab.exp_power_saving.title": {
+    "text": "Experimental Power-Saving Features",
+    "crowdinContext": "Original Translation"
+  },
+  "menu.general.tab.licenses.title": {
+    "text": "Licenses",
+    "crowdinContext": "Original Translation"
+  },
+  "menu.general.tab.network.title": {
+    "text": "Network",
+    "crowdinContext": "Original Translation"
+  },
+  "menu.general.tab.title": {
+    "text": "General",
+    "crowdinContext": "Original Translation"
+  },
   "menu.generatingLevel": {
     "text": "Generating World",
     "crowdinContext": "Original Translation\nzh_CN.json: 正在生成世界\nzh_TW.json: 正在生成世界"
@@ -43970,6 +44074,26 @@
   "menu.inbox": {
     "text": "Inbox",
     "crowdinContext": "Original Translation\nzh_CN.json: 收件箱\nzh_TW.json: 收件匣"
+  },
+  "menu.language.access.nogamepad": {
+    "text": "Select the Language Tab to open the Language Settings.",
+    "crowdinContext": "Original Translation"
+  },
+  "menu.language.access.noicon": {
+    "text": "Select [A] to open the Language Settings.",
+    "crowdinContext": "Original Translation"
+  },
+  "menu.language.generalMessage": {
+    "text": "Language settings.",
+    "crowdinContext": "Original Translation"
+  },
+  "menu.language.tab.description": {
+    "text": "Select your preferred language for Minecraft",
+    "crowdinContext": "Original Translation"
+  },
+  "menu.language.tab.title": {
+    "text": "Language",
+    "crowdinContext": "Original Translation"
   },
   "menu.loadingLevel": {
     "text": "Loading world",
@@ -44160,7 +44284,7 @@
     "crowdinContext": "Original Translation\nzh_CN.json: 按 :_gamepad_face_button_down: 打开”视频设置“。\nzh_TW.json: 按下 :_gamepad_face_button_down: 開啟視訊設定。"
   },
   "menu.video.access.nogamepad": {
-    "text": "Select the Video Tab to to open the Video Settings.",
+    "text": "Select the Video Tab to open the Video Settings.",
     "crowdinContext": "Original Translation\nzh_CN.json: 选择“视频选项卡”打开“视频设置”。\nzh_TW.json: 選取視訊分頁以開啟視訊設定。"
   },
   "menu.video.access.noicon": {
@@ -45095,9 +45219,9 @@
     "text": "Enable Single Sign On",
     "crowdinContext": "Original Translation\nzh_CN.json: 启用单点登录\nzh_TW.json: 啟用單次登入"
   },
-  "options.adjustBrightness": {
-    "text": "Adjust your brightness until you can only see two creeper faces.",
-    "crowdinContext": "Original Translation\nzh_CN.json: 调整亮度，直到您只能看到两个苦力怕面部。\nzh_TW.json: 調整你的亮度，直到你只能看見兩張苦力怕的臉為止。"
+  "options.adjustGamma": {
+    "text": "Adjust the slider until you can barely see the darkest image.",
+    "crowdinContext": "Original Translation"
   },
   "options.advancedButton": {
     "text": "Advanced Video Settings...",
@@ -45155,6 +45279,10 @@
     "text": "Attribution",
     "crowdinContext": "Original Translation\nzh_CN.json: 署名\nzh_TW.json: 署名"
   },
+  "options.attribution.buttonLabel": {
+    "text": "View",
+    "crowdinContext": "Original Translation"
+  },
   "options.autoUpdateEnabled": {
     "text": "Auto Update Unlocked Packs",
     "crowdinContext": "Original Translation\nzh_CN.json: 自动更新已解锁的包\nzh_TW.json: 自動更新已解鎖套件"
@@ -45186,18 +45314,6 @@
   "options.bloomStrengthSlider": {
     "text": "Bloom",
     "crowdinContext": "Original Translation\nzh_CN.json: 光晕\nzh_TW.json: 泛光"
-  },
-  "options.brightness.barelyVisible": {
-    "text": "Barely Visible",
-    "crowdinContext": "Original Translation\nzh_CN.json: 几乎看不见\nzh_TW.json: 隱約可見"
-  },
-  "options.brightness.easilyVisible": {
-    "text": "Easily Visible",
-    "crowdinContext": "Original Translation\nzh_CN.json: 清晰可见\nzh_TW.json: 容易看見"
-  },
-  "options.brightness.notVisible": {
-    "text": "Not Visible",
-    "crowdinContext": "Original Translation\nzh_CN.json: 不可见\nzh_TW.json: 看不見"
   },
   "options.bubbleparticles": {
     "text": "Fancy Bubbles",
@@ -45619,9 +45735,17 @@
     "text": "Credits",
     "crowdinContext": "Original Translation\nzh_CN.json: 制作团队\nzh_TW.json: 製作群"
   },
+  "options.credits.buttonLabel": {
+    "text": "View",
+    "crowdinContext": "Original Translation"
+  },
   "options.crossPlatformMultiplayerDisabled": {
     "text": "Content active in this world cannot be used in cross-platform multiplayer.",
     "crowdinContext": "Original Translation\nzh_CN.json: 无法在跨平台多人游戏中使用这个世界中活跃的内容。\nzh_TW.json: 此世界中啟用的內容無法在跨平台多人遊戲中使用。"
+  },
+  "options.crossplatformgame": {
+    "text": "Enable Cross-Platform Play",
+    "crowdinContext": "Original Translation"
   },
   "options.crouch": {
     "text": "Sneak",
@@ -45838,18 +45962,6 @@
   "options.dev_attachPosRenderLevel": {
     "text": "Render Attach Positions",
     "crowdinContext": "Original Translation\nzh_CN.json: 渲染连接位置\nzh_TW.json: 轉譯連接位置"
-  },
-  "options.dev_azure_notebooks_environment": {
-    "text": "Azure Notebooks (AZNB) Environment (requires editor restart)",
-    "crowdinContext": "Original Translation\nzh_CN.json: Azure Notebooks (AZNB) 环境（需要重新启动编辑器）\nzh_TW.json: Azure Notebook (AZNB) 環境 (需重新啟動編輯器)"
-  },
-  "options.dev_azure_notebooks_environment.prod": {
-    "text": "Production",
-    "crowdinContext": "Original Translation\nzh_CN.json: 生产\nzh_TW.json: 製作"
-  },
-  "options.dev_azure_notebooks_environment.staging": {
-    "text": "Staging",
-    "crowdinContext": "Original Translation\nzh_CN.json: 预备\nzh_TW.json: 預備"
   },
   "options.dev_chunkMapMode": {
     "text": "Chunk Map View Mode",
@@ -46088,7 +46200,7 @@
     "crowdinContext": "Original Translation\nzh_CN.json: 预备\nzh_TW.json: 預備"
   },
   "options.dev_education_services_environment": {
-    "text": "Education Services (MUTS) Environment (requires restart)",
+    "text": "Education Services (MESS) Environment (requires restart)",
     "crowdinContext": "Original Translation\nzh_CN.json: 教育服务（MUTS）环境（需要重新启动）\nzh_TW.json: 教育服務 (MUTS) 環境 (需要重新啟動)"
   },
   "options.dev_enableDebugHudOverlay": {
@@ -46895,6 +47007,10 @@
     "text": "Font License",
     "crowdinContext": "Original Translation\nzh_CN.json: 字体证书\nzh_TW.json: 字體授權"
   },
+  "options.font_license.buttonLabel": {
+    "text": "Open",
+    "crowdinContext": "Original Translation"
+  },
   "options.font_license_body": {
     "text": "%1",
     "crowdinContext": "Original Translation\nzh_CN.json: %1\nzh_TW.json: %1"
@@ -46980,7 +47096,7 @@
     "crowdinContext": "Original Translation\nzh_CN.json: 昏暗\nzh_TW.json: 昏暗"
   },
   "options.gammaIntensity": {
-    "text": "Adjust Brightness",
+    "text": "Adjust Gamma",
     "crowdinContext": "Original Translation\nzh_CN.json: 调整亮度\nzh_TW.json: 調整亮度"
   },
   "options.general": {
@@ -47212,12 +47328,16 @@
     "crowdinContext": "Original Translation\nzh_CN.json: 小\nzh_TW.json: 小"
   },
   "options.hdr_brightness": {
-    "text": "Brightness",
+    "text": "Gamma",
     "crowdinContext": "Original Translation\nzh_CN.json: 亮度\nzh_TW.json: 亮度"
   },
   "options.helpCenter": {
     "text": "Help Center",
     "crowdinContext": "Original Translation\nzh_CN.json: 帮助中心\nzh_TW.json: 説明中心"
+  },
+  "options.helpCenter.buttonLabel": {
+    "text": "Open",
+    "crowdinContext": "Original Translation"
   },
   "options.hidden": {
     "text": "Hidden",
@@ -47422,6 +47542,10 @@
   "options.licensed_content": {
     "text": "Licensed Content",
     "crowdinContext": "Original Translation\nzh_CN.json: 授权内容\nzh_TW.json: 授權內容"
+  },
+  "options.licensed_content.buttonLabel": {
+    "text": "Open",
+    "crowdinContext": "Original Translation"
   },
   "options.licenses": {
     "text": "Licenses",
@@ -47807,6 +47931,14 @@
     "text": "User Profile and Settings",
     "crowdinContext": "Original Translation\nzh_CN.json: 用户档案和设置\nzh_TW.json: 使用者設定檔和設定"
   },
+  "options.protocolVersion": {
+    "text": "Protocol Version",
+    "crowdinContext": "Original Translation"
+  },
+  "options.protocolVersion.buttonLabel": {
+    "text": "Open",
+    "crowdinContext": "Original Translation"
+  },
   "options.protocolversion.format": {
     "text": "Protocol Version: %1%s",
     "crowdinContext": "Original Translation\nzh_CN.json: 协议版本：%1%s\nzh_TW.json: 協定版本：%1%s"
@@ -47966,6 +48098,10 @@
   "options.restartTutorial": {
     "text": "Restart Tutorial",
     "crowdinContext": "Original Translation\nzh_CN.json: 重启教程\nzh_TW.json: 重新啟動教學"
+  },
+  "options.restartTutorial.buttonLabel": {
+    "text": "Restart",
+    "crowdinContext": "Original Translation"
   },
   "options.safeZone": {
     "text": "Safe Area",
@@ -48375,6 +48511,10 @@
     "text": "Terms and Conditions",
     "crowdinContext": "Original Translation\nzh_CN.json: 条款和条件\nzh_TW.json: 條款與條件"
   },
+  "options.termsAndConditions.buttonLabel": {
+    "text": "Open",
+    "crowdinContext": "Original Translation"
+  },
   "options.terrainShadowsEnable": {
     "text": "Terrain Shadows",
     "crowdinContext": "Original Translation\nzh_CN.json: 地形阴影\nzh_TW.json: 地形陰影"
@@ -48482,6 +48622,10 @@
   "options.tutorial": {
     "text": "Tutorial",
     "crowdinContext": "Original Translation\nzh_CN.json: 教程\nzh_TW.json: 教學課程"
+  },
+  "options.tutorial.description": {
+    "text": "Hints to get going with the basics of Minecraft",
+    "crowdinContext": "Original Translation"
   },
   "options.tutorialHint": {
     "text": "Hints to get going with the basics of Minecraft",
@@ -48974,6 +49118,66 @@
   "packupgradewarning.required_manifest_property_missing": {
     "text": "Missing '%s' element in pack manifest; Defaulting to '%s'.",
     "crowdinContext": "Original Translation\nzh_CN.json: 包清单中缺少 '%s' 元素；默认为 '%s'。\nzh_TW.json: 套件資訊清單中欠缺「%s」元素；預設為「%s」。"
+  },
+  "parties.toast.acceptInviteFailed": {
+    "text": "Failed to accept invite",
+    "crowdinContext": "Original Translation"
+  },
+  "parties.toast.createFailed": {
+    "text": "Failed to create party",
+    "crowdinContext": "Original Translation"
+  },
+  "parties.toast.joinFailed": {
+    "text": "Failed to join party",
+    "crowdinContext": "Original Translation"
+  },
+  "parties.toast.joinedParty": {
+    "text": "You joined a party",
+    "crowdinContext": "Original Translation"
+  },
+  "parties.toast.leaderChanged": {
+    "text": "%s is now the party leader",
+    "crowdinContext": "Original Translation"
+  },
+  "parties.toast.leaveFailed": {
+    "text": "Failed to leave party",
+    "crowdinContext": "Original Translation"
+  },
+  "parties.toast.leftParty": {
+    "text": "You left the party",
+    "crowdinContext": "Original Translation"
+  },
+  "parties.toast.memberJoined": {
+    "text": "%s joined the party",
+    "crowdinContext": "Original Translation"
+  },
+  "parties.toast.memberLeft": {
+    "text": "%s left the party",
+    "crowdinContext": "Original Translation"
+  },
+  "parties.toast.partyInvite": {
+    "text": "Party invite",
+    "crowdinContext": "Original Translation"
+  },
+  "parties.toast.removeMemberFailed": {
+    "text": "Failed to remove party member",
+    "crowdinContext": "Original Translation"
+  },
+  "parties.toast.sendInviteFailed": {
+    "text": "Failed to send invite",
+    "crowdinContext": "Original Translation"
+  },
+  "parties.toast.setLeaderFailed": {
+    "text": "Failed to set party leader",
+    "crowdinContext": "Original Translation"
+  },
+  "parties.toast.travelToMenu": {
+    "text": "Loading the party into the main menu",
+    "crowdinContext": "Original Translation"
+  },
+  "parties.toast.travelToWorld": {
+    "text": "Loading the party into a world",
+    "crowdinContext": "Original Translation"
   },
   "patchNotes.continue": {
     "text": "Continue",
@@ -52631,6 +52835,10 @@
     "text": "You can restore the world on your Realm with a save found in this list.",
     "crowdinContext": "Original Translation\nzh_CN.json: 你可以用该列表中的一项备份来恢复你的 Realm 世界。\nzh_TW.json: 你可以用清單中的存檔來還原你的 Realm。"
   },
+  "realmsSettingsScreen.restoreWorldAdditional": {
+    "text": "During the course of gameplay some saves will expire and be replaced.",
+    "crowdinContext": "Original Translation"
+  },
   "realmsSettingsScreen.saveActiveWorld": {
     "text": "Save active world",
     "crowdinContext": "Original Translation\nzh_CN.json: 保存启用的世界\nzh_TW.json: 儲存目前世界"
@@ -52671,12 +52879,8 @@
     "text": "%1$s saved",
     "crowdinContext": "Original Translation\nzh_CN.json: %1$s 已保存\nzh_TW.json: %1$s 已儲存"
   },
-  "realmsSettingsScreen.savesLoading": {
-    "text": "Loading saves",
-    "crowdinContext": "Original Translation\nzh_CN.json: 正在加载存档\nzh_TW.json: 正在載入儲存資料"
-  },
   "realmsSettingsScreen.savesLoadingFailed": {
-    "text": "Failed loading saves",
+    "text": "Something went wrong. Please try again later.",
     "crowdinContext": "Original Translation\nzh_CN.json: 加载存档失败\nzh_TW.json: 無法載入儲存資料"
   },
   "realmsSettingsScreen.savesSectionTitle": {
@@ -55651,6 +55855,102 @@
     "text": "Activate the Pencil tool.  When Pencil is active, toggles between Brush Paint and Pencil.",
     "crowdinContext": "Original Translation\nzh_CN.json: 激活铅笔工具。当铅笔处于启用状态时，在画笔和铅笔之间切换。\nzh_TW.json: 啟用鉛筆工具。鉛筆工具啟用時，可在筆刷模式和鉛筆模式之間切換。"
   },
+  "resourcePack.editor.pencil.orientation.camera.down": {
+    "text": "Camera Down",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.camera.left": {
+    "text": "Camera Left",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.camera.normal": {
+    "text": "Toward Camera",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.camera.opposite": {
+    "text": "Away from Camera",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.camera.random": {
+    "text": "Random",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.camera.right": {
+    "text": "Camera Right",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.camera.title": {
+    "text": "Camera",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.camera.tooltip": {
+    "text": "Uses the camera orientation to determine how the block is placed in the world.",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.camera.up": {
+    "text": "Camera Up",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.frontface.title": {
+    "text": "Front Face",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.frontface.tooltip": {
+    "text": "Choose the direction of the front face of the block when placing it in the world.",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.manual.negativeX": {
+    "text": "-X",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.manual.negativeY": {
+    "text": "-Y",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.manual.negativeZ": {
+    "text": "-Z",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.manual.positiveX": {
+    "text": "+X",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.manual.positiveY": {
+    "text": "+Y",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.manual.positiveZ": {
+    "text": "+Z",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.manual.random": {
+    "text": "Random",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.manual.title": {
+    "text": "Fixed",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.manual.tooltip": {
+    "text": "Uses a fixed orientation to determine how the block is placed in the world.",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.title": {
+    "text": "Orientation",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.tooltip": {
+    "text": "Choose whether blocks are placed based on the camera's orientation or a fixed orientation.",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.verticalflip.title": {
+    "text": "Vertical Flip",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.pencil.orientation.verticalflip.tooltip": {
+    "text": "Choose whether the top face or the bottom face of the block is used when targeting a block. This affects placement of blocks like stairs, slabs, trapdoors, etc.",
+    "crowdinContext": "Original Translation"
+  },
   "resourcePack.editor.pencil.settings.blockfilter.title": {
     "text": "Block Filter",
     "crowdinContext": "Original Translation\nzh_CN.json: 方块筛选\nzh_TW.json: 方塊篩選"
@@ -57990,6 +58290,22 @@
   "resourcePack.editor.toolRail.summonTool.pane.type.tooltip": {
     "text": "The entity that is summon when the tool is used.",
     "crowdinContext": "Original Translation\nzh_CN.json: 使用此工具时召唤的实体。\nzh_TW.json: 使用此工具時會召喚的實體。"
+  },
+  "resourcePack.editor.toolRail.summonTool.tool.GridSize": {
+    "text": "Grid Snap",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.toolRail.summonTool.tool.GridSize.tooltip": {
+    "text": "The size of the grid to snap the entity location.",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.toolRail.summonTool.tool.Offset": {
+    "text": "Offset",
+    "crowdinContext": "Original Translation"
+  },
+  "resourcePack.editor.toolRail.summonTool.tool.Offset.tooltip": {
+    "text": "The offset from the grid snap location to spawn the Entity.",
+    "crowdinContext": "Original Translation"
   },
   "resourcePack.editor.toolRail.summonTool.tool.infoText": {
     "text": "Click on an entity to select it, or click on a block to summon a new one. Use SHIFT + Middle Mouse Scroll to rotate the selected mob.",
