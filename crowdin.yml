@@ -1,10 +1,15 @@
+preserve_hierarchy: true
+
 files:
   - source: /sources/release/en_US.json
+    dest: Release/en_US.json
     translation: /patched/release/%locale_with_underscore%.json
     multilingual: 1
   - source: /sources/beta/en_US.json
+    dest: Beta/en_US.json
     translation: /patched/beta/%locale_with_underscore%.json
     multilingual: 1
   - source: /sources/preview/en_US.json
+    dest: Preview/en_US.json
     translation: /patched/preview/%locale_with_underscore%.json
     multilingual: 1
