@@ -4,6 +4,7 @@ This script downloads Minecraft Bedrock Edition appx packages and extracts
 language files from them, converting .lang files to both .lang and .json formats.
 """
 
+import datetime
 import os
 import re
 import sys
@@ -37,45 +38,45 @@ PACKAGE_INFO: list[PackageInfo] = [
 TARGET_LANGUAGES: list[str] = ["en_US.lang", "zh_CN.lang", "zh_TW.lang"]
 
 
-def _show_download_progress(
-    downloaded_size: int, total_size: int, last_logged: int, is_github_actions: bool
-) -> int:
-    """Show download progress based on environment.
+def save_version_info(
+    base_dir: Path,
+    appx_files: list[tuple[str, Path]] | None = None,
+) -> None:
+    """Save current version information to versions.json file.
 
     Args:
-        downloaded_size: Number of bytes downloaded
-        total_size: Total file size in bytes (0 if unknown)
-        last_logged: Last progress value that was logged
-        is_github_actions: Whether running in GitHub Actions
-
-    Returns:
-        Updated last_logged value
+        base_dir: Base directory where versions.json will be created
+        appx_files: List of tuples (folder_name, appx_file_path) for extracting MS Store versions
     """
-    downloaded_mb = downloaded_size / 1024 / 1024
+    release_version: str | None = None
+    dev_version: str | None = None
 
-    if total_size > 0:
-        progress = (downloaded_size / total_size) * 100
-        total_mb = total_size / 1024 / 1024
+    if appx_files:
+        for folder_name, appx_file in appx_files:
+            match = re.search(r"_(\d+\.\d+\.\d+\.\d+)_", appx_file.name)
+            version = match.group(1) if match else None
 
-        if is_github_actions:
-            current_step = int(progress // 10)
-            if current_step > last_logged:
-                print(f"  Progress: {progress:.0f}% ({downloaded_mb:.1f}/{total_mb:.1f} MB)")
-                return current_step
-        else:
-            progress_text = f"\r  Progress: {progress:.1f}% ({downloaded_mb:.1f}/{total_mb:.1f} MB)"
-            print(progress_text, end="", flush=True)
-    else:
-        if is_github_actions:
-            mb_int = int(downloaded_mb)
-            if mb_int % 50 == 0 and mb_int > last_logged:
-                print(f"  Downloaded: {downloaded_mb:.0f} MB")
-                return mb_int
-        else:
-            progress_text = f"\r  Downloaded: {downloaded_mb:.1f} MB"
-            print(progress_text, end="", flush=True)
+            if folder_name == "release":
+                release_version = version
+            else:
+                dev_version = version
 
-    return last_logged
+    versions_file = base_dir / "versions.json"
+
+    version_data = {
+        "timestamp": datetime.datetime.now(datetime.UTC).isoformat(),
+        "versions": {
+            "release": release_version,
+            "development": dev_version,
+        },
+    }
+
+    with versions_file.open("wb") as f:
+        f.write(orjson.dumps(version_data, option=orjson.OPT_INDENT_2))
+
+    print("Version information saved:")
+    print(f"  Release (Microsoft Store): {release_version}")
+    print(f"  Development (Microsoft Store): {dev_version}")
 
 
 def get_appx_file(package_name: str, base_dir: Path) -> Path | None:
@@ -91,10 +92,58 @@ def get_appx_file(package_name: str, base_dir: Path) -> Path | None:
     This function uses the store.rg-adguard.net service to obtain download links
     for Microsoft Store packages, then downloads the x64 appx file.
     """
+
+    def show_download_progress(
+        downloaded_size: int, total_size: int, last_logged: int, is_github_actions: bool
+    ) -> int:
+        """Show download progress based on environment.
+
+        Args:
+            downloaded_size: Number of bytes downloaded
+            total_size: Total file size in bytes (0 if unknown)
+            last_logged: Last progress value that was logged
+            is_github_actions: Whether running in GitHub Actions
+
+        Returns:
+            Updated last_logged value
+        """
+        downloaded_mb = downloaded_size / 1024 / 1024
+
+        if total_size > 0:
+            progress = (downloaded_size / total_size) * 100
+            total_mb = total_size / 1024 / 1024
+
+            if is_github_actions:
+                current_step = int(progress // 10)
+                if current_step > last_logged:
+                    print(f"  Progress: {progress:.0f}% ({downloaded_mb:.1f}/{total_mb:.1f} MB)")
+                    return current_step
+            else:
+                progress_text = (
+                    f"\r  Progress: {progress:.1f}% ({downloaded_mb:.1f}/{total_mb:.1f} MB)"
+                )
+                print(progress_text, end="", flush=True)
+        else:
+            if is_github_actions:
+                mb_int = int(downloaded_mb)
+                if mb_int % 50 == 0 and mb_int > last_logged:
+                    print(f"  Downloaded: {downloaded_mb:.0f} MB")
+                    return mb_int
+            else:
+                progress_text = f"\r  Downloaded: {downloaded_mb:.1f} MB"
+                print(progress_text, end="", flush=True)
+
+        return last_logged
+
     print(f"Getting download link for {package_name}...")
 
-    url = "https://store.rg-adguard.net/api/GetFiles"
-    data = {"type": "PackageFamilyName", "url": package_name, "ring": "RP", "lang": "en-US"}
+    url: str = "https://store.rg-adguard.net/api/GetFiles"
+    data: dict[str, str] = {
+        "type": "PackageFamilyName",
+        "url": package_name,
+        "ring": "RP",
+        "lang": "en-US",
+    }
 
     try:
         response = requests.post(url, data=data, timeout=30)
@@ -109,15 +158,15 @@ def get_appx_file(package_name: str, base_dir: Path) -> Path | None:
         if not isinstance(link, Tag):
             continue
 
-        link_text = link.get_text(strip=True)
+        link_text: str = link.get_text(strip=True)
         if re.search(r"x64.*\.appx\b", link_text):
-            appx_path = base_dir / link_text
+            appx_path: Path = base_dir / link_text
             href_value = link.get("href")
 
             if not isinstance(href_value, str):
                 continue
 
-            download_url = href_value
+            download_url: str = href_value
 
             print(f"Downloading {link_text}...")
 
@@ -129,17 +178,17 @@ def get_appx_file(package_name: str, base_dir: Path) -> Path | None:
                 with requests.get(download_url, stream=True, timeout=60) as r:
                     r.raise_for_status()
 
-                    total_size = int(r.headers.get("content-length", 0))
-                    downloaded_size = 0
-                    is_github_actions = bool(os.getenv("GITHUB_ACTIONS"))
-                    last_progress_logged = -1
+                    total_size: int = int(r.headers.get("content-length", 0))
+                    downloaded_size: int = 0
+                    is_github_actions: bool = bool(os.getenv("GITHUB_ACTIONS"))
+                    last_progress_logged: int = -1
 
                     with appx_path.open("wb") as f:
                         for chunk in r.iter_content(chunk_size=8192):
                             if chunk:
                                 f.write(chunk)
                                 downloaded_size += len(chunk)
-                                last_progress_logged = _show_download_progress(
+                                last_progress_logged = show_download_progress(
                                     downloaded_size,
                                     total_size,
                                     last_progress_logged,
@@ -172,11 +221,11 @@ def export_files_to_structure(
     """
     print(f"Extracting files to directory structure from {zip_path}...")
 
-    found_any = False
+    found_any: bool = False
 
     try:
         with zipfile.ZipFile(zip_path, "r") as zip_file:
-            texts_entries = [
+            texts_entries: list[zipfile.ZipInfo] = [
                 entry
                 for entry in zip_file.infolist()
                 if entry.filename.startswith("data/resource_packs/")
@@ -186,19 +235,19 @@ def export_files_to_structure(
             texts_entries.sort(key=lambda x: x.filename)
 
             for entry in texts_entries:
-                filename = Path(entry.filename).name
+                filename: str = Path(entry.filename).name
 
                 if filename not in target_languages:
                     continue
 
-                relative_path = entry.filename.replace("data/resource_packs/", "").replace(
+                relative_path: str = entry.filename.replace("data/resource_packs/", "").replace(
                     "/texts/", "/"
                 )
 
                 print(f"  Processing: {entry.filename}")
 
-                raw_content = zip_file.read(entry).decode("utf-8", errors="ignore")
-                cleaned_content = clean_lang_content(raw_content)
+                raw_content: str = zip_file.read(entry).decode("utf-8", errors="ignore")
+                cleaned_content: str = clean_lang_content(raw_content)
 
                 if not cleaned_content:
                     continue
@@ -309,40 +358,49 @@ def export_release_files(
 
 def main() -> None:
     """Main entry point for the language file extractor."""
-    script_dir = Path(__file__).parent
-    base_dir = script_dir.parent
+    script_dir: Path = Path(__file__).parent
+    base_dir: Path = script_dir.parent
 
-    output_dir = base_dir / "extracted"
+    output_dir: Path = base_dir / "extracted"
     output_dir.mkdir(exist_ok=True)
 
     print("Starting language file extraction process...")
     print(f"Base directory: {base_dir}")
     print(f"Output directory: {output_dir}")
 
+    appx_files: list[tuple[str, Path]] = []
+
     for i, package in enumerate(PACKAGE_INFO):
-        prefix = "\n" if i == 0 else "\n\n"
+        prefix: str = "\n" if i == 0 else "\n\n"
         print(f"{prefix}Processing package: {package['name']}")
 
-        appx_file = get_appx_file(package["name"], base_dir)
+        appx_file: Path | None = get_appx_file(package["name"], base_dir)
 
         if not appx_file:
             print(f"Failed to download appx file for {package['name']}")
             continue
 
-        package_output_dir = output_dir / package["folder_name"]
+        appx_files.append((package["folder_name"], appx_file))
+        print(f"Downloaded: {appx_file.name}")
+
+        package_output_dir: Path = output_dir / package["folder_name"]
         package_output_dir.mkdir(exist_ok=True)
 
-        is_release = package["name"] == "Microsoft.MinecraftUWP_8wekyb3d8bbwe"
+        is_release: bool = package["name"] == "Microsoft.MinecraftUWP_8wekyb3d8bbwe"
         if is_release:
-            success = export_release_files(appx_file, package_output_dir, TARGET_LANGUAGES)
+            success: bool = export_release_files(appx_file, package_output_dir, TARGET_LANGUAGES)
         else:
             success = export_files_to_structure(appx_file, package_output_dir, TARGET_LANGUAGES)
 
         if not success:
             print(f"Failed to extract language files from {appx_file}")
 
-    print("\n\nLanguage file extraction completed!")
+    print("\n" + "=" * 60)
+    save_version_info(base_dir, appx_files)
+
+    print("\nLanguage file extraction completed!")
     print(f"Output directory: {output_dir}")
+    print(f"Version information saved to: {base_dir / 'versions.json'}")
 
 
 if __name__ == "__main__":
