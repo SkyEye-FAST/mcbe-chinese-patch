@@ -8,13 +8,13 @@ import os
 import re
 import sys
 import zipfile
-from collections import OrderedDict
 from pathlib import Path
 from typing import TypedDict
 
 import orjson
 import requests
 from bs4 import BeautifulSoup, Tag
+from convert import clean_lang_content, convert_lang_to_json
 
 
 class PackageInfo(TypedDict):
@@ -155,88 +155,6 @@ def get_appx_file(package_name: str, base_dir: Path) -> Path | None:
 
     print(f"No x64 appx file found for {package_name}")
     return None
-
-
-def convert_lang_to_json(lang_content: str) -> OrderedDict[str, str]:
-    """Convert .lang file content to JSON-compatible ordered dictionary.
-
-    Args:
-        lang_content (str): Content of the .lang file as a string
-
-    Returns:
-        OrderedDict: JSON-compatible ordered dictionary representation of the lang file.
-
-    The function parses Minecraft .lang files which use key=value format,
-    ignoring empty lines and comments starting with ##.
-    """
-    json_data: OrderedDict[str, str] = OrderedDict()
-
-    for line in lang_content.splitlines():
-        line = line.strip(" \t\r\n\f\v")  # Keep U+00A0
-
-        if not line or line.startswith("##"):
-            continue
-
-        equal_index = line.find("=")
-        if equal_index > 0:
-            key = line[:equal_index].strip()
-            value = line[equal_index + 1 :].strip(" \t\r\n\f\v")
-
-            if key not in json_data:
-                json_data[key] = value
-
-    return json_data
-
-
-def remove_duplicate_keys(lang_content: str) -> str:
-    """Remove duplicate keys from lang file content, keeping first occurrence.
-
-    Args:
-        lang_content (str): Original lang file content as a string
-
-    Returns:
-        str: Cleaned lang file content without duplicate keys.
-            Comments and empty lines are preserved as-is.
-    """
-    seen_keys: set[str] = set()
-    result_lines: list[str] = []
-
-    for line in lang_content.splitlines():
-        trimmed_line = line.strip()
-
-        if not trimmed_line or trimmed_line.startswith("##"):
-            result_lines.append(line)
-            continue
-
-        equal_index = trimmed_line.find("=")
-        if equal_index > 0:
-            key = trimmed_line[:equal_index].strip()
-
-            if key not in seen_keys:
-                seen_keys.add(key)
-                result_lines.append(line)
-        else:
-            result_lines.append(line)
-
-    return "\n".join(result_lines)
-
-
-def clean_lang_content(raw_content: str) -> str:
-    """Clean and normalize language file content.
-
-    Args:
-        raw_content (str): Raw content from the language file
-
-    Returns:
-        str: Cleaned content with normalized line endings and no empty lines
-    """
-    cleaned_content = raw_content.replace("\ufeff", "").replace("\r\n", "\n").replace("\r", "\n")
-
-    cleaned_content = "\n".join(
-        line for line in cleaned_content.splitlines() if line.strip(" \t\r\n\f\v")
-    )
-
-    return remove_duplicate_keys(cleaned_content) if cleaned_content.strip() else ""
 
 
 def export_files_to_structure(

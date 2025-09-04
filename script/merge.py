@@ -8,7 +8,7 @@ import sys
 from pathlib import Path
 from typing import Any, TypedDict
 
-import orjson
+from convert import load_json_file, save_json_file
 
 
 class TargetConfig(TypedDict):
@@ -60,10 +60,9 @@ def merge_lang_files(file_list: list[Path]) -> dict[str, Any]:
             continue
 
         try:
-            with file_path.open("r", encoding="utf-8") as f:
-                data = orjson.loads(f.read())
-                merged.update({k: v for k, v in data.items() if k not in merged})
-        except (orjson.JSONDecodeError, FileNotFoundError, PermissionError) as e:
+            data = load_json_file(file_path)
+            merged.update({k: v for k, v in data.items() if k not in merged})
+        except (FileNotFoundError, PermissionError) as e:
             print(f"Warning: Failed to read {file_path}: {e}", file=sys.stderr)
 
     return dict(sorted(merged.items()))
@@ -168,9 +167,7 @@ def process_target(target: TargetConfig, base_dir: Path) -> None:
 
         output_file = out_dir / lang_file
         try:
-            with output_file.open("wb") as f:
-                options = orjson.OPT_INDENT_2 | orjson.OPT_SORT_KEYS
-                f.write(orjson.dumps(merged_data, option=options))
+            save_json_file(output_file, merged_data)
 
             print(f"Merged {len(file_list)} files to {output_file}")
             print(f"  Total keys: {len(merged_data)}")
