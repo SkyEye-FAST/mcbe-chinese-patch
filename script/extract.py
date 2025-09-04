@@ -4,6 +4,7 @@ This script downloads Minecraft Bedrock Edition appx packages and extracts
 language files from them, converting .lang files to both .lang and .json formats.
 """
 
+import os
 import re
 import sys
 import zipfile
@@ -34,6 +35,47 @@ PACKAGE_INFO: list[PackageInfo] = [
 ]
 
 TARGET_LANGUAGES: list[str] = ["en_US.lang", "zh_CN.lang", "zh_TW.lang"]
+
+
+def _show_download_progress(
+    downloaded_size: int, total_size: int, last_logged: int, is_github_actions: bool
+) -> int:
+    """Show download progress based on environment.
+
+    Args:
+        downloaded_size: Number of bytes downloaded
+        total_size: Total file size in bytes (0 if unknown)
+        last_logged: Last progress value that was logged
+        is_github_actions: Whether running in GitHub Actions
+
+    Returns:
+        Updated last_logged value
+    """
+    downloaded_mb = downloaded_size / 1024 / 1024
+
+    if total_size > 0:
+        progress = (downloaded_size / total_size) * 100
+        total_mb = total_size / 1024 / 1024
+
+        if is_github_actions:
+            current_step = int(progress // 10)
+            if current_step > last_logged:
+                print(f"  Progress: {progress:.0f}% ({downloaded_mb:.1f}/{total_mb:.1f} MB)")
+                return current_step
+        else:
+            progress_text = f"\r  Progress: {progress:.1f}% ({downloaded_mb:.1f}/{total_mb:.1f} MB)"
+            print(progress_text, end="", flush=True)
+    else:
+        if is_github_actions:
+            mb_int = int(downloaded_mb)
+            if mb_int % 50 == 0 and mb_int > last_logged:
+                print(f"  Downloaded: {downloaded_mb:.0f} MB")
+                return mb_int
+        else:
+            progress_text = f"\r  Downloaded: {downloaded_mb:.1f} MB"
+            print(progress_text, end="", flush=True)
+
+    return last_logged
 
 
 def get_appx_file(package_name: str, base_dir: Path) -> Path | None:
@@ -89,25 +131,23 @@ def get_appx_file(package_name: str, base_dir: Path) -> Path | None:
 
                     total_size = int(r.headers.get("content-length", 0))
                     downloaded_size = 0
+                    is_github_actions = bool(os.getenv("GITHUB_ACTIONS"))
+                    last_progress_logged = -1
 
                     with appx_path.open("wb") as f:
                         for chunk in r.iter_content(chunk_size=8192):
                             if chunk:
                                 f.write(chunk)
                                 downloaded_size += len(chunk)
+                                last_progress_logged = _show_download_progress(
+                                    downloaded_size,
+                                    total_size,
+                                    last_progress_logged,
+                                    is_github_actions,
+                                )
 
-                                downloaded_mb = downloaded_size / 1024 / 1024
-                                if total_size > 0:
-                                    progress = (downloaded_size / total_size) * 100
-                                    total_mb = total_size / 1024 / 1024
-                                    progress_text = (
-                                        f"\r  Progress: {progress:.1f}% "
-                                        f"({downloaded_mb:.1f}/{total_mb:.1f} MB)"
-                                    )
-                                else:
-                                    progress_text = f"\r  Downloaded: {downloaded_mb:.1f} MB"
-                                print(progress_text, end="", flush=True)
-                    print()
+                    if not is_github_actions:
+                        print()
                 return appx_path
             except requests.RequestException as e:
                 print(f"Error downloading {link_text}: {e}", file=sys.stderr)
