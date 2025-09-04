@@ -1,0 +1,40 @@
+name: Update language files
+
+on:
+  schedule:
+    - cron: "00 16 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.13"]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+
+      - name: Install uv and set the python version
+        uses: astral-sh/setup-uv@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Install the project
+        run: uv sync --locked --all-extras --dev
+
+      - name: Extract language files
+        run: uv run extract.py
+
+      - name: Merge language files
+        run: uv run merge.py
+
+      - name: Generate language files with contexts
+        run: uv run generate_source.py
+
+      - name: Commit
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
+          message: "chore: update language files"
