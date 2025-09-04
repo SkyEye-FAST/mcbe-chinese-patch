@@ -1,4 +1,4 @@
-"""Minecraft: Bedrock Edition Source File Updater.
+"""Minecraft: Bedrock Edition Chinese Patch Source File Updater.
 
 This script processes merged language files and creates source files with context
 information for Crowdin translation platform integration.
