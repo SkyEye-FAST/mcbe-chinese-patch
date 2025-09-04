@@ -26,15 +26,13 @@ jobs:
         run: uv sync --locked --all-extras --dev
 
       - name: Extract language files
-        run: |
-          cd script
-          uv run extract.py
+        run: uv run script/extract.py
 
       - name: Merge language files
-        run: uv run merge.py
+        run: uv run script/merge.py
 
       - name: Generate language files with contexts
-        run: uv run crowdin_source.py
+        run: uv run script/crowdin_source.py
 
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
