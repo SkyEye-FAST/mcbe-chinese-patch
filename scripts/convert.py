@@ -12,6 +12,53 @@ from typing import Any
 import orjson
 
 
+def clean_lang_content(raw_content: str) -> str:
+    """Clean and normalize language file content.
+
+    Args:
+        raw_content (str): The raw content of the language file.
+
+    Returns:
+        str: The cleaned and normalized content.
+    """
+    cleaned_content = raw_content.replace("\ufeff", "").replace("\r\n", "\n").replace("\r", "\n")
+    cleaned_content = "\n".join(
+        line for line in cleaned_content.splitlines() if line.strip(" \t\r\n\f\v")
+    )
+    return remove_duplicate_keys(cleaned_content) if cleaned_content.strip() else ""
+
+
+def remove_duplicate_keys(lang_content: str) -> str:
+    """Remove duplicate keys from lang file content, keeping first occurrence.
+
+    Args:
+        lang_content (str): The content of the .lang file as a string.
+
+    Returns:
+        str: The cleaned .lang file content with duplicates removed.
+    """
+    seen_keys: set[str] = set()
+    result_lines: list[str] = []
+
+    for line in lang_content.splitlines():
+        trimmed_line = line.strip()
+
+        if not trimmed_line or trimmed_line.startswith("##"):
+            result_lines.append(line)
+            continue
+
+        equal_index = trimmed_line.find("=")
+        if equal_index > 0:
+            key = trimmed_line[:equal_index].strip()
+            if key not in seen_keys:
+                seen_keys.add(key)
+                result_lines.append(line)
+        else:
+            result_lines.append(line)
+
+    return "\n".join(result_lines)
+
+
 def convert_lang_to_json(lang_content: str) -> OrderedDict[str, str]:
     """Convert .lang file content to JSON-compatible ordered dictionary.
 
@@ -57,53 +104,6 @@ def convert_json_to_lang(json_data: dict[str, Any]) -> str:
     for key, value in json_data.items():
         lines.append(f"{str(key)}={str(value)}")
     return "\n".join(lines)
-
-
-def remove_duplicate_keys(lang_content: str) -> str:
-    """Remove duplicate keys from lang file content, keeping first occurrence.
-
-    Args:
-        lang_content (str): The content of the .lang file as a string.
-
-    Returns:
-        str: The cleaned .lang file content with duplicates removed.
-    """
-    seen_keys: set[str] = set()
-    result_lines: list[str] = []
-
-    for line in lang_content.splitlines():
-        trimmed_line = line.strip()
-
-        if not trimmed_line or trimmed_line.startswith("##"):
-            result_lines.append(line)
-            continue
-
-        equal_index = trimmed_line.find("=")
-        if equal_index > 0:
-            key = trimmed_line[:equal_index].strip()
-            if key not in seen_keys:
-                seen_keys.add(key)
-                result_lines.append(line)
-        else:
-            result_lines.append(line)
-
-    return "\n".join(result_lines)
-
-
-def clean_lang_content(raw_content: str) -> str:
-    """Clean and normalize language file content.
-
-    Args:
-        raw_content (str): The raw content of the language file.
-
-    Returns:
-        str: The cleaned and normalized content.
-    """
-    cleaned_content = raw_content.replace("\ufeff", "").replace("\r\n", "\n").replace("\r", "\n")
-    cleaned_content = "\n".join(
-        line for line in cleaned_content.splitlines() if line.strip(" \t\r\n\f\v")
-    )
-    return remove_duplicate_keys(cleaned_content) if cleaned_content.strip() else ""
 
 
 def load_lang_file(file_path: Path) -> OrderedDict[str, str]:
@@ -160,6 +160,33 @@ def save_lang_file(file_path: Path, data: dict[str, Any]) -> None:
     file_path.write_text(lang_content, encoding="utf-8", newline="\n")
 
 
+def save_lang_file_with_sources(file_path: Path, sources_data: dict[str, dict[str, str]]) -> None:
+    """Save translation data as a .lang file, organized by source files.
+
+    Args:
+        file_path (Path): The path to save the .lang file
+        sources_data (dict): Dictionary mapping source files to their translations
+    """
+    lines: list[str] = []
+
+    first_section = True
+    for source_file, translations in sources_data.items():
+        if not translations:
+            continue
+
+        if not first_section:
+            lines.append("")
+        first_section = False
+
+        lines.append(f"## {source_file}")
+
+        for key, value in translations.items():
+            lines.append(f"{key}={value}")
+
+    content = "\n".join(lines)
+    file_path.write_text(content, encoding="utf-8", newline="\n")
+
+
 def save_json_file(file_path: Path, data: dict[str, Any], sort_keys: bool = True) -> None:
     """Save data as a JSON file with proper formatting.
 
@@ -187,6 +214,53 @@ def save_tsv_file(file_path: Path, headers: list[str], rows: list[list[str]]) ->
         writer = csv.writer(f, delimiter="\t")
         writer.writerow(headers)
         writer.writerows(rows)
+
+
+def get_source_file_for_key(
+    key: str, extracted_dir: Path, branch: str, lang_code: str
+) -> str | None:
+    """Get the source file path for a given translation key.
+
+    Args:
+        key (str): The translation key
+        extracted_dir (Path): Path to the extracted directory
+        branch (str): Branch name (release, beta, preview)
+        lang_code (str): Language code (zh_CN, zh_TW, etc.)
+
+    Returns:
+        str | None: The source file path relative to resource_packs/texts, or None if not found
+    """
+    if branch == "release":
+        search_base = extracted_dir / "release"
+    else:
+        search_base = extracted_dir / "development"
+
+    search_order = [
+        "vanilla",
+        "oreui",
+        "persona",
+        "editor",
+        "chemistry",
+        "education",
+        "education_demo",
+    ]
+
+    if branch == "beta":
+        search_order.append("beta")
+    elif branch == "preview":
+        search_order.append("previewapp")
+
+    for subdir in search_order:
+        lang_file = search_base / subdir / f"{lang_code}.lang"
+        if lang_file.exists():
+            try:
+                content = lang_file.read_text(encoding="utf-8")
+                if f"{key}=" in content:
+                    return f"resource_packs/{subdir}/texts/{lang_code}.lang"
+            except Exception:
+                continue
+
+    return None
 
 
 def extract_translation_from_tsv(tsv_file: Path) -> OrderedDict[str, str]:
@@ -219,6 +293,56 @@ def extract_translation_from_tsv(tsv_file: Path) -> OrderedDict[str, str]:
                 result[key] = translation
 
     return result
+
+
+def extract_translation_with_sources(
+    tsv_file: Path, extracted_dir: Path, branch: str
+) -> dict[str, dict[str, str]]:
+    """Extract translation data from TSV file, organized by source file.
+
+    Args:
+        tsv_file (Path): The path to the TSV file
+        extracted_dir (Path): Path to the extracted directory
+        branch (str): Branch name (release, beta, preview)
+
+    Returns:
+        dict: Dictionary mapping source files to their translations
+    """
+    tsv_data = load_tsv_file(tsv_file)
+    headers = tsv_data["headers"]
+    rows = tsv_data["rows"]
+
+    if "Key" not in headers:
+        raise ValueError("TSV file must contain a 'Key' column")
+    if "Translation" not in headers:
+        raise ValueError("TSV file must contain a 'Translation' column")
+
+    key_index = headers.index("Key")
+    translation_index = headers.index("Translation")
+
+    lang_code = tsv_file.stem
+
+    sources: dict[str, dict[str, str]] = {}
+
+    for row in rows:
+        if len(row) > max(key_index, translation_index):
+            key = row[key_index]
+            translation = row[translation_index] if translation_index < len(row) else ""
+
+            if key and translation:
+                source_file = get_source_file_for_key(key, extracted_dir, branch, lang_code)
+
+                if source_file:
+                    if source_file not in sources:
+                        sources[source_file] = OrderedDict()
+                    sources[source_file][key] = translation
+                else:
+                    unknown_source = f"resource_packs/vanilla/texts/{lang_code}.lang"
+                    if unknown_source not in sources:
+                        sources[unknown_source] = OrderedDict()
+                    sources[unknown_source][key] = translation
+
+    return sources
 
 
 def apply_translation_to_tsv(
@@ -363,60 +487,6 @@ def convert_lang_to_tsv_file(lang_file: Path, tsv_file: Path) -> Path:
     return apply_translation_to_tsv(tsv_file, translation_data)
 
 
-def main() -> None:
-    """Command-line entry point for language file conversions."""
-    import sys
-
-    if len(sys.argv) < 2:
-        print("Usage: python convert.py <input_file> [output_file] [options]")
-        print("Converts between .lang, .json, and .tsv formats.")
-        print("\nOptions for TSV operations:")
-        print("  --apply-to <tsv>   Apply translations from input file to specified TSV file")
-        print("\nExamples:")
-        print("  python convert.py file.lang                    # Convert to JSON")
-        print("  python convert.py file.json output.lang        # Convert JSON to LANG")
-        print("  python convert.py file.tsv                     # Extract translations to JSON")
-        print("  python convert.py file.json --apply-to data.tsv # Apply JSON to TSV")
-        sys.exit(1)
-
-    input_file = Path(sys.argv[1])
-    output_file = None
-    apply_to_tsv = None
-
-    i = 2
-    while i < len(sys.argv):
-        arg = sys.argv[i]
-        if arg == "--apply-to" and i + 1 < len(sys.argv):
-            apply_to_tsv = Path(sys.argv[i + 1])
-            i += 2
-        else:
-            if output_file is None:
-                output_file = Path(arg)
-            i += 1
-
-    if not input_file.exists():
-        print(f"Error: Input file '{input_file}' does not exist")
-        sys.exit(1)
-
-    try:
-        input_suffix = input_file.suffix.lower()
-
-        if apply_to_tsv is not None:
-            if not apply_to_tsv.exists():
-                print(f"Error: Target TSV file '{apply_to_tsv}' does not exist")
-                sys.exit(1)
-            result_file = handle_apply_to_tsv(input_file, input_suffix, apply_to_tsv)
-            print(f"Applied translations from {input_file} to {result_file}")
-        else:
-            result_file = handle_normal_conversion(input_file, input_suffix, output_file)
-            action = "Extracted translations from" if input_suffix == ".tsv" else "Converted"
-            print(f"{action} {input_file} -> {result_file}")
-
-    except Exception as e:
-        print(f"Error: {e}")
-        sys.exit(1)
-
-
 def handle_apply_to_tsv(input_file: Path, input_suffix: str, tsv_file: Path) -> Path:
     """Handle applying translations to TSV file.
 
@@ -487,6 +557,60 @@ def handle_tsv_conversion(input_file: Path, output_file: Path | None) -> Path:
         raise ValueError(f"Unsupported output format '{output_suffix}' for TSV input")
 
     return converters[output_suffix](input_file, output_file)
+
+
+def main() -> None:
+    """Command-line entry point for language file conversions."""
+    import sys
+
+    if len(sys.argv) < 2:
+        print("Usage: python convert.py <input_file> [output_file] [options]")
+        print("Converts between .lang, .json, and .tsv formats.")
+        print("\nOptions for TSV operations:")
+        print("  --apply-to <tsv>   Apply translations from input file to specified TSV file")
+        print("\nExamples:")
+        print("  python convert.py file.lang                    # Convert to JSON")
+        print("  python convert.py file.json output.lang        # Convert JSON to LANG")
+        print("  python convert.py file.tsv                     # Extract translations to JSON")
+        print("  python convert.py file.json --apply-to data.tsv # Apply JSON to TSV")
+        sys.exit(1)
+
+    input_file = Path(sys.argv[1])
+    output_file = None
+    apply_to_tsv = None
+
+    i = 2
+    while i < len(sys.argv):
+        arg = sys.argv[i]
+        if arg == "--apply-to" and i + 1 < len(sys.argv):
+            apply_to_tsv = Path(sys.argv[i + 1])
+            i += 2
+        else:
+            if output_file is None:
+                output_file = Path(arg)
+            i += 1
+
+    if not input_file.exists():
+        print(f"Error: Input file '{input_file}' does not exist")
+        sys.exit(1)
+
+    try:
+        input_suffix = input_file.suffix.lower()
+
+        if apply_to_tsv is not None:
+            if not apply_to_tsv.exists():
+                print(f"Error: Target TSV file '{apply_to_tsv}' does not exist")
+                sys.exit(1)
+            result_file = handle_apply_to_tsv(input_file, input_suffix, apply_to_tsv)
+            print(f"Applied translations from {input_file} to {result_file}")
+        else:
+            result_file = handle_normal_conversion(input_file, input_suffix, output_file)
+            action = "Extracted translations from" if input_suffix == ".tsv" else "Converted"
+            print(f"{action} {input_file} -> {result_file}")
+
+    except Exception as e:
+        print(f"Error: {e}")
+        sys.exit(1)
 
 
 if __name__ == "__main__":

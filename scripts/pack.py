@@ -16,7 +16,7 @@ import shutil
 import zipfile
 from pathlib import Path
 
-from convert import extract_translation_from_tsv, save_lang_file
+from convert import extract_translation_with_sources, save_lang_file_with_sources
 
 
 def format_version(version_str: str, is_dev: bool = False) -> str:
@@ -88,13 +88,19 @@ def main() -> None:
     """Convert TSV files to lang format and create resource packs.
 
     Processes all TSV files in the patched directory, converts them to Minecraft
-    lang format, and packages them into distributable resource packs for each branch.
+    lang format with source file organization, and packages them into distributable
+    resource packs for each branch.
     """
     print("Converting patched TSV files to lang format...")
 
     patched_dir = Path("patched")
     if not patched_dir.exists():
         print("Patched directory not found!")
+        return
+
+    extracted_dir = Path("extracted")
+    if not extracted_dir.exists():
+        print("Extracted directory not found!")
         return
 
     for branch_dir in patched_dir.iterdir():
@@ -106,10 +112,12 @@ def main() -> None:
         for tsv_file in branch_dir.glob("*.tsv"):
             print(f"  Converting {tsv_file.name}")
 
-            translation_data = extract_translation_from_tsv(tsv_file)
+            sources_data = extract_translation_with_sources(
+                tsv_file, extracted_dir, branch_dir.name
+            )
 
             output_lang_file = tsv_file.with_suffix(".lang")
-            save_lang_file(output_lang_file, translation_data)
+            save_lang_file_with_sources(output_lang_file, sources_data)
 
     print("\nPacking resource packs...")
 
