@@ -63,16 +63,26 @@ def save_version_info(
 
     versions_file = base_dir / "versions.json"
 
+    new_versions = {"release": release_version, "development": dev_version}
+
+    if versions_file.exists():
+        existing = orjson.loads(versions_file.read_bytes())
+
+        existing_versions = existing.get("versions", {}) if isinstance(existing, dict) else {}
+        if existing_versions.get("release") == new_versions.get(
+            "release"
+        ) and existing_versions.get("development") == new_versions.get("development"):
+            print("Version unchanged; preserving existing versions.json.")
+            return
+
     version_data = {
         "timestamp": datetime.datetime.now(datetime.UTC).isoformat(),
-        "versions": {
-            "release": release_version,
-            "development": dev_version,
-        },
+        "versions": new_versions,
     }
 
-    with versions_file.open("wb") as f:
-        f.write(orjson.dumps(version_data, option=orjson.OPT_INDENT_2))
+    tmp_file = versions_file.with_suffix(versions_file.suffix + ".tmp")
+    tmp_file.write_bytes(orjson.dumps(version_data, option=orjson.OPT_INDENT_2))
+    tmp_file.replace(versions_file)
 
     print("Version information saved:")
     print(f"  Release (Microsoft Store): {release_version}")
