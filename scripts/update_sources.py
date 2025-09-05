@@ -1,27 +1,14 @@
 """Minecraft: Bedrock Edition Chinese Patch Source File Updater.
 
 This script processes merged language files and creates source files with context
-information for Crowdin translation platform integration.
+information for Crowdin translation platform integration in TSV format.
 """
 
+import csv
 import sys
 from pathlib import Path
-from typing import TypedDict
 
-from convert import load_json_file, save_json_file
-
-
-class StringWithContext(TypedDict):
-    """String with translation context structure.
-
-    Attributes:
-        text (str): The original text content
-        crowdinContext (str): Context information for translators
-    """
-
-    text: str
-    crowdinContext: str
-
+from convert import load_json_file
 
 SOURCE_LANGUAGE: str = "en_US.json"
 TARGET_LANGUAGES: list[str] = ["zh_CN.json", "zh_TW.json"]
@@ -46,16 +33,15 @@ def process_target(target: str, base_dir: Path) -> None:
 
     source_path = src_dir / SOURCE_LANGUAGE
     print(f"Reading source file: {source_path}")
-    source_data: dict[str, StringWithContext] = {}
+
     try:
         source_content = load_json_file(source_path)
-        for k, v in source_content.items():
-            source_data[k] = {"text": v, "crowdinContext": "Original Translation"}
         print(f"Loaded {len(source_content)} entries from {SOURCE_LANGUAGE}")
     except (FileNotFoundError, PermissionError) as e:
         print(f"Warning: Failed to read {source_path}: {e}", file=sys.stderr)
         return
 
+    translations = {}
     for target_file in TARGET_LANGUAGES:
         target_path = src_dir / target_file
         print(f"Processing target file: {target_path}")
@@ -63,23 +49,30 @@ def process_target(target: str, base_dir: Path) -> None:
             target_content = load_json_file(target_path)
             print(f"  Loaded {len(target_content)} entries from {target_file}")
 
-            context_added = 0
-            for k, v in target_content.items():
-                if k in source_data:
-                    source_data[k]["crowdinContext"] += f"\n{target_file}: {v}"
-                    context_added += 1
-
-            print(f"  Added context for {context_added} entries")
+            lang_code = target_file.replace(".json", "")
+            translations[lang_code] = target_content
         except (FileNotFoundError, PermissionError) as e:
             print(f"Warning: Failed to read {target_path}: {e}", file=sys.stderr)
 
-    output_file = out_dir / SOURCE_LANGUAGE
+    output_file = out_dir / SOURCE_LANGUAGE.replace(".json", ".tsv")
     print(f"Writing output file: {output_file}")
-    try:
-        # It's intended not to include sort_keys=True for Crowdin files
-        save_json_file(output_file, source_data, sort_keys=False)
 
-        print(f"Successfully created {output_file} with {len(source_data)} entries")
+    try:
+        with open(output_file, "w", encoding="utf-8", newline="") as f:
+            writer = csv.writer(f, delimiter="\t")
+            writer.writerow(["Key", "Source string", "Context", "Translation"])
+
+            for string_id, source_text in source_content.items():
+                context_lines = ["Original Translation"]
+
+                for lang_code, lang_content in translations.items():
+                    if string_id in lang_content:
+                        context_lines.append(f"{lang_code}: {lang_content[string_id]}")
+
+                context = "\n".join(context_lines)
+                writer.writerow([string_id, source_text, context])
+
+        print(f"Successfully created {output_file} with {len(source_content)} entries")
     except (OSError, PermissionError) as e:
         print(f"Error writing output file {output_file}: {e}", file=sys.stderr)
 
@@ -97,7 +90,7 @@ def main() -> None:
         process_target(target, base_dir)
 
     sources_dir = base_dir / "sources"
-    print(f"\nAll language files updated! Output: {sources_dir}")
+    print(f"\nAll TSV language files updated! Output: {sources_dir}")
 
 
 if __name__ == "__main__":

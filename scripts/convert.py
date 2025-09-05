@@ -1,9 +1,10 @@
 """Minecraft: Bedrock Edition Language File Converter.
 
-This module provides utilities for converting between .lang and .json formats
-used in Minecraft Bedrock Edition language files.
+This module provides utilities for converting between .lang, .json, and .tsv formats
+used in Minecraft Bedrock Edition language files and Crowdin translation platform.
 """
 
+import csv
 from collections import OrderedDict
 from pathlib import Path
 from typing import Any
@@ -14,14 +15,11 @@ import orjson
 def convert_lang_to_json(lang_content: str) -> OrderedDict[str, str]:
     """Convert .lang file content to JSON-compatible ordered dictionary.
 
-    The function parses Minecraft .lang files which use key=value format,
-    ignoring empty lines and comments starting with ##.
-
     Args:
-        lang_content (str): Content of the .lang file as a string.
+        lang_content (str): The content of the .lang file as a string.
 
     Returns:
-        OrderedDict: Parsed key/value pairs in original order.
+        OrderedDict: An ordered dictionary with keys and values from the .lang file.
     """
     json_data: OrderedDict[str, str] = OrderedDict()
 
@@ -50,16 +48,14 @@ def convert_json_to_lang(json_data: dict[str, Any]) -> str:
     """Convert JSON data to .lang file content format.
 
     Args:
-        json_data (dict[str, Any]): Mapping to convert into .lang content.
+        json_data (dict[str, Any]): The JSON data to convert.
 
     Returns:
-        str: .lang formatted text (lines of key=value).
+        str: The .lang file content as a string.
     """
     lines: list[str] = []
-
     for key, value in json_data.items():
         lines.append(f"{str(key)}={str(value)}")
-
     return "\n".join(lines)
 
 
@@ -67,10 +63,10 @@ def remove_duplicate_keys(lang_content: str) -> str:
     """Remove duplicate keys from lang file content, keeping first occurrence.
 
     Args:
-        lang_content (str): Original lang file content as a string.
+        lang_content (str): The content of the .lang file as a string.
 
     Returns:
-        str: Cleaned lang file content with duplicate keys removed.
+        str: The cleaned .lang file content with duplicates removed.
     """
     seen_keys: set[str] = set()
     result_lines: list[str] = []
@@ -85,7 +81,6 @@ def remove_duplicate_keys(lang_content: str) -> str:
         equal_index = trimmed_line.find("=")
         if equal_index > 0:
             key = trimmed_line[:equal_index].strip()
-
             if key not in seen_keys:
                 seen_keys.add(key)
                 result_lines.append(line)
@@ -99,17 +94,15 @@ def clean_lang_content(raw_content: str) -> str:
     """Clean and normalize language file content.
 
     Args:
-        raw_content (str): Raw content from the language file.
+        raw_content (str): The raw content of the language file.
 
     Returns:
-        str: Cleaned content with normalized line endings and deduped keys.
+        str: The cleaned and normalized content.
     """
     cleaned_content = raw_content.replace("\ufeff", "").replace("\r\n", "\n").replace("\r", "\n")
-
     cleaned_content = "\n".join(
         line for line in cleaned_content.splitlines() if line.strip(" \t\r\n\f\v")
     )
-
     return remove_duplicate_keys(cleaned_content) if cleaned_content.strip() else ""
 
 
@@ -117,10 +110,10 @@ def load_lang_file(file_path: Path) -> OrderedDict[str, str]:
     """Load a .lang file and convert it to an ordered dictionary.
 
     Args:
-        file_path (Path): Path to the .lang file.
+        file_path (Path): The path to the .lang file.
 
     Returns:
-        OrderedDict: Parsed language data.
+        OrderedDict: The loaded data as an ordered dictionary.
     """
     content = file_path.read_text(encoding="utf-8")
     cleaned_content = clean_lang_content(content)
@@ -131,21 +124,37 @@ def load_json_file(file_path: Path) -> dict[str, Any]:
     """Load a JSON file and return its contents.
 
     Args:
-        file_path (Path): Path to the JSON file.
+        file_path (Path): The path to the JSON file.
 
     Returns:
-        dict: Parsed JSON data.
+        dict: The loaded JSON data.
     """
     with file_path.open("r", encoding="utf-8") as f:
         return orjson.loads(f.read())
+
+
+def load_tsv_file(file_path: Path) -> dict[str, Any]:
+    """Load a TSV file and return its contents as structured data.
+
+    Args:
+        file_path (Path): The path to the TSV file.
+
+    Returns:
+        dict: A dictionary with 'headers' and 'rows' keys.
+    """
+    with file_path.open("r", encoding="utf-8", newline="") as f:
+        reader = csv.reader(f, delimiter="\t")
+        headers = next(reader, [])
+        rows = list(reader)
+    return {"headers": headers, "rows": rows}
 
 
 def save_lang_file(file_path: Path, data: dict[str, Any]) -> None:
     """Save data as a .lang file.
 
     Args:
-        file_path (Path): Destination path for the .lang file.
-        data (dict[str, Any]): Mapping to write as key=value lines.
+        file_path (Path): The path to save the .lang file.
+        data (dict[str, Any]): The data to save.
     """
     lang_content = convert_json_to_lang(data)
     file_path.write_text(lang_content, encoding="utf-8", newline="\n")
@@ -155,59 +164,106 @@ def save_json_file(file_path: Path, data: dict[str, Any], sort_keys: bool = True
     """Save data as a JSON file with proper formatting.
 
     Args:
-        file_path (Path): Destination path for the JSON file.
-        data (dict[str, Any]): Data to serialize.
-        sort_keys (bool): Whether to sort keys in the output.
+        file_path (Path): The path to save the JSON file.
+        data (dict[str, Any]): The data to save.
+        sort_keys (bool, optional): Whether to sort the keys. Defaults to True.
     """
     options = orjson.OPT_INDENT_2
     if sort_keys:
         options |= orjson.OPT_SORT_KEYS
-
     with file_path.open("wb") as f:
         f.write(orjson.dumps(data, option=options))
 
 
-def _crowdinize(data: dict[str, Any]) -> dict[str, dict[str, str]]:
-    return {k: {"text": v, "crowdinContext": ""} for k, v in data.items()}
-
-
-def _default_crowdin_path(input_path: Path) -> Path:
-    return input_path.with_name(input_path.stem + ".crowdin.json")
-
-
-def convert_lang_to_crowdin_file(lang_file: Path, output_file: Path | None = None) -> Path:
-    """Convert a .lang file to Crowdin source JSON and return output path.
+def save_tsv_file(file_path: Path, headers: list[str], rows: list[list[str]]) -> None:
+    """Save data as a TSV file.
 
     Args:
-        lang_file (Path): Source .lang file path.
-        output_file (Path | None): Optional output path.
-
-    Returns:
-        Path: Path to the created Crowdin JSON file.
+        file_path (Path): The path to save the TSV file.
+        headers (list[str]): The headers for the TSV file.
+        rows (list[list[str]]): The rows of data.
     """
-    data = load_lang_file(lang_file)
-    result = _crowdinize(data)
-    if output_file is None:
-        output_file = _default_crowdin_path(lang_file)
-    save_json_file(output_file, result, sort_keys=False)
-    return output_file
+    with file_path.open("w", encoding="utf-8", newline="") as f:
+        writer = csv.writer(f, delimiter="\t")
+        writer.writerow(headers)
+        writer.writerows(rows)
 
 
-def convert_json_to_crowdin_source(json_file: Path, output_file: Path | None = None) -> Path:
-    """Convert a plain JSON file to Crowdin source JSON and return output path.
+def extract_translation_from_tsv(tsv_file: Path) -> OrderedDict[str, str]:
+    """Extract translation data from TSV file.
 
     Args:
-        json_file (Path): Source JSON file path.
-        output_file (Path | None): Optional output path.
+        tsv_file (Path): The path to the TSV file.
 
     Returns:
-        Path: Path to the created Crowdin JSON file.
+        OrderedDict: The extracted translation data.
     """
-    data = load_json_file(json_file)
-    result = _crowdinize(data)
+    tsv_data = load_tsv_file(tsv_file)
+    headers = tsv_data["headers"]
+    rows = tsv_data["rows"]
+
+    if "Key" not in headers:
+        raise ValueError("TSV file must contain a 'Key' column")
+    if "Translation" not in headers:
+        raise ValueError("TSV file must contain a 'Translation' column")
+
+    key_index = headers.index("Key")
+    translation_index = headers.index("Translation")
+    result: OrderedDict[str, str] = OrderedDict()
+
+    for row in rows:
+        if len(row) > max(key_index, translation_index):
+            key = row[key_index]
+            translation = row[translation_index] if translation_index < len(row) else ""
+            if key and translation:
+                result[key] = translation
+
+    return result
+
+
+def apply_translation_to_tsv(
+    tsv_file: Path, translation_data: dict[str, Any], output_file: Path | None = None
+) -> Path:
+    """Apply translation data to TSV file, adding or updating the Translation column.
+
+    Args:
+        tsv_file (Path): The path to the TSV file.
+        translation_data (dict[str, Any]): The translation data to apply.
+        output_file (Path | None, optional): The output file path. Defaults to None.
+
+    Returns:
+        Path: The path to the output file.
+    """
     if output_file is None:
-        output_file = _default_crowdin_path(json_file)
-    save_json_file(output_file, result, sort_keys=False)
+        output_file = tsv_file
+
+    tsv_data = load_tsv_file(tsv_file)
+    headers = tsv_data["headers"]
+    rows = tsv_data["rows"]
+
+    if "Key" not in headers:
+        raise ValueError("TSV file must contain a 'Key' column")
+
+    key_index = headers.index("Key")
+
+    if "Translation" not in headers:
+        headers.append("Translation")
+        translation_index = len(headers) - 1
+        for row in rows:
+            while len(row) <= translation_index:
+                row.append("")
+    else:
+        translation_index = headers.index("Translation")
+
+    for row in rows:
+        if len(row) > key_index:
+            key = row[key_index]
+            if key in translation_data:
+                while len(row) <= translation_index:
+                    row.append("")
+                row[translation_index] = str(translation_data[key])
+
+    save_tsv_file(output_file, headers, rows)
     return output_file
 
 
@@ -215,15 +271,14 @@ def convert_lang_to_json_file(lang_file: Path, json_file: Path | None = None) ->
     """Convert a .lang file to a .json file and return output path.
 
     Args:
-        lang_file (Path): Source .lang file path.
-        json_file (Path | None): Optional output JSON path.
+        lang_file (Path): The path to the .lang file.
+        json_file (Path | None, optional): The output JSON file path. Defaults to None.
 
     Returns:
-        Path: Path to the created JSON file.
+        Path: The path to the output JSON file.
     """
     if json_file is None:
         json_file = lang_file.with_suffix(".json")
-
     data = load_lang_file(lang_file)
     save_json_file(json_file, data)
     return json_file
@@ -233,69 +288,205 @@ def convert_json_to_lang_file(json_file: Path, lang_file: Path | None = None) ->
     """Convert a .json file to a .lang file and return output path.
 
     Args:
-        json_file (Path): Source JSON file path.
-        lang_file (Path | None): Optional output .lang path.
+        json_file (Path): The path to the JSON file.
+        lang_file (Path | None, optional): The output .lang file path. Defaults to None.
 
     Returns:
-        Path: Path to the created .lang file.
+        Path: The path to the output .lang file.
     """
     if lang_file is None:
         lang_file = json_file.with_suffix(".lang")
-
     data = load_json_file(json_file)
     save_lang_file(lang_file, data)
     return lang_file
 
 
+def convert_tsv_to_json_file(tsv_file: Path, json_file: Path | None = None) -> Path:
+    """Convert a TSV file to a JSON file by extracting translations.
+
+    Args:
+        tsv_file (Path): The path to the TSV file.
+        json_file (Path | None, optional): The output JSON file path. Defaults to None.
+
+    Returns:
+        Path: The path to the output JSON file.
+    """
+    if json_file is None:
+        json_file = tsv_file.with_suffix(".json")
+    translation_data = extract_translation_from_tsv(tsv_file)
+    save_json_file(json_file, translation_data)
+    return json_file
+
+
+def convert_tsv_to_lang_file(tsv_file: Path, lang_file: Path | None = None) -> Path:
+    """Convert a TSV file to a LANG file by extracting translations.
+
+    Args:
+        tsv_file (Path): The path to the TSV file.
+        lang_file (Path | None, optional): The output .lang file path. Defaults to None.
+
+    Returns:
+        Path: The path to the output .lang file.
+    """
+    if lang_file is None:
+        lang_file = tsv_file.with_suffix(".lang")
+    translation_data = extract_translation_from_tsv(tsv_file)
+    save_lang_file(lang_file, translation_data)
+    return lang_file
+
+
+def convert_json_to_tsv_file(json_file: Path, tsv_file: Path) -> Path:
+    """Apply JSON translations to an existing TSV file.
+
+    Args:
+        json_file (Path): The path to the JSON file.
+        tsv_file (Path): The path to the TSV file.
+
+    Returns:
+        Path: The path to the updated TSV file.
+    """
+    translation_data = load_json_file(json_file)
+    return apply_translation_to_tsv(tsv_file, translation_data)
+
+
+def convert_lang_to_tsv_file(lang_file: Path, tsv_file: Path) -> Path:
+    """Apply LANG translations to an existing TSV file.
+
+    Args:
+        lang_file (Path): The path to the .lang file.
+        tsv_file (Path): The path to the TSV file.
+
+    Returns:
+        Path: The path to the updated TSV file.
+    """
+    translation_data = load_lang_file(lang_file)
+    return apply_translation_to_tsv(tsv_file, translation_data)
+
+
 def main() -> None:
-    """Command-line entry point for file conversions."""
+    """Command-line entry point for language file conversions."""
     import sys
 
     if len(sys.argv) < 2:
-        print("Usage: python convert.py <input_file> [output_file] [--crowdin-source]")
-        print(
-            "Converts between .lang and .json formats. .lang files are converted to"
-            " Crowdin source format by default. Use --crowdin-source to explicitly"
-            " request Crowdin output for .json input."
-        )
+        print("Usage: python convert.py <input_file> [output_file] [options]")
+        print("Converts between .lang, .json, and .tsv formats.")
+        print("\nOptions for TSV operations:")
+        print("  --apply-to <tsv>   Apply translations from input file to specified TSV file")
+        print("\nExamples:")
+        print("  python convert.py file.lang                    # Convert to JSON")
+        print("  python convert.py file.json output.lang        # Convert JSON to LANG")
+        print("  python convert.py file.tsv                     # Extract translations to JSON")
+        print("  python convert.py file.json --apply-to data.tsv # Apply JSON to TSV")
         sys.exit(1)
 
     input_file = Path(sys.argv[1])
     output_file = None
-    if len(sys.argv) > 2 and not sys.argv[2].startswith("--"):
-        output_file = Path(sys.argv[2])
+    apply_to_tsv = None
 
-    crowdin_mode = any(arg == "--crowdin-source" for arg in sys.argv)
+    i = 2
+    while i < len(sys.argv):
+        arg = sys.argv[i]
+        if arg == "--apply-to" and i + 1 < len(sys.argv):
+            apply_to_tsv = Path(sys.argv[i + 1])
+            i += 2
+        else:
+            if output_file is None:
+                output_file = Path(arg)
+            i += 1
 
     if not input_file.exists():
         print(f"Error: Input file '{input_file}' does not exist")
         sys.exit(1)
 
     try:
-        suffix = input_file.suffix.lower()
-        if crowdin_mode:
-            if suffix == ".json":
-                result_file = convert_json_to_crowdin_source(input_file, output_file)
-            elif suffix == ".lang":
-                result_file = convert_lang_to_crowdin_file(input_file, output_file)
-            else:
-                print("Error: Crowdin source mode only supports .json or .lang inputs")
+        input_suffix = input_file.suffix.lower()
+
+        if apply_to_tsv is not None:
+            if not apply_to_tsv.exists():
+                print(f"Error: Target TSV file '{apply_to_tsv}' does not exist")
                 sys.exit(1)
-            print(f"Converted {input_file} to Crowdin source format: {result_file}")
+            result_file = handle_apply_to_tsv(input_file, input_suffix, apply_to_tsv)
+            print(f"Applied translations from {input_file} to {result_file}")
         else:
-            if suffix == ".lang":
-                result_file = convert_lang_to_crowdin_file(input_file, output_file)
-                print(f"Converted {input_file} to Crowdin source format: {result_file}")
-            elif suffix == ".json":
-                result_file = convert_json_to_lang_file(input_file, output_file)
-                print(f"Converted {input_file} to {result_file}")
-            else:
-                print(f"Error: Unsupported file extension '{input_file.suffix}'")
-                print("Supported extensions: .lang, .json")
-                sys.exit(1)
+            result_file = handle_normal_conversion(input_file, input_suffix, output_file)
+            action = "Extracted translations from" if input_suffix == ".tsv" else "Converted"
+            print(f"{action} {input_file} -> {result_file}")
+
     except Exception as e:
         print(f"Error: {e}")
         sys.exit(1)
+
+
+def handle_apply_to_tsv(input_file: Path, input_suffix: str, tsv_file: Path) -> Path:
+    """Handle applying translations to TSV file.
+
+    Args:
+        input_file (Path): The path to the input file.
+        input_suffix (str): The suffix of the input file.
+        tsv_file (Path): The path to the TSV file.
+
+    Returns:
+        Path: The path to the updated TSV file.
+    """
+    converters = {
+        ".json": convert_json_to_tsv_file,
+        ".lang": convert_lang_to_tsv_file,
+    }
+
+    if input_suffix not in converters:
+        raise ValueError(f"Cannot apply {input_suffix} files to TSV")
+
+    return converters[input_suffix](input_file, tsv_file)
+
+
+def handle_normal_conversion(input_file: Path, input_suffix: str, output_file: Path | None) -> Path:
+    """Handle normal file conversions.
+
+    Args:
+        input_file (Path): The path to the input file.
+        input_suffix (str): The suffix of the input file.
+        output_file (Path | None): The output file path.
+
+    Returns:
+        Path: The path to the output file.
+    """
+    converters = {
+        ".lang": convert_lang_to_json_file,
+        ".json": convert_json_to_lang_file,
+        ".tsv": handle_tsv_conversion,
+    }
+
+    if input_suffix not in converters:
+        raise ValueError(
+            f"Unsupported file extension '{input_suffix}'. Supported extensions: .lang, .json, .tsv"
+        )
+
+    return converters[input_suffix](input_file, output_file)
+
+
+def handle_tsv_conversion(input_file: Path, output_file: Path | None) -> Path:
+    """Handle TSV file conversion logic.
+
+    Args:
+        input_file (Path): The path to the input TSV file.
+        output_file (Path | None): The output file path.
+
+    Returns:
+        Path: The path to the output file.
+    """
+    if output_file is None:
+        return convert_tsv_to_json_file(input_file, None)
+
+    output_suffix = output_file.suffix.lower()
+    converters = {
+        ".json": convert_tsv_to_json_file,
+        ".lang": convert_tsv_to_lang_file,
+    }
+
+    if output_suffix not in converters:
+        raise ValueError(f"Unsupported output format '{output_suffix}' for TSV input")
+
+    return converters[output_suffix](input_file, output_file)
 
 
 if __name__ == "__main__":
