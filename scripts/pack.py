@@ -87,38 +87,28 @@ def create_pack_archive(branch: str, lang_files: list[Path], version: str) -> No
 def main() -> None:
     """Convert TSV files to lang format and create resource packs.
 
-    Processes all TSV files in the sources directory, converts them to Minecraft
+    Processes all TSV files in the patched directory, converts them to Minecraft
     lang format, and packages them into distributable resource packs for each branch.
     """
-    print("Converting TSV files to lang format...")
-
-    sources_dir = Path("sources")
-    if not sources_dir.exists():
-        print("Sources directory not found!")
-        return
+    print("Converting patched TSV files to lang format...")
 
     patched_dir = Path("patched")
-    patched_dir.mkdir(exist_ok=True)
+    if not patched_dir.exists():
+        print("Patched directory not found!")
+        return
 
-    for branch_dir in sources_dir.iterdir():
+    for branch_dir in patched_dir.iterdir():
         if not branch_dir.is_dir():
             continue
 
         print(f"Processing branch: {branch_dir.name}")
 
-        output_branch_dir = patched_dir / branch_dir.name
-        output_branch_dir.mkdir(exist_ok=True)
-
         for tsv_file in branch_dir.glob("*.tsv"):
-            lang_code = tsv_file.stem
-            if lang_code == "en_US":
-                continue
-
             print(f"  Converting {tsv_file.name}")
 
             translation_data = extract_translation_from_tsv(tsv_file)
 
-            output_lang_file = output_branch_dir / f"{lang_code}.lang"
+            output_lang_file = tsv_file.with_suffix(".lang")
             save_lang_file(output_lang_file, translation_data)
 
     print("\nPacking resource packs...")
