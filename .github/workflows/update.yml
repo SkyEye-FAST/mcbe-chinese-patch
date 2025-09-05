@@ -32,7 +32,7 @@ jobs:
         run: uv run scripts/merge.py
 
       - name: Generate language files with contexts
-        run: uv run scripts/source.py
+        run: uv run scripts/update_source.py
 
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
