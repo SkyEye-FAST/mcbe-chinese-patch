@@ -1,7 +1,14 @@
-"""Minecraft: Bedrock Edition Chinese Patch Resource Pack Packer.
+"""Minecraft Bedrock Edition resource pack packer.
 
-This module provides utilities for converting Crowdin JSON files to lang format
-and packing them into Minecraft Bedrock Edition resource packs.
+This module converts translation data from TSV format to Minecraft lang files
+and packages them into distributable resource packs. The process involves:
+
+1. Reading TSV files from the sources directory containing translation data
+2. Converting TSV data to Minecraft .lang format using convert module functions
+3. Generating version-specific resource pack archives (.zip and .mcpack)
+
+The module supports multiple branches (release, beta, preview) with different
+versioning schemes and automatically organizes output files in the packed directory.
 """
 
 import json
@@ -9,24 +16,19 @@ import shutil
 import zipfile
 from pathlib import Path
 
-from convert import load_json_file, save_lang_file
-
-
-def process_crowdin_json(json_data: dict) -> dict[str, str]:
-    """Extract text values from Crowdin JSON structure."""
-    result = {}
-    for key, value in json_data.items():
-        if isinstance(value, dict) and "text" in value:
-            result[key] = value["text"]
-        elif isinstance(value, str):
-            result[key] = value
-        else:
-            result[key] = str(value)
-    return result
+from convert import extract_translation_from_tsv, save_lang_file
 
 
 def format_version(version_str: str, is_dev: bool = False) -> str:
-    """Format version string according to branch requirements."""
+    """Format version string according to branch requirements.
+
+    Args:
+        version_str (str): Version string in format "x.y.z.w"
+        is_dev (bool, optional): Whether this is a development build. Defaults to False.
+
+    Returns:
+        str: Formatted version string.
+    """
     x, y, z, _ = version_str.split(".")
     z_int = int(z)
 
@@ -40,7 +42,13 @@ def format_version(version_str: str, is_dev: bool = False) -> str:
 
 
 def create_pack_archive(branch: str, lang_files: list[Path], version: str) -> None:
-    """Create zip and mcpack files for a branch."""
+    """Create zip and mcpack files for a branch.
+
+    Args:
+        branch (str): The branch name (e.g., "release", "beta", "preview")
+        lang_files (list[Path]): List of language file paths to include
+        version (str): Version string for the pack filename
+    """
     output_dir = Path("packed")
     output_dir.mkdir(exist_ok=True)
 
@@ -77,25 +85,41 @@ def create_pack_archive(branch: str, lang_files: list[Path], version: str) -> No
 
 
 def main() -> None:
-    """Convert JSON files and create resource packs."""
-    print("Converting patched JSON files to lang format...")
+    """Convert TSV files to lang format and create resource packs.
 
-    patched_dir = Path("patched")
-    if not patched_dir.exists():
-        print("Patched directory not found!")
+    Processes all TSV files in the sources directory, converts them to Minecraft
+    lang format, and packages them into distributable resource packs for each branch.
+    """
+    print("Converting TSV files to lang format...")
+
+    sources_dir = Path("sources")
+    if not sources_dir.exists():
+        print("Sources directory not found!")
         return
 
-    for branch_dir in patched_dir.iterdir():
+    patched_dir = Path("patched")
+    patched_dir.mkdir(exist_ok=True)
+
+    for branch_dir in sources_dir.iterdir():
         if not branch_dir.is_dir():
             continue
 
         print(f"Processing branch: {branch_dir.name}")
 
-        for json_file in branch_dir.glob("*.json"):
-            print(f"  Converting {json_file.name}")
-            json_data = load_json_file(json_file)
-            clean_data = process_crowdin_json(json_data)
-            save_lang_file(json_file.with_suffix(".lang"), clean_data)
+        output_branch_dir = patched_dir / branch_dir.name
+        output_branch_dir.mkdir(exist_ok=True)
+
+        for tsv_file in branch_dir.glob("*.tsv"):
+            lang_code = tsv_file.stem
+            if lang_code == "en_US":
+                continue
+
+            print(f"  Converting {tsv_file.name}")
+
+            translation_data = extract_translation_from_tsv(tsv_file)
+
+            output_lang_file = output_branch_dir / f"{lang_code}.lang"
+            save_lang_file(output_lang_file, translation_data)
 
     print("\nPacking resource packs...")
 
