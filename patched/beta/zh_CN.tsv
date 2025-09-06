@@ -13,7 +13,7 @@ zh_CN: 关闭
 zh_TW: 關閉"	"关闭"
 "3d_export.remixServiceDiscontinued"	"Note: Remix3D Upload service is no longer available, use Export to save locally instead."	"Original Translation
 zh_CN: 注意：Remix3D 上传服务不再可用，请使用“导出”来进行本地保存。
-zh_TW: 注意：Remix3D 上傳服務已不再提供，使用「匯出」即可改為本機儲存。"	""
+zh_TW: 注意：Remix3D 上傳服務已不再提供，使用「匯出」即可改為本機儲存。"	"注意：Remix3D上传服务不再可用，请使用“导出”来进行本地保存。"
 "3d_export.remove"	"Remove"	"Original Translation
 zh_CN: 移除
 zh_TW: 移除"	"移除"
@@ -67,19 +67,19 @@ zh_CN: 按钮
 zh_TW: 按鈕"	"按钮"
 "accessibility.chat.howtoemote"	"Press or Hold %s to Emote"	"Original Translation
 zh_CN: 按或按住 %s 发表情
-zh_TW: 按住 %s 以顯示表情符號"	""
+zh_TW: 按住 %s 以顯示表情符號"	"按或按住%s做表情"
 "accessibility.chat.howtoopen"	"Press %s to open chat"	"Original Translation
 zh_CN: 按 %s 打开聊天
-zh_TW: 按 %s 開啟聊天"	""
+zh_TW: 按 %s 開啟聊天"	"按%s打开聊天"
 "accessibility.chat.tts.gamepad.back"	"Press the %s to go back"	"Original Translation
 zh_CN: 按下 %s 返回
-zh_TW: 按 %s 返回"	""
+zh_TW: 按 %s 返回"	"按%s返回"
 "accessibility.chat.tts.gamepad.exitChat"	"Press the %s to exit chat"	"Original Translation
 zh_CN: 按下 %s 退出聊天
-zh_TW: 按 %s 退出聊天"	""
+zh_TW: 按 %s 退出聊天"	"按%s退出聊天"
 "accessibility.chat.tts.gamepad.sendMessage"	"Press the %s to send message"	"Original Translation
 zh_CN: 按下 %s 发送消息
-zh_TW: 按 %s 發送消息"	""
+zh_TW: 按 %s 發送消息"	"按%s发送消息"
 "accessibility.chat.tts.hideChat"	"Hide chat"	"Original Translation
 zh_CN: 隐藏聊天
 zh_TW: 隱藏聊天"	"隐藏聊天"
@@ -106,13 +106,13 @@ zh_CN: 复选框
 zh_TW: 核取方塊"	"复选框"
 "accessibility.controllerLayoutScreen.buttonBoundTo"	"%s button: %s"	"Original Translation
 zh_CN: %s 按钮：%s
-zh_TW: %s 按鈕：%s"	""
+zh_TW: %s 按鈕：%s"	"%s按钮：%s"
 "accessibility.controllerLayoutScreen.buttonRemapped"	"%s is now bound to %s"	"Original Translation
 zh_CN: %s 已被绑定至 %s
-zh_TW: %s 現在綁定至 %s"	""
+zh_TW: %s 現在綁定至 %s"	"%s已被绑定至%s"
 "accessibility.controllerLayoutScreen.buttonRemapping"	"Select input to bind for %s"	"Original Translation
 zh_CN: 为 %s 选择要绑定的输入
-zh_TW: 選擇要和 %s 綁定的輸入"	""
+zh_TW: 選擇要和 %s 綁定的輸入"	"为%s选择要绑定的输入"
 "accessibility.disableTTS"	"Text To Speech disabled"	"Original Translation
 zh_CN: 文本转语音已禁用
 zh_TW: 文字轉換語音已停用"	"文本转语音已禁用"
@@ -121,10 +121,10 @@ zh_CN: %s% 折扣
 zh_TW: %s% 折扣"	"%s%折扣"
 "accessibility.discount.price"	"Discounted Price %s Minecoins"	"Original Translation
 zh_CN: 折扣价 %s Minecoin
-zh_TW: 折扣價 %s 錢幣"	""
+zh_TW: 折扣價 %s 錢幣"	"折扣价%s枚Minecoin"
 "accessibility.downloading.Progress"	"Downloading %s percent"	"Original Translation
 zh_CN: 正在下载 %s%
-zh_TW: 下載中，百分之 %s"	""
+zh_TW: 下載中，百分之 %s"	"已下载%s%"
 "accessibility.downloading.canceled"	"Download canceled"	"Original Translation
 zh_CN: 下载已取消
 zh_TW: 下載已取消"	"下载已取消"
@@ -142,22 +142,22 @@ zh_CN: 下拉
 zh_TW: 下拉式選單"	"下拉列表"
 "accessibility.emotes.assigned"	"The %s emote assigned"	"Original Translation
 zh_CN: 已指派 %s 表情
-zh_TW: 已分配 %s 表情"	""
+zh_TW: 已分配 %s 表情"	"已指派%s表情"
 "accessibility.emotes.exitEmotesInstruction.gamepad"	"Press the %s to change emotes or %s to exit."	"Original Translation
 zh_CN: 按下 %s 更改表情或按下 %s 退出。
-zh_TW: 按下 %s 可更換表情動作，或按下 %s 可退出。"	""
+zh_TW: 按下 %s 可更換表情動作，或按下 %s 可退出。"	"按%s更改表情或按%s退出。"
 "accessibility.emotes.exitEmotesInstruction.keyboard"	"Press %s to access the Change Emotes button or %s to exit."	"Original Translation
 zh_CN: 按下 %s 访问更改表情按钮或按下 %s 退出。
-zh_TW: 按下 %s 可開啟「更換表情動作」按鈕，或按下 %s 可退出。"	""
+zh_TW: 按下 %s 可開啟「更換表情動作」按鈕，或按下 %s 可退出。"	"按%s访问更改表情按钮或按%s退出。"
 "accessibility.emotes.hovered"	"%s, emote button %d, %d of %d"	"Original Translation
 zh_CN: %s，表情按钮 %d，%d 的 %d
-zh_TW: %s、表情符號按鈕 %d、%d/%d"	""
+zh_TW: %s、表情符號按鈕 %d、%d/%d"	"%s，表情按钮%d，第%d个，共%d个"
 "accessibility.emotes.instruction"	"Press %s, %s, %s, or %s, to play emotes."	"Original Translation
 zh_CN: 按下 %s、%s、%s 或 %s 以播放表情。
-zh_TW: 按下 %s、%s、%s 或 %s 來使用表情動作。"	""
+zh_TW: 按下 %s、%s、%s 或 %s 來使用表情動作。"	"按%s、%s、%s或%s做表情。"
 "accessibility.emotes.playFailed"	"No emote assigned to this button."	"Original Translation
 zh_CN: 此按钮没有指派表情。
-zh_TW: 此按鈕尚未指定任何表情動作。"	""
+zh_TW: 此按鈕尚未指定任何表情動作。"	"此按钮未指派表情。"
 "accessibility.emotes.playSuccess"	"Play emote"	"Original Translation
 zh_CN: 播放表情
 zh_TW: 播放表情"	"做表情"
@@ -169,22 +169,22 @@ zh_CN: 文本转语音已启用
 zh_TW: 文字轉換語音已啟用"	"文本转语音已启用"
 "accessibility.fullprice"	"Full Price %s Minecoins"	"Original Translation
 zh_CN: 全价 %s Minecoin
-zh_TW: 原價 %s 錢幣"	""
+zh_TW: 原價 %s 錢幣"	"原价%s枚Minecoin"
 "accessibility.game.playerView"	"Player view"	"Original Translation
 zh_CN: 玩家视图
-zh_TW: 玩家視野"	""
+zh_TW: 玩家視野"	"玩家视图"
 "accessibility.gamepad.bumper.left"	"Left Bumper"	"Original Translation
 zh_CN: 左缓冲键
-zh_TW: LB 鍵"	""
+zh_TW: LB 鍵"	"左缓冲键"
 "accessibility.gamepad.bumper.right"	"Right Bumper"	"Original Translation
 zh_CN: 右缓冲键
-zh_TW: RB 鍵"	""
+zh_TW: RB 鍵"	"右缓冲键"
 "accessibility.gamepad.button.systemLeft"	"View Button"	"Original Translation
 zh_CN: “视图”按钮
-zh_TW: 視圖按鈕"	""
+zh_TW: 視圖按鈕"	"视图按钮"
 "accessibility.gamepad.button.systemRight"	"Menu Button"	"Original Translation
 zh_CN: “菜单”按钮
-zh_TW: 選項按鈕"	""
+zh_TW: 選項按鈕"	"菜单按钮"
 "accessibility.gamepad.dpad.down"	"D-Pad Down"	"Original Translation
 zh_CN: 方向键下
 zh_TW: 下方向鍵"	"下方向键"
@@ -268,7 +268,7 @@ zh_CN: 右方括号键
 zh_TW: 右方括號鍵"	"右方括号键"
 "accessibility.list.or.three_or_more.first"	"%s"	"Original Translation
 zh_CN: %s
-zh_TW: %s"	""
+zh_TW: %s"	"%s"
 "accessibility.list.or.three_or_more.inner"	", %s"	"Original Translation
 zh_CN: ，%s
 zh_TW: ，%s"	"、%s"
@@ -283,7 +283,7 @@ zh_CN: 完成
 zh_TW: 完成"	"完成"
 "accessibility.minecoin"	"Minecoin"	"Original Translation
 zh_CN: Minecoin
-zh_TW: Minecoin"	""
+zh_TW: Minecoin"	"Minecoin"
 "accessibility.minecoins"	"Minecoins"	"Original Translation
 zh_CN: Minecoin
 zh_TW: Minecoin"	"Minecoin"
@@ -340,25 +340,25 @@ zh_CN: 关闭
 zh_TW: 關閉"	"关闭"
 "accessibility.popup.message.default"	"On your device, screen reader support is enabled by default."	"Original Translation
 zh_CN: 你的设备上默认启用了屏幕阅读器支持。
-zh_TW: 根據預設，螢幕閱讀器在您的裝置為已經啟用。"	""
+zh_TW: 根據預設，螢幕閱讀器在您的裝置為已經啟用。"	"你的设备上默认启用了屏幕阅读器支持。"
 "accessibility.popup.message.line1"	"Welcome to Minecraft!"	"Original Translation
 zh_CN: 欢迎来到《我的世界》！
 zh_TW: 歡迎來到《Minecraft》！"	"欢迎来到Minecraft！"
 "accessibility.popup.message.line3"	"Would you like to turn this off?"	"Original Translation
 zh_CN: 您想将它关掉吗？
-zh_TW: 您是否要將此關閉？"	""
+zh_TW: 您是否要將此關閉？"	"你想要将它关掉吗？"
 "accessibility.popup.message.platform"	"We've detected that your system has a screen reader enabled and have automatically enabled Minecraft's screen reader."	"Original Translation
 zh_CN: 我们发现您的系统启用了一个屏幕阅读器，并且自动启用了 Minecraft 的屏幕阅读器。
-zh_TW: 我們已偵測到您的系統已啟用螢幕閱讀器，並已自動啟用 Minecraft 的螢幕閱讀器。"	""
+zh_TW: 我們已偵測到您的系統已啟用螢幕閱讀器，並已自動啟用 Minecraft 的螢幕閱讀器。"	"我们检测到你的系统启用了屏幕阅读器，已自动启用Minecraft的屏幕阅读器。"
 "accessibility.popup.message.touch"	"Touch and drag to find controls on the screen, and double tap controls to select. To scroll on a screen, double tap and hold while swiping up or down."	"Original Translation
 zh_CN: 触摸和拖动以在屏幕上找到控件，双击控件以进行选择。若要在屏幕上滚动，上下滑动时双击并按住即可。
-zh_TW: 觸碰並拖曳以尋找畫面上的控制選項，然後點按兩下控制選項即可選取。若要在畫面上捲動，點按兩下，並在向上或向下滑動時按住。"	""
+zh_TW: 觸碰並拖曳以尋找畫面上的控制選項，然後點按兩下控制選項即可選取。若要在畫面上捲動，點按兩下，並在向上或向下滑動時按住。"	"触摸和拖动以在屏幕上找到控件，双击控件以进行选择。若要在屏幕上滚动，上下滑动时双击并按住即可。"
 "accessibility.popup.message.xbl"	"We've detected that your account has ""Let games read to me"" enabled and have automatically enabled Minecraft's screen reader."	"Original Translation
 zh_CN: 我们发现您的账户已经启用了“课程阅读模式”，并且自动启用了 Minecraft 的屏幕阅读器。
-zh_TW: 我們已偵測到您的帳戶已啟用「讓遊戲讀給我聽」的功能，並已自動啟用 Minecraft 的螢幕閱讀器。"	""
+zh_TW: 我們已偵測到您的帳戶已啟用「讓遊戲讀給我聽」的功能，並已自動啟用 Minecraft 的螢幕閱讀器。"	"我们检测到你的账户启用了“让游戏为我朗读”，已自动启用Minecraft的屏幕阅读器。"
 "accessibility.popup.right_button_text"	"Leave On"	"Original Translation
 zh_CN: 保持打开
-zh_TW: 保持開啟"	""
+zh_TW: 保持開啟"	"保持打开"
 "accessibility.popup.title"	"Turn Off Screen Reader?"	"Original Translation
 zh_CN: 关闭屏幕阅读器？
 zh_TW: 是否關閉螢幕閱讀器？"	"关闭屏幕阅读器？"
@@ -379,70 +379,70 @@ zh_CN: 聊天屏幕
 zh_TW: 聊天畫面"	"聊天屏幕"
 "accessibility.screenName.chatSettings"	"Chat Settings Screen"	"Original Translation
 zh_CN: 聊天设置屏幕
-zh_TW: 聊天設定畫面"	""
+zh_TW: 聊天設定畫面"	"聊天设置屏幕"
 "accessibility.screenName.createNew"	"Create New Screen"	"Original Translation
 zh_CN: 创建新的屏幕
 zh_TW: 建立新畫面"	"创建新的屏幕"
 "accessibility.screenName.createWorld"	"Create World Settings Screen"	"Original Translation
 zh_CN: 创建世界设置屏幕
-zh_TW: 建立世界設定畫面"	""
+zh_TW: 建立世界設定畫面"	"创建世界设置屏幕"
 "accessibility.screenName.editCharacter"	"Character Creator"	"Original Translation
 zh_CN: 角色创建器
-zh_TW: 自訂角色"	""
+zh_TW: 自訂角色"	"角色创建器"
 "accessibility.screenName.editExternalServer"	"Edit External Server Screen"	"Original Translation
 zh_CN: 编辑外部服务器屏幕
-zh_TW: 編輯外部伺服器畫面"	""
+zh_TW: 編輯外部伺服器畫面"	"编辑外部服务器屏幕"
 "accessibility.screenName.editWorldSettings"	"Edit World Settings Screen"	"Original Translation
 zh_CN: 编辑世界设置屏幕
-zh_TW: 編輯世界設定畫面"	""
+zh_TW: 編輯世界設定畫面"	"编辑世界设置屏幕"
 "accessibility.screenName.emoteWheel"	"Emotes Screen"	"Original Translation
 zh_CN: 表情屏幕
-zh_TW: 表情畫面"	""
+zh_TW: 表情畫面"	"表情屏幕"
 "accessibility.screenName.encyclopedia"	"Encyclopedia Screen"	"Original Translation
 zh_CN: 百科全书屏幕
-zh_TW: 百科全書畫面"	""
+zh_TW: 百科全書畫面"	"百科全书屏幕"
 "accessibility.screenName.error"	"Error Screen"	"Original Translation
 zh_CN: 错误屏幕
-zh_TW: 錯誤畫面"	""
+zh_TW: 錯誤畫面"	"错误屏幕"
 "accessibility.screenName.howToPlay"	"How To Play Screen"	"Original Translation
 zh_CN: 帮助屏幕
-zh_TW: 遊戲說明畫面"	""
+zh_TW: 遊戲說明畫面"	"帮助屏幕"
 "accessibility.screenName.inviteToGame"	"Invite To Game Screen"	"Original Translation
 zh_CN: 邀请至游戏屏幕
-zh_TW: 邀請至遊戲畫面"	""
+zh_TW: 邀請至遊戲畫面"	"邀请至游戏屏幕"
 "accessibility.screenName.joinByConnectionID"	"Join by connection I D dialog"	"Original Translation
 zh_CN: 通过连接 ID 对话框加入
-zh_TW: 加入連線 ID 對話方塊"	""
+zh_TW: 加入連線 ID 對話方塊"	"通过连接ID加入对话框"
 "accessibility.screenName.joinByIP"	"Join by IP dialog"	"Original Translation
 zh_CN: 通过 IP 对话框加入
-zh_TW: 使用 IP 對話方塊加入"	""
+zh_TW: 使用 IP 對話方塊加入"	"通过IP加入对话框"
 "accessibility.screenName.joinCode"	"Join Code dialog"	"Original Translation
 zh_CN: 加入代码对话框
-zh_TW: 加入代碼對話方塊"	""
+zh_TW: 加入代碼對話方塊"	"通过代码加入对话框"
 "accessibility.screenName.library"	"Library Screen"	"Original Translation
 zh_CN: 库屏幕
-zh_TW: 資料庫畫面"	""
+zh_TW: 資料庫畫面"	"库屏幕"
 "accessibility.screenName.modalDialog"	"Popup dialog"	"Original Translation
 zh_CN: 弹出对话框
-zh_TW: 彈出式對話"	""
+zh_TW: 彈出式對話"	"弹出对话框"
 "accessibility.screenName.myServers"	"My Servers Screen"	"Original Translation
 zh_CN: 我的服务器界面
-zh_TW: 我的伺服器畫面"	""
+zh_TW: 我的伺服器畫面"	"我的服务器屏幕"
 "accessibility.screenName.myTemplates"	"My Templates Screen"	"Original Translation
 zh_CN: 我的模板屏幕
-zh_TW: 我的範本畫面"	""
+zh_TW: 我的範本畫面"	"我的模板屏幕"
 "accessibility.screenName.myWorlds"	"My Worlds Screen"	"Original Translation
 zh_CN: 我的世界屏幕
-zh_TW: 我的世界畫面"	""
+zh_TW: 我的世界畫面"	"我的世界屏幕"
 "accessibility.screenName.patchNotes"	"Patch Notes Screen"	"Original Translation
 zh_CN: 补丁说明屏幕
-zh_TW: 修補說明畫面"	""
+zh_TW: 修補說明畫面"	"补丁说明屏幕"
 "accessibility.screenName.pause"	"Game menu"	"Original Translation
 zh_CN: 游戏菜单
-zh_TW: 遊戲目錄"	""
+zh_TW: 遊戲目錄"	"游戏菜单"
 "accessibility.screenName.permissions"	"Permissions Screen"	"Original Translation
 zh_CN: 权限屏幕
-zh_TW: 權限畫面"	""
+zh_TW: 權限畫面"	"权限屏幕"
 "accessibility.screenName.play"	"Play Screen"	"Original Translation
 zh_CN: 课程屏幕
 zh_TW: 遊戲畫面"	"开始游戏屏幕"
@@ -535,7 +535,7 @@ zh_CN: 标签
 zh_TW: 標籤"	"选项卡"
 "accessibility.text.CurrencyExceptions"	"PLN"	"Original Translation
 zh_CN: PLN
-zh_TW: PLN"	""
+zh_TW: PLN"	"PLN"
 "accessibility.text.PLN"	"Polish Zloty:Groszy:."	"Original Translation
 zh_CN: Polish Zloty:Groszy:.
 zh_TW: Polish Zloty:Groszy:."	"波兰兹罗提:Groszy:。"
@@ -670,37 +670,37 @@ zh_CN: 管理帐户
 zh_TW: 管理帳戶"	"管理账户"
 "accounts.name"	"Name: %s (%s)"	"Original Translation
 zh_CN: 姓名：%s (%s)
-zh_TW: 名稱：%s (%s)"	""
+zh_TW: 名稱：%s (%s)"	"名称：%s（%s）"
 "accounts.signOut"	"Sign Out"	"Original Translation
 zh_CN: 注销
-zh_TW: 登出"	""
+zh_TW: 登出"	"退出登录"
 "accounts.signOut.fail.body.line1"	"We were unable to sign you out at this time. Please try again later. This will not prevent you from signing in with another account."	"Original Translation
 zh_CN: 我们暂时无法让您注销。请稍后再试。但这不会阻止您使用其他账户登录。
-zh_TW: 目前無法登出，請稍後再試。目前的登入不會妨礙您使用另一個帳號登入。"	""
+zh_TW: 目前無法登出，請稍後再試。目前的登入不會妨礙您使用另一個帳號登入。"	"我们目前无法使你退出登录。请稍后再试。这不会阻止你使用另一个账户登录。"
 "accounts.signOut.fail.body.line2"	"Error code: %s"	"Original Translation
 zh_CN: 错误代码：%s
-zh_TW: 錯誤代碼：%s"	""
+zh_TW: 錯誤代碼：%s"	"错误代码：%s"
 "accounts.signOut.fail.hyperLink.text"	"Learn more"	"Original Translation
 zh_CN: 了解更多
 zh_TW: 深入了解"	"了解更多"
 "accounts.signOut.fail.hyperLink.uri"	"https://aka.ms/mcedu-login"	"Original Translation
 zh_CN: https://aka.ms/mcedu-login
-zh_TW: https://aka.ms/mcedu-login"	""
+zh_TW: https://aka.ms/mcedu-login"	"https://aka.ms/mcedu-login"
 "accounts.signOut.fail.title"	"Sign-out failed"	"Original Translation
 zh_CN: 注销失败
-zh_TW: 登出失敗"	""
+zh_TW: 登出失敗"	"退出登录失败"
 "accounts.signOutConfirmation"	"Do you want to sign out and switch accounts?"	"Original Translation
 zh_CN: 是否要注销并切换账户？
-zh_TW: 您是否要登出並切換帳戶？"	""
+zh_TW: 您是否要登出並切換帳戶？"	"是否要退出登录并切换账户？"
 "accounts.signedInAs"	"Signed in as"	"Original Translation
 zh_CN: 登录身份为
-zh_TW: 已登入為"	""
+zh_TW: 已登入為"	"已登录为"
 "accounts.switch"	"Switch Accounts"	"Original Translation
 zh_CN: 切换账户
 zh_TW: 切換帳戶"	"切换账户"
 "accounts.switchConfirmation"	"Do you want to switch accounts? Your current account will stay signed in."	"Original Translation
 zh_CN: 您想要切换帐户吗？您的当前帐户将保持登录状态。
-zh_TW: 您是否要切換帳戶？您目前的帳戶將保持登入狀態。"	""
+zh_TW: 您是否要切換帳戶？您目前的帳戶將保持登入狀態。"	"你想要切换账户吗？当前账户将保持登录状态。"
 "achievement.acquireIron"	"Acquire Hardware"	"Original Translation
 zh_CN: 来硬的
 zh_TW: 來硬的"	"来硬的"
@@ -925,295 +925,295 @@ zh_CN: 击败末影龙
 zh_TW: 擊敗終界龍"	"击败末影龙"
 "achievement.uninitScore"	"--"	"Original Translation
 zh_CN: --
-zh_TW: --"	""
+zh_TW: --"	"--"
 "achievement.unknown"	"???"	"Original Translation
 zh_CN: ???
-zh_TW: ？？？"	""
+zh_TW: ？？？"	"???"
 "action.hint.exit.boat"	"Tap jump to exit the boat"	"Original Translation
 zh_CN: 点击“跳跃”离开船
-zh_TW: 按一下跳躍離開小船"	""
+zh_TW: 按一下跳躍離開小船"	"点击“跳跃”离开船"
 "action.hint.exit.camel"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻触潜行可以下马
-zh_TW: 點擊潛行以取消搭乘"	""
+zh_TW: 點擊潛行以取消搭乘"	"点击“潜行”脱离"
 "action.hint.exit.chest_boat"	"Tap jump to exit the boat"	"Original Translation
 zh_CN: 点击“跳跃”离开船
-zh_TW: 按一下跳躍離開小船"	""
+zh_TW: 按一下跳躍離開小船"	"点击“跳跃”离开船"
 "action.hint.exit.console.boat"	"Press :_input_key.jump: to exit the boat"	"Original Translation
 zh_CN: 按下 :_input_key.jump: 离开船
-zh_TW: 按 :_input_key.jump: 離開小船"	""
+zh_TW: 按 :_input_key.jump: 離開小船"	"按:_input_key.jump:离开船"
 "action.hint.exit.console.camel"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:脱离"
 "action.hint.exit.console.chest_boat"	"Press :_input_key.jump: to exit the boat"	"Original Translation
 zh_CN: 按下 :_input_key.jump: 离开船
-zh_TW: 按 :_input_key.jump: 離開小船"	""
+zh_TW: 按 :_input_key.jump: 離開小船"	"按:_input_key.jump:离开船"
 "action.hint.exit.console.donkey"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:脱离"
 "action.hint.exit.console.happy_ghast"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:脱离"
 "action.hint.exit.console.horse"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:脱离"
 "action.hint.exit.console.llama"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:脱离"
 "action.hint.exit.console.minecart"	"Press :_input_key.jump: to exit the minecart"	"Original Translation
 zh_CN: 按下 :_input_key.jump: 离开矿车
-zh_TW: 按 :_input_key.jump: 離開礦車"	""
+zh_TW: 按 :_input_key.jump: 離開礦車"	"按:_input_key.jump:离开矿车"
 "action.hint.exit.console.mule"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:脱离"
 "action.hint.exit.console.pig"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:脱离"
 "action.hint.exit.console.raft"	"Press :_input_key.jump: to exit the raft"	"Original Translation
 zh_CN: 按下 :_input_key.jump: 离开竹筏
-zh_TW: 按 :_input_key.jump: 離開木筏"	""
+zh_TW: 按 :_input_key.jump: 離開木筏"	"按:_input_key.jump:离开竹筏"
 "action.hint.exit.console.skeleton_horse"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:脱离"
 "action.hint.exit.console.strider"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:脱离"
 "action.hint.exit.console.trader_llama"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:脱离"
 "action.hint.exit.donkey"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻按潜行可以下马
-zh_TW: 輕觸潛行以取消乘坐"	""
+zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”脱离"
 "action.hint.exit.happy_ghast"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻触潜行以跃下
-zh_TW: 輕觸潛行以取消乘坐"	""
+zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”脱离"
 "action.hint.exit.horse"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻按潜行可以下马
-zh_TW: 輕觸潛行以取消乘坐"	""
+zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”脱离"
 "action.hint.exit.llama"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻按潜行可以下马
-zh_TW: 輕觸潛行以取消乘坐"	""
+zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”脱离"
 "action.hint.exit.minecart"	"Tap jump to exit the minecart"	"Original Translation
 zh_CN: 点击“跳跃”离开矿车
-zh_TW: 按一下跳躍離開礦車"	""
+zh_TW: 按一下跳躍離開礦車"	"点击“跳跃”离开矿车"
 "action.hint.exit.mule"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻按潜行可以下马
-zh_TW: 輕觸潛行以取消乘坐"	""
+zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”脱离"
 "action.hint.exit.pig"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻按潜行可以下马
-zh_TW: 輕觸潛行以取消乘坐"	""
+zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”脱离"
 "action.hint.exit.raft"	"Tap jump to exit the raft"	"Original Translation
 zh_CN: 点击“跳跃”离开竹筏
-zh_TW: 按一下跳躍離開木筏"	""
+zh_TW: 按一下跳躍離開木筏"	"点击“跳跃”离开竹筏"
 "action.hint.exit.scheme.camel"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下即可下马
-zh_TW: 點擊以取消乘坐"	""
+zh_TW: 點擊以取消乘坐"	"点击“脱离”离开矿车"
 "action.hint.exit.scheme.donkey"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	""
+zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”离开"
 "action.hint.exit.scheme.happy_ghast"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻触潜行以跃下
-zh_TW: 輕觸潛行以取消乘坐"	""
+zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”脱离"
 "action.hint.exit.scheme.horse"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	""
+zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”离开"
 "action.hint.exit.scheme.llama"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	""
+zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”离开"
 "action.hint.exit.scheme.minecart"	"Tap dismount to exit the minecart"	"Original Translation
 zh_CN: 轻触跃下离开矿车
-zh_TW: 點擊取消乘坐以離開礦車"	""
+zh_TW: 點擊取消乘坐以離開礦車"	"点击“脱离”离开矿车"
 "action.hint.exit.scheme.mule"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	""
+zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”离开"
 "action.hint.exit.scheme.pig"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	""
+zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”离开"
 "action.hint.exit.scheme.skeleton_horse"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	""
+zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”离开"
 "action.hint.exit.scheme.strider"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	""
+zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”离开"
 "action.hint.exit.scheme.trader_llama"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	""
+zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”离开"
 "action.hint.exit.skeleton_horse"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻按潜行可以下马
-zh_TW: 輕觸潛行以取消乘坐"	""
+zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”脱离"
 "action.hint.exit.strider"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻触潜行可以下马
-zh_TW: 點擊潛行以取消搭乘"	""
+zh_TW: 點擊潛行以取消搭乘"	"点击“潜行”脱离"
 "action.hint.exit.trader_llama"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻触潜行可以下马
-zh_TW: 輕觸潛行以取消乘坐"	""
+zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”脱离"
 "action.interact.allay"	"Give item to Allay"	"Original Translation
 zh_CN: 给悦灵物品
-zh_TW: 把物品給亞萊"	""
+zh_TW: 把物品給亞萊"	"给悦灵物品"
 "action.interact.armorstand.equip"	"Equip"	"Original Translation
 zh_CN: 装备
-zh_TW: 配備"	""
+zh_TW: 配備"	"装备"
 "action.interact.armorstand.pose"	"Pose"	"Original Translation
 zh_CN: 摆姿势
-zh_TW: 改變姿勢"	""
+zh_TW: 改變姿勢"	"摆姿势"
 "action.interact.attachchest"	"Attach Chest"	"Original Translation
 zh_CN: 连接箱子
-zh_TW: 裝上箱子"	""
+zh_TW: 裝上箱子"	"连接箱子"
 "action.interact.balloon"	"Attach"	"Original Translation
 zh_CN: 连接
-zh_TW: 裝上"	""
+zh_TW: 裝上"	"连接"
 "action.interact.barter"	"Barter"	"Original Translation
 zh_CN: 交换
-zh_TW: 以物易物"	""
+zh_TW: 以物易物"	"以物易物"
 "action.interact.boost"	"Boost"	"Original Translation
 zh_CN: 提升
-zh_TW: 提升"	""
+zh_TW: 提升"	"加速"
 "action.interact.brush"	"Brush"	"Original Translation
 zh_CN: 画笔
-zh_TW: 刷子"	""
+zh_TW: 刷子"	"刷扫"
 "action.interact.createMap"	"Create Map"	"Original Translation
 zh_CN: 创建地图
-zh_TW: 創造地圖"	""
+zh_TW: 創造地圖"	"创建地图"
 "action.interact.creeper"	"Ignite"	"Original Translation
 zh_CN: 点燃
-zh_TW: 點燃"	""
+zh_TW: 點燃"	"点燃"
 "action.interact.cure"	"Cure"	"Original Translation
 zh_CN: 治疗
-zh_TW: 治療"	""
+zh_TW: 治療"	"治疗"
 "action.interact.cut"	"Cut"	"Original Translation
 zh_CN: 剪切
-zh_TW: 剪下"	""
+zh_TW: 剪下"	"剪断"
 "action.interact.drop_item"	"Drop Item"	"Original Translation
 zh_CN: 掉落物品
 zh_TW: 丟棄物品"	""
 "action.interact.dye"	"Dye"	"Original Translation
 zh_CN: 染色
-zh_TW: 染色"	""
+zh_TW: 染色"	"染色"
 "action.interact.edit"	"Edit"	"Original Translation
 zh_CN: 编辑
-zh_TW: 編輯"	""
+zh_TW: 編輯"	"编辑"
 "action.interact.equipcarpet"	"Equip Carpet"	"Original Translation
 zh_CN: 装备地毯
-zh_TW: 裝備地毯"	""
+zh_TW: 裝備地毯"	"装备地毯"
 "action.interact.equipharness"	"Equip Harness"	"Original Translation
 zh_CN: 装备挽具
-zh_TW: 裝備挽具"	""
+zh_TW: 裝備挽具"	"装备挽具"
 "action.interact.equiphorsearmor"	"Equip Horse Armor"	"Original Translation
 zh_CN: 装备马铠
-zh_TW: 裝備馬鎧"	""
+zh_TW: 裝備馬鎧"	"装备马铠"
 "action.interact.equipwolfarmor"	"Equip Wolf Armor"	"Original Translation
 zh_CN: 装备狼铠
-zh_TW: 裝備狼鎧"	""
+zh_TW: 裝備狼鎧"	"装备狼铠"
 "action.interact.exit.boat"	"Leave Boat"	"Original Translation
 zh_CN: 下船
-zh_TW: 下船"	""
+zh_TW: 下船"	"下船"
 "action.interact.exit.raft"	"Leave Raft"	"Original Translation
 zh_CN: 离开竹筏
-zh_TW: 離開木筏"	""
+zh_TW: 離開木筏"	"离开竹筏"
 "action.interact.feed"	"Feed"	"Original Translation
 zh_CN: 喂养
-zh_TW: 餵養"	""
+zh_TW: 餵養"	"喂养"
 "action.interact.fishing"	"Fish"	"Original Translation
 zh_CN: 钓鱼
-zh_TW: 釣魚"	""
+zh_TW: 釣魚"	"钓鱼"
 "action.interact.leash"	"Leash"	"Original Translation
 zh_CN: 拴住
-zh_TW: 栓住"	""
+zh_TW: 栓住"	"拴住"
 "action.interact.milk"	"Milk"	"Original Translation
 zh_CN: 挤奶
-zh_TW: 牛奶"	""
+zh_TW: 牛奶"	"挤奶"
 "action.interact.mooshear"	"Shear"	"Original Translation
 zh_CN: 修剪
-zh_TW: 修剪"	""
+zh_TW: 修剪"	"修剪"
 "action.interact.moostew"	"Milk Stew"	"Original Translation
 zh_CN: 挤哞菇
-zh_TW: 擠哞菇"	""
+zh_TW: 擠哞菇"	"盛汤"
 "action.interact.mount"	"Mount"	"Original Translation
 zh_CN: 骑乘
-zh_TW: 騎上"	""
+zh_TW: 騎上"	"骑乘"
 "action.interact.name"	"Name"	"Original Translation
 zh_CN: 名称
-zh_TW: 名稱"	""
+zh_TW: 名稱"	"命名"
 "action.interact.opencontainer"	"Open"	"Original Translation
 zh_CN: 打开
-zh_TW: 開啟"	""
+zh_TW: 開啟"	"打开"
 "action.interact.read"	"Read"	"Original Translation
 zh_CN: 阅读
-zh_TW: 閱讀"	""
+zh_TW: 閱讀"	"阅读"
 "action.interact.removecarpet"	"Remove Carpet"	"Original Translation
 zh_CN: 移除地毯
-zh_TW: 移除地毯"	""
+zh_TW: 移除地毯"	"卸下地毯"
 "action.interact.removeharness"	"Remove Harness"	"Original Translation
 zh_CN: 移除挽具
-zh_TW: 移除挽具"	""
+zh_TW: 移除挽具"	"卸下挽具"
 "action.interact.removehorsearmor"	"Remove Horse Armor"	"Original Translation
 zh_CN: 移除马铠
-zh_TW: 移除馬鎧"	""
+zh_TW: 移除馬鎧"	"卸下马铠"
 "action.interact.removesaddle"	"Remove Saddle"	"Original Translation
 zh_CN: 移除鞍
-zh_TW: 移除鞍座"	""
+zh_TW: 移除鞍座"	"卸下鞍"
 "action.interact.removewolfarmor"	"Remove Wolf Armor"	"Original Translation
 zh_CN: 移除狼铠
-zh_TW: 移除狼鎧"	""
+zh_TW: 移除狼鎧"	"卸下狼铠"
 "action.interact.repair"	"Repair"	"Original Translation
 zh_CN: 修复
-zh_TW: 修理"	""
+zh_TW: 修理"	"修复"
 "action.interact.repairwolfarmor"	"Repair Wolf Armor"	"Original Translation
 zh_CN: 修复狼铠
-zh_TW: 修復狼鎧"	""
+zh_TW: 修復狼鎧"	"修复狼铠"
 "action.interact.retrieve"	"Retrieve"	"Original Translation
 zh_CN: 回收
-zh_TW: 擷取"	""
+zh_TW: 擷取"	"牵回"
 "action.interact.ride.boat"	"Board"	"Original Translation
 zh_CN: 上船
-zh_TW: 上船"	""
+zh_TW: 上船"	"上船"
 "action.interact.ride.horse"	"Ride"	"Original Translation
 zh_CN: 乘坐
-zh_TW: 乘坐"	""
+zh_TW: 乘坐"	"骑乘"
 "action.interact.ride.minecart"	"Ride"	"Original Translation
 zh_CN: 乘坐
-zh_TW: 乘坐"	""
+zh_TW: 乘坐"	"乘坐"
 "action.interact.ride.strider"	"Ride"	"Original Translation
 zh_CN: 乘坐
-zh_TW: 乘坐"	""
+zh_TW: 乘坐"	"骑乘"
 "action.interact.saddle"	"Saddle"	"Original Translation
 zh_CN: 上鞍
-zh_TW: 上鞍"	""
+zh_TW: 上鞍"	"上鞍"
 "action.interact.scrape"	"Scrape"	"Original Translation
 zh_CN: 刮
 zh_TW: 刮"	""
 "action.interact.shear"	"Shear"	"Original Translation
 zh_CN: 修剪
-zh_TW: 修剪"	""
+zh_TW: 修剪"	"剪毛"
 "action.interact.sit"	"Sit"	"Original Translation
 zh_CN: 坐
-zh_TW: 坐"	""
+zh_TW: 坐"	"坐下"
 "action.interact.stand"	"Stand"	"Original Translation
 zh_CN: 站
-zh_TW: 站"	""
+zh_TW: 站"	"站起"
 "action.interact.takepicture"	"Take Picture"	"Original Translation
 zh_CN: 拍照
-zh_TW: 拍照"	""
+zh_TW: 拍照"	"拍照"
 "action.interact.talk"	"Talk"	"Original Translation
 zh_CN: 交谈
-zh_TW: 說話"	""
+zh_TW: 說話"	"交谈"
 "action.interact.tame"	"Tame"	"Original Translation
 zh_CN: 驯化
-zh_TW: 馴化"	""
+zh_TW: 馴化"	"驯化"
 "action.interact.trade"	"Trade"	"Original Translation
 zh_CN: 交易
-zh_TW: 交易"	""
+zh_TW: 交易"	"交易"
 "action.interact.unballoon"	"Detach"	"Original Translation
 zh_CN: 分离
-zh_TW: 卸下"	""
+zh_TW: 卸下"	"分离"
 "action.interact.unleash"	"Unleash"	"Original Translation
 zh_CN: 解开
-zh_TW: 解拴"	""
+zh_TW: 解拴"	"解开"
 "action.interact.use"	"Use Item"	"Original Translation
 zh_CN: 使用物品
-zh_TW: 使用道具"	""
+zh_TW: 使用道具"	"使用物品"
 "action.interact.wakevillager"	"Wake Villager"	"Original Translation
 zh_CN: 叫醒村民
-zh_TW: 喚醒村民"	""
+zh_TW: 喚醒村民"	"唤醒村民"
 "action.interact.wax_off"	"Wax Off"	"Original Translation
 zh_CN: 脱蜡
 zh_TW: 關閉蠟"	""
@@ -1222,163 +1222,163 @@ zh_CN: 涂蜡
 zh_TW: 開啟蠟"	""
 "action.interact.write"	"Write"	"Original Translation
 zh_CN: 书写
-zh_TW: 寫"	""
+zh_TW: 寫"	"书写"
 "addExternalServerScreen.addServer"	"Add Server"	"Original Translation
 zh_CN: 添加服务器
-zh_TW: 新增伺服器"	""
+zh_TW: 新增伺服器"	"添加服务器"
 "addExternalServerScreen.addTitle"	"Add External Server"	"Original Translation
 zh_CN: 添加外部服务器
-zh_TW: 新增外部伺服器"	""
+zh_TW: 新增外部伺服器"	"添加外部服务器"
 "addExternalServerScreen.alreadyAdded"	"This server has already been added"	"Original Translation
 zh_CN: 此服务器已被添加
-zh_TW: 這個伺服器已經被加入了"	""
+zh_TW: 這個伺服器已經被加入了"	"此服务器已被添加"
 "addExternalServerScreen.editTitle"	"Edit External Server"	"Original Translation
 zh_CN: 编辑外部服务器
-zh_TW: 編輯外部伺服器"	""
+zh_TW: 編輯外部伺服器"	"编辑外部服务器"
 "addExternalServerScreen.ipPlaceholder"	"Please enter IP or Address"	"Original Translation
 zh_CN: 请输入 IP 或地址
-zh_TW: 請輸入 IP 或位址"	""
+zh_TW: 請輸入 IP 或位址"	"请输入IP或地址"
 "addExternalServerScreen.ipTextBoxLabel"	"Server Address"	"Original Translation
 zh_CN: 服务器地址
-zh_TW: 伺服器位址"	""
+zh_TW: 伺服器位址"	"服务器地址"
 "addExternalServerScreen.namePlaceholder"	"Please enter server name"	"Original Translation
 zh_CN: 请输入服务器名称
-zh_TW: 請輸入伺服器名稱"	""
+zh_TW: 請輸入伺服器名稱"	"请输入服务器名称"
 "addExternalServerScreen.nameTextBoxLabel"	"Server Name"	"Original Translation
 zh_CN: 服务器名称
-zh_TW: 伺服器名稱"	""
+zh_TW: 伺服器名稱"	"服务器名称"
 "addExternalServerScreen.playButtonLabel"	"Play"	"Original Translation
 zh_CN: 游戏
-zh_TW: 遊戲"	""
+zh_TW: 遊戲"	"开始游戏"
 "addExternalServerScreen.portTextBoxLabel"	"Port"	"Original Translation
 zh_CN: 端口
-zh_TW: 埠"	""
+zh_TW: 埠"	"端口"
 "addExternalServerScreen.removeButtonLabel"	"Remove"	"Original Translation
 zh_CN: 移除
-zh_TW: 移除"	""
+zh_TW: 移除"	"移除"
 "addExternalServerScreen.removeConfirmation"	"Are you sure you want to remove this server?"	"Original Translation
 zh_CN: 确定要移除此服务器吗？
-zh_TW: 確定要移除這個伺服器嗎？"	""
+zh_TW: 確定要移除這個伺服器嗎？"	"你确定要移除此服务器吗？"
 "addExternalServerScreen.saveButtonLabel"	"Save"	"Original Translation
 zh_CN: 保存
-zh_TW: 儲存"	""
+zh_TW: 儲存"	"保存"
 "addServer.add"	"Done"	"Original Translation
 zh_CN: 完成
-zh_TW: 完成"	""
+zh_TW: 完成"	"完成"
 "addServer.alreadyAdded"	"This server has already been added"	"Original Translation
 zh_CN: 此服务器已被添加
-zh_TW: 這個伺服器已經被加入了"	""
+zh_TW: 這個伺服器已經被加入了"	"此服务器已被添加"
 "addServer.enterIp"	"Server Address"	"Original Translation
 zh_CN: 服务器地址
-zh_TW: 伺服器位址"	""
+zh_TW: 伺服器位址"	"服务器地址"
 "addServer.enterName"	"Server Name"	"Original Translation
 zh_CN: 服务器名称
-zh_TW: 伺服器名稱"	""
+zh_TW: 伺服器名稱"	"服务器名称"
 "addServer.hideAddress"	"Hide Address"	"Original Translation
 zh_CN: 隐藏地址
-zh_TW: 隱藏位址"	""
+zh_TW: 隱藏位址"	"隐藏地址"
 "addServer.resourcePack"	"Server Resource Packs"	"Original Translation
 zh_CN: 服务器资源包
-zh_TW: 伺服器資源套件"	""
+zh_TW: 伺服器資源套件"	"服务器资源包"
 "addServer.resourcePack.disabled"	"Disabled"	"Original Translation
 zh_CN: 已禁用
-zh_TW: 停用"	""
+zh_TW: 停用"	"禁用"
 "addServer.resourcePack.enabled"	"Enabled"	"Original Translation
 zh_CN: 启用
-zh_TW: 已啟用"	""
+zh_TW: 已啟用"	"启用"
 "addServer.resourcePack.prompt"	"Prompt"	"Original Translation
 zh_CN: 提示
-zh_TW: 提示"	""
+zh_TW: 提示"	"提示"
 "addServer.title"	"Edit Server Info"	"Original Translation
 zh_CN: 编辑服务器信息
-zh_TW: 編輯伺服器資訊"	""
+zh_TW: 編輯伺服器資訊"	"编辑服务器信息"
 "advMode.allEntities"	"@e = all entities"	"Original Translation
 zh_CN: @e = 全部实体
-zh_TW: @e = 全部實體"	""
+zh_TW: @e = 全部實體"	"@e = 全部实体"
 "advMode.allPlayers"	"@a = all players"	"Original Translation
 zh_CN: @a = 全部玩家
-zh_TW: @a = 全部玩家"	""
+zh_TW: @a = 全部玩家"	"@a = 全部玩家"
 "advMode.command"	"Command Input"	"Original Translation
 zh_CN: 命令输入
-zh_TW: 指令輸入"	""
+zh_TW: 指令輸入"	"命令输入"
 "advMode.command.charLimitExceeded"	"Command Input exceeds 500 characters. It is not possible to open the keyboard input on this device type."	"Original Translation
 zh_CN: 命令输入超过 500 个字符。无法在此设备类型上打开键盘输入。
-zh_TW: 輸入指令超過 500 個字元。無法在此裝置類型上開啟鍵盤輸入。"	""
+zh_TW: 輸入指令超過 500 個字元。無法在此裝置類型上開啟鍵盤輸入。"	"命令输入超过500个字符。无法在此设备类型上打开键盘输入。"
 "advMode.nearest"	"@n = nearest entity"	"Original Translation
 zh_CN: @n = 最近的实体
-zh_TW: @n =最近的實體"	""
+zh_TW: @n =最近的實體"	"@n = 最近的实体"
 "advMode.nearestPlayer"	"@p = nearest player"	"Original Translation
 zh_CN: @p = 最近的玩家
-zh_TW: @p = 最近的玩家"	""
+zh_TW: @p = 最近的玩家"	"@p = 最近的玩家"
 "advMode.notAllowed"	"Must be an opped player in creative mode"	"Original Translation
 zh_CN: 必须是处于创造模式的管理员
-zh_TW: 必須是創造模式中的伺服器工作人員"	""
+zh_TW: 必須是創造模式中的伺服器工作人員"	"必须是处于创造模式的管理员"
 "advMode.notEnabled"	"Command blocks are not enabled on this server"	"Original Translation
 zh_CN: 命令方块在此服务器上未启用
-zh_TW: 這個伺服器不允許使用指令方塊"	""
+zh_TW: 這個伺服器不允許使用指令方塊"	"命令方块在此服务器上未启用"
 "advMode.previousOutput"	"Previous Output"	"Original Translation
 zh_CN: 上一个输出
-zh_TW: 預覽輸出"	""
+zh_TW: 預覽輸出"	"上一个输出"
 "advMode.randomPlayer"	"@r = random player"	"Original Translation
 zh_CN: @r = 随机玩家
-zh_TW: @r = 隨機玩家"	""
+zh_TW: @r = 隨機玩家"	"@r = 随机玩家"
 "advMode.self"	"@s = self"	"Original Translation
 zh_CN: @s = 自己
-zh_TW: @s = 自己"	""
+zh_TW: @s = 自己"	"@s = 自己"
 "advMode.setCommand"	"Set Console Command for Block"	"Original Translation
 zh_CN: 设置此方块的控制台指令
-zh_TW: 設定主機區塊指令"	""
+zh_TW: 設定主機區塊指令"	"设置此方块的控制台命令"
 "advMode.setCommand.success"	"Command set: %s"	"Original Translation
 zh_CN: 成功设置：%s
-zh_TW: 指令設為：%s"	""
+zh_TW: 指令設為：%s"	"成功设置命令：%s"
 "apple.LocalNetworkPermission.message"	"Minecraft wants to access your local network. This allows you and others on your local network to play together. Declining this permission does not affect online features or gameplay. But will prevent you and others, on the same network, from playing together."	"Original Translation
 zh_CN: 《我的世界》想要访问您的本地网络。这将允许您和本地网络上的其他玩家一起游玩。拒绝此权限不会影响在线功能或游戏本身。但会导致您无法和同一网络中的玩家一起游玩。
-zh_TW: Minecraft 想存取您的本地網路。此操作能讓您與本地網路上的其他人一起遊玩。拒絕授權不會影響線上機能或遊玩遊戲，但會讓您無法與其他人在同一個網路中遊玩遊戲。"	""
+zh_TW: Minecraft 想存取您的本地網路。此操作能讓您與本地網路上的其他人一起遊玩。拒絕授權不會影響線上機能或遊玩遊戲，但會讓您無法與其他人在同一個網路中遊玩遊戲。"	"Minecraft想要访问你的本地网络。这将允许你和本地网络上的其他玩家一起游玩。拒绝此权限不会影响在线功能或游戏本身，但会导致你无法和同一网络中的玩家一起游玩。"
 "apple.iCloudDisabled.button.turnOnICloud"	"Turn on iCloud"	"Original Translation
 zh_CN: 开启 iCloud
-zh_TW: 開啟 iCloud"	""
+zh_TW: 開啟 iCloud"	"开启iCloud"
 "apple.iCloudDisabled.message"	"Your worlds are not getting saved properly. They might not be here next time you play Minecraft. Go to your Apple TV settings and turn on iCloud to make sure all of your worlds get saved."	"Original Translation
 zh_CN: 你的世界没有保存妥当。下次你玩《我的世界》时，它们可能不存在了。请前往 Apple TV 设置，开启 iCloud，确保所有世界保存完好。
-zh_TW: 你的世界並未妥善儲存，下回玩 Minecraft 的時候恐怕已經不在。請至 Apple TV 設定開啟 iCloud，確保你所有的世界都會儲存下來。"	""
+zh_TW: 你的世界並未妥善儲存，下回玩 Minecraft 的時候恐怕已經不在。請至 Apple TV 設定開啟 iCloud，確保你所有的世界都會儲存下來。"	"你的世界没有保存妥当。下次你玩Minecraft时，它们可能会消失。请前往Apple TV设置，开启iCloud，确保所有世界都会保存下来。"
 "apple.iCloudDisabled.title"	"Don't Lose Your Worlds!"	"Original Translation
 zh_CN: 别失去你的世界！
-zh_TW: 別丟失你的世界！"	""
+zh_TW: 別丟失你的世界！"	"别让你的世界丢失！"
 "apple.iCloudNoInternet.message"	"You need an internet connection to save your worlds properly. They might not be here next time you play Minecraft. Reconnect to the internet to make sure all of your worlds get saved."	"Original Translation
 zh_CN: 你需要互联网连接才能妥当保存世界。下次你玩《我的世界》时，它们可能不存在了。请重新连接到互联网，确保所有世界保存完好。
-zh_TW: 你需要具備網際網路連線，以將世界妥善儲存下來，否則下回玩 Minecraft 的時候恐怕不復存在。請重新連線到網際網路，確保你所有的世界都會儲存下來。"	""
+zh_TW: 你需要具備網際網路連線，以將世界妥善儲存下來，否則下回玩 Minecraft 的時候恐怕不復存在。請重新連線到網際網路，確保你所有的世界都會儲存下來。"	"你需要互联网连接才能妥当保存世界。下次你玩Minecraft时，它们可能会消失。请重新连接到互联网，确保所有世界都能保存下来。"
 "apple.iCloudNoSpace.button.manageICloud"	"Manage iCloud"	"Original Translation
 zh_CN: 管理 iCloud
-zh_TW: 管理 iCloud"	""
+zh_TW: 管理 iCloud"	"管理iCloud"
 "apple.iCloudNoSpace.message"	"You do not have enough iCloud space free to save your worlds properly. They might not be here next time you play Minecraft. Free up space on your iCloud account to make sure all of your worlds get saved."	"Original Translation
 zh_CN: 你的 iCloud 可用空间不足，无法妥当保存世界。下次你玩《我的世界》时，它们可能不存在了。请释放 iCloud 账户上的空间，确保所有世界保存完好。
-zh_TW: 你的 iCloud 可用空間不足，無法將世界妥善儲存下來，下回玩 Minecraft 的時候恐怕不復存在。請在 iCloud 帳戶下釋出空間，確保你所有的世界都會儲存下來。"	""
+zh_TW: 你的 iCloud 可用空間不足，無法將世界妥善儲存下來，下回玩 Minecraft 的時候恐怕不復存在。請在 iCloud 帳戶下釋出空間，確保你所有的世界都會儲存下來。"	"你的iCloud可用空间不足，无法妥当保存世界。下次你玩Minecraft时，它们可能会消失。请在iCloud账户上腾出一些空间，确保所有世界都会保存下来。"
 "apple.iCloudSignInRequired.message"	"You need to be signed in to iCloud to play Minecraft. Go to your Apple TV settings and turn on iCloud."	"Original Translation
 zh_CN: 您必须登录 iCloud 才能玩《我的世界》。请转到 Apple TV 设置并打开 iCloud。
-zh_TW: 您需要登入 iCloud，才能玩 Minecraft。請前往 Apple TV 設定並開啟 iCloud。"	""
+zh_TW: 您需要登入 iCloud，才能玩 Minecraft。請前往 Apple TV 設定並開啟 iCloud。"	"你必须登录iCloud才能游玩Minecraft。请转到Apple TV设置并开启iCloud。"
 "apple.iCloudSignInRequired.title"	"Sign In"	"Original Translation
 zh_CN: 登录
-zh_TW: 登入"	""
+zh_TW: 登入"	"登录"
 "apple.iCloudUserChanged.message"	"A new iCloud account has signed in. You will need to restart Minecraft to play."	"Original Translation
 zh_CN: 已经登录新的 iCloud 帐户。您将需要重新启动《我的世界》才能进入游戏。
-zh_TW: 已登入新的 iCloud 帳戶。如要進行遊戲，您必須重新啟動 Minecraft。"	""
+zh_TW: 已登入新的 iCloud 帳戶。如要進行遊戲，您必須重新啟動 Minecraft。"	"已经登录新的iCloud帐户。你将需要重新启动Minecraft才能进入游戏。"
 "attribute.modifier.plus.0"	"+%d %s"	"Original Translation
 zh_CN: +%d %s
-zh_TW: +%d %s"	""
+zh_TW: +%d %s"	"+%d %s"
 "attribute.modifier.plus.1"	"+%d%% %s"	"Original Translation
 zh_CN: +%d%% %s
-zh_TW: +%d%% %s"	""
+zh_TW: +%d%% %s"	"+%d%% %s"
 "attribute.modifier.plus.2"	"+%d%% %s"	"Original Translation
 zh_CN: +%d%% %s
-zh_TW: +%d%% %s"	""
+zh_TW: +%d%% %s"	"+%d%% %s"
 "attribute.modifier.take.0"	"-%d %s"	"Original Translation
 zh_CN: -%d %s
-zh_TW: -%d %s"	""
+zh_TW: -%d %s"	"-%d %s"
 "attribute.modifier.take.1"	"-%d%% %s"	"Original Translation
 zh_CN: -%d%% %s
-zh_TW: -%d%% %s"	""
+zh_TW: -%d%% %s"	"-%d%% %s"
 "attribute.modifier.take.2"	"-%d%% %s"	"Original Translation
 zh_CN: -%d%% %s
-zh_TW: -%d%% %s"	""
+zh_TW: -%d%% %s"	"-%d%% %s"
 "attribute.name.generic.armor"	"Armor"	"Original Translation
 zh_CN: 盔甲
 zh_TW: 護甲"	""
@@ -1387,250 +1387,250 @@ zh_CN: 盔甲韧性
 zh_TW: 護甲韌性"	""
 "attribute.name.generic.attackDamage"	"Attack Damage"	"Original Translation
 zh_CN: 攻击伤害
-zh_TW: 攻擊傷害"	""
+zh_TW: 攻擊傷害"	"攻击伤害"
 "attribute.name.generic.knockbackResistance"	"Knockback Resistance"	"Original Translation
 zh_CN: 击退抗性
-zh_TW: 擊退抗性"	""
+zh_TW: 擊退抗性"	"击退抗性"
 "attribute.name.generic.maxHealth"	"Max Health"	"Original Translation
 zh_CN: 最大生命值
-zh_TW: 最高生命值"	""
+zh_TW: 最高生命值"	"最大生命值"
 "attribute.name.horse.jumpStrength"	"Horse Jump Strength"	"Original Translation
 zh_CN: 马匹跳跃能力
-zh_TW: 馬匹跳躍力"	""
+zh_TW: 馬匹跳躍力"	"马匹跳跃能力"
 "attribute.name.minecraft:attack_damage"	"Attack Damage"	"Original Translation
 zh_CN: 攻击伤害
-zh_TW: 攻擊傷害"	""
+zh_TW: 攻擊傷害"	"攻击伤害"
 "attribute.name.minecraft:follow_range"	"Mob Follow Range"	"Original Translation
 zh_CN: 生物跟随距离
-zh_TW: 生物追蹤範圍"	""
+zh_TW: 生物追蹤範圍"	"生物跟随距离"
 "attribute.name.minecraft:knockback_resistance"	"Knockback Resistance"	"Original Translation
 zh_CN: 击退抗性
-zh_TW: 擊退抗性"	""
+zh_TW: 擊退抗性"	"击退抗性"
 "attribute.name.minecraft:movement"	"Speed"	"Original Translation
 zh_CN: 速度
-zh_TW: 速度"	""
+zh_TW: 速度"	"速度"
 "attribute.name.zombie.spawnReinforcements"	"Zombie Reinforcements"	"Original Translation
 zh_CN: 僵尸增援
-zh_TW: 殭屍增援隊"	""
+zh_TW: 殭屍增援隊"	"僵尸增援"
 "attribution.goBack"	"Go Back"	"Original Translation
 zh_CN: 返回
-zh_TW: 返回"	""
+zh_TW: 返回"	"返回"
 "attribution.viewAttribution"	"To view attributions, please visit https://minecraft.net/attribution in any web browser."	"Original Translation
 zh_CN: 要查看署名，请在任意网络浏览器中访问 https://minecraft.net/attribution。
-zh_TW: 若要查看署名，請以任何網頁瀏覽器造訪 https://minecraft.net/attribution。"	""
+zh_TW: 若要查看署名，請以任何網頁瀏覽器造訪 https://minecraft.net/attribution。"	"要查看著作权说明，请在任意网络浏览器中访问https://minecraft.net/attribution。"
 "authentication.adalException"	"We can't connect to the service you need right now. Please check your internet connection and try again."	"Original Translation
 zh_CN: 我们无法连接到您当前所需的服务。请检查您的互联网连接，然后再试一次。
-zh_TW: 我們目前無法連接至您需要的服務。請檢查您的網路連線，或稍後再試一次。"	""
+zh_TW: 我們目前無法連接至您需要的服務。請檢查您的網路連線，或稍後再試一次。"	"我们目前无法连接到你所需的服务。请检查你的互联网连接，然后再试一次。"
 "authentication.buyMinecraft"	"Go to the App Store"	"Original Translation
 zh_CN: 前往 App Store
-zh_TW: 前往 App Store"	""
+zh_TW: 前往 App Store"	"前往App Store"
 "authentication.clickToPurchase"	"How to purchase"	"Original Translation
 zh_CN: 如何购买
-zh_TW: 如何購買"	""
+zh_TW: 如何購買"	"如何购买"
 "authentication.demo.body.default"	"Starting the demo experience..."	"Original Translation
 zh_CN: 正在开始演示版本体验……
-zh_TW: 正在啟動示範體驗…"	""
+zh_TW: 正在啟動示範體驗…"	"正在开始演示课程体验…"
 "authentication.demo.body.error"	"We're sorry, but this lesson is not currently available."	"Original Translation
 zh_CN: 抱歉，该课程当前不可用。
-zh_TW: 很抱歉，此課程目前暫不提供。"	""
+zh_TW: 很抱歉，此課程目前暫不提供。"	"抱歉，该课程当前不可用。"
 "authentication.demo.title"	"Loading the Demo"	"Original Translation
 zh_CN: 正在加载演示版本
-zh_TW: 載入示範"	""
+zh_TW: 載入示範"	"正在加载演示课程"
 "authentication.demo.title.error"	"Lesson Not Available"	"Original Translation
 zh_CN: 课程不可用
-zh_TW: 課程無法使用"	""
+zh_TW: 課程無法使用"	"课程不可用"
 "authentication.edu.leaveGame.body"	"Another device has logged in using your account."	"Original Translation
 zh_CN: 另一个设备已使用您的账户登录。
-zh_TW: 另一部裝置已使用您的帳戶登入。"	""
+zh_TW: 另一部裝置已使用您的帳戶登入。"	"另一个设备已使用你的账户登录。"
 "authentication.edu.leaveGame.help"	"Help"	"Original Translation
 zh_CN: 帮助
-zh_TW: 幫助"	""
+zh_TW: 幫助"	"帮助"
 "authentication.edu.leaveGame.title"	"You've been logged out"	"Original Translation
 zh_CN: 您已被注销
-zh_TW: 您已經登出"	""
+zh_TW: 您已經登出"	"已退出登录"
 "authentication.educationOnly"	"If you are not an education user, go to the app store to download the standard version."	"Original Translation
 zh_CN: 如果您不是教育用户，可以前往应用商店下载标准版本.
-zh_TW: 如果您不是教育版使用者，請前往 App Store 以下載標準版本。"	""
+zh_TW: 如果您不是教育版使用者，請前往 App Store 以下載標準版本。"	"如果你不是教育版用户，可以前往应用商店下载标准版本。"
 "authentication.error.accountType.body"	"Oops! It looks like you signed in with a personal account. This account is not eligible to use Minecraft Education. Please make sure you are signing in with a school or organizational account and try again."	"Original Translation
 zh_CN: 哎呀！看来您使用了个人账户进行登录。此账户不符合使用 Minecraft Education 的条件。请确保您正在使用学校或组织账户登录，随后请重试。
-zh_TW: 哎呀！看起來你使用個人帳戶登入了。此帳戶不符合使用 Minecraft Education 的資格。請確保你正在使用學校或組織帳戶登入，然後重試一次。"	""
+zh_TW: 哎呀！看起來你使用個人帳戶登入了。此帳戶不符合使用 Minecraft Education 的資格。請確保你正在使用學校或組織帳戶登入，然後重試一次。"	"哎呀！看来你使用了个人账户登录。此账户不符合使用Minecraft教育版的资格。请确保你正在使用学校或组织账户登录，然后重试。"
 "authentication.error.generic.body"	"We were unable to sign you in. Please make sure you are signing in with your school or organizational account and try again."	"Original Translation
 zh_CN: 我们无法将您登录。请确保您正在使用学校或组织账户登录，随后请重试。
-zh_TW: 你無法登入。請確保你正在使用學校或組織帳戶登入，然後重試一次。"	""
+zh_TW: 你無法登入。請確保你正在使用學校或組織帳戶登入，然後重試一次。"	"无法登录。请确保你正在使用学校或组织账户登录，然后重试。"
 "authentication.error.generic.link1"	"Learn more about account eligibility."	"Original Translation
 zh_CN: 了解有关账户资格的信息。
-zh_TW: 了解更多帳戶資格的相關資訊。"	""
+zh_TW: 了解更多帳戶資格的相關資訊。"	"了解有关账户资格的信息。"
 "authentication.error.generic.link2"	"Try a demo lesson."	"Original Translation
 zh_CN: 尝试演示课程。
-zh_TW: 嘗試體驗課程。"	""
+zh_TW: 嘗試體驗課程。"	"尝试演示课程。"
 "authentication.error.generic.title"	"Unable to Sign In"	"Original Translation
 zh_CN: 无法登录
-zh_TW: 無法登入"	""
+zh_TW: 無法登入"	"无法登录"
 "authentication.error.outOfDate.body"	"We're sorry, but this version of Minecraft Education is no longer supported. Please update to the latest version to continue playing."	"Original Translation
 zh_CN: 很抱歉， 此版本的 Minecraft Education 不再受支持。请更新至最新版本以继续探索。
-zh_TW: 很抱歉，已不再支援此版本的 Minecraft Education。請更新至最新版本以繼續遊玩。"	""
+zh_TW: 很抱歉，已不再支援此版本的 Minecraft Education。請更新至最新版本以繼續遊玩。"	"很抱歉，此版本的Minecraft教育版不再受支持。请更新至最新版本以继续使用。"
 "authentication.error.outOfDate.downloadPage"	"Go to Download page"	"Original Translation
 zh_CN: 转至下载页面
-zh_TW: 前往下載頁面"	""
+zh_TW: 前往下載頁面"	"转至下载页面"
 "authentication.error.outOfDate.title"	"Update Required"	"Original Translation
 zh_CN: 需要更新
-zh_TW: 必須更新"	""
+zh_TW: 必須更新"	"需要更新"
 "authentication.exitingGame"	"Goodbye, come back soon."	"Original Translation
 zh_CN: 再见，请尽快回来。
-zh_TW: 再見，希望很快可以再相見。"	""
+zh_TW: 再見，希望很快可以再相見。"	"再见，欢迎下次回来。"
 "authentication.finalTrialWarning"	"This is your final trial of Minecraft Education.%1%1After this session, your school or organization will need to purchase a license for you to continue to use all the features of Minecraft Education."	"Original Translation
 zh_CN: 这是您对《我的世界》教育版的最后一次试用。%1%1在此会话之后，您的学校或组织将需要购买许可证才能继续使用《我的世界》教育版的所有功能。
-zh_TW: 這是你試用 Minecraft Education 的最後一次機會。%1%1 本次試用結束後，你所在學校或組織需要購買許可證才能繼續使用 Minecraft Education 的所有功能。"	""
+zh_TW: 這是你試用 Minecraft Education 的最後一次機會。%1%1 本次試用結束後，你所在學校或組織需要購買許可證才能繼續使用 Minecraft Education 的所有功能。"	"这是你试用Minecraft教育版的最后一次机会。%1%1本次试用结束后，你的学校或组织将需要购买许可证才能继续使用Minecraft教育版的所有功能。"
 "authentication.location"	"For more information:"	"Original Translation
 zh_CN: 如需更多信息：
-zh_TW: 如需更多資訊："	""
+zh_TW: 如需更多資訊："	"更多信息请见："
 "authentication.loggingin"	"Signing in..."	"Original Translation
 zh_CN: 登录中…
-zh_TW: 正在登入…"	""
+zh_TW: 正在登入…"	"登录中…"
 "authentication.minecraftInstead"	"App Store"	"Original Translation
 zh_CN: 应用商店
-zh_TW: App Store"	""
+zh_TW: App Store"	"App Store"
 "authentication.oneTrialWarning"	"You have 1 trial of Minecraft Education remaining before your school or organization will need to purchase a license.%1%1Every time you open Minecraft Education, you will use one trial."	"Original Translation
 zh_CN: 在您的学校或组织需要购买许可证之前，您还剩 1 次试用《我的世界》教育版的机会。%1%1每次打开《我的世界》教育版，都会消耗一次试用机会。
-zh_TW: 你還能試用 1 次 Minecraft Education，之後你所在的學校或組織就需要購買許可證。%1%1 每次開啟 Minecraft Education，就會使用一次試用。"	""
+zh_TW: 你還能試用 1 次 Minecraft Education，之後你所在的學校或組織就需要購買許可證。%1%1 每次開啟 Minecraft Education，就會使用一次試用。"	"你还剩1次试用Minecraft教育版的机会，此后你的学校或组织将需要购买许可证。%1%1每次打开Minecraft教育版，都会消耗一次试用机会。"
 "authentication.pleaseSignIn"	"Sign in with your school or organizational account to use Minecraft Education."	"Original Translation
 zh_CN: 使用您的学校或组织账户登录以探索 Minecraft Education。
-zh_TW: 使用你的學校或組織帳戶登入以使用 Minecraft Education。"	""
+zh_TW: 使用你的學校或組織帳戶登入以使用 Minecraft Education。"	"使用你的学校或组织账户登录以使用Minecraft教育版。"
 "authentication.signIn"	"Sign in"	"Original Translation
 zh_CN: 登录
-zh_TW: 登入"	""
+zh_TW: 登入"	"登录"
 "authentication.signIn.tryAgain"	"Try again"	"Original Translation
 zh_CN: 再试一次
-zh_TW: 再試一次"	""
+zh_TW: 再試一次"	"重试"
 "authentication.signInButton"	"Sign In with a Different Account"	"Original Translation
 zh_CN: 用其他账户登录
-zh_TW: 以不同帳戶登入"	""
+zh_TW: 以不同帳戶登入"	"用其他账户登录"
 "authentication.signInRequired"	"Sign In Required"	"Original Translation
 zh_CN: 需要登录
-zh_TW: 需要登入"	""
+zh_TW: 需要登入"	"需要登录"
 "authentication.signingInTo"	"Signing into %s"	"Original Translation
 zh_CN: 正在登录进%s
-zh_TW: 正在登入 %s"	""
+zh_TW: 正在登入 %s"	"正在以%s的身份登录"
 "authentication.store.confirm.button"	"Confirm"	"Original Translation
 zh_CN: 确认
-zh_TW: 確認"	""
+zh_TW: 確認"	"确认"
 "authentication.store.confirmPurchase"	"Confirm Purchase"	"Original Translation
 zh_CN: 确认购买
-zh_TW: 確認購買"	""
+zh_TW: 確認購買"	"确认购买"
 "authentication.store.intro"	"Your trial of Minecraft Education is complete. To continue playing Minecraft Education, you will need to purchase a license."	"Original Translation
 zh_CN: 您的 Minecraft Education 试用机会已用完。您需要购买许可，才能继续使用 Minecraft Education。
-zh_TW: 您的《Minecraft Education》已試用完畢。若要繼續玩《Minecraft Education》，您必須購買授權。"	""
+zh_TW: 您的《Minecraft Education》已試用完畢。若要繼續玩《Minecraft Education》，您必須購買授權。"	"你的Minecraft教育版试用机会已用完。你需要购买许可证，才能继续使用Minecraft教育版。"
 "authentication.store.popup.purchaseFailed.msg"	"Sorry, we were unable to complete your purchase. Maybe check your internet connection?"	"Original Translation
 zh_CN: 抱歉，无法完成购买。请检查网络连接？
-zh_TW: 抱歉，我們無法為您完成購買程序，能否請您確認目前的網際網路連線狀態？"	""
+zh_TW: 抱歉，我們無法為您完成購買程序，能否請您確認目前的網際網路連線狀態？"	"抱歉，无法完成购买。不妨检查一下网络连接？"
 "authentication.store.popup.purchaseFailed.title"	"Something Went Wrong"	"Original Translation
 zh_CN: 出错了
-zh_TW: 有地方出錯"	""
+zh_TW: 有地方出錯"	"出错了"
 "authentication.store.purchase.button"	"Purchase license (%s/year)"	"Original Translation
 zh_CN: 购买许可（%s/年）
-zh_TW: 購買授權 (每年 %s)"	""
+zh_TW: 購買授權 (每年 %s)"	"购买许可证（%s/年）"
 "authentication.store.purchase.info1"	"The payment will be charged to your iTunes account at confirmation of purchase and the subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Your account will be charged for renewal within 24-hours prior to the end of the current period, at the subscription price option you have previously selected."	"Original Translation
 zh_CN: 付款会在确认购买后向您的 iTunes 账户收取，除非在当前订阅期结束前至少 24 小时关闭自动更新，否则订阅会自动更新。在当前订阅期结束之前 24 小时内，更新费用会根据您此前选择的订阅价格选项，向您的账户收取。
-zh_TW: 款項於您確認購買時自您的 iTunes 帳戶計收，除非於距離當期結束至少 24 小時前關閉自動續約，否則將自動續訂。當期結束前 24 小時內會依您先前所選取的訂閱服務價格選項，自您的帳戶收取續訂費用。"	""
+zh_TW: 款項於您確認購買時自您的 iTunes 帳戶計收，除非於距離當期結束至少 24 小時前關閉自動續約，否則將自動續訂。當期結束前 24 小時內會依您先前所選取的訂閱服務價格選項，自您的帳戶收取續訂費用。"	"款项会在确认购买后向你的iTunes账户收取，订阅到期会自动续订，可在到期前至少24小时以前关闭自动续订。续订费用将于当前订阅期到期前的24小时内向你的账户收取，价格取决于你此前选择的订阅价格选项。"
 "authentication.store.purchase.info2"	"You can manage your subscription and turn off auto-renewal by accessing your iTunes Account settings after purchase. If you cancel after your subscription has activated, you won't be refunded for the remaining active period of the subscription. Your iTunes account will be linked to your O365 Education Account for this subscription, so you will not be eligible to purchase additional Minecraft Education licenses with this iTunes account."	"Original Translation
 zh_CN: 购买之后您可以访问 iTunes 账户，管理您的订阅，关闭自动更新。如果您在订阅激活后取消，订阅剩余有效期间将不予退款。此订阅会让您的 iTunes 账户将与您的 Office 365 教育版账户关联，因此您将失去资格，无法使用此 iTunes 账户购买额外的 Minecraft Education 许可。
-zh_TW: 購買後，您可以存取自己的 iTunes 帳戶設定以管理自己的訂閱和關閉自動續訂功能。如果您在訂閱啟用後取消，您將無法獲得剩餘訂閱有效期的退款。您的 iTunes 帳戶將於此訂閱中與您的 O365 教育版帳戶連結，因此您不符合使用此 iTunes 帳戶購買額外《Minecraft Education》授權的資格。"	""
+zh_TW: 購買後，您可以存取自己的 iTunes 帳戶設定以管理自己的訂閱和關閉自動續訂功能。如果您在訂閱啟用後取消，您將無法獲得剩餘訂閱有效期的退款。您的 iTunes 帳戶將於此訂閱中與您的 O365 教育版帳戶連結，因此您不符合使用此 iTunes 帳戶購買額外《Minecraft Education》授權的資格。"	"购买之后，你可以访问iTunes账户设置以管理你的订阅、关闭自动续订。如果你在订阅生效后取消订阅，订阅剩余有效期间内将不予退款。此订阅会让你的iTunes账户与Office 365教育版账户关联，因此你将没有资格再使用此iTunes账户购买新的Minecraft教育版许可证。"
 "authentication.store.terms"	"Terms of Use"	"Original Translation
 zh_CN: 使用条款
-zh_TW: 使用規定"	""
+zh_TW: 使用規定"	"使用条款"
 "authentication.store.viewPrivacyPolicy"	"Privacy Policy"	"Original Translation
 zh_CN: 隐私政策
-zh_TW: 隱私政策"	""
+zh_TW: 隱私政策"	"隐私政策"
 "authentication.store.viewTermsAndConditions"	"Terms and Conditions"	"Original Translation
 zh_CN: 条款和条件
-zh_TW: 條款與條件"	""
+zh_TW: 條款與條件"	"条款与条件"
 "authentication.toast.refreshFailed.body"	"There's something wrong with your account info. Please sign in again to continue using multiplayer features."	"Original Translation
 zh_CN: 您的帐户信息出错，请再次登录以继续使用多人玩家功能。
-zh_TW: 您的帳戶資訊發生問題。請再次登入以繼續使用多人遊戲功能。"	""
+zh_TW: 您的帳戶資訊發生問題。請再次登入以繼續使用多人遊戲功能。"	"你的账户信息出错，请重新登录以继续使用多人游戏功能。"
 "authentication.toast.refreshFailed.title"	"Account"	"Original Translation
 zh_CN: 帐户
-zh_TW: 帳戶"	""
+zh_TW: 帳戶"	"账户"
 "authentication.trialEnded"	"Your trial of Minecraft Education is complete.%1%1Your school or organization will need to purchase a license for you to continue to use all of the features of Minecraft Education.%1%1You'll be signed out of your %2 account now and you can explore our feature-limited demo lesson."	"Original Translation
 zh_CN: 您的 Minecraft Education 试用版已结束。%1%1您的学校或组织需购买许可证才能继续使用 Minecraft Education 的所有功能。%1%1您现在将从您的 %2 账户中注销，您可以继续探索功能有限的演示课程。
-zh_TW: 你的 Minecraft Education 試用版已完畢。%1%1你的學校或組織必須購買授權，才能繼續使用 Minecraft Education 的所有功能。%1%1你現在將從你的 %2 帳戶登出，歡迎探索功能有限的體驗課程。"	""
+zh_TW: 你的 Minecraft Education 試用版已完畢。%1%1你的學校或組織必須購買授權，才能繼續使用 Minecraft Education 的所有功能。%1%1你現在將從你的 %2 帳戶登出，歡迎探索功能有限的體驗課程。"	"你的Minecraft教育版试用已结束。%1%1你的学校或组织需购买许可证才能继续使用Minecraft教育版的所有功能。%1%1现在将退出%2账户的登录，你可以继续探索功能有限的演示课程。"
 "authentication.trialEndedTitle"	"Trial Ended"	"Original Translation
 zh_CN: 试用版已到期
-zh_TW: 試用已經結束"	""
+zh_TW: 試用已經結束"	"试用已结束"
 "authentication.trialMessageTitle"	"Free Trial"	"Original Translation
 zh_CN: 免费试用
-zh_TW: 免費試用"	""
+zh_TW: 免費試用"	"免费试用"
 "authentication.trialWarning"	"You have %2 trials of Minecraft Education remaining before your school or organization will need to purchase a license.%1%1Every time you open Minecraft Education, you will use one trial."	"Original Translation
 zh_CN: 在您的学校或组织需要购买许可证之前，您有 %2 次 Minecraft Education 试用机会。%1%1每次打开 Minecraft Education，都会消耗一次试用机会。
-zh_TW: 你還剩下 %2 次的 Minecraft Education 試用次數，之後學校或組織才需要購買授權。%1%1每次開啟 Minecraft Education，就會使用一次試用次數。"	""
+zh_TW: 你還剩下 %2 次的 Minecraft Education 試用次數，之後學校或組織才需要購買授權。%1%1每次開啟 Minecraft Education，就會使用一次試用次數。"	"你还剩%2次试用Minecraft教育版的机会，此后你的学校或组织将需要购买许可证。%1%1每次打开Minecraft教育版，都会消耗一次试用机会。"
 "authentication.trialWelcome"	"Welcome!%1%1You have %2 trials of Minecraft Education available before your school or organization will need to purchase a license.%1%1Every time you open Minecraft Education, you will use one trial. Enjoy!"	"Original Translation
 zh_CN: 欢迎！%1%1在您的学校或组织需要购买许可证之前，您有 %2 次 Minecraft Education 试用机会。%1%1每次打开 Minecraft Education，都会消耗一次试用机会。尽情探索吧！
-zh_TW: 歡迎！%1%1你可試用 %2 次 Minecraft Education，之後學校或組織才需要購買授權。%1%1每次開啟 Minecraft Education，就會使用一次試用次數。祝你玩得愉快！"	""
+zh_TW: 歡迎！%1%1你可試用 %2 次 Minecraft Education，之後學校或組織才需要購買授權。%1%1每次開啟 Minecraft Education，就會使用一次試用次數。祝你玩得愉快！"	"欢迎！%1%1你共有%2次试用Minecraft教育版的机会，此后你的学校或组织将需要购买许可证。%1%1每次打开Minecraft教育版，都会消耗一次试用机会。尽情探索吧！"
 "authentication.tryagain"	"Sign in with a different account"	"Original Translation
 zh_CN: 用其他帐户登录
-zh_TW: 以不同帳號登入"	""
+zh_TW: 以不同帳號登入"	"用其他帐户登录"
 "authentication.unableToConnect"	"Unable to Connect"	"Original Translation
 zh_CN: 无法连接
-zh_TW: 無法連接"	""
+zh_TW: 無法連接"	"无法连接"
 "authentication.unauthenticated"	"This account is not eligible to use Minecraft Education."	"Original Translation
 zh_CN: 该帐户无法使用 Minecraft Education。
-zh_TW: 此帳號無權使用《Minecraft Education》。"	""
+zh_TW: 此帳號無權使用《Minecraft Education》。"	"该账户不符合使用Minecraft教育版的资格。"
 "authentication.welcome"	"Welcome, %s!"	"Original Translation
 zh_CN: 欢迎，%s！
-zh_TW: 歡迎%s！"	""
+zh_TW: 歡迎%s！"	"欢迎，%s！"
 "authserver.authfailed"	"This is bad. This server failed our verification test. Someone we don't trust might be pretending to be a trusted server."	"Original Translation
 zh_CN: 太糟糕了。该服务器未能通过我们的验证测试。我们不信任的服务器可能正假装成受信任服务器。
-zh_TW: 真糟糕，此伺服器未通過我們的驗證測試。我們不信任的人可能會假裝成受信任的伺服器。"	""
+zh_TW: 真糟糕，此伺服器未通過我們的驗證測試。我們不信任的人可能會假裝成受信任的伺服器。"	"太糟糕了。该服务器未能通过我们的验证测试。我们不信任的服务器可能正假装成受信任服务器。"
 "authserver.notavailable"	"Something went wrong. We can't verify that the server you are trying to connect to is one that we trust. We recommend that you try again later."	"Original Translation
 zh_CN: 出错了。我们无法验证您尝试连接的服务器是我们信任的服务器。我们建议您稍后再试。
-zh_TW: 發生錯誤，我們無法驗證你嘗試連接的伺服器是否為我們信任的伺服器。我們建議你稍後再試。"	""
+zh_TW: 發生錯誤，我們無法驗證你嘗試連接的伺服器是否為我們信任的伺服器。我們建議你稍後再試。"	"出错了。我们无法验证你尝试连接的服务器是否为我们信任的服务器。我们建议你稍后再试。"
 "autosave.info.desktop"	"When you see this icon, we are saving your game. Do not turn off your computer while this icon is on screen."	"Original Translation
 zh_CN: 当您看到此图标时，我们正在保存您的游戏。当屏幕上出现此图标时，请不要关闭您的电脑。
-zh_TW: 畫面上顯示此圖示時，表示系統正在儲存您的遊戲，請勿在此時關閉您的電腦。"	""
+zh_TW: 畫面上顯示此圖示時，表示系統正在儲存您的遊戲，請勿在此時關閉您的電腦。"	"当你看到此图标时，我们正在保存你的游戏，此时请不要关闭你的电脑。"
 "autosave.info.general"	"When you see this icon, we are saving your game. Do not turn off your device while this icon is on screen."	"Original Translation
 zh_CN: 当您看到此图标时，我们正在保存您的游戏。当屏幕上出现此图标时，请不要关闭您的设备。
-zh_TW: 畫面上顯示此圖示時，表示系統正在儲存您的遊戲，請勿在此時關閉您的裝置。"	""
+zh_TW: 畫面上顯示此圖示時，表示系統正在儲存您的遊戲，請勿在此時關閉您的裝置。"	"当你看到此图标时，我们正在保存你的游戏，此时请不要关闭你的设备。"
 "autosave.info.xbox"	"When you see this icon, we are saving your game. Do not turn off your Xbox while this icon is on screen."	"Original Translation
 zh_CN: 当您看到此图标时，我们正在保存您的游戏。当屏幕上出现此图标时，请不要关闭您的 Xbox。
-zh_TW: 畫面上顯示此圖示時，表示系統正在儲存您的遊戲，請勿在此時關閉您的 Xbox。"	""
+zh_TW: 畫面上顯示此圖示時，表示系統正在儲存您的遊戲，請勿在此時關閉您的 Xbox。"	"当你看到此图标时，我们正在保存你的游戏，此时请不要关闭你的Xbox。"
 "autosave.title"	"Autosave"	"Original Translation
 zh_CN: 自动保存
-zh_TW: 自動儲存"	""
+zh_TW: 自動儲存"	"自动保存"
 "beginnerTips.1"	"Most monsters only come out at night. During the day you're safe... probably."	"Original Translation
 zh_CN: 大多数的怪物都是昼伏夜出。白天你是安全的…大概吧。
-zh_TW: 大多數怪物都會在夜晚出沒。在白天您是安全的… 應該吧。"	""
+zh_TW: 大多數怪物都會在夜晚出沒。在白天您是安全的… 應該吧。"	"大多数的怪物都是昼伏夜出。白天你是安全的……大概吧。"
 "beginnerTips.10"	"Be careful when you swim. Stay under water for too long and you'll run out of air."	"Original Translation
 zh_CN: 游泳时要多加小心。在水下停留太久会耗尽氧气。
-zh_TW: 游泳時務必小心。在水下待太久，氧氣就會耗盡。"	""
+zh_TW: 游泳時務必小心。在水下待太久，氧氣就會耗盡。"	"游泳时要多加小心。在水下停留太久会耗尽氧气。"
 "beginnerTips.11"	"Survival mode has 4 different difficulty levels - Peaceful, Easy, Normal, and Hard. Or play Creative mode and get endless resources!"	"Original Translation
 zh_CN: 生存模式有 4 个不同的难度级别：和平、简单、一般和困难。也可以玩创造模式，有无限的资源可供使用！
-zh_TW: 生存模式有 4 種不同的難易度等級：和平、簡單、普通和困難。或是玩創造模式，就能獲得無限資源！"	""
+zh_TW: 生存模式有 4 種不同的難易度等級：和平、簡單、普通和困難。或是玩創造模式，就能獲得無限資源！"	"生存模式有4种不同的难度等级：和平、简单、普通、困难。也可以玩创造模式，有无限的资源可供使用！"
 "beginnerTips.12"	"The world of Minecraft is endlessly surprising. You'll find lots of different animals, plants, and even §f§k§a§b§r §f§k§a§b§r"	"Original Translation
 zh_CN: Minecraft 的世界中藏有数不清的惊喜。你可以发现各种不同的动物、植物，甚至还有§f§k§a§b§r §f§k§a§b§r
-zh_TW: Minecraft 的世界充滿了無限的驚喜。您會發現很多不同的動物、植物，甚至 §f§k§a§b§r §f§k§a§b§r"	""
+zh_TW: Minecraft 的世界充滿了無限的驚喜。您會發現很多不同的動物、植物，甚至 §f§k§a§b§r §f§k§a§b§r"	"Minecraft的世界中藏有数不清的惊喜。你可以发现各种不同的动物、植物，甚至还有§f§k§a§b§r §f§k§a§b§r"
 "beginnerTips.2"	"Break blocks, pick up resources. Use the crafting grid to make helpful items. Now you're crafting!"	"Original Translation
 zh_CN: 打破方块，拾取资源。使用网格合成表来制作有用的物品。尽情合成吧！
-zh_TW: 打破方塊，撿起資源。使用合成格來製作有用的物品。現在您就可以合成了！"	""
+zh_TW: 打破方塊，撿起資源。使用合成格來製作有用的物品。現在您就可以合成了！"	"破坏方块，拾取资源。使用合成方格来制作有用的物品。尽情合成吧！"
 "beginnerTips.3"	"You have endless lives, but your items drop to the ground when you die. Hurry back to pick them up!"	"Original Translation
 zh_CN: 虽然你可以无限次复活，但在死亡的时候你的物品会掉到地上。快回去把物品捡回来吧！
-zh_TW: 你可以重生無限次，但只要你死亡，你的物品就會掉到地上。快回去把它們撿起來！"	""
+zh_TW: 你可以重生無限次，但只要你死亡，你的物品就會掉到地上。快回去把它們撿起來！"	"虽然你可以无限次复活，但在死亡的时候你的物品会掉到地上。快回去把物品捡回来！"
 "beginnerTips.4"	"It's a good idea to build a place where you can safely spend the night."	"Original Translation
 zh_CN: 最好搭建一处可以安全度过夜晚的地方。
-zh_TW: 建造可安全過夜的地方是個好主意。"	""
+zh_TW: 建造可安全過夜的地方是個好主意。"	"最好搭建一处可以安全度过夜晚的地方。"
 "beginnerTips.5"	"Use the right tool for the job! Chopping wood with an axe is much faster than using your hands."	"Original Translation
 zh_CN: 使用合适的工具来劳作吧！用斧头伐木的速度要比用手快多了。
-zh_TW: 工作時要使用正確的工具！用斧頭砍木頭比用手快得多。"	""
+zh_TW: 工作時要使用正確的工具！用斧頭砍木頭比用手快得多。"	"干活要用对工具！用斧砍木头的速度要比用手快多了。"
 "beginnerTips.6"	"Even in Minecraft you'll get hungry, so try to find something to eat before that happens."	"Original Translation
 zh_CN: 即使是在 Minecraft 中，你也是会感到饥饿的，所以请努力在饿肚子之前找到食物。
-zh_TW: 即使在 Minecraft 中，您仍然會感到飢餓，所以要避免這種情況發生，試著找點吃的吧。"	""
+zh_TW: 即使在 Minecraft 中，您仍然會感到飢餓，所以要避免這種情況發生，試著找點吃的吧。"	"即使是在Minecraft中，你也是会感到饥饿的，所以请努力在饿肚子之前找到食物。"
 "beginnerTips.7"	"Digging straight down or straight up might not be a great idea."	"Original Translation
 zh_CN: 不建议垂直往下方或上方挖掘。
-zh_TW: 直接向上或向下挖掘可不是什麼好主意。"	""
+zh_TW: 直接向上或向下挖掘可不是什麼好主意。"	"不建议垂直往下方或上方挖掘。"
 "beginnerTips.8"	"Monsters spawn in the dark. Craft a torch to brighten up any space."	"Original Translation
 zh_CN: 黑暗中会生成怪物。合成火把来照亮四周吧。
-zh_TW: 怪物會在黑暗中生成。合成火把來照亮所有空間吧。"	""
+zh_TW: 怪物會在黑暗中生成。合成火把來照亮所有空間吧。"	"黑暗中会生成怪物。合成火把来照亮四周吧。"
 "beginnerTips.9"	"Beds are great! Craft one to quickly pass the night and set your respawn point."	"Original Translation
 zh_CN: 床是个好东西！制作一张床，然后睡上一觉，不仅可以快速度过夜晚，还可以设置重生点。
-zh_TW: 床舖非常有用！合成一張床，可以讓您迅速度過夜晚並設定重生點。"	""
+zh_TW: 床舖非常有用！合成一張床，可以讓您迅速度過夜晚並設定重生點。"	"床是个好东西！合成一张床，然后睡上一觉，不仅可以快速度过夜晚，还可以设置重生点。"
 "beta.loading.1"	"When you're on the beta, you can only play with other friends who are also on the beta!"	"Original Translation
 zh_CN: 如果您玩的是测试版，那么只能和其他也在玩测试版的好友一起玩！
 zh_TW: 使用測試版時，你只能與其他同樣也使用測試版的好友一起玩遊戲！"	""
@@ -1684,55 +1684,55 @@ zh_CN: 如果您的好友无法加入您的世界，那可能是因为他们玩�
 zh_TW: 如果你的好友無法加入你的世界，可能是因為他們並非同樣使用測試版。"	""
 "book.byAuthor"	"by"	"Original Translation
 zh_CN: 作者
-zh_TW: 作者"	""
+zh_TW: 作者"	"作者"
 "book.defaultAuthor"	"Author Unknown"	"Original Translation
 zh_CN: 未知作者
-zh_TW: 未知作者"	""
+zh_TW: 未知作者"	"未知作者"
 "book.editTitle"	"Enter Book Title:"	"Original Translation
 zh_CN: 输入书名：
-zh_TW: 輸入書名："	""
+zh_TW: 輸入書名："	"输入书名："
 "book.export"	"Export"	"Original Translation
 zh_CN: 导出
-zh_TW: 匯出"	""
+zh_TW: 匯出"	"导出"
 "book.finalizeButton"	"Sign and Close"	"Original Translation
 zh_CN: 签名并关闭
-zh_TW: 署名並闔上書"	""
+zh_TW: 署名並闔上書"	"署名并关闭"
 "book.finalizeWarning"	"Note! When you sign the book, it will no longer be editable."	"Original Translation
 zh_CN: 注意！在你签名后，书籍将无法再修改。
-zh_TW: 注意！當您在這本書署名後，將無法修改書中內容。"	""
+zh_TW: 注意！當您在這本書署名後，將無法修改書中內容。"	"注意！在你署名后，书将无法再修改。"
 "book.generation.0"	"Original"	"Original Translation
 zh_CN: 原作
-zh_TW: 原始版本"	""
+zh_TW: 原始版本"	"原稿"
 "book.generation.1"	"Copy of original"	"Original Translation
 zh_CN: 原件的副本
-zh_TW: 複本"	""
+zh_TW: 複本"	"原稿的副本"
 "book.generation.2"	"Copy of a copy"	"Original Translation
 zh_CN: 副本的副本
-zh_TW: 複本的複本"	""
+zh_TW: 複本的複本"	"副本的副本"
 "book.generation.3"	"Tattered"	"Original Translation
 zh_CN: 破烂不堪
-zh_TW: 已破舊"	""
+zh_TW: 已破舊"	"破烂不堪"
 "book.headerInventory"	"From Inventory"	"Original Translation
 zh_CN: 来自物品栏
-zh_TW: 來自物品欄"	""
+zh_TW: 來自物品欄"	"来自物品栏"
 "book.headerPortfolio"	"From Portfolio"	"Original Translation
 zh_CN: 来自相片簿
-zh_TW: 來自相簿"	""
+zh_TW: 來自相簿"	"来自相片簿"
 "book.pageIndicator"	"Page %1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 页 共 %2$s 页
-zh_TW: 第 %1$s 頁/共 %2$s 頁"	""
+zh_TW: 第 %1$s 頁/共 %2$s 頁"	"第%1$s页/共%2$s页"
 "book.signButton"	"Sign"	"Original Translation
 zh_CN: 签名
-zh_TW: 署名"	""
+zh_TW: 署名"	"署名"
 "book.titleHere"	"[Enter title here]"	"Original Translation
 zh_CN: [在此处输入书名]
-zh_TW: [在此輸入標題]"	""
+zh_TW: [在此輸入標題]"	"[在此处输入书名]"
 "build.tooHigh"	"Height limit for building is %s blocks"	"Original Translation
 zh_CN: 建筑高度限制是 %s 个方块
-zh_TW: 最大建築高度限制為 %s 格"	""
+zh_TW: 最大建築高度限制為 %s 格"	"建筑高度限制是%s个方块"
 "build.tooLow"	"Minimum height for building is %s blocks"	"Original Translation
 zh_CN: 建筑最低高度是 %s 个方块
-zh_TW: 建築物的最小高度為 %s 個方塊"	""
+zh_TW: 建築物的最小高度為 %s 個方塊"	"建筑最低高度是%s个方块"
 "build_info.toast.copied.body"	"Build information has been copied to your clipboard."	"Original Translation
 zh_CN: 建造信息已复制到你的剪贴板。
 zh_TW: 已將版本資訊複製到你的剪貼簿。"	""
@@ -1741,58 +1741,58 @@ zh_CN: 已复制数据到剪贴板
 zh_TW: 已將資料複製到剪貼簿"	""
 "cauldronScreen.header"	"Cauldron"	"Original Translation
 zh_CN: 炼药锅
-zh_TW: 鍋釜"	""
+zh_TW: 鍋釜"	"炼药锅"
 "chalkboardScreen.header"	"Edit Text"	"Original Translation
 zh_CN: 编辑文本
-zh_TW: 編輯內文"	""
+zh_TW: 編輯內文"	"编辑文本"
 "chalkboardScreen.locked"	"Locked"	"Original Translation
 zh_CN: 已锁定
-zh_TW: 已鎖定"	""
+zh_TW: 已鎖定"	"已锁定"
 "chalkboardScreen.unlocked"	"Unlocked"	"Original Translation
 zh_CN: 已解除锁定
-zh_TW: 解鎖"	""
+zh_TW: 解鎖"	"未锁定"
 "chat.cannotSend"	"Cannot send chat message"	"Original Translation
 zh_CN: 无法发送聊天信息
-zh_TW: 無法發出聊天訊息"	""
+zh_TW: 無法發出聊天訊息"	"无法发送聊天消息"
 "chat.coordinateCopiedToast"	"The coordinate has been copied"	"Original Translation
 zh_CN: 坐标已复制
-zh_TW: 座標已複製"	""
+zh_TW: 座標已複製"	"坐标已复制"
 "chat.coordinateTypeFacing"	"Block Position"	"Original Translation
 zh_CN: 方块位置
-zh_TW: 方塊位置"	""
+zh_TW: 方塊位置"	"方块位置"
 "chat.coordinateTypePosition"	"My Position"	"Original Translation
 zh_CN: 我的位置
-zh_TW: 我的位置"	""
+zh_TW: 我的位置"	"我的位置"
 "chat.coordinatesInvalid"	"Invalid Coordinates"	"Original Translation
 zh_CN: 无效坐标
-zh_TW: 無效的座標"	""
+zh_TW: 無效的座標"	"无效坐标"
 "chat.coordinatesInvalidLong"	"Invalid Coordinates: make sure you are looking at a block"	"Original Translation
 zh_CN: 无效坐标：确保您正在查看方块
-zh_TW: 無效座標：請確認您正在檢視方塊"	""
+zh_TW: 無效座標：請確認您正在檢視方塊"	"无效坐标：请确保你正在看向方块"
 "chat.copy"	"Copy to Clipboard"	"Original Translation
 zh_CN: 复制到剪贴板
-zh_TW: 複製到剪貼簿"	""
+zh_TW: 複製到剪貼簿"	"复制到剪贴板"
 "chat.link.confirm"	"Are you sure you want to open the following website?"	"Original Translation
 zh_CN: 确定要打开以下网页？
-zh_TW: 確定要打開以下網頁嗎？"	""
+zh_TW: 確定要打開以下網頁嗎？"	"确定要打开以下网页？"
 "chat.link.confirmTrusted"	"Do you want to open this link or copy it to your clipboard?"	"Original Translation
 zh_CN: 想要打开这个链接还是复制到剪贴板？
-zh_TW: 確定要打開此連結或複製到剪貼簿嗎？"	""
+zh_TW: 確定要打開此連結或複製到剪貼簿嗎？"	"想要打开这个链接还是复制到剪贴板？"
 "chat.link.open"	"Open in browser"	"Original Translation
 zh_CN: 在浏览器中打开
-zh_TW: 以瀏覽器開啟"	""
+zh_TW: 以瀏覽器開啟"	"在浏览器中打开"
 "chat.link.warning"	"Never open links from people that you don't trust!"	"Original Translation
 zh_CN: 永远不要打开你不信任的人发来的链接！
-zh_TW: 千萬不要打開任何可疑人士給的網址！"	""
+zh_TW: 千萬不要打開任何可疑人士給的網址！"	"永远不要打开你不信任的人发来的链接！"
 "chat.mentions.autocomplete.allPlayers"	"mention all players"	"Original Translation
 zh_CN: 全部玩家选项
 zh_TW: 提及全部玩家"	""
 "chat.mute"	"Mute Chat"	"Original Translation
 zh_CN: 静音聊天
-zh_TW: 聊天靜音"	""
+zh_TW: 聊天靜音"	"静音聊天"
 "chat.realmsFilterDisabled"	"This Realm has chat filtering turned off."	"Original Translation
 zh_CN: 此 Realm 已关闭聊天过滤。
-zh_TW: 此 Realm 已關閉聊天篩選。"	""
+zh_TW: 此 Realm 已關閉聊天篩選。"	"此Realm已关闭聊天过滤。"
 "chat.redactObfuscatedText"	"[OBFUSCATED]"	"Original Translation
 zh_CN: [OBFUSCATED]
 zh_TW: [混淆]"	""
@@ -1801,28 +1801,28 @@ zh_CN: 你已暂时在此服务器上重命名为 '%s'
 zh_TW: 您在此伺服器上已暫時更名為「%s」"	""
 "chat.settings"	"Chat Settings"	"Original Translation
 zh_CN: 聊天设置
-zh_TW: 交談設定"	""
+zh_TW: 交談設定"	"聊天设置"
 "chat.settings.chatColor"	"Chat Color"	"Original Translation
 zh_CN: 聊天颜色
-zh_TW: 聊天顏色"	""
+zh_TW: 聊天顏色"	"聊天颜色"
 "chat.settings.chatFont"	"Chat Font"	"Original Translation
 zh_CN: 聊天字体
-zh_TW: 聊天字型"	""
+zh_TW: 聊天字型"	"聊天字体"
 "chat.settings.color"	"Color"	"Original Translation
 zh_CN: 颜色
-zh_TW: 顏色"	""
+zh_TW: 顏色"	"颜色"
 "chat.settings.defaultChatColor"	"Default Chat Color"	"Original Translation
 zh_CN: 默认聊天颜色
-zh_TW: 預設聊天顏色"	""
+zh_TW: 預設聊天顏色"	"默认聊天颜色"
 "chat.settings.font"	"Font"	"Original Translation
 zh_CN: 字体
-zh_TW: 字型"	""
+zh_TW: 字型"	"字体"
 "chat.settings.fontColor"	"Font Color"	"Original Translation
 zh_CN: 字体颜色
-zh_TW: 字型顏色"	""
+zh_TW: 字型顏色"	"字体颜色"
 "chat.settings.fontSize"	"Size: %s"	"Original Translation
 zh_CN: 大小：%s
-zh_TW: 大小：%s"	""
+zh_TW: 大小：%s"	"大小：%s"
 "chat.settings.fontSize.disabled"	"Size: Available with %s"	"Original Translation
 zh_CN: 大小：%s 时可用
 zh_TW: 大小：於 %s 提供"	""
@@ -1858,7 +1858,7 @@ zh_CN: (%s) <%s> %s
 zh_TW: (%s)<%s> %s"	""
 "chat.title"	"Chat"	"Original Translation
 zh_CN: 聊天
-zh_TW: 聊天"	""
+zh_TW: 聊天"	"聊天"
 "chat.title.cheats"	"Chat and Commands"	"Original Translation
 zh_CN: 聊天和命令
 zh_TW: 聊天與指令"	""
@@ -1870,13 +1870,13 @@ zh_CN: %s失去了%s成就
 zh_TW: %s 已失去 %s 成就"	""
 "chat.type.admin"	"[%s: %s]"	"Original Translation
 zh_CN: [%s: %s]
-zh_TW: [%s：%s]"	""
+zh_TW: [%s：%s]"	"[%s: %s]"
 "chat.type.announcement"	"[%s] %s"	"Original Translation
 zh_CN: [%s] %s
-zh_TW: [%s] %s"	""
+zh_TW: [%s] %s"	"[%s] %s"
 "chat.type.emote"	"* %s %s"	"Original Translation
 zh_CN: * %s %s
-zh_TW: * %s %s"	""
+zh_TW: * %s %s"	"* %s %s"
 "chat.type.sleeping"	"%s is sleeping in a bed. To skip to dawn, %s more players need to sleep in beds at the same time."	"Original Translation
 zh_CN: %s正在床上睡觉。要快进到黎明，还需要 %s 名用户同时在床上睡觉。
 zh_TW: %s 正在床舖上睡覺。如果要讓遊戲時間跳至日出，還要有 %s 位使用者同時睡在床舖上。"	""
@@ -1885,13 +1885,13 @@ zh_CN: <%s> %s
 zh_TW: <%s> %s"	""
 "chestScreen.header.large"	"Large Chest"	"Original Translation
 zh_CN: 大箱子
-zh_TW: 大容量箱子"	""
+zh_TW: 大容量箱子"	"大型箱子"
 "chestScreen.header.player"	"Inventory"	"Original Translation
 zh_CN: 物品栏
-zh_TW: 物品欄"	""
+zh_TW: 物品欄"	"物品栏"
 "chestScreen.header.small"	"Chest"	"Original Translation
 zh_CN: 箱子
-zh_TW: 箱子"	""
+zh_TW: 箱子"	"箱子"
 "chooseRealmScreen.addrealmbuttontext"	"Add a Realm"	"Original Translation
 zh_CN: 添加一个 Realm
 zh_TW: 新增 Realm"	""
@@ -1972,7 +1972,7 @@ zh_CN: 网络错误。请重试或与 LiveOps 联系。
 zh_TW: 網路錯誤。請重試或與 LiveOps 聯絡。"	""
 "cloud_upload.prompt.button.learn_more"	"Learn More"	"Original Translation
 zh_CN: 了解更多
-zh_TW: 瞭解更多"	""
+zh_TW: 瞭解更多"	"了解更多"
 "cloud_upload.prompt.button.worlds"	"Go to Worlds"	"Original Translation
 zh_CN: 前往世界
 zh_TW: 走向世界"	""
@@ -2060,10 +2060,10 @@ zh_CN: 是时候考虑改用 MakeCode 进行编码冒险了。Tynker 将持续�
 zh_TW: 是時候考慮改用 MakeCode 來展開你的程式設計冒險了。Tynker 將可使用至 2025 年 7 月。Python Notebooks 則不會早於 2026 年 1 月逐步淘汰。"	""
 "codeScreen.deprecatedIDE.button.close"	"Close"	"Original Translation
 zh_CN: 关闭
-zh_TW: 關閉"	""
+zh_TW: 關閉"	"关闭"
 "codeScreen.deprecatedIDE.button.learnMore"	"Learn more"	"Original Translation
 zh_CN: 了解更多
-zh_TW: 深入了解"	""
+zh_TW: 深入了解"	"了解更多"
 "codeScreen.deprecatedIDE.title"	"Code Editor Changes"	"Original Translation
 zh_CN: 代码编辑器更改
 zh_TW: 代碼編輯器變更"	""
@@ -2096,52 +2096,52 @@ zh_CN: Minecraft Education 不再支持 Tynker 项目。
 zh_TW: Minecraft Education 已不再支援 Tynker 專案。"	""
 "color.aqua"	"Aqua"	"Original Translation
 zh_CN: 水绿色
-zh_TW: 水藍色"	""
+zh_TW: 水藍色"	"天蓝色"
 "color.black"	"Black"	"Original Translation
 zh_CN: 黑色
-zh_TW: 黑色"	""
+zh_TW: 黑色"	"黑色"
 "color.blue"	"Blue"	"Original Translation
 zh_CN: 蓝色
-zh_TW: 藍色"	""
+zh_TW: 藍色"	"蓝色"
 "color.dark_aqua"	"Dark Aqua"	"Original Translation
 zh_CN: 深水绿色
-zh_TW: 深水藍色"	""
+zh_TW: 深水藍色"	"湖蓝色"
 "color.dark_blue"	"Dark Blue"	"Original Translation
 zh_CN: 深蓝色
-zh_TW: 深藍色"	""
+zh_TW: 深藍色"	"深蓝色"
 "color.dark_gray"	"Dark Gray"	"Original Translation
 zh_CN: 深灰色
-zh_TW: 深灰色"	""
+zh_TW: 深灰色"	"深灰色"
 "color.dark_green"	"Dark Green"	"Original Translation
 zh_CN: 深绿色
-zh_TW: 深綠色"	""
+zh_TW: 深綠色"	"深绿色"
 "color.dark_purple"	"Dark Purple"	"Original Translation
 zh_CN: 暗紫色
-zh_TW: 深紫色"	""
+zh_TW: 深紫色"	"深紫色"
 "color.dark_red"	"Dark Red"	"Original Translation
 zh_CN: 深红色
-zh_TW: 深紅色"	""
+zh_TW: 深紅色"	"深红色"
 "color.gold"	"Gold"	"Original Translation
 zh_CN: 金色
-zh_TW: 金色"	""
+zh_TW: 金色"	"金色"
 "color.gray"	"Gray"	"Original Translation
 zh_CN: 灰色
-zh_TW: 灰色"	""
+zh_TW: 灰色"	"灰色"
 "color.green"	"Green"	"Original Translation
 zh_CN: 绿色
-zh_TW: 綠色"	""
+zh_TW: 綠色"	"绿色"
 "color.light_purple"	"Light Purple"	"Original Translation
 zh_CN: 浅紫色
-zh_TW: 淡紫色"	""
+zh_TW: 淡紫色"	"浅紫色"
 "color.red"	"Red"	"Original Translation
 zh_CN: 红色
-zh_TW: 紅色"	""
+zh_TW: 紅色"	"红色"
 "color.white"	"White"	"Original Translation
 zh_CN: 白色
-zh_TW: 白色"	""
+zh_TW: 白色"	"白色"
 "color.yellow"	"Yellow"	"Original Translation
 zh_CN: 黄色
-zh_TW: 黃色"	""
+zh_TW: 黃色"	"黄色"
 "command.permissions.list.fail.filenotfound"	"Failed to list permissions from file, file not found."	"Original Translation
 zh_CN: 从文件列出权限失败，文件未找到。
 zh_TW: 從檔案列出權限失敗，找不到檔案。"	""
@@ -2150,58 +2150,58 @@ zh_CN: 从文件重新加载权限失败，文件未找到。
 zh_TW: 從檔案重新載入權限失敗，找不到檔案。"	""
 "commandBlock.genericName"	"Command Block"	"Original Translation
 zh_CN: 命令方块
-zh_TW: 指令方塊"	""
+zh_TW: 指令方塊"	"命令方块"
 "commandBlock.shortName"	"@"	"Original Translation
 zh_CN: @
-zh_TW: @"	""
+zh_TW: @"	"@"
 "commandBlockScreen.blockType"	"Block Type:"	"Original Translation
 zh_CN: 方块类型：
-zh_TW: 方塊類型："	""
+zh_TW: 方塊類型："	"方块类型："
 "commandBlockScreen.blockType.chain"	"Chain"	"Original Translation
 zh_CN: 连锁
-zh_TW: 鎖鏈"	""
+zh_TW: 鎖鏈"	"连锁"
 "commandBlockScreen.blockType.impulse"	"Impulse"	"Original Translation
 zh_CN: 脉冲
-zh_TW: 脈衝"	""
+zh_TW: 脈衝"	"脉冲"
 "commandBlockScreen.blockType.repeat"	"Repeat"	"Original Translation
 zh_CN: 重复
-zh_TW: 重複"	""
+zh_TW: 重複"	"循环"
 "commandBlockScreen.condition"	"Condition:"	"Original Translation
 zh_CN: 条件：
-zh_TW: 條件："	""
+zh_TW: 條件："	"条件："
 "commandBlockScreen.condition.conditional"	"Conditional"	"Original Translation
 zh_CN: 有条件的
-zh_TW: 有條件"	""
+zh_TW: 有條件"	"条件制约"
 "commandBlockScreen.condition.unconditional"	"Unconditional"	"Original Translation
 zh_CN: 无条件
-zh_TW: 無條件"	""
+zh_TW: 無條件"	"不受制约"
 "commandBlockScreen.displayOutputMode"	"O"	"Original Translation
 zh_CN: O
-zh_TW: O"	""
+zh_TW: O"	"O"
 "commandBlockScreen.executeFirstTick"	"Execute on First Tick"	"Original Translation
 zh_CN: 执行第一个已选项
-zh_TW: 於第一個刻度執行"	""
+zh_TW: 於第一個刻度執行"	"在首刻执行"
 "commandBlockScreen.hideOutputMode"	"X"	"Original Translation
 zh_CN: X
-zh_TW: X"	""
+zh_TW: X"	"X"
 "commandBlockScreen.hoverNote"	"Hover Note"	"Original Translation
 zh_CN: 悬停说明
-zh_TW: 暫留註解"	""
+zh_TW: 暫留註解"	"悬停注释"
 "commandBlockScreen.redstone"	"Redstone:"	"Original Translation
 zh_CN: 红石：
-zh_TW: 紅石："	""
+zh_TW: 紅石："	"红石："
 "commandBlockScreen.redstone.always_on"	"Always Active"	"Original Translation
 zh_CN: 始终活动
-zh_TW: 永遠啟用"	""
+zh_TW: 永遠啟用"	"保持开启"
 "commandBlockScreen.redstone.needs_redstone"	"Needs Redstone"	"Original Translation
 zh_CN: 需要红石
-zh_TW: 需要紅石"	""
+zh_TW: 需要紅石"	"红石控制"
 "commandBlockScreen.tickDelay"	"Delay in Ticks:"	"Original Translation
 zh_CN: 已选项中的延迟:
-zh_TW: 以刻度計算延遲："	""
+zh_TW: 以刻度計算延遲："	"延迟刻数"
 "commandBlockScreen.title"	"Command Block"	"Original Translation
 zh_CN: 命令方块
-zh_TW: 指令方塊"	""
+zh_TW: 指令方塊"	"命令方块"
 "commands.ability.description"	"Sets a player's ability."	"Original Translation
 zh_CN: 设置一名玩家的能力。
 zh_TW: 可設定玩家的能力。"	""
@@ -4967,46 +4967,46 @@ zh_CN: 需要游戏控制器
 zh_TW: 需要遊戲控制器"	""
 "container.barrel"	"Barrel"	"Original Translation
 zh_CN: 木桶
-zh_TW: 木桶"	""
+zh_TW: 木桶"	"木桶"
 "container.beacon"	"Beacon"	"Original Translation
 zh_CN: 信标
-zh_TW: 燈塔"	""
+zh_TW: 燈塔"	"信标"
 "container.brewing"	"Brewing Stand"	"Original Translation
 zh_CN: 酿造台
-zh_TW: 釀製台"	""
+zh_TW: 釀製台"	"酿造台"
 "container.chest"	"Chest"	"Original Translation
 zh_CN: 箱子
-zh_TW: 箱子"	""
+zh_TW: 箱子"	"箱子"
 "container.chestCopper"	"Copper Chest"	"Original Translation
 zh_CN: 铜宝箱
 zh_TW: 銅箱子"	""
 "container.chestDouble"	"Large Chest"	"Original Translation
 zh_CN: 大箱子
-zh_TW: 大容量箱子"	""
+zh_TW: 大容量箱子"	"大型箱子"
 "container.chestDoubleCopper"	"Large Copper Chest"	"Original Translation
 zh_CN: 大铜宝箱
 zh_TW: 大型銅箱"	""
 "container.crafter"	"Crafter"	"Original Translation
 zh_CN: 合成器
-zh_TW: 合成器"	""
+zh_TW: 合成器"	"合成器"
 "container.crafting"	"Crafting"	"Original Translation
 zh_CN: 合成
-zh_TW: 合成"	""
+zh_TW: 合成"	"合成"
 "container.creative"	"Item Selection"	"Original Translation
 zh_CN: 物品选栏
-zh_TW: 選擇物品"	""
+zh_TW: 選擇物品"	"物品选栏"
 "container.dispenser"	"Dispenser"	"Original Translation
 zh_CN: 发射器
-zh_TW: 發射器"	""
+zh_TW: 發射器"	"发射器"
 "container.dropper"	"Dropper"	"Original Translation
 zh_CN: 投掷器
-zh_TW: 投擲器"	""
+zh_TW: 投擲器"	"投掷器"
 "container.enchant"	"Enchant"	"Original Translation
 zh_CN: 附魔
-zh_TW: 附魔"	""
+zh_TW: 附魔"	"附魔"
 "container.enchant.clue"	"%s . . . ?"	"Original Translation
 zh_CN: %s …？
-zh_TW: %s . . . ？"	""
+zh_TW: %s . . . ？"	"%s …？"
 "container.enchant.lapis.many"	"%d Lapis Lazuli"	"Original Translation
 zh_CN: %d 个青金石
 zh_TW: %d個青金石"	""
@@ -32600,85 +32600,85 @@ zh_CN: 正在准备
 zh_TW: 做好準備"	""
 "lategameTips.1"	"Zombified piglins won't attack you - unless you make them angry."	"Original Translation
 zh_CN: 僵尸猪灵不会攻击你，除非你激怒了它们。
-zh_TW: 除非你惹毛牠們，否則殭屍豬布林不會主動攻擊你。"	""
+zh_TW: 除非你惹毛牠們，否則殭屍豬布林不會主動攻擊你。"	"僵尸猪灵不会攻击你——除非你激怒了它们。"
 "lategameTips.10"	"A Spider Jockey is the rare appearance of a spider being ridden by a skeleton!"	"Original Translation
 zh_CN: 蜘蛛骑手非常罕见，是一种骷髅骑着蜘蛛的生物！
-zh_TW: 蜘蛛騎師是罕見的骷髏騎著蜘蛛的現象！"	""
+zh_TW: 蜘蛛騎師是罕見的骷髏騎著蜘蛛的現象！"	"蜘蛛骑士非常罕见，是一种骷髅骑着蜘蛛的生物组合！"
 "lategameTips.11"	"Traveling one block in the Nether is equal to traveling eight blocks in the Overworld."	"Original Translation
 zh_CN: 在下界中行进一个方块相当于在主世界中行进八个方块。
-zh_TW: 在地獄中走過一個方塊，等同在主世界中走過八個方塊。"	""
+zh_TW: 在地獄中走過一個方塊，等同在主世界中走過八個方塊。"	"在下界中行进一个方块相当于在主世界中行进八个方块。"
 "lategameTips.12"	"Use phantom membranes to repair your elytra."	"Original Translation
 zh_CN: 使用幻翼膜来修理您的鞘翅。
-zh_TW: 使用幻影薄膜來修補您的鞘翅。"	""
+zh_TW: 使用幻影薄膜來修補您的鞘翅。"	"使用幻翼膜来修复你的鞘翅。"
 "lategameTips.13"	"Elytra can be used to glide, find them in End city ships!"	"Original Translation
 zh_CN: 鞘翅可以用来滑翔，它们会出现在末地城的船中！
-zh_TW: 鞘翅可以用來滑翔，在終界城市船隻中可以找到它們！"	""
+zh_TW: 鞘翅可以用來滑翔，在終界城市船隻中可以找到它們！"	"鞘翅可以用来滑翔，它会出现在末地城的船中！"
 "lategameTips.14"	"Test out some new features by turning on Experimental Gameplay in the settings menu!"	"Original Translation
 zh_CN: 打开设置菜单中的实验性游戏内容，即可测试一些新功能！
-zh_TW: 在設定功能表中啟用實驗性玩法，即可測試一些新功能！"	""
+zh_TW: 在設定功能表中啟用實驗性玩法，即可測試一些新功能！"	"打开设置菜单中的实验性游戏内容，即可测试一些新功能！"
 "lategameTips.15"	"Monsters that are killed by skeletons arrows have a chance of dropping music discs."	"Original Translation
 zh_CN: 被骷髅箭消灭的怪物有机会掉落音乐唱片。
-zh_TW: 被骷髏箭殺死的怪物有機會掉落唱片。"	""
+zh_TW: 被骷髏箭殺死的怪物有機會掉落唱片。"	"被骷髅的箭消灭的怪物有机会掉落音乐唱片。"
 "lategameTips.16"	"Texture packs change the way that blocks, items, and even the menus look in game. Try them out!"	"Original Translation
 zh_CN: 材质包会改变课程中方块、物品甚至菜单的外观。试试吧！
-zh_TW: 材質套件可以變更遊戲內的方塊、物品、甚至是功能表的外觀！快去試試看吧！"	""
+zh_TW: 材質套件可以變更遊戲內的方塊、物品、甚至是功能表的外觀！快去試試看吧！"	"纹理包会改变游戏中方块、物品甚至菜单的外观。试试吧！"
 "lategameTips.17"	"Using firework rockets boosts elytra speed in mid air. Just... make sure they don't explode, otherwise it'll hurt BADLY!"	"Original Translation
 zh_CN: 使用焰火火箭会提高鞘翅在半空中的速度。只要…确保它们别爆炸就好，否则会让你疼得够呛！
-zh_TW: 使用煙火火箭可以增加鞘翅在空中的飛行速度。只是… 要記得注意別讓它們爆炸，不然可是會很痛的！"	""
+zh_TW: 使用煙火火箭可以增加鞘翅在空中的飛行速度。只是… 要記得注意別讓它們爆炸，不然可是會很痛的！"	"使用烟花火箭会提高鞘翅在空中的速度。只是……要确保它们别爆炸，否则会让你疼得够呛！"
 "lategameTips.18"	"Do people actually read these?"	"Original Translation
 zh_CN: 真得有人会看这些吗？
-zh_TW: 真的有人會看這些嗎？"	""
+zh_TW: 真的有人會看這些嗎？"	"真的有人会看这些吗？"
 "lategameTips.19"	"Riptide enchantment will propel you through the air in the rain."	"Original Translation
 zh_CN: 激流强力将在雨中推动您穿过空气。
-zh_TW: 激流附魔可以在雨中將您推向空中。"	""
+zh_TW: 激流附魔可以在雨中將您推向空中。"	"激流魔咒可以在雨中推动你穿梭空气。"
 "lategameTips.2"	"Hit those fireballs back at the Ghast!"	"Original Translation
 zh_CN: 将那些火球打回恶魂那里！
-zh_TW: 把那些火球擊回給地獄幽靈！"	""
+zh_TW: 把那些火球擊回給地獄幽靈！"	"将那些火球打回恶魂那里！"
 "lategameTips.20"	"The Beacon is a powerful item that can only be crafted with a Nether star from the Wither!"	"Original Translation
 zh_CN: 信标是一种强力物品，只能用一颗产自凋灵的下界之星来合成！
-zh_TW: 燈塔是非常強大的物品，只能使用凋靈掉落的地獄星合成！"	""
+zh_TW: 燈塔是非常強大的物品，只能使用凋靈掉落的地獄星合成！"	"信标是一种强大的物品，只能用凋灵掉落的下界之星来合成！"
 "lategameTips.21"	"Nether stars can't be destroyed by explosions."	"Original Translation
 zh_CN: 下界之星不会被爆炸摧毁。
-zh_TW: 爆炸無法摧毀地獄星。"	""
+zh_TW: 爆炸無法摧毀地獄星。"	"下界之星不会被爆炸摧毁。"
 "lategameTips.22"	"You can barter with piglins."	"Original Translation
 zh_CN: 你可以与猪灵交换物品。
-zh_TW: 你可以與豬布林交易物品。"	""
+zh_TW: 你可以與豬布林交易物品。"	"你可以与猪灵以物易物。"
 "lategameTips.23"	"Respawning in the Nether requires a charged respawn anchor."	"Original Translation
 zh_CN: 在下界重生需要充能的重生锚。
-zh_TW: 在地獄重生得先讓重生錨充滿能量。"	""
+zh_TW: 在地獄重生得先讓重生錨充滿能量。"	"在下界重生需要充能的重生锚。"
 "lategameTips.24"	"You can charge a respawn anchor with glowstone."	"Original Translation
 zh_CN: 你可以用荧石为重生锚充能。
-zh_TW: 你可以使用閃石替重生錨補充能量。"	""
+zh_TW: 你可以使用閃石替重生錨補充能量。"	"你可以用荧石为重生锚充能。"
 "lategameTips.25"	"You can breed hoglins with crimson fungus, but be careful."	"Original Translation
 zh_CN: 你可以用绯红真菌来饲养疣猪兽，但千万要小心。
-zh_TW: 你可以用深紅真菌餵食繁殖疣豬獸，但要小心。"	""
+zh_TW: 你可以用深紅真菌餵食繁殖疣豬獸，但要小心。"	"你可以用绯红菌来繁殖疣猪兽，但千万要小心。"
 "lategameTips.26"	"Gold is most common in the Nether and in the badlands biome."	"Original Translation
 zh_CN: 黄金是下界和荒地生物群系里最常见的资源。
-zh_TW: 黃金在地獄和破碎裂谷生態域中最為常見。"	""
+zh_TW: 黃金在地獄和破碎裂谷生態域中最為常見。"	"金是下界和恶地生物群系里最常见的资源。"
 "lategameTips.27"	"Diorite, you either love it or hate it."	"Original Translation
 zh_CN: 闪长岩是一种会让您对它非爱即恨的东西。
-zh_TW: 閃長岩，讓人又愛又恨。"	""
+zh_TW: 閃長岩，讓人又愛又恨。"	"闪长岩是一种会让你对它非爱即恨的东西。"
 "lategameTips.3"	"Cobblestone is resistant to Ghast fireballs, making it useful for guarding portals."	"Original Translation
 zh_CN: 圆石可以抵御恶魂发射的火球，可用于守卫传送门。
-zh_TW: 鵝卵石能抵抗地獄幽靈火球，因此在守護傳送門時非常有用。"	""
+zh_TW: 鵝卵石能抵抗地獄幽靈火球，因此在守護傳送門時非常有用。"	"圆石可以抵御恶魂发射的火球，可用于守卫传送门。"
 "lategameTips.4"	"Our music is by C418, Lena Raine, Aaron Cherof, and Kumi Tanioka."	"Original Translation
 zh_CN: 我们的音乐是由 C418、Lena Raine、Aaron Cherof 和 Kumi Tanioka 出品。
-zh_TW: 我們的音樂是由 C418 、Lena Raine、Aaron Cherof 和 Kumi Tanioka 所創作。"	""
+zh_TW: 我們的音樂是由 C418 、Lena Raine、Aaron Cherof 和 Kumi Tanioka 所創作。"	"我们的音乐是由C418、Lena Raine、Aaron Cherof和谷冈久美创作的。"
 "lategameTips.5"	"There will be an update to this game eventually!"	"Original Translation
 zh_CN: 最终会对此游戏进行更新！
-zh_TW: 我們會為這款遊戲推出更新！"	""
+zh_TW: 我們會為這款遊戲推出更新！"	"这款游戏会持续更新！"
 "lategameTips.6"	"Creepers were born from a coding bug."	"Original Translation
 zh_CN: 苦力怕诞生于编程失误。
-zh_TW: 苦力怕就是從某個程式錯誤中誕生的。"	""
+zh_TW: 苦力怕就是從某個程式錯誤中誕生的。"	"苦力怕诞生于编程失误。"
 "lategameTips.7"	"The first version of Minecraft was created in just 6 days!"	"Original Translation
 zh_CN: Minecraft 的第一个版本只花了 6 天时间就搭建好了！
-zh_TW: 第一版 Minecraft 只用了短短 6 天就製作完成！"	""
+zh_TW: 第一版 Minecraft 只用了短短 6 天就製作完成！"	"Minecraft的第一个版本只花了6天时间就制作好了！"
 "lategameTips.8"	"The Enderman language is actually English in reverse."	"Original Translation
 zh_CN: 末影人的语言实际上就是反着说的英语。
-zh_TW: 終界使者的語言其實是反過來說的英文。"	""
+zh_TW: 終界使者的語言其實是反過來說的英文。"	"末影人的语言实际上就是反着说的英语。"
 "lategameTips.9"	"The original name for Minecraft was Cave Game."	"Original Translation
 zh_CN: Minecraft 的原名为 Cave Game。
-zh_TW: Minecraft 的原名是 Cave Game。"	""
+zh_TW: Minecraft 的原名是 Cave Game。"	"Minecraft的原名为Cave Game。"
 "level.editor.export.failed"	"Project export failed"	"Original Translation
 zh_CN: 项目导出失败
 zh_TW: 專案匯出失敗"	""
@@ -33188,58 +33188,58 @@ zh_CN: 交易一些其他东西来解锁！
 zh_TW: 用其他物品交易來解鎖！"	""
 "midgameTips.1"	"Iron golems will fight for you!"	"Original Translation
 zh_CN: 铁傀儡将为你而战！
-zh_TW: 鐵魔像會為你而戰！"	""
+zh_TW: 鐵魔像會為你而戰！"	"铁傀儡将为你而战！"
 "midgameTips.10"	"Obsidian is created when water hits a lava source block."	"Original Translation
 zh_CN: 水与熔岩源方块碰撞时将产生黑曜石。
-zh_TW: 黑曜石是在水撞擊熔岩源方塊時形成的。"	""
+zh_TW: 黑曜石是在水撞擊熔岩源方塊時形成的。"	"水与熔岩源方块碰撞时将产生黑曜石。"
 "midgameTips.11"	"If the source block for water or lava is removed, it will stop the flow completely."	"Original Translation
 zh_CN: 移除水或熔岩的源方块后，水或熔岩将彻底停止流动。
-zh_TW: 如果水或熔岩的源方塊被移除，就會完全停止流動。"	""
+zh_TW: 如果水或熔岩的源方塊被移除，就會完全停止流動。"	"移除水或熔岩的源方块后，水或熔岩将彻底停止流动。"
 "midgameTips.12"	"Blocks that can be used as a light source will melt snow and ice."	"Original Translation
 zh_CN: 可用作光源的方块会使雪与冰融化。
-zh_TW: 可用來當光源的方塊能拿來融化白雪與冰塊。"	""
+zh_TW: 可用來當光源的方塊能拿來融化白雪與冰塊。"	"可用作光源的方块会使雪与冰融化。"
 "midgameTips.13"	"Take caution when building structures made of wool out in the open, as lightning from thunderstorms can set wool on fire."	"Original Translation
 zh_CN: 在户外用羊毛打造建筑时要格外小心，雷暴产生的闪电可以引燃羊毛。
-zh_TW: 在空曠地區用羊毛建造結構時要小心，因為雷雨產生的閃電會使羊毛起火。"	""
+zh_TW: 在空曠地區用羊毛建造結構時要小心，因為雷雨產生的閃電會使羊毛起火。"	"在户外用羊毛打造建筑时要格外小心，雷暴产生的闪电可以引燃羊毛。"
 "midgameTips.14"	"A single bucket of lava can be used in a furnace to smelt 100 blocks."	"Original Translation
 zh_CN: 一桶熔岩可供熔炉熔化 100 个方块。
-zh_TW: 一桶熔岩可在熔爐中熔煉 100 塊方塊。"	""
+zh_TW: 一桶熔岩可在熔爐中熔煉 100 塊方塊。"	"一桶熔岩可供熔炉烧炼100个方块。"
 "midgameTips.15"	"The instrument played by a note block depends on the material beneath it."	"Original Translation
 zh_CN: 音符盒奏出的乐器取决于其下方放置的材料。
-zh_TW: 演奏音符塊的樂器取決於方塊下面的材料。"	""
+zh_TW: 演奏音符塊的樂器取決於方塊下面的材料。"	"音符盒奏出的乐器取决于其下方放置的材料。"
 "midgameTips.16"	"Attacking a wolf will cause any wolves nearby to turn hostile and attack you."	"Original Translation
 zh_CN: 攻击狼会导致附近的所有狼变为敌对状态并向你发起攻击。
-zh_TW: 攻擊一隻狼會導致與附近的所有狼敵對並受到攻擊。"	""
+zh_TW: 攻擊一隻狼會導致與附近的所有狼敵對並受到攻擊。"	"攻击狼会导致附近的所有狼变为敌对状态并向你发起攻击。"
 "midgameTips.17"	"Wolves and iron golems won't attack creepers."	"Original Translation
 zh_CN: 狼和铁傀儡不会攻击苦力怕。
-zh_TW: 狼和鐵魔像不會攻擊苦力怕。"	""
+zh_TW: 狼和鐵魔像不會攻擊苦力怕。"	"狼和铁傀儡不会攻击苦力怕。"
 "midgameTips.18"	"Chickens lay an egg every 5 to 10 minutes."	"Original Translation
 zh_CN: 鸡每隔 5 到 10 分钟就会下一个蛋。
-zh_TW: 雞每 5 至 10 分鐘就會下一次蛋。"	""
+zh_TW: 雞每 5 至 10 分鐘就會下一次蛋。"	"鸡每隔5到10分钟就会下一个蛋。"
 "midgameTips.19"	"Obsidian can be mined with a diamond pickaxe."	"Original Translation
 zh_CN: 黑曜石可以用钻石镐开采。
-zh_TW: 黑曜石只能用鑽石十字鎬開採。"	""
+zh_TW: 黑曜石只能用鑽石十字鎬開採。"	"黑曜石可以用钻石镐开采。"
 "midgameTips.2"	"Feed a bone to a wolf to tame it. You can then make it sit or follow you."	"Original Translation
 zh_CN: 给狼喂骨头可以将其驯服。然后，你可以命令它坐下或跟随你。
-zh_TW: 餵給狼一根骨頭就能馴服牠。然後你可以叫牠坐下或跟著你。"	""
+zh_TW: 餵給狼一根骨頭就能馴服牠。然後你可以叫牠坐下或跟著你。"	"给狼喂骨头可以将其驯服。然后，你可以命令它坐下或跟随你。"
 "midgameTips.20"	"Creepers are the easiest obtainable source of gunpowder."	"Original Translation
 zh_CN: 苦力怕是最容易获取的火药来源。
-zh_TW: 苦力怕是最容易取得的火藥來源。"	""
+zh_TW: 苦力怕是最容易取得的火藥來源。"	"苦力怕是最容易获取的火药来源。"
 "midgameTips.21"	"Tame wolves show their health with the position of their tail. Feed them meat to heal them."	"Original Translation
 zh_CN: 驯服狼时会在它们的尾部显示其生命值。喂它们吃肉可以对其进行治疗。
-zh_TW: 馴服的狼會用尾巴的位置來代表牠們的生命值。餵牠們吃肉就能治癒牠們。"	""
+zh_TW: 馴服的狼會用尾巴的位置來代表牠們的生命值。餵牠們吃肉就能治癒牠們。"	"驯服的狼会用尾巴的位置代表其生命值。喂它们吃肉可以对其治疗。"
 "midgameTips.22"	"Different colored dyes can be made from a variety of materials, cook cactus in a furnace to get green dye!"	"Original Translation
 zh_CN: 不同的材料可以制成不同颜色的染料，将仙人掌放进熔炉中炙烤可获得绿色染料！
-zh_TW: 可用各種材料製成不同顏色的染料，在熔爐中烹飪仙人掌可以得到綠色染料！"	""
+zh_TW: 可用各種材料製成不同顏色的染料，在熔爐中烹飪仙人掌可以得到綠色染料！"	"不同的材料可以制成不同颜色的染料，将仙人掌放进熔炉中炙烤可获得绿色染料！"
 "midgameTips.23"	"Pigs that are struck by lightning become zombified piglins."	"Original Translation
 zh_CN: 被闪电击中的猪会变成僵尸猪灵。
-zh_TW: 被閃電擊中的豬會變成殭屍豬布林。"	""
+zh_TW: 被閃電擊中的豬會變成殭屍豬布林。"	"被闪电击中的猪会变成僵尸猪灵。"
 "midgameTips.24"	"Endermen hate bath time!"	"Original Translation
 zh_CN: 末影人讨厌洗澡！
-zh_TW: 終界使者討厭洗澡！"	""
+zh_TW: 終界使者討厭洗澡！"	"末影人讨厌洗澡！"
 "midgameTips.25"	"Sometimes iron golems give flowers to the villager children!"	"Original Translation
 zh_CN: 铁傀儡有时候会把鲜花送给小村民！
-zh_TW: 有時候鐵魔像會送花給村民的孩子們！"	""
+zh_TW: 有時候鐵魔像會送花給村民的孩子們！"	"铁傀儡有时候会把鲜花送给小村民！"
 "midgameTips.26"	"Ocelots show creepers who's boss!"	"Original Translation
 zh_CN: 豹猫会让苦力怕知道谁才是老大！
 zh_TW: 苦力怕最怕豹貓！"	""
@@ -33323,10 +33323,10 @@ zh_CN: 空桶里可以装水、熔岩、牛奶、粉雪…甚至还能装某些�
 zh_TW: 你可以在空桶裡裝滿水、熔岩、牛奶、粉狀白雪… 甚至是一些生物。"	""
 "midgameTips.50"	"When digging straight up, place a torch at your feet to break any sand or gravel that could potentially fall down on you."	"Original Translation
 zh_CN: 当你直接向上挖的时候，在你的脚边放一个火把，打破任何可能掉到你身上的沙子或砂砾。
-zh_TW: 直線往上挖的時候，將火把放在腳邊即可摧毀任何可能掉在您身上的沙子或礪石。"	""
+zh_TW: 直線往上挖的時候，將火把放在腳邊即可摧毀任何可能掉在您身上的沙子或礪石。"	"当你直接向上挖的时候，在你的脚边放一个火把，破坏任何可能掉到你身上的沙子或砂砾。"
 "midgameTips.51"	"Shear a Beehive or nest to get Honeycomb, use a Bottle to get honey."	"Original Translation
 zh_CN: 修剪蜂箱或蜂巢以获得蜜脾，并使用瓶子获取蜂蜜
-zh_TW: 剪下蜂窩或巢穴獲得蜂巢，用瓶子獲取蜂蜜。"	""
+zh_TW: 剪下蜂窩或巢穴獲得蜂巢，用瓶子獲取蜂蜜。"	"对蜂箱或蜂巢使用剪刀以获得蜜脾，使用瓶子获取蜂蜜。"
 "midgameTips.52"	"Place a campfire under a beehive or nest to harvest honey."	"Original Translation
 zh_CN: 将营火放置在蜂窝或蜂巢下可收获蜂蜜。
 zh_TW: 在蜂窩或巢穴下點把營火來採收蜂蜜。"	""
@@ -33909,8 +33909,8 @@ zh_CN: 氛围
 zh_TW: 大氣"	""
 "options.attribution"	"Attribution"	"Original Translation
 zh_CN: 署名
-zh_TW: 署名"	""
-"options.attribution.buttonLabel"	"View"	"Original Translation"	""
+zh_TW: 署名"	"著作权说明"
+"options.attribution.buttonLabel"	"View"	"Original Translation"	"查看"
 "options.autoUpdateEnabled"	"Auto Update Unlocked Packs"	"Original Translation
 zh_CN: 自动更新已解锁的包
 zh_TW: 自動更新已解鎖套件"	""
