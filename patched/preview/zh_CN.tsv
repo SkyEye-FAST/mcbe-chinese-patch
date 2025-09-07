@@ -1744,7 +1744,7 @@ zh_CN: 此 Realm 已关闭聊天过滤。
 zh_TW: 此 Realm 已關閉聊天篩選。"	"此Realm已关闭聊天过滤。"
 "chat.redactObfuscatedText"	"[OBFUSCATED]"	"Original Translation
 zh_CN: [OBFUSCATED]
-zh_TW: [混淆]"	""
+zh_TW: [混淆]"	"[OBFUSCATED]"
 "chat.renamed"	"You have been temporarily renamed to '%s' on this server"	"Original Translation
 zh_CN: 你已暂时在此服务器上重命名为 '%s'
 zh_TW: 您在此伺服器上已暫時更名為「%s」"	""
@@ -1831,7 +1831,7 @@ zh_CN: %s正在床上睡觉。要快进到黎明，还需要 %s 名用户同时�
 zh_TW: %s 正在床舖上睡覺。如果要讓遊戲時間跳至日出，還要有 %s 位使用者同時睡在床舖上。"	""
 "chat.type.text"	"<%s> %s"	"Original Translation
 zh_CN: <%s> %s
-zh_TW: <%s> %s"	""
+zh_TW: <%s> %s"	"<%s> %s"
 "chestScreen.header.large"	"Large Chest"	"Original Translation
 zh_CN: 大箱子
 zh_TW: 大容量箱子"	"大型箱子"
@@ -1843,10 +1843,10 @@ zh_CN: 箱子
 zh_TW: 箱子"	"箱子"
 "chooseRealmScreen.addrealmbuttontext"	"Add a Realm"	"Original Translation
 zh_CN: 添加一个 Realm
-zh_TW: 新增 Realm"	""
+zh_TW: 新增 Realm"	"添加Realm"
 "chooseRealmScreen.header"	"Choose a Realm Server"	"Original Translation
 zh_CN: 选择一个 Realm 服务器
-zh_TW: 選擇 Realm 伺服器"	""
+zh_TW: 選擇 Realm 伺服器"	"选择Realm服务器"
 "chooseRealmScreen.realmsbuttontext"	"Add a 2 player Realm"	"Original Translation
 zh_CN: 添加一个 2 名用户的 Realm
 zh_TW: 新增 2 名玩家的 Realm"	""
@@ -1855,28 +1855,28 @@ zh_CN: 添加一个 10 名用户的 Realm
 zh_TW: 新增 10 名玩家的 Realm"	""
 "client.version.1.0"	"Ender Update (%s)"	"Original Translation
 zh_CN: 末影人更新 (%s)
-zh_TW: 終界更新 (%s)"	""
+zh_TW: 終界更新 (%s)"	"末影更新 (%s)"
 "client.version.1.1"	"Discovery Update (%s)"	"Original Translation
 zh_CN: 发现更新 (%s)
-zh_TW: 探索更新 (%s)"	""
+zh_TW: 探索更新 (%s)"	"探索更新（%s）"
 "client.version.1.11"	"Village & Pillage (%s)"	"Original Translation
 zh_CN: 村庄和劫掠者村庄更新 (%s)
-zh_TW: 村莊和劫掠者 (%s)"	""
+zh_TW: 村莊和劫掠者 (%s)"	"村庄与掠夺（%s）"
 "client.version.1.2"	"Better Together Update (%s)"	"Original Translation
 zh_CN: Better Together 更新 (%s)
-zh_TW: Better Together 更新 (%s)"	""
+zh_TW: Better Together 更新 (%s)"	"独乐不如众乐更新 (%s)"
 "client.version.1.4"	"Update Aquatic (%s)"	"Original Translation
 zh_CN: 水生更新 (%s)
-zh_TW: 新式潛水艇 (%s)"	""
+zh_TW: 新式潛水艇 (%s)"	"水域更新 (%s)"
 "client.version.1.5"	"Update Aquatic (%s)"	"Original Translation
 zh_CN: 水生更新 (%s)
-zh_TW: 新式潛水艇 (%s)"	""
+zh_TW: 新式潛水艇 (%s)"	"水域更新 (%s)"
 "client.version.generic"	"Update %s"	"Original Translation
 zh_CN: 更新 %s
-zh_TW: 更新 %s"	""
+zh_TW: 更新 %s"	"%s更新"
 "clientscript.description"	"Script debugger commands."	"Original Translation
 zh_CN: 脚本调试器命令。
-zh_TW: 指令碼偵錯工具指令。"	""
+zh_TW: 指令碼偵錯工具指令。"	"脚本调试器命令。"
 "clientscript.error.debuggerFailed"	"Failed to start client debugger"	"Original Translation
 zh_CN: 无法启动客户端调试器
 zh_TW: 無法啟動用戶端偵錯程式"	""
@@ -1894,13 +1894,13 @@ zh_CN: 客户端调试器监听端口 %s
 zh_TW: 連接埠 %s 的用戶端偵錯程式"	""
 "cloud_upload.button.privacy_statement"	"Privacy Statement"	"Original Translation
 zh_CN: 隐私声明
-zh_TW: 隱私權聲明"	""
+zh_TW: 隱私權聲明"	"隐私声明"
 "cloud_upload.button.service_agreement"	"Terms of Use"	"Original Translation
 zh_CN: 使用条款
-zh_TW: 使用條款"	""
+zh_TW: 使用條款"	"使用条款"
 "cloud_upload.button.upload"	"Upload World (%s)"	"Original Translation
 zh_CN: 上传世界（%s）
-zh_TW: 上傳世界 (%s)"	""
+zh_TW: 上傳世界 (%s)"	"上传世界（%s）"
 "cloud_upload.failed.description"	"Your world could not be uploaded because %s"	"Original Translation
 zh_CN: 无法上传您的世界，因为 %s
 zh_TW: 無法上傳你的世界，因為%s"	""
@@ -1939,10 +1939,10 @@ zh_CN: 要上传您的世界，请接受 Microsoft 服务协议。上传的世�
 zh_TW: 如果要上傳你的世界，請接受 Microsoft 服務合約。上傳的世界需遵守 Microsoft 服務合約，你可以在使用條款中找到該合約。上傳後，你仍然可以在世界中遊玩。"	""
 "cloud_upload.terms.title"	"Terms & Conditions"	"Original Translation
 zh_CN: 条款和条件
-zh_TW: 條款與條件"	""
+zh_TW: 條款與條件"	"条款和条件"
 "cloud_upload.title"	"Mojang Player Support"	"Original Translation
 zh_CN: Mojang 玩家支持
-zh_TW: Mojang 玩家支援"	""
+zh_TW: Mojang 玩家支援"	"Mojang玩家支持"
 "cloud_upload.toggle.accept_terms"	"Accept Microsoft Services Agreement"	"Original Translation
 zh_CN: 接受微软服务协议
 zh_TW: 接受 Microsoft 服務合約"	""
@@ -1982,7 +1982,7 @@ zh_CN: 较大的窗口
 zh_TW: 較大的視窗"	""
 "codeScreen.button.resetEditor"	"Reset Editor"	"Original Translation
 zh_CN: 重置编辑器
-zh_TW: 重置編輯器"	""
+zh_TW: 重置編輯器"	"重置编辑器"
 "codeScreen.button.smallerWindow"	"Smaller Window"	"Original Translation
 zh_CN: 较小的窗口
 zh_TW: 較小的視窗"	""
@@ -1991,13 +1991,13 @@ zh_CN: 首页
 zh_TW: 首頁"	""
 "codeScreen.buttonTTS.maximize"	"Maximize"	"Original Translation
 zh_CN: 最大化
-zh_TW: 最大化"	""
+zh_TW: 最大化"	"最大化"
 "codeScreen.buttonTTS.restore"	"Restore"	"Original Translation
 zh_CN: 恢复
-zh_TW: 還原"	""
+zh_TW: 還原"	"恢复"
 "codeScreen.buttonTTS.selectEditor"	"Select Editor"	"Original Translation
 zh_CN: 选择编辑器
-zh_TW: 選擇編輯工具"	""
+zh_TW: 選擇編輯工具"	"选择编辑器"
 "codeScreen.buttonTTS.splitLeft"	"Move Left"	"Original Translation
 zh_CN: 向左移动
 zh_TW: 往左"	""
@@ -2018,16 +2018,16 @@ zh_CN: 代码编辑器更改
 zh_TW: 代碼編輯器變更"	""
 "codeScreen.filePicker.csvFile"	"CSV File"	"Original Translation
 zh_CN: CSV 文件
-zh_TW: CSV 檔案"	""
+zh_TW: CSV 檔案"	"CSV文件"
 "codeScreen.filePicker.title"	"Browse for a file"	"Original Translation
 zh_CN: 浏览文件
 zh_TW: 瀏覽檔案"	""
 "codeScreen.filePicker.txtFile"	"Text File"	"Original Translation
 zh_CN: 文本文件
-zh_TW: 文字檔案"	""
+zh_TW: 文字檔案"	"文本文件"
 "codeScreen.makeCode.untitledProject"	"Untitled"	"Original Translation
 zh_CN: 无标题
-zh_TW: 未命名"	""
+zh_TW: 未命名"	"无标题"
 "codeScreen.memoryError"	"Error in editor process, check if your device has enough memory."	"Original Translation
 zh_CN: 编辑器进程出错，请检查您的设备是否有足够的内存。
 zh_TW: 使用編輯工具時發生錯誤，請檢查您的裝置是否有足夠的記憶體。"	""
@@ -4958,91 +4958,91 @@ zh_CN: %s …？
 zh_TW: %s . . . ？"	"%s …？"
 "container.enchant.lapis.many"	"%d Lapis Lazuli"	"Original Translation
 zh_CN: %d 个青金石
-zh_TW: %d個青金石"	""
+zh_TW: %d個青金石"	"%d个青金石"
 "container.enchant.lapis.one"	"1 Lapis Lazuli"	"Original Translation
 zh_CN: 1 个青金石
-zh_TW: 1 個青金石"	""
+zh_TW: 1 個青金石"	"1个青金石"
 "container.enchant.level.many"	"%d Enchantment Levels"	"Original Translation
 zh_CN: 附魔等级 %d
-zh_TW: %d個附魔等級"	""
+zh_TW: %d個附魔等級"	"%d级附魔等级"
 "container.enchant.level.one"	"1 Enchantment Level"	"Original Translation
 zh_CN: 附魔等级 1
-zh_TW: 1 個附魔等級"	""
+zh_TW: 1 個附魔等級"	"1级附魔等级"
 "container.enchant.levelrequirement"	"Level Requirement: %d"	"Original Translation
 zh_CN: 等级要求： %d
-zh_TW: 需要等級：%d"	""
+zh_TW: 需要等級：%d"	"等级要求：%d"
 "container.enderchest"	"Ender Chest"	"Original Translation
 zh_CN: 末影箱
-zh_TW: 終界箱"	""
+zh_TW: 終界箱"	"末影箱"
 "container.furnace"	"Furnace"	"Original Translation
 zh_CN: 熔炉
-zh_TW: 熔爐"	""
+zh_TW: 熔爐"	"熔炉"
 "container.hopper"	"Item Hopper"	"Original Translation
 zh_CN: 漏斗
-zh_TW: 漏斗"	""
+zh_TW: 漏斗"	"漏斗"
 "container.inventory"	"Inventory"	"Original Translation
 zh_CN: 物品栏
-zh_TW: 物品欄"	""
+zh_TW: 物品欄"	"物品栏"
 "container.isLocked"	"%s is locked!"	"Original Translation
 zh_CN: %s已被上锁！
-zh_TW: %s 已鎖上！"	""
+zh_TW: %s 已鎖上！"	"%s已被上锁！"
 "container.loom"	"Loom"	"Original Translation
 zh_CN: 织布机
-zh_TW: 織布機"	""
+zh_TW: 織布機"	"织布机"
 "container.minecart"	"Minecart"	"Original Translation
 zh_CN: 矿车
-zh_TW: 礦車"	""
+zh_TW: 礦車"	"矿车"
 "container.repair"	"Repair & Name"	"Original Translation
 zh_CN: 物品修复和命名
-zh_TW: 修復 & 命名"	""
+zh_TW: 修復 & 命名"	"修复和命名"
 "container.repair.cost"	"Enchantment Cost: %1$d"	"Original Translation
 zh_CN: 魔咒花费：%1$d
-zh_TW: 附魔成本：%1$d"	""
+zh_TW: 附魔成本：%1$d"	"附魔花费：%1$d"
 "container.repair.expensive"	"Too Expensive!"	"Original Translation
 zh_CN: 过于昂贵！
-zh_TW: 太貴了！"	""
+zh_TW: 太貴了！"	"过于昂贵！"
 "container.repairAndDisenchant"	"Repair & Disenchant"	"Original Translation
 zh_CN: 修复与祛魔
-zh_TW: 修理和取消附魔"	""
+zh_TW: 修理和取消附魔"	"修复与祛魔"
 "container.shulkerbox"	"Shulker Box"	"Original Translation
 zh_CN: 潜影盒
-zh_TW: 界伏蚌盒"	""
+zh_TW: 界伏蚌盒"	"潜影盒"
 "container.shulkerboxContains"	"and %d more..."	"Original Translation
 zh_CN: 还有 %d 个...
-zh_TW: 還有其他 %d 個…"	""
+zh_TW: 還有其他 %d 個…"	"还有%d项未显示…"
 "container.smithing_table"	"Smithing Table"	"Original Translation
 zh_CN: 锻造台
-zh_TW: 鍛造台"	""
+zh_TW: 鍛造台"	"锻造台"
 "container.smithing_table.arrow_tooltip_cannot_craft"	"Item can't be upgraded this way"	"Original Translation
 zh_CN: 物品无法以这种方式升级
-zh_TW: 無法以這種方式升級物品"	""
+zh_TW: 無法以這種方式升級物品"	"物品无法以这种方式升级"
 "container.smithing_table.input_slot_tooltip_armor_trim"	"Add a piece of armor"	"Original Translation
 zh_CN: 添加一件盔甲
-zh_TW: 增加一件護甲"	""
+zh_TW: 增加一件護甲"	"放入盔甲"
 "container.smithing_table.input_slot_tooltip_netherite"	"Add Diamond armor, weapon, or tool"	"Original Translation
 zh_CN: 添加钻石盔甲、武器或工具
-zh_TW: 新增鑽石護甲、武器或工具"	""
+zh_TW: 新增鑽石護甲、武器或工具"	"放入钻石盔甲、武器或工具"
 "container.smithing_table.material_slot_tooltip_armor_trim"	"Add ingot or crystal"	"Original Translation
 zh_CN: 添加锭或水晶
-zh_TW: 加入金屬錠塊或水晶"	""
+zh_TW: 加入金屬錠塊或水晶"	"放入锭或晶体"
 "container.smithing_table.material_slot_tooltip_netherite"	"Add Netherite Ingot"	"Original Translation
 zh_CN: 添加下界合金锭
-zh_TW: 加入獄髓錠塊"	""
+zh_TW: 加入獄髓錠塊"	"放入下界合金锭"
 "container.smithing_table.template_slot_tooltip"	"Add Smithing Template"	"Original Translation
 zh_CN: 添加锻造模板
-zh_TW: 增加鍛造範本"	""
+zh_TW: 增加鍛造範本"	"放入锻造模板"
 "container.smithing_table.upgrade"	"Upgrade Gear"	"Original Translation
 zh_CN: 升级装备
-zh_TW: 升級裝備"	""
+zh_TW: 升級裝備"	"升级装备"
 "container.smithing_table_block"	"Smithing Table"	"Original Translation
 zh_CN: 锻造台
-zh_TW: 鍛造台"	""
+zh_TW: 鍛造台"	"锻造台"
 "container.stonecutter"	"Stonecutter"	"Original Translation
 zh_CN: 切石机
-zh_TW: 切石機"	""
+zh_TW: 切石機"	"切石机"
 "container.stonecutter_block"	"Stonecutter"	"Original Translation
 zh_CN: 切石机
-zh_TW: 切石機"	""
+zh_TW: 切石機"	"切石机"
 "content.import.failed"	"Failed to import '%s'"	"Original Translation
 zh_CN: 导入 '%s' 失败
 zh_TW: 未能匯入 '%s'"	""
@@ -5092,10 +5092,10 @@ zh_CN: 注意：您当前活动会话的日志文件将保留。
 zh_TW: 請注意：將保留您目前啟用工作階段的記錄檔案。"	""
 "contentlog.delete.cancel"	"Cancel"	"Original Translation
 zh_CN: 取消
-zh_TW: 取消"	""
+zh_TW: 取消"	"取消"
 "contentlog.delete.delete"	"Delete Now"	"Original Translation
 zh_CN: 立即删除
-zh_TW: 立即刪除"	""
+zh_TW: 立即刪除"	"立即删除"
 "contentlog.delete.progress"	"Deleting Content Logs"	"Original Translation
 zh_CN: 正在删除内容日志
 zh_TW: 正在刪除內容記錄"	""
@@ -5194,88 +5194,88 @@ zh_CN: 搜索
 zh_TW: 搜尋"	""
 "controller.buttonTip.exit"	"Exit"	"Original Translation
 zh_CN: 退出
-zh_TW: 離開"	""
+zh_TW: 離開"	"退出"
 "controller.buttonTip.external"	"External"	"Original Translation
 zh_CN: 外部
-zh_TW: 外部"	""
+zh_TW: 外部"	"外部"
 "controller.buttonTip.level"	"Level"	"Original Translation
 zh_CN: 等级
-zh_TW: 等級"	""
+zh_TW: 等級"	"等级"
 "controller.buttonTip.new"	"New"	"Original Translation
 zh_CN: 新
-zh_TW: 新"	""
+zh_TW: 新"	"新建"
 "controller.buttonTip.openRecipeBook"	"Open Recipe Book"	"Original Translation
 zh_CN: 打开配方书
-zh_TW: 開啟配方書"	""
+zh_TW: 開啟配方書"	"打开配方书"
 "controller.buttonTip.pane.inventory"	"Inventory"	"Original Translation
 zh_CN: 物品栏
-zh_TW: 物品欄"	""
+zh_TW: 物品欄"	"物品栏"
 "controller.buttonTip.pane.recipeBook"	"Recipe Book"	"Original Translation
 zh_CN: 配方书
-zh_TW: 配方書"	""
+zh_TW: 配方書"	"配方书"
 "controller.buttonTip.place"	"Place"	"Original Translation
 zh_CN: 放置
-zh_TW: 放置"	""
+zh_TW: 放置"	"放置"
 "controller.buttonTip.place.from.bundle"	"Place from Bundle"	"Original Translation
 zh_CN: 来自捆绑包
-zh_TW: 從組合包放置"	""
+zh_TW: 從組合包放置"	"从收纳袋中放置"
 "controller.buttonTip.place.one"	"Place One"	"Original Translation
 zh_CN: 放置一个
-zh_TW: 放置 1 個"	""
+zh_TW: 放置 1 個"	"放置一个"
 "controller.buttonTip.quick.move"	"Quick Move"	"Original Translation
 zh_CN: 快速移动
-zh_TW: 快速選擇"	""
+zh_TW: 快速選擇"	"快速移动"
 "controller.buttonTip.recipes.showAll"	"Show All"	"Original Translation
 zh_CN: 全部显示
-zh_TW: 顯示全部"	""
+zh_TW: 顯示全部"	"全部显示"
 "controller.buttonTip.recipes.showCraftable"	"Show Craftable"	"Original Translation
 zh_CN: 显示可合成物品
-zh_TW: 顯示合成項目"	""
+zh_TW: 顯示合成項目"	"显示可合成物品"
 "controller.buttonTip.remove"	"Remove"	"Original Translation
 zh_CN: 移除
-zh_TW: 移除"	""
+zh_TW: 移除"	"移除"
 "controller.buttonTip.removeFuel"	"Remove Fuel"	"Original Translation
 zh_CN: 移除燃料
-zh_TW: 移除燃料"	""
+zh_TW: 移除燃料"	"移除燃料"
 "controller.buttonTip.removeFuelInput"	"Remove Fuel/Input"	"Original Translation
 zh_CN: 移除燃料/装入
-zh_TW: 移走燃料/投入"	""
+zh_TW: 移走燃料/投入"	"移除/装入燃料"
 "controller.buttonTip.removeInput"	"Remove Input"	"Original Translation
 zh_CN: 移除输入
-zh_TW: 移除輸入"	""
+zh_TW: 移除輸入"	"移除输入"
 "controller.buttonTip.removeMaterial"	"Remove Material"	"Original Translation
 zh_CN: 移除材料
-zh_TW: 移除材料"	""
+zh_TW: 移除材料"	"移除材料"
 "controller.buttonTip.renameItem"	"Rename Item"	"Original Translation
 zh_CN: 重命名物品
-zh_TW: 移除物品"	""
+zh_TW: 移除物品"	"重命名物品"
 "controller.buttonTip.returnToRecipe"	"Return To Recipe"	"Original Translation
 zh_CN: 返回到配方
-zh_TW: 返回配方"	""
+zh_TW: 返回配方"	"返回到配方"
 "controller.buttonTip.searchRecipe"	"Quick Search"	"Original Translation
 zh_CN: 快速搜索
-zh_TW: 快速搜尋"	""
+zh_TW: 快速搜尋"	"快速搜索"
 "controller.buttonTip.select"	"Select"	"Original Translation
 zh_CN: 选择
-zh_TW: 選取"	""
+zh_TW: 選取"	"选择"
 "controller.buttonTip.select.enchant"	"Select Enchant"	"Original Translation
 zh_CN: 选择附魔
-zh_TW: 選取附魔"	""
+zh_TW: 選取附魔"	"选择附魔"
 "controller.buttonTip.select.item"	"Select Item"	"Original Translation
 zh_CN: 选择物品
-zh_TW: 選取物品"	""
+zh_TW: 選取物品"	"选择物品"
 "controller.buttonTip.select.slot"	"Select Slot"	"Original Translation
 zh_CN: 选择转移存档槽
-zh_TW: 選擇欄位"	""
+zh_TW: 選擇欄位"	"选择槽位"
 "controller.buttonTip.selectRecipe"	"Select Recipe"	"Original Translation
 zh_CN: 选择配方
-zh_TW: 選擇配方"	""
+zh_TW: 選擇配方"	"选择配方"
 "controller.buttonTip.swap"	"Swap"	"Original Translation
 zh_CN: 交换
-zh_TW: 交換"	""
+zh_TW: 交換"	"交换"
 "controller.buttonTip.tab"	"Tab"	"Original Translation
 zh_CN: 标签
-zh_TW: 標籤"	""
+zh_TW: 標籤"	"选项卡"
 "controller.buttonTip.take"	"Take"	"Original Translation
 zh_CN: 拿起
 zh_TW: 撿起"	""
