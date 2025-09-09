@@ -1492,7 +1492,7 @@ zh_CN: 我们在您的网页浏览器中打开了账号设置页面。请在该�
 zh_TW: 我們已在你的網頁瀏覽器中開啟「帳號設定」頁面。請在此頁面上登入你的個人 Microsoft 帳號並驗證你的年齡。%1%1完成後請告知我們。"	"我们已在你的网页浏览器中打开账号设置页面。请在该页面登录你的个人Microsoft账号并验证你的年龄。%1%1完成后请告知我们。"
 "authentication.popup.setup.secondPage.button"	"I'm Done"	"Original Translation
 zh_CN: 完成了
-zh_TW: 我完成了"	"我完成了"
+zh_TW: 我完成了"	"我已完成"
 "authentication.popup.setup.secondPage.openAgain"	"Re-open ""Account Setup"" page."	"Original Translation
 zh_CN: 重新打开“帐户设置”页面。
 zh_TW: 重新開啟「帳戶設置」頁面。"	"重新打开“账户设置”页面。"
@@ -1669,7 +1669,7 @@ zh_CN: 来自物品栏
 zh_TW: 來自物品欄"	"来自物品栏"
 "book.headerPortfolio"	"From Portfolio"	"Original Translation
 zh_CN: 来自相片簿
-zh_TW: 來自相簿"	"来自相片簿"
+zh_TW: 來自相簿"	"来自照片簿"
 "book.pageIndicator"	"Page %1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 页 共 %2$s 页
 zh_TW: 第 %1$s 頁/共 %2$s 頁"	"第%1$s页/共%2$s页"
@@ -1879,7 +1879,7 @@ zh_CN: 仅支持以“http”或“https”开头的网址。
 zh_TW: 僅支援以 http 或 https 開頭的 URL。"	""
 "client.version.1.0"	"Ender Update (%s)"	"Original Translation
 zh_CN: 末影人更新 (%s)
-zh_TW: 終界更新 (%s)"	"末影更新 (%s)"
+zh_TW: 終界更新 (%s)"	"末影更新（%s）"
 "client.version.1.1"	"Discovery Update (%s)"	"Original Translation
 zh_CN: 发现更新 (%s)
 zh_TW: 探索更新 (%s)"	"探索更新（%s）"
@@ -1888,13 +1888,13 @@ zh_CN: 村庄和劫掠者村庄更新 (%s)
 zh_TW: 村莊和劫掠者 (%s)"	"村庄与掠夺（%s）"
 "client.version.1.2"	"Better Together Update (%s)"	"Original Translation
 zh_CN: Better Together 更新 (%s)
-zh_TW: Better Together 更新 (%s)"	"独乐不如众乐更新 (%s)"
+zh_TW: Better Together 更新 (%s)"	"独乐不如众乐更新（%s）"
 "client.version.1.4"	"Update Aquatic (%s)"	"Original Translation
 zh_CN: 水生更新 (%s)
-zh_TW: 新式潛水艇 (%s)"	"水域更新 (%s)"
+zh_TW: 新式潛水艇 (%s)"	"水域更新（%s）"
 "client.version.1.5"	"Update Aquatic (%s)"	"Original Translation
 zh_CN: 水生更新 (%s)
-zh_TW: 新式潛水艇 (%s)"	"水域更新 (%s)"
+zh_TW: 新式潛水艇 (%s)"	"水域更新（%s）"
 "client.version.generic"	"Update %s"	"Original Translation
 zh_CN: 更新 %s
 zh_TW: 更新 %s"	"%s更新"

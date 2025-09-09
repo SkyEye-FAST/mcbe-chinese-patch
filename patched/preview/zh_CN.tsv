@@ -1666,7 +1666,7 @@ zh_CN: 来自物品栏
 zh_TW: 來自物品欄"	"来自物品栏"
 "book.headerPortfolio"	"From Portfolio"	"Original Translation
 zh_CN: 来自相片簿
-zh_TW: 來自相簿"	"来自相片簿"
+zh_TW: 來自相簿"	"来自照片簿"
 "book.pageIndicator"	"Page %1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 页 共 %2$s 页
 zh_TW: 第 %1$s 頁/共 %2$s 頁"	"第%1$s页/共%2$s页"
@@ -1855,7 +1855,7 @@ zh_CN: 添加一个 10 名用户的 Realm
 zh_TW: 新增 10 名玩家的 Realm"	""
 "client.version.1.0"	"Ender Update (%s)"	"Original Translation
 zh_CN: 末影人更新 (%s)
-zh_TW: 終界更新 (%s)"	"末影更新 (%s)"
+zh_TW: 終界更新 (%s)"	"末影更新（%s）"
 "client.version.1.1"	"Discovery Update (%s)"	"Original Translation
 zh_CN: 发现更新 (%s)
 zh_TW: 探索更新 (%s)"	"探索更新（%s）"
@@ -1864,13 +1864,13 @@ zh_CN: 村庄和劫掠者村庄更新 (%s)
 zh_TW: 村莊和劫掠者 (%s)"	"村庄与掠夺（%s）"
 "client.version.1.2"	"Better Together Update (%s)"	"Original Translation
 zh_CN: Better Together 更新 (%s)
-zh_TW: Better Together 更新 (%s)"	"独乐不如众乐更新 (%s)"
+zh_TW: Better Together 更新 (%s)"	"独乐不如众乐更新（%s）"
 "client.version.1.4"	"Update Aquatic (%s)"	"Original Translation
 zh_CN: 水生更新 (%s)
-zh_TW: 新式潛水艇 (%s)"	"水域更新 (%s)"
+zh_TW: 新式潛水艇 (%s)"	"水域更新（%s）"
 "client.version.1.5"	"Update Aquatic (%s)"	"Original Translation
 zh_CN: 水生更新 (%s)
-zh_TW: 新式潛水艇 (%s)"	"水域更新 (%s)"
+zh_TW: 新式潛水艇 (%s)"	"水域更新（%s）"
 "client.version.generic"	"Update %s"	"Original Translation
 zh_CN: 更新 %s
 zh_TW: 更新 %s"	"%s更新"
