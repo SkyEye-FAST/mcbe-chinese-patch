@@ -128,7 +128,7 @@ def main() -> None:
         if not branch_dir.is_dir():
             continue
 
-        branch = branch_dir.name
+        branch = branch_dir.name.capitalize()
         lang_files = list(branch_dir.glob("*.lang"))
 
         if not lang_files:
