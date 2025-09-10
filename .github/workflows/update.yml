@@ -98,6 +98,6 @@ jobs:
         with:
           name: resource-packs
           path: |
-            packed/*Beta*.zip
-            packed/*Preview*.zip
-            packed/*Release*.zip
+            packed/*Beta*
+            packed/*Preview*
+            packed/*Release*
