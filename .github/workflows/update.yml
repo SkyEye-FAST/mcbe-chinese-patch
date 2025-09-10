@@ -93,11 +93,20 @@ jobs:
           default_author: github_actions
           message: "chore: update patched language files"
 
-      - name: Upload the built resource packs
+      - name: Upload Beta resource pack
         uses: actions/upload-artifact@v4
         with:
-          name: resource-packs
-          path: |
-            packed/*Beta*
-            packed/*Preview*
-            packed/*Release*
+          name: resource-pack-beta
+          path: packed/*Beta*
+
+      - name: Upload Preview resource pack
+        uses: actions/upload-artifact@v4
+        with:
+          name: resource-pack-preview
+          path: packed/*Preview*
+
+      - name: Upload Release resource pack
+        uses: actions/upload-artifact@v4
+        with:
+          name: resource-pack-release
+          path: packed/*Release*
