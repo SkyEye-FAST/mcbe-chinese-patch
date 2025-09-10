@@ -2657,7 +2657,7 @@ zh_CN: 正在尝试启动教室模式……
 zh_TW: 嘗試執行課堂模式……"	""
 "commands.clear.description"	"Clears items from player inventory."	"Original Translation
 zh_CN: 清除玩家物品栏中的物品。
-zh_TW: 從玩家物品欄中清除物品。"	""
+zh_TW: 從玩家物品欄中清除物品。"	"清除玩家物品栏中的物品。"
 "commands.clear.failure"	"Could not clear the inventory of %1$s"	"Original Translation
 zh_CN: 无法清除 %1$s 的物品栏
 zh_TW: 無法清空 %1$s 的物品欄"	""
@@ -3080,31 +3080,31 @@ zh_CN: 只有这个世界启用作弊时，游戏规则 '%1$s' 才能使用。
 zh_TW: 只有在此世界啟用作弊後，才能使用遊戲規則「%1$s」。"	""
 "commands.gametips-off.description"	"Disable game tips on this device"	"Original Translation
 zh_CN: 禁用此设备上的游戏提示
-zh_TW: 在此裝置上停用遊戲提示"	""
+zh_TW: 在此裝置上停用遊戲提示"	"禁用此设备上的游戏提示"
 "commands.gametips-off.success"	"Game tips are now disabled"	"Original Translation
 zh_CN: 游戏提示现已禁用
-zh_TW: 遊戲提示現已停用"	""
+zh_TW: 遊戲提示現已停用"	"游戏提示现已禁用"
 "commands.gametips-on.description"	"Enable game tips on this device"	"Original Translation
 zh_CN: 启用此设备上的游戏提示
-zh_TW: 在此裝置上啟用遊戲提示"	""
+zh_TW: 在此裝置上啟用遊戲提示"	"启用此设备上的游戏提示"
 "commands.gametips-on.success"	"Game tips are now enabled"	"Original Translation
 zh_CN: 游戏提示现已启用
-zh_TW: 遊戲提示現已啟用"	""
+zh_TW: 遊戲提示現已啟用"	"游戏提示现已启用"
 "commands.gametips-reset.description"	"Reset game tips on this device"	"Original Translation
 zh_CN: 重置此设备上的游戏提示
-zh_TW: 在此裝置上重設遊戲提示"	""
+zh_TW: 在此裝置上重設遊戲提示"	"重置此设备上的游戏提示"
 "commands.gametips-reset.success"	"Game tips are now reset"	"Original Translation
 zh_CN: 游戏提示现已重置
-zh_TW: 遊戲提示現已重設"	""
+zh_TW: 遊戲提示現已重設"	"游戏提示现已重置"
 "commands.gametips.description"	"Enable or disable the game tips on this device"	"Original Translation
 zh_CN: 启用或禁用此设备上的游戏提示
-zh_TW: 在此裝置上啟用或停用遊戲提示"	""
+zh_TW: 在此裝置上啟用或停用遊戲提示"	"启用或禁用此设备上的游戏提示"
 "commands.gametips.disabled"	"Game tips are now disabled"	"Original Translation
 zh_CN: 游戏提示现已禁用
-zh_TW: 遊戲提示現已停用"	""
+zh_TW: 遊戲提示現已停用"	"游戏提示现已禁用"
 "commands.gametips.enabled"	"Game tips are now enabled"	"Original Translation
 zh_CN: 游戏提示现已启用
-zh_TW: 遊戲提示現已啟用"	""
+zh_TW: 遊戲提示現已啟用"	"游戏提示现已启用"
 "commands.generic.async.initiated"	"'%1$s' command started (async step %2$d)"	"Original Translation
 zh_CN: '%1$s' 的命令已开始（异步步骤 %2$d）
 zh_TW: %1$s' 的指令已開始 (非同步步驟 %2$d)"	""
@@ -4979,13 +4979,13 @@ zh_CN: 箱子
 zh_TW: 箱子"	"箱子"
 "container.chestCopper"	"Copper Chest"	"Original Translation
 zh_CN: 铜宝箱
-zh_TW: 銅箱子"	""
+zh_TW: 銅箱子"	"铜箱子"
 "container.chestDouble"	"Large Chest"	"Original Translation
 zh_CN: 大箱子
 zh_TW: 大容量箱子"	"大型箱子"
 "container.chestDoubleCopper"	"Large Copper Chest"	"Original Translation
 zh_CN: 大铜宝箱
-zh_TW: 大型銅箱"	""
+zh_TW: 大型銅箱"	"大型铜箱子"
 "container.crafter"	"Crafter"	"Original Translation
 zh_CN: 合成器
 zh_TW: 合成器"	"合成器"
@@ -13042,7 +13042,7 @@ zh_CN: 启用化学工具包等教育项目
 zh_TW: 啟用化學套組等教育物品"	""
 "hbui.CreateNewWorld.cheats.educationTitle"	"Minecraft Education features"	"Original Translation
 zh_CN: Minecraft Education 功能
-zh_TW: Minecraft Education 功能"	""
+zh_TW: Minecraft Education 功能"	"教育版功能"
 "hbui.CreateNewWorld.cheats.entitiesDropLootDescription"	"Non-mob entities, like paintings, drop items when destroyed"	"Original Translation
 zh_CN: 非生物实体，如图画，在被摧毁时会掉落物品
 zh_TW: 非生物實體 (例如圖畫) 在被摧毀時會掉落物品"	""
@@ -31385,64 +31385,64 @@ zh_CN: 黄色挽具
 zh_TW: 黃色挽具"	"黄色挽具"
 "itemGroup.name.anvil"	"Anvils"	"Original Translation
 zh_CN: 铁砧
-zh_TW: 鐵砧"	""
+zh_TW: 鐵砧"	"铁砧"
 "itemGroup.name.arrow"	"Arrows"	"Original Translation
 zh_CN: 箭
-zh_TW: 箭"	""
+zh_TW: 箭"	"箭"
 "itemGroup.name.axe"	"Axes"	"Original Translation
 zh_CN: 斧头
-zh_TW: 斧頭"	""
+zh_TW: 斧頭"	"斧"
 "itemGroup.name.banner"	"Banners"	"Original Translation
 zh_CN: 旗帜
-zh_TW: 旗幟"	""
+zh_TW: 旗幟"	"旗帜"
 "itemGroup.name.banner_pattern"	"Banner Patterns"	"Original Translation
 zh_CN: 旗帜图案
-zh_TW: 旗幟樣式"	""
+zh_TW: 旗幟樣式"	"旗帜图案"
 "itemGroup.name.bars"	"Bars"	"Original Translation
 zh_CN: 条块
 zh_TW: 欄杆"	""
 "itemGroup.name.bed"	"Beds"	"Original Translation
 zh_CN: 床
-zh_TW: 床舖"	""
+zh_TW: 床舖"	"床"
 "itemGroup.name.boat"	"Boats"	"Original Translation
 zh_CN: 船
-zh_TW: 小船"	""
+zh_TW: 小船"	"船"
 "itemGroup.name.boots"	"Boots"	"Original Translation
 zh_CN: 靴子
-zh_TW: 靴子"	""
+zh_TW: 靴子"	"靴子"
 "itemGroup.name.bundles"	"Bundles"	"Original Translation
 zh_CN: 收纳袋
-zh_TW: 組合包"	""
+zh_TW: 組合包"	"收纳袋"
 "itemGroup.name.buttons"	"Buttons"	"Original Translation
 zh_CN: 按钮
-zh_TW: 按鈕"	""
+zh_TW: 按鈕"	"按钮"
 "itemGroup.name.candles"	"Candles"	"Original Translation
 zh_CN: 蜡烛
-zh_TW: 蠟燭"	""
+zh_TW: 蠟燭"	"蜡烛"
 "itemGroup.name.chains"	"Chains"	"Original Translation
 zh_CN: 链条
 zh_TW: 鏈鎖"	""
 "itemGroup.name.chalkboard"	"Chalkboards"	"Original Translation
 zh_CN: 黑板
-zh_TW: 黑板"	""
+zh_TW: 黑板"	"黑板"
 "itemGroup.name.chemistrytable"	"Chemistry Equipment"	"Original Translation
 zh_CN: 化学设备
-zh_TW: 化學設備"	""
+zh_TW: 化學設備"	"化学设备"
 "itemGroup.name.chest"	"Chests"	"Original Translation
 zh_CN: 箱子
-zh_TW: 箱子"	""
+zh_TW: 箱子"	"箱子"
 "itemGroup.name.chestboat"	"Boats with Chest"	"Original Translation
 zh_CN: 运输船
-zh_TW: 附箱子的船"	""
+zh_TW: 附箱子的船"	"运输船"
 "itemGroup.name.chestplate"	"Chestplates"	"Original Translation
 zh_CN: 胸甲
-zh_TW: 胸甲"	""
+zh_TW: 胸甲"	"胸甲"
 "itemGroup.name.compounds"	"Compounds"	"Original Translation
 zh_CN: 化合物
-zh_TW: 複合物"	""
+zh_TW: 複合物"	"化合物"
 "itemGroup.name.concrete"	"Concrete"	"Original Translation
 zh_CN: 混凝土
-zh_TW: 混凝土"	""
+zh_TW: 混凝土"	"混凝土"
 "itemGroup.name.concretePowder"	"Concrete Powder"	"Original Translation
 zh_CN: 混凝土粉末
 zh_TW: 混凝土粉末"	""
@@ -31466,22 +31466,22 @@ zh_CN: 农作物
 zh_TW: 作物"	""
 "itemGroup.name.door"	"Doors"	"Original Translation
 zh_CN: 门
-zh_TW: 門"	""
+zh_TW: 門"	"门"
 "itemGroup.name.dye"	"Dyes"	"Original Translation
 zh_CN: 染料
-zh_TW: 染料"	""
+zh_TW: 染料"	"染料"
 "itemGroup.name.element"	"Elements"	"Original Translation
 zh_CN: 元素
-zh_TW: 元素"	""
+zh_TW: 元素"	"元素"
 "itemGroup.name.enchantedBook"	"Enchanted Books"	"Original Translation
 zh_CN: 附魔书
-zh_TW: 附魔書"	""
+zh_TW: 附魔書"	"附魔书"
 "itemGroup.name.fence"	"Fences"	"Original Translation
 zh_CN: 栅栏
-zh_TW: 柵欄"	""
+zh_TW: 柵欄"	"栅栏"
 "itemGroup.name.fenceGate"	"Fence Gates"	"Original Translation
 zh_CN: 栅栏门
-zh_TW: 柵欄門"	""
+zh_TW: 柵欄門"	"栅栏门"
 "itemGroup.name.firework"	"Fireworks"	"Original Translation
 zh_CN: 焰火
 zh_TW: 煙火"	""
@@ -31490,58 +31490,58 @@ zh_CN: 焰火炸药
 zh_TW: 煙火星"	""
 "itemGroup.name.flower"	"Flowers"	"Original Translation
 zh_CN: 花
-zh_TW: 花朵"	""
+zh_TW: 花朵"	"花"
 "itemGroup.name.glass"	"Glass"	"Original Translation
 zh_CN: 玻璃
-zh_TW: 玻璃"	""
+zh_TW: 玻璃"	"玻璃"
 "itemGroup.name.glassPane"	"Glass Panes"	"Original Translation
 zh_CN: 玻璃板
-zh_TW: 玻璃窗格"	""
+zh_TW: 玻璃窗格"	"玻璃板"
 "itemGroup.name.glazedTerracotta"	"Glazed Terracottas"	"Original Translation
 zh_CN: 带釉陶瓦
-zh_TW: 帶釉陶瓦"	""
+zh_TW: 帶釉陶瓦"	"带釉陶瓦"
 "itemGroup.name.goatHorn"	"Goat Horns"	"Original Translation
 zh_CN: 山羊角
-zh_TW: 山羊角"	""
+zh_TW: 山羊角"	"山羊角"
 "itemGroup.name.grass"	"Ground Cover"	"Original Translation
 zh_CN: 地被植物
 zh_TW: 草皮"	""
 "itemGroup.name.hanging_sign"	"Hanging Signs"	"Original Translation
 zh_CN: 悬挂告示牌
-zh_TW: 懸掛式告示牌"	""
+zh_TW: 懸掛式告示牌"	"悬挂式告示牌"
 "itemGroup.name.harnesses"	"Harnesses"	"Original Translation
 zh_CN: 挽具
-zh_TW: 挽具"	""
+zh_TW: 挽具"	"挽具"
 "itemGroup.name.helmet"	"Helmets"	"Original Translation
 zh_CN: 头盔
-zh_TW: 頭盔"	""
+zh_TW: 頭盔"	"头盔"
 "itemGroup.name.hoe"	"Hoes"	"Original Translation
 zh_CN: 锄头
-zh_TW: 鋤頭"	""
+zh_TW: 鋤頭"	"锄"
 "itemGroup.name.horseArmor"	"Horse Armor"	"Original Translation
 zh_CN: 马铠
-zh_TW: 馬鎧"	""
+zh_TW: 馬鎧"	"马铠"
 "itemGroup.name.lanterns"	"Lanterns"	"Original Translation
 zh_CN: 灯笼
 zh_TW: 燈籠"	""
 "itemGroup.name.leaves"	"Leaves"	"Original Translation
 zh_CN: 树叶
-zh_TW: 樹葉"	""
+zh_TW: 樹葉"	"树叶"
 "itemGroup.name.leggings"	"Leggings"	"Original Translation
 zh_CN: 护腿
-zh_TW: 護腿"	""
+zh_TW: 護腿"	"护腿"
 "itemGroup.name.lightning_rod"	"Lightning Rods"	"Original Translation
 zh_CN: 雷霆之杖
 zh_TW: 避雷針"	""
 "itemGroup.name.lingeringPotion"	"Lingering Potions"	"Original Translation
 zh_CN: 滞留药水
-zh_TW: 滯留藥水"	""
+zh_TW: 滯留藥水"	"滞留药水"
 "itemGroup.name.log"	"Logs"	"Original Translation
 zh_CN: 原木
-zh_TW: 原木"	""
+zh_TW: 原木"	"原木"
 "itemGroup.name.minecart"	"Minecarts"	"Original Translation
 zh_CN: 矿车
-zh_TW: 礦車"	""
+zh_TW: 礦車"	"矿车"
 "itemGroup.name.miscFood"	"Miscellaneous Foods"	"Original Translation
 zh_CN: 其他食物
 zh_TW: 其他食物"	""
@@ -31553,112 +31553,112 @@ zh_CN: 被虫蚀的石头
 zh_TW: 蛀蝕石頭"	""
 "itemGroup.name.mushroom"	"Mushrooms"	"Original Translation
 zh_CN: 蘑菇
-zh_TW: 蘑菇"	""
+zh_TW: 蘑菇"	"蘑菇"
 "itemGroup.name.netherWartBlock"	"Nether Warts"	"Original Translation
 zh_CN: 下界疣
-zh_TW: 地獄結節"	""
+zh_TW: 地獄結節"	"下界疣"
 "itemGroup.name.ominousBottle"	"Ominous Bottles"	"Original Translation
 zh_CN: 不祥之瓶
-zh_TW: 不祥瓶子"	""
+zh_TW: 不祥瓶子"	"不祥之瓶"
 "itemGroup.name.ore"	"Ores"	"Original Translation
 zh_CN: 矿石
-zh_TW: 礦石"	""
+zh_TW: 礦石"	"矿石"
 "itemGroup.name.permission"	"Permission Blocks"	"Original Translation
 zh_CN: 权限块
-zh_TW: 權限方塊"	""
+zh_TW: 權限方塊"	"权限方块"
 "itemGroup.name.pickaxe"	"Pickaxes"	"Original Translation
 zh_CN: 镐
-zh_TW: 鎬"	""
+zh_TW: 鎬"	"镐"
 "itemGroup.name.planks"	"Planks"	"Original Translation
 zh_CN: 木板
-zh_TW: 木材"	""
+zh_TW: 木材"	"木板"
 "itemGroup.name.potion"	"Potions"	"Original Translation
 zh_CN: 药水
-zh_TW: 藥水"	""
+zh_TW: 藥水"	"药水"
 "itemGroup.name.potterySherds"	"Pottery Sherds"	"Original Translation
 zh_CN: 纹样陶片
-zh_TW: 陶器碎片"	""
+zh_TW: 陶器碎片"	"纹样陶片"
 "itemGroup.name.pressurePlate"	"Pressure Plates"	"Original Translation
 zh_CN: 压力板
-zh_TW: 壓板"	""
+zh_TW: 壓板"	"压力板"
 "itemGroup.name.products"	"Products"	"Original Translation
 zh_CN: 产品
-zh_TW: 產品"	""
+zh_TW: 產品"	"产品"
 "itemGroup.name.rail"	"Rails"	"Original Translation
 zh_CN: 铁轨
-zh_TW: 軌道"	""
+zh_TW: 軌道"	"铁轨"
 "itemGroup.name.rawFood"	"Raw Food"	"Original Translation
 zh_CN: 生食
 zh_TW: 生食"	""
 "itemGroup.name.record"	"Records"	"Original Translation
 zh_CN: 唱片
-zh_TW: 唱片"	""
+zh_TW: 唱片"	"唱片"
 "itemGroup.name.sandstone"	"Sandstone"	"Original Translation
 zh_CN: 砂岩
-zh_TW: 沙岩"	""
+zh_TW: 沙岩"	"砂岩"
 "itemGroup.name.sapling"	"Saplings"	"Original Translation
 zh_CN: 树苗
-zh_TW: 樹苗"	""
+zh_TW: 樹苗"	"树苗"
 "itemGroup.name.sculk"	"Sculk"	"Original Translation
 zh_CN: 潜声
-zh_TW: 伏聆"	""
+zh_TW: 伏聆"	"幽匿"
 "itemGroup.name.seed"	"Seeds"	"Original Translation
 zh_CN: 种子
-zh_TW: 種子"	""
+zh_TW: 種子"	"种子"
 "itemGroup.name.shelf"	"Shelves"	"Original Translation
 zh_CN: 架子
 zh_TW: 架子"	""
 "itemGroup.name.shovel"	"Shovels"	"Original Translation
 zh_CN: 锹
-zh_TW: 鏟子"	""
+zh_TW: 鏟子"	"锹"
 "itemGroup.name.shulkerBox"	"Shulker Boxes"	"Original Translation
 zh_CN: 潜影盒
-zh_TW: 界伏蚌盒"	""
+zh_TW: 界伏蚌盒"	"潜影盒"
 "itemGroup.name.sign"	"Signs"	"Original Translation
 zh_CN: 告示牌
-zh_TW: 牌子"	""
+zh_TW: 牌子"	"告示牌"
 "itemGroup.name.skull"	"Mob Skulls"	"Original Translation
 zh_CN: 生物头颅
-zh_TW: 生物頭顱"	""
+zh_TW: 生物頭顱"	"生物头颅"
 "itemGroup.name.slab"	"Slabs"	"Original Translation
 zh_CN: 台阶
-zh_TW: 厚板"	""
+zh_TW: 厚板"	"台阶"
 "itemGroup.name.smithing_templates"	"Smithing Templates"	"Original Translation
 zh_CN: 锻造模板
-zh_TW: 鍛造範本"	""
+zh_TW: 鍛造範本"	"锻造模板"
 "itemGroup.name.splashPotion"	"Splash Potions"	"Original Translation
 zh_CN: 喷溅药水
-zh_TW: 噴濺藥水"	""
+zh_TW: 噴濺藥水"	"喷溅药水"
 "itemGroup.name.stainedClay"	"Terracotta"	"Original Translation
 zh_CN: 陶瓦
-zh_TW: 陶土"	""
+zh_TW: 陶土"	"陶瓦"
 "itemGroup.name.stairs"	"Stairs"	"Original Translation
 zh_CN: 楼梯
-zh_TW: 階梯"	""
+zh_TW: 階梯"	"楼梯"
 "itemGroup.name.stone"	"Stone"	"Original Translation
 zh_CN: 石头
-zh_TW: 石頭"	""
+zh_TW: 石頭"	"石头"
 "itemGroup.name.stoneBrick"	"Decorative Stone"	"Original Translation
 zh_CN: 装饰石头
 zh_TW: 裝飾用石頭"	""
 "itemGroup.name.sword"	"Swords"	"Original Translation
 zh_CN: 剑
-zh_TW: 劍"	""
+zh_TW: 劍"	"剑"
 "itemGroup.name.trapdoor"	"Trapdoors"	"Original Translation
 zh_CN: 活板门
-zh_TW: 地板門"	""
+zh_TW: 地板門"	"活板门"
 "itemGroup.name.walls"	"Walls"	"Original Translation
 zh_CN: 墙
-zh_TW: 牆壁"	""
+zh_TW: 牆壁"	"墙"
 "itemGroup.name.wood"	"Woods"	"Original Translation
 zh_CN: 树木
-zh_TW: 木頭"	""
+zh_TW: 木頭"	"木头"
 "itemGroup.name.wool"	"Wool"	"Original Translation
 zh_CN: 羊毛
-zh_TW: 羊毛"	""
+zh_TW: 羊毛"	"羊毛"
 "itemGroup.name.woolCarpet"	"Wool Carpet"	"Original Translation
 zh_CN: 羊毛地毯
-zh_TW: 羊毛地毯"	""
+zh_TW: 羊毛地毯"	"羊毛地毯"
 "itemGroup.search"	"Search Items"	"Original Translation
 zh_CN: 搜索物品
 zh_TW: 搜尋物品"	""
@@ -40886,7 +40886,7 @@ zh_CN: 溺水伤害
 zh_TW: 溺水傷害"	""
 "resourcePack.editor.exportProject.cheatsSettings.educationFeatures"	"Education Features"	"Original Translation
 zh_CN: 教育功能
-zh_TW: Education 功能"	""
+zh_TW: Education 功能"	"教育版功能"
 "resourcePack.editor.exportProject.cheatsSettings.educationFeatures.tooltip"	"Determines whether the exported world can use Education Features."	"Original Translation
 zh_CN: 确定导出的世界是否可以使用教育版功能。
 zh_TW: 決定匯出的世界是否可以使用教育版功能。"	""
@@ -49371,7 +49371,7 @@ zh_CN: 制箭台
 zh_TW: 製箭台"	"制箭台"
 "tile.flower_pot.name"	"Flower Pot"	"Original Translation
 zh_CN: 花盆
-zh_TW: 花盆"	""
+zh_TW: 花盆"	"花盆"
 "tile.flowering_azalea.name"	"Flowering Azalea"	"Original Translation
 zh_CN: 盛开的杜鹃花
 zh_TW: 盛開的杜鵑花"	"盛开的杜鹃花丛"
@@ -49383,7 +49383,7 @@ zh_CN: 水
 zh_TW: 水"	"水"
 "tile.frame.name"	"Item Frame"	"Original Translation
 zh_CN: 物品展示框
-zh_TW: 物品框架"	""
+zh_TW: 物品框架"	"物品展示框"
 "tile.frog_spawn.name"	"Frogspawn"	"Original Translation
 zh_CN: 青蛙卵
 zh_TW: 青蛙卵"	"青蛙卵"
@@ -49500,7 +49500,7 @@ zh_CN: 黄色带釉陶瓦
 zh_TW: 黃色帶釉陶土"	"黄色带釉陶瓦"
 "tile.glow_frame.name"	"Glow Item Frame"	"Original Translation
 zh_CN: 荧光物品展示框
-zh_TW: 發光物品框架"	""
+zh_TW: 發光物品框架"	"荧光物品展示框"
 "tile.glow_lichen.name"	"Glow Lichen"	"Original Translation
 zh_CN: 发光地衣
 zh_TW: 發光地衣"	"发光地衣"
@@ -49686,7 +49686,7 @@ zh_CN: 铁块
 zh_TW: 鐵方塊"	"铁块"
 "tile.iron_chain.name"	"Iron Chain"	"Original Translation
 zh_CN: 铁链
-zh_TW: 鐵鎖鏈"	""
+zh_TW: 鐵鎖鏈"	"铁链"
 "tile.iron_door.name"	"Iron Door"	"Original Translation
 zh_CN: 铁门
 zh_TW: 鐵門"	"铁门"
@@ -49731,7 +49731,7 @@ zh_CN: 丛林木活板门
 zh_TW: 叢林地板門"	"丛林木活板门"
 "tile.kelp.name"	"Kelp"	"Original Translation
 zh_CN: 海带
-zh_TW: 大海帶"	""
+zh_TW: 大海帶"	"海带"
 "tile.labtable.name"	"Lab Table"	"Original Translation
 zh_CN: 实验台
 zh_TW: 實驗桌"	"实验台"
@@ -50136,7 +50136,7 @@ zh_CN: 苍白橡木栅栏大门
 zh_TW: 蒼白橡木柵欄門"	"苍白橡木栅栏门"
 "tile.pale_oak_hanging_sign.name"	"Pale Oak Hanging Sign"	"Original Translation
 zh_CN: 苍白橡木悬挂告示牌
-zh_TW: 蒼白懸掛式橡木告示牌"	""
+zh_TW: 蒼白懸掛式橡木告示牌"	"悬挂式苍白橡木告示牌"
 "tile.pale_oak_leaves.name"	"Pale Oak Leaves"	"Original Translation
 zh_CN: 苍白橡木树叶
 zh_TW: 蒼白橡木樹葉"	"苍白橡树树叶"
@@ -50154,7 +50154,7 @@ zh_CN: 苍白橡木树苗
 zh_TW: 蒼白橡木樹苗"	"苍白橡树树苗"
 "tile.pale_oak_shelf.name"	"Pale Oak Shelf"	"Original Translation
 zh_CN: 苍白橡树木架
-zh_TW: 蒼白橡木架子"	""
+zh_TW: 蒼白橡木架子"	"苍白橡木展示架"
 "tile.pale_oak_slab.name"	"Pale Oak Slab"	"Original Translation
 zh_CN: 苍白橡木台阶
 zh_TW: 蒼白橡木板"	"苍白橡木台阶"
@@ -50163,7 +50163,7 @@ zh_CN: 苍白橡木楼梯
 zh_TW: 蒼白橡木階梯"	"苍白橡木楼梯"
 "tile.pale_oak_standing_sign.name"	"Pale Oak Sign"	"Original Translation
 zh_CN: 苍白橡木告示牌
-zh_TW: 蒼白橡木告示牌"	""
+zh_TW: 蒼白橡木告示牌"	"苍白橡木告示牌"
 "tile.pale_oak_trapdoor.name"	"Pale Oak Trapdoor"	"Original Translation
 zh_CN: 苍白橡木活板门
 zh_TW: 蒼白橡木地板門"	"苍白橡木活板门"
