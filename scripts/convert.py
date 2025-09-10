@@ -167,6 +167,11 @@ def save_lang_file_with_sources(file_path: Path, sources_data: dict[str, dict[st
         file_path (Path): The path to save the .lang file
         sources_data (dict): Dictionary mapping source files to their translations
     """
+    total_entries = sum(len(translations) for translations in sources_data.values())
+    if total_entries == 0:
+        file_path.write_text("", encoding="utf-8", newline="\n")
+        return
+
     lines: list[str] = []
 
     first_section = True
@@ -180,8 +185,8 @@ def save_lang_file_with_sources(file_path: Path, sources_data: dict[str, dict[st
 
         lines.append(f"## {source_file}")
 
-        for key, value in translations.items():
-            lines.append(f"{key}={value}")
+        translation_lines = [f"{key}={value}" for key, value in translations.items()]
+        lines.extend(translation_lines)
 
     content = "\n".join(lines)
     file_path.write_text(content, encoding="utf-8", newline="\n")
@@ -216,19 +221,16 @@ def save_tsv_file(file_path: Path, headers: list[str], rows: list[list[str]]) ->
         writer.writerows(rows)
 
 
-def get_source_file_for_key(
-    key: str, extracted_dir: Path, branch: str, lang_code: str
-) -> str | None:
-    """Get the source file path for a given translation key.
+def build_key_to_source_mapping(extracted_dir: Path, branch: str, lang_code: str) -> dict[str, str]:
+    """Build a mapping from translation keys to their source files.
 
     Args:
-        key (str): The translation key
         extracted_dir (Path): Path to the extracted directory
         branch (str): Branch name (release, beta, preview)
         lang_code (str): Language code (zh_CN, zh_TW, etc.)
 
     Returns:
-        str | None: The source file path relative to resource_packs/texts, or None if not found
+        dict[str, str]: Mapping from keys to source file paths
     """
     if branch == "release":
         search_base = extracted_dir / "release"
@@ -250,17 +252,29 @@ def get_source_file_for_key(
     elif branch == "preview":
         search_order.append("previewapp")
 
-    for subdir in search_order:
+    key_to_source: dict[str, str] = {}
+
+    for subdir in reversed(search_order):
         lang_file = search_base / subdir / f"{lang_code}.lang"
         if lang_file.exists():
             try:
                 content = lang_file.read_text(encoding="utf-8")
-                if f"{key}=" in content:
-                    return f"resource_packs/{subdir}/texts/{lang_code}.lang"
+                source_path = f"resource_packs/{subdir}/texts/{lang_code}.lang"
+
+                for line in content.splitlines():
+                    line = line.strip()
+                    if not line or line.startswith("##"):
+                        continue
+
+                    equal_index = line.find("=")
+                    if equal_index > 0:
+                        key = line[:equal_index].strip()
+                        if key not in key_to_source:
+                            key_to_source[key] = source_path
             except Exception:
                 continue
 
-    return None
+    return key_to_source
 
 
 def extract_translation_from_tsv(tsv_file: Path) -> OrderedDict[str, str]:
@@ -322,7 +336,10 @@ def extract_translation_with_sources(
 
     lang_code = tsv_file.stem
 
+    key_to_source = build_key_to_source_mapping(extracted_dir, branch, lang_code)
+
     sources: dict[str, dict[str, str]] = {}
+    unknown_source = f"resource_packs/vanilla/texts/{lang_code}.lang"
 
     for row in rows:
         if len(row) > max(key_index, translation_index):
@@ -330,17 +347,11 @@ def extract_translation_with_sources(
             translation = row[translation_index] if translation_index < len(row) else ""
 
             if key and translation:
-                source_file = get_source_file_for_key(key, extracted_dir, branch, lang_code)
+                source_file = key_to_source.get(key, unknown_source)
 
-                if source_file:
-                    if source_file not in sources:
-                        sources[source_file] = OrderedDict()
-                    sources[source_file][key] = translation
-                else:
-                    unknown_source = f"resource_packs/vanilla/texts/{lang_code}.lang"
-                    if unknown_source not in sources:
-                        sources[unknown_source] = OrderedDict()
-                    sources[unknown_source][key] = translation
+                if source_file not in sources:
+                    sources[source_file] = OrderedDict()
+                sources[source_file][key] = translation
 
     return sources
 
