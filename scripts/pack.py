@@ -64,9 +64,10 @@ def create_pack_archive(branch: str, lang_files: list[Path], version: str) -> No
         for lang_file in lang_files:
             shutil.copy2(lang_file, texts_dir / lang_file.name)
 
-        languages_json = Path("resources/texts/languages.json")
-        if languages_json.exists():
-            shutil.copy2(languages_json, texts_dir / "languages.json")
+        languages_dir = Path("resources/texts")
+        if languages_dir.exists():
+            for json_file in languages_dir.glob("*.json"):
+                shutil.copy2(json_file, texts_dir / json_file.name)
 
         base_name = f"MCBE_Chinese_Patch_{branch}_{version}"
         zip_path = output_dir / f"{base_name}.zip"
