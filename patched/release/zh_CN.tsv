@@ -3064,7 +3064,7 @@ zh_CN: 将自己的游戏模式设置为 %1$s
 zh_TW: 將自己的遊戲模式設定至 %1$s"	""
 "commands.gamerule.description"	"Sets or queries a game rule value."	"Original Translation
 zh_CN: 设置或查询游戏规则价值。
-zh_TW: 可設定或查詢遊戲規則值。"	""
+zh_TW: 可設定或查詢遊戲規則值。"	"设置或查询游戏规则的值。"
 "commands.gamerule.nopermission"	"Only server owners can change '%1$s'"	"Original Translation
 zh_CN: 只有服务器所有人才能修改 '%1$s'
 zh_TW: 只有伺服器擁有人才可更改 '%1$s'"	""
@@ -3076,7 +3076,7 @@ zh_CN: 游戏规则 %1$s 已更新为 %2$s
 zh_TW: 遊戲規則「%1$s」已更新為「%2$s」"	""
 "commands.gamerule.type.invalid"	"Invalid type used for game rule '%1$s'"	"Original Translation
 zh_CN: 无效的游戏规则类型 '%1$s'
-zh_TW: 遊戲規則「'%1$s'」使用的類型無效"	""
+zh_TW: 遊戲規則「'%1$s'」使用的類型無效"	"无效的游戏规则类型“%1$s”"
 "commands.gamerule.type.nocheatsenabled"	"Game rule '%1$s' can only be used if cheats are enabled in this world."	"Original Translation
 zh_CN: 只有这个世界启用作弊时，游戏规则 '%1$s' 才能使用。
 zh_TW: 只有在此世界啟用作弊後，才能使用遊戲規則「%1$s」。"	""
@@ -6151,7 +6151,7 @@ zh_CN: 极限模式
 zh_TW: 硬核模式"	"极限模式"
 "createWorldScreen.keepInventory"	"Keep Inventory"	"Original Translation
 zh_CN: 保留物品栏
-zh_TW: 保留物品欄"	"保留物品栏"
+zh_TW: 保留物品欄"	"死亡后保留物品栏"
 "createWorldScreen.levelName"	"Name"	"Original Translation
 zh_CN: 名称
 zh_TW: 名稱"	"名称"
@@ -6232,13 +6232,13 @@ zh_CN: %s 个区块
 zh_TW: %s 個區塊"	""
 "createWorldScreen.showCoordinates"	"Show Coordinates"	"Original Translation
 zh_CN: 显示坐标
-zh_TW: 顯示座標"	""
+zh_TW: 顯示座標"	"显示坐标"
 "createWorldScreen.showDaysPlayed"	"Show Days Played"	"Original Translation
 zh_CN: 显示游玩的天数
-zh_TW: 顯示遊玩天數"	""
+zh_TW: 顯示遊玩天數"	"显示游戏天数"
 "createWorldScreen.showbordereffect"	"Show Border Effect"	"Original Translation
 zh_CN: 显示边框效果
-zh_TW: 顯示邊界效果"	""
+zh_TW: 顯示邊界效果"	"显示边框效果"
 "createWorldScreen.startWithMap"	"Starting Map"	"Original Translation
 zh_CN: 初始地图
 zh_TW: 起始地圖"	""
@@ -6247,31 +6247,31 @@ zh_CN: 方块掉落
 zh_TW: 磚塊掉落"	""
 "createWorldScreen.tntexplodes"	"TNT Explodes"	"Original Translation
 zh_CN: TNT 爆炸
-zh_TW: 炸藥會爆炸"	""
+zh_TW: 炸藥會爆炸"	"TNT爆炸"
 "createWorldScreen.trustPlayers"	"Trust Players"	"Original Translation
 zh_CN: 信任玩家
-zh_TW: 信任玩家"	""
+zh_TW: 信任玩家"	"信任玩家"
 "createWorldScreen.upload"	"Upload World"	"Original Translation
 zh_CN: 上传世界
-zh_TW: 上傳世界"	""
+zh_TW: 上傳世界"	"上传世界"
 "createWorldScreen.weathercycle"	"Weather Cycle"	"Original Translation
 zh_CN: 天气更替
-zh_TW: 天氣循環"	""
+zh_TW: 天氣循環"	"天气更替"
 "createWorldScreen.worldManagement"	"World Management"	"Original Translation
 zh_CN: 世界管理
-zh_TW: 世界管理"	""
+zh_TW: 世界管理"	"世界管理"
 "createWorldScreen.worldOptions"	"World Options"	"Original Translation
 zh_CN: 世界选项
-zh_TW: 世界選項"	""
+zh_TW: 世界選項"	"世界选项"
 "createWorldScreen.worldPreferences"	"World Preferences"	"Original Translation
 zh_CN: 世界偏好
 zh_TW: 世界偏好選擇"	""
 "createWorldScreen.worldSettings"	"World Settings"	"Original Translation
 zh_CN: 世界设置
-zh_TW: 世界設定"	""
+zh_TW: 世界設定"	"世界设置"
 "createWorldScreen.worldType"	"World Type"	"Original Translation
 zh_CN: 世界类型
-zh_TW: 世界類型"	""
+zh_TW: 世界類型"	"世界类型"
 "createWorldUpsell.button.realm"	"New Realm"	"Original Translation
 zh_CN: 新 Realm
 zh_TW: 新 Realm"	""
@@ -24746,7 +24746,7 @@ zh_CN: 世界偏好
 zh_TW: 世界偏好設定"	""
 "howtoplay.gameSettings.header.2"	"Cheats and Gamerules"	"Original Translation
 zh_CN: 作弊和游戏规则
-zh_TW: 作弊和遊戲規則"	""
+zh_TW: 作弊和遊戲規則"	"作弊和游戏规则"
 "howtoplay.gameSettings.text.1"	"When creating a world, you have many options. Below are the various settings that can be used to fine tune your experience. Don't worry if you didn't set them when you created the world, they can be changed at any time."	"Original Translation
 zh_CN: 创建世界时，您有多个选项。以下是可用来微调您的体验的各种设置。如果您在创建世界时未设置它们，不用担心，您可以随时更改这些设置。
 zh_TW: 創造世界時，您可以調整許多選項。您可以利用以下各項設定來改善遊戲體驗。別擔心，就算您並未在創造世界時設定這些選項，日後仍然可以隨時變更。"	""
@@ -31114,22 +31114,22 @@ zh_CN: 混凝土
 zh_TW: 混凝土"	"混凝土"
 "itemGroup.name.concretePowder"	"Concrete Powder"	"Original Translation
 zh_CN: 混凝土粉末
-zh_TW: 混凝土粉末"	""
+zh_TW: 混凝土粉末"	"混凝土粉末"
 "itemGroup.name.cookedFood"	"Cooked Food"	"Original Translation
 zh_CN: 熟食
-zh_TW: 熟食"	""
+zh_TW: 熟食"	"熟食"
 "itemGroup.name.copper"	"Copper"	"Original Translation
 zh_CN: 铜
-zh_TW: 銅"	""
+zh_TW: 銅"	"铜质方块"
 "itemGroup.name.coral"	"Coral Blocks"	"Original Translation
 zh_CN: 珊瑚块
-zh_TW: 珊瑚方塊"	""
+zh_TW: 珊瑚方塊"	"珊瑚块"
 "itemGroup.name.coral_decorations"	"Coral Decorations"	"Original Translation
 zh_CN: 珊瑚装饰
-zh_TW: 珊瑚裝飾"	""
+zh_TW: 珊瑚裝飾"	"珊瑚装饰物"
 "itemGroup.name.crop"	"Crops"	"Original Translation
 zh_CN: 农作物
-zh_TW: 作物"	""
+zh_TW: 作物"	"作物"
 "itemGroup.name.door"	"Doors"	"Original Translation
 zh_CN: 门
 zh_TW: 門"	"门"
@@ -31150,10 +31150,10 @@ zh_CN: 栅栏门
 zh_TW: 柵欄門"	"栅栏门"
 "itemGroup.name.firework"	"Fireworks"	"Original Translation
 zh_CN: 焰火
-zh_TW: 煙火"	""
+zh_TW: 煙火"	"烟花"
 "itemGroup.name.fireworkStars"	"Firework Charges"	"Original Translation
 zh_CN: 焰火炸药
-zh_TW: 煙火星"	""
+zh_TW: 煙火星"	"烟花炸药"
 "itemGroup.name.flower"	"Flowers"	"Original Translation
 zh_CN: 花
 zh_TW: 花朵"	"花"
@@ -31171,7 +31171,7 @@ zh_CN: 山羊角
 zh_TW: 山羊角"	"山羊角"
 "itemGroup.name.grass"	"Ground Cover"	"Original Translation
 zh_CN: 地被植物
-zh_TW: 草皮"	""
+zh_TW: 草皮"	"地被植物"
 "itemGroup.name.hanging_sign"	"Hanging Signs"	"Original Translation
 zh_CN: 悬挂告示牌
 zh_TW: 懸掛式告示牌"	"悬挂式告示牌"
@@ -31204,13 +31204,13 @@ zh_CN: 矿车
 zh_TW: 礦車"	"矿车"
 "itemGroup.name.miscFood"	"Miscellaneous Foods"	"Original Translation
 zh_CN: 其他食物
-zh_TW: 其他食物"	""
+zh_TW: 其他食物"	"其他食物"
 "itemGroup.name.mobEgg"	"Mob Eggs"	"Original Translation
 zh_CN: 生物蛋
-zh_TW: 生物的蛋"	""
+zh_TW: 生物的蛋"	"生物刷怪蛋"
 "itemGroup.name.monsterStoneEgg"	"Infested Stone"	"Original Translation
 zh_CN: 被虫蚀的石头
-zh_TW: 蛀蝕石頭"	""
+zh_TW: 蛀蝕石頭"	"虫蚀石头"
 "itemGroup.name.mushroom"	"Mushrooms"	"Original Translation
 zh_CN: 蘑菇
 zh_TW: 蘑菇"	"蘑菇"
@@ -31243,13 +31243,13 @@ zh_CN: 压力板
 zh_TW: 壓板"	"压力板"
 "itemGroup.name.products"	"Products"	"Original Translation
 zh_CN: 产品
-zh_TW: 產品"	"产品"
+zh_TW: 產品"	"产物"
 "itemGroup.name.rail"	"Rails"	"Original Translation
 zh_CN: 铁轨
 zh_TW: 軌道"	"铁轨"
 "itemGroup.name.rawFood"	"Raw Food"	"Original Translation
 zh_CN: 生食
-zh_TW: 生食"	""
+zh_TW: 生食"	"生食"
 "itemGroup.name.record"	"Records"	"Original Translation
 zh_CN: 唱片
 zh_TW: 唱片"	"唱片"
@@ -31297,7 +31297,7 @@ zh_CN: 石头
 zh_TW: 石頭"	"石头"
 "itemGroup.name.stoneBrick"	"Decorative Stone"	"Original Translation
 zh_CN: 装饰石头
-zh_TW: 裝飾用石頭"	""
+zh_TW: 裝飾用石頭"	"装饰性石头"
 "itemGroup.name.sword"	"Swords"	"Original Translation
 zh_CN: 剑
 zh_TW: 劍"	"剑"
@@ -31318,7 +31318,7 @@ zh_CN: 羊毛地毯
 zh_TW: 羊毛地毯"	"羊毛地毯"
 "itemGroup.search"	"Search Items"	"Original Translation
 zh_CN: 搜索物品
-zh_TW: 搜尋物品"	""
+zh_TW: 搜尋物品"	"搜索物品"
 "jigsaw.exit.done"	"Done"	"Original Translation
 zh_CN: 完成
 zh_TW: 完成"	""
@@ -31387,7 +31387,7 @@ zh_CN: 正在搜索世界……
 zh_TW: 正在搜尋世界…"	""
 "joincode.connecting.title"	"Join World"	"Original Translation
 zh_CN: 加入世界
-zh_TW: 加入世界"	""
+zh_TW: 加入世界"	"加入世界"
 "joincode.entry_popup.icon_button"	"%1 join code button"	"Original Translation
 zh_CN: %1 加入代码按钮
 zh_TW: %1 加入代碼按鈕"	""
@@ -31396,7 +31396,7 @@ zh_CN: %3 加入代码记录，第 %1 条，共 %2 条
 zh_TW: %3 加入代碼輸入 %1 (共 %2 種)"	""
 "joincode.entry_popup.title"	"Enter Join Code"	"Original Translation
 zh_CN: 输入加入代码
-zh_TW: 輸入加入代碼"	""
+zh_TW: 輸入加入代碼"	"输入加入代码"
 "joincode.error.message.no_match"	"The join code you entered does not match any worlds that are currently available."	"Original Translation
 zh_CN: 您输入的加入代码无法匹配目前可用的任何世界。
 zh_TW: 您輸入的加入代碼與目前可用的任何世界都不相符。"	""
@@ -41151,7 +41151,7 @@ zh_CN: 确定是否生成幻翼。
 zh_TW: 決定是否會生成幻影。"	""
 "resourcePack.editor.exportProject.cheatsSettings.keepInventory"	"Keep Inventory"	"Original Translation
 zh_CN: 保留物品栏
-zh_TW: 保留物品欄"	""
+zh_TW: 保留物品欄"	"死亡后保留物品栏"
 "resourcePack.editor.exportProject.cheatsSettings.keepInventory.tooltip"	"Determines if the player keeps their inventory when they die."	"Original Translation
 zh_CN: 确定玩家死亡时是否保留其物品栏。
 zh_TW: 決定玩家死亡時是否保留其物品欄。"	""

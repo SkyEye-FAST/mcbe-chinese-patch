@@ -4,79 +4,79 @@ zh_CN: 导出
 zh_TW: 匯出"	""
 "3d_export.include"	"Include"	"Original Translation
 zh_CN: 包含
-zh_TW: 加入"	""
+zh_TW: 加入"	"涵"
 "3d_export.include_players"	"Include Players:"	"Original Translation
 zh_CN: 包含玩家：
-zh_TW: 加入玩家："	""
+zh_TW: 加入玩家："	"涵戲者："
 "3d_export.off"	"Off"	"Original Translation
 zh_CN: 关闭
-zh_TW: 關閉"	""
+zh_TW: 關閉"	"閉"
 "3d_export.remixServiceDiscontinued"	"Note: Remix3D Upload service is no longer available, use Export to save locally instead."	"Original Translation
 zh_CN: 注意：Remix3D 上传服务不再可用，请使用“导出”来进行本地保存。
 zh_TW: 注意：Remix3D 上傳服務已不再提供，使用「匯出」即可改為本機儲存。"	""
 "3d_export.remove"	"Remove"	"Original Translation
 zh_CN: 移除
-zh_TW: 移除"	""
+zh_TW: 移除"	"除"
 "3d_export.remove_blocks"	"Remove Blocks:"	"Original Translation
 zh_CN: 移除方块：
-zh_TW: 移除方塊："	""
+zh_TW: 移除方塊："	"除塊："
 "3d_export.reset"	"Reset"	"Original Translation
 zh_CN: 重置
-zh_TW: 重置"	""
+zh_TW: 重置"	"覆"
 "3d_export.show"	"Show"	"Original Translation
 zh_CN: 显示
-zh_TW: 顯示"	""
+zh_TW: 顯示"	"示"
 "3d_export.title"	"3D Export"	"Original Translation
 zh_CN: 3D 导出
 zh_TW: 3D 匯出"	""
 "accessibility.button.back"	"back"	"Original Translation
 zh_CN: 返回
-zh_TW: 返回"	""
+zh_TW: 返回"	"返"
 "accessibility.button.close"	"close"	"Original Translation
 zh_CN: 关闭
-zh_TW: 關閉"	""
+zh_TW: 關閉"	"閉"
 "accessibility.button.creative.layout"	"Recipe book view"	"Original Translation
 zh_CN: 配方书视图
-zh_TW: 配方書檢視"	""
+zh_TW: 配方書檢視"	"方集之覽"
 "accessibility.button.exit"	"Exit"	"Original Translation
 zh_CN: 退出
-zh_TW: 離開"	""
+zh_TW: 離開"	"去"
 "accessibility.button.filter"	"Filter"	"Original Translation
 zh_CN: 筛选
-zh_TW: 篩選"	""
+zh_TW: 篩選"	"濾"
 "accessibility.button.filter.appliedCount"	"%s Applied"	"Original Translation
 zh_CN: %s 已应用
-zh_TW: 已套用「%s」"	""
+zh_TW: 已套用「%s」"	"%s既行"
 "accessibility.button.navigateLeft"	"Left Arrow"	"Original Translation
 zh_CN: 左箭头
-zh_TW: 向左鍵"	""
+zh_TW: 向左鍵"	"←"
 "accessibility.button.navigateRight"	"Right Arrow"	"Original Translation
 zh_CN: 右箭头
-zh_TW: 向右鍵"	""
+zh_TW: 向右鍵"	"→"
 "accessibility.button.recipebook.layout"	"Recipe book and inventory view"	"Original Translation
 zh_CN: 配方书和物品栏视图
-zh_TW: 配方書和物品欄檢視"	""
+zh_TW: 配方書和物品欄檢視"	"方集、行囊之覽"
 "accessibility.button.sort"	"Sort"	"Original Translation
 zh_CN: 排序
-zh_TW: 排序"	""
+zh_TW: 排序"	"序"
 "accessibility.button.survival.layout"	"Inventory view"	"Original Translation
 zh_CN: 物品栏视图
-zh_TW: 物品欄檢視"	""
+zh_TW: 物品欄檢視"	"行囊之覽"
 "accessibility.button.tts.title"	"Button"	"Original Translation
 zh_CN: 按钮
-zh_TW: 按鈕"	""
+zh_TW: 按鈕"	"鈕"
 "accessibility.chat.howtoemote"	"Press or Hold %s to Emote"	"Original Translation
 zh_CN: 按或按住 %s 发表情
-zh_TW: 按住 %s 以顯示表情符號"	""
+zh_TW: 按住 %s 以顯示表情符號"	"撳抑押%s以爲情貌"
 "accessibility.chat.howtoopen"	"Press %s to open chat"	"Original Translation
 zh_CN: 按 %s 打开聊天
-zh_TW: 按 %s 開啟聊天"	""
+zh_TW: 按 %s 開啟聊天"	"撳%s以啟論議"
 "accessibility.chat.tts.gamepad.back"	"Press the %s to go back"	"Original Translation
 zh_CN: 按下 %s 返回
-zh_TW: 按 %s 返回"	""
+zh_TW: 按 %s 返回"	"撳%s以返"
 "accessibility.chat.tts.gamepad.exitChat"	"Press the %s to exit chat"	"Original Translation
 zh_CN: 按下 %s 退出聊天
-zh_TW: 按 %s 退出聊天"	""
+zh_TW: 按 %s 退出聊天"	"撳%s以去論議"
 "accessibility.chat.tts.gamepad.sendMessage"	"Press the %s to send message"	"Original Translation
 zh_CN: 按下 %s 发送消息
 zh_TW: 按 %s 發送消息"	""
@@ -94,28 +94,28 @@ zh_CN: %s 说 %s
 zh_TW: %s 說 %s"	""
 "accessibility.chat.tts.sendChatMessage"	"Send"	"Original Translation
 zh_CN: 发送
-zh_TW: 傳送"	""
+zh_TW: 傳送"	"傳"
 "accessibility.chat.tts.textboxTitle"	"Chat"	"Original Translation
 zh_CN: 聊天
-zh_TW: 聊天"	""
+zh_TW: 聊天"	"議"
 "accessibility.checkbox.tts.status"	"status %s"	"Original Translation
 zh_CN: 状态 %s
-zh_TW: 狀態 %s"	""
+zh_TW: 狀態 %s"	"態%s"
 "accessibility.checkbox.tts.title"	"Checkbox"	"Original Translation
 zh_CN: 复选框
 zh_TW: 核取方塊"	""
 "accessibility.controllerLayoutScreen.buttonBoundTo"	"%s button: %s"	"Original Translation
 zh_CN: %s 按钮：%s
-zh_TW: %s 按鈕：%s"	""
+zh_TW: %s 按鈕：%s"	"%s鈕：%s"
 "accessibility.controllerLayoutScreen.buttonRemapped"	"%s is now bound to %s"	"Original Translation
 zh_CN: %s 已被绑定至 %s
-zh_TW: %s 現在綁定至 %s"	""
+zh_TW: %s 現在綁定至 %s"	"%s附爲%s"
 "accessibility.controllerLayoutScreen.buttonRemapping"	"Select input to bind for %s"	"Original Translation
 zh_CN: 为 %s 选择要绑定的输入
-zh_TW: 選擇要和 %s 綁定的輸入"	""
+zh_TW: 選擇要和 %s 綁定的輸入"	"擇%s之所附"
 "accessibility.disableTTS"	"Text To Speech disabled"	"Original Translation
 zh_CN: 文本转语音已禁用
-zh_TW: 文字轉換語音已停用"	""
+zh_TW: 文字轉換語音已停用"	"語錄既禁"
 "accessibility.discount.percent"	"%s percent discount"	"Original Translation
 zh_CN: %s% 折扣
 zh_TW: %s% 折扣"	""
@@ -1048,7 +1048,7 @@ zh_CN: 轻触潜行可以下马
 zh_TW: 輕觸潛行以取消乘坐"	""
 "action.interact.allay"	"Give item to Allay"	"Original Translation
 zh_CN: 给悦灵物品
-zh_TW: 把物品給亞萊"	""
+zh_TW: 把物品給亞萊"	"摯物於悅靈"
 "action.interact.armorstand.equip"	"Equip"	"Original Translation
 zh_CN: 装备
 zh_TW: 配備"	""
@@ -1090,19 +1090,19 @@ zh_CN: 染色
 zh_TW: 染色"	""
 "action.interact.edit"	"Edit"	"Original Translation
 zh_CN: 编辑
-zh_TW: 編輯"	""
+zh_TW: 編輯"	"纂"
 "action.interact.equipcarpet"	"Equip Carpet"	"Original Translation
 zh_CN: 装备地毯
 zh_TW: 裝備地毯"	""
 "action.interact.equipharness"	"Equip Harness"	"Original Translation
 zh_CN: 装备挽具
-zh_TW: 裝備挽具"	""
+zh_TW: 裝備挽具"	"著轡"
 "action.interact.equiphorsearmor"	"Equip Horse Armor"	"Original Translation
 zh_CN: 装备马铠
-zh_TW: 裝備馬鎧"	""
+zh_TW: 裝備馬鎧"	"著馬甲"
 "action.interact.equipwolfarmor"	"Equip Wolf Armor"	"Original Translation
 zh_CN: 装备狼铠
-zh_TW: 裝備狼鎧"	""
+zh_TW: 裝備狼鎧"	"著狼甲"
 "action.interact.exit.boat"	"Leave Boat"	"Original Translation
 zh_CN: 下船
 zh_TW: 下船"	""
@@ -1144,10 +1144,10 @@ zh_CN: 移除地毯
 zh_TW: 移除地毯"	""
 "action.interact.removeharness"	"Remove Harness"	"Original Translation
 zh_CN: 移除挽具
-zh_TW: 移除挽具"	""
+zh_TW: 移除挽具"	"解轡"
 "action.interact.removehorsearmor"	"Remove Horse Armor"	"Original Translation
 zh_CN: 移除马铠
-zh_TW: 移除馬鎧"	""
+zh_TW: 移除馬鎧"	"解狼甲"
 "action.interact.removesaddle"	"Remove Saddle"	"Original Translation
 zh_CN: 移除鞍
 zh_TW: 移除鞍座"	""
@@ -1225,7 +1225,7 @@ zh_CN: 书写
 zh_TW: 寫"	""
 "addExternalServerScreen.addServer"	"Add Server"	"Original Translation
 zh_CN: 添加服务器
-zh_TW: 新增伺服器"	""
+zh_TW: 新增伺服器"	"添伺服器"
 "addExternalServerScreen.addTitle"	"Add External Server"	"Original Translation
 zh_CN: 添加外部服务器
 zh_TW: 新增外部伺服器"	""
@@ -1240,13 +1240,13 @@ zh_CN: 请输入 IP 或地址
 zh_TW: 請輸入 IP 或位址"	""
 "addExternalServerScreen.ipTextBoxLabel"	"Server Address"	"Original Translation
 zh_CN: 服务器地址
-zh_TW: 伺服器位址"	""
+zh_TW: 伺服器位址"	"伺服器之址"
 "addExternalServerScreen.namePlaceholder"	"Please enter server name"	"Original Translation
 zh_CN: 请输入服务器名称
 zh_TW: 請輸入伺服器名稱"	""
 "addExternalServerScreen.nameTextBoxLabel"	"Server Name"	"Original Translation
 zh_CN: 服务器名称
-zh_TW: 伺服器名稱"	""
+zh_TW: 伺服器名稱"	"伺服器之名"
 "addExternalServerScreen.playButtonLabel"	"Play"	"Original Translation
 zh_CN: 游戏
 zh_TW: 遊戲"	""
@@ -1264,34 +1264,34 @@ zh_CN: 保存
 zh_TW: 儲存"	""
 "addServer.add"	"Done"	"Original Translation
 zh_CN: 完成
-zh_TW: 完成"	""
+zh_TW: 完成"	"畢"
 "addServer.alreadyAdded"	"This server has already been added"	"Original Translation
 zh_CN: 此服务器已被添加
 zh_TW: 這個伺服器已經被加入了"	""
 "addServer.enterIp"	"Server Address"	"Original Translation
 zh_CN: 服务器地址
-zh_TW: 伺服器位址"	""
+zh_TW: 伺服器位址"	"伺服器之址"
 "addServer.enterName"	"Server Name"	"Original Translation
 zh_CN: 服务器名称
-zh_TW: 伺服器名稱"	""
+zh_TW: 伺服器名稱"	"伺服器之名"
 "addServer.hideAddress"	"Hide Address"	"Original Translation
 zh_CN: 隐藏地址
 zh_TW: 隱藏位址"	""
 "addServer.resourcePack"	"Server Resource Packs"	"Original Translation
 zh_CN: 服务器资源包
-zh_TW: 伺服器資源套件"	""
+zh_TW: 伺服器資源套件"	"伺服器之資囊"
 "addServer.resourcePack.disabled"	"Disabled"	"Original Translation
 zh_CN: 已禁用
-zh_TW: 停用"	""
+zh_TW: 停用"	"既禁"
 "addServer.resourcePack.enabled"	"Enabled"	"Original Translation
 zh_CN: 启用
-zh_TW: 已啟用"	""
+zh_TW: 已啟用"	"既啟"
 "addServer.resourcePack.prompt"	"Prompt"	"Original Translation
 zh_CN: 提示
-zh_TW: 提示"	""
+zh_TW: 提示"	"詢"
 "addServer.title"	"Edit Server Info"	"Original Translation
 zh_CN: 编辑服务器信息
-zh_TW: 編輯伺服器資訊"	""
+zh_TW: 編輯伺服器資訊"	"更伺服器之訊"
 "advMode.allEntities"	"@e = all entities"	"Original Translation
 zh_CN: @e = 全部实体
 zh_TW: @e = 全部實體"	""
@@ -1300,7 +1300,7 @@ zh_CN: @a = 全部玩家
 zh_TW: @a = 全部玩家"	""
 "advMode.command"	"Command Input"	"Original Translation
 zh_CN: 命令输入
-zh_TW: 指令輸入"	""
+zh_TW: 指令輸入"	"控制臺之令"
 "advMode.command.charLimitExceeded"	"Command Input exceeds 500 characters. It is not possible to open the keyboard input on this device type."	"Original Translation
 zh_CN: 命令输入超过 500 个字符。无法在此设备类型上打开键盘输入。
 zh_TW: 輸入指令超過 500 個字元。無法在此裝置類型上開啟鍵盤輸入。"	""
@@ -1312,7 +1312,7 @@ zh_CN: @p = 最近的玩家
 zh_TW: @p = 最近的玩家"	""
 "advMode.notAllowed"	"Must be an opped player in creative mode"	"Original Translation
 zh_CN: 必须是处于创造模式的管理员
-zh_TW: 必須是創造模式中的伺服器工作人員"	""
+zh_TW: 必須是創造模式中的伺服器工作人員"	"須創吏"
 "advMode.notEnabled"	"Command blocks are not enabled on this server"	"Original Translation
 zh_CN: 命令方块在此服务器上未启用
 zh_TW: 這個伺服器不允許使用指令方塊"	""
@@ -1639,46 +1639,46 @@ zh_CN: 未知作者
 zh_TW: 未知作者"	""
 "book.editTitle"	"Enter Book Title:"	"Original Translation
 zh_CN: 输入书名：
-zh_TW: 輸入書名："	""
+zh_TW: 輸入書名："	"題之："
 "book.export"	"Export"	"Original Translation
 zh_CN: 导出
 zh_TW: 匯出"	""
 "book.finalizeButton"	"Sign and Close"	"Original Translation
 zh_CN: 签名并关闭
-zh_TW: 署名並闔上書"	""
+zh_TW: 署名並闔上書"	"署而結之"
 "book.finalizeWarning"	"Note! When you sign the book, it will no longer be editable."	"Original Translation
 zh_CN: 注意！在你签名后，书籍将无法再修改。
 zh_TW: 注意！當您在這本書署名後，將無法修改書中內容。"	""
 "book.generation.0"	"Original"	"Original Translation
 zh_CN: 原作
-zh_TW: 原始版本"	""
+zh_TW: 原始版本"	"原著"
 "book.generation.1"	"Copy of original"	"Original Translation
 zh_CN: 原件的副本
-zh_TW: 複本"	""
+zh_TW: 複本"	"複本"
 "book.generation.2"	"Copy of a copy"	"Original Translation
 zh_CN: 副本的副本
-zh_TW: 複本的複本"	""
+zh_TW: 複本的複本"	"再複本"
 "book.generation.3"	"Tattered"	"Original Translation
 zh_CN: 破烂不堪
-zh_TW: 已破舊"	""
+zh_TW: 已破舊"	"殘章"
 "book.headerInventory"	"From Inventory"	"Original Translation
 zh_CN: 来自物品栏
 zh_TW: 來自物品欄"	""
 "book.headerPortfolio"	"From Portfolio"	"Original Translation
 zh_CN: 来自相片簿
-zh_TW: 來自相簿"	""
+zh_TW: 來自相簿"	"從文囊"
 "book.pageIndicator"	"Page %1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 页 共 %2$s 页
-zh_TW: 第 %1$s 頁/共 %2$s 頁"	""
+zh_TW: 第 %1$s 頁/共 %2$s 頁"	"卷%2$s之%1$s"
 "book.signButton"	"Sign"	"Original Translation
 zh_CN: 签名
-zh_TW: 署名"	""
+zh_TW: 署名"	"署"
 "book.titleHere"	"[Enter title here]"	"Original Translation
 zh_CN: [在此处输入书名]
-zh_TW: [在此輸入標題]"	""
+zh_TW: [在此輸入標題]"	"[題]"
 "build.tooHigh"	"Height limit for building is %s blocks"	"Original Translation
 zh_CN: 建筑高度限制是 %s 个方块
-zh_TW: 最大建築高度限制為 %s 格"	""
+zh_TW: 最大建築高度限制為 %s 格"	"高之極，以%s爲限"
 "build.tooLow"	"Minimum height for building is %s blocks"	"Original Translation
 zh_CN: 建筑最低高度是 %s 个方块
 zh_TW: 建築物的最小高度為 %s 個方塊"	""
@@ -1750,13 +1750,13 @@ zh_CN: 你已暂时在此服务器上重命名为 '%s'
 zh_TW: 您在此伺服器上已暫時更名為「%s」"	""
 "chat.settings"	"Chat Settings"	"Original Translation
 zh_CN: 聊天设置
-zh_TW: 交談設定"	""
+zh_TW: 交談設定"	"議之置設"
 "chat.settings.chatColor"	"Chat Color"	"Original Translation
 zh_CN: 聊天颜色
-zh_TW: 聊天顏色"	""
+zh_TW: 聊天顏色"	"文色"
 "chat.settings.chatFont"	"Chat Font"	"Original Translation
 zh_CN: 聊天字体
-zh_TW: 聊天字型"	""
+zh_TW: 聊天字型"	"論議字體"
 "chat.settings.color"	"Color"	"Original Translation
 zh_CN: 颜色
 zh_TW: 顏色"	""
@@ -2099,7 +2099,7 @@ zh_CN: 从文件重新加载权限失败，文件未找到。
 zh_TW: 從檔案重新載入權限失敗，找不到檔案。"	""
 "commandBlock.genericName"	"Command Block"	"Original Translation
 zh_CN: 命令方块
-zh_TW: 指令方塊"	""
+zh_TW: 指令方塊"	"命令塊"
 "commandBlock.shortName"	"@"	"Original Translation
 zh_CN: @
 zh_TW: @"	""
@@ -2399,10 +2399,10 @@ zh_CN: 最近的实体
 zh_TW: 最近的實體"	""
 "commands.autocomplete.p"	"closest player"	"Original Translation
 zh_CN: 最近的玩家
-zh_TW: 最親近玩家"	""
+zh_TW: 最親近玩家"	"至邇之戲者"
 "commands.autocomplete.r"	"random player"	"Original Translation
 zh_CN: 随机玩家
-zh_TW: 隨機玩家"	""
+zh_TW: 隨機玩家"	"無定戲者"
 "commands.autocomplete.s"	"yourself"	"Original Translation
 zh_CN: 您自己
 zh_TW: 自己"	""
@@ -3458,10 +3458,10 @@ zh_CN: 移除实体（玩家、生物等）。
 zh_TW: 移除實體 (玩家、生物等)。"	""
 "commands.kill.successful"	"Killed %1$s"	"Original Translation
 zh_CN: 已清除 %1$s
-zh_TW: 已刪除 %1$s"	""
+zh_TW: 已刪除 %1$s"	"既殺%1$s"
 "commands.kill.successful.edu"	"Removed %1$s"	"Original Translation
 zh_CN: 已移除 %1$s
-zh_TW: 已移除 %1$s"	""
+zh_TW: 已移除 %1$s"	"既除%1$s"
 "commands.lesson.description"	"Handle Educational Lesson reporting."	"Original Translation
 zh_CN: 处理教育课程报告。
 zh_TW: 處理教育課程報告。"	""
@@ -3590,7 +3590,7 @@ zh_CN: 音乐音量更新为 %d。
 zh_TW: 音樂音量將更新為 %d。"	""
 "commands.op.description"	"Grants operator status to a player."	"Original Translation
 zh_CN: 授予一名玩家操作员状态。
-zh_TW: 授予玩家操作者狀態。"	""
+zh_TW: 授予玩家操作者狀態。"	"授以吏之權"
 "commands.op.failed"	"Could not op (already op or higher): %s"	"Original Translation
 zh_CN: 无法夺得权限（已夺得或具有更高权限）：%s
 zh_TW: 無法提供權限 (已是操作者或更高層級)：%s"	""
@@ -4940,19 +4940,19 @@ zh_CN: 合成器
 zh_TW: 合成器"	""
 "container.crafting"	"Crafting"	"Original Translation
 zh_CN: 合成
-zh_TW: 合成"	""
+zh_TW: 合成"	"製"
 "container.creative"	"Item Selection"	"Original Translation
 zh_CN: 物品选栏
-zh_TW: 選擇物品"	""
+zh_TW: 選擇物品"	"擇物"
 "container.dispenser"	"Dispenser"	"Original Translation
 zh_CN: 发射器
-zh_TW: 發射器"	""
+zh_TW: 發射器"	"射械"
 "container.dropper"	"Dropper"	"Original Translation
 zh_CN: 投掷器
-zh_TW: 投擲器"	""
+zh_TW: 投擲器"	"擲械"
 "container.enchant"	"Enchant"	"Original Translation
 zh_CN: 附魔
-zh_TW: 附魔"	""
+zh_TW: 附魔"	"淬靈"
 "container.enchant.clue"	"%s . . . ?"	"Original Translation
 zh_CN: %s …？
 zh_TW: %s . . . ？"	""
@@ -4973,46 +4973,46 @@ zh_CN: 等级要求： %d
 zh_TW: 需要等級：%d"	""
 "container.enderchest"	"Ender Chest"	"Original Translation
 zh_CN: 末影箱
-zh_TW: 終界箱"	""
+zh_TW: 終界箱"	"終眇箱"
 "container.furnace"	"Furnace"	"Original Translation
 zh_CN: 熔炉
-zh_TW: 熔爐"	""
+zh_TW: 熔爐"	"爐"
 "container.hopper"	"Item Hopper"	"Original Translation
 zh_CN: 漏斗
-zh_TW: 漏斗"	""
+zh_TW: 漏斗"	"漏斗"
 "container.inventory"	"Inventory"	"Original Translation
 zh_CN: 物品栏
-zh_TW: 物品欄"	""
+zh_TW: 物品欄"	"行囊"
 "container.isLocked"	"%s is locked!"	"Original Translation
 zh_CN: %s已被上锁！
 zh_TW: %s 已鎖上！"	""
 "container.loom"	"Loom"	"Original Translation
 zh_CN: 织布机
-zh_TW: 織布機"	""
+zh_TW: 織布機"	"機杼"
 "container.minecart"	"Minecart"	"Original Translation
 zh_CN: 矿车
-zh_TW: 礦車"	""
+zh_TW: 礦車"	"礦車"
 "container.repair"	"Repair & Name"	"Original Translation
 zh_CN: 物品修复和命名
-zh_TW: 修復 & 命名"	""
+zh_TW: 修復 & 命名"	"修與命"
 "container.repair.cost"	"Enchantment Cost: %1$d"	"Original Translation
 zh_CN: 魔咒花费：%1$d
 zh_TW: 附魔成本：%1$d"	""
 "container.repair.expensive"	"Too Expensive!"	"Original Translation
 zh_CN: 过于昂贵！
-zh_TW: 太貴了！"	""
+zh_TW: 太貴了！"	"貴甚！"
 "container.repairAndDisenchant"	"Repair & Disenchant"	"Original Translation
 zh_CN: 修复与祛魔
-zh_TW: 修理和取消附魔"	""
+zh_TW: 修理和取消附魔"	"修與祛"
 "container.shulkerbox"	"Shulker Box"	"Original Translation
 zh_CN: 潜影盒
-zh_TW: 界伏蚌盒"	""
+zh_TW: 界伏蚌盒"	"贆櫝"
 "container.shulkerboxContains"	"and %d more..."	"Original Translation
 zh_CN: 还有 %d 个...
 zh_TW: 還有其他 %d 個…"	""
 "container.smithing_table"	"Smithing Table"	"Original Translation
 zh_CN: 锻造台
-zh_TW: 鍛造台"	""
+zh_TW: 鍛造台"	"鍛案"
 "container.smithing_table.arrow_tooltip_cannot_craft"	"Item can't be upgraded this way"	"Original Translation
 zh_CN: 物品无法以这种方式升级
 zh_TW: 無法以這種方式升級物品"	""
@@ -5036,13 +5036,13 @@ zh_CN: 升级装备
 zh_TW: 升級裝備"	""
 "container.smithing_table_block"	"Smithing Table"	"Original Translation
 zh_CN: 锻造台
-zh_TW: 鍛造台"	""
+zh_TW: 鍛造台"	"鍛案"
 "container.stonecutter"	"Stonecutter"	"Original Translation
 zh_CN: 切石机
-zh_TW: 切石機"	""
+zh_TW: 切石機"	"鑿石器"
 "container.stonecutter_block"	"Stonecutter"	"Original Translation
 zh_CN: 切石机
-zh_TW: 切石機"	""
+zh_TW: 切石機"	"鑿石器"
 "content.import.failed"	"Failed to import '%s'"	"Original Translation
 zh_CN: 导入 '%s' 失败
 zh_TW: 未能匯入 '%s'"	""
@@ -6004,10 +6004,10 @@ zh_CN: 默认
 zh_TW: 預設"	""
 "createWorldScreen.gameMode.spectator"	"Spectator"	"Original Translation
 zh_CN: 旁观
-zh_TW: 旁觀"	""
+zh_TW: 旁觀"	"覽"
 "createWorldScreen.gameMode.survival"	"Survival"	"Original Translation
 zh_CN: 生存
-zh_TW: 生存"	""
+zh_TW: 生存"	"生"
 "createWorldScreen.gameMode.survival.desc"	"Limited resources, you'll need tools. You may get hurt. Watch out for Monsters."	"Original Translation
 zh_CN: 资源有限，你需要工具。你可能会受伤。小心怪物。
 zh_TW: 資源有限，您需要工具。您可能會受傷，注意怪物。"	""
@@ -6043,34 +6043,34 @@ zh_CN: 立即重生
 zh_TW: 立即生成"	""
 "createWorldScreen.isHardcore"	"Hardcore mode"	"Original Translation
 zh_CN: 极限模式
-zh_TW: 硬核模式"	""
+zh_TW: 硬核模式"	"極"
 "createWorldScreen.keepInventory"	"Keep Inventory"	"Original Translation
 zh_CN: 保留物品栏
-zh_TW: 保留物品欄"	""
+zh_TW: 保留物品欄"	"亡後留行囊之物"
 "createWorldScreen.levelName"	"Name"	"Original Translation
 zh_CN: 名称
-zh_TW: 名稱"	""
+zh_TW: 名稱"	"生界之名"
 "createWorldScreen.levelSeed"	"Seed"	"Original Translation
 zh_CN: 种子
-zh_TW: 種子"	""
+zh_TW: 種子"	"創世之種"
 "createWorldScreen.locatorBar"	"Locator bar"	"Original Translation
 zh_CN: 定位栏
-zh_TW: 定位列"	""
+zh_TW: 定位列"	"尋蹤欄"
 "createWorldScreen.mobLoot"	"Mob Loot"	"Original Translation
 zh_CN: 生物战利品
-zh_TW: 生物戰利品"	""
+zh_TW: 生物戰利品"	"生靈亡之遺物"
 "createWorldScreen.mobSpawn"	"Mob Spawning"	"Original Translation
 zh_CN: 生物生成
-zh_TW: 生物重生"	""
+zh_TW: 生物重生"	"孳生靈"
 "createWorldScreen.mobgriefing"	"Mob Griefing"	"Original Translation
 zh_CN: 生物破坏
-zh_TW: 生物惡意破壞"	""
+zh_TW: 生物惡意破壞"	"允生靈之破壞"
 "createWorldScreen.multiplayer.settings"	"Multiplayer Settings"	"Original Translation
 zh_CN: 多人游戏设置
 zh_TW: 多人遊戲設定"	""
 "createWorldScreen.naturalregeneration"	"Natural Regeneration"	"Original Translation
 zh_CN: 自然生命恢复
-zh_TW: 自然再生"	""
+zh_TW: 自然再生"	"癒"
 "createWorldScreen.playerSleep"	"Beds Work"	"Original Translation
 zh_CN: 床有效
 zh_TW: 床舖有效"	""
@@ -6130,10 +6130,10 @@ zh_CN: 初始地图
 zh_TW: 起始地圖"	""
 "createWorldScreen.tileDrops"	"Tile Drops"	"Original Translation
 zh_CN: 方块掉落
-zh_TW: 磚塊掉落"	""
+zh_TW: 磚塊掉落"	"塊遺"
 "createWorldScreen.tntexplodes"	"TNT Explodes"	"Original Translation
 zh_CN: TNT 爆炸
-zh_TW: 炸藥會爆炸"	""
+zh_TW: 炸藥會爆炸"	"許燃灹藥而爆"
 "createWorldScreen.trustPlayers"	"Trust Players"	"Original Translation
 zh_CN: 信任玩家
 zh_TW: 信任玩家"	""
@@ -6622,13 +6622,13 @@ zh_CN: %1$s 被 %2$s 杀死了
 zh_TW: %1$s 被 %2$s 殺死了"	""
 "death.attack.player.item"	"%1$s was slain by %2$s using %3$s"	"Original Translation
 zh_CN: %1$s 被 %2$s 用 %3$s 杀死了
-zh_TW: %1$s 被 %2$s 用 %3$s 殺死"	""
+zh_TW: %1$s 被 %2$s 用 %3$s 殺死"	"%1$s爲%2$s以%3$s所殺"
 "death.attack.sonicBoom"	"%1$s was obliterated by a sonically-charged shriek"	"Original Translation
 zh_CN: %1$s 被一声尖锐的尖叫声摧毁了
-zh_TW: %1$s 被一聲尖銳的尖叫聲抹去了"	""
+zh_TW: %1$s 被一聲尖銳的尖叫聲抹去了"	"%1$s爲厲嘯所夷"
 "death.attack.sonicBoom.player"	"%1$s was obliterated by a sonically-charged shriek whilst trying to escape %2$s"	"Original Translation
 zh_CN: %1$s 在试图逃离 %2$s 时被一声尖锐的尖叫声摧毁了
-zh_TW: %1$s 在試圖逃離 %2$s 時，被一聲尖銳的尖叫聲抹去了"	""
+zh_TW: %1$s 在試圖逃離 %2$s 時，被一聲尖銳的尖叫聲抹去了"	"去%2$s之時%1$s爲厲嘯所夷"
 "death.attack.spit"	"%1$s was spitballed by %2$s"	"Original Translation
 zh_CN: %1$s 被 %2$s 吹了纸团
 zh_TW: %1$s 被 %2$s 口水紙球扔中了"	""
@@ -6640,10 +6640,10 @@ zh_CN: %1$s 被钉在了石笋上
 zh_TW: 石筍刺穿了 %1$s"	""
 "death.attack.starve"	"%1$s starved to death"	"Original Translation
 zh_CN: %1$s 饿死了
-zh_TW: %1$s 餓死了"	""
+zh_TW: %1$s 餓死了"	"%1$s飢斃"
 "death.attack.sweetBerry"	"%1$s was poked to death by a sweet berry bush"	"Original Translation
 zh_CN: %1$s 被甜浆果灌木丛刺死了
-zh_TW: %1$s 被甜莓叢刺死了"	""
+zh_TW: %1$s 被甜莓叢刺死了"	"%1$s爲甜莓叢所刺斃"
 "death.attack.thorns"	"%1$s was killed trying to hurt %2$s"	"Original Translation
 zh_CN: %1$s 在试图伤害 %2$s 时被杀
 zh_TW: %1$s 試圖襲擊 %2$s 而身亡"	""
@@ -6655,37 +6655,37 @@ zh_CN: %1$s 被 %2$s 用 %3$s 给砸死了
 zh_TW: %1$s 被 %2$s 用 %3$s 揍"	""
 "death.attack.trident"	"%1$s was impaled to death by %2$s"	"Original Translation
 zh_CN: %1$s 被 %2$s 穿透了
-zh_TW: %1$s 被 %2$s 刺死了"	""
+zh_TW: %1$s 被 %2$s 刺死了"	"%1$s爲%2$s所穿殺"
 "death.attack.wither"	"%1$s withered away"	"Original Translation
 zh_CN: %1$s 凋谢了
-zh_TW: %1$s 已遭凋靈攻擊致死"	""
+zh_TW: %1$s 已遭凋靈攻擊致死"	"%1$s凋斃"
 "death.fell.accident.generic"	"%1$s fell from a high place"	"Original Translation
 zh_CN: %1$s 从高处摔了下来
-zh_TW: %1$s 從高處跌落"	""
+zh_TW: %1$s 從高處跌落"	"%1$s自險墜斃"
 "death.fell.accident.ladder"	"%1$s fell off a ladder"	"Original Translation
 zh_CN: %1$s 从梯子上摔了下来
-zh_TW: %1$s 從梯子上摔了下來"	""
+zh_TW: %1$s 從梯子上摔了下來"	"%1$s斃於攀梯"
 "death.fell.accident.vines"	"%1$s fell off some vines"	"Original Translation
 zh_CN: %1$s 从一些藤蔓上摔了下来
-zh_TW: %1$s 從藤蔓上摔了下來"	""
+zh_TW: %1$s 從藤蔓上摔了下來"	"%1$s自藤墜斃"
 "death.fell.accident.water"	"%1$s fell out of the water"	"Original Translation
 zh_CN: %1$s 从水中掉了下来
 zh_TW: %1$s 從水中摔出"	""
 "death.fell.assist"	"%1$s was doomed to fall by %2$s"	"Original Translation
 zh_CN: %1$s 因为 %2$s 注定要摔死
-zh_TW: %1$s 被 %2$s 推下懸崖"	""
+zh_TW: %1$s 被 %2$s 推下懸崖"	"%1$s爲%2$s所擊而墜斃"
 "death.fell.assist.item"	"%1$s was doomed to fall by %2$s using %3$s"	"Original Translation
 zh_CN: %1$s 因为 %2$s 使用了 %3$s 注定要摔死
-zh_TW: %1$s 被 %2$s 用 %3$s 打下懸崖"	""
+zh_TW: %1$s 被 %2$s 用 %3$s 打下懸崖"	"%1$s爲%2$s以%3$s所擊而墜斃"
 "death.fell.finish"	"%1$s fell too far and was finished by %2$s"	"Original Translation
 zh_CN: %1$s 摔伤得太重并被 %2$s 完结了生命
-zh_TW: %1$s 重摔後被 %2$s 殺了"	""
+zh_TW: %1$s 重摔後被 %2$s 殺了"	"%1$s墜後爲%2$s所殺"
 "death.fell.finish.item"	"%1$s fell too far and was finished by %2$s using %3$s"	"Original Translation
 zh_CN: %1$s 摔伤得太重并被 %2$s 用 %3$s 完结了生命
-zh_TW: %1$s 重摔後被 %2$s 用 %3$s 殺了"	""
+zh_TW: %1$s 重摔後被 %2$s 用 %3$s 殺了"	"%1$s墜後爲%2$s以%3$s所殺"
 "death.fell.killer"	"%1$s was doomed to fall"	"Original Translation
 zh_CN: %1$s 注定要摔死
-zh_TW: %1$s 從空中摔落地面"	""
+zh_TW: %1$s 從空中摔落地面"	"%1$s受撃墜斃"
 "deathScreen.deleteWorld"	"Delete world"	"Original Translation
 zh_CN: 删除世界
 zh_TW: 刪除世界"	""
@@ -6700,7 +6700,7 @@ zh_CN: 你失败了！
 zh_TW: 您死了！"	""
 "deathScreen.quit"	"Main menu"	"Original Translation
 zh_CN: 主菜单
-zh_TW: 主選單"	""
+zh_TW: 主選單"	"卷首"
 "deathScreen.quit.confirm"	"Are you sure you want to quit?"	"Original Translation
 zh_CN: 你确定要退出吗？
 zh_TW: 確定要退出了嗎？"	""
@@ -6721,16 +6721,16 @@ zh_CN: 是否确实要保存并退出游戏？
 zh_TW: 您確定要儲存並離開遊戲嗎？"	""
 "deathScreen.respawn"	"Respawn"	"Original Translation
 zh_CN: 重生
-zh_TW: 重生"	""
+zh_TW: 重生"	"更生"
 "deathScreen.score"	"Score"	"Original Translation
 zh_CN: 分数
-zh_TW: 分數"	""
+zh_TW: 分數"	"分數"
 "deathScreen.title"	"You died!"	"Original Translation
 zh_CN: 你失败了！
-zh_TW: 您死了！"	""
+zh_TW: 您死了！"	"子歿矣！"
 "deathScreen.title.hardcore"	"Game over!"	"Original Translation
 zh_CN: 游戏结束！
-zh_TW: 遊戲結束！"	""
+zh_TW: 遊戲結束！"	"戲終！"
 "deathScreen.titleScreen"	"Title screen"	"Original Translation
 zh_CN: 标题画面
 zh_TW: 回到標題畫面"	""
@@ -6739,19 +6739,19 @@ zh_CN: 试玩时间已经结束，开启新世界继续玩试用版！
 zh_TW: 試玩時間已結束，若要繼續玩試玩版請開始新的世界！"	""
 "demo.day.1"	"This demo will last five game days, do your best!"	"Original Translation
 zh_CN: 此试玩版只有5天游戏内时间, 尽力而为吧!
-zh_TW: 試玩版只剩下五天的遊戲時間，盡您所能吧！"	""
+zh_TW: 試玩版只剩下五天的遊戲時間，盡您所能吧！"	"預演維五日可戲矣。盡子之至！"
 "demo.day.2"	"Day Two"	"Original Translation
 zh_CN: 第二天
-zh_TW: 第二天"	""
+zh_TW: 第二天"	"翌日"
 "demo.day.3"	"Day Three"	"Original Translation
 zh_CN: 第三天
-zh_TW: 第三天"	""
+zh_TW: 第三天"	"三日"
 "demo.day.4"	"Day Four"	"Original Translation
 zh_CN: 第四天
-zh_TW: 第四天"	""
+zh_TW: 第四天"	"四日"
 "demo.day.5"	"This is your last day!"	"Original Translation
 zh_CN: 这是你游戏内的最后一天!
-zh_TW: 這是最後一天！"	""
+zh_TW: 這是最後一天！"	"今乃試法之末日！"
 "demo.day.6"	"You have passed your fifth day, use F2 to save a screenshot of your creation"	"Original Translation
 zh_CN: 你已经度过了 5 天的试玩时间，按 F2 来保存你创建的内容的屏幕截图
 zh_TW: 您度過了第五天，按 F2 來儲存您的作品的螢幕擷取畫面"	""
@@ -6772,43 +6772,43 @@ zh_CN: 按 %1$s 打开你的道具栏
 zh_TW: 按 %1$s 打開物品欄"	""
 "demo.help.jump"	"Jump by pressing %1$s"	"Original Translation
 zh_CN: 按 %1$s 跳跃
-zh_TW: 按 %1$s 鍵跳躍"	""
+zh_TW: 按 %1$s 鍵跳躍"	"擊「%1$s」鍵以躍"
 "demo.help.later"	"Continue Playing!"	"Original Translation
 zh_CN: 继续玩！
-zh_TW: 繼續進行遊戲！"	""
+zh_TW: 繼續進行遊戲！"	"復戲之！"
 "demo.help.movement"	"Use %1$s, %2$s, %3$s, %4$s and the mouse to move around"	"Original Translation
 zh_CN: 按 %1$s, %2$s, %3$s, %4$s 以及鼠标来移动
-zh_TW: 使用 %1$s、%2$s、%3$s、%4$s 及滑鼠移動"	""
+zh_TW: 使用 %1$s、%2$s、%3$s、%4$s 及滑鼠移動"	"以%1$s、%2$s、%3$s、%4$s、滑鼠者遊四方"
 "demo.help.movementMouse"	"Look around using the mouse"	"Original Translation
 zh_CN: 使用鼠标来查看四周
-zh_TW: 移動滑鼠來查看四周"	""
+zh_TW: 移動滑鼠來查看四周"	"以滑鼠視四方"
 "demo.help.movementShort"	"Move by pressing %1$s, %2$s, %3$s, %4$s"	"Original Translation
 zh_CN: 通过按下%1$s，%2$s，%3$s，%4$s来移动
-zh_TW: 按下 %1$s、%2$s、%3$s、%4$s 來移動"	""
+zh_TW: 按下 %1$s、%2$s、%3$s、%4$s 來移動"	"擊「%1$s」「%2$s」「%3$s」「%4$s」鍵以行四方"
 "demo.help.title"	"Minecraft Demo Mode"	"Original Translation
 zh_CN: 《我的世界》试玩模式
-zh_TW: Minecraft 試玩模式"	""
+zh_TW: Minecraft 試玩模式"	"礦藝之預演"
 "demo.remainingTime"	"Remaining time: %s"	"Original Translation
 zh_CN: 剩余时间：%s
-zh_TW: 剩餘時間：%s"	""
+zh_TW: 剩餘時間：%s"	"餘時：%s"
 "demo.reminder"	"The demo time has expired, buy the game to continue or start a new world!"	"Original Translation
 zh_CN: 试玩时间已经结束，请购买游戏来继续或开始一个新的世界！
-zh_TW: 試玩時間已經結束，要繼續玩請購買遊戲，或重新開始新的世界！"	""
+zh_TW: 試玩時間已經結束，要繼續玩請購買遊戲，或重新開始新的世界！"	"試日畢，賈戲以續抑闢新生界！"
 "difficulty.lock.question"	"Are you sure you want to lock the difficulty of this world? This will set this world to always be %1$s, and you will never be able to change that again."	"Original Translation
 zh_CN: 你确定你要锁定这个世界的难度吗？这会将这个世界的难度锁定为%1$s，并且永远无法再次改变难度。
-zh_TW: 確定要鎖定此世界的難易度嗎？這樣會把此世界永久設定為 %1$s 而無法更改。"	""
+zh_TW: 確定要鎖定此世界的難易度嗎？這樣會把此世界永久設定為 %1$s 而無法更改。"	"誠欲錮此世之難易乎？將縛於%1$s，而無復易之法也。"
 "difficulty.lock.title"	"Lock World Difficulty"	"Original Translation
 zh_CN: 锁定世界难度
-zh_TW: 鎖定世界難易度"	""
+zh_TW: 鎖定世界難易度"	"錮生界之難易"
 "dimension.dimensionName0"	"Overworld"	"Original Translation
 zh_CN: 主世界
-zh_TW: 主世界"	""
+zh_TW: 主世界"	"主界"
 "dimension.dimensionName1"	"Nether"	"Original Translation
 zh_CN: 下界
-zh_TW: 地獄"	""
+zh_TW: 地獄"	"焱界"
 "dimension.dimensionName2"	"The End"	"Original Translation
 zh_CN: 末地
-zh_TW: 終界"	""
+zh_TW: 終界"	"終界"
 "disabledSkin.body.dressingRoom"	"This server has %s disabled. Are you sure want to keep this skin equipped?"	"Original Translation
 zh_CN: 此服务器已禁用%s。确定要继续穿戴这款皮肤吗？
 zh_TW: 此伺服器已停用 %s。您確定要繼續裝備這個外觀嗎？"	""
@@ -8902,136 +8902,136 @@ zh_CN: 水下速掘
 zh_TW: 水中速掘"	""
 "entity.allay.name"	"Allay"	"Original Translation
 zh_CN: 悦灵
-zh_TW: 亞萊"	""
+zh_TW: 亞萊"	"悅靈"
 "entity.area_effect_cloud.name"	"Area Effect Cloud"	"Original Translation
 zh_CN: 区域效果云雾
-zh_TW: 區域效果雲"	""
+zh_TW: 區域效果雲"	"劑雲"
 "entity.armadillo.name"	"Armadillo"	"Original Translation
 zh_CN: 犰狳
-zh_TW: 犰狳"	""
+zh_TW: 犰狳"	"犰狳"
 "entity.armor_stand.name"	"Armor Stand"	"Original Translation
 zh_CN: 盔甲架
-zh_TW: 護甲座"	""
+zh_TW: 護甲座"	"甲桁"
 "entity.arrow.name"	"Arrow"	"Original Translation
 zh_CN: 箭
-zh_TW: 箭"	""
+zh_TW: 箭"	"矢"
 "entity.axolotl.name"	"Axolotl"	"Original Translation
 zh_CN: 美西螈
-zh_TW: 墨西哥鈍口螈"	""
+zh_TW: 墨西哥鈍口螈"	"螈"
 "entity.balloon.name"	"Balloon"	"Original Translation
 zh_CN: 气球
 zh_TW: 氣球"	""
 "entity.bat.name"	"Bat"	"Original Translation
 zh_CN: 蝙蝠
-zh_TW: 蝙蝠"	""
+zh_TW: 蝙蝠"	"蟙䘃"
 "entity.bee.name"	"Bee"	"Original Translation
 zh_CN: 蜜蜂
-zh_TW: 蜜蜂"	""
+zh_TW: 蜜蜂"	"蜂"
 "entity.blaze.name"	"Blaze"	"Original Translation
 zh_CN: 烈焰人
-zh_TW: 烈焰使者"	""
+zh_TW: 烈焰使者"	"炎靈"
 "entity.boat.name"	"Boat"	"Original Translation
 zh_CN: 船
-zh_TW: 小船"	""
+zh_TW: 小船"	"舟"
 "entity.bogged.name"	"Bogged"	"Original Translation
 zh_CN: 沼骸
-zh_TW: 沼澤骷髏"	""
+zh_TW: 沼澤骷髏"	"濘髑"
 "entity.breeze.name"	"Breeze"	"Original Translation
 zh_CN: 旋风人
-zh_TW: 微風"	""
+zh_TW: 微風"	"風靈"
 "entity.breeze_wind_charge_projectile.name"	"Wind Charge"	"Original Translation
 zh_CN: 风弹
-zh_TW: 風彈"	""
+zh_TW: 風彈"	"風彈"
 "entity.camel.name"	"Camel"	"Original Translation
 zh_CN: 骆驼
-zh_TW: 駱駝"	""
+zh_TW: 駱駝"	"橐駝"
 "entity.cat.name"	"Cat"	"Original Translation
 zh_CN: 猫
-zh_TW: 小貓"	""
+zh_TW: 小貓"	"貓"
 "entity.cave_spider.name"	"Cave Spider"	"Original Translation
 zh_CN: 洞穴蜘蛛
-zh_TW: 洞穴蜘蛛"	""
+zh_TW: 洞穴蜘蛛"	"穴蛛"
 "entity.chest_boat.name"	"Boat with Chest"	"Original Translation
 zh_CN: 运输船
-zh_TW: 附箱子的船"	""
+zh_TW: 附箱子的船"	"艚"
 "entity.chest_minecart.name"	"Minecart with Chest"	"Original Translation
 zh_CN: 运输矿车
-zh_TW: 運輸礦車"	""
+zh_TW: 運輸礦車"	"箱礦車"
 "entity.chest_raft.name"	"Raft with Chest"	"Original Translation
 zh_CN: 带宝箱的的竹筏
-zh_TW: 附箱子的木筏"	""
+zh_TW: 附箱子的木筏"	"竹艚"
 "entity.chicken.name"	"Chicken"	"Original Translation
 zh_CN: 鸡
-zh_TW: 雞"	""
+zh_TW: 雞"	"雞"
 "entity.cod.name"	"Cod"	"Original Translation
 zh_CN: 鳕鱼
-zh_TW: 鱈魚"	""
+zh_TW: 鱈魚"	"鱈"
 "entity.command_block_minecart.name"	"Minecart with Command Block"	"Original Translation
 zh_CN: 命令方块矿车
-zh_TW: 指令方塊礦車"	""
+zh_TW: 指令方塊礦車"	"命令塊礦車"
 "entity.copper_golem.name"	"Copper Golem"	"Original Translation
 zh_CN: 铜傀儡
-zh_TW: 銅魔像"	""
+zh_TW: 銅魔像"	"銅傀儡"
 "entity.cow.name"	"Cow"	"Original Translation
 zh_CN: 牛
-zh_TW: 乳牛"	""
+zh_TW: 乳牛"	"牛"
 "entity.creaking.name"	"Creaking"	"Original Translation
 zh_CN: 嘎枝
-zh_TW: 闇樹生物"	""
+zh_TW: 闇樹生物"	"䦪鬼"
 "entity.creeper.name"	"Creeper"	"Original Translation
 zh_CN: 苦力怕
-zh_TW: 苦力怕"	""
+zh_TW: 苦力怕"	"伏臨"
 "entity.dolphin.name"	"Dolphin"	"Original Translation
 zh_CN: 海豚
-zh_TW: 海豚"	""
+zh_TW: 海豚"	"海豚"
 "entity.donkey.name"	"Donkey"	"Original Translation
 zh_CN: 驴
-zh_TW: 驢"	""
+zh_TW: 驢"	"驢"
 "entity.dragon_fireball.name"	"Dragon Fireball"	"Original Translation
 zh_CN: 末影龙火球
-zh_TW: 終界龍火球"	""
+zh_TW: 終界龍火球"	"龍焱彈"
 "entity.drowned.name"	"Drowned"	"Original Translation
 zh_CN: 溺尸
-zh_TW: 水鬼"	""
+zh_TW: 水鬼"	"溺屍"
 "entity.egg.name"	"Egg"	"Original Translation
 zh_CN: 鸡蛋
 zh_TW: 蛋"	""
 "entity.elder_guardian.name"	"Elder Guardian"	"Original Translation
 zh_CN: 远古守卫者
-zh_TW: 遠古深海守衛"	""
+zh_TW: 遠古深海守衛"	"古海衛"
 "entity.ender_crystal.name"	"Ender Crystal"	"Original Translation
 zh_CN: 末影水晶
-zh_TW: 終界水晶"	""
+zh_TW: 終界水晶"	"終界水玉"
 "entity.ender_dragon.name"	"Ender Dragon"	"Original Translation
 zh_CN: 末影龙
-zh_TW: 終界龍"	""
+zh_TW: 終界龍"	"終眇龍"
 "entity.ender_pearl.name"	"Ender Pearl"	"Original Translation
 zh_CN: 末影珍珠
-zh_TW: 終界珍珠"	""
+zh_TW: 終界珍珠"	"擲終眇玥"
 "entity.enderman.name"	"Enderman"	"Original Translation
 zh_CN: 末影人
-zh_TW: 終界使者"	""
+zh_TW: 終界使者"	"終眇使"
 "entity.endermite.name"	"Endermite"	"Original Translation
 zh_CN: 末影螨
-zh_TW: 終界蟎"	""
+zh_TW: 終界蟎"	"終眇蟎"
 "entity.evocation_fang.name"	"Evoker Fang"	"Original Translation
 zh_CN: 唤魔者尖牙
-zh_TW: 喚魔者毒牙"	""
+zh_TW: 喚魔者毒牙"	"魔齒"
 "entity.evocation_illager.name"	"Evoker"	"Original Translation
 zh_CN: 唤魔者
-zh_TW: 喚魔者"	""
+zh_TW: 喚魔者"	"御魔使"
 "entity.eye_of_ender_signal.name"	"Eye of Ender"	"Original Translation
 zh_CN: 末影之眼
 zh_TW: 終界之眼"	""
 "entity.falling_block.name"	"Falling Block"	"Original Translation
 zh_CN: 下落的方块
-zh_TW: 掉落的方塊"	""
+zh_TW: 掉落的方塊"	"墜塊"
 "entity.fireball.name"	"Fireball"	"Original Translation
 zh_CN: 火球
-zh_TW: 火球"	""
+zh_TW: 火球"	"火圓"
 "entity.fireworks_rocket.name"	"Firework Rocket"	"Original Translation
 zh_CN: 焰火火箭
-zh_TW: 煙火火箭"	""
+zh_TW: 煙火火箭"	"焰火"
 "entity.fish.clownfish.name"	"Clownfish"	"Original Translation
 zh_CN: 海葵鱼
 zh_TW: 小丑魚"	""
@@ -9040,16 +9040,16 @@ zh_CN: 鱼钩
 zh_TW: 魚鉤"	""
 "entity.fox.name"	"Fox"	"Original Translation
 zh_CN: 狐狸
-zh_TW: 狐狸"	""
+zh_TW: 狐狸"	"狐"
 "entity.frog.name"	"Frog"	"Original Translation
 zh_CN: 青蛙
-zh_TW: 青蛙"	""
+zh_TW: 青蛙"	"鼃"
 "entity.furnace_minecart.name"	"Minecart with Furnace"	"Original Translation
 zh_CN: 动力矿车
-zh_TW: 熔爐礦車"	""
+zh_TW: 熔爐礦車"	"爐礦車"
 "entity.ghast.name"	"Ghast"	"Original Translation
 zh_CN: 恶魂
-zh_TW: 地獄幽靈"	""
+zh_TW: 地獄幽靈"	"魄"
 "entity.glow_squid.name"	"Glow Squid"	"Original Translation
 zh_CN: 发光鱿鱼
 zh_TW: 發光烏賊"	""
@@ -9193,22 +9193,22 @@ zh_CN: 雪球
 zh_TW: 雪球"	""
 "entity.spider.name"	"Spider"	"Original Translation
 zh_CN: 蜘蛛
-zh_TW: 蜘蛛"	""
+zh_TW: 蜘蛛"	"蛛"
 "entity.splash_potion.name"	"Potion"	"Original Translation
 zh_CN: 药水
 zh_TW: 藥水"	""
 "entity.squid.name"	"Squid"	"Original Translation
 zh_CN: 鱿鱼
-zh_TW: 烏賊"	""
+zh_TW: 烏賊"	"鰂"
 "entity.stray.name"	"Stray"	"Original Translation
 zh_CN: 流浪者
-zh_TW: 迷途骷髏"	""
+zh_TW: 迷途骷髏"	"流髑"
 "entity.strider.name"	"Strider"	"Original Translation
 zh_CN: 炽足兽
-zh_TW: 熾足獸"	""
+zh_TW: 熾足獸"	"熾足獸"
 "entity.tadpole.name"	"Tadpole"	"Original Translation
 zh_CN: 蝌蚪
-zh_TW: 蝌蚪"	""
+zh_TW: 蝌蚪"	"蝌蚪"
 "entity.thrown_trident.name"	"Trident"	"Original Translation
 zh_CN: 三叉戟
 zh_TW: 三叉戟"	""
@@ -9223,58 +9223,58 @@ zh_CN: 行商羊驼
 zh_TW: 商販羊駝"	""
 "entity.tripod_camera.name"	"Tripod Camera"	"Original Translation
 zh_CN: 三脚架摄像机
-zh_TW: 三腳架相機"	""
+zh_TW: 三腳架相機"	"留影機"
 "entity.tropicalfish.name"	"Tropical Fish"	"Original Translation
 zh_CN: 热带鱼
 zh_TW: 熱帶魚"	""
 "entity.turtle.name"	"Turtle"	"Original Translation
 zh_CN: 海龟
-zh_TW: 海龜"	""
+zh_TW: 海龜"	"海龜"
 "entity.unknown.name"	"Unknown"	"Original Translation
 zh_CN: 未知
 zh_TW: 未知"	""
 "entity.vex.name"	"Vex"	"Original Translation
 zh_CN: 恼鬼
-zh_TW: 維克絲"	""
+zh_TW: 維克絲"	"惱鬼"
 "entity.villager.armor"	"Armorer"	"Original Translation
 zh_CN: 盔甲匠
-zh_TW: 製甲師"	""
+zh_TW: 製甲師"	"函師"
 "entity.villager.butcher"	"Butcher"	"Original Translation
 zh_CN: 屠夫
-zh_TW: 肉販"	""
+zh_TW: 肉販"	"屠戶"
 "entity.villager.cartographer"	"Cartographer"	"Original Translation
 zh_CN: 制图师
-zh_TW: 製圖師"	""
+zh_TW: 製圖師"	"堪輿師"
 "entity.villager.cleric"	"Cleric"	"Original Translation
 zh_CN: 牧师
-zh_TW: 神職人員"	""
+zh_TW: 神職人員"	"僧"
 "entity.villager.farmer"	"Farmer"	"Original Translation
 zh_CN: 农民
-zh_TW: 農夫"	""
+zh_TW: 農夫"	"農"
 "entity.villager.fisherman"	"Fisherman"	"Original Translation
 zh_CN: 渔夫
-zh_TW: 漁夫"	""
+zh_TW: 漁夫"	"漁夫"
 "entity.villager.fletcher"	"Fletcher"	"Original Translation
 zh_CN: 制箭师
-zh_TW: 製箭師"	""
+zh_TW: 製箭師"	"箭匠"
 "entity.villager.leather"	"Leatherworker"	"Original Translation
 zh_CN: 皮匠
-zh_TW: 皮匠"	""
+zh_TW: 皮匠"	"韋人"
 "entity.villager.librarian"	"Librarian"	"Original Translation
 zh_CN: 图书管理员
-zh_TW: 圖書館員"	""
+zh_TW: 圖書館員"	"學士"
 "entity.villager.mason"	"Mason"	"Original Translation
 zh_CN: 石匠
-zh_TW: 石匠"	""
+zh_TW: 石匠"	"羊倌"
 "entity.villager.name"	"Villager"	"Original Translation
 zh_CN: 村民
-zh_TW: 村民"	""
+zh_TW: 村民"	"鄉民"
 "entity.villager.shepherd"	"Shepherd"	"Original Translation
 zh_CN: 牧羊人
-zh_TW: 牧羊人"	""
+zh_TW: 牧羊人"	"羊倌"
 "entity.villager.tool"	"Tool Smith"	"Original Translation
 zh_CN: 工具匠
-zh_TW: 工具鍛工"	""
+zh_TW: 工具鍛工"	"工匠"
 "entity.villager.unskilled"	"Unskilled Villager"	"Original Translation
 zh_CN: 不熟练的村民
 zh_TW: 不熟練的村民"	""
@@ -9283,61 +9283,61 @@ zh_CN: 武器匠
 zh_TW: 武器鍛工"	""
 "entity.villager_v2.name"	"Villager"	"Original Translation
 zh_CN: 村民
-zh_TW: 村民"	""
+zh_TW: 村民"	"鄉民"
 "entity.vindicator.name"	"Vindicator"	"Original Translation
 zh_CN: 卫道士
-zh_TW: 衛道士"	""
+zh_TW: 衛道士"	"斫仇者"
 "entity.wandering_trader.name"	"Wandering Trader"	"Original Translation
 zh_CN: 流浪商人
-zh_TW: 流浪商人"	""
+zh_TW: 流浪商人"	"行商"
 "entity.warden.name"	"Warden"	"Original Translation
 zh_CN: 监守者
-zh_TW: 循聲守衛"	""
+zh_TW: 循聲守衛"	"監守"
 "entity.wind_charge_projectile.name"	"Wind Charge"	"Original Translation
 zh_CN: 风弹
-zh_TW: 風彈"	""
+zh_TW: 風彈"	"風彈"
 "entity.witch.name"	"Witch"	"Original Translation
 zh_CN: 女巫
-zh_TW: 女巫"	""
+zh_TW: 女巫"	"巫"
 "entity.wither.name"	"Wither"	"Original Translation
 zh_CN: 凋灵
-zh_TW: 凋靈"	""
+zh_TW: 凋靈"	"凋靈"
 "entity.wither_skeleton.name"	"Wither Skeleton"	"Original Translation
 zh_CN: 凋灵骷髅
-zh_TW: 凋靈骷髏"	""
+zh_TW: 凋靈骷髏"	"凋靈骷髏"
 "entity.wither_skull.name"	"Wither Skull"	"Original Translation
 zh_CN: 凋灵头颅
-zh_TW: 凋靈骷髏頭顱"	""
+zh_TW: 凋靈骷髏頭顱"	"凋靈首"
 "entity.wither_skull_dangerous.name"	"Wither Skull"	"Original Translation
 zh_CN: 凋灵头颅
-zh_TW: 凋靈骷髏頭顱"	""
+zh_TW: 凋靈骷髏頭顱"	"凋靈首"
 "entity.wolf.name"	"Wolf"	"Original Translation
 zh_CN: 狼
-zh_TW: 狼"	""
+zh_TW: 狼"	"狼"
 "entity.xp_bottle.name"	"Bottle o' Enchanting"	"Original Translation
 zh_CN: 附魔之瓶
-zh_TW: 拋出的經驗瓶"	""
+zh_TW: 拋出的經驗瓶"	"淬靈甁"
 "entity.xp_orb.name"	"Experience Orb"	"Original Translation
 zh_CN: 经验球
-zh_TW: 經驗球"	""
+zh_TW: 經驗球"	"經驗珠"
 "entity.zoglin.name"	"Zoglin"	"Original Translation
 zh_CN: 僵尸疣猪兽
-zh_TW: 殭屍疣豬獸"	""
+zh_TW: 殭屍疣豬獸"	"屍化獷豕"
 "entity.zombie.name"	"Zombie"	"Original Translation
 zh_CN: 僵尸
-zh_TW: 殭屍"	""
+zh_TW: 殭屍"	"殭屍"
 "entity.zombie_horse.name"	"Zombie Horse"	"Original Translation
 zh_CN: 僵尸马
-zh_TW: 殭屍馬"	""
+zh_TW: 殭屍馬"	"屍馬"
 "entity.zombie_pigman.name"	"Zombified Piglin"	"Original Translation
 zh_CN: 僵尸猪灵
-zh_TW: 殭屍豬布林"	""
+zh_TW: 殭屍豬布林"	"屍化豕靈"
 "entity.zombie_villager.name"	"Zombie Villager"	"Original Translation
 zh_CN: 僵尸村民
-zh_TW: 殭屍村民"	""
+zh_TW: 殭屍村民"	"屍化鄉民"
 "entity.zombie_villager_v2.name"	"Zombie Villager"	"Original Translation
 zh_CN: 怪人村民
-zh_TW: 殭屍村民"	""
+zh_TW: 殭屍村民"	"屍化鄉民"
 "eula.acceptButton"	"Accept"	"Original Translation
 zh_CN: 接受
 zh_TW: 接受"	""
@@ -9460,7 +9460,7 @@ zh_CN: 小径废墟
 zh_TW: 小徑遺址"	""
 "feature.trial_chambers"	"Trial Chambers"	"Original Translation
 zh_CN: 试炼室
-zh_TW: 試煉房間"	""
+zh_TW: 試煉房間"	"煉武堂"
 "feature.village"	"Village"	"Original Translation
 zh_CN: 村庄
 zh_TW: 村莊"	""
@@ -10423,7 +10423,7 @@ zh_CN: 《我的世界》世界模板
 zh_TW: Minecraft 世界範本"	""
 "gui.yes"	"Yes"	"Original Translation
 zh_CN: 是
-zh_TW: 是"	""
+zh_TW: 是"	"然"
 "hbui.Accordion.closeInputLegend"	"Close"	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"	""
@@ -12712,7 +12712,7 @@ zh_CN: 误伤
 zh_TW: 友方誤傷"	""
 "hbui.CreateNewWorld.advanced.generatorTypeLabel"	"World type"	"Original Translation
 zh_CN: 世界类型
-zh_TW: 世界類型："	""
+zh_TW: 世界類型："	"生界之類"
 "hbui.CreateNewWorld.advanced.immediateRespawnDescription"	"Skip “You died!” menu and immediately respawn"	"Original Translation
 zh_CN: 跳过“你死了！”菜单并立即重生
 zh_TW: 跳過「你死了！」選單，立即重生"	""
@@ -12721,10 +12721,10 @@ zh_CN: 立即重生
 zh_TW: 立即重生"	""
 "hbui.CreateNewWorld.advanced.mobLootDescription"	"Mobs drop items when killed"	"Original Translation
 zh_CN: 生物在被杀时会掉落物品
-zh_TW: 生物遭到擊殺時會掉落物品"	""
+zh_TW: 生物遭到擊殺時會掉落物品"	"控生靈之所遺，經驗珠隨焉"
 "hbui.CreateNewWorld.advanced.mobLootTitle"	"Mob loot"	"Original Translation
 zh_CN: 生物战利品
-zh_TW: 生物戰利品"	""
+zh_TW: 生物戰利品"	"生靈亡之遺物"
 "hbui.CreateNewWorld.advanced.narration.respawnRadiusInvalidValue"	"Value entered empty or lower than 0. Respawn radius is reset to default value 5."	"Original Translation
 zh_CN: 输入的值为空或小于 0。重生半径重置为默认值 5。
 zh_TW: 輸入的值為空或小於 0。重生半徑已重設為預設值 5。"	""
@@ -12871,7 +12871,7 @@ zh_CN: 为魔法般创造您的世界的算法提供指引
 zh_TW: 導向創造神奇世界的演算法"	""
 "hbui.CreateNewWorld.advanced.worldSeedLabel"	"World seed"	"Original Translation
 zh_CN: 世界种子
-zh_TW: 世界種子"	""
+zh_TW: 世界種子"	"創世之種"
 "hbui.CreateNewWorld.advanced.worldSeedPlaceholder"	"3257840388504953787"	"Original Translation
 zh_CN: 3257840388504953787
 zh_TW: 3257840388504953787"	""
@@ -13003,13 +13003,13 @@ zh_CN: 在您死后保留物品栏内的所有物品
 zh_TW: 死亡後，所有物品都會保留在物品欄中"	""
 "hbui.CreateNewWorld.cheats.inventoryTitle"	"Keep inventory"	"Original Translation
 zh_CN: 保留物品栏
-zh_TW: 保留物品欄"	""
+zh_TW: 保留物品欄"	"亡後留行囊之物"
 "hbui.CreateNewWorld.cheats.mobGriefingDescription"	"Mobs can move and destroy blocks in your world"	"Original Translation
 zh_CN: 生物可以移动并摧毁您的世界中的方块
 zh_TW: 生物可以移動和摧毀你世界中的方塊"	""
 "hbui.CreateNewWorld.cheats.mobGriefingTitle"	"Mob griefing"	"Original Translation
 zh_CN: 生物破坏
-zh_TW: 生物惡意破壞"	""
+zh_TW: 生物惡意破壞"	"允生靈之破壞"
 "hbui.CreateNewWorld.cheats.mobSpawningDescription"	"Mobs spawn naturally"	"Original Translation
 zh_CN: 生物自然生成
 zh_TW: 生物自然重生"	""
@@ -13336,7 +13336,7 @@ zh_CN: 生存
 zh_TW: 生存"	""
 "hbui.CreateNewWorld.general.gameModeTitle"	"Game mode"	"Original Translation
 zh_CN: 游戏模式
-zh_TW: 遊戲模式"	""
+zh_TW: 遊戲模式"	"嬉遊之法"
 "hbui.CreateNewWorld.general.gameModeUnknownLabel"	"Unknown"	"Original Translation
 zh_CN: 未知
 zh_TW: 未知"	""
@@ -13375,10 +13375,10 @@ zh_CN: 项目
 zh_TW: 專案"	""
 "hbui.CreateNewWorld.general.worldNamePlaceholder"	"My World"	"Original Translation
 zh_CN: 我的世界
-zh_TW: 我的世界"	""
+zh_TW: 我的世界"	"新生界"
 "hbui.CreateNewWorld.general.worldNameTitle"	"World name"	"Original Translation
 zh_CN: 世界名称
-zh_TW: 世界名稱"	""
+zh_TW: 世界名稱"	"生界之名"
 "hbui.CreateNewWorld.general.worldTypeTitle"	"World type"	"Original Translation
 zh_CN: 世界类型
 zh_TW: 世界類型："	""
@@ -24440,7 +24440,7 @@ zh_CN: 给盔甲染色
 zh_TW: 為護甲染色"	""
 "howtoplay.cauldron.text.1"	"The Cauldron is a container that can hold buckets or bottles of liquid."	"Original Translation
 zh_CN: 炼药锅是一种可容纳数桶或数瓶液体的容器。
-zh_TW: 鍋釜是一種容器，您可將裝有液體的桶子或瓶子倒入鍋釜。"	""
+zh_TW: 鍋釜是一種容器，您可將裝有液體的桶子或瓶子倒入鍋釜。"	"釜者，承桶甁之皿也。"
 "howtoplay.cauldron.text.2.notTouch"	"Press :_input_key.use: on a Cauldron while holding a Bucket of Water or a Potion to fill the Cauldron with its contents."	"Original Translation
 zh_CN: 拿着一桶水或一份药水时，按炼药锅上的 :_input_key.use: 即可向炼药锅中注入其中的成份。
 zh_TW: 手持裝滿水的桶子或藥水時，在鍋釜上按 :_input_key.use: 即可將該容器的內容物倒進鍋釜。"	""
@@ -26708,2785 +26708,2785 @@ zh_CN: 邀请成员加入您的 Realm 服务器
 zh_TW: 邀請成員加入您的 Realm 伺服器"	""
 "item.acacia_door.name"	"Acacia Door"	"Original Translation
 zh_CN: 金合欢木门
-zh_TW: 相思木門"	""
+zh_TW: 相思木門"	"㭜門"
 "item.acacia_hanging_sign.name"	"Acacia Hanging Sign"	"Original Translation
 zh_CN: 金合欢悬挂告示牌
-zh_TW: 懸掛式相思木告示牌"	""
+zh_TW: 懸掛式相思木告示牌"	"㭜懸牌"
 "item.acacia_sign.name"	"Acacia Sign"	"Original Translation
 zh_CN: 金合欢木告示牌
-zh_TW: 相思木告示牌"	""
+zh_TW: 相思木告示牌"	"㭜牌"
 "item.air.name"	"Air"	"Original Translation
 zh_CN: 空气
-zh_TW: 空氣"	""
+zh_TW: 空氣"	"氣"
 "item.amethyst_shard.name"	"Amethyst Shard"	"Original Translation
 zh_CN: 紫水晶碎片
-zh_TW: 紫水晶碎片"	""
+zh_TW: 紫水晶碎片"	"紫水玉片"
 "item.angler_pottery_sherd.name"	"Angler Pottery Sherd"	"Original Translation
 zh_CN: 垂钓纹样陶片
-zh_TW: 垂釣者陶器碎片"	""
+zh_TW: 垂釣者陶器碎片"	"釣陶片"
 "item.apple.name"	"Apple"	"Original Translation
 zh_CN: 苹果
-zh_TW: 蘋果"	""
+zh_TW: 蘋果"	"林檎"
 "item.appleEnchanted.name"	"Enchanted Golden Apple"	"Original Translation
 zh_CN: 附魔金苹果
-zh_TW: 魔法金蘋果"	""
+zh_TW: 魔法金蘋果"	"淬靈金林檎"
 "item.archer_pottery_sherd.name"	"Archer Pottery Sherd"	"Original Translation
 zh_CN: 弓箭纹样陶片
-zh_TW: 射手陶器碎片"	""
+zh_TW: 射手陶器碎片"	"射陶片"
 "item.armadillo_scute.name"	"Armadillo Scute"	"Original Translation
 zh_CN: 犰狳鳞甲
-zh_TW: 犰狳鱗甲"	""
+zh_TW: 犰狳鱗甲"	"犰狳鱗"
 "item.armor.upgrade"	"Upgrade:"	"Original Translation
 zh_CN: 升级：
-zh_TW: 升級："	""
+zh_TW: 升級："	"昇："
 "item.armor_stand.name"	"Armor Stand"	"Original Translation
 zh_CN: 盔甲架
-zh_TW: 護甲座"	""
+zh_TW: 護甲座"	"桁架"
 "item.arms_up_pottery_sherd.name"	"Arms Up Pottery Sherd"	"Original Translation
 zh_CN: 举臂纹样陶片
-zh_TW: 舉手陶器碎片"	""
+zh_TW: 舉手陶器碎片"	"肱陶片"
 "item.arrow.name"	"Arrow"	"Original Translation
 zh_CN: 箭
-zh_TW: 箭"	""
+zh_TW: 箭"	"矢"
 "item.axolotlAdultBodySingle.name"	"Adult %1$s Axolotl"	"Original Translation
 zh_CN: 成年 %1$s 美西螈
-zh_TW: 成年 %1$s 墨西哥鈍口螈"	""
+zh_TW: 成年 %1$s 墨西哥鈍口螈"	"螈桶§o§7\n長\n%1$s"
 "item.axolotlBabyBodySingle.name"	"Baby %1$s Axolotl"	"Original Translation
 zh_CN: 幼年 %1$s 美西螈
-zh_TW: 幼年 %1$s 墨西哥鈍口螈"	""
+zh_TW: 幼年 %1$s 墨西哥鈍口螈"	"螈桶§o§7\n幼\n%1$s"
 "item.axolotlColorBlue.name"	"Blue"	"Original Translation
 zh_CN: 蓝色
-zh_TW: 藍色"	""
+zh_TW: 藍色"	"靛"
 "item.axolotlColorCyan.name"	"Cyan"	"Original Translation
 zh_CN: 青色
-zh_TW: 青綠色"	""
+zh_TW: 青綠色"	"黛"
 "item.axolotlColorGold.name"	"Gold"	"Original Translation
 zh_CN: 金色
-zh_TW: 金色"	""
+zh_TW: 金色"	"金"
 "item.axolotlColorLucy.name"	"Leucistic"	"Original Translation
 zh_CN: 白化
-zh_TW: 白化"	""
+zh_TW: 白化"	"紅"
 "item.axolotlColorWild.name"	"Brown"	"Original Translation
 zh_CN: 棕色
-zh_TW: 棕色"	""
+zh_TW: 棕色"	"褐"
 "item.baked_potato.name"	"Baked Potato"	"Original Translation
 zh_CN: 烤马铃薯
-zh_TW: 烤馬鈴薯"	""
+zh_TW: 烤馬鈴薯"	"洋芋炙"
 "item.balloon.black.name"	"Black Balloon"	"Original Translation
 zh_CN: 黑色气球
-zh_TW: 黑色氣球"	""
+zh_TW: 黑色氣球"	"黑浮毬"
 "item.balloon.blue.name"	"Blue Balloon"	"Original Translation
 zh_CN: 蓝色气球
-zh_TW: 藍色氣球"	""
+zh_TW: 藍色氣球"	"靛浮毬"
 "item.balloon.brown.name"	"Brown Balloon"	"Original Translation
 zh_CN: 棕色气球
-zh_TW: 棕色氣球"	""
+zh_TW: 棕色氣球"	"褐浮毬"
 "item.balloon.cyan.name"	"Cyan Balloon"	"Original Translation
 zh_CN: 青色气球
-zh_TW: 青綠色氣球"	""
+zh_TW: 青綠色氣球"	"黛浮毬"
 "item.balloon.gray.name"	"Gray Balloon"	"Original Translation
 zh_CN: 灰色气球
-zh_TW: 灰色氣球"	""
+zh_TW: 灰色氣球"	"灰浮毬"
 "item.balloon.green.name"	"Green Balloon"	"Original Translation
 zh_CN: 绿色气球
-zh_TW: 綠色氣球"	""
+zh_TW: 綠色氣球"	"綠浮毬"
 "item.balloon.lightBlue.name"	"Light Blue Balloon"	"Original Translation
 zh_CN: 淡蓝色气球
-zh_TW: 淺藍色氣球"	""
+zh_TW: 淺藍色氣球"	"縹浮毬"
 "item.balloon.lime.name"	"Lime Balloon"	"Original Translation
 zh_CN: 黄绿色气球
-zh_TW: 淡黃綠色氣球"	""
+zh_TW: 淡黃綠色氣球"	"翠浮毬"
 "item.balloon.magenta.name"	"Magenta Balloon"	"Original Translation
 zh_CN: 品红色气球
-zh_TW: 洋紅色氣球"	""
+zh_TW: 洋紅色氣球"	"赬浮毬"
 "item.balloon.orange.name"	"Orange Balloon"	"Original Translation
 zh_CN: 橙色气球
-zh_TW: 橘色氣球"	""
+zh_TW: 橘色氣球"	"橙浮毬"
 "item.balloon.pink.name"	"Pink Balloon"	"Original Translation
 zh_CN: 粉红色气球
-zh_TW: 粉紅色氣球"	""
+zh_TW: 粉紅色氣球"	"紅浮毬"
 "item.balloon.purple.name"	"Purple Balloon"	"Original Translation
 zh_CN: 紫色气球
-zh_TW: 紫色氣球"	""
+zh_TW: 紫色氣球"	"紫浮毬"
 "item.balloon.red.name"	"Red Balloon"	"Original Translation
 zh_CN: 红色气球
-zh_TW: 紅色氣球"	""
+zh_TW: 紅色氣球"	"赤浮毬"
 "item.balloon.silver.name"	"Silver Balloon"	"Original Translation
 zh_CN: 银色气球
-zh_TW: 銀色氣球"	""
+zh_TW: 銀色氣球"	"銀浮毬"
 "item.balloon.white.name"	"White Balloon"	"Original Translation
 zh_CN: 白色气球
-zh_TW: 白色氣球"	""
+zh_TW: 白色氣球"	"白浮毬"
 "item.balloon.yellow.name"	"Yellow Balloon"	"Original Translation
 zh_CN: 黄色气球
-zh_TW: 黃色氣球"	""
+zh_TW: 黃色氣球"	"黃浮毬"
 "item.bamboo_door.name"	"Bamboo Door"	"Original Translation
 zh_CN: 竹门
-zh_TW: 竹門"	""
+zh_TW: 竹門"	"竹門"
 "item.bamboo_hanging_sign.name"	"Bamboo Hanging Sign"	"Original Translation
 zh_CN: 竹制悬挂告示牌
-zh_TW: 懸掛式竹告示牌"	""
+zh_TW: 懸掛式竹告示牌"	"竹懸牌"
 "item.bamboo_sign.name"	"Bamboo Sign"	"Original Translation
 zh_CN: 竹制告示牌
-zh_TW: 竹子告示牌"	""
+zh_TW: 竹子告示牌"	"竹牌"
 "item.banner.black.name"	"Black Banner"	"Original Translation
 zh_CN: 黑色旗帜
-zh_TW: 黑色旗幟"	""
+zh_TW: 黑色旗幟"	"玄旗"
 "item.banner.blue.name"	"Blue Banner"	"Original Translation
 zh_CN: 蓝色旗帜
-zh_TW: 藍色旗幟"	""
+zh_TW: 藍色旗幟"	"靛旗"
 "item.banner.border.black"	"Black Bordure"	"Original Translation
 zh_CN: 黑色方框边
-zh_TW: 黑色框邊"	""
+zh_TW: 黑色框邊"	"玄匡"
 "item.banner.border.blue"	"Blue Bordure"	"Original Translation
 zh_CN: 蓝色方框边
-zh_TW: 藍色框邊"	""
+zh_TW: 藍色框邊"	"靛匡"
 "item.banner.border.brown"	"Brown Bordure"	"Original Translation
 zh_CN: 棕色方框边
-zh_TW: 棕色框邊"	""
+zh_TW: 棕色框邊"	"褐匡"
 "item.banner.border.cyan"	"Cyan Bordure"	"Original Translation
 zh_CN: 青色方框边
-zh_TW: 青綠色框邊"	""
+zh_TW: 青綠色框邊"	"黛匡"
 "item.banner.border.gray"	"Gray Bordure"	"Original Translation
 zh_CN: 灰色方框边
-zh_TW: 灰色框邊"	""
+zh_TW: 灰色框邊"	"灰匡"
 "item.banner.border.green"	"Green Bordure"	"Original Translation
 zh_CN: 绿色方框边
-zh_TW: 綠色框邊"	""
+zh_TW: 綠色框邊"	"綠匡"
 "item.banner.border.lightBlue"	"Light Blue Bordure"	"Original Translation
 zh_CN: 淡蓝色方框边
-zh_TW: 淺藍色框邊"	""
+zh_TW: 淺藍色框邊"	"縹匡"
 "item.banner.border.lime"	"Lime Bordure"	"Original Translation
 zh_CN: 黄绿色方框边
-zh_TW: 淡黃綠色框邊"	""
+zh_TW: 淡黃綠色框邊"	"翠匡"
 "item.banner.border.magenta"	"Magenta Bordure"	"Original Translation
 zh_CN: 品红色方框边
-zh_TW: 洋紅色框邊"	""
+zh_TW: 洋紅色框邊"	"赬匡"
 "item.banner.border.orange"	"Orange Bordure"	"Original Translation
 zh_CN: 橙色方框边
-zh_TW: 橙色框邊"	""
+zh_TW: 橙色框邊"	"橙匡"
 "item.banner.border.pink"	"Pink Bordure"	"Original Translation
 zh_CN: 粉红色方框边
-zh_TW: 粉紅色框邊"	""
+zh_TW: 粉紅色框邊"	"紅匡"
 "item.banner.border.purple"	"Purple Bordure"	"Original Translation
 zh_CN: 紫色方框边
-zh_TW: 紫色框邊"	""
+zh_TW: 紫色框邊"	"紫匡"
 "item.banner.border.red"	"Red Bordure"	"Original Translation
 zh_CN: 红色方框边
-zh_TW: 紅色框邊"	""
+zh_TW: 紅色框邊"	"赤匡"
 "item.banner.border.silver"	"Light Gray Bordure"	"Original Translation
 zh_CN: 淡灰色方框边
-zh_TW: 淺灰色框邊"	""
+zh_TW: 淺灰色框邊"	"蒼匡"
 "item.banner.border.white"	"White Bordure"	"Original Translation
 zh_CN: 白色方框边
-zh_TW: 白色框邊"	""
+zh_TW: 白色框邊"	"白匡"
 "item.banner.border.yellow"	"Yellow Bordure"	"Original Translation
 zh_CN: 黄色方框边
-zh_TW: 黃色框邊"	""
+zh_TW: 黃色框邊"	"黃匡"
 "item.banner.bricks.black"	"Black Field Masoned"	"Original Translation
 zh_CN: 黑色砖纹
-zh_TW: 黑色磚牆花紋"	""
+zh_TW: 黑色磚牆花紋"	"玄磚紋"
 "item.banner.bricks.blue"	"Blue Field Masoned"	"Original Translation
 zh_CN: 蓝色砖纹
-zh_TW: 藍色磚牆花紋"	""
+zh_TW: 藍色磚牆花紋"	"靛磚紋"
 "item.banner.bricks.brown"	"Brown Field Masoned"	"Original Translation
 zh_CN: 棕色砖纹
-zh_TW: 棕色磚牆花紋"	""
+zh_TW: 棕色磚牆花紋"	"褐磚紋"
 "item.banner.bricks.cyan"	"Cyan Field Masoned"	"Original Translation
 zh_CN: 青色砖纹
-zh_TW: 青綠色磚牆花紋"	""
+zh_TW: 青綠色磚牆花紋"	"黛磚紋"
 "item.banner.bricks.gray"	"Gray Field Masoned"	"Original Translation
 zh_CN: 灰色砖纹
-zh_TW: 灰色磚牆花紋"	""
+zh_TW: 灰色磚牆花紋"	"灰磚紋"
 "item.banner.bricks.green"	"Green Field Masoned"	"Original Translation
 zh_CN: 绿色砖纹
-zh_TW: 綠色磚牆花紋"	""
+zh_TW: 綠色磚牆花紋"	"綠磚紋"
 "item.banner.bricks.lightBlue"	"Light Blue Field Masoned"	"Original Translation
 zh_CN: 淡蓝色砖纹
-zh_TW: 淺藍色磚牆花紋"	""
+zh_TW: 淺藍色磚牆花紋"	"縹磚紋"
 "item.banner.bricks.lime"	"Lime Field Masoned"	"Original Translation
 zh_CN: 黄绿色砖纹
-zh_TW: 淡黃綠色磚牆花紋"	""
+zh_TW: 淡黃綠色磚牆花紋"	"翠磚紋"
 "item.banner.bricks.magenta"	"Magenta Field Masoned"	"Original Translation
 zh_CN: 品红色砖纹
-zh_TW: 洋紅色磚牆花紋"	""
+zh_TW: 洋紅色磚牆花紋"	"赬磚紋"
 "item.banner.bricks.orange"	"Orange Field Masoned"	"Original Translation
 zh_CN: 橙色砖纹
-zh_TW: 橙色磚牆花紋"	""
+zh_TW: 橙色磚牆花紋"	"橙磚紋"
 "item.banner.bricks.pink"	"Pink Field Masoned"	"Original Translation
 zh_CN: 粉红色砖纹
-zh_TW: 粉紅色磚牆花紋"	""
+zh_TW: 粉紅色磚牆花紋"	"紅磚紋"
 "item.banner.bricks.purple"	"Purple Field Masoned"	"Original Translation
 zh_CN: 紫色砖纹
-zh_TW: 紫色磚牆花紋"	""
+zh_TW: 紫色磚牆花紋"	"紫磚紋"
 "item.banner.bricks.red"	"Red Field Masoned"	"Original Translation
 zh_CN: 红色砖纹
-zh_TW: 紅色磚牆花紋"	""
+zh_TW: 紅色磚牆花紋"	"赤磚紋"
 "item.banner.bricks.silver"	"Light Gray Field Masoned"	"Original Translation
 zh_CN: 淡灰色砖纹
-zh_TW: 淺灰色磚牆花紋"	""
+zh_TW: 淺灰色磚牆花紋"	"蒼磚紋"
 "item.banner.bricks.white"	"White Field Masoned"	"Original Translation
 zh_CN: 白色砖纹
-zh_TW: 白色磚牆花紋"	""
+zh_TW: 白色磚牆花紋"	"素磚紋"
 "item.banner.bricks.yellow"	"Yellow Field Masoned"	"Original Translation
 zh_CN: 黄色砖纹
-zh_TW: 黃色磚牆花紋"	""
+zh_TW: 黃色磚牆花紋"	"黃磚紋"
 "item.banner.brown.name"	"Brown Banner"	"Original Translation
 zh_CN: 棕色旗帜
-zh_TW: 棕色旗幟"	""
+zh_TW: 棕色旗幟"	"褐旗"
 "item.banner.circle.black"	"Black Roundel"	"Original Translation
 zh_CN: 黑色圆形
-zh_TW: 黑色圓形"	""
+zh_TW: 黑色圓形"	"玄圈紋"
 "item.banner.circle.blue"	"Blue Roundel"	"Original Translation
 zh_CN: 蓝色圆形
-zh_TW: 藍色圓形"	""
+zh_TW: 藍色圓形"	"靛圈紋"
 "item.banner.circle.brown"	"Brown Roundel"	"Original Translation
 zh_CN: 棕色圆形
-zh_TW: 棕色圓形"	""
+zh_TW: 棕色圓形"	"褐圈紋"
 "item.banner.circle.cyan"	"Cyan Roundel"	"Original Translation
 zh_CN: 青色圆形
-zh_TW: 青綠色圓形"	""
+zh_TW: 青綠色圓形"	"黛圈紋"
 "item.banner.circle.gray"	"Gray Roundel"	"Original Translation
 zh_CN: 灰色圆形
-zh_TW: 灰色圓形"	""
+zh_TW: 灰色圓形"	"灰圈紋"
 "item.banner.circle.green"	"Green Roundel"	"Original Translation
 zh_CN: 绿色圆形
-zh_TW: 綠色圓形"	""
+zh_TW: 綠色圓形"	"綠圈紋"
 "item.banner.circle.lightBlue"	"Light Blue Roundel"	"Original Translation
 zh_CN: 淡蓝色圆形
-zh_TW: 淺藍色圓形"	""
+zh_TW: 淺藍色圓形"	"縹圈紋"
 "item.banner.circle.lime"	"Lime Roundel"	"Original Translation
 zh_CN: 黄绿色圆形
-zh_TW: 淡黃綠色圓形"	""
+zh_TW: 淡黃綠色圓形"	"翠圈紋"
 "item.banner.circle.magenta"	"Magenta Roundel"	"Original Translation
 zh_CN: 品红色圆形
-zh_TW: 洋紅色圓形"	""
+zh_TW: 洋紅色圓形"	"赬圈紋"
 "item.banner.circle.orange"	"Orange Roundel"	"Original Translation
 zh_CN: 橙色圆形
-zh_TW: 橙色圓形"	""
+zh_TW: 橙色圓形"	"橙圈紋"
 "item.banner.circle.pink"	"Pink Roundel"	"Original Translation
 zh_CN: 粉红色圆形
-zh_TW: 粉紅色圓形"	""
+zh_TW: 粉紅色圓形"	"紅圈紋"
 "item.banner.circle.purple"	"Purple Roundel"	"Original Translation
 zh_CN: 紫色圆形
-zh_TW: 紫色圓形"	""
+zh_TW: 紫色圓形"	"紫圈紋"
 "item.banner.circle.red"	"Red Roundel"	"Original Translation
 zh_CN: 红色圆形
-zh_TW: 紅色圓形"	""
+zh_TW: 紅色圓形"	"赤圈紋"
 "item.banner.circle.silver"	"Light Gray Roundel"	"Original Translation
 zh_CN: 淡灰色圆形
-zh_TW: 淺灰色圓形"	""
+zh_TW: 淺灰色圓形"	"蒼圈紋"
 "item.banner.circle.white"	"White Roundel"	"Original Translation
 zh_CN: 白色圆形
-zh_TW: 白色圓形"	""
+zh_TW: 白色圓形"	"素圈紋"
 "item.banner.circle.yellow"	"Yellow Roundel"	"Original Translation
 zh_CN: 黄色圆形
-zh_TW: 黃色圓形"	""
+zh_TW: 黃色圓形"	"黃圈紋"
 "item.banner.creeper.black"	"Black Creeper Charge"	"Original Translation
 zh_CN: 黑色苦力怕盾徽
-zh_TW: 黑色苦力怕頭形狀"	""
+zh_TW: 黑色苦力怕頭形狀"	"玄伏臨紋"
 "item.banner.creeper.blue"	"Blue Creeper Charge"	"Original Translation
 zh_CN: 蓝色苦力怕盾徽
-zh_TW: 藍色苦力怕頭形狀"	""
+zh_TW: 藍色苦力怕頭形狀"	"靛伏臨紋"
 "item.banner.creeper.brown"	"Brown Creeper Charge"	"Original Translation
 zh_CN: 棕色苦力怕盾徽
-zh_TW: 棕色苦力怕頭形狀"	""
+zh_TW: 棕色苦力怕頭形狀"	"褐伏臨紋"
 "item.banner.creeper.cyan"	"Cyan Creeper Charge"	"Original Translation
 zh_CN: 青色苦力怕盾徽
-zh_TW: 青綠色苦力怕頭形狀"	""
+zh_TW: 青綠色苦力怕頭形狀"	"黛伏臨紋"
 "item.banner.creeper.gray"	"Gray Creeper Charge"	"Original Translation
 zh_CN: 灰色苦力怕盾徽
-zh_TW: 灰色苦力怕頭形狀"	""
+zh_TW: 灰色苦力怕頭形狀"	"灰伏臨紋"
 "item.banner.creeper.green"	"Green Creeper Charge"	"Original Translation
 zh_CN: 绿色苦力怕盾徽
-zh_TW: 綠色苦力怕頭形狀"	""
+zh_TW: 綠色苦力怕頭形狀"	"綠伏臨紋"
 "item.banner.creeper.lightBlue"	"Light Blue Creeper Charge"	"Original Translation
 zh_CN: 淡蓝色苦力怕盾徽
-zh_TW: 淺藍色苦力怕頭形狀"	""
+zh_TW: 淺藍色苦力怕頭形狀"	"縹伏臨紋"
 "item.banner.creeper.lime"	"Lime Creeper Charge"	"Original Translation
 zh_CN: 黄绿色苦力怕盾徽
-zh_TW: 淡黃綠色苦力怕頭形狀"	""
+zh_TW: 淡黃綠色苦力怕頭形狀"	"翠伏臨紋"
 "item.banner.creeper.magenta"	"Magenta Creeper Charge"	"Original Translation
 zh_CN: 品红色苦力怕盾徽
-zh_TW: 洋紅色苦力怕頭形狀"	""
+zh_TW: 洋紅色苦力怕頭形狀"	"赬伏臨紋"
 "item.banner.creeper.orange"	"Orange Creeper Charge"	"Original Translation
 zh_CN: 橙色苦力怕盾徽
-zh_TW: 橙色苦力怕頭形狀"	""
+zh_TW: 橙色苦力怕頭形狀"	"橙伏臨紋"
 "item.banner.creeper.pink"	"Pink Creeper Charge"	"Original Translation
 zh_CN: 粉红色苦力怕盾徽
-zh_TW: 粉紅色苦力怕頭形狀"	""
+zh_TW: 粉紅色苦力怕頭形狀"	"紅伏臨紋"
 "item.banner.creeper.purple"	"Purple Creeper Charge"	"Original Translation
 zh_CN: 紫色苦力怕盾徽
-zh_TW: 紫色苦力怕頭形狀"	""
+zh_TW: 紫色苦力怕頭形狀"	"紫伏臨紋"
 "item.banner.creeper.red"	"Red Creeper Charge"	"Original Translation
 zh_CN: 红色苦力怕盾徽
-zh_TW: 紅色苦力怕頭形狀"	""
+zh_TW: 紅色苦力怕頭形狀"	"赤伏臨紋"
 "item.banner.creeper.silver"	"Light Gray Creeper Charge"	"Original Translation
 zh_CN: 淡灰色苦力怕盾徽
-zh_TW: 淺灰色苦力怕頭形狀"	""
+zh_TW: 淺灰色苦力怕頭形狀"	"蒼伏臨紋"
 "item.banner.creeper.white"	"White Creeper Charge"	"Original Translation
 zh_CN: 白色苦力怕盾徽
-zh_TW: 白色苦力怕頭形狀"	""
+zh_TW: 白色苦力怕頭形狀"	"素伏臨紋"
 "item.banner.creeper.yellow"	"Yellow Creeper Charge"	"Original Translation
 zh_CN: 黄色苦力怕盾徽
-zh_TW: 黃色苦力怕頭形狀"	""
+zh_TW: 黃色苦力怕頭形狀"	"黃伏臨紋"
 "item.banner.cross.black"	"Black Saltire"	"Original Translation
 zh_CN: 黑斜十字
-zh_TW: 黑色對角交叉"	""
+zh_TW: 黑色對角交叉"	"玄阡陌"
 "item.banner.cross.blue"	"Blue Saltire"	"Original Translation
 zh_CN: 蓝斜十字
-zh_TW: 藍色對角交叉"	""
+zh_TW: 藍色對角交叉"	"靛阡陌"
 "item.banner.cross.brown"	"Brown Saltire"	"Original Translation
 zh_CN: 棕斜十字
-zh_TW: 棕色對角交叉"	""
+zh_TW: 棕色對角交叉"	"褐阡陌"
 "item.banner.cross.cyan"	"Cyan Saltire"	"Original Translation
 zh_CN: 青斜十字
-zh_TW: 青綠色對角交叉"	""
+zh_TW: 青綠色對角交叉"	"黛阡陌"
 "item.banner.cross.gray"	"Gray Saltire"	"Original Translation
 zh_CN: 灰斜十字
-zh_TW: 灰色對角交叉"	""
+zh_TW: 灰色對角交叉"	"灰阡陌"
 "item.banner.cross.green"	"Green Saltire"	"Original Translation
 zh_CN: 绿斜十字
-zh_TW: 綠色對角交叉"	""
+zh_TW: 綠色對角交叉"	"綠阡陌"
 "item.banner.cross.lightBlue"	"Light Blue Saltire"	"Original Translation
 zh_CN: 淡蓝斜十字
-zh_TW: 淺藍色對角交叉"	""
+zh_TW: 淺藍色對角交叉"	"縹阡陌"
 "item.banner.cross.lime"	"Lime Saltire"	"Original Translation
 zh_CN: 黄绿斜十字
-zh_TW: 淡黃綠色對角交叉"	""
+zh_TW: 淡黃綠色對角交叉"	"翠阡陌"
 "item.banner.cross.magenta"	"Magenta Saltire"	"Original Translation
 zh_CN: 品红斜十字
-zh_TW: 洋紅色對角交叉"	""
+zh_TW: 洋紅色對角交叉"	"赬阡陌"
 "item.banner.cross.orange"	"Orange Saltire"	"Original Translation
 zh_CN: 橙斜十字
-zh_TW: 橙色對角交叉"	""
+zh_TW: 橙色對角交叉"	"橙阡陌"
 "item.banner.cross.pink"	"Pink Saltire"	"Original Translation
 zh_CN: 粉红斜十字
-zh_TW: 粉紅色對角交叉"	""
+zh_TW: 粉紅色對角交叉"	"紅阡陌"
 "item.banner.cross.purple"	"Purple Saltire"	"Original Translation
 zh_CN: 紫斜十字
-zh_TW: 紫色對角交叉"	""
+zh_TW: 紫色對角交叉"	"紫阡陌"
 "item.banner.cross.red"	"Red Saltire"	"Original Translation
 zh_CN: 红斜十字
-zh_TW: 紅色對角交叉"	""
+zh_TW: 紅色對角交叉"	"赤阡陌"
 "item.banner.cross.silver"	"Light Gray Saltire"	"Original Translation
 zh_CN: 淡灰斜十字
-zh_TW: 淺灰色對角交叉"	""
+zh_TW: 淺灰色對角交叉"	"蒼阡陌"
 "item.banner.cross.white"	"White Saltire"	"Original Translation
 zh_CN: 白斜十字
-zh_TW: 白色對角交叉"	""
+zh_TW: 白色對角交叉"	"素阡陌"
 "item.banner.cross.yellow"	"Yellow Saltire"	"Original Translation
 zh_CN: 黄斜十字
-zh_TW: 黃色對角交叉"	""
+zh_TW: 黃色對角交叉"	"黃阡陌"
 "item.banner.curly_border.black"	"Black Bordure Indented"	"Original Translation
 zh_CN: 黑色波纹边
-zh_TW: 黑色鋸齒框邊"	""
+zh_TW: 黑色鋸齒框邊"	"玄齒匡"
 "item.banner.curly_border.blue"	"Blue Bordure Indented"	"Original Translation
 zh_CN: 蓝色波纹边
-zh_TW: 藍色鋸齒框邊"	""
+zh_TW: 藍色鋸齒框邊"	"靛齒匡"
 "item.banner.curly_border.brown"	"Brown Bordure Indented"	"Original Translation
 zh_CN: 棕色波纹边
-zh_TW: 棕色鋸齒框邊"	""
+zh_TW: 棕色鋸齒框邊"	"褐齒匡"
 "item.banner.curly_border.cyan"	"Cyan Bordure Indented"	"Original Translation
 zh_CN: 青色波纹边
-zh_TW: 青色鋸齒框邊"	""
+zh_TW: 青色鋸齒框邊"	"黛齒匡"
 "item.banner.curly_border.gray"	"Gray Bordure Indented"	"Original Translation
 zh_CN: 灰色波纹边
-zh_TW: 灰色鋸齒框邊"	""
+zh_TW: 灰色鋸齒框邊"	"灰齒匡"
 "item.banner.curly_border.green"	"Green Bordure Indented"	"Original Translation
 zh_CN: 绿色波纹边
-zh_TW: 綠色鋸齒框邊"	""
+zh_TW: 綠色鋸齒框邊"	"綠齒匡"
 "item.banner.curly_border.lightBlue"	"Light Blue Bordure Indented"	"Original Translation
 zh_CN: 淡蓝色波纹边
-zh_TW: 淺藍色鋸齒框邊"	""
+zh_TW: 淺藍色鋸齒框邊"	"縹齒匡"
 "item.banner.curly_border.lime"	"Lime Bordure Indented"	"Original Translation
 zh_CN: 黄绿色波纹边
-zh_TW: 淡黃綠色鋸齒框邊"	""
+zh_TW: 淡黃綠色鋸齒框邊"	"翠齒匡"
 "item.banner.curly_border.magenta"	"Magenta Bordure Indented"	"Original Translation
 zh_CN: 品红色波纹边
-zh_TW: 洋紅色鋸齒框邊"	""
+zh_TW: 洋紅色鋸齒框邊"	"赬齒匡"
 "item.banner.curly_border.orange"	"Orange Bordure Indented"	"Original Translation
 zh_CN: 橙色波纹边
-zh_TW: 橙色鋸齒框邊"	""
+zh_TW: 橙色鋸齒框邊"	"橙齒匡"
 "item.banner.curly_border.pink"	"Pink Bordure Indented"	"Original Translation
 zh_CN: 粉红色波纹边
-zh_TW: 粉紅色鋸齒框邊"	""
+zh_TW: 粉紅色鋸齒框邊"	"紅齒匡"
 "item.banner.curly_border.purple"	"Purple Bordure Indented"	"Original Translation
 zh_CN: 紫色波纹边
-zh_TW: 紫色鋸齒框邊"	""
+zh_TW: 紫色鋸齒框邊"	"紫齒匡"
 "item.banner.curly_border.red"	"Red Bordure Indented"	"Original Translation
 zh_CN: 红色波纹边
-zh_TW: 紅色鋸齒框邊"	""
+zh_TW: 紅色鋸齒框邊"	"赤齒匡"
 "item.banner.curly_border.silver"	"Light Gray Bordure Indented"	"Original Translation
 zh_CN: 淡灰色波纹边
-zh_TW: 淺灰色鋸齒框邊"	""
+zh_TW: 淺灰色鋸齒框邊"	"蒼齒匡"
 "item.banner.curly_border.white"	"White Bordure Indented"	"Original Translation
 zh_CN: 白色波纹边
-zh_TW: 白色鋸齒框邊"	""
+zh_TW: 白色鋸齒框邊"	"素齒匡"
 "item.banner.curly_border.yellow"	"Yellow Bordure Indented"	"Original Translation
 zh_CN: 黄色波纹边
-zh_TW: 黃色鋸齒框邊"	""
+zh_TW: 黃色鋸齒框邊"	"黃齒匡"
 "item.banner.cyan.name"	"Cyan Banner"	"Original Translation
 zh_CN: 青色旗帜
-zh_TW: 青綠色旗幟"	""
+zh_TW: 青綠色旗幟"	"黛旗"
 "item.banner.diagonal_left.black"	"Black Per Bend Sinister"	"Original Translation
 zh_CN: 黑色左上三角
-zh_TW: 左上半部分黑色填滿"	""
+zh_TW: 左上半部分黑色填滿"	"右頂玄緞"
 "item.banner.diagonal_left.blue"	"Blue Per Bend Sinister"	"Original Translation
 zh_CN: 蓝色左上三角
-zh_TW: 左上半部分藍色填滿"	""
+zh_TW: 左上半部分藍色填滿"	"右頂靛緞"
 "item.banner.diagonal_left.brown"	"Brown Per Bend Sinister"	"Original Translation
 zh_CN: 棕色左上三角
-zh_TW: 左上半部分棕色填滿"	""
+zh_TW: 左上半部分棕色填滿"	"右頂褐緞"
 "item.banner.diagonal_left.cyan"	"Cyan Per Bend Sinister"	"Original Translation
 zh_CN: 青色左上三角
-zh_TW: 左上半部分青綠色填滿"	""
+zh_TW: 左上半部分青綠色填滿"	"右頂黛緞"
 "item.banner.diagonal_left.gray"	"Gray Per Bend Sinister"	"Original Translation
 zh_CN: 灰色左上三角
-zh_TW: 左上半部分灰色填滿"	""
+zh_TW: 左上半部分灰色填滿"	"右頂灰緞"
 "item.banner.diagonal_left.green"	"Green Per Bend Sinister"	"Original Translation
 zh_CN: 绿色左上三角
-zh_TW: 左上半部分綠色填滿"	""
+zh_TW: 左上半部分綠色填滿"	"右頂綠緞"
 "item.banner.diagonal_left.lightBlue"	"Light Blue Per Bend Sinister"	"Original Translation
 zh_CN: 淡蓝色左上三角
-zh_TW: 左上半部分淺藍色填滿"	""
+zh_TW: 左上半部分淺藍色填滿"	"右頂縹緞"
 "item.banner.diagonal_left.lime"	"Lime Per Bend Sinister"	"Original Translation
 zh_CN: 黄绿色左上三角
-zh_TW: 左上半部分淡黃綠色填滿"	""
+zh_TW: 左上半部分淡黃綠色填滿"	"右頂翠緞"
 "item.banner.diagonal_left.magenta"	"Magenta Per Bend Sinister"	"Original Translation
 zh_CN: 品红色左上三角
-zh_TW: 左上半部分洋紅色填滿"	""
+zh_TW: 左上半部分洋紅色填滿"	"右頂赬緞"
 "item.banner.diagonal_left.orange"	"Orange Per Bend Sinister"	"Original Translation
 zh_CN: 橙色左上三角
-zh_TW: 左上半部分橙色填滿"	""
+zh_TW: 左上半部分橙色填滿"	"右頂橙緞"
 "item.banner.diagonal_left.pink"	"Pink Per Bend Sinister"	"Original Translation
 zh_CN: 粉红色左上三角
-zh_TW: 左上半部分粉紅色填滿"	""
+zh_TW: 左上半部分粉紅色填滿"	"右頂紅緞"
 "item.banner.diagonal_left.purple"	"Purple Per Bend Sinister"	"Original Translation
 zh_CN: 紫色左上三角
-zh_TW: 左上半部分紫色填滿"	""
+zh_TW: 左上半部分紫色填滿"	"右頂紫緞"
 "item.banner.diagonal_left.red"	"Red Per Bend Sinister"	"Original Translation
 zh_CN: 红色左上三角
-zh_TW: 左上半部分紅色填滿"	""
+zh_TW: 左上半部分紅色填滿"	"右頂赤緞"
 "item.banner.diagonal_left.silver"	"Light Gray Per Bend Sinister"	"Original Translation
 zh_CN: 淡灰色左上三角
-zh_TW: 左上半部分淺灰色填滿"	""
+zh_TW: 左上半部分淺灰色填滿"	"右頂蒼緞"
 "item.banner.diagonal_left.white"	"White Per Bend Sinister"	"Original Translation
 zh_CN: 白色左上三角
-zh_TW: 左上半部分白色填滿"	""
+zh_TW: 左上半部分白色填滿"	"右頂素緞"
 "item.banner.diagonal_left.yellow"	"Yellow Per Bend Sinister"	"Original Translation
 zh_CN: 黄色左上三角
-zh_TW: 左上半部分黃色填滿"	""
+zh_TW: 左上半部分黃色填滿"	"右頂黃緞"
 "item.banner.diagonal_right.black"	"Black Per Bend"	"Original Translation
 zh_CN: 黑色右上三角
-zh_TW: 右上半部分黑色填滿"	""
+zh_TW: 右上半部分黑色填滿"	"左頂玄緞"
 "item.banner.diagonal_right.blue"	"Blue Per Bend"	"Original Translation
 zh_CN: 蓝色右上三角
-zh_TW: 右上半部分藍色填滿"	""
+zh_TW: 右上半部分藍色填滿"	"左頂靛緞"
 "item.banner.diagonal_right.brown"	"Brown Per Bend"	"Original Translation
 zh_CN: 棕色右上三角
-zh_TW: 右上半部分棕色填滿"	""
+zh_TW: 右上半部分棕色填滿"	"左頂褐緞"
 "item.banner.diagonal_right.cyan"	"Cyan Per Bend"	"Original Translation
 zh_CN: 青色右上三角
-zh_TW: 右上半部分青綠色填滿"	""
+zh_TW: 右上半部分青綠色填滿"	"左頂黛緞"
 "item.banner.diagonal_right.gray"	"Gray Per Bend"	"Original Translation
 zh_CN: 灰色右上三角
-zh_TW: 右上半部分灰色填滿"	""
+zh_TW: 右上半部分灰色填滿"	"左頂灰緞"
 "item.banner.diagonal_right.green"	"Green Per Bend"	"Original Translation
 zh_CN: 绿色右上三角
-zh_TW: 右上半部分綠色填滿"	""
+zh_TW: 右上半部分綠色填滿"	"左頂綠緞"
 "item.banner.diagonal_right.lightBlue"	"Light Blue Per Bend"	"Original Translation
 zh_CN: 淡蓝色右上三角
-zh_TW: 右上半部分淺藍色填滿"	""
+zh_TW: 右上半部分淺藍色填滿"	"左頂縹緞"
 "item.banner.diagonal_right.lime"	"Lime Per Bend"	"Original Translation
 zh_CN: 黄绿色右上三角
-zh_TW: 右上半部分淡黃綠色填滿"	""
+zh_TW: 右上半部分淡黃綠色填滿"	"左頂翠緞"
 "item.banner.diagonal_right.magenta"	"Magenta Per Bend"	"Original Translation
 zh_CN: 品红色右上三角
-zh_TW: 右上半部分洋紅色填滿"	""
+zh_TW: 右上半部分洋紅色填滿"	"左頂赬緞"
 "item.banner.diagonal_right.orange"	"Orange Per Bend"	"Original Translation
 zh_CN: 橙色右上三角
-zh_TW: 右上半部分橙色填滿"	""
+zh_TW: 右上半部分橙色填滿"	"左頂橙緞"
 "item.banner.diagonal_right.pink"	"Pink Per Bend"	"Original Translation
 zh_CN: 粉红色右上三角
-zh_TW: 右上半部分粉紅色填滿"	""
+zh_TW: 右上半部分粉紅色填滿"	"左頂紅緞"
 "item.banner.diagonal_right.purple"	"Purple Per Bend"	"Original Translation
 zh_CN: 紫色右上三角
-zh_TW: 右上半部分紫色填滿"	""
+zh_TW: 右上半部分紫色填滿"	"左頂紫緞"
 "item.banner.diagonal_right.red"	"Red Per Bend"	"Original Translation
 zh_CN: 红色右上三角
-zh_TW: 右上半部分紅色填滿"	""
+zh_TW: 右上半部分紅色填滿"	"左頂赤緞"
 "item.banner.diagonal_right.silver"	"Light Gray Per Bend"	"Original Translation
 zh_CN: 淡灰色右上三角
-zh_TW: 右上半部分淺灰色填滿"	""
+zh_TW: 右上半部分淺灰色填滿"	"左頂蒼緞"
 "item.banner.diagonal_right.white"	"White Per Bend"	"Original Translation
 zh_CN: 白色右上三角
-zh_TW: 右上半部分白色填滿"	""
+zh_TW: 右上半部分白色填滿"	"左頂素緞"
 "item.banner.diagonal_right.yellow"	"Yellow Per Bend"	"Original Translation
 zh_CN: 黄色右上三角
-zh_TW: 右上半部分黃色填滿"	""
+zh_TW: 右上半部分黃色填滿"	"左頂黃緞"
 "item.banner.diagonal_up_left.black"	"Black Per Bend Inverted"	"Original Translation
 zh_CN: 黑色左下三角
-zh_TW: 左下半部分黑色填滿"	""
+zh_TW: 左下半部分黑色填滿"	"右底玄緞"
 "item.banner.diagonal_up_left.blue"	"Blue Per Bend Inverted"	"Original Translation
 zh_CN: 蓝色左下三角
-zh_TW: 左下半部分藍色填滿"	""
+zh_TW: 左下半部分藍色填滿"	"右底靛緞"
 "item.banner.diagonal_up_left.brown"	"Brown Per Bend Inverted"	"Original Translation
 zh_CN: 棕色左下三角
-zh_TW: 左下半部分棕色填滿"	""
+zh_TW: 左下半部分棕色填滿"	"右底褐緞"
 "item.banner.diagonal_up_left.cyan"	"Cyan Per Bend Inverted"	"Original Translation
 zh_CN: 青色左下三角
-zh_TW: 左下半部分青綠色填滿"	""
+zh_TW: 左下半部分青綠色填滿"	"右底黛緞"
 "item.banner.diagonal_up_left.gray"	"Gray Per Bend Inverted"	"Original Translation
 zh_CN: 灰色左下三角
-zh_TW: 左下半部分灰色填滿"	""
+zh_TW: 左下半部分灰色填滿"	"右底灰緞"
 "item.banner.diagonal_up_left.green"	"Green Per Bend Inverted"	"Original Translation
 zh_CN: 绿色左下三角
-zh_TW: 左下半部分綠色填滿"	""
+zh_TW: 左下半部分綠色填滿"	"右底綠緞"
 "item.banner.diagonal_up_left.lightBlue"	"Light Blue Per Bend Inverted"	"Original Translation
 zh_CN: 淡蓝色左下三角
-zh_TW: 左下半部分淺藍色填滿"	""
+zh_TW: 左下半部分淺藍色填滿"	"右底縹緞"
 "item.banner.diagonal_up_left.lime"	"Lime Per Bend Inverted"	"Original Translation
 zh_CN: 黄绿色左下三角
-zh_TW: 左下半部分淡黃綠色填滿"	""
+zh_TW: 左下半部分淡黃綠色填滿"	"右底翠緞"
 "item.banner.diagonal_up_left.magenta"	"Magenta Per Bend Inverted"	"Original Translation
 zh_CN: 品红色左下三角
-zh_TW: 左下半部分洋紅色填滿"	""
+zh_TW: 左下半部分洋紅色填滿"	"右底赬緞"
 "item.banner.diagonal_up_left.orange"	"Orange Per Bend Inverted"	"Original Translation
 zh_CN: 橙色左下三角
-zh_TW: 左下半部分橙色填滿"	""
+zh_TW: 左下半部分橙色填滿"	"右底橙緞"
 "item.banner.diagonal_up_left.pink"	"Pink Per Bend Inverted"	"Original Translation
 zh_CN: 粉红色左下三角
-zh_TW: 左下半部分粉紅色填滿"	""
+zh_TW: 左下半部分粉紅色填滿"	"右底紅緞"
 "item.banner.diagonal_up_left.purple"	"Purple Per Bend Inverted"	"Original Translation
 zh_CN: 紫色左下三角
-zh_TW: 左下半部分紫色填滿"	""
+zh_TW: 左下半部分紫色填滿"	"右底紫緞"
 "item.banner.diagonal_up_left.red"	"Red Per Bend Inverted"	"Original Translation
 zh_CN: 红色左下三角
-zh_TW: 左下半部分紅色填滿"	""
+zh_TW: 左下半部分紅色填滿"	"右底赤緞"
 "item.banner.diagonal_up_left.silver"	"Light Gray Per Bend Inverted"	"Original Translation
 zh_CN: 淡灰色左下三角
-zh_TW: 左下半部分淺灰色填滿"	""
+zh_TW: 左下半部分淺灰色填滿"	"右底蒼緞"
 "item.banner.diagonal_up_left.white"	"White Per Bend Inverted"	"Original Translation
 zh_CN: 白色左下三角
-zh_TW: 左下半部分白色填滿"	""
+zh_TW: 左下半部分白色填滿"	"右底素緞"
 "item.banner.diagonal_up_left.yellow"	"Yellow Per Bend Inverted"	"Original Translation
 zh_CN: 黄色左下三角
-zh_TW: 左下半部分黃色填滿"	""
+zh_TW: 左下半部分黃色填滿"	"右底黃緞"
 "item.banner.diagonal_up_right.black"	"Black Per Bend Sinister Inverted"	"Original Translation
 zh_CN: 黑色右下三角
-zh_TW: 右下半部分黑色填滿"	""
+zh_TW: 右下半部分黑色填滿"	"左底玄緞"
 "item.banner.diagonal_up_right.blue"	"Blue Per Bend Sinister Inverted"	"Original Translation
 zh_CN: 蓝色右下三角
-zh_TW: 右下半部分藍色填滿"	""
+zh_TW: 右下半部分藍色填滿"	"左底靛緞"
 "item.banner.diagonal_up_right.brown"	"Brown Per Bend Sinister Inverted"	"Original Translation
 zh_CN: 棕色右下三角
-zh_TW: 右下半部分棕色填滿"	""
+zh_TW: 右下半部分棕色填滿"	"左底褐緞"
 "item.banner.diagonal_up_right.cyan"	"Cyan Per Bend Sinister Inverted"	"Original Translation
 zh_CN: 青色右下三角
-zh_TW: 右下半部分青綠色填滿"	""
+zh_TW: 右下半部分青綠色填滿"	"左底黛緞"
 "item.banner.diagonal_up_right.gray"	"Gray Per Bend Sinister Inverted"	"Original Translation
 zh_CN: 灰色右下三角
-zh_TW: 右下半部分灰色填滿"	""
+zh_TW: 右下半部分灰色填滿"	"左底灰緞"
 "item.banner.diagonal_up_right.green"	"Green Per Bend Sinister Inverted"	"Original Translation
 zh_CN: 绿色右下三角
-zh_TW: 右下半部分綠色填滿"	""
+zh_TW: 右下半部分綠色填滿"	"左底綠緞"
 "item.banner.diagonal_up_right.lightBlue"	"Light Blue Per Bend Sinister Inverted"	"Original Translation
 zh_CN: 淡蓝色右下三角
-zh_TW: 右下半部分淺藍色填滿"	""
+zh_TW: 右下半部分淺藍色填滿"	"左底縹緞"
 "item.banner.diagonal_up_right.lime"	"Lime Per Bend Sinister Inverted"	"Original Translation
 zh_CN: 黄绿色右下三角
-zh_TW: 右下半部分淡黃綠色填滿"	""
+zh_TW: 右下半部分淡黃綠色填滿"	"左底翠緞"
 "item.banner.diagonal_up_right.magenta"	"Magenta Per Bend Sinister Inverted"	"Original Translation
 zh_CN: 品红色右下三角
-zh_TW: 右下半部分洋紅色填滿"	""
+zh_TW: 右下半部分洋紅色填滿"	"左底赬緞"
 "item.banner.diagonal_up_right.orange"	"Orange Per Bend Sinister Inverted"	"Original Translation
 zh_CN: 橙色右下三角
-zh_TW: 右下半部分橙色填滿"	""
+zh_TW: 右下半部分橙色填滿"	"左底橙緞"
 "item.banner.diagonal_up_right.pink"	"Pink Per Bend Sinister Inverted"	"Original Translation
 zh_CN: 粉红色右下三角
-zh_TW: 右下半部分粉紅色填滿"	""
+zh_TW: 右下半部分粉紅色填滿"	"左底紅緞"
 "item.banner.diagonal_up_right.purple"	"Purple Per Bend Sinister Inverted"	"Original Translation
 zh_CN: 紫色右下三角
-zh_TW: 右下半部分紫色填滿"	""
+zh_TW: 右下半部分紫色填滿"	"左底紫緞"
 "item.banner.diagonal_up_right.red"	"Red Per Bend Sinister Inverted"	"Original Translation
 zh_CN: 红色右下三角
-zh_TW: 右下半部分紅色填滿"	""
+zh_TW: 右下半部分紅色填滿"	"左底赤緞"
 "item.banner.diagonal_up_right.silver"	"Light Gray Per Bend Sinister Inverted"	"Original Translation
 zh_CN: 淡灰色右下三角
-zh_TW: 右下半部分淺灰色填滿"	""
+zh_TW: 右下半部分淺灰色填滿"	"左底蒼緞"
 "item.banner.diagonal_up_right.white"	"White Per Bend Sinister Inverted"	"Original Translation
 zh_CN: 白色右下三角
-zh_TW: 右下半部分白色填滿"	""
+zh_TW: 右下半部分白色填滿"	"左底素緞"
 "item.banner.diagonal_up_right.yellow"	"Yellow Per Bend Sinister Inverted"	"Original Translation
 zh_CN: 黄色右下三角
-zh_TW: 右下半部分黃色填滿"	""
+zh_TW: 右下半部分黃色填滿"	"左底黃緞"
 "item.banner.flow.black"	"Black Flow"	"Original Translation
 zh_CN: 黑色涡流
-zh_TW: 黑色流動"	""
+zh_TW: 黑色流動"	"玄氣洄紋"
 "item.banner.flow.blue"	"Blue Flow"	"Original Translation
 zh_CN: 蓝色涡流
-zh_TW: 藍色流動"	""
+zh_TW: 藍色流動"	"靛氣洄紋"
 "item.banner.flow.brown"	"Brown Flow"	"Original Translation
 zh_CN: 棕色涡流
-zh_TW: 棕色流動"	""
+zh_TW: 棕色流動"	"褐氣洄紋"
 "item.banner.flow.cyan"	"Cyan Flow"	"Original Translation
 zh_CN: 青色涡流
-zh_TW: 青綠色流動"	""
+zh_TW: 青綠色流動"	"黛氣洄紋"
 "item.banner.flow.gray"	"Gray Flow"	"Original Translation
 zh_CN: 灰色涡流
-zh_TW: 灰色流動"	""
+zh_TW: 灰色流動"	"灰氣洄紋"
 "item.banner.flow.green"	"Green Flow"	"Original Translation
 zh_CN: 绿色涡流
-zh_TW: 綠色流動"	""
+zh_TW: 綠色流動"	"綠氣洄紋"
 "item.banner.flow.lightBlue"	"Light Blue Flow"	"Original Translation
 zh_CN: 淡蓝色涡流
-zh_TW: 淺藍色流動"	""
+zh_TW: 淺藍色流動"	"縹氣洄紋"
 "item.banner.flow.lime"	"Lime Flow"	"Original Translation
 zh_CN: 黄绿色涡流
-zh_TW: 淡黃綠色流動"	""
+zh_TW: 淡黃綠色流動"	"翠氣洄紋"
 "item.banner.flow.magenta"	"Magenta Flow"	"Original Translation
 zh_CN: 品红色涡流
-zh_TW: 洋紅色流動"	""
+zh_TW: 洋紅色流動"	"赬氣洄紋"
 "item.banner.flow.orange"	"Orange Flow"	"Original Translation
 zh_CN: 橙色涡流
-zh_TW: 橙色流動"	""
+zh_TW: 橙色流動"	"橙氣洄紋"
 "item.banner.flow.pink"	"Pink Flow"	"Original Translation
 zh_CN: 粉红色涡流
-zh_TW: 粉紅色流動"	""
+zh_TW: 粉紅色流動"	"紅氣洄紋"
 "item.banner.flow.purple"	"Purple Flow"	"Original Translation
 zh_CN: 紫色涡流
-zh_TW: 紫色流動"	""
+zh_TW: 紫色流動"	"紫氣洄紋"
 "item.banner.flow.red"	"Red Flow"	"Original Translation
 zh_CN: 红色涡流
-zh_TW: 紅色流動"	""
+zh_TW: 紅色流動"	"赤氣洄紋"
 "item.banner.flow.silver"	"Light Gray Flow"	"Original Translation
 zh_CN: 淡灰色涡流
-zh_TW: 淺灰色流動"	""
+zh_TW: 淺灰色流動"	"蒼氣洄紋"
 "item.banner.flow.white"	"White Flow"	"Original Translation
 zh_CN: 白色涡流
-zh_TW: 白色流動"	""
+zh_TW: 白色流動"	"素氣洄紋"
 "item.banner.flow.yellow"	"Yellow Flow"	"Original Translation
 zh_CN: 黄色涡流
-zh_TW: 黃色流動"	""
+zh_TW: 黃色流動"	"黃氣洄紋"
 "item.banner.flower.black"	"Black Flower Charge"	"Original Translation
 zh_CN: 黑色花朵盾徽
-zh_TW: 黑色花朵形狀"	""
+zh_TW: 黑色花朵形狀"	"玄花紋"
 "item.banner.flower.blue"	"Blue Flower Charge"	"Original Translation
 zh_CN: 蓝色花朵盾徽
-zh_TW: 藍色花朵形狀"	""
+zh_TW: 藍色花朵形狀"	"靛花紋"
 "item.banner.flower.brown"	"Brown Flower Charge"	"Original Translation
 zh_CN: 棕色花朵盾徽
-zh_TW: 棕色花朵形狀"	""
+zh_TW: 棕色花朵形狀"	"褐花紋"
 "item.banner.flower.cyan"	"Cyan Flower Charge"	"Original Translation
 zh_CN: 青色花朵盾徽
-zh_TW: 青綠色花朵形狀"	""
+zh_TW: 青綠色花朵形狀"	"黛花紋"
 "item.banner.flower.gray"	"Gray Flower Charge"	"Original Translation
 zh_CN: 灰色花朵盾徽
-zh_TW: 灰色花朵形狀"	""
+zh_TW: 灰色花朵形狀"	"灰花紋"
 "item.banner.flower.green"	"Green Flower Charge"	"Original Translation
 zh_CN: 绿色花朵盾徽
-zh_TW: 綠色花朵形狀"	""
+zh_TW: 綠色花朵形狀"	"綠花紋"
 "item.banner.flower.lightBlue"	"Light Blue Flower Charge"	"Original Translation
 zh_CN: 淡蓝色花朵盾徽
-zh_TW: 淺藍色花朵形狀"	""
+zh_TW: 淺藍色花朵形狀"	"縹花紋"
 "item.banner.flower.lime"	"Lime Flower Charge"	"Original Translation
 zh_CN: 黄绿色花朵盾徽
-zh_TW: 淡黃綠色花朵形狀"	""
+zh_TW: 淡黃綠色花朵形狀"	"翠花紋"
 "item.banner.flower.magenta"	"Magenta Flower Charge"	"Original Translation
 zh_CN: 品红色花朵盾徽
-zh_TW: 洋紅色花朵形狀"	""
+zh_TW: 洋紅色花朵形狀"	"赬花紋"
 "item.banner.flower.orange"	"Orange Flower Charge"	"Original Translation
 zh_CN: 橙色花朵盾徽
-zh_TW: 橙色花朵形狀"	""
+zh_TW: 橙色花朵形狀"	"橙花紋"
 "item.banner.flower.pink"	"Pink Flower Charge"	"Original Translation
 zh_CN: 粉红色花朵盾徽
-zh_TW: 粉紅色花朵形狀"	""
+zh_TW: 粉紅色花朵形狀"	"紅花紋"
 "item.banner.flower.purple"	"Purple Flower Charge"	"Original Translation
 zh_CN: 紫色花朵盾徽
-zh_TW: 紫色花朵形狀"	""
+zh_TW: 紫色花朵形狀"	"紫花紋"
 "item.banner.flower.red"	"Red Flower Charge"	"Original Translation
 zh_CN: 红色花朵盾徽
-zh_TW: 紅色花朵形狀"	""
+zh_TW: 紅色花朵形狀"	"赤花紋"
 "item.banner.flower.silver"	"Light Gray Flower Charge"	"Original Translation
 zh_CN: 淡灰色花朵盾徽
-zh_TW: 淺灰色花朵形狀"	""
+zh_TW: 淺灰色花朵形狀"	"蒼花紋"
 "item.banner.flower.white"	"White Flower Charge"	"Original Translation
 zh_CN: 白色花朵盾徽
-zh_TW: 白色花朵形狀"	""
+zh_TW: 白色花朵形狀"	"素花紋"
 "item.banner.flower.yellow"	"Yellow Flower Charge"	"Original Translation
 zh_CN: 黄色花朵盾徽
-zh_TW: 黃色花朵形狀"	""
+zh_TW: 黃色花朵形狀"	"黃花紋"
 "item.banner.globe.black"	"Black Globe"	"Original Translation
 zh_CN: 黑色地球
-zh_TW: 黑色球體"	""
+zh_TW: 黑色球體"	"玄坤輿紋"
 "item.banner.globe.blue"	"Blue Globe"	"Original Translation
 zh_CN: 蓝色地球
-zh_TW: 藍色球體"	""
+zh_TW: 藍色球體"	"靛坤輿紋"
 "item.banner.globe.brown"	"Brown Globe"	"Original Translation
 zh_CN: 棕色地球
-zh_TW: 棕色球體"	""
+zh_TW: 棕色球體"	"褐坤輿紋"
 "item.banner.globe.cyan"	"Cyan Globe"	"Original Translation
 zh_CN: 青色地球
-zh_TW: 青綠色球體"	""
+zh_TW: 青綠色球體"	"黛坤輿紋"
 "item.banner.globe.gray"	"Gray Globe"	"Original Translation
 zh_CN: 灰色地球
-zh_TW: 灰色球體"	""
+zh_TW: 灰色球體"	"灰坤輿紋"
 "item.banner.globe.green"	"Green Globe"	"Original Translation
 zh_CN: 绿色地球
-zh_TW: 綠色球體"	""
+zh_TW: 綠色球體"	"綠坤輿紋"
 "item.banner.globe.lightBlue"	"Light Blue Globe"	"Original Translation
 zh_CN: 淡蓝色地球
-zh_TW: 淺藍色球體"	""
+zh_TW: 淺藍色球體"	"縹坤輿紋"
 "item.banner.globe.lime"	"Lime Globe"	"Original Translation
 zh_CN: 黄绿色地球
-zh_TW: 淡黃綠色球體"	""
+zh_TW: 淡黃綠色球體"	"翠坤輿紋"
 "item.banner.globe.magenta"	"Magenta Globe"	"Original Translation
 zh_CN: 品红色地球
-zh_TW: 洋紅色球體"	""
+zh_TW: 洋紅色球體"	"赬坤輿紋"
 "item.banner.globe.orange"	"Orange Globe"	"Original Translation
 zh_CN: 橙色地球
-zh_TW: 橙色球體"	""
+zh_TW: 橙色球體"	"橙坤輿紋"
 "item.banner.globe.pink"	"Pink Globe"	"Original Translation
 zh_CN: 粉红色地球
-zh_TW: 粉紅色球體"	""
+zh_TW: 粉紅色球體"	"紅坤輿紋"
 "item.banner.globe.purple"	"Purple Globe"	"Original Translation
 zh_CN: 紫色地球
-zh_TW: 紫色球體"	""
+zh_TW: 紫色球體"	"紫坤輿紋"
 "item.banner.globe.red"	"Red Globe"	"Original Translation
 zh_CN: 红色地球
-zh_TW: 紅色球體"	""
+zh_TW: 紅色球體"	"赤坤輿紋"
 "item.banner.globe.silver"	"Light Gray Globe"	"Original Translation
 zh_CN: 淡灰色地球
-zh_TW: 淺灰色球體"	""
+zh_TW: 淺灰色球體"	"蒼坤輿紋"
 "item.banner.globe.white"	"White Globe"	"Original Translation
 zh_CN: 白色地球
-zh_TW: 白色球體"	""
+zh_TW: 白色球體"	"素坤輿紋"
 "item.banner.globe.yellow"	"Yellow Globe"	"Original Translation
 zh_CN: 黄色地球
-zh_TW: 黃色球體"	""
+zh_TW: 黃色球體"	"黃坤輿紋"
 "item.banner.gradient.black"	"Black Gradient"	"Original Translation
 zh_CN: 黑色自上渐淡
-zh_TW: 黑色往下漸淡"	""
+zh_TW: 黑色往下漸淡"	"玄底傾"
 "item.banner.gradient.blue"	"Blue Gradient"	"Original Translation
 zh_CN: 蓝色自上渐淡
-zh_TW: 藍色往下漸淡"	""
+zh_TW: 藍色往下漸淡"	"靛底傾"
 "item.banner.gradient.brown"	"Brown Gradient"	"Original Translation
 zh_CN: 棕色自上渐淡
-zh_TW: 棕色往下漸淡"	""
+zh_TW: 棕色往下漸淡"	"褐底傾"
 "item.banner.gradient.cyan"	"Cyan Gradient"	"Original Translation
 zh_CN: 青色自上渐淡
-zh_TW: 青綠色往下漸淡"	""
+zh_TW: 青綠色往下漸淡"	"黛底傾"
 "item.banner.gradient.gray"	"Gray Gradient"	"Original Translation
 zh_CN: 灰色自上渐淡
-zh_TW: 灰色往下漸淡"	""
+zh_TW: 灰色往下漸淡"	"灰底傾"
 "item.banner.gradient.green"	"Green Gradient"	"Original Translation
 zh_CN: 绿色自上渐淡
-zh_TW: 綠色往下漸淡"	""
+zh_TW: 綠色往下漸淡"	"綠底傾"
 "item.banner.gradient.lightBlue"	"Light Blue Gradient"	"Original Translation
 zh_CN: 淡蓝色自上渐淡
-zh_TW: 淺藍色往下漸淡"	""
+zh_TW: 淺藍色往下漸淡"	"縹底傾"
 "item.banner.gradient.lime"	"Lime Gradient"	"Original Translation
 zh_CN: 黄绿色自上渐淡
-zh_TW: 淡黃綠色往下漸淡"	""
+zh_TW: 淡黃綠色往下漸淡"	"翠底傾"
 "item.banner.gradient.magenta"	"Magenta Gradient"	"Original Translation
 zh_CN: 品红色自上渐淡
-zh_TW: 洋紅色往下漸淡"	""
+zh_TW: 洋紅色往下漸淡"	"赬底傾"
 "item.banner.gradient.orange"	"Orange Gradient"	"Original Translation
 zh_CN: 橙色自上渐淡
-zh_TW: 橙色往下漸淡"	""
+zh_TW: 橙色往下漸淡"	"橙底傾"
 "item.banner.gradient.pink"	"Pink Gradient"	"Original Translation
 zh_CN: 粉红色自上渐淡
-zh_TW: 粉紅色往下漸淡"	""
+zh_TW: 粉紅色往下漸淡"	"紅底傾"
 "item.banner.gradient.purple"	"Purple Gradient"	"Original Translation
 zh_CN: 紫色自上渐淡
-zh_TW: 紫色往下漸淡"	""
+zh_TW: 紫色往下漸淡"	"紫底傾"
 "item.banner.gradient.red"	"Red Gradient"	"Original Translation
 zh_CN: 红色自上渐淡
-zh_TW: 紅色往下漸淡"	""
+zh_TW: 紅色往下漸淡"	"赤底傾"
 "item.banner.gradient.silver"	"Light Gray Gradient"	"Original Translation
 zh_CN: 淡灰色自上渐淡
-zh_TW: 淺灰色往下漸淡"	""
+zh_TW: 淺灰色往下漸淡"	"蒼底傾"
 "item.banner.gradient.white"	"White Gradient"	"Original Translation
 zh_CN: 白色自上渐淡
-zh_TW: 白色往下漸淡"	""
+zh_TW: 白色往下漸淡"	"素底傾"
 "item.banner.gradient.yellow"	"Yellow Gradient"	"Original Translation
 zh_CN: 黄色自上渐淡
-zh_TW: 黃色往下漸淡"	""
+zh_TW: 黃色往下漸淡"	"黃底傾"
 "item.banner.gradient_up.black"	"Black Base Gradient"	"Original Translation
 zh_CN: 黑色自下渐淡
-zh_TW: 黑色往上漸淡"	""
+zh_TW: 黑色往上漸淡"	"玄頂傾"
 "item.banner.gradient_up.blue"	"Blue Base Gradient"	"Original Translation
 zh_CN: 蓝色自下渐淡
-zh_TW: 藍色往上漸淡"	""
+zh_TW: 藍色往上漸淡"	"靛頂傾"
 "item.banner.gradient_up.brown"	"Brown Base Gradient"	"Original Translation
 zh_CN: 棕色自下渐淡
-zh_TW: 棕色往上漸淡"	""
+zh_TW: 棕色往上漸淡"	"褐頂傾"
 "item.banner.gradient_up.cyan"	"Cyan Base Gradient"	"Original Translation
 zh_CN: 青色自下渐淡
-zh_TW: 青綠色往上漸淡"	""
+zh_TW: 青綠色往上漸淡"	"黛頂傾"
 "item.banner.gradient_up.gray"	"Gray Base Gradient"	"Original Translation
 zh_CN: 灰色自下渐淡
-zh_TW: 灰色往上漸淡"	""
+zh_TW: 灰色往上漸淡"	"灰頂傾"
 "item.banner.gradient_up.green"	"Green Base Gradient"	"Original Translation
 zh_CN: 绿色自下渐淡
-zh_TW: 綠色往上漸淡"	""
+zh_TW: 綠色往上漸淡"	"綠頂傾"
 "item.banner.gradient_up.lightBlue"	"Light Blue Base Gradient"	"Original Translation
 zh_CN: 淡蓝色自下渐淡
-zh_TW: 淺藍色往上漸淡"	""
+zh_TW: 淺藍色往上漸淡"	"縹頂傾"
 "item.banner.gradient_up.lime"	"Lime Base Gradient"	"Original Translation
 zh_CN: 黄绿色自下渐淡
-zh_TW: 淡黃綠色往上漸淡"	""
+zh_TW: 淡黃綠色往上漸淡"	"翠頂傾"
 "item.banner.gradient_up.magenta"	"Magenta Base Gradient"	"Original Translation
 zh_CN: 品红色自下渐淡
-zh_TW: 洋紅色往上漸淡"	""
+zh_TW: 洋紅色往上漸淡"	"赬頂傾"
 "item.banner.gradient_up.orange"	"Orange Base Gradient"	"Original Translation
 zh_CN: 橙色自下渐淡
-zh_TW: 橙色往上漸淡"	""
+zh_TW: 橙色往上漸淡"	"橙頂傾"
 "item.banner.gradient_up.pink"	"Pink Base Gradient"	"Original Translation
 zh_CN: 粉红色自下渐淡
-zh_TW: 粉紅色往上漸淡"	""
+zh_TW: 粉紅色往上漸淡"	"紅頂傾"
 "item.banner.gradient_up.purple"	"Purple Base Gradient"	"Original Translation
 zh_CN: 紫色自下渐淡
-zh_TW: 紫色往上漸淡"	""
+zh_TW: 紫色往上漸淡"	"紫頂傾"
 "item.banner.gradient_up.red"	"Red Base Gradient"	"Original Translation
 zh_CN: 红色自下渐淡
-zh_TW: 紅色往上漸淡"	""
+zh_TW: 紅色往上漸淡"	"赤頂傾"
 "item.banner.gradient_up.silver"	"Light Gray Base Gradient"	"Original Translation
 zh_CN: 淡灰色自下渐淡
-zh_TW: 淺灰色往上漸淡"	""
+zh_TW: 淺灰色往上漸淡"	"蒼頂傾"
 "item.banner.gradient_up.white"	"White Base Gradient"	"Original Translation
 zh_CN: 白色自下渐淡
-zh_TW: 白色往上漸淡"	""
+zh_TW: 白色往上漸淡"	"素頂傾"
 "item.banner.gradient_up.yellow"	"Yellow Base Gradient"	"Original Translation
 zh_CN: 黄色自下渐淡
-zh_TW: 黃色往上漸淡"	""
+zh_TW: 黃色往上漸淡"	"黃頂傾"
 "item.banner.gray.name"	"Gray Banner"	"Original Translation
 zh_CN: 灰色旗帜
-zh_TW: 灰色旗幟"	""
+zh_TW: 灰色旗幟"	"灰旗"
 "item.banner.green.name"	"Green Banner"	"Original Translation
 zh_CN: 绿色旗帜
-zh_TW: 綠色旗幟"	""
+zh_TW: 綠色旗幟"	"綠旗"
 "item.banner.guster.black"	"Black Guster"	"Original Translation
 zh_CN: 黑色旋风
-zh_TW: 黑色沙風怪"	""
+zh_TW: 黑色沙風怪"	"玄飆紋"
 "item.banner.guster.blue"	"Blue Guster"	"Original Translation
 zh_CN: 蓝色旋风
-zh_TW: 藍色沙風怪"	""
+zh_TW: 藍色沙風怪"	"靛飆紋"
 "item.banner.guster.brown"	"Brown Guster"	"Original Translation
 zh_CN: 棕色旋风
-zh_TW: 棕色沙風怪"	""
+zh_TW: 棕色沙風怪"	"褐飆紋"
 "item.banner.guster.cyan"	"Cyan Guster"	"Original Translation
 zh_CN: 青色旋风
-zh_TW: 青綠色沙風怪"	""
+zh_TW: 青綠色沙風怪"	"黛飆紋"
 "item.banner.guster.gray"	"Gray Guster"	"Original Translation
 zh_CN: 灰色旋风
-zh_TW: 灰色沙風怪"	""
+zh_TW: 灰色沙風怪"	"灰飆紋"
 "item.banner.guster.green"	"Green Guster"	"Original Translation
 zh_CN: 绿色旋风
-zh_TW: 綠色沙風怪"	""
+zh_TW: 綠色沙風怪"	"綠飆紋"
 "item.banner.guster.lightBlue"	"Light Blue Guster"	"Original Translation
 zh_CN: 淡蓝色旋风
-zh_TW: 淺藍色沙風怪"	""
+zh_TW: 淺藍色沙風怪"	"縹飆紋"
 "item.banner.guster.lime"	"Lime Guster"	"Original Translation
 zh_CN: 黄绿色旋风
-zh_TW: 淡黃綠色沙風怪"	""
+zh_TW: 淡黃綠色沙風怪"	"翠飆紋"
 "item.banner.guster.magenta"	"Magenta Guster"	"Original Translation
 zh_CN: 品红色旋风
-zh_TW: 洋紅色沙風怪"	""
+zh_TW: 洋紅色沙風怪"	"赬飆紋"
 "item.banner.guster.orange"	"Orange Guster"	"Original Translation
 zh_CN: 橙色旋风
-zh_TW: 橙色沙風怪"	""
+zh_TW: 橙色沙風怪"	"橙飆紋"
 "item.banner.guster.pink"	"Pink Guster"	"Original Translation
 zh_CN: 粉红色旋风
-zh_TW: 粉紅色沙風怪"	""
+zh_TW: 粉紅色沙風怪"	"紅飆紋"
 "item.banner.guster.purple"	"Purple Guster"	"Original Translation
 zh_CN: 紫色旋风
-zh_TW: 紫色沙風怪"	""
+zh_TW: 紫色沙風怪"	"紫飆紋"
 "item.banner.guster.red"	"Red Guster"	"Original Translation
 zh_CN: 红色旋风
-zh_TW: 紅色沙風怪"	""
+zh_TW: 紅色沙風怪"	"赤飆紋"
 "item.banner.guster.silver"	"Light Gray Guster"	"Original Translation
 zh_CN: 淡灰色旋风
-zh_TW: 淺灰色沙風怪"	""
+zh_TW: 淺灰色沙風怪"	"蒼飆紋"
 "item.banner.guster.white"	"White Guster"	"Original Translation
 zh_CN: 白色旋风
-zh_TW: 白色沙風怪"	""
+zh_TW: 白色沙風怪"	"素飆紋"
 "item.banner.guster.yellow"	"Yellow Guster"	"Original Translation
 zh_CN: 黄色旋风
-zh_TW: 黃色沙風怪"	""
+zh_TW: 黃色沙風怪"	"黃飆紋"
 "item.banner.half_horizontal.black"	"Black Per Fess"	"Original Translation
 zh_CN: 黑色上半方形
-zh_TW: 上半部分黑色填滿"	""
+zh_TW: 上半部分黑色填滿"	"頂玄緞"
 "item.banner.half_horizontal.blue"	"Blue Per Fess"	"Original Translation
 zh_CN: 蓝色上半方形
-zh_TW: 上半部分藍色填滿"	""
+zh_TW: 上半部分藍色填滿"	"頂靛緞"
 "item.banner.half_horizontal.brown"	"Brown Per Fess"	"Original Translation
 zh_CN: 棕色上半方形
-zh_TW: 上半部分棕色填滿"	""
+zh_TW: 上半部分棕色填滿"	"頂褐緞"
 "item.banner.half_horizontal.cyan"	"Cyan Per Fess"	"Original Translation
 zh_CN: 青色上半方形
-zh_TW: 上半部分青綠色填滿"	""
+zh_TW: 上半部分青綠色填滿"	"頂黛緞"
 "item.banner.half_horizontal.gray"	"Gray Per Fess"	"Original Translation
 zh_CN: 灰色上半方形
-zh_TW: 上半部分灰色填滿"	""
+zh_TW: 上半部分灰色填滿"	"頂灰緞"
 "item.banner.half_horizontal.green"	"Green Per Fess"	"Original Translation
 zh_CN: 绿色上半方形
-zh_TW: 上半部分綠色填滿"	""
+zh_TW: 上半部分綠色填滿"	"頂綠緞"
 "item.banner.half_horizontal.lightBlue"	"Light Blue Per Fess"	"Original Translation
 zh_CN: 淡蓝色上半方形
-zh_TW: 上半部分淺藍色填滿"	""
+zh_TW: 上半部分淺藍色填滿"	"頂縹緞"
 "item.banner.half_horizontal.lime"	"Lime Per Fess"	"Original Translation
 zh_CN: 黄绿色上半方形
-zh_TW: 上半部分淡黃綠色填滿"	""
+zh_TW: 上半部分淡黃綠色填滿"	"頂翠緞"
 "item.banner.half_horizontal.magenta"	"Magenta Per Fess"	"Original Translation
 zh_CN: 品红色上半方形
-zh_TW: 上半部分洋紅色填滿"	""
+zh_TW: 上半部分洋紅色填滿"	"頂赬緞"
 "item.banner.half_horizontal.orange"	"Orange Per Fess"	"Original Translation
 zh_CN: 橙色上半方形
-zh_TW: 上半部分橙色填滿"	""
+zh_TW: 上半部分橙色填滿"	"頂橙緞"
 "item.banner.half_horizontal.pink"	"Pink Per Fess"	"Original Translation
 zh_CN: 粉红色上半方形
-zh_TW: 上半部分粉紅色填滿"	""
+zh_TW: 上半部分粉紅色填滿"	"頂紅緞"
 "item.banner.half_horizontal.purple"	"Purple Per Fess"	"Original Translation
 zh_CN: 紫色上半方形
-zh_TW: 上半部分紫色填滿"	""
+zh_TW: 上半部分紫色填滿"	"頂紫緞"
 "item.banner.half_horizontal.red"	"Red Per Fess"	"Original Translation
 zh_CN: 红色上半方形
-zh_TW: 上半部分紅色填滿"	""
+zh_TW: 上半部分紅色填滿"	"頂赤緞"
 "item.banner.half_horizontal.silver"	"Light Gray Per Fess"	"Original Translation
 zh_CN: 淡灰色上半方形
-zh_TW: 上半部分淺灰色填滿"	""
+zh_TW: 上半部分淺灰色填滿"	"頂蒼緞"
 "item.banner.half_horizontal.white"	"White Per Fess"	"Original Translation
 zh_CN: 白色上半方形
-zh_TW: 上半部分白色填滿"	""
+zh_TW: 上半部分白色填滿"	"頂素緞"
 "item.banner.half_horizontal.yellow"	"Yellow Per Fess"	"Original Translation
 zh_CN: 黄色上半方形
-zh_TW: 上半部分黃色填滿"	""
+zh_TW: 上半部分黃色填滿"	"頂黃緞"
 "item.banner.half_horizontal_bottom.black"	"Black Per Fess Inverted"	"Original Translation
 zh_CN: 黑色下半方形
-zh_TW: 下半部分黑色填滿"	""
+zh_TW: 下半部分黑色填滿"	"底玄緞"
 "item.banner.half_horizontal_bottom.blue"	"Blue Per Fess Inverted"	"Original Translation
 zh_CN: 蓝色下半方形
-zh_TW: 下半部分藍色填滿"	""
+zh_TW: 下半部分藍色填滿"	"底靛緞"
 "item.banner.half_horizontal_bottom.brown"	"Brown Per Fess Inverted"	"Original Translation
 zh_CN: 棕色下半方形
-zh_TW: 下半部分棕色填滿"	""
+zh_TW: 下半部分棕色填滿"	"底褐緞"
 "item.banner.half_horizontal_bottom.cyan"	"Cyan Per Fess Inverted"	"Original Translation
 zh_CN: 青色下半方形
-zh_TW: 下半部分青綠色填滿"	""
+zh_TW: 下半部分青綠色填滿"	"底黛緞"
 "item.banner.half_horizontal_bottom.gray"	"Gray Per Fess Inverted"	"Original Translation
 zh_CN: 灰色下半方形
-zh_TW: 下半部分灰色填滿"	""
+zh_TW: 下半部分灰色填滿"	"底灰緞"
 "item.banner.half_horizontal_bottom.green"	"Green Per Fess Inverted"	"Original Translation
 zh_CN: 绿色下半方形
-zh_TW: 下半部分綠色填滿"	""
+zh_TW: 下半部分綠色填滿"	"底綠緞"
 "item.banner.half_horizontal_bottom.lightBlue"	"Light Blue Per Fess Inverted"	"Original Translation
 zh_CN: 淡蓝色下半方形
-zh_TW: 下半部分淺藍色填滿"	""
+zh_TW: 下半部分淺藍色填滿"	"底縹緞"
 "item.banner.half_horizontal_bottom.lime"	"Lime Per Fess Inverted"	"Original Translation
 zh_CN: 黄绿色下半方形
-zh_TW: 下半部分淡黃綠色填滿"	""
+zh_TW: 下半部分淡黃綠色填滿"	"底翠緞"
 "item.banner.half_horizontal_bottom.magenta"	"Magenta Per Fess Inverted"	"Original Translation
 zh_CN: 品红色下半方形
-zh_TW: 下半部分洋紅色填滿"	""
+zh_TW: 下半部分洋紅色填滿"	"底赬緞"
 "item.banner.half_horizontal_bottom.orange"	"Orange Per Fess Inverted"	"Original Translation
 zh_CN: 橙色下半方形
-zh_TW: 下半部分橙色填滿"	""
+zh_TW: 下半部分橙色填滿"	"底橙緞"
 "item.banner.half_horizontal_bottom.pink"	"Pink Per Fess Inverted"	"Original Translation
 zh_CN: 粉红色下半方形
-zh_TW: 下半部分粉紅色填滿"	""
+zh_TW: 下半部分粉紅色填滿"	"底紅緞"
 "item.banner.half_horizontal_bottom.purple"	"Purple Per Fess Inverted"	"Original Translation
 zh_CN: 紫色下半方形
-zh_TW: 下半部分紫色填滿"	""
+zh_TW: 下半部分紫色填滿"	"底紫緞"
 "item.banner.half_horizontal_bottom.red"	"Red Per Fess Inverted"	"Original Translation
 zh_CN: 红色下半方形
-zh_TW: 下半部分紅色填滿"	""
+zh_TW: 下半部分紅色填滿"	"底赤緞"
 "item.banner.half_horizontal_bottom.silver"	"Light Gray Per Fess Inverted"	"Original Translation
 zh_CN: 淡灰色下半方形
-zh_TW: 下半部分淺灰色填滿"	""
+zh_TW: 下半部分淺灰色填滿"	"底蒼緞"
 "item.banner.half_horizontal_bottom.white"	"White Per Fess Inverted"	"Original Translation
 zh_CN: 白色下半方形
-zh_TW: 下半部分白色填滿"	""
+zh_TW: 下半部分白色填滿"	"底素緞"
 "item.banner.half_horizontal_bottom.yellow"	"Yellow Per Fess Inverted"	"Original Translation
 zh_CN: 黄色下半方形
-zh_TW: 下半部分黃色填滿"	""
+zh_TW: 下半部分黃色填滿"	"底黃緞"
 "item.banner.half_vertical.black"	"Black Per Pale"	"Original Translation
 zh_CN: 黑色左半方形
-zh_TW: 左半部分黑色填滿"	""
+zh_TW: 左半部分黑色填滿"	"右玄縱"
 "item.banner.half_vertical.blue"	"Blue Per Pale"	"Original Translation
 zh_CN: 蓝色左半方形
-zh_TW: 左半部分藍色填滿"	""
+zh_TW: 左半部分藍色填滿"	"右靛縱"
 "item.banner.half_vertical.brown"	"Brown Per Pale"	"Original Translation
 zh_CN: 棕色左半方形
-zh_TW: 左半部分棕色填滿"	""
+zh_TW: 左半部分棕色填滿"	"右褐縱"
 "item.banner.half_vertical.cyan"	"Cyan Per Pale"	"Original Translation
 zh_CN: 青色左半方形
-zh_TW: 左半部分青綠色填滿"	""
+zh_TW: 左半部分青綠色填滿"	"右黛緞"
 "item.banner.half_vertical.gray"	"Gray Per Pale"	"Original Translation
 zh_CN: 灰色左半方形
-zh_TW: 左半部分灰色填滿"	""
+zh_TW: 左半部分灰色填滿"	"右灰緞"
 "item.banner.half_vertical.green"	"Green Per Pale"	"Original Translation
 zh_CN: 绿色左半方形
-zh_TW: 左半部分綠色填滿"	""
+zh_TW: 左半部分綠色填滿"	"右綠緞"
 "item.banner.half_vertical.lightBlue"	"Light Blue Per Pale"	"Original Translation
 zh_CN: 淡蓝色左半方形
-zh_TW: 左半部分淺藍色填滿"	""
+zh_TW: 左半部分淺藍色填滿"	"右縹緞"
 "item.banner.half_vertical.lime"	"Lime Per Pale"	"Original Translation
 zh_CN: 黄绿色左半方形
-zh_TW: 左半部分淡黃綠色填滿"	""
+zh_TW: 左半部分淡黃綠色填滿"	"右翠緞"
 "item.banner.half_vertical.magenta"	"Magenta Per Pale"	"Original Translation
 zh_CN: 品红色左半方形
-zh_TW: 左半部分洋紅色填滿"	""
+zh_TW: 左半部分洋紅色填滿"	"右赬縱"
 "item.banner.half_vertical.orange"	"Orange Per Pale"	"Original Translation
 zh_CN: 橙色左半方形
-zh_TW: 左半部分橙色填滿"	""
+zh_TW: 左半部分橙色填滿"	"右橙縱"
 "item.banner.half_vertical.pink"	"Pink Per Pale"	"Original Translation
 zh_CN: 粉红色左半方形
-zh_TW: 左半部分粉紅色填滿"	""
+zh_TW: 左半部分粉紅色填滿"	"右紅縱"
 "item.banner.half_vertical.purple"	"Purple Per Pale"	"Original Translation
 zh_CN: 紫色左半方形
-zh_TW: 左半部分紫色填滿"	""
+zh_TW: 左半部分紫色填滿"	"右紫縱"
 "item.banner.half_vertical.red"	"Red Per Pale"	"Original Translation
 zh_CN: 红色左半方形
-zh_TW: 左半部分紅色填滿"	""
+zh_TW: 左半部分紅色填滿"	"右赤縱"
 "item.banner.half_vertical.silver"	"Light Gray Per Pale"	"Original Translation
 zh_CN: 淡灰色左半方形
-zh_TW: 左半部分淺灰色填滿"	""
+zh_TW: 左半部分淺灰色填滿"	"右蒼縱"
 "item.banner.half_vertical.white"	"White Per Pale"	"Original Translation
 zh_CN: 白色左半方形
-zh_TW: 左半部分白色填滿"	""
+zh_TW: 左半部分白色填滿"	"右素縱"
 "item.banner.half_vertical.yellow"	"Yellow Per Pale"	"Original Translation
 zh_CN: 黄色左半方形
-zh_TW: 左半部分黃色填滿"	""
+zh_TW: 左半部分黃色填滿"	"右黃縱"
 "item.banner.half_vertical_right.black"	"Black Per Pale Inverted"	"Original Translation
 zh_CN: 黑色右半方形
-zh_TW: 右半部分黑色填滿"	""
+zh_TW: 右半部分黑色填滿"	"左玄縱"
 "item.banner.half_vertical_right.blue"	"Blue Per Pale Inverted"	"Original Translation
 zh_CN: 蓝色右半方形
-zh_TW: 右半部分藍色填滿"	""
+zh_TW: 右半部分藍色填滿"	"左靛縱"
 "item.banner.half_vertical_right.brown"	"Brown Per Pale Inverted"	"Original Translation
 zh_CN: 棕色右半方形
-zh_TW: 右半部分棕色填滿"	""
+zh_TW: 右半部分棕色填滿"	"左褐縱"
 "item.banner.half_vertical_right.cyan"	"Cyan Per Pale Inverted"	"Original Translation
 zh_CN: 青色右半方形
-zh_TW: 右半部分青綠色填滿"	""
+zh_TW: 右半部分青綠色填滿"	"左黛縱"
 "item.banner.half_vertical_right.gray"	"Gray Per Pale Inverted"	"Original Translation
 zh_CN: 灰色右半方形
-zh_TW: 右半部分灰色填滿"	""
+zh_TW: 右半部分灰色填滿"	"左灰縱"
 "item.banner.half_vertical_right.green"	"Green Per Pale Inverted"	"Original Translation
 zh_CN: 绿色右半方形
-zh_TW: 右半部分綠色填滿"	""
+zh_TW: 右半部分綠色填滿"	"左綠縱"
 "item.banner.half_vertical_right.lightBlue"	"Light Blue Per Pale Inverted"	"Original Translation
 zh_CN: 淡蓝色右半方形
-zh_TW: 右半部分淺藍色填滿"	""
+zh_TW: 右半部分淺藍色填滿"	"左縹縱"
 "item.banner.half_vertical_right.lime"	"Lime Per Pale Inverted"	"Original Translation
 zh_CN: 黄绿色右半方形
-zh_TW: 右半部分淡黃綠色填滿"	""
+zh_TW: 右半部分淡黃綠色填滿"	"左翠縱"
 "item.banner.half_vertical_right.magenta"	"Magenta Per Pale Inverted"	"Original Translation
 zh_CN: 品红色右半方形
-zh_TW: 右半部分洋紅色填滿"	""
+zh_TW: 右半部分洋紅色填滿"	"左赬縱"
 "item.banner.half_vertical_right.orange"	"Orange Per Pale Inverted"	"Original Translation
 zh_CN: 橙色右半方形
-zh_TW: 右半部分橙色填滿"	""
+zh_TW: 右半部分橙色填滿"	"左橙縱"
 "item.banner.half_vertical_right.pink"	"Pink Per Pale Inverted"	"Original Translation
 zh_CN: 粉红色右半方形
-zh_TW: 右半部分粉紅色填滿"	""
+zh_TW: 右半部分粉紅色填滿"	"左紅縱"
 "item.banner.half_vertical_right.purple"	"Purple Per Pale Inverted"	"Original Translation
 zh_CN: 紫色右半方形
-zh_TW: 右半部分紫色填滿"	""
+zh_TW: 右半部分紫色填滿"	"左紫縱"
 "item.banner.half_vertical_right.red"	"Red Per Pale Inverted"	"Original Translation
 zh_CN: 红色右半方形
-zh_TW: 右半部分紅色填滿"	""
+zh_TW: 右半部分紅色填滿"	"左赤縱"
 "item.banner.half_vertical_right.silver"	"Light Gray Per Pale Inverted"	"Original Translation
 zh_CN: 淡灰色右半方形
-zh_TW: 右半部分淺灰色填滿"	""
+zh_TW: 右半部分淺灰色填滿"	"左蒼縱"
 "item.banner.half_vertical_right.white"	"White Per Pale Inverted"	"Original Translation
 zh_CN: 白色右半方形
-zh_TW: 右半部分白色填滿"	""
+zh_TW: 右半部分白色填滿"	"左素縱"
 "item.banner.half_vertical_right.yellow"	"Yellow Per Pale Inverted"	"Original Translation
 zh_CN: 黄色右半方形
-zh_TW: 右半部分黃色填滿"	""
+zh_TW: 右半部分黃色填滿"	"左黃縱"
 "item.banner.illager"	"Illager"	"Original Translation
 zh_CN: 灾厄村民
-zh_TW: 厄民"	""
+zh_TW: 厄民"	"厄"
 "item.banner.illager_captain.name"	"Ominous Banner"	"Original Translation
 zh_CN: 不祥旗帜
-zh_TW: 不祥旗幟"	""
+zh_TW: 不祥旗幟"	"厄軍旗麾"
 "item.banner.lightBlue.name"	"Light Blue Banner"	"Original Translation
 zh_CN: 淡蓝色旗帜
-zh_TW: 淺藍色旗幟"	""
+zh_TW: 淺藍色旗幟"	"縹旗"
 "item.banner.lime.name"	"Lime Banner"	"Original Translation
 zh_CN: 黄绿色旗帜
-zh_TW: 淡黃綠色旗幟"	""
+zh_TW: 淡黃綠色旗幟"	"翠旗"
 "item.banner.magenta.name"	"Magenta Banner"	"Original Translation
 zh_CN: 品红色旗帜
-zh_TW: 洋紅色旗幟"	""
+zh_TW: 洋紅色旗幟"	"赬旗"
 "item.banner.mojang.black"	"Black Thing"	"Original Translation
 zh_CN: 黑色Mojang徽标
-zh_TW: 黑色 Mojang 標誌"	""
+zh_TW: 黑色 Mojang 標誌"	"玄魔贊紋"
 "item.banner.mojang.blue"	"Blue Thing"	"Original Translation
 zh_CN: 蓝色Mojang徽标
-zh_TW: 藍色 Mojang 標誌"	""
+zh_TW: 藍色 Mojang 標誌"	"靛魔贊紋"
 "item.banner.mojang.brown"	"Brown Thing"	"Original Translation
 zh_CN: 棕色Mojang徽标
-zh_TW: 棕色 Mojang 標誌"	""
+zh_TW: 棕色 Mojang 標誌"	"褐魔贊紋"
 "item.banner.mojang.cyan"	"Cyan Thing"	"Original Translation
 zh_CN: 青色Mojang徽标
-zh_TW: 青綠色 Mojang 標誌"	""
+zh_TW: 青綠色 Mojang 標誌"	"黛魔贊紋"
 "item.banner.mojang.gray"	"Gray Thing"	"Original Translation
 zh_CN: 灰色Mojang徽标
-zh_TW: 灰色 Mojang 標誌"	""
+zh_TW: 灰色 Mojang 標誌"	"灰魔贊紋"
 "item.banner.mojang.green"	"Green Thing"	"Original Translation
 zh_CN: 绿色Mojang徽标
-zh_TW: 綠色 Mojang 標誌"	""
+zh_TW: 綠色 Mojang 標誌"	"綠魔贊紋"
 "item.banner.mojang.lightBlue"	"Light Blue Thing"	"Original Translation
 zh_CN: 淡蓝色Mojang徽标
-zh_TW: 淺藍色 Mojang 標誌"	""
+zh_TW: 淺藍色 Mojang 標誌"	"縹魔贊紋"
 "item.banner.mojang.lime"	"Lime Thing"	"Original Translation
 zh_CN: 黄绿色Mojang徽标
-zh_TW: 淡黃綠色 Mojang 標誌"	""
+zh_TW: 淡黃綠色 Mojang 標誌"	"翠魔贊紋"
 "item.banner.mojang.magenta"	"Magenta Thing"	"Original Translation
 zh_CN: 品红色Mojang徽标
-zh_TW: 洋紅色 Mojang 標誌"	""
+zh_TW: 洋紅色 Mojang 標誌"	"赬魔贊紋"
 "item.banner.mojang.orange"	"Orange Thing"	"Original Translation
 zh_CN: 橙色Mojang徽标
-zh_TW: 橙色 Mojang 標誌"	""
+zh_TW: 橙色 Mojang 標誌"	"橙魔贊紋"
 "item.banner.mojang.pink"	"Pink Thing"	"Original Translation
 zh_CN: 粉红色Mojang徽标
-zh_TW: 粉紅色 Mojang 標誌"	""
+zh_TW: 粉紅色 Mojang 標誌"	"紅魔贊紋"
 "item.banner.mojang.purple"	"Purple Thing"	"Original Translation
 zh_CN: 紫色Mojang徽标
-zh_TW: 紫色 Mojang 標誌"	""
+zh_TW: 紫色 Mojang 標誌"	"紫魔贊紋"
 "item.banner.mojang.red"	"Red Thing"	"Original Translation
 zh_CN: 红色Mojang徽标
-zh_TW: 紅色 Mojang 標誌"	""
+zh_TW: 紅色 Mojang 標誌"	"赤魔贊紋"
 "item.banner.mojang.silver"	"Light Gray Thing"	"Original Translation
 zh_CN: 淡灰色Mojang徽标
-zh_TW: 淺灰色 Mojang 標誌"	""
+zh_TW: 淺灰色 Mojang 標誌"	"蒼魔贊紋"
 "item.banner.mojang.white"	"White Thing"	"Original Translation
 zh_CN: 白色Mojang徽标
-zh_TW: 白色 Mojang 標誌"	""
+zh_TW: 白色 Mojang 標誌"	"素魔贊紋"
 "item.banner.mojang.yellow"	"Yellow Thing"	"Original Translation
 zh_CN: 黄色Mojang徽标
-zh_TW: 黃色 Mojang 標誌"	""
+zh_TW: 黃色 Mojang 標誌"	"黃魔贊紋"
 "item.banner.orange.name"	"Orange Banner"	"Original Translation
 zh_CN: 橙色旗帜
-zh_TW: 橙色旗幟"	""
+zh_TW: 橙色旗幟"	"橙旗"
 "item.banner.piglin.black"	"Black Snout"	"Original Translation
 zh_CN: 黑色猪鼻
-zh_TW: 黑色鼻子"	""
+zh_TW: 黑色鼻子"	"玄豕鼻"
 "item.banner.piglin.blue"	"Blue Snout"	"Original Translation
 zh_CN: 蓝色猪鼻
-zh_TW: 藍色鼻子"	""
+zh_TW: 藍色鼻子"	"靛豕鼻"
 "item.banner.piglin.brown"	"Brown Snout"	"Original Translation
 zh_CN: 棕色猪鼻
-zh_TW: 棕色鼻子"	""
+zh_TW: 棕色鼻子"	"褐豕鼻"
 "item.banner.piglin.cyan"	"Cyan Snout"	"Original Translation
 zh_CN: 青色猪鼻
-zh_TW: 青綠色鼻子"	""
+zh_TW: 青綠色鼻子"	"黛豕鼻"
 "item.banner.piglin.gray"	"Gray Snout"	"Original Translation
 zh_CN: 灰色猪鼻
-zh_TW: 灰色鼻子"	""
+zh_TW: 灰色鼻子"	"灰豕鼻"
 "item.banner.piglin.green"	"Green Snout"	"Original Translation
 zh_CN: 绿色猪鼻
-zh_TW: 綠色鼻子"	""
+zh_TW: 綠色鼻子"	"綠豕鼻"
 "item.banner.piglin.lightBlue"	"Light Blue Snout"	"Original Translation
 zh_CN: 淡蓝色猪鼻
-zh_TW: 淺藍色鼻子"	""
+zh_TW: 淺藍色鼻子"	"縹豕鼻"
 "item.banner.piglin.lime"	"Lime Snout"	"Original Translation
 zh_CN: 黄绿色猪鼻
-zh_TW: 淡黃綠色鼻子"	""
+zh_TW: 淡黃綠色鼻子"	"翠豕鼻"
 "item.banner.piglin.magenta"	"Magenta Snout"	"Original Translation
 zh_CN: 品红色猪鼻
-zh_TW: 洋紅色鼻子"	""
+zh_TW: 洋紅色鼻子"	"赬豕鼻"
 "item.banner.piglin.orange"	"Orange Snout"	"Original Translation
 zh_CN: 橙色猪鼻
-zh_TW: 橙色鼻子"	""
+zh_TW: 橙色鼻子"	"橙豕鼻"
 "item.banner.piglin.pink"	"Pink Snout"	"Original Translation
 zh_CN: 粉红色猪鼻
-zh_TW: 粉紅色鼻子"	""
+zh_TW: 粉紅色鼻子"	"紅豕鼻"
 "item.banner.piglin.purple"	"Purple Snout"	"Original Translation
 zh_CN: 紫色猪鼻
-zh_TW: 紫色鼻子"	""
+zh_TW: 紫色鼻子"	"紫豕鼻"
 "item.banner.piglin.red"	"Red Snout"	"Original Translation
 zh_CN: 红色猪鼻
-zh_TW: 紅色鼻子"	""
+zh_TW: 紅色鼻子"	"赤豕鼻"
 "item.banner.piglin.silver"	"Light Gray Snout"	"Original Translation
 zh_CN: 淡灰色猪鼻
-zh_TW: 淺灰色鼻子"	""
+zh_TW: 淺灰色鼻子"	"蒼豕鼻"
 "item.banner.piglin.white"	"White Snout"	"Original Translation
 zh_CN: 白色猪鼻
-zh_TW: 白色鼻子"	""
+zh_TW: 白色鼻子"	"素豕鼻"
 "item.banner.piglin.yellow"	"Yellow Snout"	"Original Translation
 zh_CN: 黄色猪鼻
-zh_TW: 黃色鼻子"	""
+zh_TW: 黃色鼻子"	"黃豕鼻"
 "item.banner.pink.name"	"Pink Banner"	"Original Translation
 zh_CN: 粉红色旗帜
-zh_TW: 粉紅色旗幟"	""
+zh_TW: 粉紅色旗幟"	"紅旗"
 "item.banner.purple.name"	"Purple Banner"	"Original Translation
 zh_CN: 紫色旗帜
-zh_TW: 紫色旗幟"	""
+zh_TW: 紫色旗幟"	"紫旗"
 "item.banner.red.name"	"Red Banner"	"Original Translation
 zh_CN: 红色旗帜
-zh_TW: 紅色旗幟"	""
+zh_TW: 紅色旗幟"	"赤旗"
 "item.banner.rhombus.black"	"Black Lozenge"	"Original Translation
 zh_CN: 黑色菱形
-zh_TW: 黑色菱形"	""
+zh_TW: 黑色菱形"	"玄菱形"
 "item.banner.rhombus.blue"	"Blue Lozenge"	"Original Translation
 zh_CN: 蓝色菱形
-zh_TW: 藍色菱形"	""
+zh_TW: 藍色菱形"	"靛菱形"
 "item.banner.rhombus.brown"	"Brown Lozenge"	"Original Translation
 zh_CN: 棕色菱形
-zh_TW: 棕色菱形"	""
+zh_TW: 棕色菱形"	"褐菱形"
 "item.banner.rhombus.cyan"	"Cyan Lozenge"	"Original Translation
 zh_CN: 青色菱形
-zh_TW: 青綠色菱形"	""
+zh_TW: 青綠色菱形"	"黛菱形"
 "item.banner.rhombus.gray"	"Gray Lozenge"	"Original Translation
 zh_CN: 灰色菱形
-zh_TW: 灰色菱形"	""
+zh_TW: 灰色菱形"	"灰菱形"
 "item.banner.rhombus.green"	"Green Lozenge"	"Original Translation
 zh_CN: 绿色菱形
-zh_TW: 綠色菱形"	""
+zh_TW: 綠色菱形"	"綠菱形"
 "item.banner.rhombus.lightBlue"	"Light Blue Lozenge"	"Original Translation
 zh_CN: 淡蓝色菱形
-zh_TW: 淺藍色菱形"	""
+zh_TW: 淺藍色菱形"	"縹菱形"
 "item.banner.rhombus.lime"	"Lime Lozenge"	"Original Translation
 zh_CN: 黄绿色菱形
-zh_TW: 淡黃綠色菱形"	""
+zh_TW: 淡黃綠色菱形"	"翠菱形"
 "item.banner.rhombus.magenta"	"Magenta Lozenge"	"Original Translation
 zh_CN: 品红色菱形
-zh_TW: 洋紅色菱形"	""
+zh_TW: 洋紅色菱形"	"赬菱形"
 "item.banner.rhombus.orange"	"Orange Lozenge"	"Original Translation
 zh_CN: 橙色菱形
-zh_TW: 橙色菱形"	""
+zh_TW: 橙色菱形"	"橙菱形"
 "item.banner.rhombus.pink"	"Pink Lozenge"	"Original Translation
 zh_CN: 粉红色菱形
-zh_TW: 粉紅色菱形"	""
+zh_TW: 粉紅色菱形"	"紅菱形"
 "item.banner.rhombus.purple"	"Purple Lozenge"	"Original Translation
 zh_CN: 紫色菱形
-zh_TW: 紫色菱形"	""
+zh_TW: 紫色菱形"	"紫菱形"
 "item.banner.rhombus.red"	"Red Lozenge"	"Original Translation
 zh_CN: 红色菱形
-zh_TW: 紅色菱形"	""
+zh_TW: 紅色菱形"	"赤菱形"
 "item.banner.rhombus.silver"	"Light Gray Lozenge"	"Original Translation
 zh_CN: 淡灰色菱形
-zh_TW: 淺灰色菱形"	""
+zh_TW: 淺灰色菱形"	"蒼菱形"
 "item.banner.rhombus.white"	"White Lozenge"	"Original Translation
 zh_CN: 白色菱形
-zh_TW: 白色菱形"	""
+zh_TW: 白色菱形"	"素菱形"
 "item.banner.rhombus.yellow"	"Yellow Lozenge"	"Original Translation
 zh_CN: 黄色菱形
-zh_TW: 黃色菱形"	""
+zh_TW: 黃色菱形"	"黃菱形"
 "item.banner.silver.name"	"Light Gray Banner"	"Original Translation
 zh_CN: 淡灰色旗帜
-zh_TW: 淺灰色旗幟"	""
+zh_TW: 淺灰色旗幟"	"蒼旗"
 "item.banner.skull.black"	"Black Skull Charge"	"Original Translation
 zh_CN: 黑色头颅盾徽
-zh_TW: 黑色骷髏頭形狀"	""
+zh_TW: 黑色骷髏頭形狀"	"玄髑顱紋"
 "item.banner.skull.blue"	"Blue Skull Charge"	"Original Translation
 zh_CN: 蓝色头颅盾徽
-zh_TW: 藍色骷髏頭形狀"	""
+zh_TW: 藍色骷髏頭形狀"	"靛髑顱紋"
 "item.banner.skull.brown"	"Brown Skull Charge"	"Original Translation
 zh_CN: 棕色头颅盾徽
-zh_TW: 棕色骷髏頭形狀"	""
+zh_TW: 棕色骷髏頭形狀"	"褐髑顱紋"
 "item.banner.skull.cyan"	"Cyan Skull Charge"	"Original Translation
 zh_CN: 青色头颅盾徽
-zh_TW: 青綠色骷髏頭形狀"	""
+zh_TW: 青綠色骷髏頭形狀"	"黛髑顱紋"
 "item.banner.skull.gray"	"Gray Skull Charge"	"Original Translation
 zh_CN: 灰色头颅盾徽
-zh_TW: 灰色骷髏頭形狀"	""
+zh_TW: 灰色骷髏頭形狀"	"灰髑顱紋"
 "item.banner.skull.green"	"Green Skull Charge"	"Original Translation
 zh_CN: 绿色头颅盾徽
-zh_TW: 綠色骷髏頭形狀"	""
+zh_TW: 綠色骷髏頭形狀"	"綠髑顱紋"
 "item.banner.skull.lightBlue"	"Light Blue Skull Charge"	"Original Translation
 zh_CN: 淡蓝色头颅盾徽
-zh_TW: 淺藍色骷髏頭形狀"	""
+zh_TW: 淺藍色骷髏頭形狀"	"縹髑顱紋"
 "item.banner.skull.lime"	"Lime Skull Charge"	"Original Translation
 zh_CN: 黄绿色头颅盾徽
-zh_TW: 淡黃綠色骷髏頭形狀"	""
+zh_TW: 淡黃綠色骷髏頭形狀"	"翠髑顱紋"
 "item.banner.skull.magenta"	"Magenta Skull Charge"	"Original Translation
 zh_CN: 品红色头颅盾徽
-zh_TW: 洋紅色骷髏頭形狀"	""
+zh_TW: 洋紅色骷髏頭形狀"	"赬髑顱紋"
 "item.banner.skull.orange"	"Orange Skull Charge"	"Original Translation
 zh_CN: 橙色头颅盾徽
-zh_TW: 橙色骷髏頭形狀"	""
+zh_TW: 橙色骷髏頭形狀"	"橙髑顱紋"
 "item.banner.skull.pink"	"Pink Skull Charge"	"Original Translation
 zh_CN: 粉红色头颅盾徽
-zh_TW: 粉紅色骷髏頭形狀"	""
+zh_TW: 粉紅色骷髏頭形狀"	"紅髑顱紋"
 "item.banner.skull.purple"	"Purple Skull Charge"	"Original Translation
 zh_CN: 紫色头颅盾徽
-zh_TW: 紫色骷髏頭形狀"	""
+zh_TW: 紫色骷髏頭形狀"	"紫髑顱紋"
 "item.banner.skull.red"	"Red Skull Charge"	"Original Translation
 zh_CN: 红色头颅盾徽
-zh_TW: 紅色骷髏頭形狀"	""
+zh_TW: 紅色骷髏頭形狀"	"赤髑顱紋"
 "item.banner.skull.silver"	"Light Gray Skull Charge"	"Original Translation
 zh_CN: 淡灰色头颅盾徽
-zh_TW: 淺灰色骷髏頭形狀"	""
+zh_TW: 淺灰色骷髏頭形狀"	"蒼髑顱紋"
 "item.banner.skull.white"	"White Skull Charge"	"Original Translation
 zh_CN: 白色头颅盾徽
-zh_TW: 白色骷髏頭形狀"	""
+zh_TW: 白色骷髏頭形狀"	"素髑顱紋"
 "item.banner.skull.yellow"	"Yellow Skull Charge"	"Original Translation
 zh_CN: 黄色头颅盾徽
-zh_TW: 黃色骷髏頭形狀"	""
+zh_TW: 黃色骷髏頭形狀"	"黃髑顱紋"
 "item.banner.small_stripes.black"	"Black Paly"	"Original Translation
 zh_CN: 黑竖条纹
-zh_TW: 黑色垂直條紋"	""
+zh_TW: 黑色垂直條紋"	"直玄緞"
 "item.banner.small_stripes.blue"	"Blue Paly"	"Original Translation
 zh_CN: 蓝竖条纹
-zh_TW: 藍色垂直條紋"	""
+zh_TW: 藍色垂直條紋"	"直靛緞"
 "item.banner.small_stripes.brown"	"Brown Paly"	"Original Translation
 zh_CN: 棕竖条纹
-zh_TW: 棕色垂直條紋"	""
+zh_TW: 棕色垂直條紋"	"直褐緞"
 "item.banner.small_stripes.cyan"	"Cyan Paly"	"Original Translation
 zh_CN: 青竖条纹
-zh_TW: 青綠色垂直條紋"	""
+zh_TW: 青綠色垂直條紋"	"直黛緞"
 "item.banner.small_stripes.gray"	"Gray Paly"	"Original Translation
 zh_CN: 灰竖条纹
-zh_TW: 灰色垂直條紋"	""
+zh_TW: 灰色垂直條紋"	"直灰緞"
 "item.banner.small_stripes.green"	"Green Paly"	"Original Translation
 zh_CN: 绿竖条纹
-zh_TW: 綠色垂直條紋"	""
+zh_TW: 綠色垂直條紋"	"直綠緞"
 "item.banner.small_stripes.lightBlue"	"Light Blue Paly"	"Original Translation
 zh_CN: 淡蓝竖条纹
-zh_TW: 淺藍色垂直條紋"	""
+zh_TW: 淺藍色垂直條紋"	"直縹緞"
 "item.banner.small_stripes.lime"	"Lime Paly"	"Original Translation
 zh_CN: 黄绿竖条纹
-zh_TW: 淡黃綠色垂直條紋"	""
+zh_TW: 淡黃綠色垂直條紋"	"直翠緞"
 "item.banner.small_stripes.magenta"	"Magenta Paly"	"Original Translation
 zh_CN: 品红竖条纹
-zh_TW: 洋紅色垂直條紋"	""
+zh_TW: 洋紅色垂直條紋"	"直赬緞"
 "item.banner.small_stripes.orange"	"Orange Paly"	"Original Translation
 zh_CN: 橙竖条纹
-zh_TW: 橙色垂直條紋"	""
+zh_TW: 橙色垂直條紋"	"直橙緞"
 "item.banner.small_stripes.pink"	"Pink Paly"	"Original Translation
 zh_CN: 粉红竖条纹
-zh_TW: 粉紅色垂直條紋"	""
+zh_TW: 粉紅色垂直條紋"	"直紅緞"
 "item.banner.small_stripes.purple"	"Purple Paly"	"Original Translation
 zh_CN: 紫竖条纹
-zh_TW: 紫色垂直條紋"	""
+zh_TW: 紫色垂直條紋"	"直紫緞"
 "item.banner.small_stripes.red"	"Red Paly"	"Original Translation
 zh_CN: 红竖条纹
-zh_TW: 紅色垂直條紋"	""
+zh_TW: 紅色垂直條紋"	"直赤緞"
 "item.banner.small_stripes.silver"	"Light Gray Paly"	"Original Translation
 zh_CN: 淡灰竖条纹
-zh_TW: 淺灰色垂直條紋"	""
+zh_TW: 淺灰色垂直條紋"	"直蒼緞"
 "item.banner.small_stripes.white"	"White Paly"	"Original Translation
 zh_CN: 白竖条纹
-zh_TW: 白色垂直條紋"	""
+zh_TW: 白色垂直條紋"	"直素緞"
 "item.banner.small_stripes.yellow"	"Yellow Paly"	"Original Translation
 zh_CN: 黄竖条纹
-zh_TW: 黃色垂直條紋"	""
+zh_TW: 黃色垂直條紋"	"直黃緞"
 "item.banner.square_bottom_left.black"	"Black Base Dexter Canton"	"Original Translation
 zh_CN: 右底黑方
-zh_TW: 右方下側黑色"	""
+zh_TW: 右方下側黑色"	"右底玄方"
 "item.banner.square_bottom_left.blue"	"Blue Base Dexter Canton"	"Original Translation
 zh_CN: 右底蓝方
-zh_TW: 右方下側藍色"	""
+zh_TW: 右方下側藍色"	"右底靛方"
 "item.banner.square_bottom_left.brown"	"Brown Base Dexter Canton"	"Original Translation
 zh_CN: 右底棕方
-zh_TW: 右方下側棕色"	""
+zh_TW: 右方下側棕色"	"右底褐方"
 "item.banner.square_bottom_left.cyan"	"Cyan Base Dexter Canton"	"Original Translation
 zh_CN: 右底青方
-zh_TW: 右方下側青綠色"	""
+zh_TW: 右方下側青綠色"	"右底黛方"
 "item.banner.square_bottom_left.gray"	"Gray Base Dexter Canton"	"Original Translation
 zh_CN: 右底灰方
-zh_TW: 右方下側灰色"	""
+zh_TW: 右方下側灰色"	"右底灰方"
 "item.banner.square_bottom_left.green"	"Green Base Dexter Canton"	"Original Translation
 zh_CN: 右底绿方
-zh_TW: 右方下側綠色"	""
+zh_TW: 右方下側綠色"	"右底綠方"
 "item.banner.square_bottom_left.lightBlue"	"Light Blue Base Dexter Canton"	"Original Translation
 zh_CN: 右底淡蓝方
-zh_TW: 右方下側淺藍色"	""
+zh_TW: 右方下側淺藍色"	"右底縹方"
 "item.banner.square_bottom_left.lime"	"Lime Base Dexter Canton"	"Original Translation
 zh_CN: 右底黄绿方
-zh_TW: 右方下側淡黃綠色"	""
+zh_TW: 右方下側淡黃綠色"	"右底翠方"
 "item.banner.square_bottom_left.magenta"	"Magenta Base Dexter Canton"	"Original Translation
 zh_CN: 右底品红方
-zh_TW: 右方下側洋紅色"	""
+zh_TW: 右方下側洋紅色"	"右底赬方"
 "item.banner.square_bottom_left.orange"	"Orange Base Dexter Canton"	"Original Translation
 zh_CN: 右底橙方
-zh_TW: 右方下側橙色"	""
+zh_TW: 右方下側橙色"	"右底橙方"
 "item.banner.square_bottom_left.pink"	"Pink Base Dexter Canton"	"Original Translation
 zh_CN: 右底粉红方
-zh_TW: 右方下側粉紅色"	""
+zh_TW: 右方下側粉紅色"	"右底紅方"
 "item.banner.square_bottom_left.purple"	"Purple Base Dexter Canton"	"Original Translation
 zh_CN: 右底紫方
-zh_TW: 右方下側紫色"	""
+zh_TW: 右方下側紫色"	"右底紫方"
 "item.banner.square_bottom_left.red"	"Red Base Dexter Canton"	"Original Translation
 zh_CN: 右底红方
-zh_TW: 右方下側紅色"	""
+zh_TW: 右方下側紅色"	"右底赤方"
 "item.banner.square_bottom_left.silver"	"Light Gray Base Dexter Canton"	"Original Translation
 zh_CN: 右底淡灰方
-zh_TW: 右方下側淺灰色"	""
+zh_TW: 右方下側淺灰色"	"右底蒼方"
 "item.banner.square_bottom_left.white"	"White Base Dexter Canton"	"Original Translation
 zh_CN: 右底白方
-zh_TW: 右方下側白色"	""
+zh_TW: 右方下側白色"	"右底素方"
 "item.banner.square_bottom_left.yellow"	"Yellow Base Dexter Canton"	"Original Translation
 zh_CN: 右底黄方
-zh_TW: 右方下側黃色"	""
+zh_TW: 右方下側黃色"	"右底黃方"
 "item.banner.square_bottom_right.black"	"Black Base Sinister Canton"	"Original Translation
 zh_CN: 左底黑方
-zh_TW: 左方下側黑色"	""
+zh_TW: 左方下側黑色"	"左底玄方"
 "item.banner.square_bottom_right.blue"	"Blue Base Sinister Canton"	"Original Translation
 zh_CN: 左底蓝方
-zh_TW: 左方下側藍色"	""
+zh_TW: 左方下側藍色"	"左底靛方"
 "item.banner.square_bottom_right.brown"	"Brown Base Sinister Canton"	"Original Translation
 zh_CN: 左底棕方
-zh_TW: 左方下側棕色"	""
+zh_TW: 左方下側棕色"	"左底褐方"
 "item.banner.square_bottom_right.cyan"	"Cyan Base Sinister Canton"	"Original Translation
 zh_CN: 左底青方
-zh_TW: 左方下側青綠色"	""
+zh_TW: 左方下側青綠色"	"左底黛方"
 "item.banner.square_bottom_right.gray"	"Gray Base Sinister Canton"	"Original Translation
 zh_CN: 左底灰方
-zh_TW: 左方下側灰色"	""
+zh_TW: 左方下側灰色"	"左底灰方"
 "item.banner.square_bottom_right.green"	"Green Base Sinister Canton"	"Original Translation
 zh_CN: 左底绿方
-zh_TW: 左方下側綠色"	""
+zh_TW: 左方下側綠色"	"左底綠方"
 "item.banner.square_bottom_right.lightBlue"	"Light Blue Base Sinister Canton"	"Original Translation
 zh_CN: 左底淡蓝方
-zh_TW: 左方下側淺藍色"	""
+zh_TW: 左方下側淺藍色"	"左底縹方"
 "item.banner.square_bottom_right.lime"	"Lime Base Sinister Canton"	"Original Translation
 zh_CN: 左底黄绿方
-zh_TW: 左方下側淡黃綠色"	""
+zh_TW: 左方下側淡黃綠色"	"左底翠方"
 "item.banner.square_bottom_right.magenta"	"Magenta Base Sinister Canton"	"Original Translation
 zh_CN: 左底品红方
-zh_TW: 左方下側洋紅色"	""
+zh_TW: 左方下側洋紅色"	"左底赬方"
 "item.banner.square_bottom_right.orange"	"Orange Base Sinister Canton"	"Original Translation
 zh_CN: 左底橙方
-zh_TW: 左方下側橙色"	""
+zh_TW: 左方下側橙色"	"左底橙方"
 "item.banner.square_bottom_right.pink"	"Pink Base Sinister Canton"	"Original Translation
 zh_CN: 左底粉方
-zh_TW: 左方下側粉紅色"	""
+zh_TW: 左方下側粉紅色"	"左底紅方"
 "item.banner.square_bottom_right.purple"	"Purple Base Sinister Canton"	"Original Translation
 zh_CN: 左底紫方
-zh_TW: 左方下側紫色"	""
+zh_TW: 左方下側紫色"	"左底紫方"
 "item.banner.square_bottom_right.red"	"Red Base Sinister Canton"	"Original Translation
 zh_CN: 左底红方
-zh_TW: 左方下側紅色"	""
+zh_TW: 左方下側紅色"	"左底赤方"
 "item.banner.square_bottom_right.silver"	"Light Gray Base Sinister Canton"	"Original Translation
 zh_CN: 左底淡灰方
-zh_TW: 左方下側淺灰色"	""
+zh_TW: 左方下側淺灰色"	"左底蒼方"
 "item.banner.square_bottom_right.white"	"White Base Sinister Canton"	"Original Translation
 zh_CN: 左底白方
-zh_TW: 左方下側白色"	""
+zh_TW: 左方下側白色"	"左底素方"
 "item.banner.square_bottom_right.yellow"	"Yellow Base Sinister Canton"	"Original Translation
 zh_CN: 左底黄方
-zh_TW: 左方下側黃色"	""
+zh_TW: 左方下側黃色"	"左底黃方"
 "item.banner.square_top_left.black"	"Black Chief Dexter Canton"	"Original Translation
 zh_CN: 右顶黑方
-zh_TW: 右方上側黑色"	""
+zh_TW: 右方上側黑色"	"右頂玄方"
 "item.banner.square_top_left.blue"	"Blue Chief Dexter Canton"	"Original Translation
 zh_CN: 右顶蓝方
-zh_TW: 右方上側藍色"	""
+zh_TW: 右方上側藍色"	"右頂靛方"
 "item.banner.square_top_left.brown"	"Brown Chief Dexter Canton"	"Original Translation
 zh_CN: 右顶棕方
-zh_TW: 右方上側棕色"	""
+zh_TW: 右方上側棕色"	"右頂褐方"
 "item.banner.square_top_left.cyan"	"Cyan Chief Dexter Canton"	"Original Translation
 zh_CN: 右顶青方
-zh_TW: 右方上側青綠色"	""
+zh_TW: 右方上側青綠色"	"右頂黛方"
 "item.banner.square_top_left.gray"	"Gray Chief Dexter Canton"	"Original Translation
 zh_CN: 右顶灰方
-zh_TW: 右方上側灰色"	""
+zh_TW: 右方上側灰色"	"右頂灰方"
 "item.banner.square_top_left.green"	"Green Chief Dexter Canton"	"Original Translation
 zh_CN: 右顶绿方
-zh_TW: 右方上側綠色"	""
+zh_TW: 右方上側綠色"	"右頂綠方"
 "item.banner.square_top_left.lightBlue"	"Light Blue Chief Dexter Canton"	"Original Translation
 zh_CN: 右顶淡蓝方
-zh_TW: 右方上側淺藍色"	""
+zh_TW: 右方上側淺藍色"	"右頂縹方"
 "item.banner.square_top_left.lime"	"Lime Chief Dexter Canton"	"Original Translation
 zh_CN: 右顶黄绿方
-zh_TW: 右方上側淡黃綠色"	""
+zh_TW: 右方上側淡黃綠色"	"右頂翠方"
 "item.banner.square_top_left.magenta"	"Magenta Chief Dexter Canton"	"Original Translation
 zh_CN: 右顶品红方
-zh_TW: 右方上側洋紅色"	""
+zh_TW: 右方上側洋紅色"	"右頂赬方"
 "item.banner.square_top_left.orange"	"Orange Chief Dexter Canton"	"Original Translation
 zh_CN: 右顶橙方
-zh_TW: 右方上側橙色"	""
+zh_TW: 右方上側橙色"	"右頂橙方"
 "item.banner.square_top_left.pink"	"Pink Chief Dexter Canton"	"Original Translation
 zh_CN: 右顶粉红方
-zh_TW: 右方上側粉紅色"	""
+zh_TW: 右方上側粉紅色"	"右頂紅方"
 "item.banner.square_top_left.purple"	"Purple Chief Dexter Canton"	"Original Translation
 zh_CN: 右顶紫方
-zh_TW: 右方上側紫色"	""
+zh_TW: 右方上側紫色"	"右頂紫方"
 "item.banner.square_top_left.red"	"Red Chief Dexter Canton"	"Original Translation
 zh_CN: 右顶红方
-zh_TW: 右方上側紅色"	""
+zh_TW: 右方上側紅色"	"右頂赤方"
 "item.banner.square_top_left.silver"	"Light Gray Chief Dexter Canton"	"Original Translation
 zh_CN: 右顶淡灰方
-zh_TW: 右方上側淺灰色"	""
+zh_TW: 右方上側淺灰色"	"右頂蒼方"
 "item.banner.square_top_left.white"	"White Chief Dexter Canton"	"Original Translation
 zh_CN: 右顶白方
-zh_TW: 右方上側白色"	""
+zh_TW: 右方上側白色"	"右頂素方"
 "item.banner.square_top_left.yellow"	"Yellow Chief Dexter Canton"	"Original Translation
 zh_CN: 右顶黄方
-zh_TW: 右方上側黃色"	""
+zh_TW: 右方上側黃色"	"右頂黃方"
 "item.banner.square_top_right.black"	"Black Chief Sinister Canton"	"Original Translation
 zh_CN: 左顶黑方
-zh_TW: 左方上側黑色"	""
+zh_TW: 左方上側黑色"	"左頂玄方"
 "item.banner.square_top_right.blue"	"Blue Chief Sinister Canton"	"Original Translation
 zh_CN: 左顶蓝方
-zh_TW: 左方上側藍色"	""
+zh_TW: 左方上側藍色"	"左頂靛方"
 "item.banner.square_top_right.brown"	"Brown Chief Sinister Canton"	"Original Translation
 zh_CN: 左顶棕方
-zh_TW: 左方上側棕色"	""
+zh_TW: 左方上側棕色"	"左頂褐方"
 "item.banner.square_top_right.cyan"	"Cyan Chief Sinister Canton"	"Original Translation
 zh_CN: 左顶青方
-zh_TW: 左方上側青綠色"	""
+zh_TW: 左方上側青綠色"	"左頂黛方"
 "item.banner.square_top_right.gray"	"Gray Chief Sinister Canton"	"Original Translation
 zh_CN: 左顶灰方
-zh_TW: 左方上側灰色"	""
+zh_TW: 左方上側灰色"	"左頂灰方"
 "item.banner.square_top_right.green"	"Green Chief Sinister Canton"	"Original Translation
 zh_CN: 左顶绿方
-zh_TW: 左方上側綠色"	""
+zh_TW: 左方上側綠色"	"左頂綠方"
 "item.banner.square_top_right.lightBlue"	"Light Blue Chief Sinister Canton"	"Original Translation
 zh_CN: 左顶淡蓝方
-zh_TW: 左方上側淺藍色"	""
+zh_TW: 左方上側淺藍色"	"左頂縹方"
 "item.banner.square_top_right.lime"	"Lime Chief Sinister Canton"	"Original Translation
 zh_CN: 左顶黄绿方
-zh_TW: 左方上側淡黃綠色"	""
+zh_TW: 左方上側淡黃綠色"	"左頂翠方"
 "item.banner.square_top_right.magenta"	"Magenta Chief Sinister Canton"	"Original Translation
 zh_CN: 左顶品红方
-zh_TW: 左方上側洋紅色"	""
+zh_TW: 左方上側洋紅色"	"左頂赬方"
 "item.banner.square_top_right.orange"	"Orange Chief Sinister Canton"	"Original Translation
 zh_CN: 左顶橙方
-zh_TW: 左方上側橙色"	""
+zh_TW: 左方上側橙色"	"左頂橙方"
 "item.banner.square_top_right.pink"	"Pink Chief Sinister Canton"	"Original Translation
 zh_CN: 左顶粉红方
-zh_TW: 左方上側粉紅色"	""
+zh_TW: 左方上側粉紅色"	"左頂紅方"
 "item.banner.square_top_right.purple"	"Purple Chief Sinister Canton"	"Original Translation
 zh_CN: 左顶紫方
-zh_TW: 左方上側紫色"	""
+zh_TW: 左方上側紫色"	"左頂紫方"
 "item.banner.square_top_right.red"	"Red Chief Sinister Canton"	"Original Translation
 zh_CN: 左顶红方
-zh_TW: 左方上側紅色"	""
+zh_TW: 左方上側紅色"	"左頂赤方"
 "item.banner.square_top_right.silver"	"Light Gray Chief Sinister Canton"	"Original Translation
 zh_CN: 左顶淡灰方
-zh_TW: 左方上側淺灰色"	""
+zh_TW: 左方上側淺灰色"	"左頂蒼方"
 "item.banner.square_top_right.white"	"White Chief Sinister Canton"	"Original Translation
 zh_CN: 左顶白方
-zh_TW: 左方上側白色"	""
+zh_TW: 左方上側白色"	"左頂素方"
 "item.banner.square_top_right.yellow"	"Yellow Chief Sinister Canton"	"Original Translation
 zh_CN: 左顶黄方
-zh_TW: 左方上側黃色"	""
+zh_TW: 左方上側黃色"	"左頂黃方"
 "item.banner.straight_cross.black"	"Black Cross"	"Original Translation
 zh_CN: 黑正十字
-zh_TW: 黑色十字"	""
+zh_TW: 黑色十字"	"玄錯"
 "item.banner.straight_cross.blue"	"Blue Cross"	"Original Translation
 zh_CN: 蓝正十字
-zh_TW: 藍色十字"	""
+zh_TW: 藍色十字"	"靛錯"
 "item.banner.straight_cross.brown"	"Brown Cross"	"Original Translation
 zh_CN: 棕正十字
-zh_TW: 棕色十字"	""
+zh_TW: 棕色十字"	"褐錯"
 "item.banner.straight_cross.cyan"	"Cyan Cross"	"Original Translation
 zh_CN: 青正十字
-zh_TW: 青綠色十字"	""
+zh_TW: 青綠色十字"	"黛錯"
 "item.banner.straight_cross.gray"	"Gray Cross"	"Original Translation
 zh_CN: 灰正十字
-zh_TW: 灰色十字"	""
+zh_TW: 灰色十字"	"灰錯"
 "item.banner.straight_cross.green"	"Green Cross"	"Original Translation
 zh_CN: 绿正十字
-zh_TW: 綠色十字"	""
+zh_TW: 綠色十字"	"綠錯"
 "item.banner.straight_cross.lightBlue"	"Light Blue Cross"	"Original Translation
 zh_CN: 淡蓝正十字
-zh_TW: 淺藍色十字"	""
+zh_TW: 淺藍色十字"	"縹錯"
 "item.banner.straight_cross.lime"	"Lime Cross"	"Original Translation
 zh_CN: 黄绿正十字
-zh_TW: 淡黃綠色十字"	""
+zh_TW: 淡黃綠色十字"	"翠錯"
 "item.banner.straight_cross.magenta"	"Magenta Cross"	"Original Translation
 zh_CN: 品红正十字
-zh_TW: 洋紅色十字"	""
+zh_TW: 洋紅色十字"	"赬錯"
 "item.banner.straight_cross.orange"	"Orange Cross"	"Original Translation
 zh_CN: 橙正十字
-zh_TW: 橙色十字"	""
+zh_TW: 橙色十字"	"橙錯"
 "item.banner.straight_cross.pink"	"Pink Cross"	"Original Translation
 zh_CN: 粉红正十字
-zh_TW: 粉紅色十字"	""
+zh_TW: 粉紅色十字"	"紅錯"
 "item.banner.straight_cross.purple"	"Purple Cross"	"Original Translation
 zh_CN: 紫正十字
-zh_TW: 紫色十字"	""
+zh_TW: 紫色十字"	"紫錯"
 "item.banner.straight_cross.red"	"Red Cross"	"Original Translation
 zh_CN: 红正十字
-zh_TW: 紅色十字"	""
+zh_TW: 紅色十字"	"赤錯"
 "item.banner.straight_cross.silver"	"Light Gray Cross"	"Original Translation
 zh_CN: 淡灰正十字
-zh_TW: 淺灰色十字"	""
+zh_TW: 淺灰色十字"	"蒼錯"
 "item.banner.straight_cross.white"	"White Cross"	"Original Translation
 zh_CN: 白正十字
-zh_TW: 白色十字"	""
+zh_TW: 白色十字"	"素錯"
 "item.banner.straight_cross.yellow"	"Yellow Cross"	"Original Translation
 zh_CN: 黄正十字
-zh_TW: 黃色十字"	""
+zh_TW: 黃色十字"	"黃錯"
 "item.banner.stripe_bottom.black"	"Black Base Fess"	"Original Translation
 zh_CN: 底黑横条
-zh_TW: 下方黑色橫帶"	""
+zh_TW: 下方黑色橫帶"	"底玄緯"
 "item.banner.stripe_bottom.blue"	"Blue Base Fess"	"Original Translation
 zh_CN: 底蓝横条
-zh_TW: 下方藍色橫帶"	""
+zh_TW: 下方藍色橫帶"	"底靛緯"
 "item.banner.stripe_bottom.brown"	"Brown Base Fess"	"Original Translation
 zh_CN: 底棕横条
-zh_TW: 下方棕色橫帶"	""
+zh_TW: 下方棕色橫帶"	"底褐緯"
 "item.banner.stripe_bottom.cyan"	"Cyan Base Fess"	"Original Translation
 zh_CN: 底青横条
-zh_TW: 下方青綠色橫帶"	""
+zh_TW: 下方青綠色橫帶"	"底黛緯"
 "item.banner.stripe_bottom.gray"	"Gray Base Fess"	"Original Translation
 zh_CN: 底灰横条
-zh_TW: 下方灰色橫帶"	""
+zh_TW: 下方灰色橫帶"	"底灰緯"
 "item.banner.stripe_bottom.green"	"Green Base Fess"	"Original Translation
 zh_CN: 底绿横条
-zh_TW: 下方綠色橫帶"	""
+zh_TW: 下方綠色橫帶"	"底綠緯"
 "item.banner.stripe_bottom.lightBlue"	"Light Blue Base Fess"	"Original Translation
 zh_CN: 底淡蓝横条
-zh_TW: 下方淺藍色橫帶"	""
+zh_TW: 下方淺藍色橫帶"	"底縹緯"
 "item.banner.stripe_bottom.lime"	"Lime Base Fess"	"Original Translation
 zh_CN: 底黄绿横条
-zh_TW: 下方淡黃綠色橫帶"	""
+zh_TW: 下方淡黃綠色橫帶"	"底翠緯"
 "item.banner.stripe_bottom.magenta"	"Magenta Base Fess"	"Original Translation
 zh_CN: 底品红横条
-zh_TW: 下方洋紅色橫帶"	""
+zh_TW: 下方洋紅色橫帶"	"底赬緯"
 "item.banner.stripe_bottom.orange"	"Orange Base Fess"	"Original Translation
 zh_CN: 底橙横条
-zh_TW: 下方橙色橫帶"	""
+zh_TW: 下方橙色橫帶"	"底橙緯"
 "item.banner.stripe_bottom.pink"	"Pink Base Fess"	"Original Translation
 zh_CN: 底粉红横条
-zh_TW: 下方粉紅色橫帶"	""
+zh_TW: 下方粉紅色橫帶"	"底紅緯"
 "item.banner.stripe_bottom.purple"	"Purple Base Fess"	"Original Translation
 zh_CN: 底紫横条
-zh_TW: 下方紫色橫帶"	""
+zh_TW: 下方紫色橫帶"	"底紫緯"
 "item.banner.stripe_bottom.red"	"Red Base Fess"	"Original Translation
 zh_CN: 底红横条
-zh_TW: 下方紅色橫帶"	""
+zh_TW: 下方紅色橫帶"	"底赤緯"
 "item.banner.stripe_bottom.silver"	"Light Gray Base Fess"	"Original Translation
 zh_CN: 底淡灰横条
-zh_TW: 下方淺灰色橫帶"	""
+zh_TW: 下方淺灰色橫帶"	"底蒼緯"
 "item.banner.stripe_bottom.white"	"White Base Fess"	"Original Translation
 zh_CN: 底白横条
-zh_TW: 下方白色橫帶"	""
+zh_TW: 下方白色橫帶"	"底素緯"
 "item.banner.stripe_bottom.yellow"	"Yellow Base Fess"	"Original Translation
 zh_CN: 底黄横条
-zh_TW: 下方黃色橫帶"	""
+zh_TW: 下方黃色橫帶"	"底黃緯"
 "item.banner.stripe_center.black"	"Black Pale"	"Original Translation
 zh_CN: 中黑竖条
-zh_TW: 中間黑色縱帶"	""
+zh_TW: 中間黑色縱帶"	"央玄縱"
 "item.banner.stripe_center.blue"	"Blue Pale"	"Original Translation
 zh_CN: 中蓝竖条
-zh_TW: 中間藍色縱帶"	""
+zh_TW: 中間藍色縱帶"	"央靛縱"
 "item.banner.stripe_center.brown"	"Brown Pale"	"Original Translation
 zh_CN: 中棕竖条
-zh_TW: 中間棕色縱帶"	""
+zh_TW: 中間棕色縱帶"	"央褐縱"
 "item.banner.stripe_center.cyan"	"Cyan Pale"	"Original Translation
 zh_CN: 中青竖条
-zh_TW: 中間青綠色縱帶"	""
+zh_TW: 中間青綠色縱帶"	"央黛縱"
 "item.banner.stripe_center.gray"	"Gray Pale"	"Original Translation
 zh_CN: 中灰竖条
-zh_TW: 中間灰色縱帶"	""
+zh_TW: 中間灰色縱帶"	"央灰縱"
 "item.banner.stripe_center.green"	"Green Pale"	"Original Translation
 zh_CN: 中绿竖条
-zh_TW: 中間綠色縱帶"	""
+zh_TW: 中間綠色縱帶"	"央綠縱"
 "item.banner.stripe_center.lightBlue"	"Light Blue Pale"	"Original Translation
 zh_CN: 中淡蓝竖条
-zh_TW: 中間淺藍色縱帶"	""
+zh_TW: 中間淺藍色縱帶"	"央縹縱"
 "item.banner.stripe_center.lime"	"Lime Pale"	"Original Translation
 zh_CN: 中黄绿竖条
-zh_TW: 中間淡黃綠色縱帶"	""
+zh_TW: 中間淡黃綠色縱帶"	"央翠縱"
 "item.banner.stripe_center.magenta"	"Magenta Pale"	"Original Translation
 zh_CN: 中品红竖条
-zh_TW: 中間洋紅色縱帶"	""
+zh_TW: 中間洋紅色縱帶"	"央赬縱"
 "item.banner.stripe_center.orange"	"Orange Pale"	"Original Translation
 zh_CN: 中橙竖条
-zh_TW: 中間橙色縱帶"	""
+zh_TW: 中間橙色縱帶"	"央橙縱"
 "item.banner.stripe_center.pink"	"Pink Pale"	"Original Translation
 zh_CN: 中粉竖条
-zh_TW: 中間粉紅色縱帶"	""
+zh_TW: 中間粉紅色縱帶"	"央紅縱"
 "item.banner.stripe_center.purple"	"Purple Pale"	"Original Translation
 zh_CN: 中紫竖条
-zh_TW: 中間紫色縱帶"	""
+zh_TW: 中間紫色縱帶"	"央紫縱"
 "item.banner.stripe_center.red"	"Red Pale"	"Original Translation
 zh_CN: 中红竖条
-zh_TW: 中間紅色縱帶"	""
+zh_TW: 中間紅色縱帶"	"央赤縱"
 "item.banner.stripe_center.silver"	"Light Gray Pale"	"Original Translation
 zh_CN: 中淡灰竖条
-zh_TW: 中間淺灰色縱帶"	""
+zh_TW: 中間淺灰色縱帶"	"央蒼縱"
 "item.banner.stripe_center.white"	"White Pale"	"Original Translation
 zh_CN: 中白竖条
-zh_TW: 中間白色縱帶"	""
+zh_TW: 中間白色縱帶"	"央素縱"
 "item.banner.stripe_center.yellow"	"Yellow Pale"	"Original Translation
 zh_CN: 中黄竖条
-zh_TW: 中間黃色縱帶"	""
+zh_TW: 中間黃色縱帶"	"央黃縱"
 "item.banner.stripe_downleft.black"	"Black Bend Sinister"	"Original Translation
 zh_CN: 左黑斜条
-zh_TW: 後斜黑色對角帶"	""
+zh_TW: 後斜黑色對角帶"	"左玄緞"
 "item.banner.stripe_downleft.blue"	"Blue Bend Sinister"	"Original Translation
 zh_CN: 左蓝斜条
-zh_TW: 後斜藍色對角帶"	""
+zh_TW: 後斜藍色對角帶"	"左靛緞"
 "item.banner.stripe_downleft.brown"	"Brown Bend Sinister"	"Original Translation
 zh_CN: 左棕斜条
-zh_TW: 後斜棕色對角帶"	""
+zh_TW: 後斜棕色對角帶"	"左褐緞"
 "item.banner.stripe_downleft.cyan"	"Cyan Bend Sinister"	"Original Translation
 zh_CN: 左青斜条
-zh_TW: 後斜青綠色對角帶"	""
+zh_TW: 後斜青綠色對角帶"	"左黛緞"
 "item.banner.stripe_downleft.gray"	"Gray Bend Sinister"	"Original Translation
 zh_CN: 左灰斜条
-zh_TW: 後斜灰色對角帶"	""
+zh_TW: 後斜灰色對角帶"	"左灰緞"
 "item.banner.stripe_downleft.green"	"Green Bend Sinister"	"Original Translation
 zh_CN: 左绿斜条
-zh_TW: 後斜綠色對角帶"	""
+zh_TW: 後斜綠色對角帶"	"左綠緞"
 "item.banner.stripe_downleft.lightBlue"	"Light Blue Bend Sinister"	"Original Translation
 zh_CN: 左淡蓝斜条
-zh_TW: 後斜淺藍色對角帶"	""
+zh_TW: 後斜淺藍色對角帶"	"左縹緞"
 "item.banner.stripe_downleft.lime"	"Lime Bend Sinister"	"Original Translation
 zh_CN: 左黄绿斜条
-zh_TW: 後斜淡黃綠色對角帶"	""
+zh_TW: 後斜淡黃綠色對角帶"	"左翠緞"
 "item.banner.stripe_downleft.magenta"	"Magenta Bend Sinister"	"Original Translation
 zh_CN: 左品红斜条
-zh_TW: 後斜洋紅色對角帶"	""
+zh_TW: 後斜洋紅色對角帶"	"左赬緞"
 "item.banner.stripe_downleft.orange"	"Orange Bend Sinister"	"Original Translation
 zh_CN: 左橙斜条
-zh_TW: 後斜橙色對角帶"	""
+zh_TW: 後斜橙色對角帶"	"左橙緞"
 "item.banner.stripe_downleft.pink"	"Pink Bend Sinister"	"Original Translation
 zh_CN: 左粉红斜条
-zh_TW: 後斜粉紅色對角帶"	""
+zh_TW: 後斜粉紅色對角帶"	"左紅緞"
 "item.banner.stripe_downleft.purple"	"Purple Bend Sinister"	"Original Translation
 zh_CN: 左紫斜条
-zh_TW: 後斜紫色對角帶"	""
+zh_TW: 後斜紫色對角帶"	"左紫緞"
 "item.banner.stripe_downleft.red"	"Red Bend Sinister"	"Original Translation
 zh_CN: 左红斜条
-zh_TW: 後斜紅色對角帶"	""
+zh_TW: 後斜紅色對角帶"	"左赤緞"
 "item.banner.stripe_downleft.silver"	"Light Gray Bend Sinister"	"Original Translation
 zh_CN: 左淡灰斜条
-zh_TW: 後斜淺灰色對角帶"	""
+zh_TW: 後斜淺灰色對角帶"	"左蒼緞"
 "item.banner.stripe_downleft.white"	"White Bend Sinister"	"Original Translation
 zh_CN: 左白斜条
-zh_TW: 後斜白色對角帶"	""
+zh_TW: 後斜白色對角帶"	"左素緞"
 "item.banner.stripe_downleft.yellow"	"Yellow Bend Sinister"	"Original Translation
 zh_CN: 左黄斜条
-zh_TW: 後斜黃色對角帶"	""
+zh_TW: 後斜黃色對角帶"	"左黃緞"
 "item.banner.stripe_downright.black"	"Black Bend"	"Original Translation
 zh_CN: 右黑斜条
-zh_TW: 前斜黑色對角帶"	""
+zh_TW: 前斜黑色對角帶"	"右玄緞"
 "item.banner.stripe_downright.blue"	"Blue Bend"	"Original Translation
 zh_CN: 右蓝斜条
-zh_TW: 前斜藍色對角帶"	""
+zh_TW: 前斜藍色對角帶"	"右靛緞"
 "item.banner.stripe_downright.brown"	"Brown Bend"	"Original Translation
 zh_CN: 右棕斜条
-zh_TW: 前斜棕色對角帶"	""
+zh_TW: 前斜棕色對角帶"	"右褐緞"
 "item.banner.stripe_downright.cyan"	"Cyan Bend"	"Original Translation
 zh_CN: 右青斜条
-zh_TW: 前斜青綠色對角帶"	""
+zh_TW: 前斜青綠色對角帶"	"右黛緞"
 "item.banner.stripe_downright.gray"	"Gray Bend"	"Original Translation
 zh_CN: 右灰斜条
-zh_TW: 前斜灰色對角帶"	""
+zh_TW: 前斜灰色對角帶"	"右灰緞"
 "item.banner.stripe_downright.green"	"Green Bend"	"Original Translation
 zh_CN: 右绿斜条
-zh_TW: 前斜綠色對角帶"	""
+zh_TW: 前斜綠色對角帶"	"右綠緞"
 "item.banner.stripe_downright.lightBlue"	"Light Blue Bend"	"Original Translation
 zh_CN: 右淡蓝斜条
-zh_TW: 前斜淺藍色對角帶"	""
+zh_TW: 前斜淺藍色對角帶"	"右縹緞"
 "item.banner.stripe_downright.lime"	"Lime Bend"	"Original Translation
 zh_CN: 右黄绿斜条
-zh_TW: 前斜淡黃綠色對角帶"	""
+zh_TW: 前斜淡黃綠色對角帶"	"右翠緞"
 "item.banner.stripe_downright.magenta"	"Magenta Bend"	"Original Translation
 zh_CN: 右品红斜条
-zh_TW: 前斜洋紅色對角帶"	""
+zh_TW: 前斜洋紅色對角帶"	"右赬緞"
 "item.banner.stripe_downright.orange"	"Orange Bend"	"Original Translation
 zh_CN: 右橙斜条
-zh_TW: 前斜橙色對角帶"	""
+zh_TW: 前斜橙色對角帶"	"右橙緞"
 "item.banner.stripe_downright.pink"	"Pink Bend"	"Original Translation
 zh_CN: 右粉红斜条
-zh_TW: 前斜粉紅色對角帶"	""
+zh_TW: 前斜粉紅色對角帶"	"右紅緞"
 "item.banner.stripe_downright.purple"	"Purple Bend"	"Original Translation
 zh_CN: 右紫斜条
-zh_TW: 前斜紫色對角帶"	""
+zh_TW: 前斜紫色對角帶"	"右紫緞"
 "item.banner.stripe_downright.red"	"Red Bend"	"Original Translation
 zh_CN: 右红斜条
-zh_TW: 前斜紅色對角帶"	""
+zh_TW: 前斜紅色對角帶"	"右赤緞"
 "item.banner.stripe_downright.silver"	"Light Gray Bend"	"Original Translation
 zh_CN: 右淡灰斜条
-zh_TW: 前斜淺灰色對角帶"	""
+zh_TW: 前斜淺灰色對角帶"	"右蒼緞"
 "item.banner.stripe_downright.white"	"White Bend"	"Original Translation
 zh_CN: 右白斜条
-zh_TW: 前斜白色對角帶"	""
+zh_TW: 前斜白色對角帶"	"右素緞"
 "item.banner.stripe_downright.yellow"	"Yellow Bend"	"Original Translation
 zh_CN: 右黄斜条
-zh_TW: 前斜黃色對角帶"	""
+zh_TW: 前斜黃色對角帶"	"右黃緞"
 "item.banner.stripe_left.black"	"Black Pale Dexter"	"Original Translation
 zh_CN: 右黑竖条
-zh_TW: 右方黑色縱帶"	""
+zh_TW: 右方黑色縱帶"	"右玄"
 "item.banner.stripe_left.blue"	"Blue Pale Dexter"	"Original Translation
 zh_CN: 右蓝竖条
-zh_TW: 右方藍色縱帶"	""
+zh_TW: 右方藍色縱帶"	"右靛"
 "item.banner.stripe_left.brown"	"Brown Pale Dexter"	"Original Translation
 zh_CN: 右棕竖条
-zh_TW: 右方棕色縱帶"	""
+zh_TW: 右方棕色縱帶"	"右褐"
 "item.banner.stripe_left.cyan"	"Cyan Pale Dexter"	"Original Translation
 zh_CN: 右青竖条
-zh_TW: 右方青綠色縱帶"	""
+zh_TW: 右方青綠色縱帶"	"右黛"
 "item.banner.stripe_left.gray"	"Gray Pale Dexter"	"Original Translation
 zh_CN: 右灰竖条
-zh_TW: 右方灰色縱帶"	""
+zh_TW: 右方灰色縱帶"	"右灰"
 "item.banner.stripe_left.green"	"Green Pale Dexter"	"Original Translation
 zh_CN: 右绿竖条
-zh_TW: 右方綠色縱帶"	""
+zh_TW: 右方綠色縱帶"	"右綠"
 "item.banner.stripe_left.lightBlue"	"Light Blue Pale Dexter"	"Original Translation
 zh_CN: 右淡蓝竖条
-zh_TW: 右方淺藍色縱帶"	""
+zh_TW: 右方淺藍色縱帶"	"右縹"
 "item.banner.stripe_left.lime"	"Lime Pale Dexter"	"Original Translation
 zh_CN: 右黄绿竖条
-zh_TW: 右方淡黃綠色縱帶"	""
+zh_TW: 右方淡黃綠色縱帶"	"右翠"
 "item.banner.stripe_left.magenta"	"Magenta Pale Dexter"	"Original Translation
 zh_CN: 右品红竖条
-zh_TW: 右方洋紅色縱帶"	""
+zh_TW: 右方洋紅色縱帶"	"右赬"
 "item.banner.stripe_left.orange"	"Orange Pale Dexter"	"Original Translation
 zh_CN: 右橙竖条
-zh_TW: 右方橙色縱帶"	""
+zh_TW: 右方橙色縱帶"	"右橙"
 "item.banner.stripe_left.pink"	"Pink Pale Dexter"	"Original Translation
 zh_CN: 右粉竖条
-zh_TW: 右方粉紅色縱帶"	""
+zh_TW: 右方粉紅色縱帶"	"右紅"
 "item.banner.stripe_left.purple"	"Purple Pale Dexter"	"Original Translation
 zh_CN: 右紫竖条
-zh_TW: 右方紫色縱帶"	""
+zh_TW: 右方紫色縱帶"	"右紫"
 "item.banner.stripe_left.red"	"Red Pale Dexter"	"Original Translation
 zh_CN: 右红竖条
-zh_TW: 右方紅色縱帶"	""
+zh_TW: 右方紅色縱帶"	"右赤"
 "item.banner.stripe_left.silver"	"Light Gray Pale Dexter"	"Original Translation
 zh_CN: 右淡灰竖条
-zh_TW: 右方淺灰色縱帶"	""
+zh_TW: 右方淺灰色縱帶"	"右蒼"
 "item.banner.stripe_left.white"	"White Pale Dexter"	"Original Translation
 zh_CN: 右白竖条
-zh_TW: 右方白色縱帶"	""
+zh_TW: 右方白色縱帶"	"右素"
 "item.banner.stripe_left.yellow"	"Yellow Pale Dexter"	"Original Translation
 zh_CN: 右黄竖条
-zh_TW: 右方黃色縱帶"	""
+zh_TW: 右方黃色縱帶"	"右黃"
 "item.banner.stripe_middle.black"	"Black Fess"	"Original Translation
 zh_CN: 中黑横条
-zh_TW: 中間黑色橫帶"	""
+zh_TW: 中間黑色橫帶"	"央玄緯"
 "item.banner.stripe_middle.blue"	"Blue Fess"	"Original Translation
 zh_CN: 中蓝横条
-zh_TW: 中間藍色橫帶"	""
+zh_TW: 中間藍色橫帶"	"央靛緯"
 "item.banner.stripe_middle.brown"	"Brown Fess"	"Original Translation
 zh_CN: 中棕横条
-zh_TW: 中間棕色橫帶"	""
+zh_TW: 中間棕色橫帶"	"央褐緯"
 "item.banner.stripe_middle.cyan"	"Cyan Fess"	"Original Translation
 zh_CN: 中青横条
-zh_TW: 中間青綠色橫帶"	""
+zh_TW: 中間青綠色橫帶"	"央黛緯"
 "item.banner.stripe_middle.gray"	"Gray Fess"	"Original Translation
 zh_CN: 中灰横条
-zh_TW: 中間灰色橫帶"	""
+zh_TW: 中間灰色橫帶"	"央灰緯"
 "item.banner.stripe_middle.green"	"Green Fess"	"Original Translation
 zh_CN: 中绿横条
-zh_TW: 中間綠色橫帶"	""
+zh_TW: 中間綠色橫帶"	"央綠緯"
 "item.banner.stripe_middle.lightBlue"	"Light Blue Fess"	"Original Translation
 zh_CN: 中淡蓝横条
-zh_TW: 中間淺藍色橫帶"	""
+zh_TW: 中間淺藍色橫帶"	"央縹緯"
 "item.banner.stripe_middle.lime"	"Lime Fess"	"Original Translation
 zh_CN: 中黄绿横条
-zh_TW: 中間淡黃綠色橫帶"	""
+zh_TW: 中間淡黃綠色橫帶"	"央翠緯"
 "item.banner.stripe_middle.magenta"	"Magenta Fess"	"Original Translation
 zh_CN: 中品红横条
-zh_TW: 中間洋紅色橫帶"	""
+zh_TW: 中間洋紅色橫帶"	"央赬緯"
 "item.banner.stripe_middle.orange"	"Orange Fess"	"Original Translation
 zh_CN: 中橙横条
-zh_TW: 中間橙色橫帶"	""
+zh_TW: 中間橙色橫帶"	"央橙緯"
 "item.banner.stripe_middle.pink"	"Pink Fess"	"Original Translation
 zh_CN: 中粉横条
-zh_TW: 中間粉紅色橫帶"	""
+zh_TW: 中間粉紅色橫帶"	"央紅緯"
 "item.banner.stripe_middle.purple"	"Purple Fess"	"Original Translation
 zh_CN: 中紫横条
-zh_TW: 中間紫色橫帶"	""
+zh_TW: 中間紫色橫帶"	"央紫緯"
 "item.banner.stripe_middle.red"	"Red Fess"	"Original Translation
 zh_CN: 中红横条
-zh_TW: 中間紅色橫帶"	""
+zh_TW: 中間紅色橫帶"	"央赤緯"
 "item.banner.stripe_middle.silver"	"Light Gray Fess"	"Original Translation
 zh_CN: 中淡灰横条
-zh_TW: 中間淺灰色橫帶"	""
+zh_TW: 中間淺灰色橫帶"	"央蒼緯"
 "item.banner.stripe_middle.white"	"White Fess"	"Original Translation
 zh_CN: 中白横条
-zh_TW: 中間白色橫帶"	""
+zh_TW: 中間白色橫帶"	"央素緯"
 "item.banner.stripe_middle.yellow"	"Yellow Fess"	"Original Translation
 zh_CN: 中黄横条
-zh_TW: 中間黃色橫帶"	""
+zh_TW: 中間黃色橫帶"	"央黃緯"
 "item.banner.stripe_right.black"	"Black Pale Sinister"	"Original Translation
 zh_CN: 左黑竖条
-zh_TW: 左方黑色縱帶"	""
+zh_TW: 左方黑色縱帶"	"左玄"
 "item.banner.stripe_right.blue"	"Blue Pale Sinister"	"Original Translation
 zh_CN: 左蓝竖条
-zh_TW: 左方藍色縱帶"	""
+zh_TW: 左方藍色縱帶"	"左靛"
 "item.banner.stripe_right.brown"	"Brown Pale Sinister"	"Original Translation
 zh_CN: 左棕竖条
-zh_TW: 左方棕色縱帶"	""
+zh_TW: 左方棕色縱帶"	"左褐"
 "item.banner.stripe_right.cyan"	"Cyan Pale Sinister"	"Original Translation
 zh_CN: 左青竖条
-zh_TW: 左方青綠色縱帶"	""
+zh_TW: 左方青綠色縱帶"	"左黛"
 "item.banner.stripe_right.gray"	"Gray Pale Sinister"	"Original Translation
 zh_CN: 左灰竖条
-zh_TW: 左方灰色縱帶"	""
+zh_TW: 左方灰色縱帶"	"左灰"
 "item.banner.stripe_right.green"	"Green Pale Sinister"	"Original Translation
 zh_CN: 左绿竖条
-zh_TW: 左方綠色縱帶"	""
+zh_TW: 左方綠色縱帶"	"左綠"
 "item.banner.stripe_right.lightBlue"	"Light Blue Pale Sinister"	"Original Translation
 zh_CN: 左淡蓝竖条
-zh_TW: 左方淺藍色縱帶"	""
+zh_TW: 左方淺藍色縱帶"	"左縹"
 "item.banner.stripe_right.lime"	"Lime Pale Sinister"	"Original Translation
 zh_CN: 左黄绿竖条
-zh_TW: 左方淡黃綠色縱帶"	""
+zh_TW: 左方淡黃綠色縱帶"	"左翠"
 "item.banner.stripe_right.magenta"	"Magenta Pale Sinister"	"Original Translation
 zh_CN: 左品红竖条
-zh_TW: 左方洋紅色縱帶"	""
+zh_TW: 左方洋紅色縱帶"	"左赬"
 "item.banner.stripe_right.orange"	"Orange Pale Sinister"	"Original Translation
 zh_CN: 左橙竖条
-zh_TW: 左方橙色縱帶"	""
+zh_TW: 左方橙色縱帶"	"左橙"
 "item.banner.stripe_right.pink"	"Pink Pale Sinister"	"Original Translation
 zh_CN: 左粉竖条
-zh_TW: 左方粉紅色縱帶"	""
+zh_TW: 左方粉紅色縱帶"	"左紅"
 "item.banner.stripe_right.purple"	"Purple Pale Sinister"	"Original Translation
 zh_CN: 左紫竖条
-zh_TW: 左方紫色縱帶"	""
+zh_TW: 左方紫色縱帶"	"左紫"
 "item.banner.stripe_right.red"	"Red Pale Sinister"	"Original Translation
 zh_CN: 左红竖条
-zh_TW: 左方紅色縱帶"	""
+zh_TW: 左方紅色縱帶"	"左赤"
 "item.banner.stripe_right.silver"	"Light Gray Pale Sinister"	"Original Translation
 zh_CN: 左淡灰竖条
-zh_TW: 左方淺灰色縱帶"	""
+zh_TW: 左方淺灰色縱帶"	"左蒼"
 "item.banner.stripe_right.white"	"White Pale Sinister"	"Original Translation
 zh_CN: 左白竖条
-zh_TW: 左方白色縱帶"	""
+zh_TW: 左方白色縱帶"	"左素"
 "item.banner.stripe_right.yellow"	"Yellow Pale Sinister"	"Original Translation
 zh_CN: 左黄竖条
-zh_TW: 左方黃色縱帶"	""
+zh_TW: 左方黃色縱帶"	"左黃"
 "item.banner.stripe_top.black"	"Black Chief Fess"	"Original Translation
 zh_CN: 顶黑横条
-zh_TW: 上方黑色橫帶"	""
+zh_TW: 上方黑色橫帶"	"頂玄緯"
 "item.banner.stripe_top.blue"	"Blue Chief Fess"	"Original Translation
 zh_CN: 顶蓝横条
-zh_TW: 上方藍色橫帶"	""
+zh_TW: 上方藍色橫帶"	"頂靛緯"
 "item.banner.stripe_top.brown"	"Brown Chief Fess"	"Original Translation
 zh_CN: 顶棕横条
-zh_TW: 上方棕色橫帶"	""
+zh_TW: 上方棕色橫帶"	"頂褐緯"
 "item.banner.stripe_top.cyan"	"Cyan Chief Fess"	"Original Translation
 zh_CN: 顶青横条
-zh_TW: 上方青綠色橫帶"	""
+zh_TW: 上方青綠色橫帶"	"頂黛緯"
 "item.banner.stripe_top.gray"	"Gray Chief Fess"	"Original Translation
 zh_CN: 顶灰横条
-zh_TW: 上方灰色橫帶"	""
+zh_TW: 上方灰色橫帶"	"頂灰緯"
 "item.banner.stripe_top.green"	"Green Chief Fess"	"Original Translation
 zh_CN: 顶绿横条
-zh_TW: 上方綠色橫帶"	""
+zh_TW: 上方綠色橫帶"	"頂綠緯"
 "item.banner.stripe_top.lightBlue"	"Light Blue Chief Fess"	"Original Translation
 zh_CN: 顶淡蓝横条
-zh_TW: 上方淺藍色橫帶"	""
+zh_TW: 上方淺藍色橫帶"	"頂縹緯"
 "item.banner.stripe_top.lime"	"Lime Chief Fess"	"Original Translation
 zh_CN: 顶黄绿横条
-zh_TW: 上方淡黃綠色橫帶"	""
+zh_TW: 上方淡黃綠色橫帶"	"頂翠緯"
 "item.banner.stripe_top.magenta"	"Magenta Chief Fess"	"Original Translation
 zh_CN: 顶品红横条
-zh_TW: 上方洋紅色橫帶"	""
+zh_TW: 上方洋紅色橫帶"	"頂赬緯"
 "item.banner.stripe_top.orange"	"Orange Chief Fess"	"Original Translation
 zh_CN: 顶橙横条
-zh_TW: 上方橙色橫帶"	""
+zh_TW: 上方橙色橫帶"	"頂橙緯"
 "item.banner.stripe_top.pink"	"Pink Chief Fess"	"Original Translation
 zh_CN: 顶粉横条
-zh_TW: 上方粉紅色橫帶"	""
+zh_TW: 上方粉紅色橫帶"	"頂紅緯"
 "item.banner.stripe_top.purple"	"Purple Chief Fess"	"Original Translation
 zh_CN: 顶紫横条
-zh_TW: 上方紫色橫帶"	""
+zh_TW: 上方紫色橫帶"	"頂紫緯"
 "item.banner.stripe_top.red"	"Red Chief Fess"	"Original Translation
 zh_CN: 顶红横条
-zh_TW: 上方紅色橫帶"	""
+zh_TW: 上方紅色橫帶"	"頂赤緯"
 "item.banner.stripe_top.silver"	"Light Gray Chief Fess"	"Original Translation
 zh_CN: 顶淡灰横条
-zh_TW: 上方淺灰色橫帶"	""
+zh_TW: 上方淺灰色橫帶"	"頂蒼緯"
 "item.banner.stripe_top.white"	"White Chief Fess"	"Original Translation
 zh_CN: 顶白横条
-zh_TW: 上方白色橫帶"	""
+zh_TW: 上方白色橫帶"	"頂素緯"
 "item.banner.stripe_top.yellow"	"Yellow Chief Fess"	"Original Translation
 zh_CN: 顶黄横条
-zh_TW: 上方黃色橫帶"	""
+zh_TW: 上方黃色橫帶"	"頂黃緯"
 "item.banner.triangle_bottom.black"	"Black Chevron"	"Original Translation
 zh_CN: 底黑三角
-zh_TW: 下方黑色三角形"	""
+zh_TW: 下方黑色三角形"	"底玄勾股紋"
 "item.banner.triangle_bottom.blue"	"Blue Chevron"	"Original Translation
 zh_CN: 底蓝三角
-zh_TW: 下方藍色三角形"	""
+zh_TW: 下方藍色三角形"	"底靛勾股紋"
 "item.banner.triangle_bottom.brown"	"Brown Chevron"	"Original Translation
 zh_CN: 底棕三角
-zh_TW: 下方棕色三角形"	""
+zh_TW: 下方棕色三角形"	"底褐勾股紋"
 "item.banner.triangle_bottom.cyan"	"Cyan Chevron"	"Original Translation
 zh_CN: 底青三角
-zh_TW: 下方青綠色三角形"	""
+zh_TW: 下方青綠色三角形"	"底黛勾股紋"
 "item.banner.triangle_bottom.gray"	"Gray Chevron"	"Original Translation
 zh_CN: 底灰三角
-zh_TW: 下方灰色三角形"	""
+zh_TW: 下方灰色三角形"	"底灰勾股紋"
 "item.banner.triangle_bottom.green"	"Green Chevron"	"Original Translation
 zh_CN: 底绿三角
-zh_TW: 下方綠色三角形"	""
+zh_TW: 下方綠色三角形"	"底綠勾股紋"
 "item.banner.triangle_bottom.lightBlue"	"Light Blue Chevron"	"Original Translation
 zh_CN: 底淡蓝三角
-zh_TW: 下方淺藍色三角形"	""
+zh_TW: 下方淺藍色三角形"	"底縹勾股紋"
 "item.banner.triangle_bottom.lime"	"Lime Chevron"	"Original Translation
 zh_CN: 底黄绿三角
-zh_TW: 下方淡黃綠色三角形"	""
+zh_TW: 下方淡黃綠色三角形"	"底翠勾股紋"
 "item.banner.triangle_bottom.magenta"	"Magenta Chevron"	"Original Translation
 zh_CN: 底品红三角
-zh_TW: 下方洋紅色三角形"	""
+zh_TW: 下方洋紅色三角形"	"底赬勾股紋"
 "item.banner.triangle_bottom.orange"	"Orange Chevron"	"Original Translation
 zh_CN: 底橙三角
-zh_TW: 下方橙色三角形"	""
+zh_TW: 下方橙色三角形"	"底橙勾股紋"
 "item.banner.triangle_bottom.pink"	"Pink Chevron"	"Original Translation
 zh_CN: 底粉红三角
-zh_TW: 下方粉紅色三角形"	""
+zh_TW: 下方粉紅色三角形"	"底紅勾股紋"
 "item.banner.triangle_bottom.purple"	"Purple Chevron"	"Original Translation
 zh_CN: 底紫三角
-zh_TW: 下方紫色三角形"	""
+zh_TW: 下方紫色三角形"	"底紫勾股紋"
 "item.banner.triangle_bottom.red"	"Red Chevron"	"Original Translation
 zh_CN: 底红三角
-zh_TW: 下方紅色三角形"	""
+zh_TW: 下方紅色三角形"	"底赤勾股紋"
 "item.banner.triangle_bottom.silver"	"Light Gray Chevron"	"Original Translation
 zh_CN: 底淡灰三角
-zh_TW: 下方淺灰色三角形"	""
+zh_TW: 下方淺灰色三角形"	"底蒼勾股紋"
 "item.banner.triangle_bottom.white"	"White Chevron"	"Original Translation
 zh_CN: 底白三角
-zh_TW: 下方白色三角形"	""
+zh_TW: 下方白色三角形"	"底素勾股紋"
 "item.banner.triangle_bottom.yellow"	"Yellow Chevron"	"Original Translation
 zh_CN: 底黄三角
-zh_TW: 下方黃色三角形"	""
+zh_TW: 下方黃色三角形"	"底黃勾股紋"
 "item.banner.triangle_top.black"	"Black Inverted Chevron"	"Original Translation
 zh_CN: 顶黑三角
-zh_TW: 上方黑色倒三角形"	""
+zh_TW: 上方黑色倒三角形"	"頂玄勾股紋"
 "item.banner.triangle_top.blue"	"Blue Inverted Chevron"	"Original Translation
 zh_CN: 顶蓝三角
-zh_TW: 上方藍色倒三角形"	""
+zh_TW: 上方藍色倒三角形"	"頂靛勾股紋"
 "item.banner.triangle_top.brown"	"Brown Inverted Chevron"	"Original Translation
 zh_CN: 顶棕三角
-zh_TW: 上方棕色倒三角形"	""
+zh_TW: 上方棕色倒三角形"	"頂褐勾股紋"
 "item.banner.triangle_top.cyan"	"Cyan Inverted Chevron"	"Original Translation
 zh_CN: 顶青三角
-zh_TW: 上方青綠色倒三角形"	""
+zh_TW: 上方青綠色倒三角形"	"頂黛勾股紋"
 "item.banner.triangle_top.gray"	"Gray Inverted Chevron"	"Original Translation
 zh_CN: 灰色顶三角
-zh_TW: 上方灰色倒三角形"	""
+zh_TW: 上方灰色倒三角形"	"頂灰勾股紋"
 "item.banner.triangle_top.green"	"Green Inverted Chevron"	"Original Translation
 zh_CN: 顶绿三角
-zh_TW: 上方綠色倒三角形"	""
+zh_TW: 上方綠色倒三角形"	"頂綠勾股紋"
 "item.banner.triangle_top.lightBlue"	"Light Blue Inverted Chevron"	"Original Translation
 zh_CN: 淡蓝色顶三角
-zh_TW: 上方淺藍色倒三角形"	""
+zh_TW: 上方淺藍色倒三角形"	"頂縹勾股紋"
 "item.banner.triangle_top.lime"	"Lime Inverted Chevron"	"Original Translation
 zh_CN: 黄绿色顶三角
-zh_TW: 上方淡黃綠色倒三角形"	""
+zh_TW: 上方淡黃綠色倒三角形"	"頂翠勾股紋"
 "item.banner.triangle_top.magenta"	"Magenta Inverted Chevron"	"Original Translation
 zh_CN: 品红色顶三角
-zh_TW: 上方洋紅色倒三角形"	""
+zh_TW: 上方洋紅色倒三角形"	"頂赬勾股紋"
 "item.banner.triangle_top.orange"	"Orange Inverted Chevron"	"Original Translation
 zh_CN: 橙色顶三角
-zh_TW: 上方橙色倒三角形"	""
+zh_TW: 上方橙色倒三角形"	"頂橙勾股紋"
 "item.banner.triangle_top.pink"	"Pink Inverted Chevron"	"Original Translation
 zh_CN: 粉红色顶三角
-zh_TW: 上方粉紅色倒三角形"	""
+zh_TW: 上方粉紅色倒三角形"	"頂紅勾股紋"
 "item.banner.triangle_top.purple"	"Purple Inverted Chevron"	"Original Translation
 zh_CN: 顶紫三角
-zh_TW: 上方紫色倒三角形"	""
+zh_TW: 上方紫色倒三角形"	"頂紫勾股紋"
 "item.banner.triangle_top.red"	"Red Inverted Chevron"	"Original Translation
 zh_CN: 顶红三角
-zh_TW: 上方紅色倒三角形"	""
+zh_TW: 上方紅色倒三角形"	"頂赤勾股紋"
 "item.banner.triangle_top.silver"	"Light Gray Inverted Chevron"	"Original Translation
 zh_CN: 顶淡灰三角
-zh_TW: 上方淺灰色倒三角形"	""
+zh_TW: 上方淺灰色倒三角形"	"頂蒼勾股紋"
 "item.banner.triangle_top.white"	"White Inverted Chevron"	"Original Translation
 zh_CN: 白色顶三角
-zh_TW: 上方白色倒三角形"	""
+zh_TW: 上方白色倒三角形"	"頂素勾股紋"
 "item.banner.triangle_top.yellow"	"Yellow Inverted Chevron"	"Original Translation
 zh_CN: 黄色顶三角
-zh_TW: 上方黃色倒三角形"	""
+zh_TW: 上方黃色倒三角形"	"頂黃勾股紋"
 "item.banner.triangles_bottom.black"	"Black Base Indented"	"Original Translation
 zh_CN: 黑色底波纹
-zh_TW: 下側黑色鋸齒"	""
+zh_TW: 下側黑色鋸齒"	"底玄齒紋"
 "item.banner.triangles_bottom.blue"	"Blue Base Indented"	"Original Translation
 zh_CN: 蓝色底波纹
-zh_TW: 下側藍色鋸齒"	""
+zh_TW: 下側藍色鋸齒"	"底靛齒紋"
 "item.banner.triangles_bottom.brown"	"Brown Base Indented"	"Original Translation
 zh_CN: 棕色底波纹
-zh_TW: 下側棕色鋸齒"	""
+zh_TW: 下側棕色鋸齒"	"底褐齒紋"
 "item.banner.triangles_bottom.cyan"	"Cyan Base Indented"	"Original Translation
 zh_CN: 青色底波纹
-zh_TW: 下側青綠色鋸齒"	""
+zh_TW: 下側青綠色鋸齒"	"底黛齒紋"
 "item.banner.triangles_bottom.gray"	"Gray Base Indented"	"Original Translation
 zh_CN: 灰色底波纹
-zh_TW: 下側灰色鋸齒"	""
+zh_TW: 下側灰色鋸齒"	"底灰齒紋"
 "item.banner.triangles_bottom.green"	"Green Base Indented"	"Original Translation
 zh_CN: 绿色底波纹
-zh_TW: 下側綠色鋸齒"	""
+zh_TW: 下側綠色鋸齒"	"底綠齒紋"
 "item.banner.triangles_bottom.lightBlue"	"Light Blue Base Indented"	"Original Translation
 zh_CN: 淡蓝色底波纹
-zh_TW: 下側淺藍色鋸齒"	""
+zh_TW: 下側淺藍色鋸齒"	"底縹齒紋"
 "item.banner.triangles_bottom.lime"	"Lime Base Indented"	"Original Translation
 zh_CN: 黄绿色底波纹
-zh_TW: 下側淡黃綠色鋸齒"	""
+zh_TW: 下側淡黃綠色鋸齒"	"底翠齒紋"
 "item.banner.triangles_bottom.magenta"	"Magenta Base Indented"	"Original Translation
 zh_CN: 品红色底波纹
-zh_TW: 下側洋紅色鋸齒"	""
+zh_TW: 下側洋紅色鋸齒"	"底赬齒紋"
 "item.banner.triangles_bottom.orange"	"Orange Base Indented"	"Original Translation
 zh_CN: 橙色底波纹
-zh_TW: 下側橙色鋸齒"	""
+zh_TW: 下側橙色鋸齒"	"底橙齒紋"
 "item.banner.triangles_bottom.pink"	"Pink Base Indented"	"Original Translation
 zh_CN: 粉红色底波纹
-zh_TW: 下側粉紅色鋸齒"	""
+zh_TW: 下側粉紅色鋸齒"	"底紅齒紋"
 "item.banner.triangles_bottom.purple"	"Purple Base Indented"	"Original Translation
 zh_CN: 紫色底波纹
-zh_TW: 下側紫色鋸齒"	""
+zh_TW: 下側紫色鋸齒"	"底紫齒紋"
 "item.banner.triangles_bottom.red"	"Red Base Indented"	"Original Translation
 zh_CN: 红色底波纹
-zh_TW: 下側紅色鋸齒"	""
+zh_TW: 下側紅色鋸齒"	"底赤齒紋"
 "item.banner.triangles_bottom.silver"	"Light Gray Base Indented"	"Original Translation
 zh_CN: 淡灰色底波纹
-zh_TW: 下側淺灰色鋸齒"	""
+zh_TW: 下側淺灰色鋸齒"	"底蒼齒紋"
 "item.banner.triangles_bottom.white"	"White Base Indented"	"Original Translation
 zh_CN: 白色底波纹
-zh_TW: 下側白色鋸齒"	""
+zh_TW: 下側白色鋸齒"	"底素齒紋"
 "item.banner.triangles_bottom.yellow"	"Yellow Base Indented"	"Original Translation
 zh_CN: 黄色底波纹
-zh_TW: 下側黃色鋸齒"	""
+zh_TW: 下側黃色鋸齒"	"底黃齒紋"
 "item.banner.triangles_top.black"	"Black Chief Indented"	"Original Translation
 zh_CN: 黑色顶波纹
-zh_TW: 上側黑色鋸齒"	""
+zh_TW: 上側黑色鋸齒"	"頂玄齒紋"
 "item.banner.triangles_top.blue"	"Blue Chief Indented"	"Original Translation
 zh_CN: 蓝色顶波纹
-zh_TW: 上側藍色鋸齒"	""
+zh_TW: 上側藍色鋸齒"	"頂靛齒紋"
 "item.banner.triangles_top.brown"	"Brown Chief Indented"	"Original Translation
 zh_CN: 棕色顶波纹
-zh_TW: 上側棕色鋸齒"	""
+zh_TW: 上側棕色鋸齒"	"頂褐齒紋"
 "item.banner.triangles_top.cyan"	"Cyan Chief Indented"	"Original Translation
 zh_CN: 青色顶波纹
-zh_TW: 上側青綠色鋸齒"	""
+zh_TW: 上側青綠色鋸齒"	"頂黛齒紋"
 "item.banner.triangles_top.gray"	"Gray Chief Indented"	"Original Translation
 zh_CN: 灰色顶波纹
-zh_TW: 上側灰色鋸齒"	""
+zh_TW: 上側灰色鋸齒"	"頂灰齒紋"
 "item.banner.triangles_top.green"	"Green Chief Indented"	"Original Translation
 zh_CN: 绿色顶波纹
-zh_TW: 上側綠色鋸齒"	""
+zh_TW: 上側綠色鋸齒"	"頂綠齒紋"
 "item.banner.triangles_top.lightBlue"	"Light Blue Chief Indented"	"Original Translation
 zh_CN: 淡蓝色顶波纹
-zh_TW: 上側淺藍色鋸齒"	""
+zh_TW: 上側淺藍色鋸齒"	"頂縹齒紋"
 "item.banner.triangles_top.lime"	"Lime Chief Indented"	"Original Translation
 zh_CN: 黄绿色顶波纹
-zh_TW: 上側淡黃綠色鋸齒"	""
+zh_TW: 上側淡黃綠色鋸齒"	"頂翠齒紋"
 "item.banner.triangles_top.magenta"	"Magenta Chief Indented"	"Original Translation
 zh_CN: 品红色顶波纹
-zh_TW: 上側洋紅色鋸齒"	""
+zh_TW: 上側洋紅色鋸齒"	"頂赬齒紋"
 "item.banner.triangles_top.orange"	"Orange Chief Indented"	"Original Translation
 zh_CN: 橙色顶波纹
-zh_TW: 上側橙色鋸齒"	""
+zh_TW: 上側橙色鋸齒"	"頂橙齒紋"
 "item.banner.triangles_top.pink"	"Pink Chief Indented"	"Original Translation
 zh_CN: 粉红色顶波纹
-zh_TW: 上側粉紅色鋸齒"	""
+zh_TW: 上側粉紅色鋸齒"	"頂紅齒紋"
 "item.banner.triangles_top.purple"	"Purple Chief Indented"	"Original Translation
 zh_CN: 紫色顶波纹
-zh_TW: 上側紫色鋸齒"	""
+zh_TW: 上側紫色鋸齒"	"頂紫齒紋"
 "item.banner.triangles_top.red"	"Red Chief Indented"	"Original Translation
 zh_CN: 红色顶波纹
-zh_TW: 上側紅色鋸齒"	""
+zh_TW: 上側紅色鋸齒"	"頂赤齒紋"
 "item.banner.triangles_top.silver"	"Light Gray Chief Indented"	"Original Translation
 zh_CN: 淡灰色顶波纹
-zh_TW: 上側淺灰色鋸齒"	""
+zh_TW: 上側淺灰色鋸齒"	"頂蒼齒紋"
 "item.banner.triangles_top.white"	"White Chief Indented"	"Original Translation
 zh_CN: 白色顶波纹
-zh_TW: 上側白色鋸齒"	""
+zh_TW: 上側白色鋸齒"	"頂素齒紋"
 "item.banner.triangles_top.yellow"	"Yellow Chief Indented"	"Original Translation
 zh_CN: 黄色顶波纹
-zh_TW: 上側黃色鋸齒"	""
+zh_TW: 上側黃色鋸齒"	"頂黃齒紋"
 "item.banner.white.name"	"White Banner"	"Original Translation
 zh_CN: 白色旗帜
-zh_TW: 白色旗幟"	""
+zh_TW: 白色旗幟"	"素旗"
 "item.banner.yellow.name"	"Yellow Banner"	"Original Translation
 zh_CN: 黄色旗帜
-zh_TW: 黃色旗幟"	""
+zh_TW: 黃色旗幟"	"黃旗"
 "item.banner_pattern.bricks"	"Field Masoned"	"Original Translation
 zh_CN: 砖纹
-zh_TW: 磚牆花紋"	""
+zh_TW: 磚牆花紋"	"磚紋"
 "item.banner_pattern.creeper"	"Creeper Charge"	"Original Translation
 zh_CN: 苦力怕盾徽
-zh_TW: 苦力怕頭形狀"	""
+zh_TW: 苦力怕頭形狀"	"伏臨紋"
 "item.banner_pattern.flow"	"Flow"	"Original Translation
 zh_CN: 涡流
-zh_TW: 流動"	""
+zh_TW: 流動"	"氣洄紋"
 "item.banner_pattern.flower"	"Flower Charge"	"Original Translation
 zh_CN: 花朵盾徽
-zh_TW: 花朵形狀"	""
+zh_TW: 花朵形狀"	"花紋"
 "item.banner_pattern.globe"	"Globe"	"Original Translation
 zh_CN: 地球
-zh_TW: 球體"	""
+zh_TW: 球體"	"坤輿紋"
 "item.banner_pattern.guster"	"Guster"	"Original Translation
 zh_CN: 旋风
-zh_TW: 沙風怪"	""
+zh_TW: 沙風怪"	"飆紋"
 "item.banner_pattern.name"	"Banner Pattern"	"Original Translation
 zh_CN: 旗帜图案
-zh_TW: 旗幟樣式"	""
+zh_TW: 旗幟樣式"	"旗楷"
 "item.banner_pattern.piglin"	"Snout"	"Original Translation
 zh_CN: 猪鼻
-zh_TW: 鼻子"	""
+zh_TW: 鼻子"	"豕鼻"
 "item.banner_pattern.skull"	"Skull Charge"	"Original Translation
 zh_CN: 头颅盾徽
-zh_TW: 骷髏頭形狀"	""
+zh_TW: 骷髏頭形狀"	"髑顱紋"
 "item.banner_pattern.thing"	"Thing"	"Original Translation
 zh_CN: Mojang 徽标
-zh_TW: Mojang 標誌"	""
+zh_TW: Mojang 標誌"	"魔贊紋"
 "item.banner_pattern.vines"	"Bordure Indented"	"Original Translation
 zh_CN: 波纹边
-zh_TW: 鋸齒框邊"	""
+zh_TW: 鋸齒框邊"	"齒匡"
 "item.bed.black.name"	"Black Bed"	"Original Translation
 zh_CN: 黑床
-zh_TW: 黑色床舖"	""
+zh_TW: 黑色床舖"	"黑床"
 "item.bed.blue.name"	"Blue Bed"	"Original Translation
 zh_CN: 蓝床
-zh_TW: 藍色床舖"	""
+zh_TW: 藍色床舖"	"靛床"
 "item.bed.brown.name"	"Brown Bed"	"Original Translation
 zh_CN: 棕床
-zh_TW: 棕色床舖"	""
+zh_TW: 棕色床舖"	"褐床"
 "item.bed.cyan.name"	"Cyan Bed"	"Original Translation
 zh_CN: 青床
-zh_TW: 青綠色床舖"	""
+zh_TW: 青綠色床舖"	"黛床"
 "item.bed.gray.name"	"Gray Bed"	"Original Translation
 zh_CN: 灰床
-zh_TW: 灰色床舖"	""
+zh_TW: 灰色床舖"	"灰床"
 "item.bed.green.name"	"Green Bed"	"Original Translation
 zh_CN: 绿床
-zh_TW: 綠色床舖"	""
+zh_TW: 綠色床舖"	"綠床"
 "item.bed.lightBlue.name"	"Light Blue Bed"	"Original Translation
 zh_CN: 淡蓝床
-zh_TW: 淺藍色床舖"	""
+zh_TW: 淺藍色床舖"	"縹床"
 "item.bed.lime.name"	"Lime Bed"	"Original Translation
 zh_CN: 黄绿床
-zh_TW: 淡黃綠色床舖"	""
+zh_TW: 淡黃綠色床舖"	"翠床"
 "item.bed.magenta.name"	"Magenta Bed"	"Original Translation
 zh_CN: 品红床
-zh_TW: 洋紅色床舖"	""
+zh_TW: 洋紅色床舖"	"赬床"
 "item.bed.orange.name"	"Orange Bed"	"Original Translation
 zh_CN: 橙床
-zh_TW: 橙色床舖"	""
+zh_TW: 橙色床舖"	"橙床"
 "item.bed.pink.name"	"Pink Bed"	"Original Translation
 zh_CN: 粉床
-zh_TW: 粉紅色床舖"	""
+zh_TW: 粉紅色床舖"	"紅床"
 "item.bed.purple.name"	"Purple Bed"	"Original Translation
 zh_CN: 紫床
-zh_TW: 紫色床舖"	""
+zh_TW: 紫色床舖"	"紫床"
 "item.bed.red.name"	"Red Bed"	"Original Translation
 zh_CN: 红床
-zh_TW: 紅色床舖"	""
+zh_TW: 紅色床舖"	"赤床"
 "item.bed.silver.name"	"Light Gray Bed"	"Original Translation
 zh_CN: 淡灰床
-zh_TW: 淺灰色床舖"	""
+zh_TW: 淺灰色床舖"	"蒼床"
 "item.bed.white.name"	"White Bed"	"Original Translation
 zh_CN: 白床
-zh_TW: 白色床舖"	""
+zh_TW: 白色床舖"	"白床"
 "item.bed.yellow.name"	"Yellow Bed"	"Original Translation
 zh_CN: 黄床
-zh_TW: 黃色床舖"	""
+zh_TW: 黃色床舖"	"黃床"
 "item.beef.name"	"Raw Beef"	"Original Translation
 zh_CN: 生牛肉
-zh_TW: 生牛肉"	""
+zh_TW: 生牛肉"	"生牛肉"
 "item.beetroot.name"	"Beetroot"	"Original Translation
 zh_CN: 甜菜根
-zh_TW: 甜菜根"	""
+zh_TW: 甜菜根"	"甘藜根"
 "item.beetroot_seeds.name"	"Beetroot Seeds"	"Original Translation
 zh_CN: 甜菜种子
-zh_TW: 甜菜種子"	""
+zh_TW: 甜菜種子"	"甘藜種"
 "item.beetroot_soup.name"	"Beetroot Soup"	"Original Translation
 zh_CN: 甜菜汤
-zh_TW: 甜菜湯"	""
+zh_TW: 甜菜湯"	"甘藜羹"
 "item.bell.name"	"Bell"	"Original Translation
 zh_CN: 钟
-zh_TW: 鐘"	""
+zh_TW: 鐘"	"鐘"
 "item.birch_door.name"	"Birch Door"	"Original Translation
 zh_CN: 白桦木门
-zh_TW: 樺木門"	""
+zh_TW: 樺木門"	"樺門"
 "item.birch_hanging_sign.name"	"Birch Hanging Sign"	"Original Translation
 zh_CN: 白桦木悬挂告示牌
-zh_TW: 懸掛式樺木告示牌"	""
+zh_TW: 懸掛式樺木告示牌"	"樺懸牌"
 "item.birch_sign.name"	"Birch Sign"	"Original Translation
 zh_CN: 白桦木告示牌
-zh_TW: 樺木告示牌"	""
+zh_TW: 樺木告示牌"	"樺牌"
 "item.black_bundle"	"Black Bundle"	"Original Translation
 zh_CN: 黑色收纳袋
-zh_TW: 黑色組合包"	""
+zh_TW: 黑色組合包"	"黑皮囊"
 "item.black_harness.name"	"Black Harness"	"Original Translation
 zh_CN: 黑色挽具
-zh_TW: 黑色挽具"	""
+zh_TW: 黑色挽具"	"黑轡"
 "item.blade_pottery_sherd.name"	"Blade Pottery Sherd"	"Original Translation
 zh_CN: 利刃纹样陶片
-zh_TW: 利刃陶器碎片"	""
+zh_TW: 利刃陶器碎片"	"刃陶片"
 "item.blaze_powder.name"	"Blaze Powder"	"Original Translation
 zh_CN: 烈焰粉
-zh_TW: 烈焰粉"	""
+zh_TW: 烈焰粉"	"炎靈粉"
 "item.blaze_rod.name"	"Blaze Rod"	"Original Translation
 zh_CN: 烈焰棒
-zh_TW: 烈焰棒"	""
+zh_TW: 烈焰棒"	"炎靈桿"
 "item.bleach.name"	"Bleach"	"Original Translation
 zh_CN: 漂白剂
-zh_TW: 漂白水"	""
+zh_TW: 漂白水"	"素精"
 "item.blue_bundle"	"Blue Bundle"	"Original Translation
 zh_CN: 蓝色收纳袋
-zh_TW: 藍色組合包"	""
+zh_TW: 藍色組合包"	"靛皮囊"
 "item.blue_egg.name"	"Blue Egg"	"Original Translation
 zh_CN: 蓝色蛋
-zh_TW: 藍色蛋"	""
+zh_TW: 藍色蛋"	"靛雞卵"
 "item.blue_harness.name"	"Blue Harness"	"Original Translation
 zh_CN: 蓝色挽具
-zh_TW: 藍色挽具"	""
+zh_TW: 藍色挽具"	"靛轡"
 "item.boat.acacia.name"	"Acacia Boat"	"Original Translation
 zh_CN: 金合欢木船
-zh_TW: 相思木船"	""
+zh_TW: 相思木船"	"㭜舟"
 "item.boat.bamboo.name"	"Bamboo Raft"	"Original Translation
 zh_CN: 竹筏
-zh_TW: 竹筏"	""
+zh_TW: 竹筏"	"竹筏"
 "item.boat.big_oak.name"	"Dark Oak Boat"	"Original Translation
 zh_CN: 深色橡木船
-zh_TW: 黑橡木船"	""
+zh_TW: 黑橡木船"	"黯柞舟"
 "item.boat.birch.name"	"Birch Boat"	"Original Translation
 zh_CN: 白桦木船
-zh_TW: 樺木船"	""
+zh_TW: 樺木船"	"樺舟"
 "item.boat.cherry.name"	"Cherry Boat"	"Original Translation
 zh_CN: 樱花木船
-zh_TW: 櫻花木船"	""
+zh_TW: 櫻花木船"	"櫻舟"
 "item.boat.jungle.name"	"Jungle Boat"	"Original Translation
 zh_CN: 丛林木船
-zh_TW: 叢林船"	""
+zh_TW: 叢林船"	"叢莽舟"
 "item.boat.mangrove.name"	"Mangrove Boat"	"Original Translation
 zh_CN: 红树木船
-zh_TW: 紅樹林船"	""
+zh_TW: 紅樹林船"	"沒潮木舟"
 "item.boat.oak.name"	"Oak Boat"	"Original Translation
 zh_CN: 橡木船
-zh_TW: 橡木船"	""
+zh_TW: 橡木船"	"柞舟"
 "item.boat.pale_oak.name"	"Pale Oak Boat"	"Original Translation
 zh_CN: 苍白橡木船
-zh_TW: 蒼白橡木船"	""
+zh_TW: 蒼白橡木船"	"縞柞舟"
 "item.boat.spruce.name"	"Spruce Boat"	"Original Translation
 zh_CN: 云杉木船
-zh_TW: 杉木船"	""
+zh_TW: 杉木船"	"樅舟"
 "item.bolt_armor_trim_smithing_template.name"	"Bolt Armor Trim"	"Original Translation
 zh_CN: 镶铆盔甲纹饰
-zh_TW: 閃電紋飾護甲"	""
+zh_TW: 閃電紋飾護甲"	"榫卯甲紋"
 "item.bone.name"	"Bone"	"Original Translation
 zh_CN: 骨头
-zh_TW: 骨頭"	""
+zh_TW: 骨頭"	"骨"
 "item.book.name"	"Book"	"Original Translation
 zh_CN: 书
-zh_TW: 書本"	""
+zh_TW: 書本"	"書"
 "item.bordure_indented_banner_pattern.name"	"Bordure Indented Banner Pattern"	"Original Translation
 zh_CN: 波纹边旗帜图案
-zh_TW: 鋸齒框邊旗幟樣式"	""
+zh_TW: 鋸齒框邊旗幟樣式"	"齒匡旗楷"
 "item.bow.name"	"Bow"	"Original Translation
 zh_CN: 弓
-zh_TW: 弓"	""
+zh_TW: 弓"	"弓"
 "item.bowl.name"	"Bowl"	"Original Translation
 zh_CN: 碗
-zh_TW: 碗"	""
+zh_TW: 碗"	"椀"
 "item.bread.name"	"Bread"	"Original Translation
 zh_CN: 面包
-zh_TW: 麵包"	""
+zh_TW: 麵包"	"饢"
 "item.breeze_rod.name"	"Breeze Rod"	"Original Translation
 zh_CN: 旋风棒
-zh_TW: 微風棒"	""
+zh_TW: 微風棒"	"風靈桿"
 "item.brewer_pottery_sherd.name"	"Brewer Pottery Sherd"	"Original Translation
 zh_CN: 佳酿纹样陶片
-zh_TW: 釀酒師陶器碎片"	""
+zh_TW: 釀酒師陶器碎片"	"釀陶片"
 "item.brewing_stand.name"	"Brewing Stand"	"Original Translation
 zh_CN: 酿造台
-zh_TW: 釀製台"	""
+zh_TW: 釀製台"	"煉藥臺"
 "item.brick.name"	"Brick"	"Original Translation
 zh_CN: 红砖
-zh_TW: 磚塊"	""
+zh_TW: 磚塊"	"磚"
 "item.brown_bundle"	"Brown Bundle"	"Original Translation
 zh_CN: 棕色收纳袋
-zh_TW: 棕色組合包"	""
+zh_TW: 棕色組合包"	"褐皮囊"
 "item.brown_egg.name"	"Brown Egg"	"Original Translation
 zh_CN: 棕色蛋
-zh_TW: 棕色蛋"	""
+zh_TW: 棕色蛋"	"褐雞卵"
 "item.brown_harness.name"	"Brown Harness"	"Original Translation
 zh_CN: 棕色挽具
-zh_TW: 棕色挽具"	""
+zh_TW: 棕色挽具"	"褐轡"
 "item.brush.name"	"Brush"	"Original Translation
 zh_CN: 刷子
-zh_TW: 刷子"	""
+zh_TW: 刷子"	"刷"
 "item.bucket.name"	"Bucket"	"Original Translation
 zh_CN: 桶
-zh_TW: 桶子"	""
+zh_TW: 桶子"	"桶"
 "item.bucketAxolotl.name"	"Bucket of Axolotl"	"Original Translation
 zh_CN: 美西螈桶
-zh_TW: 墨西哥鈍口螈桶"	""
+zh_TW: 墨西哥鈍口螈桶"	"螈桶"
 "item.bucketCustomFish.name"	"Bucket of"	"Original Translation
 zh_CN: 桶装
-zh_TW: 一籃"	""
+zh_TW: 一籃"	"§f"
 "item.bucketFish.name"	"Bucket of Cod"	"Original Translation
 zh_CN: 桶装鳕鱼
-zh_TW: 一籃鱈魚"	""
+zh_TW: 一籃鱈魚"	"鱈桶"
 "item.bucketLava.name"	"Lava Bucket"	"Original Translation
 zh_CN: 熔岩桶
-zh_TW: 熔岩桶"	""
+zh_TW: 熔岩桶"	"熔石桶"
 "item.bucketPowderSnow.name"	"Powder Snow Bucket"	"Original Translation
 zh_CN: 细雪桶
-zh_TW: 粉雪桶"	""
+zh_TW: 粉雪桶"	"齏雪桶"
 "item.bucketPuffer.name"	"Bucket of Pufferfish"	"Original Translation
 zh_CN: 桶装河豚
-zh_TW: 一籃河豚"	""
+zh_TW: 一籃河豚"	"河豚桶"
 "item.bucketSalmon.name"	"Bucket of Salmon"	"Original Translation
 zh_CN: 桶装鲑鱼
-zh_TW: 一籃鮭魚"	""
+zh_TW: 一籃鮭魚"	"鮭桶"
 "item.bucketTadpole.name"	"Bucket of Tadpole"	"Original Translation
 zh_CN: 蝌蚪桶
-zh_TW: 一桶蝌蚪"	""
+zh_TW: 一桶蝌蚪"	"蝌蚪桶"
 "item.bucketTropical.name"	"Bucket of Tropical Fish"	"Original Translation
 zh_CN: 桶装热带鱼
-zh_TW: 一籃熱帶魚"	""
+zh_TW: 一籃熱帶魚"	"賞魚桶"
 "item.bucketWater.name"	"Water Bucket"	"Original Translation
 zh_CN: 水桶
-zh_TW: 水桶"	""
+zh_TW: 水桶"	"水桶"
 "item.bundle"	"Bundle"	"Original Translation
 zh_CN: 同捆包
-zh_TW: 組合包"	""
+zh_TW: 組合包"	"皮囊"
 "item.bundle.empty"	"Empty"	"Original Translation
 zh_CN: 空
-zh_TW: 清空"	""
+zh_TW: 清空"	"空"
 "item.bundle.empty.description"	"Can hold a mixed stack of items"	"Original Translation
 zh_CN: 可以容纳混合堆叠的物品
-zh_TW: 可以容納混合堆疊的物品"	""
+zh_TW: 可以容納混合堆疊的物品"	"可納雜物一組"
 "item.bundle.full"	"Full"	"Original Translation
 zh_CN: 满
-zh_TW: 已滿"	""
+zh_TW: 已滿"	"盈"
 "item.bundle.fullness"	"%s left"	"Original Translation
 zh_CN: 剩余 %s
-zh_TW: 剩餘 %s"	""
+zh_TW: 剩餘 %s"	"餘%s"
 "item.burn_pottery_sherd.name"	"Burn Pottery Sherd"	"Original Translation
 zh_CN: 烈焰纹样陶片
-zh_TW: 燃燒陶器碎片"	""
+zh_TW: 燃燒陶器碎片"	"燊陶片"
 "item.cake.name"	"Cake"	"Original Translation
 zh_CN: 蛋糕
-zh_TW: 蛋糕"	""
+zh_TW: 蛋糕"	"洋糕"
 "item.camera.name"	"Camera"	"Original Translation
 zh_CN: 摄像机
-zh_TW: 相機"	""
+zh_TW: 相機"	"留影機"
 "item.canBreak"	"Can break:"	"Original Translation
 zh_CN: 会损坏：
-zh_TW: 可用以破壞："	""
+zh_TW: 可用以破壞："	"可破："
 "item.canPlace"	"Can be placed on:"	"Original Translation
 zh_CN: 可以放在：
-zh_TW: 可放置在："	""
+zh_TW: 可放置在："	"可置於："
 "item.carrot.name"	"Carrot"	"Original Translation
 zh_CN: 胡萝卜
-zh_TW: 胡蘿蔔"	""
+zh_TW: 胡蘿蔔"	"胡蘆菔"
 "item.carrotOnAStick.name"	"Carrot on a Stick"	"Original Translation
 zh_CN: 胡萝卜钓竿
-zh_TW: 胡蘿蔔釣竿"	""
+zh_TW: 胡蘿蔔釣竿"	"胡蘆菔釣竿"
 "item.cauldron.name"	"Cauldron"	"Original Translation
 zh_CN: 炼药锅
-zh_TW: 鍋釜"	""
+zh_TW: 鍋釜"	"釜"
 "item.chainmail_boots.name"	"Chainmail Boots"	"Original Translation
 zh_CN: 链甲靴
-zh_TW: 鎖鏈靴"	""
+zh_TW: 鎖鏈靴"	"環鎖鞾"
 "item.chainmail_chestplate.name"	"Chainmail Chestplate"	"Original Translation
 zh_CN: 链甲胸甲
-zh_TW: 鎖鏈胸甲"	""
+zh_TW: 鎖鏈胸甲"	"環鎖鎧"
 "item.chainmail_helmet.name"	"Chainmail Helmet"	"Original Translation
 zh_CN: 链甲头盔
-zh_TW: 鎖鏈頭盔"	""
+zh_TW: 鎖鏈頭盔"	"環鎖胄"
 "item.chainmail_leggings.name"	"Chainmail Leggings"	"Original Translation
 zh_CN: 链甲护腿
-zh_TW: 鎖鏈護腿"	""
+zh_TW: 鎖鏈護腿"	"環鎖護腿"
 "item.charcoal.name"	"Charcoal"	"Original Translation
 zh_CN: 木炭
-zh_TW: 木炭"	""
+zh_TW: 木炭"	"木炭"
 "item.cherry_door.name"	"Cherry Door"	"Original Translation
 zh_CN: 樱花木门
-zh_TW: 櫻花木門"	""
+zh_TW: 櫻花木門"	"櫻門"
 "item.cherry_hanging_sign.name"	"Cherry Hanging Sign"	"Original Translation
 zh_CN: 樱花木悬挂告示牌
-zh_TW: 懸掛式櫻花木告示牌"	""
+zh_TW: 懸掛式櫻花木告示牌"	"櫻懸牌"
 "item.cherry_sign.name"	"Cherry Sign"	"Original Translation
 zh_CN: 樱花木告示牌
-zh_TW: 櫻花木告示牌"	""
+zh_TW: 櫻花木告示牌"	"櫻牌"
 "item.chest_boat.acacia.name"	"Acacia Boat with Chest"	"Original Translation
 zh_CN: 金合欢木运输船
-zh_TW: 附箱子的相思木船"	""
+zh_TW: 附箱子的相思木船"	"㭜艚"
 "item.chest_boat.bamboo.name"	"Bamboo Raft with Chest"	"Original Translation
 zh_CN: 带宝箱的的竹筏
-zh_TW: 附箱子的竹筏"	""
+zh_TW: 附箱子的竹筏"	"竹艚"
 "item.chest_boat.big_oak.name"	"Dark Oak Boat with Chest"	"Original Translation
 zh_CN: 深色橡木运输船
-zh_TW: 附箱子的黑橡木船"	""
+zh_TW: 附箱子的黑橡木船"	"黯柞艚"
 "item.chest_boat.birch.name"	"Birch Boat with Chest"	"Original Translation
 zh_CN: 白桦木运输船
-zh_TW: 附箱子的樺木船"	""
+zh_TW: 附箱子的樺木船"	"樺艚"
 "item.chest_boat.cherry.name"	"Cherry Boat with Chest"	"Original Translation
 zh_CN: 樱花木运输船
-zh_TW: 附箱子的櫻花木船"	""
+zh_TW: 附箱子的櫻花木船"	"櫻艚"
 "item.chest_boat.jungle.name"	"Jungle Boat with Chest"	"Original Translation
 zh_CN: 丛林木运输船
-zh_TW: 附箱子的叢林船"	""
+zh_TW: 附箱子的叢林船"	"叢莽艚"
 "item.chest_boat.mangrove.name"	"Mangrove Boat with Chest"	"Original Translation
 zh_CN: 红树木运输船
-zh_TW: 附箱子的紅樹林船"	""
+zh_TW: 附箱子的紅樹林船"	"沒潮木艚"
 "item.chest_boat.oak.name"	"Oak Boat with Chest"	"Original Translation
 zh_CN: 橡木运输船
-zh_TW: 附箱子的橡木船"	""
+zh_TW: 附箱子的橡木船"	"柞艚"
 "item.chest_boat.pale_oak.name"	"Pale Oak Boat with Chest"	"Original Translation
 zh_CN: 苍白橡树运输船
-zh_TW: 附箱子的蒼白橡木船"	""
+zh_TW: 附箱子的蒼白橡木船"	"縞柞艚"
 "item.chest_boat.spruce.name"	"Spruce Boat with Chest"	"Original Translation
 zh_CN: 云杉木运输船
-zh_TW: 附箱子的杉木船"	""
+zh_TW: 附箱子的杉木船"	"樅艚"
 "item.chest_minecart.name"	"Minecart with Chest"	"Original Translation
 zh_CN: 运输矿车
-zh_TW: 運輸礦車"	""
+zh_TW: 運輸礦車"	"箱礦車"
 "item.chicken.name"	"Raw Chicken"	"Original Translation
 zh_CN: 生鸡肉
-zh_TW: 生雞肉"	""
+zh_TW: 生雞肉"	"生雞肉"
 "item.chorus_fruit.name"	"Chorus Fruit"	"Original Translation
 zh_CN: 紫颂果
-zh_TW: 歌萊果"	""
+zh_TW: 歌萊果"	"頌緲果"
 "item.chorus_fruit_popped.name"	"Popped Chorus Fruit"	"Original Translation
 zh_CN: 爆裂紫颂果
-zh_TW: 爆開的歌萊果"	""
+zh_TW: 爆開的歌萊果"	"裂頌緲果"
 "item.clay_ball.name"	"Clay Ball"	"Original Translation
 zh_CN: 粘土球
-zh_TW: 黏土球"	""
+zh_TW: 黏土球"	"埴團"
 "item.clock.name"	"Clock"	"Original Translation
 zh_CN: 钟
-zh_TW: 時鐘"	""
+zh_TW: 時鐘"	"時鐘"
 "item.clownfish.name"	"Tropical Fish"	"Original Translation
 zh_CN: 热带鱼
-zh_TW: 熱帶魚"	""
+zh_TW: 熱帶魚"	"賞魚"
 "item.coal.name"	"Coal"	"Original Translation
 zh_CN: 煤炭
-zh_TW: 煤炭"	""
+zh_TW: 煤炭"	"石炭"
 "item.coast_armor_trim_smithing_template.name"	"Coast Armor Trim"	"Original Translation
 zh_CN: 海岸盔甲纹饰
-zh_TW: 海岸紋飾護甲"	""
+zh_TW: 海岸紋飾護甲"	"邊海甲紋"
 "item.command_block_minecart.name"	"Minecart with Command Block"	"Original Translation
 zh_CN: 命令方块矿车
-zh_TW: 指令方塊礦車"	""
+zh_TW: 指令方塊礦車"	"命令塊礦車"
 "item.comparator.name"	"Redstone Comparator"	"Original Translation
 zh_CN: 红石比较器
-zh_TW: 紅石比較器"	""
+zh_TW: 紅石比較器"	"較赭儀"
 "item.compass.name"	"Compass"	"Original Translation
 zh_CN: 指南针
-zh_TW: 羅盤"	""
+zh_TW: 羅盤"	"司南"
 "item.compound.aluminumoxide.formula"	"Al₂O₃"	"Original Translation
 zh_CN: Al₂O₃
-zh_TW: Al₂O₃"	""
+zh_TW: Al₂O₃"	"鋁二養三"
 "item.compound.aluminumoxide.name"	"Aluminum Oxide"	"Original Translation
 zh_CN: 氧化铝
-zh_TW: 氧化鋁"	""
+zh_TW: 氧化鋁"	"養化鋁"
 "item.compound.ammonia.formula"	"NH₃"	"Original Translation
 zh_CN: NH₃
-zh_TW: NH₃"	""
+zh_TW: NH₃"	"淡輕三"
 "item.compound.ammonia.name"	"Ammonia"	"Original Translation
 zh_CN: 氨
-zh_TW: 氨"	""
+zh_TW: 氨"	"氨"
 "item.compound.bariumsulfate.formula"	"BaSO₄"	"Original Translation
 zh_CN: BaSO₄
-zh_TW: BaSO₄"	""
+zh_TW: BaSO₄"	"鋇硫養四"
 "item.compound.bariumsulfate.name"	"Barium Sulfate"	"Original Translation
 zh_CN: 硫酸钡
-zh_TW: 硫酸鋇"	""
+zh_TW: 硫酸鋇"	"硫酸鋇"
 "item.compound.benzene.formula"	"C₆H₆"	"Original Translation
 zh_CN: C₆H₆
-zh_TW: C₆H₆"	""
+zh_TW: C₆H₆"	"碳六氫六"
 "item.compound.benzene.name"	"Benzene"	"Original Translation
 zh_CN: 苯
-zh_TW: 苯"	""
+zh_TW: 苯"	"苯"
 "item.compound.borontrioxide.formula"	"B₂O₃"	"Original Translation
 zh_CN: B₂O₃
-zh_TW: B₂O₃"	""
+zh_TW: B₂O₃"	"硼二養三"
 "item.compound.borontrioxide.name"	"Boron Trioxide"	"Original Translation
 zh_CN: 三氧化二硼
-zh_TW: 三氧化二硼"	""
+zh_TW: 三氧化二硼"	"三養化二硼"
 "item.compound.calciumbromide.formula"	"CaBr₂"	"Original Translation
 zh_CN: CaBr₂
-zh_TW: CaBr₂"	""
+zh_TW: CaBr₂"	"鈣溴二"
 "item.compound.calciumbromide.name"	"Calcium Bromide"	"Original Translation
 zh_CN: 溴化钙
-zh_TW: 溴化鈣"	""
+zh_TW: 溴化鈣"	"溴化鈣"
 "item.compound.calciumchloride.formula"	"CaCl₂"	"Original Translation
 zh_CN: CaCl₂
-zh_TW: CaCl₂"	""
+zh_TW: CaCl₂"	"鈣綠二"
 "item.compound.calciumchloride.name"	"Calcium Chloride"	"Original Translation
 zh_CN: 氯化钙
-zh_TW: 氯化鈣"	""
+zh_TW: 氯化鈣"	"綠化鈣"
 "item.compound.ceriumchloride.formula"	"CeCl₃"	"Original Translation
 zh_CN: CeCl₃
-zh_TW: CeCl₃"	""
+zh_TW: CeCl₃"	"鈰綠三"
 "item.compound.ceriumchloride.name"	"Cerium Chloride"	"Original Translation
 zh_CN: 氯化铈
-zh_TW: 三氯化鈰"	""
+zh_TW: 三氯化鈰"	"綠化鈰"
 "item.compound.charcoal.formula"	"C₇H₄O"	"Original Translation
 zh_CN: C₇H₄O
-zh_TW: C₇H₄O"	""
+zh_TW: C₇H₄O"	"碳七氫四氧"
 "item.compound.charcoal.name"	"Charcoal"	"Original Translation
 zh_CN: 木炭
-zh_TW: 木炭"	""
+zh_TW: 木炭"	"木炭"
 "item.compound.crudeoil.formula"	"C₉H₂₀"	"Original Translation
 zh_CN: C₉H₂₀
-zh_TW: C₉H₂₀"	""
+zh_TW: C₉H₂₀"	"炭九輕廿"
 "item.compound.crudeoil.name"	"Crude Oil"	"Original Translation
 zh_CN: 原油
-zh_TW: 原油"	""
+zh_TW: 原油"	"原油"
 "item.compound.garbage.name"	"Garbage"	"Original Translation
 zh_CN: 废物
-zh_TW: 垃圾"	""
+zh_TW: 垃圾"	"穢物"
 "item.compound.glue.formula"	"C₅H₅NO₂"	"Original Translation
 zh_CN: C₅H₅NO₂
-zh_TW: C₅H₅NO₂"	""
+zh_TW: C₅H₅NO₂"	"炭五輕五淡養二"
 "item.compound.glue.name"	"Glue"	"Original Translation
 zh_CN: 黏合剂
-zh_TW: 黏合劑"	""
+zh_TW: 黏合劑"	"膠"
 "item.compound.hydrogenperoxide.formula"	"H₂O₂"	"Original Translation
 zh_CN: H₂O₂
-zh_TW: H₂O₂"	""
+zh_TW: H₂O₂"	"輕二養二"
 "item.compound.hydrogenperoxide.name"	"Hydrogen Peroxide"	"Original Translation
 zh_CN: 过氧化氢
-zh_TW: 過氧化氫"	""
+zh_TW: 過氧化氫"	"過養化輕"
 "item.compound.hypochlorite.formula"	"ClO"	"Original Translation
 zh_CN: ClO
-zh_TW: ClO"	""
+zh_TW: ClO"	"綠養"
 "item.compound.hypochlorite.name"	"Hypochlorite"	"Original Translation
 zh_CN: 次氯酸盐
-zh_TW: 次氯酸鹽"	""
+zh_TW: 次氯酸鹽"	"次綠酸鹽"
 "item.compound.ink.formula"	"FeSO₄"	"Original Translation
 zh_CN: FeSO₄
-zh_TW: FeSO₄"	""
+zh_TW: FeSO₄"	"鐵硫養四"
 "item.compound.ironsulfide.formula"	"FeS"	"Original Translation
 zh_CN: FeS
-zh_TW: FeS"	""
+zh_TW: FeS"	"鐵硫"
 "item.compound.ironsulfide.name"	"Iron Sulfide"	"Original Translation
 zh_CN: 硫化亚铁
-zh_TW: 硫化亞鐵"	""
+zh_TW: 硫化亞鐵"	"硫化亞鐵"
 "item.compound.latex.formula"	"C₅H₈"	"Original Translation
 zh_CN: C₅H₈
-zh_TW: C₅H₈"	""
+zh_TW: C₅H₈"	"炭五輕八"
 "item.compound.latex.name"	"Latex"	"Original Translation
 zh_CN: 乳液
-zh_TW: 乳膠"	""
+zh_TW: 乳膠"	"乳膠"
 "item.compound.lithiumhydride.formula"	"LiH"	"Original Translation
 zh_CN: LiH
-zh_TW: LiH"	""
+zh_TW: LiH"	"鋰輕"
 "item.compound.lithiumhydride.name"	"Lithium Hydride"	"Original Translation
 zh_CN: 氢化锂
-zh_TW: 氫化鋰"	""
+zh_TW: 氫化鋰"	"輕化鋰"
 "item.compound.luminol.formula"	"C₈H₇N₃O₂"	"Original Translation
 zh_CN: C₈H₇N₃O₂
-zh_TW: C₈H₇N₃O₂"	""
+zh_TW: C₈H₇N₃O₂"	"炭八輕七淡三養二"
 "item.compound.luminol.name"	"Luminol"	"Original Translation
 zh_CN: 鲁米诺
-zh_TW: 魯米諾"	""
+zh_TW: 魯米諾"	"光氨"
 "item.compound.magnesiumnitrate.formula"	"Mg(NO₃)₂"	"Original Translation
 zh_CN: Mg(NO₃)₂
-zh_TW: Mg(NO₃)₂"	""
+zh_TW: Mg(NO₃)₂"	"鎂淡二養六"
 "item.compound.magnesiumnitrate.name"	"Magnesium Nitrate"	"Original Translation
 zh_CN: 硝酸镁
-zh_TW: 硝酸鎂"	""
+zh_TW: 硝酸鎂"	"硝酸鎂"
 "item.compound.magnesiumoxide.formula"	"MgO"	"Original Translation
 zh_CN: MgO
-zh_TW: MgO"	""
+zh_TW: MgO"	"鎂養"
 "item.compound.magnesiumoxide.name"	"Magnesium Oxide"	"Original Translation
 zh_CN: 氧化镁
-zh_TW: 氧化鎂"	""
+zh_TW: 氧化鎂"	"養化鎂"
 "item.compound.magnesiumsalts.formula"	"MgSO₄"	"Original Translation
 zh_CN: MgSO₄
-zh_TW: MgSO₄"	""
+zh_TW: MgSO₄"	"鎂硫養四"
 "item.compound.magnesiumsalts.name"	"Magnesium Salts"	"Original Translation
 zh_CN: 镁盐
-zh_TW: 硫酸鎂"	""
+zh_TW: 硫酸鎂"	"鎂鹽"
 "item.compound.mercuricchloride.formula"	"HgCl₂"	"Original Translation
 zh_CN: HgCl₂
-zh_TW: HgCl₂"	""
+zh_TW: HgCl₂"	"汞綠二"
 "item.compound.mercuricchloride.name"	"Mercuric Chloride"	"Original Translation
 zh_CN: 氯化汞
-zh_TW: 氯化汞"	""
+zh_TW: 氯化汞"	"綠化汞"
 "item.compound.polyethylene.formula"	"(C₂H₄)₅"	"Original Translation
 zh_CN: (C₂H₄)₅
-zh_TW: (C₂H₄)₅"	""
+zh_TW: (C₂H₄)₅"	"炭十輕廿"
 "item.compound.polyethylene.name"	"Polyethylene"	"Original Translation
 zh_CN: 聚乙烯
-zh_TW: 聚乙烯"	""
+zh_TW: 聚乙烯"	"聚乙烯"
 "item.compound.potassiumchloride.formula"	"KCl"	"Original Translation
 zh_CN: KCl
-zh_TW: KCl"	""
+zh_TW: KCl"	"鉀綠"
 "item.compound.potassiumchloride.name"	"Potassium Chloride"	"Original Translation
 zh_CN: 氯化钾
-zh_TW: 氯化鉀"	""
+zh_TW: 氯化鉀"	"綠化鉀"
 "item.compound.potassiumiodide.formula"	"KI"	"Original Translation
 zh_CN: KI
-zh_TW: KI"	""
+zh_TW: KI"	"鉀碘"
 "item.compound.potassiumiodide.name"	"Potassium Iodide"	"Original Translation
 zh_CN: 碘化钾
-zh_TW: 碘化鉀"	""
+zh_TW: 碘化鉀"	"碘化鉀"
 "item.compound.salt.formula"	"NaCl"	"Original Translation
 zh_CN: NaCl
-zh_TW: NaCl"	""
+zh_TW: NaCl"	"鈉綠"
 "item.compound.salt.name"	"Salt"	"Original Translation
 zh_CN: 盐
-zh_TW: 鹽"	""
+zh_TW: 鹽"	"鹽"
 "item.compound.soap.formula"	"C₁₈H₃₅NaO₂"	"Original Translation
 zh_CN: C₁₈H₃₅NaO₂
-zh_TW: C₁₈H₃₅NaO₂"	""
+zh_TW: C₁₈H₃₅NaO₂"	"炭十八輕卅五鈉養二"
 "item.compound.soap.name"	"Soap"	"Original Translation
 zh_CN: 肥皂
-zh_TW: 肥皂"	""
+zh_TW: 肥皂"	"洋肥草"
 "item.compound.sodiumacetate.formula"	"C₂H₃NaO₂"	"Original Translation
 zh_CN: C₂H₃NaO₂
-zh_TW: C₂H₃NaO₂"	""
+zh_TW: C₂H₃NaO₂"	"炭二輕三鈉養二"
 "item.compound.sodiumacetate.name"	"Sodium Acetate"	"Original Translation
 zh_CN: 乙酸钠
-zh_TW: 乙酸鈉"	""
+zh_TW: 乙酸鈉"	"乙酸鈉"
 "item.compound.sodiumfluoride.formula"	"NaF"	"Original Translation
 zh_CN: NaF
-zh_TW: NaF"	""
+zh_TW: NaF"	"鈉氟"
 "item.compound.sodiumfluoride.name"	"Sodium Fluoride"	"Original Translation
 zh_CN: 氟化钠
-zh_TW: 氟化鈉"	""
+zh_TW: 氟化鈉"	"氟化鈉"
 "item.compound.sodiumhydride.formula"	"NaH"	"Original Translation
 zh_CN: NaH
-zh_TW: NaH"	""
+zh_TW: NaH"	"鈉輕"
 "item.compound.sodiumhydride.name"	"Sodium Hydride"	"Original Translation
 zh_CN: 氢化钠
-zh_TW: 氫化鈉"	""
+zh_TW: 氫化鈉"	"輕化鈉"
 "item.compound.sodiumhydroxide.formula"	"NaOH"	"Original Translation
 zh_CN: NaOH
-zh_TW: NaOH"	""
+zh_TW: NaOH"	"鈉養輕"
 "item.compound.sodiumhydroxide.name"	"Lye"	"Original Translation
 zh_CN: 碱
-zh_TW: 氫氧化鈉"	""
+zh_TW: 氫氧化鈉"	"鹼"
 "item.compound.sodiumhypochlorite.formula"	"NaClO"	"Original Translation
 zh_CN: NaClO
-zh_TW: NaClO"	""
+zh_TW: NaClO"	"鈉綠養"
 "item.compound.sodiumhypochlorite.name"	"Sodium Hypochlorite"	"Original Translation
 zh_CN: 次氯酸钠
-zh_TW: 次氯酸鈉"	""
+zh_TW: 次氯酸鈉"	"次綠酸鈉"
 "item.compound.sodiumoxide.formula"	"Na₂O"	"Original Translation
 zh_CN: Na₂O
-zh_TW: Na₂O"	""
+zh_TW: Na₂O"	"鈉二養"
 "item.compound.sodiumoxide.name"	"Sodium Oxide"	"Original Translation
 zh_CN: 氧化钠
-zh_TW: 氧化鈉"	""
+zh_TW: 氧化鈉"	"養化鈉"
 "item.compound.sugar.formula"	"C₆H₁₂O₆"	"Original Translation
 zh_CN: C₆H₁₂O₆
-zh_TW: C₆H₁₂O₆"	""
+zh_TW: C₆H₁₂O₆"	"炭六輕十二養六"
 "item.compound.sulfate.formula"	"SO₄"	"Original Translation
 zh_CN: SO₄
-zh_TW: SO₄"	""
+zh_TW: SO₄"	"硫養四"
 "item.compound.sulfate.name"	"Sulfate"	"Original Translation
 zh_CN: 硫酸盐
-zh_TW: 硫酸鹽"	""
+zh_TW: 硫酸鹽"	"硫酸鹽"
 "item.compound.tungstenchloride.formula"	"WCl₆"	"Original Translation
 zh_CN: WCl₆
-zh_TW: WCl₆"	""
+zh_TW: WCl₆"	"鎢綠六"
 "item.compound.tungstenchloride.name"	"Tungsten Chloride"	"Original Translation
 zh_CN: 六氯化钨
-zh_TW: 六氯化鎢"	""
+zh_TW: 六氯化鎢"	"六綠化鎢"
 "item.compound.water.formula"	"H₂O"	"Original Translation
 zh_CN: H₂O
-zh_TW: H₂O"	""
+zh_TW: H₂O"	"輕二養"
 "item.compound.water.name"	"Water"	"Original Translation
 zh_CN: 水
-zh_TW: 水"	""
+zh_TW: 水"	"水"
 "item.cooked_beef.name"	"Steak"	"Original Translation
 zh_CN: 牛排
 zh_TW: 牛排"	""
@@ -29504,616 +29504,616 @@ zh_CN: 熟兔肉
 zh_TW: 熟兔肉"	""
 "item.cooked_salmon.name"	"Cooked Salmon"	"Original Translation
 zh_CN: 熟鲑鱼
-zh_TW: 熟鮭魚片"	""
+zh_TW: 熟鮭魚片"	"鮭炙"
 "item.cookie.name"	"Cookie"	"Original Translation
 zh_CN: 曲奇
-zh_TW: 餅乾"	""
+zh_TW: 餅乾"	"餠"
 "item.copper_axe.name"	"Copper Axe"	"Original Translation
 zh_CN: 铜斧
-zh_TW: 銅斧"	""
+zh_TW: 銅斧"	"銅斧"
 "item.copper_boots.name"	"Copper Boots"	"Original Translation
 zh_CN: 铜靴
-zh_TW: 銅靴子"	""
+zh_TW: 銅靴子"	"銅鞾"
 "item.copper_chestplate.name"	"Copper Chestplate"	"Original Translation
 zh_CN: 铜胸甲
-zh_TW: 銅胸甲"	""
+zh_TW: 銅胸甲"	"銅鎧"
 "item.copper_door.name"	"Copper Door"	"Original Translation
 zh_CN: 铜门
-zh_TW: 銅門"	""
+zh_TW: 銅門"	"銅門"
 "item.copper_helmet.name"	"Copper Helmet"	"Original Translation
 zh_CN: 铜头盔
-zh_TW: 銅頭盔"	""
+zh_TW: 銅頭盔"	"銅胄"
 "item.copper_hoe.name"	"Copper Hoe"	"Original Translation
 zh_CN: 铜锄
-zh_TW: 銅鋤頭"	""
+zh_TW: 銅鋤頭"	"銅鋤"
 "item.copper_horse_armor.name"	"Copper Horse Armor"	"Original Translation
 zh_CN: 铜马铠
 zh_TW: 銅製馬鎧"	""
 "item.copper_ingot.name"	"Copper Ingot"	"Original Translation
 zh_CN: 铜锭
-zh_TW: 銅錠塊"	""
+zh_TW: 銅錠塊"	"銅錠"
 "item.copper_leggings.name"	"Copper Leggings"	"Original Translation
 zh_CN: 铜护腿
-zh_TW: 銅護腿"	""
+zh_TW: 銅護腿"	"銅護腿"
 "item.copper_nugget.name"	"Copper Nugget"	"Original Translation
 zh_CN: 铜粒
-zh_TW: 銅塊"	""
+zh_TW: 銅塊"	"銅粒"
 "item.copper_pickaxe.name"	"Copper Pickaxe"	"Original Translation
 zh_CN: 铜镐
-zh_TW: 銅十字鎬"	""
+zh_TW: 銅十字鎬"	"銅鎬"
 "item.copper_shovel.name"	"Copper Shovel"	"Original Translation
 zh_CN: 铜锹
-zh_TW: 銅鏟"	""
+zh_TW: 銅鏟"	"銅鍁"
 "item.copper_sword.name"	"Copper Sword"	"Original Translation
 zh_CN: 铜剑
-zh_TW: 銅劍"	""
+zh_TW: 銅劍"	"銅劍"
 "item.creeper_banner_pattern.name"	"Creeper Charge Banner Pattern"	"Original Translation
 zh_CN: 苦力怕头像旗帜图案
-zh_TW: 苦力怕頭形狀旗幟樣式"	""
+zh_TW: 苦力怕頭形狀旗幟樣式"	"伏臨紋旗楷"
 "item.crimson_door.name"	"Crimson Door"	"Original Translation
 zh_CN: 绯红木门
-zh_TW: 緋紅蕈木門"	""
+zh_TW: 緋紅蕈木門"	"緋蕈木門"
 "item.crimson_hanging_sign.name"	"Crimson Hanging Sign"	"Original Translation
 zh_CN: 绯红木悬挂告示牌
-zh_TW: 懸掛式緋紅蕈木告示牌"	""
+zh_TW: 懸掛式緋紅蕈木告示牌"	"緋蕈木懸牌"
 "item.crimson_sign.name"	"Crimson Sign"	"Original Translation
 zh_CN: 绯红木告示牌
-zh_TW: 緋紅蕈木告示牌"	""
+zh_TW: 緋紅蕈木告示牌"	"緋蕈木牌"
 "item.crossbow.name"	"Crossbow"	"Original Translation
 zh_CN: 弩
-zh_TW: 十字弓"	""
+zh_TW: 十字弓"	"弩"
 "item.customProperties"	"Has Custom Properties"	"Original Translation
 zh_CN: 具有自定义属性
-zh_TW: 具有自訂屬性"	""
+zh_TW: 具有自訂屬性"	"有自定之性"
 "item.cyan_bundle"	"Cyan Bundle"	"Original Translation
 zh_CN: 青色收纳袋
-zh_TW: 青綠色組合包"	""
+zh_TW: 青綠色組合包"	"黛皮囊"
 "item.cyan_harness.name"	"Cyan Harness"	"Original Translation
 zh_CN: 青色挽具
-zh_TW: 青綠色挽具"	""
+zh_TW: 青綠色挽具"	"黛轡"
 "item.danger_pottery_sherd.name"	"Danger Pottery Sherd"	"Original Translation
 zh_CN: 危机纹样陶片
-zh_TW: 危險陶器碎片"	""
+zh_TW: 危險陶器碎片"	"殆陶片"
 "item.dark_oak_door.name"	"Dark Oak Door"	"Original Translation
 zh_CN: 深色橡木门
-zh_TW: 黑橡木門"	""
+zh_TW: 黑橡木門"	"黯柞門"
 "item.dark_oak_hanging_sign.name"	"Dark Oak Hanging Sign"	"Original Translation
 zh_CN: 深色橡木悬挂告示牌
-zh_TW: 懸掛式黑橡木告示牌"	""
+zh_TW: 懸掛式黑橡木告示牌"	"黯柞懸牌"
 "item.darkoak_sign.name"	"Dark Oak Sign"	"Original Translation
 zh_CN: 深色橡木告示牌
-zh_TW: 黑橡木告示牌"	""
+zh_TW: 黑橡木告示牌"	"黯柞牌"
 "item.diamond.name"	"Diamond"	"Original Translation
 zh_CN: 钻石
-zh_TW: 鑽石"	""
+zh_TW: 鑽石"	"金剛石"
 "item.diamond_axe.name"	"Diamond Axe"	"Original Translation
 zh_CN: 钻石斧
-zh_TW: 鑽石斧"	""
+zh_TW: 鑽石斧"	"金剛斧"
 "item.diamond_boots.name"	"Diamond Boots"	"Original Translation
 zh_CN: 钻石靴子
-zh_TW: 鑽石靴"	""
+zh_TW: 鑽石靴"	"金剛鞾"
 "item.diamond_chestplate.name"	"Diamond Chestplate"	"Original Translation
 zh_CN: 钻石胸甲
-zh_TW: 鑽石胸甲"	""
+zh_TW: 鑽石胸甲"	"金剛鎧"
 "item.diamond_helmet.name"	"Diamond Helmet"	"Original Translation
 zh_CN: 钻石头盔
-zh_TW: 鑽石頭盔"	""
+zh_TW: 鑽石頭盔"	"金剛胄"
 "item.diamond_hoe.name"	"Diamond Hoe"	"Original Translation
 zh_CN: 钻石锄
-zh_TW: 鑽石鋤"	""
+zh_TW: 鑽石鋤"	"金剛鋤"
 "item.diamond_leggings.name"	"Diamond Leggings"	"Original Translation
 zh_CN: 钻石护腿
-zh_TW: 鑽石護腿"	""
+zh_TW: 鑽石護腿"	"金剛護腿"
 "item.diamond_pickaxe.name"	"Diamond Pickaxe"	"Original Translation
 zh_CN: 钻石镐
-zh_TW: 鑽石鎬"	""
+zh_TW: 鑽石鎬"	"金剛鎬"
 "item.diamond_shovel.name"	"Diamond Shovel"	"Original Translation
 zh_CN: 钻石锹
-zh_TW: 鑽石鏟"	""
+zh_TW: 鑽石鏟"	"金剛鍁"
 "item.diamond_sword.name"	"Diamond Sword"	"Original Translation
 zh_CN: 钻石剑
-zh_TW: 鑽石劍"	""
+zh_TW: 鑽石劍"	"金剛劍"
 "item.disc_fragment.name"	"Disc Fragment"	"Original Translation
 zh_CN: 唱片残片
-zh_TW: 唱片碎片"	""
+zh_TW: 唱片碎片"	"留聲盤殘片"
 "item.disc_fragment_5.desc"	"Music Disc - 5"	"Original Translation
 zh_CN: 唱片 - 5
-zh_TW: 唱片 - 5"	""
+zh_TW: 唱片 - 5"	"留聲盤 - 5"
 "item.dragon_breath.name"	"Dragon's Breath"	"Original Translation
 zh_CN: 龙息
-zh_TW: 龍的吐息"	""
+zh_TW: 龍的吐息"	"龍涎"
 "item.dried_kelp.name"	"Dried Kelp"	"Original Translation
 zh_CN: 干海带
-zh_TW: 乾海帶"	""
+zh_TW: 乾海帶"	"乾海帶"
 "item.dune_armor_trim_smithing_template.name"	"Dune Armor Trim"	"Original Translation
 zh_CN: 沙丘盔甲纹饰
-zh_TW: 沙丘紋飾護甲"	""
+zh_TW: 沙丘紋飾護甲"	"沙墩甲紋"
 "item.dye.black.name"	"Ink Sac"	"Original Translation
 zh_CN: 墨囊
-zh_TW: 墨囊"	""
+zh_TW: 墨囊"	"墨"
 "item.dye.black_new.name"	"Black Dye"	"Original Translation
 zh_CN: 黑色染料
-zh_TW: 黑色染料"	""
+zh_TW: 黑色染料"	"黑染"
 "item.dye.blue.name"	"Lapis Lazuli"	"Original Translation
 zh_CN: 青金石
-zh_TW: 青金石"	""
+zh_TW: 青金石"	"群青"
 "item.dye.blue_new.name"	"Blue Dye"	"Original Translation
 zh_CN: 蓝色染料
-zh_TW: 藍色染料"	""
+zh_TW: 藍色染料"	"靛染"
 "item.dye.brown.name"	"Cocoa Beans"	"Original Translation
 zh_CN: 可可豆
-zh_TW: 可可豆"	""
+zh_TW: 可可豆"	"可可荳"
 "item.dye.brown_new.name"	"Brown Dye"	"Original Translation
 zh_CN: 棕色染料
-zh_TW: 棕色染料"	""
+zh_TW: 棕色染料"	"褐染"
 "item.dye.cyan.name"	"Cyan Dye"	"Original Translation
 zh_CN: 青色染料
-zh_TW: 青綠色染料"	""
+zh_TW: 青綠色染料"	"黛染"
 "item.dye.gray.name"	"Gray Dye"	"Original Translation
 zh_CN: 灰色染料
-zh_TW: 灰色染料"	""
+zh_TW: 灰色染料"	"灰染"
 "item.dye.green.name"	"Green Dye"	"Original Translation
 zh_CN: 绿色染料
-zh_TW: 綠色染料"	""
+zh_TW: 綠色染料"	"綠染"
 "item.dye.lightBlue.name"	"Light Blue Dye"	"Original Translation
 zh_CN: 淡蓝色染料
-zh_TW: 淺藍色染料"	""
+zh_TW: 淺藍色染料"	"縹染"
 "item.dye.lime.name"	"Lime Dye"	"Original Translation
 zh_CN: 黄绿色染料
-zh_TW: 淡黃綠色染料"	""
+zh_TW: 淡黃綠色染料"	"翠染"
 "item.dye.magenta.name"	"Magenta Dye"	"Original Translation
 zh_CN: 品红色染料
-zh_TW: 洋紅色染料"	""
+zh_TW: 洋紅色染料"	"赬染"
 "item.dye.orange.name"	"Orange Dye"	"Original Translation
 zh_CN: 橙色染料
-zh_TW: 橙色染料"	""
+zh_TW: 橙色染料"	"橙染"
 "item.dye.pink.name"	"Pink Dye"	"Original Translation
 zh_CN: 粉红色染料
-zh_TW: 粉紅色染料"	""
+zh_TW: 粉紅色染料"	"紅染"
 "item.dye.purple.name"	"Purple Dye"	"Original Translation
 zh_CN: 紫色染料
-zh_TW: 紫色染料"	""
+zh_TW: 紫色染料"	"紫染"
 "item.dye.red.name"	"Red Dye"	"Original Translation
 zh_CN: 红色染料
-zh_TW: 紅色染料"	""
+zh_TW: 紅色染料"	"赤染"
 "item.dye.silver.name"	"Light Gray Dye"	"Original Translation
 zh_CN: 淡灰色染料
-zh_TW: 淺灰色染料"	""
+zh_TW: 淺灰色染料"	"蒼染"
 "item.dye.white.name"	"Bone Meal"	"Original Translation
 zh_CN: 骨粉
-zh_TW: 骨粉"	""
+zh_TW: 骨粉"	"骨塵"
 "item.dye.white_new.name"	"White Dye"	"Original Translation
 zh_CN: 白色染料
-zh_TW: 白色染料"	""
+zh_TW: 白色染料"	"白染"
 "item.dye.yellow.name"	"Yellow Dye"	"Original Translation
 zh_CN: 黄色染料
-zh_TW: 黃色染料"	""
+zh_TW: 黃色染料"	"黃染"
 "item.dyed"	"Dyed"	"Original Translation
 zh_CN: 已染色
-zh_TW: 染色的"	""
+zh_TW: 染色的"	"既染"
 "item.echo_shard.name"	"Echo Shard"	"Original Translation
 zh_CN: 回响碎片
-zh_TW: 回聲碎片"	""
+zh_TW: 回聲碎片"	"回音殘片"
 "item.egg.name"	"Egg"	"Original Translation
 zh_CN: 鸡蛋
-zh_TW: 蛋"	""
+zh_TW: 蛋"	"雞卵"
 "item.elytra.name"	"Elytra"	"Original Translation
 zh_CN: 鞘翅
-zh_TW: 鞘翅"	""
+zh_TW: 鞘翅"	"翼"
 "item.emerald.name"	"Emerald"	"Original Translation
 zh_CN: 绿宝石
-zh_TW: 翡翠"	""
+zh_TW: 翡翠"	"祖母綠"
 "item.emptyLocatorMap.name"	"Empty Locator Map"	"Original Translation
 zh_CN: 空定位器地图
-zh_TW: 無定位地圖"	""
+zh_TW: 無定位地圖"	"空指輿圖"
 "item.emptyMap.name"	"Empty Map"	"Original Translation
 zh_CN: 空地图
-zh_TW: 空白地圖"	""
+zh_TW: 空白地圖"	"空輿圖"
 "item.enchanted_book.name"	"Enchanted Book"	"Original Translation
 zh_CN: 附魔书
-zh_TW: 附魔書"	""
+zh_TW: 附魔書"	"淬靈書"
 "item.end_crystal.name"	"End Crystal"	"Original Translation
 zh_CN: 末地水晶
-zh_TW: 終界晶體"	""
+zh_TW: 終界晶體"	"終界水玉"
 "item.ender_eye.name"	"Eye of Ender"	"Original Translation
 zh_CN: 末影之眼
-zh_TW: 終界之眼"	""
+zh_TW: 終界之眼"	"終眇眼"
 "item.ender_pearl.name"	"Ender Pearl"	"Original Translation
 zh_CN: 末影珍珠
-zh_TW: 終界珍珠"	""
+zh_TW: 終界珍珠"	"終眇玥"
 "item.experience_bottle.name"	"Bottle o' Enchanting"	"Original Translation
 zh_CN: 附魔之瓶
-zh_TW: 拋出的經驗瓶"	""
+zh_TW: 拋出的經驗瓶"	"淬靈甁"
 "item.explorer_pottery_sherd.name"	"Explorer Pottery Sherd"	"Original Translation
 zh_CN: 探险纹样陶片
-zh_TW: 探險家陶器碎片"	""
+zh_TW: 探險家陶器碎片"	"探陶片"
 "item.exposed_copper_door.name"	"Exposed Copper Door"	"Original Translation
 zh_CN: 外露铜门
-zh_TW: 外露銅門"	""
+zh_TW: 外露銅門"	"渡濕銅門"
 "item.eye_armor_trim_smithing_template.name"	"Eye Armor Trim"	"Original Translation
 zh_CN: 眼眸盔甲纹饰
-zh_TW: 眼睛紋飾護甲"	""
+zh_TW: 眼睛紋飾護甲"	"瞳眸甲紋"
 "item.feather.name"	"Feather"	"Original Translation
 zh_CN: 羽毛
-zh_TW: 羽毛"	""
+zh_TW: 羽毛"	"羽"
 "item.fermented_spider_eye.name"	"Fermented Spider Eye"	"Original Translation
 zh_CN: 发酵蛛眼
-zh_TW: 發酵蜘蛛眼"	""
+zh_TW: 發酵蜘蛛眼"	"酵化蛛目"
 "item.field_masoned_banner_pattern.name"	"Field Masoned Banner Pattern"	"Original Translation
 zh_CN: 砖纹旗帜图案
-zh_TW: 磚牆花紋旗幟樣式"	""
+zh_TW: 磚牆花紋旗幟樣式"	"磚紋旗楷"
 "item.fireball.name"	"Fire Charge"	"Original Translation
 zh_CN: 火焰弹
-zh_TW: 火彈"	""
+zh_TW: 火彈"	"火圓"
 "item.fireworks.flight"	"Flight Duration:"	"Original Translation
 zh_CN: 飞行时间：
-zh_TW: 飛行時間："	""
+zh_TW: 飛行時間："	"昇之時："
 "item.fireworks.name"	"Firework Rocket"	"Original Translation
 zh_CN: 焰火火箭
-zh_TW: 煙火火箭"	""
+zh_TW: 煙火火箭"	"焰火"
 "item.fireworksCharge.black"	"Black"	"Original Translation
 zh_CN: 黑色
-zh_TW: 黑色"	""
+zh_TW: 黑色"	"玄"
 "item.fireworksCharge.blue"	"Blue"	"Original Translation
 zh_CN: 蓝色
-zh_TW: 藍色"	""
+zh_TW: 藍色"	"靛"
 "item.fireworksCharge.brown"	"Brown"	"Original Translation
 zh_CN: 棕色
-zh_TW: 棕色"	""
+zh_TW: 棕色"	"褐"
 "item.fireworksCharge.customColor"	"Custom"	"Original Translation
 zh_CN: 自定义
-zh_TW: 自訂"	""
+zh_TW: 自訂"	"自定"
 "item.fireworksCharge.cyan"	"Cyan"	"Original Translation
 zh_CN: 青色
-zh_TW: 青綠色"	""
+zh_TW: 青綠色"	"靛"
 "item.fireworksCharge.fadeTo"	"Fade to"	"Original Translation
 zh_CN: 渐隐
-zh_TW: 淡出"	""
+zh_TW: 淡出"	"漸隱"
 "item.fireworksCharge.flicker"	"Twinkle"	"Original Translation
 zh_CN: 闪烁
-zh_TW: 閃爍"	""
+zh_TW: 閃爍"	"爍"
 "item.fireworksCharge.gray"	"Gray"	"Original Translation
 zh_CN: 灰色
-zh_TW: 灰色"	""
+zh_TW: 灰色"	"灰"
 "item.fireworksCharge.green"	"Green"	"Original Translation
 zh_CN: 绿色
-zh_TW: 綠色"	""
+zh_TW: 綠色"	"綠"
 "item.fireworksCharge.lightBlue"	"Light Blue"	"Original Translation
 zh_CN: 淡蓝色
-zh_TW: 淺藍色"	""
+zh_TW: 淺藍色"	"縹"
 "item.fireworksCharge.lime"	"Lime"	"Original Translation
 zh_CN: 黄绿色
-zh_TW: 淡黃綠色"	""
+zh_TW: 淡黃綠色"	"翠"
 "item.fireworksCharge.magenta"	"Magenta"	"Original Translation
 zh_CN: 品红色
-zh_TW: 洋紅色"	""
+zh_TW: 洋紅色"	"赬"
 "item.fireworksCharge.name"	"Firework Star"	"Original Translation
 zh_CN: 焰火之星
-zh_TW: 煙火星"	""
+zh_TW: 煙火星"	"焰火之星"
 "item.fireworksCharge.orange"	"Orange"	"Original Translation
 zh_CN: 橙色
-zh_TW: 橙色"	""
+zh_TW: 橙色"	"橙"
 "item.fireworksCharge.pink"	"Pink"	"Original Translation
 zh_CN: 粉红色
-zh_TW: 粉紅色"	""
+zh_TW: 粉紅色"	"紅"
 "item.fireworksCharge.purple"	"Purple"	"Original Translation
 zh_CN: 紫色
-zh_TW: 紫色"	""
+zh_TW: 紫色"	"紫"
 "item.fireworksCharge.red"	"Red"	"Original Translation
 zh_CN: 红色
-zh_TW: 紅色"	""
+zh_TW: 紅色"	"赤"
 "item.fireworksCharge.silver"	"Light Gray"	"Original Translation
 zh_CN: 淡灰色
-zh_TW: 淺灰色"	""
+zh_TW: 淺灰色"	"蒼"
 "item.fireworksCharge.trail"	"Trail"	"Original Translation
 zh_CN: 踪迹
-zh_TW: 軌跡"	""
+zh_TW: 軌跡"	"跡"
 "item.fireworksCharge.type"	"Unknown Shape"	"Original Translation
 zh_CN: 未知形状
-zh_TW: 未知形狀"	""
+zh_TW: 未知形狀"	"未明之狀"
 "item.fireworksCharge.type.0"	"Small Ball"	"Original Translation
 zh_CN: 小型球状
-zh_TW: 小球"	""
+zh_TW: 小球"	"小圓狀"
 "item.fireworksCharge.type.1"	"Large Ball"	"Original Translation
 zh_CN: 大型球状
-zh_TW: 大球"	""
+zh_TW: 大球"	"大圓狀"
 "item.fireworksCharge.type.2"	"Star-shaped"	"Original Translation
 zh_CN: 星形
-zh_TW: 星型"	""
+zh_TW: 星型"	"星狀"
 "item.fireworksCharge.type.3"	"Creeper-shaped"	"Original Translation
 zh_CN: 苦力怕形状
-zh_TW: 苦力怕形"	""
+zh_TW: 苦力怕形"	"伏臨狀"
 "item.fireworksCharge.type.4"	"Burst"	"Original Translation
 zh_CN: 爆裂状
-zh_TW: 爆裂物"	""
+zh_TW: 爆裂物"	"爆裂"
 "item.fireworksCharge.white"	"White"	"Original Translation
 zh_CN: 白色
-zh_TW: 白色"	""
+zh_TW: 白色"	"白"
 "item.fireworksCharge.yellow"	"Yellow"	"Original Translation
 zh_CN: 黄色
-zh_TW: 黃色"	""
+zh_TW: 黃色"	"黃"
 "item.fish.name"	"Raw Cod"	"Original Translation
 zh_CN: 生鳕鱼
-zh_TW: 生鱈魚"	""
+zh_TW: 生鱈魚"	"生鱈"
 "item.fishing_rod.name"	"Fishing Rod"	"Original Translation
 zh_CN: 钓鱼竿
-zh_TW: 釣魚竿"	""
+zh_TW: 釣魚竿"	"釣竿"
 "item.flint.name"	"Flint"	"Original Translation
 zh_CN: 燧石
-zh_TW: 打火石"	""
+zh_TW: 打火石"	"燧石"
 "item.flint_and_steel.name"	"Flint and Steel"	"Original Translation
 zh_CN: 打火石
-zh_TW: 打火鐮"	""
+zh_TW: 打火鐮"	"燧鐮"
 "item.flow_armor_trim_smithing_template.name"	"Flow Armor Trim"	"Original Translation
 zh_CN: 涡流盔甲纹饰
-zh_TW: 流動紋飾護甲"	""
+zh_TW: 流動紋飾護甲"	"氣洄甲紋"
 "item.flow_banner_pattern.name"	"Flow Banner Pattern"	"Original Translation
 zh_CN: 涡流旗帜图案
-zh_TW: 流動旗幟樣式"	""
+zh_TW: 流動旗幟樣式"	"氣洄紋旗楷"
 "item.flow_pottery_sherd.name"	"Flow Pottery Sherd"	"Original Translation
 zh_CN: 涡流纹样陶片
-zh_TW: 流動陶器碎片"	""
+zh_TW: 流動陶器碎片"	"湍陶片"
 "item.flower_banner_pattern.name"	"Flower Charge Banner Pattern"	"Original Translation
 zh_CN: 花朵图案旗帜图案
-zh_TW: 花朵形狀旗幟樣式"	""
+zh_TW: 花朵形狀旗幟樣式"	"花紋旗楷"
 "item.flower_pot.name"	"Flower Pot"	"Original Translation
 zh_CN: 花盆
-zh_TW: 花盆"	""
+zh_TW: 花盆"	"盆"
 "item.frame.name"	"Item Frame"	"Original Translation
 zh_CN: 物品展示框
-zh_TW: 物品框架"	""
+zh_TW: 物品框架"	"置具匡"
 "item.friend_pottery_sherd.name"	"Friend Pottery Sherd"	"Original Translation
 zh_CN: 挚友纹样陶片
-zh_TW: 好友陶器碎片"	""
+zh_TW: 好友陶器碎片"	"友陶片"
 "item.ghast_tear.name"	"Ghast Tear"	"Original Translation
 zh_CN: 恶魂之泪
-zh_TW: 地獄幽靈之淚"	""
+zh_TW: 地獄幽靈之淚"	"魄淚"
 "item.glass_bottle.name"	"Glass Bottle"	"Original Translation
 zh_CN: 玻璃瓶
-zh_TW: 玻璃瓶"	""
+zh_TW: 玻璃瓶"	"琉璃甁"
 "item.globe_banner_pattern.name"	"Globe Banner Pattern"	"Original Translation
 zh_CN: 地球旗帜图案
-zh_TW: 球體旗幟樣式"	""
+zh_TW: 球體旗幟樣式"	"坤輿紋旗楷"
 "item.glow_berries.name"	"Glow Berries"	"Original Translation
 zh_CN: 发光浆果
-zh_TW: 發光漿果"	""
+zh_TW: 發光漿果"	"爍莓"
 "item.glow_frame.name"	"Glow Item Frame"	"Original Translation
 zh_CN: 荧光物品展示框
-zh_TW: 發光物品框架"	""
+zh_TW: 發光物品框架"	"爍置具匡"
 "item.glow_ink_sac.name"	"Glow Ink Sac"	"Original Translation
 zh_CN: 荧光墨囊
-zh_TW: 發光墨囊"	""
+zh_TW: 發光墨囊"	"爍墨"
 "item.glow_stick.blue.name"	"Blue Glow Stick"	"Original Translation
 zh_CN: 蓝色荧光棒
-zh_TW: 藍色螢光棒"	""
+zh_TW: 藍色螢光棒"	"靛熒束"
 "item.glow_stick.brown.name"	"Brown Glow Stick"	"Original Translation
 zh_CN: 棕色荧光棒
-zh_TW: 棕色螢光棒"	""
+zh_TW: 棕色螢光棒"	"褐熒束"
 "item.glow_stick.cyan.name"	"Cyan Glow Stick"	"Original Translation
 zh_CN: 青色荧光棒
-zh_TW: 青綠色螢光棒"	""
+zh_TW: 青綠色螢光棒"	"黛熒束"
 "item.glow_stick.gray.name"	"Gray Glow Stick"	"Original Translation
 zh_CN: 灰色荧光棒
-zh_TW: 灰色螢光棒"	""
+zh_TW: 灰色螢光棒"	"灰熒束"
 "item.glow_stick.green.name"	"Green Glow Stick"	"Original Translation
 zh_CN: 绿色荧光棒
-zh_TW: 綠色螢光棒"	""
+zh_TW: 綠色螢光棒"	"綠熒束"
 "item.glow_stick.lightBlue.name"	"Light Blue Glow Stick"	"Original Translation
 zh_CN: 淡蓝色荧光棒
-zh_TW: 淺藍色螢光棒"	""
+zh_TW: 淺藍色螢光棒"	"縹熒束"
 "item.glow_stick.lime.name"	"Lime Glow Stick"	"Original Translation
 zh_CN: 黄绿色荧光棒
-zh_TW: 淡黃綠色螢光棒"	""
+zh_TW: 淡黃綠色螢光棒"	"翠熒束"
 "item.glow_stick.magenta.name"	"Magenta Glow Stick"	"Original Translation
 zh_CN: 品红色荧光棒
-zh_TW: 洋紅色螢光棒"	""
+zh_TW: 洋紅色螢光棒"	"赬熒束"
 "item.glow_stick.orange.name"	"Orange Glow Stick"	"Original Translation
 zh_CN: 橙色荧光棒
-zh_TW: 橘色螢光棒"	""
+zh_TW: 橘色螢光棒"	"橙熒束"
 "item.glow_stick.pink.name"	"Pink Glow Stick"	"Original Translation
 zh_CN: 粉红色荧光棒
-zh_TW: 粉紅色螢光棒"	""
+zh_TW: 粉紅色螢光棒"	"紅熒束"
 "item.glow_stick.purple.name"	"Purple Glow Stick"	"Original Translation
 zh_CN: 紫色荧光棒
-zh_TW: 紫色螢光棒"	""
+zh_TW: 紫色螢光棒"	"紫熒束"
 "item.glow_stick.red.name"	"Red Glow Stick"	"Original Translation
 zh_CN: 红色荧光棒
-zh_TW: 紅色螢光棒"	""
+zh_TW: 紅色螢光棒"	"赤熒束"
 "item.glow_stick.white.name"	"White Glow Stick"	"Original Translation
 zh_CN: 白色荧光棒
-zh_TW: 白色螢光棒"	""
+zh_TW: 白色螢光棒"	"白熒束"
 "item.glow_stick.yellow.name"	"Yellow Glow Stick"	"Original Translation
 zh_CN: 黄色荧光棒
-zh_TW: 黃色螢光棒"	""
+zh_TW: 黃色螢光棒"	"黃熒束"
 "item.glowstone_dust.name"	"Glowstone Dust"	"Original Translation
 zh_CN: 荧石粉
-zh_TW: 螢石粉"	""
+zh_TW: 螢石粉"	"硄砂"
 "item.goat_horn.name"	"Goat Horn"	"Original Translation
 zh_CN: 山羊角
-zh_TW: 山羊角"	""
+zh_TW: 山羊角"	"山羊角"
 "item.gold_ingot.name"	"Gold Ingot"	"Original Translation
 zh_CN: 金锭
-zh_TW: 黃金錠塊"	""
+zh_TW: 黃金錠塊"	"金錠"
 "item.gold_nugget.name"	"Gold Nugget"	"Original Translation
 zh_CN: 金粒
-zh_TW: 金粒"	""
+zh_TW: 金粒"	"金粒"
 "item.golden_apple.name"	"Golden Apple"	"Original Translation
 zh_CN: 金苹果
-zh_TW: 金蘋果"	""
+zh_TW: 金蘋果"	"金林檎"
 "item.golden_axe.name"	"Golden Axe"	"Original Translation
 zh_CN: 金斧
-zh_TW: 黃金斧"	""
+zh_TW: 黃金斧"	"金斧"
 "item.golden_boots.name"	"Golden Boots"	"Original Translation
 zh_CN: 金靴子
-zh_TW: 黃金靴"	""
+zh_TW: 黃金靴"	"金鞾"
 "item.golden_carrot.name"	"Golden Carrot"	"Original Translation
 zh_CN: 金胡萝卜
-zh_TW: 金色胡蘿蔔"	""
+zh_TW: 金色胡蘿蔔"	"金胡蘆菔"
 "item.golden_chestplate.name"	"Golden Chestplate"	"Original Translation
 zh_CN: 金胸甲
-zh_TW: 黃金胸甲"	""
+zh_TW: 黃金胸甲"	"金鎧"
 "item.golden_helmet.name"	"Golden Helmet"	"Original Translation
 zh_CN: 金头盔
-zh_TW: 黃金頭盔"	""
+zh_TW: 黃金頭盔"	"金胄"
 "item.golden_hoe.name"	"Golden Hoe"	"Original Translation
 zh_CN: 金锄
-zh_TW: 黃金鋤"	""
+zh_TW: 黃金鋤"	"金鋤"
 "item.golden_leggings.name"	"Golden Leggings"	"Original Translation
 zh_CN: 金护腿
-zh_TW: 黃金護腿"	""
+zh_TW: 黃金護腿"	"金護腿"
 "item.golden_pickaxe.name"	"Golden Pickaxe"	"Original Translation
 zh_CN: 金镐
-zh_TW: 黃金鎬"	""
+zh_TW: 黃金鎬"	"金鎬"
 "item.golden_shovel.name"	"Golden Shovel"	"Original Translation
 zh_CN: 金锹
-zh_TW: 黃金鏟"	""
+zh_TW: 黃金鏟"	"金鍁"
 "item.golden_sword.name"	"Golden Sword"	"Original Translation
 zh_CN: 金剑
-zh_TW: 黃金劍"	""
+zh_TW: 黃金劍"	"金劍"
 "item.gray_bundle"	"Gray Bundle"	"Original Translation
 zh_CN: 灰色收纳袋
-zh_TW: 灰色組合包"	""
+zh_TW: 灰色組合包"	"灰皮囊"
 "item.gray_harness.name"	"Gray Harness"	"Original Translation
 zh_CN: 灰色挽具
-zh_TW: 灰色挽具"	""
+zh_TW: 灰色挽具"	"灰轡"
 "item.green_bundle"	"Green Bundle"	"Original Translation
 zh_CN: 绿色收纳袋
-zh_TW: 綠色組合包"	""
+zh_TW: 綠色組合包"	"綠皮囊"
 "item.green_harness.name"	"Green Harness"	"Original Translation
 zh_CN: 绿色挽具
-zh_TW: 綠色挽具"	""
+zh_TW: 綠色挽具"	"綠轡"
 "item.gunpowder.name"	"Gunpowder"	"Original Translation
 zh_CN: 火药
-zh_TW: 火藥"	""
+zh_TW: 火藥"	"火藥"
 "item.guster_banner_pattern.name"	"Guster Banner Pattern"	"Original Translation
 zh_CN: 旋风旗帜图案
-zh_TW: 沙風怪旗幟樣式"	""
+zh_TW: 沙風怪旗幟樣式"	"飆紋旗楷"
 "item.guster_pottery_sherd.name"	"Guster Pottery Sherd"	"Original Translation
 zh_CN: 旋风纹样陶片
-zh_TW: 沙風怪陶器碎片"	""
+zh_TW: 沙風怪陶器碎片"	"飆陶片"
 "item.heart_of_the_sea.name"	"Heart of the Sea"	"Original Translation
 zh_CN: 海洋之心
-zh_TW: 海洋之心"	""
+zh_TW: 海洋之心"	"海之心"
 "item.heart_pottery_sherd.name"	"Heart Pottery Sherd"	"Original Translation
 zh_CN: 爱心纹样陶片
-zh_TW: 愛心陶器碎片"	""
+zh_TW: 愛心陶器碎片"	"心陶片"
 "item.heartbreak_pottery_sherd.name"	"Heartbreak Pottery Sherd"	"Original Translation
 zh_CN: 心碎纹样陶片
-zh_TW: 心碎陶器碎片"	""
+zh_TW: 心碎陶器碎片"	"慟陶片"
 "item.honey_bottle.name"	"Honey Bottle"	"Original Translation
 zh_CN: 蜂蜜瓶
-zh_TW: 蜂蜜瓶"	""
+zh_TW: 蜂蜜瓶"	"蜜甁"
 "item.honeycomb.name"	"Honeycomb"	"Original Translation
 zh_CN: 蜜脾
-zh_TW: 蜂巢"	""
+zh_TW: 蜂巢"	"蜜脾"
 "item.hopper_minecart.name"	"Minecart with Hopper"	"Original Translation
 zh_CN: 漏斗矿车
-zh_TW: 漏斗礦車"	""
+zh_TW: 漏斗礦車"	"漏斗礦車"
 "item.horsearmordiamond.name"	"Diamond Horse Armor"	"Original Translation
 zh_CN: 钻石马铠
-zh_TW: 鑽石馬鎧"	""
+zh_TW: 鑽石馬鎧"	"金剛馬甲"
 "item.horsearmorgold.name"	"Gold Horse Armor"	"Original Translation
 zh_CN: 黄金马铠
-zh_TW: 黃金馬鎧"	""
+zh_TW: 黃金馬鎧"	"金馬甲"
 "item.horsearmoriron.name"	"Iron Horse Armor"	"Original Translation
 zh_CN: 铁马铠
-zh_TW: 鐵馬鎧"	""
+zh_TW: 鐵馬鎧"	"鐵馬甲"
 "item.horsearmorleather.name"	"Leather Horse Armor"	"Original Translation
 zh_CN: 皮革马铠
-zh_TW: 皮馬鎧"	""
+zh_TW: 皮馬鎧"	"皮馬甲"
 "item.host_armor_trim_smithing_template.name"	"Host Armor Trim"	"Original Translation
 zh_CN: 雇主盔甲纹饰
-zh_TW: 主宰紋飾護甲"	""
+zh_TW: 主宰紋飾護甲"	"佃東甲紋"
 "item.howl_pottery_sherd.name"	"Howl Pottery Sherd"	"Original Translation
 zh_CN: 狼嚎纹样陶片
-zh_TW: 狼嚎陶器碎片"	""
+zh_TW: 狼嚎陶器碎片"	"嚎陶片"
 "item.ice_bomb.name"	"Ice Bomb"	"Original Translation
 zh_CN: 冰弹
-zh_TW: 冰塊炸彈"	""
+zh_TW: 冰塊炸彈"	"冰丸"
 "item.iron_axe.name"	"Iron Axe"	"Original Translation
 zh_CN: 铁斧
-zh_TW: 鐵斧"	""
+zh_TW: 鐵斧"	"鐵斧"
 "item.iron_boots.name"	"Iron Boots"	"Original Translation
 zh_CN: 铁靴子
-zh_TW: 鐵靴"	""
+zh_TW: 鐵靴"	"鐵鞾"
 "item.iron_chestplate.name"	"Iron Chestplate"	"Original Translation
 zh_CN: 铁胸甲
-zh_TW: 鐵胸甲"	""
+zh_TW: 鐵胸甲"	"鐵鎧"
 "item.iron_door.name"	"Iron Door"	"Original Translation
 zh_CN: 铁门
-zh_TW: 鐵門"	""
+zh_TW: 鐵門"	"鐵門"
 "item.iron_helmet.name"	"Iron Helmet"	"Original Translation
 zh_CN: 铁头盔
-zh_TW: 鐵頭盔"	""
+zh_TW: 鐵頭盔"	"鐵胄"
 "item.iron_hoe.name"	"Iron Hoe"	"Original Translation
 zh_CN: 铁锄
-zh_TW: 鐵鋤"	""
+zh_TW: 鐵鋤"	"鐵鋤"
 "item.iron_ingot.name"	"Iron Ingot"	"Original Translation
 zh_CN: 铁锭
-zh_TW: 鐵錠塊"	""
+zh_TW: 鐵錠塊"	"鐵錠"
 "item.iron_leggings.name"	"Iron Leggings"	"Original Translation
 zh_CN: 铁护腿
-zh_TW: 鐵護腿"	""
+zh_TW: 鐵護腿"	"鐵護腿"
 "item.iron_nugget.name"	"Iron Nugget"	"Original Translation
 zh_CN: 铁粒
-zh_TW: 鐵粒"	""
+zh_TW: 鐵粒"	"鐵粒"
 "item.iron_pickaxe.name"	"Iron Pickaxe"	"Original Translation
 zh_CN: 铁镐
-zh_TW: 鐵鎬"	""
+zh_TW: 鐵鎬"	"鐵鎬"
 "item.iron_shovel.name"	"Iron Shovel"	"Original Translation
 zh_CN: 铁锹
-zh_TW: 鐵鏟"	""
+zh_TW: 鐵鏟"	"鐵鍁"
 "item.iron_sword.name"	"Iron Sword"	"Original Translation
 zh_CN: 铁剑
-zh_TW: 鐵劍"	""
+zh_TW: 鐵劍"	"鐵劍"
 "item.itemLock.cantDrop"	":hollow_star: Can't Drop Items can't be:"	"Original Translation
 zh_CN: :hollow_star: 无法丢弃物品不能：
-zh_TW: :hollow_star: 無法丟棄物品不能:"	""
+zh_TW: :hollow_star: 無法丟棄物品不能:"	":hollow_star:無以遺物不可："
 "item.itemLock.cantMove"	":solid_star: Can't Move Items can't be:"	"Original Translation
 zh_CN: :solid_star: 无法移动物品不能：
-zh_TW: :solid_star: 無法移動物品不能:"	""
+zh_TW: :solid_star: 無法移動物品不能:"	":solid_star:無以移物不可："
 "item.itemLock.hoverText.cantBe.craftedWith"	"crafted with"	"Original Translation
 zh_CN: 用于合成
-zh_TW: 用於合成"	""
+zh_TW: 用於合成"	"製於"
 "item.itemLock.hoverText.cantBe.dropped"	"dropped"	"Original Translation
 zh_CN: 丢弃
-zh_TW: 丟棄"	""
+zh_TW: 丟棄"	"遺"
 "item.itemLock.hoverText.cantBe.moved"	"moved"	"Original Translation
 zh_CN: 移动
-zh_TW: 移動"	""
+zh_TW: 移動"	"移"
 "item.itemLock.hoverText.cantBe.removed"	"removed"	"Original Translation
 zh_CN: 移除
-zh_TW: 移除"	""
+zh_TW: 移除"	"除"
 "item.itemLock.keepOnDeath"	"This item is not lost on death"	"Original Translation
 zh_CN: 此物品不会因死亡而丢失
-zh_TW: 此物品不會因死亡而丟失"	""
+zh_TW: 此物品不會因死亡而丟失"	"是物死而不喪"
 "item.itemLock.popupNotice.cantDrop"	":hollow_star: Can't Drop Items can't be: dropped, removed, crafted with"	"Original Translation
 zh_CN: :hollow_star: 无法丢弃物品不能：丢弃、移除、用于合成
-zh_TW: :hollow_star: 無法丟棄物品不能: 丟棄、移動、用於合成"	""
+zh_TW: :hollow_star: 無法丟棄物品不能: 丟棄、移動、用於合成"	":hollow_star:無以遺物不可：移、遺、除、製於"
 "item.itemLock.popupNotice.cantMove"	":solid_star: Can't Move Items can't be: moved, dropped, removed, crafted with"	"Original Translation
 zh_CN: :solid_star: 无法移动物品不能：丢弃、移除、用于合成
-zh_TW: :solid_star: 無法移動物品不能: 丟棄、移動、用於合成"	""
+zh_TW: :solid_star: 無法移動物品不能: 丟棄、移動、用於合成"	":solid_star:無以移物不可：移、遺、除、製於"
 "item.jungle_door.name"	"Jungle Door"	"Original Translation
 zh_CN: 丛林木门
-zh_TW: 叢林木門"	""
+zh_TW: 叢林木門"	"叢莽門"
 "item.jungle_hanging_sign.name"	"Jungle Hanging Sign"	"Original Translation
 zh_CN: 丛林悬挂告示牌
-zh_TW: 懸掛式叢林木告示牌"	""
+zh_TW: 懸掛式叢林木告示牌"	"叢莽懸牌"
 "item.jungle_sign.name"	"Jungle Sign"	"Original Translation
 zh_CN: 丛林木告示牌
-zh_TW: 叢林木告示牌"	""
+zh_TW: 叢林木告示牌"	"叢莽牌"
 "item.kelp.name"	"Kelp"	"Original Translation
 zh_CN: 海带
-zh_TW: 大海帶"	""
+zh_TW: 大海帶"	"海帶"
 "item.lead.name"	"Lead"	"Original Translation
 zh_CN: 拴绳
-zh_TW: 繩索"	""
+zh_TW: 繩索"	"韁"
 "item.leather.name"	"Leather"	"Original Translation
 zh_CN: 皮革
-zh_TW: 皮革"	""
+zh_TW: 皮革"	"革"
 "item.leather_boots.name"	"Leather Boots"	"Original Translation
 zh_CN: 皮革靴子
-zh_TW: 皮靴"	""
+zh_TW: 皮靴"	"皮鞾"
 "item.leather_chestplate.name"	"Leather Tunic"	"Original Translation
 zh_CN: 皮革胸甲
 zh_TW: 皮衣"	""
@@ -30296,7 +30296,7 @@ zh_CN: 下界合金斧头
 zh_TW: 獄髓斧"	""
 "item.netherite_boots.name"	"Netherite Boots"	"Original Translation
 zh_CN: 下界合金靴子
-zh_TW: 獄髓靴"	""
+zh_TW: 獄髓靴"	"玄鈺鞾"
 "item.netherite_chestplate.name"	"Netherite Chestplate"	"Original Translation
 zh_CN: 下界合金胸甲
 zh_TW: 獄髓胸甲"	""
@@ -30332,7 +30332,7 @@ zh_CN: 橡木悬挂告示牌
 zh_TW: 懸掛式橡木告示牌"	""
 "item.ominous_bottle.name"	"Ominous Bottle"	"Original Translation
 zh_CN: 不祥之瓶
-zh_TW: 不祥瓶子"	""
+zh_TW: 不祥瓶子"	"厄甁"
 "item.ominous_trial_key.name"	"Ominous Trial Key"	"Original Translation
 zh_CN: 不祥试炼钥匙
 zh_TW: 不祥試煉鑰匙"	""
@@ -31358,7 +31358,7 @@ zh_CN: 船
 zh_TW: 小船"	""
 "itemGroup.name.boots"	"Boots"	"Original Translation
 zh_CN: 靴子
-zh_TW: 靴子"	""
+zh_TW: 靴子"	"鞾"
 "itemGroup.name.bundles"	"Bundles"	"Original Translation
 zh_CN: 收纳袋
 zh_TW: 組合包"	""
@@ -31508,7 +31508,7 @@ zh_CN: 下界疣
 zh_TW: 地獄結節"	""
 "itemGroup.name.ominousBottle"	"Ominous Bottles"	"Original Translation
 zh_CN: 不祥之瓶
-zh_TW: 不祥瓶子"	""
+zh_TW: 不祥瓶子"	"厄甁"
 "itemGroup.name.ore"	"Ores"	"Original Translation
 zh_CN: 矿石
 zh_TW: 礦石"	""
@@ -33275,7 +33275,7 @@ zh_CN: 当你直接向上挖的时候，在你的脚边放一个火把，打破�
 zh_TW: 直線往上挖的時候，將火把放在腳邊即可摧毀任何可能掉在您身上的沙子或礪石。"	""
 "midgameTips.51"	"Shear a Beehive or nest to get Honeycomb, use a Bottle to get honey."	"Original Translation
 zh_CN: 修剪蜂箱或蜂巢以获得蜜脾，并使用瓶子获取蜂蜜
-zh_TW: 剪下蜂窩或巢穴獲得蜂巢，用瓶子獲取蜂蜜。"	""
+zh_TW: 剪下蜂窩或巢穴獲得蜂巢，用瓶子獲取蜂蜜。"	"鉸蜂箱巢以得蜜脾，以甁取蜜。"
 "midgameTips.52"	"Place a campfire under a beehive or nest to harvest honey."	"Original Translation
 zh_CN: 将营火放置在蜂窝或蜂巢下可收获蜂蜜。
 zh_TW: 在蜂窩或巢穴下點把營火來採收蜂蜜。"	""
@@ -33308,7 +33308,7 @@ zh_CN: 悦灵热爱音乐，因此会与音符盒互动！
 zh_TW: 亞萊熱愛音樂，因此會和音符塊互動！"	""
 "midgameTips.61"	"Use a water bottle on a dirt block to get mud!"	"Original Translation
 zh_CN: 在泥土方块上使用水瓶来获得泥浆！
-zh_TW: 在泥土方塊上使用水瓶來獲得泥漿！"	""
+zh_TW: 在泥土方塊上使用水瓶來獲得泥漿！"	"酹水甁於土塊以得泥！"
 "midgameTips.62"	"When wandering in the deep dark, silence is key."	"Original Translation
 zh_CN: 在漆黑中徘徊时，沉默是关键。
 zh_TW: 在幽暗之地徘徊時，最重要的是保持沉默。"	""
@@ -37048,7 +37048,7 @@ zh_CN: 艾莉克斯的衬衫
 zh_TW: 愛莉克斯的襯衫"	""
 "persona.alex_shoes.title"	"Alex's Boots"	"Original Translation
 zh_CN: 艾莉克斯的靴子
-zh_TW: 愛莉克斯的靴子"	""
+zh_TW: 愛莉克斯的靴子"	"艾麗思之鞾"
 "persona.alex_skin.title"	"Alex"	"Original Translation
 zh_CN: 艾莉克斯
 zh_TW: 愛莉克斯"	""
@@ -37099,7 +37099,7 @@ zh_CN: 埃菲的上衣
 zh_TW: 埃菲的襯衫"	""
 "persona.efe_shoes.title"	"Efe's Boots"	"Original Translation
 zh_CN: 埃菲的靴子
-zh_TW: 埃菲的靴子"	""
+zh_TW: 埃菲的靴子"	"移緋之鞾"
 "persona.efe_skin.title"	"Efe"	"Original Translation
 zh_CN: 埃菲
 zh_TW: 埃菲"	""
@@ -37564,13 +37564,13 @@ zh_CN: 无效果
 zh_TW: 無效果"	""
 "potion.emptyPotion.linger.name"	"Lingering Water Bottle"	"Original Translation
 zh_CN: 滯留水瓶
-zh_TW: 滯留水瓶"	""
+zh_TW: 滯留水瓶"	"水滯劑"
 "potion.emptyPotion.name"	"Water Bottle"	"Original Translation
 zh_CN: 水瓶
-zh_TW: 水瓶"	""
+zh_TW: 水瓶"	"水甁"
 "potion.emptyPotion.splash.name"	"Splash Water Bottle"	"Original Translation
 zh_CN: 喷溅水瓶
-zh_TW: 噴濺水瓶"	""
+zh_TW: 噴濺水瓶"	"水噴劑"
 "potion.fireResistance"	"Fire Resistance"	"Original Translation
 zh_CN: 抗火
 zh_TW: 抗火"	""
