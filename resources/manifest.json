@@ -1,7 +1,7 @@
 {
   "format_version": 2,
   "header": {
-    "description": "Simp. & Trad. Chinese translation correction.",
+    "description": "Chinese translation correction for Minecraft: Bedrock Edition.",
     "name": "MCBE Chinese Patch",
     "uuid": "a47bb2c5-fc0d-4c5d-90e7-f521c20f3fe6",
     "version": [
@@ -18,7 +18,7 @@
   },
   "modules": [
     {
-      "description": "Simp. & Trad. Chinese translation correction.",
+      "description": "Chinese translation correction for Minecraft: Bedrock Edition.",
       "type": "resources",
       "uuid": "631a60e5-6e20-4e49-a570-5cc5d2084fc4",
       "version": [
