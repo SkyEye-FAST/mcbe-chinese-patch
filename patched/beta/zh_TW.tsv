@@ -1,154 +1,154 @@
 "Key"	"Source string"	"Context"	"Translation"
 "3d_export.export"	"Export"	"Original Translation
 zh_CN: 导出
-zh_TW: 匯出"	""
+zh_TW: 匯出"	"匯出"
 "3d_export.include"	"Include"	"Original Translation
 zh_CN: 包含
-zh_TW: 加入"	""
+zh_TW: 加入"	"加入"
 "3d_export.include_players"	"Include Players:"	"Original Translation
 zh_CN: 包含玩家：
-zh_TW: 加入玩家："	""
+zh_TW: 加入玩家："	"加入玩家："
 "3d_export.off"	"Off"	"Original Translation
 zh_CN: 关闭
-zh_TW: 關閉"	""
+zh_TW: 關閉"	"關閉"
 "3d_export.remixServiceDiscontinued"	"Note: Remix3D Upload service is no longer available, use Export to save locally instead."	"Original Translation
 zh_CN: 注意：Remix3D 上传服务不再可用，请使用“导出”来进行本地保存。
-zh_TW: 注意：Remix3D 上傳服務已不再提供，使用「匯出」即可改為本機儲存。"	""
+zh_TW: 注意：Remix3D 上傳服務已不再提供，使用「匯出」即可改為本機儲存。"	"Remix3D 上傳服務已不再提供，使用「匯出」即可改為本機儲存。"
 "3d_export.remove"	"Remove"	"Original Translation
 zh_CN: 移除
-zh_TW: 移除"	""
+zh_TW: 移除"	"移除"
 "3d_export.remove_blocks"	"Remove Blocks:"	"Original Translation
 zh_CN: 移除方块：
-zh_TW: 移除方塊："	""
+zh_TW: 移除方塊："	"移除方塊："
 "3d_export.reset"	"Reset"	"Original Translation
 zh_CN: 重置
-zh_TW: 重置"	""
+zh_TW: 重置"	"重設"
 "3d_export.show"	"Show"	"Original Translation
 zh_CN: 显示
-zh_TW: 顯示"	""
+zh_TW: 顯示"	"顯示"
 "3d_export.title"	"3D Export"	"Original Translation
 zh_CN: 3D 导出
-zh_TW: 3D 匯出"	""
+zh_TW: 3D 匯出"	"3D 匯出"
 "accessibility.button.back"	"back"	"Original Translation
 zh_CN: 返回
-zh_TW: 返回"	""
+zh_TW: 返回"	"返回"
 "accessibility.button.close"	"close"	"Original Translation
 zh_CN: 关闭
-zh_TW: 關閉"	""
+zh_TW: 關閉"	"關閉"
 "accessibility.button.creative.layout"	"Recipe book view"	"Original Translation
 zh_CN: 配方书视图
-zh_TW: 配方書檢視"	""
+zh_TW: 配方書檢視"	"配方手冊檢視"
 "accessibility.button.exit"	"Exit"	"Original Translation
 zh_CN: 退出
-zh_TW: 離開"	""
+zh_TW: 離開"	"離開"
 "accessibility.button.filter"	"Filter"	"Original Translation
 zh_CN: 筛选
-zh_TW: 篩選"	""
+zh_TW: 篩選"	"篩選"
 "accessibility.button.filter.appliedCount"	"%s Applied"	"Original Translation
 zh_CN: %s 已应用
-zh_TW: 已套用「%s」"	""
+zh_TW: 已套用「%s」"	"已套用「%s」"
 "accessibility.button.navigateLeft"	"Left Arrow"	"Original Translation
 zh_CN: 左箭头
-zh_TW: 向左鍵"	""
+zh_TW: 向左鍵"	"左方向鍵"
 "accessibility.button.navigateRight"	"Right Arrow"	"Original Translation
 zh_CN: 右箭头
-zh_TW: 向右鍵"	""
+zh_TW: 向右鍵"	"右方向鍵"
 "accessibility.button.recipebook.layout"	"Recipe book and inventory view"	"Original Translation
 zh_CN: 配方书和物品栏视图
-zh_TW: 配方書和物品欄檢視"	""
+zh_TW: 配方書和物品欄檢視"	"配方手冊和物品欄檢視"
 "accessibility.button.sort"	"Sort"	"Original Translation
 zh_CN: 排序
-zh_TW: 排序"	""
+zh_TW: 排序"	"排序"
 "accessibility.button.survival.layout"	"Inventory view"	"Original Translation
 zh_CN: 物品栏视图
-zh_TW: 物品欄檢視"	""
+zh_TW: 物品欄檢視"	"物品欄檢視"
 "accessibility.button.tts.title"	"Button"	"Original Translation
 zh_CN: 按钮
-zh_TW: 按鈕"	""
+zh_TW: 按鈕"	"按鈕"
 "accessibility.chat.howtoemote"	"Press or Hold %s to Emote"	"Original Translation
 zh_CN: 按或按住 %s 发表情
-zh_TW: 按住 %s 以顯示表情符號"	""
+zh_TW: 按住 %s 以顯示表情符號"	"點按或按住 %s 擺表情"
 "accessibility.chat.howtoopen"	"Press %s to open chat"	"Original Translation
 zh_CN: 按 %s 打开聊天
-zh_TW: 按 %s 開啟聊天"	""
+zh_TW: 按 %s 開啟聊天"	"按 %s 開啟聊天"
 "accessibility.chat.tts.gamepad.back"	"Press the %s to go back"	"Original Translation
 zh_CN: 按下 %s 返回
-zh_TW: 按 %s 返回"	""
+zh_TW: 按 %s 返回"	"按 %s 返回"
 "accessibility.chat.tts.gamepad.exitChat"	"Press the %s to exit chat"	"Original Translation
 zh_CN: 按下 %s 退出聊天
-zh_TW: 按 %s 退出聊天"	""
+zh_TW: 按 %s 退出聊天"	"按 %s 退出聊天"
 "accessibility.chat.tts.gamepad.sendMessage"	"Press the %s to send message"	"Original Translation
 zh_CN: 按下 %s 发送消息
-zh_TW: 按 %s 發送消息"	""
+zh_TW: 按 %s 發送消息"	"按 %s 傳送訊息"
 "accessibility.chat.tts.hideChat"	"Hide chat"	"Original Translation
 zh_CN: 隐藏聊天
-zh_TW: 隱藏聊天"	""
+zh_TW: 隱藏聊天"	"隱藏聊天"
 "accessibility.chat.tts.keyboard"	"Keyboard"	"Original Translation
 zh_CN: 键盘
-zh_TW: 鍵盤"	""
+zh_TW: 鍵盤"	"鍵盤"
 "accessibility.chat.tts.muteChatToggle"	"Mute All"	"Original Translation
 zh_CN: 全部静音
-zh_TW: 全部靜音"	""
+zh_TW: 全部靜音"	"全部靜音"
 "accessibility.chat.tts.says"	"%s says %s"	"Original Translation
 zh_CN: %s 说 %s
-zh_TW: %s 說 %s"	""
+zh_TW: %s 說 %s"	"%s 說 %s"
 "accessibility.chat.tts.sendChatMessage"	"Send"	"Original Translation
 zh_CN: 发送
-zh_TW: 傳送"	""
+zh_TW: 傳送"	"傳送"
 "accessibility.chat.tts.textboxTitle"	"Chat"	"Original Translation
 zh_CN: 聊天
-zh_TW: 聊天"	""
+zh_TW: 聊天"	"聊天"
 "accessibility.checkbox.tts.status"	"status %s"	"Original Translation
 zh_CN: 状态 %s
-zh_TW: 狀態 %s"	""
+zh_TW: 狀態 %s"	"狀態 %s"
 "accessibility.checkbox.tts.title"	"Checkbox"	"Original Translation
 zh_CN: 复选框
-zh_TW: 核取方塊"	""
+zh_TW: 核取方塊"	"核取方塊"
 "accessibility.controllerLayoutScreen.buttonBoundTo"	"%s button: %s"	"Original Translation
 zh_CN: %s 按钮：%s
-zh_TW: %s 按鈕：%s"	""
+zh_TW: %s 按鈕：%s"	"%s 按鈕：%s"
 "accessibility.controllerLayoutScreen.buttonRemapped"	"%s is now bound to %s"	"Original Translation
 zh_CN: %s 已被绑定至 %s
-zh_TW: %s 現在綁定至 %s"	""
+zh_TW: %s 現在綁定至 %s"	"%s 現在綁定至 %s"
 "accessibility.controllerLayoutScreen.buttonRemapping"	"Select input to bind for %s"	"Original Translation
 zh_CN: 为 %s 选择要绑定的输入
-zh_TW: 選擇要和 %s 綁定的輸入"	""
+zh_TW: 選擇要和 %s 綁定的輸入"	"選擇要和 %s 綁定的輸入"
 "accessibility.disableTTS"	"Text To Speech disabled"	"Original Translation
 zh_CN: 文本转语音已禁用
-zh_TW: 文字轉換語音已停用"	""
+zh_TW: 文字轉換語音已停用"	"文字轉換語音已停用"
 "accessibility.discount.percent"	"%s percent discount"	"Original Translation
 zh_CN: %s% 折扣
-zh_TW: %s% 折扣"	""
+zh_TW: %s% 折扣"	"%s% 折扣"
 "accessibility.discount.price"	"Discounted Price %s Minecoins"	"Original Translation
 zh_CN: 折扣价 %s Minecoin
-zh_TW: 折扣價 %s 錢幣"	""
+zh_TW: 折扣價 %s 錢幣"	"折扣價 %s Minecoin"
 "accessibility.downloading.Progress"	"Downloading %s percent"	"Original Translation
 zh_CN: 正在下载 %s%
-zh_TW: 下載中，百分之 %s"	""
+zh_TW: 下載中，百分之 %s"	"已下載 %s%"
 "accessibility.downloading.canceled"	"Download canceled"	"Original Translation
 zh_CN: 下载已取消
-zh_TW: 下載已取消"	""
+zh_TW: 下載已取消"	"下載已取消"
 "accessibility.downloading.complete"	"Download complete"	"Original Translation
 zh_CN: 下载完成
-zh_TW: 下載完成"	""
+zh_TW: 下載完成"	"下載完成"
 "accessibility.downloading.start"	"Download begun"	"Original Translation
 zh_CN: 下载已开始
-zh_TW: 下載已開始"	""
+zh_TW: 下載已開始"	"下載已開始"
 "accessibility.dropdown.listItem"	"List item"	"Original Translation
 zh_CN: 列表项
-zh_TW: 清單項目"	""
+zh_TW: 清單項目"	"清單項目"
 "accessibility.dropdown.tts.title"	"Dropdown"	"Original Translation
 zh_CN: 下拉
-zh_TW: 下拉式選單"	""
+zh_TW: 下拉式選單"	"下拉式選單"
 "accessibility.emotes.assigned"	"The %s emote assigned"	"Original Translation
 zh_CN: 已指派 %s 表情
-zh_TW: 已分配 %s 表情"	""
+zh_TW: 已分配 %s 表情"	"已分配 %s 表情"
 "accessibility.emotes.exitEmotesInstruction.gamepad"	"Press the %s to change emotes or %s to exit."	"Original Translation
 zh_CN: 按下 %s 更改表情或按下 %s 退出。
-zh_TW: 按下 %s 可更換表情動作，或按下 %s 可退出。"	""
+zh_TW: 按下 %s 可更換表情動作，或按下 %s 可退出。"	"按下 %s 可更換表情動作，或按下 %s 可退出。"
 "accessibility.emotes.exitEmotesInstruction.keyboard"	"Press %s to access the Change Emotes button or %s to exit."	"Original Translation
 zh_CN: 按下 %s 访问更改表情按钮或按下 %s 退出。
-zh_TW: 按下 %s 可開啟「更換表情動作」按鈕，或按下 %s 可退出。"	""
+zh_TW: 按下 %s 可開啟「更換表情動作」按鈕，或按下 %s 可退出。"	"按下 %s 可開啟更換表情動作按鈕，或按下 %s 可退出。"
 "accessibility.emotes.hovered"	"%s, emote button %d, %d of %d"	"Original Translation
 zh_CN: %s，表情按钮 %d，%d 的 %d
 zh_TW: %s、表情符號按鈕 %d、%d/%d"	""

@@ -931,7 +931,7 @@ zh_CN: 点击“跳跃”离开船
 zh_TW: 按一下跳躍離開小船"	"点击“跳跃”离开船"
 "action.hint.exit.camel"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻触潜行可以下马
-zh_TW: 點擊潛行以取消搭乘"	"点击“潜行”脱离"
+zh_TW: 點擊潛行以取消搭乘"	"点击“潜行”取消骑乘"
 "action.hint.exit.chest_boat"	"Tap jump to exit the boat"	"Original Translation
 zh_CN: 点击“跳跃”离开船
 zh_TW: 按一下跳躍離開小船"	"点击“跳跃”离开船"
@@ -940,109 +940,109 @@ zh_CN: 按下 :_input_key.jump: 离开船
 zh_TW: 按 :_input_key.jump: 離開小船"	"按:_input_key.jump:离开船"
 "action.hint.exit.console.camel"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:脱离"
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:取消骑乘"
 "action.hint.exit.console.chest_boat"	"Press :_input_key.jump: to exit the boat"	"Original Translation
 zh_CN: 按下 :_input_key.jump: 离开船
 zh_TW: 按 :_input_key.jump: 離開小船"	"按:_input_key.jump:离开船"
 "action.hint.exit.console.donkey"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:脱离"
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:取消骑乘"
 "action.hint.exit.console.happy_ghast"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:脱离"
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:取消骑乘"
 "action.hint.exit.console.horse"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:脱离"
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:取消骑乘"
 "action.hint.exit.console.llama"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:脱离"
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:取消骑乘"
 "action.hint.exit.console.minecart"	"Press :_input_key.jump: to exit the minecart"	"Original Translation
 zh_CN: 按下 :_input_key.jump: 离开矿车
 zh_TW: 按 :_input_key.jump: 離開礦車"	"按:_input_key.jump:离开矿车"
 "action.hint.exit.console.mule"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:脱离"
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:取消骑乘"
 "action.hint.exit.console.pig"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:脱离"
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:取消骑乘"
 "action.hint.exit.console.raft"	"Press :_input_key.jump: to exit the raft"	"Original Translation
 zh_CN: 按下 :_input_key.jump: 离开竹筏
 zh_TW: 按 :_input_key.jump: 離開木筏"	"按:_input_key.jump:离开竹筏"
 "action.hint.exit.console.skeleton_horse"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:脱离"
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:取消骑乘"
 "action.hint.exit.console.strider"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:脱离"
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:取消骑乘"
 "action.hint.exit.console.trader_llama"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:脱离"
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按:_input_key.sneak:取消骑乘"
 "action.hint.exit.donkey"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻按潜行可以下马
-zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”脱离"
+zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”取消骑乘"
 "action.hint.exit.happy_ghast"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻触潜行以跃下
-zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”脱离"
+zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”取消骑乘"
 "action.hint.exit.horse"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻按潜行可以下马
-zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”脱离"
+zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”取消骑乘"
 "action.hint.exit.llama"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻按潜行可以下马
-zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”脱离"
+zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”取消骑乘"
 "action.hint.exit.minecart"	"Tap jump to exit the minecart"	"Original Translation
 zh_CN: 点击“跳跃”离开矿车
 zh_TW: 按一下跳躍離開礦車"	"点击“跳跃”离开矿车"
 "action.hint.exit.mule"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻按潜行可以下马
-zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”脱离"
+zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”取消骑乘"
 "action.hint.exit.pig"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻按潜行可以下马
-zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”脱离"
+zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”取消骑乘"
 "action.hint.exit.raft"	"Tap jump to exit the raft"	"Original Translation
 zh_CN: 点击“跳跃”离开竹筏
 zh_TW: 按一下跳躍離開木筏"	"点击“跳跃”离开竹筏"
 "action.hint.exit.scheme.camel"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下即可下马
-zh_TW: 點擊以取消乘坐"	"点击“脱离”离开矿车"
+zh_TW: 點擊以取消乘坐"	"点击“脱离”取消骑乘"
 "action.hint.exit.scheme.donkey"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”离开"
+zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”取消骑乘"
 "action.hint.exit.scheme.happy_ghast"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻触潜行以跃下
-zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”脱离"
+zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”取消骑乘"
 "action.hint.exit.scheme.horse"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”离开"
+zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”取消骑乘"
 "action.hint.exit.scheme.llama"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”离开"
+zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”取消骑乘"
 "action.hint.exit.scheme.minecart"	"Tap dismount to exit the minecart"	"Original Translation
 zh_CN: 轻触跃下离开矿车
 zh_TW: 點擊取消乘坐以離開礦車"	"点击“脱离”离开矿车"
 "action.hint.exit.scheme.mule"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”离开"
+zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”取消骑乘"
 "action.hint.exit.scheme.pig"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”离开"
+zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”取消骑乘"
 "action.hint.exit.scheme.skeleton_horse"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”离开"
+zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”取消骑乘"
 "action.hint.exit.scheme.strider"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”离开"
+zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”取消骑乘"
 "action.hint.exit.scheme.trader_llama"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”离开"
+zh_TW: 點擊取消乘坐以取消乘坐"	"点击“脱离”取消骑乘"
 "action.hint.exit.skeleton_horse"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻按潜行可以下马
-zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”脱离"
+zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”取消骑乘"
 "action.hint.exit.strider"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻触潜行可以下马
-zh_TW: 點擊潛行以取消搭乘"	"点击“潜行”脱离"
+zh_TW: 點擊潛行以取消搭乘"	"点击“潜行”取消骑乘"
 "action.hint.exit.trader_llama"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻触潜行可以下马
-zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”脱离"
+zh_TW: 輕觸潛行以取消乘坐"	"点击“潜行”取消骑乘"
 "action.interact.allay"	"Give item to Allay"	"Original Translation
 zh_CN: 给悦灵物品
 zh_TW: 把物品給亞萊"	"给悦灵物品"
@@ -2212,7 +2212,7 @@ zh_CN: 已从你身上撤销 '%1$s' 技能
 zh_TW: 已撤銷你的「'%1$s'」技能"	""
 "commands.ability.success"	"Ability has been updated"	"Original Translation
 zh_CN: 技能已更新
-zh_TW: 技能已更新"	""
+zh_TW: 技能已更新"	"能力已更新"
 "commands.achievement.alreadyHave"	"Player %1$s already has achievement %2$s"	"Original Translation
 zh_CN: 玩家 %1$s 已经获得了 %2$s 成就
 zh_TW: 玩家 %1$s 已經取得 %2$s 成就"	""
@@ -26198,175 +26198,175 @@ zh_CN: 未指派
 zh_TW: 未分配"	""
 "hudScreen.tooltip.attach"	"Attach"	"Original Translation
 zh_CN: 连接
-zh_TW: 裝上"	""
+zh_TW: 裝上"	"连接"
 "hudScreen.tooltip.basic.back"	"Back"	"Original Translation
 zh_CN: 向后
-zh_TW: 返回"	""
+zh_TW: 返回"	"向后移动"
 "hudScreen.tooltip.basic.chat"	"Chat"	"Original Translation
 zh_CN: 聊天
-zh_TW: 聊天"	""
+zh_TW: 聊天"	"聊天"
 "hudScreen.tooltip.basic.flyDown"	"Fly Down"	"Original Translation
 zh_CN: 向下飞
-zh_TW: 向下飛"	""
+zh_TW: 向下飛"	"向下飞"
 "hudScreen.tooltip.basic.flyUp"	"Fly Up"	"Original Translation
 zh_CN: 向上飞
-zh_TW: 向上飛"	""
+zh_TW: 向上飛"	"向上飞"
 "hudScreen.tooltip.basic.forward"	"Forward"	"Original Translation
 zh_CN: 向前
-zh_TW: 前進"	""
+zh_TW: 前進"	"向前移动"
 "hudScreen.tooltip.basic.jump"	"Jump"	"Original Translation
 zh_CN: 跳跃
-zh_TW: 跳躍"	""
+zh_TW: 跳躍"	"跳跃"
 "hudScreen.tooltip.basic.left"	"Left"	"Original Translation
 zh_CN: 向左
-zh_TW: 向左"	""
+zh_TW: 向左"	"向左移动"
 "hudScreen.tooltip.basic.right"	"Right"	"Original Translation
 zh_CN: 向右
-zh_TW: 向右"	""
+zh_TW: 向右"	"向右移动"
 "hudScreen.tooltip.basic.sneak"	"Sneak"	"Original Translation
 zh_CN: 潜行
-zh_TW: 潛行"	""
+zh_TW: 潛行"	"潜行"
 "hudScreen.tooltip.basic.startFlying"	"Start Flying"	"Original Translation
 zh_CN: 开始飞行
-zh_TW: 開始飛行"	""
+zh_TW: 開始飛行"	"开始飞行"
 "hudScreen.tooltip.basic.stopFlying"	"Stop Flying"	"Original Translation
 zh_CN: 停止飞行
-zh_TW: 停止飛行"	""
+zh_TW: 停止飛行"	"停止飞行"
 "hudScreen.tooltip.basic.swimDown"	"Swim Down"	"Original Translation
 zh_CN: 向下游
-zh_TW: 向下游"	""
+zh_TW: 向下游"	"向下游"
 "hudScreen.tooltip.basic.swimUp"	"Swim Up"	"Original Translation
 zh_CN: 向上游
-zh_TW: 向上游"	""
+zh_TW: 向上游"	"向上游"
 "hudScreen.tooltip.boatExit"	"Leave Boat"	"Original Translation
 zh_CN: 下船
-zh_TW: 下船"	""
+zh_TW: 下船"	"下船"
 "hudScreen.tooltip.brush"	"Brush"	"Original Translation
 zh_CN: 画笔
-zh_TW: 刷子"	""
+zh_TW: 刷子"	"刷扫"
 "hudScreen.tooltip.carve"	"Carve"	"Original Translation
 zh_CN: 雕刻
-zh_TW: 雕刻"	""
+zh_TW: 雕刻"	"雕刻"
 "hudScreen.tooltip.change_note"	"Change Note"	"Original Translation
 zh_CN: 变更说明
-zh_TW: 變更說明"	""
+zh_TW: 變更說明"	"切换音符"
 "hudScreen.tooltip.collect"	"Collect"	"Original Translation
 zh_CN: 收集
-zh_TW: 收集"	""
+zh_TW: 收集"	"收集"
 "hudScreen.tooltip.crafting"	"Crafting"	"Original Translation
 zh_CN: 制作
-zh_TW: 合成"	""
+zh_TW: 合成"	"合成"
 "hudScreen.tooltip.dig"	"Dig Path"	"Original Translation
 zh_CN: 挖掘道路
-zh_TW: 挖路"	""
+zh_TW: 挖路"	"挖掘土径"
 "hudScreen.tooltip.dismount"	"Dismount"	"Original Translation
 zh_CN: 跳下
-zh_TW: 跳下"	""
+zh_TW: 跳下"	"脱离"
 "hudScreen.tooltip.draw"	"Draw"	"Original Translation
 zh_CN: 拉弓
-zh_TW: 拉弓"	""
+zh_TW: 拉弓"	"拉弓"
 "hudScreen.tooltip.dropItem"	"Drop"	"Original Translation
 zh_CN: 丢弃
-zh_TW: 丟棄"	""
+zh_TW: 丟棄"	"丢弃"
 "hudScreen.tooltip.eat"	"Eat"	"Original Translation
 zh_CN: 进食
-zh_TW: 吃"	""
+zh_TW: 吃"	"进食"
 "hudScreen.tooltip.edit_sign"	"Edit"	"Original Translation
 zh_CN: 编辑
-zh_TW: 編輯"	""
+zh_TW: 編輯"	"编辑"
 "hudScreen.tooltip.eject"	"Eject"	"Original Translation
 zh_CN: 弹出
-zh_TW: 退出"	""
+zh_TW: 退出"	"弹出"
 "hudScreen.tooltip.emote"	"Emote"	"Original Translation
 zh_CN: 表情
-zh_TW: 表情"	""
+zh_TW: 表情"	"表情"
 "hudScreen.tooltip.empty"	"Empty"	"Original Translation
 zh_CN: 空
-zh_TW: 清空"	""
+zh_TW: 清空"	"清空"
 "hudScreen.tooltip.grow"	"Grow"	"Original Translation
 zh_CN: 生长
-zh_TW: 栽培"	""
+zh_TW: 栽培"	"催熟"
 "hudScreen.tooltip.hang"	"Hang"	"Original Translation
 zh_CN: 悬挂
-zh_TW: 懸吊"	""
+zh_TW: 懸吊"	"悬挂"
 "hudScreen.tooltip.hit"	"Hit"	"Original Translation
 zh_CN: 击打
-zh_TW: 敲擊"	""
+zh_TW: 敲擊"	"击打"
 "hudScreen.tooltip.ignite"	"Ignite"	"Original Translation
 zh_CN: 点燃
-zh_TW: 點燃"	""
+zh_TW: 點燃"	"点燃"
 "hudScreen.tooltip.insert"	"Insert"	"Original Translation
 zh_CN: Insert
-zh_TW: 插入"	""
+zh_TW: 插入"	"插入"
 "hudScreen.tooltip.inventory"	"Inventory"	"Original Translation
 zh_CN: 物品栏
-zh_TW: 物品欄"	""
+zh_TW: 物品欄"	"物品栏"
 "hudScreen.tooltip.milk"	"Drink"	"Original Translation
 zh_CN: 喝下
-zh_TW: 喝"	""
+zh_TW: 喝"	"喝下"
 "hudScreen.tooltip.mine"	"Mine"	"Original Translation
 zh_CN: 挖掘
-zh_TW: 開採"	""
+zh_TW: 開採"	"挖掘"
 "hudScreen.tooltip.open"	"Open"	"Original Translation
 zh_CN: 打开
-zh_TW: 開啟"	""
+zh_TW: 開啟"	"打开"
 "hudScreen.tooltip.peel"	"Peel Bark"	"Original Translation
 zh_CN: 剥树皮
-zh_TW: 樹皮"	""
+zh_TW: 樹皮"	"去皮"
 "hudScreen.tooltip.pick"	"Pick"	"Original Translation
 zh_CN: 采摘
-zh_TW: 摘採"	""
+zh_TW: 摘採"	"采摘"
 "hudScreen.tooltip.place"	"Place"	"Original Translation
 zh_CN: 放置
-zh_TW: 放置"	""
+zh_TW: 放置"	"放置"
 "hudScreen.tooltip.placeBook"	"Place Book"	"Original Translation
 zh_CN: 放置书
-zh_TW: 放置書本"	""
+zh_TW: 放置書本"	"放置书"
 "hudScreen.tooltip.plant"	"Plant"	"Original Translation
 zh_CN: 植物
-zh_TW: 植物"	""
+zh_TW: 植物"	"种植"
 "hudScreen.tooltip.potion"	"Drink"	"Original Translation
 zh_CN: 喝下
-zh_TW: 喝"	""
+zh_TW: 喝"	"喝下"
 "hudScreen.tooltip.readBook"	"Read Book"	"Original Translation
 zh_CN: 读书
-zh_TW: 閱讀書本"	""
+zh_TW: 閱讀書本"	"阅读书"
 "hudScreen.tooltip.release"	"Release"	"Original Translation
 zh_CN: 释放
-zh_TW: 射箭"	""
+zh_TW: 射箭"	"释放"
 "hudScreen.tooltip.removeBook"	"Remove Book"	"Original Translation
 zh_CN: 移除书
-zh_TW: 移除書本"	""
+zh_TW: 移除書本"	"移除书"
 "hudScreen.tooltip.rotate"	"Rotate"	"Original Translation
 zh_CN: 旋转
-zh_TW: 旋轉"	""
+zh_TW: 旋轉"	"旋转"
 "hudScreen.tooltip.scaffoldingDescend"	"Hold to Descend"	"Original Translation
 zh_CN: 按住以下降
-zh_TW: 按住以下降"	""
+zh_TW: 按住以下降"	"按住以下降"
 "hudScreen.tooltip.scrape"	"Scrape"	"Original Translation
 zh_CN: 刮
-zh_TW: 刮"	""
+zh_TW: 刮"	"刮削"
 "hudScreen.tooltip.shear"	"Shear"	"Original Translation
 zh_CN: 修剪
-zh_TW: 修剪"	""
+zh_TW: 修剪"	"修剪"
 "hudScreen.tooltip.sleep"	"Sleep"	"Original Translation
 zh_CN: 睡觉
-zh_TW: 睡覺"	""
+zh_TW: 睡覺"	"睡觉"
 "hudScreen.tooltip.throw"	"Throw"	"Original Translation
 zh_CN: 投掷
-zh_TW: 投擲"	""
+zh_TW: 投擲"	"投掷"
 "hudScreen.tooltip.till"	"Till"	"Original Translation
 zh_CN: 耕种
-zh_TW: 整地"	""
+zh_TW: 整地"	"锄地"
 "hudScreen.tooltip.use"	"Use"	"Original Translation
 zh_CN: 使用
-zh_TW: 使用"	""
+zh_TW: 使用"	"使用"
 "hudScreen.tooltip.waxOff"	"Wax Off"	"Original Translation
 zh_CN: 脱蜡
-zh_TW: 除蠟"	""
+zh_TW: 除蠟"	"脱蜡"
 "hudScreen.tooltip.waxOn"	"Wax On"	"Original Translation
 zh_CN: 涂蜡
-zh_TW: 上蠟"	""
+zh_TW: 上蠟"	"涂蜡"
 "immersive_reader.book_page_header"	"Page %1 of %2"	"Original Translation
 zh_CN: 第 %1 页，共 %2 页
 zh_TW: 第 %1 頁，共 %2 頁"	""
