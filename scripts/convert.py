@@ -334,26 +334,22 @@ def extract_translation_with_sources(
     key_index = headers.index("Key")
     translation_index = headers.index("Translation")
 
-    lang_code = tsv_file.stem
-
-    key_to_source = build_key_to_source_mapping(extracted_dir, branch, lang_code)
-
-    sources: dict[str, dict[str, str]] = {}
-    unknown_source = f"resource_packs/vanilla/texts/{lang_code}.lang"
+    mapping = build_key_to_source_mapping(extracted_dir, branch, "en_US")
+    sources_map: dict[str, dict[str, str]] = {}
 
     for row in rows:
         if len(row) > max(key_index, translation_index):
             key = row[key_index]
             translation = row[translation_index] if translation_index < len(row) else ""
 
-            if key and translation:
-                source_file = key_to_source.get(key, unknown_source)
+            if key and translation and key in mapping:
+                source_file = mapping[key]
 
-                if source_file not in sources:
-                    sources[source_file] = OrderedDict()
-                sources[source_file][key] = translation
+                if source_file not in sources_map:
+                    sources_map[source_file] = OrderedDict()
+                sources_map[source_file][key] = translation
 
-    return sources
+    return sources_map
 
 
 def apply_translation_to_tsv(
