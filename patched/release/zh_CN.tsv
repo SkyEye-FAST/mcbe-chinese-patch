@@ -1174,7 +1174,7 @@ zh_CN: 上鞍
 zh_TW: 上鞍"	"上鞍"
 "action.interact.shear"	"Shear"	"Original Translation
 zh_CN: 修剪
-zh_TW: 修剪"	"剪毛"
+zh_TW: 修剪"	"修剪"
 "action.interact.sit"	"Sit"	"Original Translation
 zh_CN: 坐
 zh_TW: 坐"	"坐下"
@@ -1771,22 +1771,22 @@ zh_CN: 字体颜色
 zh_TW: 字型顏色"	"字体颜色"
 "chat.settings.fontSize"	"Size: %s"	"Original Translation
 zh_CN: 大小：%s
-zh_TW: 大小：%s"	"大小：%s"
+zh_TW: 大小：%s"	"字号：%s"
 "chat.settings.fontSize.disabled"	"Size: Available with %s"	"Original Translation
 zh_CN: 大小：%s 时可用
-zh_TW: 大小：於 %s 提供"	""
+zh_TW: 大小：於 %s 提供"	"字号：字体为%s时可用"
 "chat.settings.lineSpacing"	"Line Spacing"	"Original Translation
 zh_CN: 行间距
-zh_TW: 行距"	""
+zh_TW: 行距"	"行间距"
 "chat.settings.lineSpacingNumber"	"x%s"	"Original Translation
 zh_CN: x%s
-zh_TW: x%s"	""
+zh_TW: x%s"	"×%s"
 "chat.settings.mentions"	"My Mentions"	"Original Translation
 zh_CN: 我的选项
-zh_TW: 我的相關記錄"	""
+zh_TW: 我的相關記錄"	"我的提及"
 "chat.settings.mentionsColor"	"My Mentions Color"	"Original Translation
 zh_CN: 我的提及颜色
-zh_TW: 我的相關記錄顏色"	""
+zh_TW: 我的相關記錄顏色"	"我的提及颜色"
 "chat.settings.muteAll"	"Mute All Chat"	"Original Translation
 zh_CN: 静音所有聊天
 zh_TW: 聊天全部靜音"	"静音所有聊天"
@@ -1795,7 +1795,7 @@ zh_CN: 静音表情聊天
 zh_TW: 以靜音方式使用表情符號聊天"	"静音表情聊天"
 "chat.settings.tts"	"Text To Speech For Chat"	"Original Translation
 zh_CN: 聊天文本转语音
-zh_TW: 為聊天文字轉換語音"	""
+zh_TW: 為聊天文字轉換語音"	"聊天文本转语音"
 "chat.settings.unmuteAll"	"Unmute All Chat"	"Original Translation
 zh_CN: 取消静音所有聊天
 zh_TW: 聊天全部靜音"	"取消静音所有聊天"
@@ -1813,10 +1813,10 @@ zh_CN: 聊天和命令
 zh_TW: 聊天與指令"	"聊天和命令"
 "chat.type.achievement"	"%s has just earned the achievement %s"	"Original Translation
 zh_CN: %s 刚刚获得了 %s 成就！
-zh_TW: %s 獲得成就 %s"	""
+zh_TW: %s 獲得成就 %s"	"%s刚刚获得了成就“%s”"
 "chat.type.achievement.taken"	"%s has lost the achievement %s"	"Original Translation
 zh_CN: %s失去了%s成就
-zh_TW: %s 已失去 %s 成就"	""
+zh_TW: %s 已失去 %s 成就"	"%s失去了成就“%s”"
 "chat.type.admin"	"[%s: %s]"	"Original Translation
 zh_CN: [%s: %s]
 zh_TW: [%s：%s]"	"[%s: %s]"
@@ -1828,7 +1828,7 @@ zh_CN: * %s %s
 zh_TW: * %s %s"	"* %s %s"
 "chat.type.sleeping"	"%s is sleeping in a bed. To skip to dawn, %s more users need to sleep in beds at the same time."	"Original Translation
 zh_CN: %s正在床上睡觉。要快进到黎明，还需要 %s 名用户同时在床上睡觉。
-zh_TW: %s 正在床舖上睡覺。如果要讓遊戲時間跳至日出，還要有 %s 位使用者同時睡在床舖上。"	""
+zh_TW: %s 正在床舖上睡覺。如果要讓遊戲時間跳至日出，還要有 %s 位使用者同時睡在床舖上。"	"%s正在床上睡觉。要快进到黎明，还需要%s名玩家同时在床上睡觉。"
 "chat.type.text"	"<%s> %s"	"Original Translation
 zh_CN: <%s> %s
 zh_TW: <%s> %s"	"<%s> %s"
@@ -1849,10 +1849,10 @@ zh_CN: 选择一个 Realm 服务器
 zh_TW: 選擇 Realm 伺服器"	"选择Realm服务器"
 "chooseRealmScreen.realmsbuttontext"	"Add a 2 player Realm"	"Original Translation
 zh_CN: 添加一个 2 名用户的 Realm
-zh_TW: 新增 2 名玩家的 Realm"	""
+zh_TW: 新增 2 名玩家的 Realm"	"添加2名玩家的Realm"
 "chooseRealmScreen.realmsplusbuttontext"	"Add a 10 player Realm"	"Original Translation
 zh_CN: 添加一个 10 名用户的 Realm
-zh_TW: 新增 10 名玩家的 Realm"	""
+zh_TW: 新增 10 名玩家的 Realm"	"添加10名玩家的Realm"
 "classroomSettings.uriResource.header.description"	"Create a new button on the Game menu that links to an assessment tool, website, or other resource for your world."	"Original Translation
 zh_CN: 在游戏菜单上创建一个新按钮，为您的世界添加一个通往评估工具、网站或其他资源的链接。
 zh_TW: 在 [遊戲] 功能表上建立新按鈕，連結至適用於您的世界的評估工具、網站或其他資源。"	""
@@ -2200,13 +2200,13 @@ zh_CN: 命令方块
 zh_TW: 指令方塊"	"命令方块"
 "commands.ability.description"	"Sets a player's ability."	"Original Translation
 zh_CN: 设置一名玩家的能力。
-zh_TW: 可設定玩家的能力。"	""
+zh_TW: 可設定玩家的能力。"	"设置玩家的能力。"
 "commands.ability.granted"	"The '%1$s' ability has been granted to you"	"Original Translation
 zh_CN: 已赋予你 '%1$s' 技能
 zh_TW: 已授與你「'%1$s'」技能"	""
 "commands.ability.noability"	"No ability called '%1$s' is available"	"Original Translation
 zh_CN: 不存在名为 '%1$s' 的技能
-zh_TW: 沒有名為「'%1$s'」的技能"	""
+zh_TW: 沒有名為「'%1$s'」的技能"	"不存在名为“%1$s”的能力"
 "commands.ability.revoked"	"The '%1$s' ability has been revoked from you"	"Original Translation
 zh_CN: 已从你身上撤销 '%1$s' 技能
 zh_TW: 已撤銷你的「'%1$s'」技能"	""
@@ -2254,7 +2254,7 @@ zh_CN: 代理机器人收集成功
 zh_TW: Agent收集成功"	""
 "commands.agent.createagent.failed"	"Unable to create Agent"	"Original Translation
 zh_CN: 无法创建代理机器人
-zh_TW: 無法建立Agent"	""
+zh_TW: 無法建立Agent"	"无法创建智能体"
 "commands.agent.createagent.success"	"Created Agent"	"Original Translation
 zh_CN: 已创建代理机器人
 zh_TW: 已建立Agent"	"已创建智能体"
@@ -31153,7 +31153,7 @@ zh_CN: 焰火
 zh_TW: 煙火"	"烟花"
 "itemGroup.name.fireworkStars"	"Firework Charges"	"Original Translation
 zh_CN: 焰火炸药
-zh_TW: 煙火星"	"烟花炸药"
+zh_TW: 煙火星"	"烟火之星"
 "itemGroup.name.flower"	"Flowers"	"Original Translation
 zh_CN: 花
 zh_TW: 花朵"	"花"
@@ -33495,7 +33495,7 @@ zh_CN: 铁傀儡将为你而战！
 zh_TW: 鐵魔像會為你而戰！"	"铁傀儡将为你而战！"
 "midgameTips.10"	"Obsidian is created when water hits a lava source block."	"Original Translation
 zh_CN: 水与熔岩源方块碰撞时将产生黑曜石。
-zh_TW: 黑曜石是在水撞擊熔岩源方塊時形成的。"	"水与熔岩源方块碰撞时将产生黑曜石。"
+zh_TW: 黑曜石是在水撞擊熔岩源方塊時形成的。"	"水与熔岩源方块接触时将产生黑曜石。"
 "midgameTips.11"	"If the source block for water or lava is removed, it will stop the flow completely."	"Original Translation
 zh_CN: 移除水或熔岩的源方块后，水或熔岩将彻底停止流动。
 zh_TW: 如果水或熔岩的源方塊被移除，就會完全停止流動。"	"移除水或熔岩的源方块后，水或熔岩将彻底停止流动。"

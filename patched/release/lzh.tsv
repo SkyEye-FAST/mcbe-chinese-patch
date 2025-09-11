@@ -29742,7 +29742,7 @@ zh_CN: 铁马铠
 zh_TW: 鐵馬鎧"	"鐵馬甲"
 "item.horsearmorleather.name"	"Leather Horse Armor"	"Original Translation
 zh_CN: 皮革马铠
-zh_TW: 皮馬鎧"	"皮馬甲"
+zh_TW: 皮馬鎧"	"革馬甲"
 "item.host_armor_trim_smithing_template.name"	"Host Armor Trim"	"Original Translation
 zh_CN: 雇主盔甲纹饰
 zh_TW: 主宰紋飾護甲"	"佃東甲紋"
@@ -29835,601 +29835,601 @@ zh_CN: 皮革
 zh_TW: 皮革"	"革"
 "item.leather_boots.name"	"Leather Boots"	"Original Translation
 zh_CN: 皮革靴子
-zh_TW: 皮靴"	"皮鞾"
+zh_TW: 皮靴"	"革鞾"
 "item.leather_chestplate.name"	"Leather Tunic"	"Original Translation
 zh_CN: 皮革胸甲
-zh_TW: 皮衣"	""
+zh_TW: 皮衣"	"革衣"
 "item.leather_helmet.name"	"Leather Cap"	"Original Translation
 zh_CN: 皮革帽子
-zh_TW: 皮帽"	""
+zh_TW: 皮帽"	"革帽"
 "item.leather_leggings.name"	"Leather Pants"	"Original Translation
 zh_CN: 皮革裤子
-zh_TW: 皮褲"	""
+zh_TW: 皮褲"	"革褲"
 "item.leaves.name"	"Leaves"	"Original Translation
 zh_CN: 树叶
-zh_TW: 樹葉"	""
+zh_TW: 樹葉"	"葉"
 "item.light_blue_bundle"	"Light Blue Bundle"	"Original Translation
 zh_CN: 淡蓝色收纳袋
-zh_TW: 淺藍色組合包"	""
+zh_TW: 淺藍色組合包"	"縹皮囊"
 "item.light_blue_harness.name"	"Light Blue Harness"	"Original Translation
 zh_CN: 淡蓝色挽具
-zh_TW: 淺藍色挽具"	""
+zh_TW: 淺藍色挽具"	"縹轡"
 "item.light_gray_bundle"	"Light Gray Bundle"	"Original Translation
 zh_CN: 淡灰色收纳袋
-zh_TW: 淺灰色組合包"	""
+zh_TW: 淺灰色組合包"	"蒼皮囊"
 "item.light_gray_harness.name"	"Light Gray Harness"	"Original Translation
 zh_CN: 淡灰色挽具
-zh_TW: 淺灰色挽具"	""
+zh_TW: 淺灰色挽具"	"蒼轡"
 "item.lime_bundle"	"Lime Bundle"	"Original Translation
 zh_CN: 黄绿色收纳袋
-zh_TW: 淡黃綠色組合包"	""
+zh_TW: 淡黃綠色組合包"	"翠皮囊"
 "item.lime_harness.name"	"Lime Harness"	"Original Translation
 zh_CN: 黄绿色挽具
-zh_TW: 淡黃綠色挽具"	""
+zh_TW: 淡黃綠色挽具"	"翠轡"
 "item.lodestonecompass.name"	"Lodestone Compass"	"Original Translation
 zh_CN: 磁石指南针
-zh_TW: 磁石羅盤"	""
+zh_TW: 磁石羅盤"	"礠石司南"
 "item.mace.name"	"Mace"	"Original Translation
 zh_CN: 重锤
-zh_TW: 錘子"	""
+zh_TW: 錘子"	"椎"
 "item.magenta_bundle"	"Magenta Bundle"	"Original Translation
 zh_CN: 品红色收纳袋
-zh_TW: 洋紅色組合包"	""
+zh_TW: 洋紅色組合包"	"赬皮囊"
 "item.magenta_harness.name"	"Magenta Harness"	"Original Translation
 zh_CN: 品红色挽具
-zh_TW: 洋紅色挽具"	""
+zh_TW: 洋紅色挽具"	"赬轡"
 "item.magma_cream.name"	"Magma Cream"	"Original Translation
 zh_CN: 岩浆膏
-zh_TW: 熔岩球"	""
+zh_TW: 熔岩球"	"火漿膏"
 "item.mangrove_door.name"	"Mangrove Door"	"Original Translation
 zh_CN: 红树木门
-zh_TW: 紅樹林門"	""
+zh_TW: 紅樹林門"	"沒潮木門"
 "item.mangrove_hanging_sign.name"	"Mangrove Hanging Sign"	"Original Translation
 zh_CN: 红树林悬挂告示牌
-zh_TW: 懸掛式紅樹林木告示牌"	""
+zh_TW: 懸掛式紅樹林木告示牌"	"沒潮木懸牌"
 "item.mangrove_sign.name"	"Mangrove Sign"	"Original Translation
 zh_CN: 红树木告示牌
-zh_TW: 紅樹林告示牌"	""
+zh_TW: 紅樹林告示牌"	"沒潮木牌"
 "item.map.exploration.buried_treasure.name"	"Treasure Map"	"Original Translation
 zh_CN: 藏宝图
-zh_TW: 藏寶圖"	""
+zh_TW: 藏寶圖"	"湮寳圖"
 "item.map.exploration.jungle_temple.name"	"Jungle Explorer Map"	"Original Translation
 zh_CN: 丛林探险者地图
-zh_TW: 叢林探險家地圖"	""
+zh_TW: 叢林探險家地圖"	"探叢圖"
 "item.map.exploration.mansion.name"	"Woodland Explorer Map"	"Original Translation
 zh_CN: 森林探险者地图
-zh_TW: 林地探險家地圖"	""
+zh_TW: 林地探險家地圖"	"探林圖"
 "item.map.exploration.monument.name"	"Ocean Explorer Map"	"Original Translation
 zh_CN: 海洋探险者地图
-zh_TW: 海洋探險家地圖"	""
+zh_TW: 海洋探險家地圖"	"探海圖"
 "item.map.exploration.swamp_hut.name"	"Swamp Explorer Map"	"Original Translation
 zh_CN: 沼泽探险者地图
-zh_TW: 沼澤探險家地圖"	""
+zh_TW: 沼澤探險家地圖"	"探澤圖"
 "item.map.exploration.treasure.name"	"Treasure Map"	"Original Translation
 zh_CN: 藏宝图
-zh_TW: 藏寶圖"	""
+zh_TW: 藏寶圖"	"湮寳圖"
 "item.map.exploration.trial_chambers.name"	"Trial Explorer Map"	"Original Translation
 zh_CN: 试炼探险家地图
-zh_TW: 試煉探險家地圖"	""
+zh_TW: 試煉探險家地圖"	"探煉圖"
 "item.map.exploration.village_desert.name"	"Desert Village Map"	"Original Translation
 zh_CN: 沙漠村庄地图
-zh_TW: 沙漠村莊地圖"	""
+zh_TW: 沙漠村莊地圖"	"大漠鄉圖"
 "item.map.exploration.village_plains.name"	"Plains Village Map"	"Original Translation
 zh_CN: 平原村庄地图
-zh_TW: 平原村莊地圖"	""
+zh_TW: 平原村莊地圖"	"原野鄉圖"
 "item.map.exploration.village_savanna.name"	"Savanna Village Map"	"Original Translation
 zh_CN: 草原村庄地图
-zh_TW: 疏林草原村莊地圖"	""
+zh_TW: 疏林草原村莊地圖"	"莽原鄉圖"
 "item.map.exploration.village_snowy.name"	"Snowy Village Map"	"Original Translation
 zh_CN: 白雪村庄地图
-zh_TW: 白雪村莊地圖"	""
+zh_TW: 白雪村莊地圖"	"雪原鄉圖"
 "item.map.exploration.village_taiga.name"	"Taiga Village Map"	"Original Translation
 zh_CN: 针叶林村庄地图
-zh_TW: 針葉林地村莊地圖"	""
+zh_TW: 針葉林地村莊地圖"	"棘林鄉圖"
 "item.map.name"	"Map"	"Original Translation
 zh_CN: 地图
-zh_TW: 地圖"	""
+zh_TW: 地圖"	"輿圖"
 "item.medicine.blindness.name"	"Eye Drops"	"Original Translation
 zh_CN: 眼药水
-zh_TW: 眼藥水"	""
+zh_TW: 眼藥水"	"目明液"
 "item.medicine.nausea.name"	"Tonic"	"Original Translation
 zh_CN: 补药
-zh_TW: 補藥"	""
+zh_TW: 補藥"	"克痢液"
 "item.medicine.poison.name"	"Antidote"	"Original Translation
 zh_CN: 解毒剂
-zh_TW: 解毒劑"	""
+zh_TW: 解毒劑"	"祛毒液"
 "item.medicine.weakness.name"	"Elixir"	"Original Translation
 zh_CN: 灵药
-zh_TW: 靈藥"	""
+zh_TW: 靈藥"	"登仙液"
 "item.melon.name"	"Melon Slice"	"Original Translation
 zh_CN: 西瓜片
-zh_TW: 西瓜片"	""
+zh_TW: 西瓜片"	"寒瓜片"
 "item.melon_seeds.name"	"Melon Seeds"	"Original Translation
 zh_CN: 西瓜种子
-zh_TW: 西瓜子"	""
+zh_TW: 西瓜子"	"寒瓜種"
 "item.milk.name"	"Milk Bucket"	"Original Translation
 zh_CN: 牛奶桶
-zh_TW: 牛奶桶"	""
+zh_TW: 牛奶桶"	"乳桶"
 "item.minecart.name"	"Minecart"	"Original Translation
 zh_CN: 矿车
-zh_TW: 礦車"	""
+zh_TW: 礦車"	"礦車"
 "item.minecartFurnace.name"	"Minecart with Furnace"	"Original Translation
 zh_CN: 动力矿车
-zh_TW: 動力礦車"	""
+zh_TW: 動力礦車"	"爐礦車"
 "item.minecraft.goat_horn.sound.0"	"Ponder"	"Original Translation
 zh_CN: 思考
-zh_TW: 思考"	""
+zh_TW: 思考"	"愐"
 "item.minecraft.goat_horn.sound.1"	"Sing"	"Original Translation
 zh_CN: 唱
-zh_TW: 歌唱"	""
+zh_TW: 歌唱"	"奏"
 "item.minecraft.goat_horn.sound.2"	"Seek"	"Original Translation
 zh_CN: 寻找
-zh_TW: 尋找"	""
+zh_TW: 尋找"	"覓"
 "item.minecraft.goat_horn.sound.3"	"Feel"	"Original Translation
 zh_CN: 感觉
-zh_TW: 感覺"	""
+zh_TW: 感覺"	"感"
 "item.minecraft.goat_horn.sound.4"	"Admire"	"Original Translation
 zh_CN: 欣赏
-zh_TW: 欣賞"	""
+zh_TW: 欣賞"	"慕"
 "item.minecraft.goat_horn.sound.5"	"Call"	"Original Translation
 zh_CN: 叫
-zh_TW: 呼叫"	""
+zh_TW: 呼叫"	"啼"
 "item.minecraft.goat_horn.sound.6"	"Yearn"	"Original Translation
 zh_CN: 渴望
-zh_TW: 渴望"	""
+zh_TW: 渴望"	"求"
 "item.minecraft.goat_horn.sound.7"	"Dream"	"Original Translation
 zh_CN: 梦想
-zh_TW: 夢想"	""
+zh_TW: 夢想"	"夢"
 "item.miner_pottery_sherd.name"	"Miner Pottery Sherd"	"Original Translation
 zh_CN: 采矿纹样陶片
-zh_TW: 礦工陶器碎片"	""
+zh_TW: 礦工陶器碎片"	"礦陶片"
 "item.mojang_banner_pattern.name"	"Thing Banner Pattern"	"Original Translation
 zh_CN: Mojang 徽标旗帜图案
-zh_TW: Mojang 標誌旗幟樣式"	""
+zh_TW: Mojang 標誌旗幟樣式"	"魔贊紋旗楷"
 "item.mourner_pottery_sherd.name"	"Mourner Pottery Sherd"	"Original Translation
 zh_CN: 哀悼纹样陶片
-zh_TW: 哀悼者陶器碎片"	""
+zh_TW: 哀悼者陶器碎片"	"悲陶片"
 "item.mushroom_stew.name"	"Mushroom Stew"	"Original Translation
 zh_CN: 蘑菇煲
-zh_TW: 蘑菇湯"	""
+zh_TW: 蘑菇湯"	"蕈羹"
 "item.muttonCooked.name"	"Cooked Mutton"	"Original Translation
 zh_CN: 熟羊肉
-zh_TW: 熟羊肉"	""
+zh_TW: 熟羊肉"	"羊炙"
 "item.muttonRaw.name"	"Raw Mutton"	"Original Translation
 zh_CN: 生羊肉
-zh_TW: 生羊肉"	""
+zh_TW: 生羊肉"	"生羊肉"
 "item.name_tag.name"	"Name Tag"	"Original Translation
 zh_CN: 命名牌
-zh_TW: 名牌"	""
+zh_TW: 名牌"	"名刺"
 "item.nautilus_shell.name"	"Nautilus Shell"	"Original Translation
 zh_CN: 鹦鹉螺壳
-zh_TW: 鸚鵡螺殼"	""
+zh_TW: 鸚鵡螺殼"	"鸚鵡螺殼"
 "item.netherStar.name"	"Nether Star"	"Original Translation
 zh_CN: 下界之星
-zh_TW: 地獄星"	""
+zh_TW: 地獄星"	"焱界之星"
 "item.nether_wart.name"	"Nether Wart"	"Original Translation
 zh_CN: 下界疣
-zh_TW: 地獄疙瘩"	""
+zh_TW: 地獄疙瘩"	"焱界疣"
 "item.netherbrick.name"	"Nether Brick"	"Original Translation
 zh_CN: 下界砖
-zh_TW: 地獄磚塊"	""
+zh_TW: 地獄磚塊"	"焱界磚"
 "item.netherite_axe.name"	"Netherite Axe"	"Original Translation
 zh_CN: 下界合金斧头
-zh_TW: 獄髓斧"	""
+zh_TW: 獄髓斧"	"玄鈺斧"
 "item.netherite_boots.name"	"Netherite Boots"	"Original Translation
 zh_CN: 下界合金靴子
 zh_TW: 獄髓靴"	"玄鈺鞾"
 "item.netherite_chestplate.name"	"Netherite Chestplate"	"Original Translation
 zh_CN: 下界合金胸甲
-zh_TW: 獄髓胸甲"	""
+zh_TW: 獄髓胸甲"	"玄鈺鎧"
 "item.netherite_helmet.name"	"Netherite Helmet"	"Original Translation
 zh_CN: 下界合金头盔
-zh_TW: 獄髓頭盔"	""
+zh_TW: 獄髓頭盔"	"玄鈺胄"
 "item.netherite_hoe.name"	"Netherite Hoe"	"Original Translation
 zh_CN: 下界合金锄头
-zh_TW: 獄髓鋤"	""
+zh_TW: 獄髓鋤"	"玄鈺鋤"
 "item.netherite_ingot.name"	"Netherite Ingot"	"Original Translation
 zh_CN: 下界合金锭
-zh_TW: 獄髓錠塊"	""
+zh_TW: 獄髓錠塊"	"玄鈺錠"
 "item.netherite_leggings.name"	"Netherite Leggings"	"Original Translation
 zh_CN: 下界合金护腿
-zh_TW: 獄髓護腿"	""
+zh_TW: 獄髓護腿"	"玄鈺護腿"
 "item.netherite_pickaxe.name"	"Netherite Pickaxe"	"Original Translation
 zh_CN: 下界合金镐
-zh_TW: 獄髓鎬"	""
+zh_TW: 獄髓鎬"	"玄鈺鎬"
 "item.netherite_scrap.name"	"Netherite Scrap"	"Original Translation
 zh_CN: 下界合金碎片
-zh_TW: 獄髓碎片"	""
+zh_TW: 獄髓碎片"	"玄鈺殘片"
 "item.netherite_shovel.name"	"Netherite Shovel"	"Original Translation
 zh_CN: 下界合金锹
-zh_TW: 獄髓鏟"	""
+zh_TW: 獄髓鏟"	"玄鈺鍁"
 "item.netherite_sword.name"	"Netherite Sword"	"Original Translation
 zh_CN: 下界合金剑
-zh_TW: 獄髓劍"	""
+zh_TW: 獄髓劍"	"玄鈺劍"
 "item.netherite_upgrade_smithing_template.name"	"Netherite Upgrade"	"Original Translation
 zh_CN: 下界合金升级
-zh_TW: 獄髓升級"	""
+zh_TW: 獄髓升級"	"玄鈺之昇"
 "item.oak_hanging_sign.name"	"Oak Hanging Sign"	"Original Translation
 zh_CN: 橡木悬挂告示牌
-zh_TW: 懸掛式橡木告示牌"	""
+zh_TW: 懸掛式橡木告示牌"	"柞懸牌"
 "item.ominous_bottle.name"	"Ominous Bottle"	"Original Translation
 zh_CN: 不祥之瓶
 zh_TW: 不祥瓶子"	"厄甁"
 "item.ominous_trial_key.name"	"Ominous Trial Key"	"Original Translation
 zh_CN: 不祥试炼钥匙
-zh_TW: 不祥試煉鑰匙"	""
+zh_TW: 不祥試煉鑰匙"	"厄煉管"
 "item.orange_bundle"	"Orange Bundle"	"Original Translation
 zh_CN: 橙色收纳袋
-zh_TW: 橙色組合包"	""
+zh_TW: 橙色組合包"	"橙皮囊"
 "item.orange_harness.name"	"Orange Harness"	"Original Translation
 zh_CN: 橙色挽具
-zh_TW: 橙色挽具"	""
+zh_TW: 橙色挽具"	"橙轡"
 "item.oxidized_copper_door.name"	"Oxidized Copper Door"	"Original Translation
 zh_CN: 氧化铜门
-zh_TW: 氧化銅門"	""
+zh_TW: 氧化銅門"	"風蝕銅門"
 "item.painting.name"	"Painting"	"Original Translation
 zh_CN: 画
-zh_TW: 圖畫"	""
+zh_TW: 圖畫"	"畫"
 "item.pale_oak_door.name"	"Pale Oak Door"	"Original Translation
 zh_CN: 苍白橡木门
-zh_TW: 蒼白橡木門"	""
+zh_TW: 蒼白橡木門"	"縞柞門"
 "item.pale_oak_hanging_sign.name"	"Pale Oak Hanging Sign"	"Original Translation
 zh_CN: 苍白橡木悬挂告示牌
-zh_TW: 蒼白橡木懸掛式牌子"	""
+zh_TW: 蒼白橡木懸掛式牌子"	"縞柞懸牌"
 "item.pale_oak_sign.name"	"Pale Oak Sign"	"Original Translation
 zh_CN: 苍白橡木告示牌
-zh_TW: 蒼白橡木牌子"	""
+zh_TW: 蒼白橡木牌子"	"縞柞牌"
 "item.paper.name"	"Paper"	"Original Translation
 zh_CN: 纸
-zh_TW: 紙張"	""
+zh_TW: 紙張"	"紙"
 "item.phantom_membrane.name"	"Phantom Membrane"	"Original Translation
 zh_CN: 幻翼膜
-zh_TW: 幻影薄膜"	""
+zh_TW: 幻影薄膜"	"魘靈膜"
 "item.photo.name"	"Photo"	"Original Translation
 zh_CN: 照片
-zh_TW: 照片"	""
+zh_TW: 照片"	"像"
 "item.piglin_banner_pattern.name"	"Snout Banner Pattern"	"Original Translation
 zh_CN: 猪鼻旗帜图案
-zh_TW: 鼻子旗幟樣式"	""
+zh_TW: 鼻子旗幟樣式"	"豕鼻旗楷"
 "item.pink_bundle"	"Pink Bundle"	"Original Translation
 zh_CN: 粉红色收纳袋
-zh_TW: 粉紅色組合包"	""
+zh_TW: 粉紅色組合包"	"紅皮囊"
 "item.pink_harness.name"	"Pink Harness"	"Original Translation
 zh_CN: 粉红色挽具
-zh_TW: 粉紅色挽具"	""
+zh_TW: 粉紅色挽具"	"紅轡"
 "item.pitcher_pod.name"	"Pitcher Pod"	"Original Translation
 zh_CN: 猪笼草荚果
-zh_TW: 豬籠草豆莢"	""
+zh_TW: 豬籠草豆莢"	"小人蘭莢"
 "item.plenty_pottery_sherd.name"	"Plenty Pottery Sherd"	"Original Translation
 zh_CN: 富饶纹样陶片
-zh_TW: 豐饒陶器碎片"	""
+zh_TW: 豐饒陶器碎片"	"稷陶片"
 "item.poisonous_potato.name"	"Poisonous Potato"	"Original Translation
 zh_CN: 毒马铃薯
-zh_TW: 有毒馬鈴薯"	""
+zh_TW: 有毒馬鈴薯"	"毒洋芋"
 "item.porkchop.name"	"Raw Porkchop"	"Original Translation
 zh_CN: 生猪排
-zh_TW: 生豬肉"	""
+zh_TW: 生豬肉"	"生豕肉"
 "item.porkchop_cooked.name"	"Cooked Porkchop"	"Original Translation
 zh_CN: 熟猪排
-zh_TW: 熟豬肉"	""
+zh_TW: 熟豬肉"	"豕炙"
 "item.portfolio.name"	"Portfolio"	"Original Translation
 zh_CN: 相片簿
-zh_TW: 相簿"	""
+zh_TW: 相簿"	"像集"
 "item.potato.name"	"Potato"	"Original Translation
 zh_CN: 马铃薯
-zh_TW: 馬鈴薯"	""
+zh_TW: 馬鈴薯"	"洋芋"
 "item.prismarine_crystals.name"	"Prismarine Crystals"	"Original Translation
 zh_CN: 海晶砂粒
-zh_TW: 海磷晶體"	""
+zh_TW: 海磷晶體"	"海磷晶"
 "item.prismarine_shard.name"	"Prismarine Shard"	"Original Translation
 zh_CN: 海晶碎片
-zh_TW: 海磷碎片"	""
+zh_TW: 海磷碎片"	"海磷殘片"
 "item.prize_pottery_sherd.name"	"Prize Pottery Sherd"	"Original Translation
 zh_CN: 珍宝纹样陶片
-zh_TW: 獎品陶器碎片"	""
+zh_TW: 獎品陶器碎片"	"寳陶片"
 "item.pufferfish.name"	"Pufferfish"	"Original Translation
 zh_CN: 河豚
-zh_TW: 河豚"	""
+zh_TW: 河豚"	"河豚"
 "item.pumpkin_pie.name"	"Pumpkin Pie"	"Original Translation
 zh_CN: 南瓜派
-zh_TW: 南瓜派"	""
+zh_TW: 南瓜派"	"南瓜餠"
 "item.pumpkin_seeds.name"	"Pumpkin Seeds"	"Original Translation
 zh_CN: 南瓜种子
-zh_TW: 南瓜子"	""
+zh_TW: 南瓜子"	"南瓜種"
 "item.purple_bundle"	"Purple Bundle"	"Original Translation
 zh_CN: 紫色收纳袋
-zh_TW: 紫色組合包"	""
+zh_TW: 紫色組合包"	"紫皮囊"
 "item.purple_harness.name"	"Purple Harness"	"Original Translation
 zh_CN: 紫色挽具
-zh_TW: 紫色挽具"	""
+zh_TW: 紫色挽具"	"紫轡"
 "item.quartz.name"	"Nether Quartz"	"Original Translation
 zh_CN: 下界石英
-zh_TW: 地獄石英"	""
+zh_TW: 地獄石英"	"石英"
 "item.rabbit.name"	"Raw Rabbit"	"Original Translation
 zh_CN: 生兔肉
-zh_TW: 生兔肉"	""
+zh_TW: 生兔肉"	"生兔肉"
 "item.rabbit_foot.name"	"Rabbit's Foot"	"Original Translation
 zh_CN: 兔子脚
-zh_TW: 兔子腳"	""
+zh_TW: 兔子腳"	"兔足"
 "item.rabbit_hide.name"	"Rabbit Hide"	"Original Translation
 zh_CN: 兔子皮
-zh_TW: 兔子皮"	""
+zh_TW: 兔子皮"	"兔皮"
 "item.rabbit_stew.name"	"Rabbit Stew"	"Original Translation
 zh_CN: 兔肉煲
-zh_TW: 兔肉湯"	""
+zh_TW: 兔肉湯"	"兔肉羹"
 "item.raiser_armor_trim_smithing_template.name"	"Raiser Armor Trim"	"Original Translation
 zh_CN: 牧民盔甲纹饰
-zh_TW: 飼養者紋飾護甲"	""
+zh_TW: 飼養者紋飾護甲"	"牧民甲紋"
 "item.rapid_fertilizer.name"	"Super Fertilizer"	"Original Translation
 zh_CN: 超级肥料
-zh_TW: 超級肥料"	""
+zh_TW: 超級肥料"	"神肥"
 "item.raw_copper.name"	"Raw Copper"	"Original Translation
 zh_CN: 粗铜
-zh_TW: 粗銅"	""
+zh_TW: 粗銅"	"銅璞"
 "item.raw_gold.name"	"Raw Gold"	"Original Translation
 zh_CN: 粗金
-zh_TW: 粗金"	""
+zh_TW: 粗金"	"馬蹄金"
 "item.raw_iron.name"	"Raw Iron"	"Original Translation
 zh_CN: 粗铁
-zh_TW: 粗鐵"	""
+zh_TW: 粗鐵"	"砂鐵"
 "item.record.name"	"Music Disc"	"Original Translation
 zh_CN: 音乐唱片
-zh_TW: 唱片"	""
+zh_TW: 唱片"	"留聲盤"
 "item.record_11.desc"	"C418 - 11"	"Original Translation
 zh_CN: C418 - 11
-zh_TW: C418 - 11"	""
+zh_TW: C418 - 11"	"C418 - 11"
 "item.record_13.desc"	"C418 - 13"	"Original Translation
 zh_CN: C418 - 13
-zh_TW: C418 - 13"	""
+zh_TW: C418 - 13"	"C418 - 13"
 "item.record_5.desc"	"Samuel Åberg - 5"	"Original Translation
 zh_CN: 塞缪尔·阿伯格 - 5
-zh_TW: 塞繆爾阿伯格 - 5"	""
+zh_TW: 塞繆爾阿伯格 - 5"	"Samuel Åberg - 5"
 "item.record_blocks.desc"	"C418 - blocks"	"Original Translation
 zh_CN: C418 - blocks
-zh_TW: C418 - blocks"	""
+zh_TW: C418 - blocks"	"C418 - blocks"
 "item.record_cat.desc"	"C418 - cat"	"Original Translation
 zh_CN: C418 - cat
-zh_TW: C418 - cat"	""
+zh_TW: C418 - cat"	"C418 - cat"
 "item.record_chirp.desc"	"C418 - chirp"	"Original Translation
 zh_CN: C418 - chirp
-zh_TW: C418 - chirp"	""
+zh_TW: C418 - chirp"	"C418 - chirp"
 "item.record_creator.desc"	"Lena Raine - Creator"	"Original Translation
 zh_CN: 莉娜·雷恩 - 创作者
-zh_TW: 莉娜雷恩 - 創作者"	""
+zh_TW: 莉娜雷恩 - 創作者"	"Lena Raine - Creator"
 "item.record_creator_music_box.desc"	"Lena Raine - Creator (Music Box)"	"Original Translation
 zh_CN: 莉娜·雷恩 - 创作者（音乐盒）
-zh_TW: 莉娜雷恩 - 創作者 (音樂盒)"	""
+zh_TW: 莉娜雷恩 - 創作者 (音樂盒)"	"Lena Raine - Creator（五音匣）"
 "item.record_far.desc"	"C418 - far"	"Original Translation
 zh_CN: C418 - far
-zh_TW: C418 - far"	""
+zh_TW: C418 - far"	"C418 - far"
 "item.record_lava_chicken.desc"	"Hyper Potions - Lava Chicken"	"Original Translation
 zh_CN: Hyper Potions - 熔岩鸡
-zh_TW: Hyper Potions - Lava Chicken"	""
+zh_TW: Hyper Potions - Lava Chicken"	"Hyper Potions - Lava Chicken"
 "item.record_mall.desc"	"C418 - mall"	"Original Translation
 zh_CN: C418 - mall
-zh_TW: C418 - mall"	""
+zh_TW: C418 - mall"	"C418 - mall"
 "item.record_mellohi.desc"	"C418 - mellohi"	"Original Translation
 zh_CN: C418 - mellohi
-zh_TW: C418 - mellohi"	""
+zh_TW: C418 - mellohi"	"C418 - mellohi"
 "item.record_otherside.desc"	"Lena Raine - otherside"	"Original Translation
 zh_CN: 莉娜·雷恩 - otherside
-zh_TW: 莉娜雷恩 - otherside"	""
+zh_TW: 莉娜雷恩 - otherside"	"Lena Raine - otherside"
 "item.record_pigstep.desc"	"Lena Raine - Pigstep"	"Original Translation
 zh_CN: 莉娜·雷恩 - Pigstep
-zh_TW: 莉娜雷恩 - Pigstep"	""
+zh_TW: 莉娜雷恩 - Pigstep"	"Lena Raine - Pigstep"
 "item.record_precipice.desc"	"Aaron Cherof - Precipice"	"Original Translation
 zh_CN: 亚伦·切罗夫 - 峭壁
-zh_TW: 亞倫切羅夫 - 懸崖峭壁"	""
+zh_TW: 亞倫切羅夫 - 懸崖峭壁"	"Aaron Cherof - Precipice"
 "item.record_relic.desc"	"Aaron Cherof - Relic"	"Original Translation
 zh_CN: 亚伦·切罗夫 - Relic
-zh_TW: Aaron Cherof - Relic"	""
+zh_TW: Aaron Cherof - Relic"	"Aaron Cherof - Relic"
 "item.record_stal.desc"	"C418 - stal"	"Original Translation
 zh_CN: C418 - stal
-zh_TW: C418 - stal"	""
+zh_TW: C418 - stal"	"C418 - stal"
 "item.record_strad.desc"	"C418 - strad"	"Original Translation
 zh_CN: C418 - strad
-zh_TW: C418 - strad"	""
+zh_TW: C418 - strad"	"C418 - strad"
 "item.record_tears.desc"	"Amos Roddy - Tears"	"Original Translation
 zh_CN: Amos Roddy - 泪水
-zh_TW: Amos Roddy - 流淚"	""
+zh_TW: Amos Roddy - 流淚"	"Amos Roddy - Tears"
 "item.record_wait.desc"	"C418 - wait"	"Original Translation
 zh_CN: C418 - wait
-zh_TW: C418 - wait"	""
+zh_TW: C418 - wait"	"C418 - wait"
 "item.record_ward.desc"	"C418 - ward"	"Original Translation
 zh_CN: C418 - ward
-zh_TW: C418 - ward"	""
+zh_TW: C418 - ward"	"C418 - ward"
 "item.recovery_compass.name"	"Recovery Compass"	"Original Translation
 zh_CN: 追溯指针
-zh_TW: 復生羅盤"	""
+zh_TW: 復生羅盤"	"溯魂司南"
 "item.red_bundle"	"Red Bundle"	"Original Translation
 zh_CN: 红色收纳袋
-zh_TW: 紅色組合包"	""
+zh_TW: 紅色組合包"	"赤皮囊"
 "item.red_harness.name"	"Red Harness"	"Original Translation
 zh_CN: 红色挽具
-zh_TW: 紅色挽具"	""
+zh_TW: 紅色挽具"	"赤轡"
 "item.redstone.name"	"Redstone Dust"	"Original Translation
 zh_CN: 红石粉
-zh_TW: 紅石塵"	""
+zh_TW: 紅石塵"	"赤石末"
 "item.reeds.name"	"Sugar Cane"	"Original Translation
 zh_CN: 甘蔗
-zh_TW: 甘蔗"	""
+zh_TW: 甘蔗"	"蔗"
 "item.repeater.name"	"Redstone Repeater"	"Original Translation
 zh_CN: 红石中继器
-zh_TW: 紅石中繼器"	""
+zh_TW: 紅石中繼器"	"續赭儀"
 "item.resin_brick.name"	"Resin Brick"	"Original Translation
 zh_CN: 树脂砖
-zh_TW: 樹脂磚塊"	""
+zh_TW: 樹脂磚塊"	"樹香磚"
 "item.rib_armor_trim_smithing_template.name"	"Rib Armor Trim"	"Original Translation
 zh_CN: 肋骨盔甲纹饰
-zh_TW: 肋骨紋飾護甲"	""
+zh_TW: 肋骨紋飾護甲"	"脅肋甲紋"
 "item.rotten_flesh.name"	"Rotten Flesh"	"Original Translation
 zh_CN: 腐肉
-zh_TW: 腐肉"	""
+zh_TW: 腐肉"	"胔"
 "item.ruby.name"	"Ruby"	"Original Translation
 zh_CN: 红宝石
-zh_TW: 紅寶石"	""
+zh_TW: 紅寶石"	"紅玉"
 "item.saddle.name"	"Saddle"	"Original Translation
 zh_CN: 鞍
-zh_TW: 鞍座"	""
+zh_TW: 鞍座"	"鞍"
 "item.salmon.name"	"Raw Salmon"	"Original Translation
 zh_CN: 生鲑鱼
-zh_TW: 生鮭魚"	""
+zh_TW: 生鮭魚"	"生鮭"
 "item.scrape_pottery_sherd.name"	"Scrape Pottery Sherd"	"Original Translation
 zh_CN: 刮削纹样陶片
-zh_TW: 刮擦陶器碎片"	""
+zh_TW: 刮擦陶器碎片"	"削陶片"
 "item.sentry_armor_trim_smithing_template.name"	"Sentry Armor Trim"	"Original Translation
 zh_CN: 哨兵盔甲纹饰
-zh_TW: 哨兵紋飾護甲"	""
+zh_TW: 哨兵紋飾護甲"	"斥候甲紋"
 "item.shaper_armor_trim_smithing_template.name"	"Shaper Armor Trim"	"Original Translation
 zh_CN: 塑造盔甲纹饰
-zh_TW: 塑形者紋飾護甲"	""
+zh_TW: 塑形者紋飾護甲"	"巧匠甲紋"
 "item.sheaf_pottery_sherd.name"	"Sheaf Pottery Sherd"	"Original Translation
 zh_CN: 麦捆纹样陶片
-zh_TW: 麥捆陶器碎片"	""
+zh_TW: 麥捆陶器碎片"	"秉陶片"
 "item.shears.name"	"Shears"	"Original Translation
 zh_CN: 剪刀
-zh_TW: 剪刀"	""
+zh_TW: 剪刀"	"鉸"
 "item.shelter_pottery_sherd.name"	"Shelter Pottery Sherd"	"Original Translation
 zh_CN: 树荫纹样陶片
-zh_TW: 庇護陶器碎片"	""
+zh_TW: 庇護陶器碎片"	"蔭陶片"
 "item.shield.black.name"	"Black Shield"	"Original Translation
 zh_CN: 黑色盾牌
-zh_TW: 黑色盾牌"	""
+zh_TW: 黑色盾牌"	"黑盾"
 "item.shield.blue.name"	"Blue Shield"	"Original Translation
 zh_CN: 蓝色盾牌
-zh_TW: 藍色盾牌"	""
+zh_TW: 藍色盾牌"	"靛盾"
 "item.shield.brown.name"	"Brown Shield"	"Original Translation
 zh_CN: 棕色盾牌
-zh_TW: 棕色盾牌"	""
+zh_TW: 棕色盾牌"	"褐盾"
 "item.shield.cyan.name"	"Cyan Shield"	"Original Translation
 zh_CN: 青色盾牌
-zh_TW: 青綠色盾牌"	""
+zh_TW: 青綠色盾牌"	"黛盾"
 "item.shield.gray.name"	"Gray Shield"	"Original Translation
 zh_CN: 灰色盾牌
-zh_TW: 灰色盾牌"	""
+zh_TW: 灰色盾牌"	"灰盾"
 "item.shield.green.name"	"Green Shield"	"Original Translation
 zh_CN: 绿色盾牌
-zh_TW: 綠色盾牌"	""
+zh_TW: 綠色盾牌"	"綠盾"
 "item.shield.lightBlue.name"	"Light Blue Shield"	"Original Translation
 zh_CN: 浅蓝色盾牌
-zh_TW: 淺藍色盾牌"	""
+zh_TW: 淺藍色盾牌"	"縹盾"
 "item.shield.lime.name"	"Lime Shield"	"Original Translation
 zh_CN: 黄绿色盾牌
-zh_TW: 淡黃綠色盾牌"	""
+zh_TW: 淡黃綠色盾牌"	"翠盾"
 "item.shield.magenta.name"	"Magenta Shield"	"Original Translation
 zh_CN: 品红色盾牌
-zh_TW: 洋紅色盾牌"	""
+zh_TW: 洋紅色盾牌"	"赬盾"
 "item.shield.name"	"Shield"	"Original Translation
 zh_CN: 盾牌
-zh_TW: 盾"	""
+zh_TW: 盾"	"盾"
 "item.shield.orange.name"	"Orange Shield"	"Original Translation
 zh_CN: 橙色盾牌
-zh_TW: 橙色盾牌"	""
+zh_TW: 橙色盾牌"	"橙盾"
 "item.shield.pink.name"	"Pink Shield"	"Original Translation
 zh_CN: 粉红色盾牌
-zh_TW: 粉紅色盾牌"	""
+zh_TW: 粉紅色盾牌"	"紅盾"
 "item.shield.purple.name"	"Purple Shield"	"Original Translation
 zh_CN: 紫色盾牌
-zh_TW: 紫色盾牌"	""
+zh_TW: 紫色盾牌"	"紫盾"
 "item.shield.red.name"	"Red Shield"	"Original Translation
 zh_CN: 红色盾牌
-zh_TW: 紅色盾牌"	""
+zh_TW: 紅色盾牌"	"赤盾"
 "item.shield.silver.name"	"Light Gray Shield"	"Original Translation
 zh_CN: 浅灰色盾牌
-zh_TW: 淺灰色盾牌"	""
+zh_TW: 淺灰色盾牌"	"蒼盾"
 "item.shield.white.name"	"White Shield"	"Original Translation
 zh_CN: 白色盾牌
-zh_TW: 白色盾牌"	""
+zh_TW: 白色盾牌"	"白盾"
 "item.shield.yellow.name"	"Yellow Shield"	"Original Translation
 zh_CN: 黄色盾牌
-zh_TW: 黃色盾牌"	""
+zh_TW: 黃色盾牌"	"黃盾"
 "item.shulker_shell.name"	"Shulker Shell"	"Original Translation
 zh_CN: 潜影壳
-zh_TW: 界伏蚌殼"	""
+zh_TW: 界伏蚌殼"	"匿贆殼"
 "item.sign.name"	"Oak Sign"	"Original Translation
 zh_CN: 橡木告示牌
-zh_TW: 橡木告示牌"	""
+zh_TW: 橡木告示牌"	"柞牌"
 "item.silence_armor_trim_smithing_template.name"	"Silence Armor Trim"	"Original Translation
 zh_CN: 幽静盔甲纹饰
-zh_TW: 寂靜紋飾護甲"	""
+zh_TW: 寂靜紋飾護甲"	"寂靜甲紋"
 "item.skull.char.name"	"Player Head"	"Original Translation
 zh_CN: 玩家头颅
-zh_TW: 玩家頭顱"	""
+zh_TW: 玩家頭顱"	"戲者之首"
 "item.skull.creeper.name"	"Creeper Head"	"Original Translation
 zh_CN: 苦力怕的头
-zh_TW: 苦力怕頭顱"	""
+zh_TW: 苦力怕頭顱"	"伏臨首"
 "item.skull.dragon.name"	"Dragon Head"	"Original Translation
 zh_CN: 龙首
-zh_TW: 龍頭顱"	""
+zh_TW: 龍頭顱"	"龍首"
 "item.skull.piglin.name"	"Piglin Head"	"Original Translation
 zh_CN: 猪灵头颅
-zh_TW: 豬布林頭顱"	""
+zh_TW: 豬布林頭顱"	"豕靈首"
 "item.skull.player.name"	"%s's Head"	"Original Translation
 zh_CN: %s的头
-zh_TW: %s 的頭顱"	""
+zh_TW: %s 的頭顱"	"%s之首"
 "item.skull.skeleton.name"	"Skeleton Skull"	"Original Translation
 zh_CN: 骷髅头颅
-zh_TW: 骷髏頭顱"	""
+zh_TW: 骷髏頭顱"	"髑首"
 "item.skull.wither.name"	"Wither Skeleton Skull"	"Original Translation
 zh_CN: 凋灵骷髅头颅
-zh_TW: 凋靈骷髏頭顱"	""
+zh_TW: 凋靈骷髏頭顱"	"凋靈髑首"
 "item.skull.zombie.name"	"Zombie Head"	"Original Translation
 zh_CN: 僵尸的头
-zh_TW: 殭屍頭顱"	""
+zh_TW: 殭屍頭顱"	"殭屍首"
 "item.skull_banner_pattern.name"	"Skull Charge Banner Pattern"	"Original Translation
 zh_CN: 头颅头像旗帜图案
-zh_TW: 骷髏頭形狀旗幟樣式"	""
+zh_TW: 骷髏頭形狀旗幟樣式"	"髑顱甲紋"
 "item.skull_pottery_sherd.name"	"Skull Pottery Sherd"	"Original Translation
 zh_CN: 头颅纹样陶片
-zh_TW: 骷髏陶器碎片"	""
+zh_TW: 骷髏陶器碎片"	"顱陶片"
 "item.slime_ball.name"	"Slimeball"	"Original Translation
 zh_CN: 黏液球
-zh_TW: 史萊姆球"	""
+zh_TW: 史萊姆球"	"黏膠球"
 "item.smithing_template.applies_to"	"Applies to:"	"Original Translation
 zh_CN: 适用于：
-zh_TW: 適用於："	""
+zh_TW: 適用於："	"適於："
 "item.smithing_template.armor_trim.applies_to"	"Armor"	"Original Translation
 zh_CN: 盔甲
-zh_TW: 護甲"	""
+zh_TW: 護甲"	"甲胄"
 "item.smithing_template.armor_trim.ingredients"	"Ingots & Crystals"	"Original Translation
 zh_CN: 锭和水晶
-zh_TW: 鋼錠塊和水晶"	""
+zh_TW: 鋼錠塊和水晶"	"鑄錠晶石"
 "item.smithing_template.ingredients"	"Ingredients:"	"Original Translation
 zh_CN: 原料：
-zh_TW: 原料："	""
+zh_TW: 原料："	"原料："
 "item.smithing_template.name"	"Smithing Template"	"Original Translation
 zh_CN: 锻造模板
-zh_TW: 鍛造範本"	""
+zh_TW: 鍛造範本"	"鍛模"
 "item.smithing_template.netherite_upgrade.applies_to"	"Diamond Equipment"	"Original Translation
 zh_CN: 钻石装备
-zh_TW: 鑽石裝備"	""
+zh_TW: 鑽石裝備"	"金剛石兵革"
 "item.smithing_template.netherite_upgrade.ingredients"	"Netherite Ingot"	"Original Translation
 zh_CN: 下界合金锭
-zh_TW: 獄髓錠塊"	""
+zh_TW: 獄髓錠塊"	"玄鈺錠"
 "item.snort_pottery_sherd.name"	"Snort Pottery Sherd"	"Original Translation
 zh_CN: 嗅探纹样陶片
-zh_TW: 打鼾陶器碎片"	""
+zh_TW: 打鼾陶器碎片"	"嗅陶片"
 "item.snout_armor_trim_smithing_template.name"	"Snout Armor Trim"	"Original Translation
 zh_CN: 猪鼻盔甲纹饰
-zh_TW: 鼻子紋飾護甲"	""
+zh_TW: 鼻子紋飾護甲"	"豕鼻甲紋"
 "item.snowball.name"	"Snowball"	"Original Translation
 zh_CN: 雪球
-zh_TW: 雪球"	""
+zh_TW: 雪球"	"雪團"
 "item.sparkler.blue.name"	"Blue Sparkler"	"Original Translation
 zh_CN: 蓝色烟花
-zh_TW: 藍色仙女棒"	""
+zh_TW: 藍色仙女棒"	"靛煙火棒"
 "item.sparkler.green.name"	"Green Sparkler"	"Original Translation
 zh_CN: 绿色烟花
-zh_TW: 綠色仙女棒"	""
+zh_TW: 綠色仙女棒"	"綠煙火棒"
 "item.sparkler.orange.name"	"Orange Sparkler"	"Original Translation
 zh_CN: 橙色烟花
-zh_TW: 橘色仙女棒"	""
+zh_TW: 橘色仙女棒"	"橙煙火棒"
 "item.sparkler.purple.name"	"Purple Sparkler"	"Original Translation
 zh_CN: 紫色烟花
-zh_TW: 紫色仙女棒"	""
+zh_TW: 紫色仙女棒"	"紫煙火棒"
 "item.sparkler.red.name"	"Red Sparkler"	"Original Translation
 zh_CN: 红色烟花
-zh_TW: 紅色仙女棒"	""
+zh_TW: 紅色仙女棒"	"赤煙火棒"
 "item.spawn_egg.entity.agent.name"	"Agent Spawn Egg"	"Original Translation
 zh_CN: 代理机器人刷怪蛋
 zh_TW: 特務生成蛋"	""
@@ -31180,7 +31180,7 @@ zh_CN: 挽具
 zh_TW: 挽具"	""
 "itemGroup.name.helmet"	"Helmets"	"Original Translation
 zh_CN: 头盔
-zh_TW: 頭盔"	""
+zh_TW: 頭盔"	"胄"
 "itemGroup.name.hoe"	"Hoes"	"Original Translation
 zh_CN: 锄头
 zh_TW: 鋤頭"	""
@@ -34113,10 +34113,10 @@ zh_CN: 显示舒适度选择屏幕
 zh_TW: 顯示舒適度選擇畫面"	""
 "options.accessibility"	"Accessibility"	"Original Translation
 zh_CN: 可访问性
-zh_TW: 協助工具"	""
+zh_TW: 協助工具"	"協器"
 "options.accessibility.title"	"Accessibility Settings"	"Original Translation
 zh_CN: 可访问性设置
-zh_TW: 協助工具設定"	""
+zh_TW: 協助工具設定"	"協器置設"
 "options.account"	"Account"	"Original Translation
 zh_CN: 帐户
 zh_TW: 帳戶"	""
@@ -34230,7 +34230,7 @@ zh_CN: 只在有 Wi-Fi 时打开
 zh_TW: 僅使用 Wi-Fi"	""
 "options.autojump"	"Auto Jump"	"Original Translation
 zh_CN: 自动跳跃
-zh_TW: 自動跳躍"	""
+zh_TW: 自動跳躍"	"自躍"
 "options.blockAlternatives"	"Alternate Blocks"	"Original Translation
 zh_CN: 替选方块
 zh_TW: 替代的方塊"	""
@@ -35628,7 +35628,7 @@ zh_CN: 调整附魔物品上视觉闪光的透明度
 zh_TW: 調整附魔物品視覺閃光的透明度"	""
 "options.goBack"	"Go Back"	"Original Translation
 zh_CN: 返回
-zh_TW: 返回"	""
+zh_TW: 返回"	"還"
 "options.goToFeedbackWebsite"	"Go to Feedback Website"	"Original Translation
 zh_CN: 前往反馈网站
 zh_TW: 前往反饋網站"	""
@@ -49237,19 +49237,19 @@ zh_CN: 红砂岩台阶
 zh_TW: 紅砂岩半磚"	""
 "tile.dragon_egg.name"	"Dragon Egg"	"Original Translation
 zh_CN: 龙蛋
-zh_TW: 龍蛋"	""
+zh_TW: 龍蛋"	"龍卵"
 "tile.dried_ghast.name"	"Dried Ghast"	"Original Translation
 zh_CN: 脱水恶魂
-zh_TW: 乾枯地獄幽靈"	""
+zh_TW: 乾枯地獄幽靈"	"乾魄"
 "tile.dried_kelp_block.name"	"Dried Kelp Block"	"Original Translation
 zh_CN: 干海带块
-zh_TW: 乾海帶方塊"	""
+zh_TW: 乾海帶方塊"	"乾海帶塊"
 "tile.dripstone_block.name"	"Dripstone Block"	"Original Translation
 zh_CN: 滴水石块
-zh_TW: 滴水石方塊"	""
+zh_TW: 滴水石方塊"	"鐘乳石塊"
 "tile.dropper.name"	"Dropper"	"Original Translation
 zh_CN: 投掷器
-zh_TW: 投擲器"	""
+zh_TW: 投擲器"	"擲械"
 "tile.element.ac.name"	"Actinium"	"Original Translation
 zh_CN: 锕
 zh_TW: 錒"	""
@@ -50042,154 +50042,154 @@ zh_CN: 青金石块
 zh_TW: 青金石方塊"	""
 "tile.lapis_ore.name"	"Lapis Lazuli Ore"	"Original Translation
 zh_CN: 青金石矿石
-zh_TW: 青金石礦石"	""
+zh_TW: 青金石礦石"	"群青礦"
 "tile.large_amethyst_bud.name"	"Large Amethyst Bud"	"Original Translation
 zh_CN: 大型紫晶芽
-zh_TW: 大型紫水晶芽"	""
+zh_TW: 大型紫水晶芽"	"大紫水玉苗"
 "tile.lava.name"	"Lava"	"Original Translation
 zh_CN: 熔岩
-zh_TW: 熔岩"	""
+zh_TW: 熔岩"	"熔石"
 "tile.leaf_litter.name"	"Leaf Litter"	"Original Translation
 zh_CN: 落叶堆
-zh_TW: 散落的樹葉"	""
+zh_TW: 散落的樹葉"	"枯葉"
 "tile.leaves.acacia.name"	"Acacia Leaves"	"Original Translation
 zh_CN: 金合欢树叶
-zh_TW: 相思樹葉"	""
+zh_TW: 相思樹葉"	"㭜葉"
 "tile.leaves.big_oak.name"	"Dark Oak Leaves"	"Original Translation
 zh_CN: 深色橡树叶
-zh_TW: 黑橡樹葉"	""
+zh_TW: 黑橡樹葉"	"黯柞葉"
 "tile.leaves.birch.name"	"Birch Leaves"	"Original Translation
 zh_CN: 桦树叶
-zh_TW: 樺樹樹葉"	""
+zh_TW: 樺樹樹葉"	"樺葉"
 "tile.leaves.jungle.name"	"Jungle Leaves"	"Original Translation
 zh_CN: 丛林树叶
-zh_TW: 叢林樹葉"	""
+zh_TW: 叢林樹葉"	"叢莽葉"
 "tile.leaves.name"	"Leaves"	"Original Translation
 zh_CN: 树叶
 zh_TW: 樹葉"	""
 "tile.leaves.oak.name"	"Oak Leaves"	"Original Translation
 zh_CN: 橡树叶
-zh_TW: 橡樹樹葉"	""
+zh_TW: 橡樹樹葉"	"柞葉"
 "tile.leaves.spruce.name"	"Spruce Leaves"	"Original Translation
 zh_CN: 云杉树叶
-zh_TW: 杉樹樹葉"	""
+zh_TW: 杉樹樹葉"	"樅葉"
 "tile.leaves2.acacia.name"	"Acacia Leaves"	"Original Translation
 zh_CN: 金合欢树叶
-zh_TW: 相思樹葉"	""
+zh_TW: 相思樹葉"	"㭜葉"
 "tile.leaves2.big_oak.name"	"Dark Oak Leaves"	"Original Translation
 zh_CN: 深色橡树叶
-zh_TW: 黑橡樹葉"	""
+zh_TW: 黑橡樹葉"	"黯柞葉"
 "tile.lectern.name"	"Lectern"	"Original Translation
 zh_CN: 讲台
-zh_TW: 講台"	""
+zh_TW: 講台"	"書檯"
 "tile.lever.name"	"Lever"	"Original Translation
 zh_CN: 拉杆
-zh_TW: 拉桿"	""
+zh_TW: 拉桿"	"閘刀"
 "tile.light_block.name"	"Light"	"Original Translation
 zh_CN: 浅色
-zh_TW: 淺色"	""
+zh_TW: 淺色"	"光"
 "tile.light_blue_candle.name"	"Light Blue Candle"	"Original Translation
 zh_CN: 淡蓝色蜡烛
-zh_TW: 淺藍色蠟燭"	""
+zh_TW: 淺藍色蠟燭"	"縹燭"
 "tile.light_blue_candle_cake.name"	"Cake with Light Blue Candle"	"Original Translation
 zh_CN: 带淡蓝色蜡烛的蛋糕
-zh_TW: 蛋糕與淺藍色蠟燭"	""
+zh_TW: 蛋糕與淺藍色蠟燭"	"縹燭之洋糕"
 "tile.light_gray_candle.name"	"Light Gray Candle"	"Original Translation
 zh_CN: 淡灰色蜡烛
-zh_TW: 淺灰色蠟燭"	""
+zh_TW: 淺灰色蠟燭"	"蒼燭"
 "tile.light_gray_candle_cake.name"	"Cake with Light Gray Candle"	"Original Translation
 zh_CN: 带淡灰色蜡烛的蛋糕
-zh_TW: 蛋糕與淺灰色蠟燭"	""
+zh_TW: 蛋糕與淺灰色蠟燭"	"蒼燭之洋糕"
 "tile.light_weighted_pressure_plate.name"	"Light Weighted Pressure Plate"	"Original Translation
 zh_CN: 轻质测重压力板
-zh_TW: 輕型測重壓板"	""
+zh_TW: 輕型測重壓板"	"輕踏板"
 "tile.lightning_rod.name"	"Lightning Rod"	"Original Translation
 zh_CN: 避雷针
-zh_TW: 避雷針"	""
+zh_TW: 避雷針"	"引雷桿"
 "tile.lime_candle.name"	"Lime Candle"	"Original Translation
 zh_CN: 黄绿色蜡烛
-zh_TW: 淡黃綠色蠟燭"	""
+zh_TW: 淡黃綠色蠟燭"	"翠燭"
 "tile.lime_candle_cake.name"	"Cake with Lime Candle"	"Original Translation
 zh_CN: 带黄绿色蜡烛的蛋糕
-zh_TW: 蛋糕與淡黃綠色蠟燭"	""
+zh_TW: 蛋糕與淡黃綠色蠟燭"	"翠燭之洋糕"
 "tile.lit_pumpkin.name"	"Jack o'Lantern"	"Original Translation
 zh_CN: 南瓜灯
-zh_TW: 南瓜燈"	""
+zh_TW: 南瓜燈"	"南瓜燈"
 "tile.lockedchest.name"	"Locked chest"	"Original Translation
 zh_CN: 上锁的箱子
 zh_TW: 上鎖的箱子"	""
 "tile.lodestone.name"	"Lodestone"	"Original Translation
 zh_CN: 磁石
-zh_TW: 磁石"	""
+zh_TW: 磁石"	"礠石"
 "tile.log.acacia.name"	"Acacia Log"	"Original Translation
 zh_CN: 金合欢原木
-zh_TW: 相思樹原木"	""
+zh_TW: 相思樹原木"	"㭜樁"
 "tile.log.big_oak.name"	"Dark Oak Log"	"Original Translation
 zh_CN: 深色橡树原木
-zh_TW: 黑橡樹原木"	""
+zh_TW: 黑橡樹原木"	"黯柞樁"
 "tile.log.birch.name"	"Birch Log"	"Original Translation
 zh_CN: 桦树原木
-zh_TW: 樺樹原木"	""
+zh_TW: 樺樹原木"	"樺樁"
 "tile.log.jungle.name"	"Jungle Log"	"Original Translation
 zh_CN: 丛林原木
-zh_TW: 叢林原木"	""
+zh_TW: 叢林原木"	"叢莽樁"
 "tile.log.name"	"Log"	"Original Translation
 zh_CN: 原木
 zh_TW: 原木"	""
 "tile.log.oak.name"	"Oak Log"	"Original Translation
 zh_CN: 橡树原木
-zh_TW: 橡樹原木"	""
+zh_TW: 橡樹原木"	"柞樁"
 "tile.log.spruce.name"	"Spruce Log"	"Original Translation
 zh_CN: 云杉原木
-zh_TW: 杉樹原木"	""
+zh_TW: 杉樹原木"	"樅樁"
 "tile.loom.name"	"Loom"	"Original Translation
 zh_CN: 织布机
-zh_TW: 織布機"	""
+zh_TW: 織布機"	"機杼"
 "tile.magenta_candle.name"	"Magenta Candle"	"Original Translation
 zh_CN: 品红色蜡烛
-zh_TW: 洋紅色蠟燭"	""
+zh_TW: 洋紅色蠟燭"	"赬燭"
 "tile.magenta_candle_cake.name"	"Cake with Magenta Candle"	"Original Translation
 zh_CN: 带品红色蜡烛的蛋糕
-zh_TW: 蛋糕與洋紅色蠟燭"	""
+zh_TW: 蛋糕與洋紅色蠟燭"	"赬燭之洋糕"
 "tile.magma.name"	"Magma Block"	"Original Translation
 zh_CN: 岩浆块
-zh_TW: 熔岩方塊"	""
+zh_TW: 熔岩方塊"	"火漿塊"
 "tile.mangrove_button.name"	"Mangrove Button"	"Original Translation
 zh_CN: 红树木按钮
-zh_TW: 紅樹林按鈕"	""
+zh_TW: 紅樹林按鈕"	"沒潮木鈕"
 "tile.mangrove_fence.name"	"Mangrove Fence"	"Original Translation
 zh_CN: 红树木栅栏
-zh_TW: 紅樹林柵欄"	""
+zh_TW: 紅樹林柵欄"	"沒潮木檻"
 "tile.mangrove_fence_gate.name"	"Mangrove Fence Gate"	"Original Translation
 zh_CN: 红树木栅栏大门
-zh_TW: 紅樹林柵欄門"	""
+zh_TW: 紅樹林柵欄門"	"沒潮木扉"
 "tile.mangrove_leaves.name"	"Mangrove Leaves"	"Original Translation
 zh_CN: 红树木树叶
-zh_TW: 紅樹林樹葉"	""
+zh_TW: 紅樹林樹葉"	"沒潮木葉"
 "tile.mangrove_log.name"	"Mangrove Log"	"Original Translation
 zh_CN: 红树木原木
-zh_TW: 紅樹林原木"	""
+zh_TW: 紅樹林原木"	"沒潮木樁"
 "tile.mangrove_planks.name"	"Mangrove Planks"	"Original Translation
 zh_CN: 红树木木板
-zh_TW: 紅樹林木材"	""
+zh_TW: 紅樹林木材"	"沒潮木材"
 "tile.mangrove_pressure_plate.name"	"Mangrove Pressure Plate"	"Original Translation
 zh_CN: 红树木压力板
-zh_TW: 紅樹林壓板"	""
+zh_TW: 紅樹林壓板"	"沒潮木踏板"
 "tile.mangrove_propagule.name"	"Mangrove Propagule"	"Original Translation
 zh_CN: 红树木繁殖体
-zh_TW: 紅樹林繁殖體"	""
+zh_TW: 紅樹林繁殖體"	"沒潮木胚"
 "tile.mangrove_roots.name"	"Mangrove Roots"	"Original Translation
 zh_CN: 红树木根
-zh_TW: 紅樹林根"	""
+zh_TW: 紅樹林根"	"沒潮木根"
 "tile.mangrove_slab.name"	"Mangrove Slab"	"Original Translation
 zh_CN: 红树木台阶
-zh_TW: 紅樹林木半磚"	""
+zh_TW: 紅樹林木半磚"	"沒潮木版"
 "tile.mangrove_stairs.name"	"Mangrove Stairs"	"Original Translation
 zh_CN: 红树木楼梯
-zh_TW: 紅樹林階梯"	""
+zh_TW: 紅樹林階梯"	"沒潮木階"
 "tile.mangrove_trapdoor.name"	"Mangrove Trapdoor"	"Original Translation
 zh_CN: 红树木活板门
-zh_TW: 紅樹林地板門"	""
+zh_TW: 紅樹林地板門"	"沒潮木窖門"
 "tile.mangrove_wood.name"	"Mangrove Wood"	"Original Translation
 zh_CN: 红树木木材
 zh_TW: 紅樹林木頭"	""
@@ -50342,7 +50342,7 @@ zh_CN: 带橙色蜡烛的蛋糕
 zh_TW: 蛋糕與橙色蠟燭"	""
 "tile.oreRuby.name"	"Ruby Ore"	"Original Translation
 zh_CN: 红宝石矿石
-zh_TW: 紅寶石礦石"	""
+zh_TW: 紅寶石礦石"	"赤玉礦"
 "tile.oxidized_chiseled_copper.name"	"Oxidized Chiseled Copper"	"Original Translation
 zh_CN: 氧化錾制铜
 zh_TW: 氧化鑿刻銅"	""
@@ -50373,115 +50373,115 @@ zh_CN: 氧化切制铜楼梯
 zh_TW: 氧化的切製銅階梯"	""
 "tile.packed_ice.name"	"Packed Ice"	"Original Translation
 zh_CN: 浮冰
-zh_TW: 冰磚"	""
+zh_TW: 冰磚"	"夯冰"
 "tile.packed_mud.name"	"Packed Mud"	"Original Translation
 zh_CN: 填充泥浆
-zh_TW: 泥坯"	""
+zh_TW: 泥坯"	"夯泥"
 "tile.pale_hanging_moss.name"	"Pale Hanging Moss"	"Original Translation
 zh_CN: 苍白垂须
-zh_TW: 蒼白垂蘚"	""
+zh_TW: 蒼白垂蘚"	"縞懸蘚"
 "tile.pale_moss_block.name"	"Pale Moss Block"	"Original Translation
 zh_CN: 苍白苔藓块
-zh_TW: 蒼白苔蘚方塊"	""
+zh_TW: 蒼白苔蘚方塊"	"縞蘚塊"
 "tile.pale_moss_carpet.name"	"Pale Moss Carpet"	"Original Translation
 zh_CN: 苍白苔藓地毯
-zh_TW: 蒼白苔蘚地毯"	""
+zh_TW: 蒼白苔蘚地毯"	"縞地蘚"
 "tile.pale_oak_button.name"	"Pale Oak Button"	"Original Translation
 zh_CN: 苍白橡木按钮
-zh_TW: 蒼白橡木按鈕"	""
+zh_TW: 蒼白橡木按鈕"	"縞柞鈕"
 "tile.pale_oak_double_slab.name"	"Pale Oak Double Slab"	"Original Translation
 zh_CN: 苍白橡木双台阶
 zh_TW: 蒼白橡木雙板"	""
 "tile.pale_oak_fence.name"	"Pale Oak Fence"	"Original Translation
 zh_CN: 苍白橡木栅栏
-zh_TW: 蒼白橡木柵欄"	""
+zh_TW: 蒼白橡木柵欄"	"縞柞檻"
 "tile.pale_oak_fence_gate.name"	"Pale Oak Fence Gate"	"Original Translation
 zh_CN: 苍白橡木栅栏大门
-zh_TW: 蒼白橡木柵欄門"	""
+zh_TW: 蒼白橡木柵欄門"	"縞柞扉"
 "tile.pale_oak_leaves.name"	"Pale Oak Leaves"	"Original Translation
 zh_CN: 苍白橡木树叶
-zh_TW: 蒼白橡木樹葉"	""
+zh_TW: 蒼白橡木樹葉"	"縞柞葉"
 "tile.pale_oak_log.name"	"Pale Oak Log"	"Original Translation
 zh_CN: 苍白橡树原木
-zh_TW: 蒼白橡木原木"	""
+zh_TW: 蒼白橡木原木"	"縞柞樁"
 "tile.pale_oak_planks.name"	"Pale Oak Planks"	"Original Translation
 zh_CN: 苍白橡木木板
-zh_TW: 蒼白橡木木材"	""
+zh_TW: 蒼白橡木木材"	"縞柞材"
 "tile.pale_oak_pressure_plate.name"	"Pale Oak Pressure Plate"	"Original Translation
 zh_CN: 苍白橡木压力板
-zh_TW: 蒼白橡木壓板"	""
+zh_TW: 蒼白橡木壓板"	"縞柞踏板"
 "tile.pale_oak_sapling.name"	"Pale Oak Sapling"	"Original Translation
 zh_CN: 苍白橡木树苗
-zh_TW: 蒼白橡木樹苗"	""
+zh_TW: 蒼白橡木樹苗"	"縞柞秧"
 "tile.pale_oak_slab.name"	"Pale Oak Slab"	"Original Translation
 zh_CN: 苍白橡木台阶
-zh_TW: 蒼白橡木板"	""
+zh_TW: 蒼白橡木板"	"縞柞版"
 "tile.pale_oak_stairs.name"	"Pale Oak Stairs"	"Original Translation
 zh_CN: 苍白橡木楼梯
-zh_TW: 蒼白橡木階梯"	""
+zh_TW: 蒼白橡木階梯"	"縞柞階"
 "tile.pale_oak_trapdoor.name"	"Pale Oak Trapdoor"	"Original Translation
 zh_CN: 苍白橡木活板门
-zh_TW: 蒼白橡木地板門"	""
+zh_TW: 蒼白橡木地板門"	"縞柞窖門"
 "tile.pale_oak_wood.name"	"Pale Oak Wood"	"Original Translation
 zh_CN: 苍白橡木
-zh_TW: 蒼白橡木木頭"	""
+zh_TW: 蒼白橡木木頭"	"縞柞木"
 "tile.pearlescent_froglight.name"	"Pearlescent Froglight"	"Original Translation
 zh_CN: 珠光蛙明灯
-zh_TW: 珠光蛙燈"	""
+zh_TW: 珠光蛙燈"	"玢璘鼃光"
 "tile.pink_candle.name"	"Pink Candle"	"Original Translation
 zh_CN: 粉红色蜡烛
-zh_TW: 粉紅色蠟燭"	""
+zh_TW: 粉紅色蠟燭"	"紅燭"
 "tile.pink_candle_cake.name"	"Cake with Pink Candle"	"Original Translation
 zh_CN: 带粉红色蜡烛的蛋糕
-zh_TW: 蛋糕與粉紅色蠟燭"	""
+zh_TW: 蛋糕與粉紅色蠟燭"	"紅燭之洋糕"
 "tile.pink_petals.name"	"Pink Petals"	"Original Translation
 zh_CN: 粉红色花瓣
-zh_TW: 粉紅色花瓣"	""
+zh_TW: 粉紅色花瓣"	"落英"
 "tile.piston.name"	"Piston"	"Original Translation
 zh_CN: 活塞
-zh_TW: 活塞"	""
+zh_TW: 活塞"	"鞲鞴"
 "tile.pitcher_plant.name"	"Pitcher Plant"	"Original Translation
 zh_CN: 猪笼草
-zh_TW: 豬籠草"	""
+zh_TW: 豬籠草"	"小人蘭"
 "tile.planks.acacia.name"	"Acacia Planks"	"Original Translation
 zh_CN: 金合欢木板
-zh_TW: 相思木材"	""
+zh_TW: 相思木材"	"㭜材"
 "tile.planks.big_oak.name"	"Dark Oak Planks"	"Original Translation
 zh_CN: 深色橡木板
-zh_TW: 黑橡木材"	""
+zh_TW: 黑橡木材"	"黯柞材"
 "tile.planks.birch.name"	"Birch Planks"	"Original Translation
 zh_CN: 白桦木板
-zh_TW: 樺木材"	""
+zh_TW: 樺木材"	"樺材"
 "tile.planks.jungle.name"	"Jungle Planks"	"Original Translation
 zh_CN: 丛林木板
-zh_TW: 叢林木材"	""
+zh_TW: 叢林木材"	"叢莽材"
 "tile.planks.name"	"Wooden Planks"	"Original Translation
 zh_CN: 木板
 zh_TW: 木材"	""
 "tile.planks.oak.name"	"Oak Planks"	"Original Translation
 zh_CN: 橡木板
-zh_TW: 橡木材"	""
+zh_TW: 橡木材"	"柞材"
 "tile.planks.spruce.name"	"Spruce Planks"	"Original Translation
 zh_CN: 云杉木板
-zh_TW: 杉木材"	""
+zh_TW: 杉木材"	"樅材"
 "tile.podzol.name"	"Podzol"	"Original Translation
 zh_CN: 灰化土
-zh_TW: 灰壤"	""
+zh_TW: 灰壤"	"灰土"
 "tile.pointed_dripstone.name"	"Pointed Dripstone"	"Original Translation
 zh_CN: 滴水石锥
-zh_TW: 尖銳滴水石"	""
+zh_TW: 尖銳滴水石"	"鐘乳石"
 "tile.polished_andesite_stairs.name"	"Polished Andesite Stairs"	"Original Translation
 zh_CN: 磨制安山岩楼梯
-zh_TW: 拋光安山岩階梯"	""
+zh_TW: 拋光安山岩階梯"	"鎣安山石"
 "tile.polished_basalt.name"	"Polished Basalt"	"Original Translation
 zh_CN: 磨制玄武岩
-zh_TW: 拋光玄武岩"	""
+zh_TW: 拋光玄武岩"	"鎣黑堦石"
 "tile.polished_blackstone.name"	"Polished Blackstone"	"Original Translation
 zh_CN: 磨制黑石
-zh_TW: 拋光黑石"	""
+zh_TW: 拋光黑石"	"鎣墨石"
 "tile.polished_blackstone_brick_slab.name"	"Polished Blackstone Brick Slab"	"Original Translation
 zh_CN: 磨制黑石砖台阶
-zh_TW: 拋光黑石磚塊板"	""
+zh_TW: 拋光黑石磚塊板"	"鎣墨石磚版"
 "tile.polished_blackstone_brick_stairs.name"	"Polished Blackstone Brick Stairs"	"Original Translation
 zh_CN: 磨制黑石砖楼梯
 zh_TW: 拋光黑石磚塊梯"	""
@@ -50607,157 +50607,157 @@ zh_CN: 石英砖
 zh_TW: 石英磚塊"	""
 "tile.quartz_ore.name"	"Nether Quartz Ore"	"Original Translation
 zh_CN: 下界石英矿石
-zh_TW: 地獄石英礦石"	""
+zh_TW: 地獄石英礦石"	"石英礦"
 "tile.quartz_stairs.name"	"Quartz Stairs"	"Original Translation
 zh_CN: 石英楼梯
-zh_TW: 石英階梯"	""
+zh_TW: 石英階梯"	"石英階"
 "tile.rail.name"	"Rail"	"Original Translation
 zh_CN: 铁轨
-zh_TW: 軌道"	""
+zh_TW: 軌道"	"軌"
 "tile.raw_copper_block.name"	"Block of Raw Copper"	"Original Translation
 zh_CN: 粗铜块
-zh_TW: 粗銅方塊"	""
+zh_TW: 粗銅方塊"	"銅石塊"
 "tile.raw_gold_block.name"	"Block of Raw Gold"	"Original Translation
 zh_CN: 粗金块
-zh_TW: 粗金方塊"	""
+zh_TW: 粗金方塊"	"金石塊"
 "tile.raw_iron_block.name"	"Block of Raw Iron"	"Original Translation
 zh_CN: 粗铁块
-zh_TW: 粗鐵方塊"	""
+zh_TW: 粗鐵方塊"	"鐵石塊"
 "tile.red_candle.name"	"Red Candle"	"Original Translation
 zh_CN: 红色蜡烛
-zh_TW: 紅色蠟燭"	""
+zh_TW: 紅色蠟燭"	"赤燭"
 "tile.red_candle_cake.name"	"Cake with Red Candle"	"Original Translation
 zh_CN: 带红色蜡烛的蛋糕
-zh_TW: 蛋糕與紅色蠟燭"	""
+zh_TW: 蛋糕與紅色蠟燭"	"赤燭之洋糕"
 "tile.red_flower.allium.name"	"Allium"	"Original Translation
 zh_CN: 绒球葱
-zh_TW: 紫紅球花"	""
+zh_TW: 紫紅球花"	"碩蔥"
 "tile.red_flower.blueOrchid.name"	"Blue Orchid"	"Original Translation
 zh_CN: 兰花
-zh_TW: 藍色蝴蝶蘭"	""
+zh_TW: 藍色蝴蝶蘭"	"蘭"
 "tile.red_flower.cornflower.name"	"Cornflower"	"Original Translation
 zh_CN: 矢车菊
-zh_TW: 矢車菊"	""
+zh_TW: 矢車菊"	"矢車菊"
 "tile.red_flower.houstonia.name"	"Azure Bluet"	"Original Translation
 zh_CN: 蓝花美耳草
-zh_TW: 雛草"	""
+zh_TW: 雛草"	"藍茜"
 "tile.red_flower.lilyOfTheValley.name"	"Lily of the Valley"	"Original Translation
 zh_CN: 铃兰
-zh_TW: 空谷百合"	""
+zh_TW: 空谷百合"	"鈴蘭"
 "tile.red_flower.name"	"Flower"	"Original Translation
 zh_CN: 花
 zh_TW: 花朵"	""
 "tile.red_flower.oxeyeDaisy.name"	"Oxeye Daisy"	"Original Translation
 zh_CN: 滨菊
-zh_TW: 雛菊"	""
+zh_TW: 雛菊"	"雛菊"
 "tile.red_flower.poppy.name"	"Poppy"	"Original Translation
 zh_CN: 虞美人
-zh_TW: 罌粟"	""
+zh_TW: 罌粟"	"虞美人"
 "tile.red_flower.tulipOrange.name"	"Orange Tulip"	"Original Translation
 zh_CN: 橙色郁金香
-zh_TW: 橙色鬱金香"	""
+zh_TW: 橙色鬱金香"	"橙鬱金香"
 "tile.red_flower.tulipPink.name"	"Pink Tulip"	"Original Translation
 zh_CN: 粉红色郁金香
-zh_TW: 粉紅色鬱金香"	""
+zh_TW: 粉紅色鬱金香"	"紅鬱金香"
 "tile.red_flower.tulipRed.name"	"Red Tulip"	"Original Translation
 zh_CN: 红色郁金香
-zh_TW: 紅色鬱金香"	""
+zh_TW: 紅色鬱金香"	"赤鬱金香"
 "tile.red_flower.tulipWhite.name"	"White Tulip"	"Original Translation
 zh_CN: 白色郁金香
-zh_TW: 白色鬱金香"	""
+zh_TW: 白色鬱金香"	"白鬱金香"
 "tile.red_mushroom.name"	"Red Mushroom"	"Original Translation
 zh_CN: 红蘑菇
-zh_TW: 紅蘑菇"	""
+zh_TW: 紅蘑菇"	"赤蕈"
 "tile.red_mushroom_block.name"	"Red Mushroom Block"	"Original Translation
 zh_CN: 红蘑菇方块
-zh_TW: 紅蘑菇方塊"	""
+zh_TW: 紅蘑菇方塊"	"赤蕈塊"
 "tile.red_nether_brick.name"	"Red Nether Bricks"	"Original Translation
 zh_CN: 红色下界砖块
-zh_TW: 紅色地獄磚塊"	""
+zh_TW: 紅色地獄磚塊"	"焱界赤磚塊"
 "tile.red_nether_brick_stairs.name"	"Red Nether Brick Stairs"	"Original Translation
 zh_CN: 红色下界砖楼梯
-zh_TW: 紅色地獄磚塊梯"	""
+zh_TW: 紅色地獄磚塊梯"	"焱界赤磚階"
 "tile.red_sandstone.chiseled.name"	"Chiseled Red Sandstone"	"Original Translation
 zh_CN: 錾制红砂岩
-zh_TW: 鑿刻紅沙岩"	""
+zh_TW: 鑿刻紅沙岩"	"雕赤砂"
 "tile.red_sandstone.cut.name"	"Cut Red Sandstone"	"Original Translation
 zh_CN: 切制红砂岩
-zh_TW: 切割紅沙岩"	""
+zh_TW: 切割紅沙岩"	"割赤砂"
 "tile.red_sandstone.default.name"	"Red Sandstone"	"Original Translation
 zh_CN: 红砂岩
-zh_TW: 紅沙岩"	""
+zh_TW: 紅沙岩"	"赤砂"
 "tile.red_sandstone.name"	"Red Sandstone"	"Original Translation
 zh_CN: 红砂岩
-zh_TW: 紅沙岩"	""
+zh_TW: 紅沙岩"	"赤砂"
 "tile.red_sandstone.smooth.name"	"Smooth Red Sandstone"	"Original Translation
 zh_CN: 平滑红砂岩
-zh_TW: 平滑紅沙岩"	""
+zh_TW: 平滑紅沙岩"	"潤赤砂"
 "tile.red_sandstone_stairs.name"	"Red Sandstone Stairs"	"Original Translation
 zh_CN: 红砂岩楼梯
-zh_TW: 紅沙岩階梯"	""
+zh_TW: 紅沙岩階梯"	"潤赤砂階"
 "tile.redstone_block.name"	"Block of Redstone"	"Original Translation
 zh_CN: 红石块
-zh_TW: 紅石方塊"	""
+zh_TW: 紅石方塊"	"赤石塊"
 "tile.redstone_lamp.name"	"Redstone Lamp"	"Original Translation
 zh_CN: 红石灯
-zh_TW: 紅石燈"	""
+zh_TW: 紅石燈"	"赤石燈"
 "tile.redstone_ore.name"	"Redstone Ore"	"Original Translation
 zh_CN: 红石矿石
-zh_TW: 紅石礦石"	""
+zh_TW: 紅石礦石"	"赤石礦"
 "tile.redstone_torch.name"	"Redstone Torch"	"Original Translation
 zh_CN: 红石火把
-zh_TW: 紅石火把"	""
+zh_TW: 紅石火把"	"赤石炬"
 "tile.redstone_wire.name"	"Redstone Dust"	"Original Translation
 zh_CN: 红石粉
-zh_TW: 紅石塵"	""
+zh_TW: 紅石塵"	"赤石末"
 "tile.reeds.name"	"Sugar cane"	"Original Translation
 zh_CN: 甘蔗
-zh_TW: 甘蔗"	""
+zh_TW: 甘蔗"	"蔗"
 "tile.reinforced_deepslate.name"	"Reinforced Deepslate"	"Original Translation
 zh_CN: 强化深板岩
-zh_TW: 強化深板岩"	""
+zh_TW: 強化深板岩"	"固板石"
 "tile.repeating_command_block.name"	"Repeating Command Block"	"Original Translation
 zh_CN: 循环型命令方块
-zh_TW: 重複指令方塊"	""
+zh_TW: 重複指令方塊"	"循環命令塊"
 "tile.resin_block.name"	"Block of Resin"	"Original Translation
 zh_CN: 树脂块
-zh_TW: 樹脂方塊"	""
+zh_TW: 樹脂方塊"	"樹香塊"
 "tile.resin_brick_double_slab.name"	"Resin Brick Double Slab"	"Original Translation
 zh_CN: 树脂砖双台阶
 zh_TW: 樹脂磚塊雙層半磚"	""
 "tile.resin_brick_slab.name"	"Resin Brick Slab"	"Original Translation
 zh_CN: 树脂砖台阶
-zh_TW: 樹脂磚塊半磚"	""
+zh_TW: 樹脂磚塊半磚"	"樹香磚版"
 "tile.resin_brick_stairs.name"	"Resin Brick Stairs"	"Original Translation
 zh_CN: 树脂砖楼梯
-zh_TW: 樹脂磚塊樓梯"	""
+zh_TW: 樹脂磚塊樓梯"	"樹香磚階"
 "tile.resin_brick_wall.name"	"Resin Brick Wall"	"Original Translation
 zh_CN: 树脂砖墙
-zh_TW: 樹脂磚塊牆"	""
+zh_TW: 樹脂磚塊牆"	"樹香磚垣"
 "tile.resin_bricks.name"	"Resin Bricks"	"Original Translation
 zh_CN: 树脂砖块
-zh_TW: 樹脂合磚"	""
+zh_TW: 樹脂合磚"	"樹香磚塊"
 "tile.resin_clump.name"	"Resin Clump"	"Original Translation
 zh_CN: 树脂团
-zh_TW: 樹脂塊"	""
+zh_TW: 樹脂塊"	"樹香"
 "tile.respawn_anchor.name"	"Respawn Anchor"	"Original Translation
 zh_CN: 重生锚
-zh_TW: 重生錨"	""
+zh_TW: 重生錨"	"復生錨"
 "tile.respawn_anchor.notValid"	"Your respawn anchor was out of charges, missing or obstructed"	"Original Translation
 zh_CN: 你的重生锚能量不足、已丢失或被阻挡。
-zh_TW: 您的起始點錨喪失能量、遺失或被阻擋"	""
+zh_TW: 您的起始點錨喪失能量、遺失或被阻擋"	"汝無得力之復生錨，或其見礙也"
 "tile.respawn_anchor.respawnSet"	"Respawn point set"	"Original Translation
 zh_CN: 重生点设置
-zh_TW: 重生點已設定"	""
+zh_TW: 重生點已設定"	"生處定也"
 "tile.sand.default.name"	"Sand"	"Original Translation
 zh_CN: 沙子
-zh_TW: 沙子"	""
+zh_TW: 沙子"	"沙"
 "tile.sand.name"	"Sand"	"Original Translation
 zh_CN: 沙子
-zh_TW: 沙子"	""
+zh_TW: 沙子"	"沙"
 "tile.sand.red.name"	"Red Sand"	"Original Translation
 zh_CN: 红沙
-zh_TW: 紅沙"	""
+zh_TW: 紅沙"	"赤沙"
 "tile.sandstone.chiseled.name"	"Chiseled Sandstone"	"Original Translation
 zh_CN: 錾制砂岩
 zh_TW: 鑿刻砂岩"	""
