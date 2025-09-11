@@ -1,4 +1,4 @@
-## resource_packs/vanilla/texts/zh_CN.lang
+## resource_packs/vanilla/texts/en_US.lang
 3d_export.export=导出
 3d_export.include=包含
 3d_export.include_players=包含玩家：
@@ -972,7 +972,6 @@ entity.chest_raft.name=运输竹筏
 entity.chicken.name=鸡
 entity.cod.name=鳕鱼
 entity.command_block_minecart.name=命令方块矿车
-entity.copper_golem.name=铜傀儡
 entity.cow.name=牛
 entity.creaking.name=嘎枝
 entity.creeper.name=苦力怕
@@ -1948,18 +1947,8 @@ item.cooked_porkchop.name=熟猪排
 item.cooked_rabbit.name=熟兔肉
 item.cooked_salmon.name=熟鲑鱼
 item.cookie.name=曲奇
-item.copper_axe.name=铜斧
-item.copper_boots.name=铜靴子
-item.copper_chestplate.name=铜胸甲
 item.copper_door.name=铜门
-item.copper_helmet.name=铜头盔
-item.copper_hoe.name=铜锄
 item.copper_ingot.name=铜锭
-item.copper_leggings.name=铜护腿
-item.copper_nugget.name=铜粒
-item.copper_pickaxe.name=铜镐
-item.copper_shovel.name=铜锹
-item.copper_sword.name=铜剑
 item.creeper_banner_pattern.name=苦力怕盾徽旗帜图案
 item.crimson_door.name=绯红木门
 item.crimson_hanging_sign.name=悬挂式绯红木告示牌
@@ -2316,7 +2305,6 @@ item.spawn_egg.entity.cat.name=猫刷怪蛋
 item.spawn_egg.entity.cave_spider.name=洞穴蜘蛛刷怪蛋
 item.spawn_egg.entity.chicken.name=鸡刷怪蛋
 item.spawn_egg.entity.cod.name=鳕鱼刷怪蛋
-item.spawn_egg.entity.copper_golem.name=铜傀儡刷怪蛋
 item.spawn_egg.entity.cow.name=牛刷怪蛋
 item.spawn_egg.entity.creaking.name=嘎枝刷怪蛋
 item.spawn_egg.entity.creeper.name=苦力怕刷怪蛋
@@ -3089,7 +3077,6 @@ tile.concretePowder.yellow.name=黄色混凝土粉末
 tile.conduit.name=潮涌核心
 tile.copper_block.name=铜块
 tile.copper_bulb.name=铜灯
-tile.copper_chest.name=铜箱子
 tile.copper_door.name=铜门
 tile.copper_grate.name=铜格栅
 tile.copper_ore.name=铜矿石
@@ -3230,7 +3217,6 @@ tile.ender_chest.name=末影箱
 tile.exposed_chiseled_copper.name=斑驳的雕纹铜块
 tile.exposed_copper.name=斑驳的铜块
 tile.exposed_copper_bulb.name=斑驳的铜灯
-tile.exposed_copper_chest.name=斑驳的铜箱子
 tile.exposed_copper_door.name=斑驳的铜门
 tile.exposed_copper_grate.name=斑驳的铜格栅
 tile.exposed_copper_trapdoor.name=斑驳的铜活板门
@@ -3429,7 +3415,6 @@ tile.oreRuby.name=红宝石矿石
 tile.oxidized_chiseled_copper.name=氧化的雕纹铜块
 tile.oxidized_copper.name=氧化的铜块
 tile.oxidized_copper_bulb.name=氧化的铜灯
-tile.oxidized_copper_chest.name=氧化的铜箱子
 tile.oxidized_copper_door.name=氧化的铜门
 tile.oxidized_copper_grate.name=氧化的铜格栅
 tile.oxidized_copper_trapdoor.name=氧化的铜活板门
@@ -3825,7 +3810,6 @@ tile.waterlily.name=睡莲
 tile.waxed_chiseled_copper.name=涂蜡的雕纹铜块
 tile.waxed_copper.name=涂蜡的铜块
 tile.waxed_copper_bulb.name=涂蜡的铜灯
-tile.waxed_copper_chest.name=涂蜡的铜箱子
 tile.waxed_copper_door.name=涂蜡的铜门
 tile.waxed_copper_grate.name=涂蜡的铜格栅
 tile.waxed_copper_trapdoor.name=涂蜡的铜活板门
@@ -3835,7 +3819,6 @@ tile.waxed_cut_copper_stairs.name=涂蜡的切制铜楼梯
 tile.waxed_exposed_chiseled_copper.name=涂蜡的斑驳雕纹铜块
 tile.waxed_exposed_copper.name=涂蜡的斑驳铜块
 tile.waxed_exposed_copper_bulb.name=涂蜡的斑驳铜灯
-tile.waxed_exposed_copper_chest.name=涂蜡的斑驳铜箱子
 tile.waxed_exposed_copper_door.name=涂蜡的斑驳铜门
 tile.waxed_exposed_copper_grate.name=涂蜡的斑驳铜格栅
 tile.waxed_exposed_copper_trapdoor.name=涂蜡的斑驳铜活板门
@@ -3845,7 +3828,6 @@ tile.waxed_exposed_cut_copper_stairs.name=涂蜡的斑驳切制铜楼梯
 tile.waxed_oxidized_chiseled_copper.name=涂蜡的氧化雕纹铜块
 tile.waxed_oxidized_copper.name=涂蜡的氧化铜块
 tile.waxed_oxidized_copper_bulb.name=涂蜡的氧化铜灯
-tile.waxed_oxidized_copper_chest.name=涂蜡的氧化铜箱子
 tile.waxed_oxidized_copper_door.name=涂蜡的氧化铜门
 tile.waxed_oxidized_copper_grate.name=涂蜡的氧化铜格栅
 tile.waxed_oxidized_copper_trapdoor.name=涂蜡的氧化铜活板门
@@ -3855,7 +3837,6 @@ tile.waxed_oxidized_cut_copper_stairs.name=涂蜡的氧化切制铜楼梯
 tile.waxed_weathered_chiseled_copper.name=涂蜡的锈蚀雕纹铜块
 tile.waxed_weathered_copper.name=涂蜡的锈蚀铜块
 tile.waxed_weathered_copper_bulb.name=涂蜡的锈蚀铜灯
-tile.waxed_weathered_copper_chest.name=涂蜡的锈蚀铜箱子
 tile.waxed_weathered_copper_door.name=涂蜡的锈蚀铜门
 tile.waxed_weathered_copper_grate.name=涂蜡的锈蚀铜格栅
 tile.waxed_weathered_copper_trapdoor.name=涂蜡的锈蚀铜活板门
@@ -3865,7 +3846,6 @@ tile.waxed_weathered_cut_copper_stairs.name=涂蜡的锈蚀切制铜楼梯
 tile.weathered_chiseled_copper.name=锈蚀的雕纹铜块
 tile.weathered_copper.name=锈蚀的铜块
 tile.weathered_copper_bulb.name=锈蚀的铜灯
-tile.weathered_copper_chest.name=锈蚀的铜箱子
 tile.weathered_copper_door.name=锈蚀的铜门
 tile.weathered_copper_grate.name=锈蚀的铜格栅
 tile.weathered_copper_trapdoor.name=锈蚀的铜活板门
@@ -3924,7 +3904,7 @@ tile.yellow_flower.name=花
 tips.edu.14=你的代码构建机器人助手称为智能体。
 xbox.signin.url=https://microsoft.com/link
 
-## resource_packs/chemistry/texts/zh_CN.lang
+## resource_packs/chemistry/texts/en_US.lang
 action.interact.balloon=连接
 action.interact.unballoon=分离
 compoundcreator.title=化合物创建器
@@ -4175,7 +4155,7 @@ tile.materialreducer.name=材料分解器
 tile.underwater_tnt.name=水下TNT
 tile.underwater_torch.name=水下火把
 
-## resource_packs/education/texts/zh_CN.lang
+## resource_packs/education/texts/en_US.lang
 authentication.popup.demoLink=尝试演示课程。
 authentication.popup.setup.firstPage.body=欢迎来到Minecraft教育版！%1%1在我们开始之前，我们需要验证你的年龄。为此，我们将打开你的网页浏览器，要求你使用个人Microsoft账号登录。%1%1如果你没有个人 Microsoft 账号，请不用担心……你可以在登录页面上创建一个账号。
 authentication.popup.setup.firstPage.button=立即验证
@@ -4193,13 +4173,13 @@ createWorldScreen.classroom.settings=教室设置
 createWorldScreen.classroomsettings.toggle=显示教室设置
 signin.welcome.header.line1=欢迎来到
 
-## resource_packs/oreui/texts/zh_CN.lang
+## resource_packs/oreui/texts/en_US.lang
 hbui.CreateNewWorld.cheats.educationTitle=教育版功能
 hbui.CreateNewWorld.scriptingCoding.codeBuilderTitle=代码构建器
 hbui.PlayScreen.realmsTab.realmsTabErrorStates.realmsPreprodError.button.text=了解更多
 hbui.RealmsPDPScreen.hero.content.text4=角色创建器物品
 hbui.useCaptureScreenshotInfo.plus=+
 
-## resource_packs/editor/texts/zh_CN.lang
+## resource_packs/editor/texts/en_US.lang
 resourcePack.editor.exportProject.cheatsSettings.educationFeatures=教育版功能
 resourcePack.editor.exportProject.cheatsSettings.keepInventory=死亡后保留物品栏

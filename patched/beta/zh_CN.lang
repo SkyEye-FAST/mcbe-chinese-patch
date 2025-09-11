@@ -1,4 +1,4 @@
-## resource_packs/vanilla/texts/zh_CN.lang
+## resource_packs/vanilla/texts/en_US.lang
 3d_export.export=导出
 3d_export.include=包含
 3d_export.include_players=包含玩家：
@@ -3924,7 +3924,7 @@ tile.yellow_flower.name=花
 tips.edu.14=你的代码构建机器人助手称为智能体。
 xbox.signin.url=https://microsoft.com/link
 
-## resource_packs/chemistry/texts/zh_CN.lang
+## resource_packs/chemistry/texts/en_US.lang
 action.interact.balloon=连接
 action.interact.unballoon=分离
 compoundcreator.title=化合物创建器
@@ -4175,14 +4175,14 @@ tile.materialreducer.name=材料分解器
 tile.underwater_tnt.name=水下TNT
 tile.underwater_torch.name=水下火把
 
-## resource_packs/oreui/texts/zh_CN.lang
+## resource_packs/oreui/texts/en_US.lang
 hbui.CreateNewWorld.cheats.educationTitle=教育版功能
 hbui.CreateNewWorld.scriptingCoding.codeBuilderTitle=代码构建器
 hbui.PlayScreen.realmsTab.realmsTabErrorStates.realmsPreprodError.button.text=了解更多
 hbui.RealmsPDPScreen.hero.content.text4=角色创建器物品
 hbui.useCaptureScreenshotInfo.plus=+
 
-## resource_packs/editor/texts/zh_CN.lang
+## resource_packs/editor/texts/en_US.lang
 resourcePack.editor.exportProject.cheatsSettings.educationFeatures=教育版功能
 resourcePack.editor.exportProject.cheatsSettings.keepInventory=死亡后保留物品栏
 tile.flower_pot.name=花盆
