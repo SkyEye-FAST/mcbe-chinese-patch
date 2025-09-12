@@ -51474,7 +51474,7 @@ zh_CN: 宝库
 zh_TW: 保險庫"	""
 "tile.verdant_froglight.name"	"Verdant Froglight"	"Original Translation
 zh_CN: 青翠蛙明灯
-zh_TW: 翠綠蛙燈"	""
+zh_TW: 翠綠蛙燈"	"翠鼃光"
 "tile.vine.name"	"Vines"	"Original Translation
 zh_CN: 藤蔓
 zh_TW: 藤蔓"	""
@@ -51618,81 +51618,81 @@ zh_CN: 氧化的涂蜡切制铜块
 zh_TW: 上蠟的氧化切製銅方塊"	""
 "tile.waxed_oxidized_cut_copper_slab.name"	"Waxed Oxidized Cut Copper Slab"	"Original Translation
 zh_CN: 氧化的涂蜡切制铜块台阶
-zh_TW: 上蠟的氧化切製銅半磚"	""
+zh_TW: 上蠟的氧化切製銅半磚"	"蠟引風蝕割銅版"
 "tile.waxed_oxidized_cut_copper_stairs.name"	"Waxed Oxidized Cut Copper Stairs"	"Original Translation
 zh_CN: 氧化的涂蜡切制铜楼梯
-zh_TW: 上蠟的氧化切製銅階梯"	""
+zh_TW: 上蠟的氧化切製銅階梯"	"蠟引風蝕割銅階"
 "tile.waxed_weathered_chiseled_copper.name"	"Waxed Weathered Chiseled Copper"	"Original Translation
 zh_CN: 涂蜡风化錾制铜
-zh_TW: 上蠟的風化鑿刻銅"	""
+zh_TW: 上蠟的風化鑿刻銅"	"蠟引鏽刻雕銅塊"
 "tile.waxed_weathered_copper.name"	"Waxed Weathered Copper"	"Original Translation
 zh_CN: 锈蚀的涂蜡铜块
-zh_TW: 上蠟的風化銅方塊"	""
+zh_TW: 上蠟的風化銅方塊"	"蠟引鏽刻銅塊"
 "tile.waxed_weathered_copper_bulb.name"	"Waxed Weathered Copper Bulb"	"Original Translation
 zh_CN: 涂蜡风化铜灯泡
-zh_TW: 塗蠟的風化銅燈泡"	""
-"tile.waxed_weathered_copper_chest.name"	"Waxed Weathered Copper Chest"	"Original Translation"	""
+zh_TW: 塗蠟的風化銅燈泡"	"蠟引鏽刻銅燈"
+"tile.waxed_weathered_copper_chest.name"	"Waxed Weathered Copper Chest"	"Original Translation"	"蠟引鏽刻銅箱"
 "tile.waxed_weathered_copper_door.name"	"Waxed Weathered Copper Door"	"Original Translation
 zh_CN: 涂蜡风化铜门
-zh_TW: 塗蠟的風化銅門"	""
+zh_TW: 塗蠟的風化銅門"	"蠟引鏽刻銅門"
 "tile.waxed_weathered_copper_grate.name"	"Waxed Weathered Copper Grate"	"Original Translation
 zh_CN: 涂蜡风化铜格栅
-zh_TW: 塗蠟的風化銅爐柵"	""
+zh_TW: 塗蠟的風化銅爐柵"	"蠟引鏽刻銅柵網"
 "tile.waxed_weathered_copper_trapdoor.name"	"Waxed Weathered Copper Trapdoor"	"Original Translation
 zh_CN: 涂蜡风化铜活板门
-zh_TW: 塗蠟的風化銅地板門"	""
+zh_TW: 塗蠟的風化銅地板門"	"蠟引鏽刻銅窖門"
 "tile.waxed_weathered_cut_copper.name"	"Waxed Weathered Cut Copper"	"Original Translation
 zh_CN: 锈蚀的涂蜡切制铜块
-zh_TW: 上蠟的風化切製銅方塊"	""
+zh_TW: 上蠟的風化切製銅方塊"	"蠟引鏽刻割銅塊"
 "tile.waxed_weathered_cut_copper_slab.name"	"Waxed Weathered Cut Copper Slab"	"Original Translation
 zh_CN: 锈蚀的涂蜡切制铜块台阶
-zh_TW: 上蠟的風化切製銅半磚"	""
+zh_TW: 上蠟的風化切製銅半磚"	"蠟引鏽刻割銅版"
 "tile.waxed_weathered_cut_copper_stairs.name"	"Waxed Weathered Cut Copper Stairs"	"Original Translation
 zh_CN: 锈蚀的涂蜡切制铜楼梯
-zh_TW: 上蠟的風化切製銅階梯"	""
+zh_TW: 上蠟的風化切製銅階梯"	"蠟引鏽刻割銅階"
 "tile.weathered_chiseled_copper.name"	"Weathered Chiseled Copper"	"Original Translation
 zh_CN: 风化錾制铜
-zh_TW: 風化鑿刻銅"	""
+zh_TW: 風化鑿刻銅"	"鏽刻雕銅塊"
 "tile.weathered_copper.name"	"Weathered Copper"	"Original Translation
 zh_CN: 锈蚀的铜块
-zh_TW: 風化的銅方塊"	""
+zh_TW: 風化的銅方塊"	"鏽刻銅塊"
 "tile.weathered_copper_bulb.name"	"Weathered Copper Bulb"	"Original Translation
 zh_CN: 风化铜灯泡
-zh_TW: 風化銅燈泡"	""
-"tile.weathered_copper_chest.name"	"Weathered Copper Chest"	"Original Translation"	""
+zh_TW: 風化銅燈泡"	"鏽刻銅燈"
+"tile.weathered_copper_chest.name"	"Weathered Copper Chest"	"Original Translation"	"鏽刻銅箱"
 "tile.weathered_copper_door.name"	"Weathered Copper Door"	"Original Translation
 zh_CN: 风化铜门
-zh_TW: 風化銅門"	""
+zh_TW: 風化銅門"	"鏽刻銅門"
 "tile.weathered_copper_grate.name"	"Weathered Copper Grate"	"Original Translation
 zh_CN: 风化铜格栅
-zh_TW: 風化銅灰色爐柵"	""
+zh_TW: 風化銅灰色爐柵"	"鏽刻銅柵網"
 "tile.weathered_copper_trapdoor.name"	"Weathered Copper Trapdoor"	"Original Translation
 zh_CN: 风化铜活板门
-zh_TW: 風化銅地板門"	""
+zh_TW: 風化銅地板門"	"鏽刻銅窖門"
 "tile.weathered_cut_copper.name"	"Weathered Cut Copper"	"Original Translation
 zh_CN: 风化切制铜块
-zh_TW: 風化的切製銅方塊"	""
+zh_TW: 風化的切製銅方塊"	"鏽刻割銅塊"
 "tile.weathered_cut_copper_slab.name"	"Weathered Cut Copper Slab"	"Original Translation
 zh_CN: 风化切制铜块台阶
-zh_TW: 風化的切製銅半磚"	""
+zh_TW: 風化的切製銅半磚"	"鏽刻割銅版"
 "tile.weathered_cut_copper_stairs.name"	"Weathered Cut Copper Stairs"	"Original Translation
 zh_CN: 风化切制铜楼梯
-zh_TW: 風化的切製銅階梯"	""
+zh_TW: 風化的切製銅階梯"	"鏽刻割銅階"
 "tile.web.name"	"Cobweb"	"Original Translation
 zh_CN: 蜘蛛网
 zh_TW: 蜘蛛網"	""
 "tile.weeping_vines.name"	"Weeping Vines"	"Original Translation
 zh_CN: 垂泪藤
-zh_TW: 哭泣藤蔓"	""
+zh_TW: 哭泣藤蔓"	"垂泣藤"
 "tile.wheat.name"	"Crops"	"Original Translation
 zh_CN: 农作物
-zh_TW: 作物"	""
+zh_TW: 作物"	"麥禾"
 "tile.white_candle.name"	"White Candle"	"Original Translation
 zh_CN: 白色蜡烛
-zh_TW: 白色蠟燭"	""
+zh_TW: 白色蠟燭"	"白燭"
 "tile.white_candle_cake.name"	"Cake with White Candle"	"Original Translation
 zh_CN: 带白色蜡烛的蛋糕
-zh_TW: 蛋糕與白色蠟燭"	""
+zh_TW: 蛋糕與白色蠟燭"	"白燭之洋糕"
 "tile.wildflowers.name"	"Wildflowers"	"Original Translation
 zh_CN: 野花
 zh_TW: 野花"	""
@@ -51701,124 +51701,124 @@ zh_CN: 凋零玫瑰
 zh_TW: 凋靈玫瑰"	""
 "tile.wood.acacia.name"	"Acacia Wood"	"Original Translation
 zh_CN: 金合欢木
-zh_TW: 相思樹木頭"	""
+zh_TW: 相思樹木頭"	"㭜木"
 "tile.wood.birch.name"	"Birch Wood"	"Original Translation
 zh_CN: 白桦木
-zh_TW: 樺樹木頭"	""
+zh_TW: 樺樹木頭"	"樺木"
 "tile.wood.dark_oak.name"	"Dark Oak Wood"	"Original Translation
 zh_CN: 深色橡木
-zh_TW: 黑橡樹木頭"	""
+zh_TW: 黑橡樹木頭"	"黯柞木"
 "tile.wood.jungle.name"	"Jungle Wood"	"Original Translation
 zh_CN: 丛林木
-zh_TW: 叢林木頭"	""
+zh_TW: 叢林木頭"	"叢莽木"
 "tile.wood.oak.name"	"Oak Wood"	"Original Translation
 zh_CN: 橡木
-zh_TW: 橡樹木頭"	""
+zh_TW: 橡樹木頭"	"柞木"
 "tile.wood.spruce.name"	"Spruce Wood"	"Original Translation
 zh_CN: 云杉木
-zh_TW: 杉樹木頭"	""
+zh_TW: 杉樹木頭"	"樅木"
 "tile.wood.stripped.acacia.name"	"Stripped Acacia Wood"	"Original Translation
 zh_CN: 去皮金合欢木
-zh_TW: 剝皮相思樹木頭"	""
+zh_TW: 剝皮相思樹木頭"	"既扡㭜木"
 "tile.wood.stripped.birch.name"	"Stripped Birch Wood"	"Original Translation
 zh_CN: 去皮白桦木
-zh_TW: 剝皮樺樹木頭"	""
+zh_TW: 剝皮樺樹木頭"	"既扡樺木"
 "tile.wood.stripped.dark_oak.name"	"Stripped Dark Oak Wood"	"Original Translation
 zh_CN: 去皮深色橡木
-zh_TW: 剝皮黑橡樹木頭"	""
+zh_TW: 剝皮黑橡樹木頭"	"既扡黯柞木"
 "tile.wood.stripped.jungle.name"	"Stripped Jungle Wood"	"Original Translation
 zh_CN: 去皮丛林木
-zh_TW: 剝皮叢林木頭"	""
+zh_TW: 剝皮叢林木頭"	"既扡叢莽木"
 "tile.wood.stripped.oak.name"	"Stripped Oak Wood"	"Original Translation
 zh_CN: 去皮橡木
-zh_TW: 剝皮橡樹木頭"	""
+zh_TW: 剝皮橡樹木頭"	"既扡柞木"
 "tile.wood.stripped.spruce.name"	"Stripped Spruce Wood"	"Original Translation
 zh_CN: 去皮云杉木
-zh_TW: 剝皮杉樹木頭"	""
+zh_TW: 剝皮杉樹木頭"	"既扡樅木"
 "tile.wooden_button.name"	"Oak Button"	"Original Translation
 zh_CN: 橡木按钮
-zh_TW: 橡木按鈕"	""
+zh_TW: 橡木按鈕"	"柞鈕"
 "tile.wooden_pressure_plate.name"	"Oak Pressure Plate"	"Original Translation
 zh_CN: 橡木压力板
-zh_TW: 橡木壓板"	""
+zh_TW: 橡木壓板"	"柞踏板"
 "tile.wooden_slab.acacia.name"	"Acacia Slab"	"Original Translation
 zh_CN: 金合欢木台阶
-zh_TW: 相思木板"	""
+zh_TW: 相思木板"	"㭜版"
 "tile.wooden_slab.big_oak.name"	"Dark Oak Slab"	"Original Translation
 zh_CN: 深色橡木台阶
-zh_TW: 黑橡木板"	""
+zh_TW: 黑橡木板"	"黯柞版"
 "tile.wooden_slab.birch.name"	"Birch Slab"	"Original Translation
 zh_CN: 白桦木台阶
-zh_TW: 樺木板"	""
+zh_TW: 樺木板"	"樺版"
 "tile.wooden_slab.jungle.name"	"Jungle Slab"	"Original Translation
 zh_CN: 丛林木台阶
-zh_TW: 叢林木板"	""
+zh_TW: 叢林木板"	"叢莽版"
 "tile.wooden_slab.name"	"Wood Slab"	"Original Translation
 zh_CN: 木台阶
 zh_TW: 木板"	""
 "tile.wooden_slab.oak.name"	"Oak Slab"	"Original Translation
 zh_CN: 橡木台阶
-zh_TW: 橡木板"	""
+zh_TW: 橡木板"	"柞版"
 "tile.wooden_slab.spruce.name"	"Spruce Slab"	"Original Translation
 zh_CN: 云杉木台阶
-zh_TW: 杉木板"	""
+zh_TW: 杉木板"	"樅版"
 "tile.wool.black.name"	"Black Wool"	"Original Translation
 zh_CN: 黑色羊毛
-zh_TW: 黑色羊毛"	""
+zh_TW: 黑色羊毛"	"黑羊毛"
 "tile.wool.blue.name"	"Blue Wool"	"Original Translation
 zh_CN: 蓝色羊毛
-zh_TW: 藍色羊毛"	""
+zh_TW: 藍色羊毛"	"靛羊毛"
 "tile.wool.brown.name"	"Brown Wool"	"Original Translation
 zh_CN: 棕色羊毛
-zh_TW: 棕色羊毛"	""
+zh_TW: 棕色羊毛"	"褐羊毛"
 "tile.wool.cyan.name"	"Cyan Wool"	"Original Translation
 zh_CN: 青色羊毛
-zh_TW: 青綠色羊毛"	""
+zh_TW: 青綠色羊毛"	"黛羊毛"
 "tile.wool.gray.name"	"Gray Wool"	"Original Translation
 zh_CN: 灰色羊毛
-zh_TW: 灰色羊毛"	""
+zh_TW: 灰色羊毛"	"灰羊毛"
 "tile.wool.green.name"	"Green Wool"	"Original Translation
 zh_CN: 绿色羊毛
-zh_TW: 綠色羊毛"	""
+zh_TW: 綠色羊毛"	"綠羊毛"
 "tile.wool.lightBlue.name"	"Light Blue Wool"	"Original Translation
 zh_CN: 淡蓝色羊毛
-zh_TW: 淺藍色羊毛"	""
+zh_TW: 淺藍色羊毛"	"縹羊毛"
 "tile.wool.lime.name"	"Lime Wool"	"Original Translation
 zh_CN: 黄绿色羊毛
-zh_TW: 淡黃綠色羊毛"	""
+zh_TW: 淡黃綠色羊毛"	"翠羊毛"
 "tile.wool.magenta.name"	"Magenta Wool"	"Original Translation
 zh_CN: 品红色羊毛
-zh_TW: 洋紅色羊毛"	""
+zh_TW: 洋紅色羊毛"	"赬羊毛"
 "tile.wool.name"	"Wool"	"Original Translation
 zh_CN: 羊毛
-zh_TW: 羊毛"	""
+zh_TW: 羊毛"	"羊毛"
 "tile.wool.orange.name"	"Orange Wool"	"Original Translation
 zh_CN: 橙色羊毛
-zh_TW: 橙色羊毛"	""
+zh_TW: 橙色羊毛"	"橙羊毛"
 "tile.wool.pink.name"	"Pink Wool"	"Original Translation
 zh_CN: 粉红色羊毛
-zh_TW: 粉紅色羊毛"	""
+zh_TW: 粉紅色羊毛"	"紅羊毛"
 "tile.wool.purple.name"	"Purple Wool"	"Original Translation
 zh_CN: 紫色羊毛
-zh_TW: 紫色羊毛"	""
+zh_TW: 紫色羊毛"	"紫羊毛"
 "tile.wool.red.name"	"Red Wool"	"Original Translation
 zh_CN: 红色羊毛
-zh_TW: 紅色羊毛"	""
+zh_TW: 紅色羊毛"	"赤羊毛"
 "tile.wool.silver.name"	"Light Gray Wool"	"Original Translation
 zh_CN: 淡灰色羊毛
-zh_TW: 淺灰色羊毛"	""
+zh_TW: 淺灰色羊毛"	"蒼羊毛"
 "tile.wool.white.name"	"White Wool"	"Original Translation
 zh_CN: 白色羊毛
-zh_TW: 白色羊毛"	""
+zh_TW: 白色羊毛"	"白羊毛"
 "tile.wool.yellow.name"	"Yellow Wool"	"Original Translation
 zh_CN: 黄色羊毛
-zh_TW: 黃色羊毛"	""
+zh_TW: 黃色羊毛"	"黃羊毛"
 "tile.yellow_candle.name"	"Yellow Candle"	"Original Translation
 zh_CN: 黄色蜡烛
-zh_TW: 黃色蠟燭"	""
+zh_TW: 黃色蠟燭"	"黃燭"
 "tile.yellow_candle_cake.name"	"Cake with Yellow Candle"	"Original Translation
 zh_CN: 带黄色蜡烛的蛋糕
-zh_TW: 蛋糕與黃色蠟燭"	""
+zh_TW: 蛋糕與黃色蠟燭"	"黃燭之洋糕"
 "tile.yellow_flower.dandelion.name"	"Dandelion"	"Original Translation
 zh_CN: 蒲公英
 zh_TW: 蒲公英"	""
@@ -51827,82 +51827,82 @@ zh_CN: 花
 zh_TW: 花朵"	""
 "tipped_arrow.effect.awkward"	"Tipped Arrow"	"Original Translation
 zh_CN: 药箭
-zh_TW: 藥水箭"	""
+zh_TW: 藥水箭"	"藥矢"
 "tipped_arrow.effect.damageBoost"	"Arrow of Strength"	"Original Translation
 zh_CN: 力量之箭
-zh_TW: 力量箭"	""
+zh_TW: 力量箭"	"力矢"
 "tipped_arrow.effect.empty"	"Tipped Arrow"	"Original Translation
 zh_CN: 药箭
-zh_TW: 藥水箭"	""
+zh_TW: 藥水箭"	"空藥矢"
 "tipped_arrow.effect.fireResistance"	"Arrow of Fire Resistance"	"Original Translation
 zh_CN: 抗火箭
-zh_TW: 抗火箭"	""
+zh_TW: 抗火箭"	"抗火矢"
 "tipped_arrow.effect.harm"	"Arrow of Harming"	"Original Translation
 zh_CN: 伤害之箭
-zh_TW: 傷害箭"	""
+zh_TW: 傷害箭"	"瞬傷矢"
 "tipped_arrow.effect.heal"	"Arrow of Healing"	"Original Translation
 zh_CN: 治疗之箭
-zh_TW: 治療箭"	""
+zh_TW: 治療箭"	"瞬療矢"
 "tipped_arrow.effect.infested"	"Arrow of Infestation"	"Original Translation
 zh_CN: 寄生之箭
-zh_TW: 蛀蝕之箭"	""
+zh_TW: 蛀蝕之箭"	"蟫蝕矢"
 "tipped_arrow.effect.invisibility"	"Arrow of Invisibility"	"Original Translation
 zh_CN: 隐身箭
-zh_TW: 隱形箭"	""
+zh_TW: 隱形箭"	"隱矢"
 "tipped_arrow.effect.jump"	"Arrow of Leaping"	"Original Translation
 zh_CN: 跳跃箭
-zh_TW: 跳躍箭"	""
+zh_TW: 跳躍箭"	"捷矢"
 "tipped_arrow.effect.levitation"	"Arrow of Levitation"	"Original Translation
 zh_CN: 飘浮箭
-zh_TW: 漂浮箭"	""
+zh_TW: 漂浮箭"	"浮矢"
 "tipped_arrow.effect.luck"	"Arrow of Luck"	"Original Translation
 zh_CN: 幸运箭
-zh_TW: 運氣箭"	""
+zh_TW: 運氣箭"	"幸矢"
 "tipped_arrow.effect.moveSlowdown"	"Arrow of Slowness"	"Original Translation
 zh_CN: 缓慢之箭
-zh_TW: 緩慢箭"	""
+zh_TW: 緩慢箭"	"緩矢"
 "tipped_arrow.effect.moveSpeed"	"Arrow of Swiftness"	"Original Translation
 zh_CN: 迅捷之箭
-zh_TW: 迅捷箭"	""
+zh_TW: 迅捷箭"	"速矢"
 "tipped_arrow.effect.mundane"	"Tipped Arrow"	"Original Translation
 zh_CN: 药箭
-zh_TW: 藥水箭"	""
+zh_TW: 藥水箭"	"藥矢"
 "tipped_arrow.effect.nightVision"	"Arrow of Night Vision"	"Original Translation
 zh_CN: 夜视箭
-zh_TW: 夜視箭"	""
+zh_TW: 夜視箭"	"夜視矢"
 "tipped_arrow.effect.oozing"	"Arrow of Oozing"	"Original Translation
 zh_CN: 渗浆之箭
-zh_TW: 滲液之箭"	""
+zh_TW: 滲液之箭"	"滲膠矢"
 "tipped_arrow.effect.poison"	"Arrow of Poison"	"Original Translation
 zh_CN: 剧毒箭
-zh_TW: 劇毒之箭"	""
+zh_TW: 劇毒之箭"	"毒矢"
 "tipped_arrow.effect.regeneration"	"Arrow of Regeneration"	"Original Translation
 zh_CN: 再生之箭
-zh_TW: 再生箭"	""
+zh_TW: 再生箭"	"甦矢"
 "tipped_arrow.effect.slowFalling"	"Arrow of Slow Falling"	"Original Translation
 zh_CN: 缓降之箭
-zh_TW: 慢速掉落箭矢"	""
+zh_TW: 慢速掉落箭矢"	"輕矢"
 "tipped_arrow.effect.thick"	"Tipped Arrow"	"Original Translation
 zh_CN: 药箭
-zh_TW: 藥水箭"	""
+zh_TW: 藥水箭"	"藥矢"
 "tipped_arrow.effect.turtleMaster"	"Arrow of the Turtle Master"	"Original Translation
 zh_CN: 神龟之箭
-zh_TW: 海龜大師之箭"	""
+zh_TW: 海龜大師之箭"	"龜仙之矢"
 "tipped_arrow.effect.water"	"Arrow of Splashing"	"Original Translation
 zh_CN: 喷溅之箭
-zh_TW: 噴濺箭"	""
+zh_TW: 噴濺箭"	"噴矢"
 "tipped_arrow.effect.waterBreathing"	"Arrow of Water Breathing"	"Original Translation
 zh_CN: 水肺之箭
-zh_TW: 水下呼吸箭"	""
+zh_TW: 水下呼吸箭"	"水肺矢"
 "tipped_arrow.effect.weakness"	"Arrow of Weakness"	"Original Translation
 zh_CN: 虚弱之箭
-zh_TW: 虛弱箭"	""
+zh_TW: 虛弱箭"	"虛矢"
 "tipped_arrow.effect.weaving"	"Arrow of Weaving"	"Original Translation
 zh_CN: 盘丝之箭
-zh_TW: 編織之箭"	""
+zh_TW: 編織之箭"	"綴絲矢"
 "tipped_arrow.effect.windCharged"	"Arrow of Wind Charging"	"Original Translation
 zh_CN: 蓄风之箭
-zh_TW: 風能充能之箭"	""
+zh_TW: 風能充能之箭"	"厲風矢"
 "tipped_arrow.effect.wither"	"Arrow of Decay"	"Original Translation
 zh_CN: 衰变之箭
 zh_TW: 腐朽箭"	""
