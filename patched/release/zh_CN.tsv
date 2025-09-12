@@ -2047,7 +2047,7 @@ zh_CN: 代码编辑器更改
 zh_TW: 代碼編輯器變更"	"代码编辑器更改"
 "codeScreen.editor.description.aznb"	"Python Notebooks - Until January 2026"	"Original Translation
 zh_CN: Python Notebooks：至 2026 年 1 月
-zh_TW: Python Notebooks - 支援至 2026 年 1 月"	""
+zh_TW: Python Notebooks - 支援至 2026 年 1 月"	"Python Notebooks：支持到2026年1月"
 "codeScreen.editor.description.makeCode"	"MakeCode - Code in Minecraft with Blocks, Python or JavaScript!"	"Original Translation
 zh_CN: MakeCode - 在 Minecraft 中使用 Blocks、Python 或 JavaScript 进行编程！
 zh_TW: MakeCode - 使用 Blocks、Python 或 JavaScript 在 Minecraft 中寫程式！"	""
@@ -2239,7 +2239,7 @@ zh_CN: 成功从 %2$s 中获得了统计数据 %1$s
 zh_TW: 已成功取得統計項目 %1$s，玩家為 %2$s"	""
 "commands.achievement.unknownAchievement"	"Unknown achievement or statistic '%1$s'"	"Original Translation
 zh_CN: 未知的成就或统计数据 '%1$s'
-zh_TW: 未知的成就或統計 '%1$s'"	""
+zh_TW: 未知的成就或統計 '%1$s'"	"未知的成就或统计数据“%1$s”"
 "commands.agent.attack.failed"	"Agent failed to attack"	"Original Translation
 zh_CN: 代理机器人攻击失败
 zh_TW: Agent攻擊失敗"	"智能体攻击失败"
@@ -2296,16 +2296,16 @@ zh_CN: 代理机器人 getitemcount 成功
 zh_TW: Agent getitemcount成功"	"智能体成功获取物品数量"
 "commands.agent.getitemdetail.failed"	"Agent failed to getitemdetail"	"Original Translation
 zh_CN: 代理机器人 getitemdetail 失败
-zh_TW: Agent getitemdetail失敗"	""
+zh_TW: Agent getitemdetail失敗"	"智能体无法获取物品详情"
 "commands.agent.getitemdetail.success"	"Agent getitemdetail successful"	"Original Translation
 zh_CN: 代理机器人 getitemdetail 成功
-zh_TW: Agent getitemdetail成功"	""
+zh_TW: Agent getitemdetail成功"	"智能体成功获取物品详情"
 "commands.agent.getitemspace.failed"	"Agent failed to getitemspace"	"Original Translation
 zh_CN: 代理机器人 getitemspace 失败
-zh_TW: Agent getitemspace失敗"	""
+zh_TW: Agent getitemspace失敗"	"智能体无法获取槽位空间"
 "commands.agent.getitemspace.success"	"Agent getitemspace successful"	"Original Translation
 zh_CN: 代理机器人 getitemspace 成功
-zh_TW: Agent getitemspace成功"	""
+zh_TW: Agent getitemspace成功"	"智能体成功获取槽位空间"
 "commands.agent.getposition.failed"	"Agent getposition failed"	"Original Translation
 zh_CN: 代理机器人获得位置失败
 zh_TW: Agent 取得失敗"	"智能体获取位置失败"
@@ -2314,16 +2314,16 @@ zh_CN: 代理机器人获得位置成功
 zh_TW: Agent 取得成功"	"智能体获取位置成功"
 "commands.agent.inspect.failed"	"Agent failed to inspect"	"Original Translation
 zh_CN: 代理机器人检查失败
-zh_TW: Agent檢查失敗"	""
+zh_TW: Agent檢查失敗"	"智能体无法检查方块名称"
 "commands.agent.inspect.success"	"Agent inspect successful"	"Original Translation
 zh_CN: 代理机器人检查成功
-zh_TW: Agent檢查成功"	""
+zh_TW: Agent檢查成功"	"智能体成功检查方块名称"
 "commands.agent.inspectdata.failed"	"Agent failed to inspect data"	"Original Translation
 zh_CN: 代理检查数据失败
-zh_TW: Agent 檢查資料失敗"	""
+zh_TW: Agent 檢查資料失敗"	"智能体无法检查方块数据值"
 "commands.agent.inspectdata.success"	"Agent inspect data successful"	"Original Translation
 zh_CN: 代理检查数据成功
-zh_TW: Agent 檢查資料成功"	""
+zh_TW: Agent 檢查資料成功"	"智能体成功检查方块数据值"
 "commands.agent.move.failed"	"Unable to move Agent"	"Original Translation
 zh_CN: 无法移动代理机器人
 zh_TW: 無法移動Agent"	"无法移动智能体"
@@ -2377,7 +2377,7 @@ zh_CN: 启用瞄准辅助
 zh_TW: 啟用瞄準輔助"	"启用瞄准辅助"
 "commands.aimassist.error.invalidNamespace"	"Invalid aim assist preset name. Preset name should be in the format ""namespace:name"" or ""name"" (defaults to ""minecraft"" namespace)"	"Original Translation
 zh_CN: 无效的瞄准辅助预设名称。预设名称应采用“命名空间：名称”或“名称“的格式（默认为“minecraft”命名空间）
-zh_TW: 輔助瞄準預設名稱無效。預設名稱應採用 “namespace:name” 或 “name” 格式 (預設為 “minecraft” 命名空間)"	""
+zh_TW: 輔助瞄準預設名稱無效。預設名稱應採用 “namespace:name” 或 “name” 格式 (預設為 “minecraft” 命名空間)"	"无效的瞄准辅助预设名称。预设名称应使用“namespace:name”或“name“的格式（默认为“minecraft”命名空间）"
 "commands.aimassist.error.unknownPreset"	"Unknown aim assist preset name"	"Original Translation
 zh_CN: 未知的瞄准辅助预设名称
 zh_TW: 未知的輔助瞄準預設名稱"	"未知的瞄准辅助预设名称"
