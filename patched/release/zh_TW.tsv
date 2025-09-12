@@ -145,49 +145,49 @@ zh_CN: 已指派 %s 表情
 zh_TW: 已分配 %s 表情"	"已分配 %s 表情"
 "accessibility.emotes.exitEmotesInstruction.gamepad"	"Press the %s to change emotes or %s to exit."	"Original Translation
 zh_CN: 按下 %s 更改表情或按下 %s 退出。
-zh_TW: 按下 %s 可更換表情動作，或按下 %s 可退出。"	"按下 %s 可更換表情動作，或按下 %s 可退出。"
+zh_TW: 按下 %s 可更換表情動作，或按下 %s 可退出。"	"按下 %s 可更換表情，或按下 %s 可退出。"
 "accessibility.emotes.exitEmotesInstruction.keyboard"	"Press %s to access the Change Emotes button or %s to exit."	"Original Translation
 zh_CN: 按下 %s 访问更改表情按钮或按下 %s 退出。
-zh_TW: 按下 %s 可開啟「更換表情動作」按鈕，或按下 %s 可退出。"	"按下 %s 可開啟更換表情動作按鈕，或按下 %s 可退出。"
+zh_TW: 按下 %s 可開啟「更換表情動作」按鈕，或按下 %s 可退出。"	"按下 %s 可開啟改變表情按鈕，或按下 %s 可退出。"
 "accessibility.emotes.hovered"	"%s, emote button %d, %d of %d"	"Original Translation
 zh_CN: %s，表情按钮 %d，%d 的 %d
-zh_TW: %s、表情符號按鈕 %d、%d/%d"	""
+zh_TW: %s、表情符號按鈕 %d、%d/%d"	"%s，表情按鈕 %d，第 %d 個，共 %d 個"
 "accessibility.emotes.instruction"	"Press %s, %s, %s, or %s, to play emotes."	"Original Translation
 zh_CN: 按下 %s、%s、%s 或 %s 以播放表情。
-zh_TW: 按下 %s、%s、%s 或 %s 來使用表情動作。"	""
+zh_TW: 按下 %s、%s、%s 或 %s 來使用表情動作。"	"按下 %s、%s、%s 或 %s 來播放表情。"
 "accessibility.emotes.playFailed"	"No emote assigned to this button."	"Original Translation
 zh_CN: 此按钮没有指派表情。
-zh_TW: 此按鈕尚未指定任何表情動作。"	""
+zh_TW: 此按鈕尚未指定任何表情動作。"	"此按鈕尚未指定任何表情。"
 "accessibility.emotes.playSuccess"	"Play emote"	"Original Translation
 zh_CN: 播放表情
-zh_TW: 播放表情"	""
+zh_TW: 播放表情"	"播放表情"
 "accessibility.emotes.unassigned"	"Unassigned"	"Original Translation
 zh_CN: 未指派
-zh_TW: 未分配"	""
+zh_TW: 未分配"	"未分配"
 "accessibility.enableTTS"	"Text To Speech enabled"	"Original Translation
 zh_CN: 文本转语音已启用
-zh_TW: 文字轉換語音已啟用"	""
+zh_TW: 文字轉換語音已啟用"	"文字轉換語音已啟用"
 "accessibility.fullprice"	"Full Price %s Minecoins"	"Original Translation
 zh_CN: 全价 %s Minecoin
-zh_TW: 原價 %s 錢幣"	""
+zh_TW: 原價 %s 錢幣"	"原價 %s Minecoin"
 "accessibility.game.playerView"	"Player view"	"Original Translation
 zh_CN: 玩家视图
-zh_TW: 玩家視野"	""
+zh_TW: 玩家視野"	"玩家檢視"
 "accessibility.gamepad.bumper.left"	"Left Bumper"	"Original Translation
 zh_CN: 左缓冲键
-zh_TW: LB 鍵"	""
+zh_TW: LB 鍵"	"LB 鍵"
 "accessibility.gamepad.bumper.right"	"Right Bumper"	"Original Translation
 zh_CN: 右缓冲键
-zh_TW: RB 鍵"	""
+zh_TW: RB 鍵"	"RB 鍵"
 "accessibility.gamepad.button.systemLeft"	"View Button"	"Original Translation
 zh_CN: “视图”按钮
-zh_TW: 視圖按鈕"	""
+zh_TW: 視圖按鈕"	"檢視按鈕"
 "accessibility.gamepad.button.systemRight"	"Menu Button"	"Original Translation
 zh_CN: “菜单”按钮
-zh_TW: 選項按鈕"	""
+zh_TW: 選項按鈕"	"選單按鍵"
 "accessibility.gamepad.dpad.down"	"D-Pad Down"	"Original Translation
 zh_CN: 方向键下
-zh_TW: 下方向鍵"	""
+zh_TW: 下方向鍵"	"下方向鍵"
 "accessibility.gamepad.dpad.left"	"D-Pad Left"	"Original Translation
 zh_CN: 方向键左
 zh_TW: 左方向鍵"	""
@@ -8794,7 +8794,7 @@ zh_CN: 点按以选择
 zh_TW: 按下以選取"	""
 "emotes.change_emotes"	"Change Emotes"	"Original Translation
 zh_CN: 更改表情
-zh_TW: 改變表情"	""
+zh_TW: 改變表情"	"改變表情"
 "emotes.emotes_instructions_general"	"Use hot Key or Mouse to activate Emote"	"Original Translation
 zh_CN: 使用热键或鼠标激活表情
 zh_TW: 使用熱鍵或滑鼠啟動表情符號"	""
