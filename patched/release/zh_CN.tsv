@@ -1771,7 +1771,7 @@ zh_CN: 字体颜色
 zh_TW: 字型顏色"	"字体颜色"
 "chat.settings.fontSize"	"Size: %s"	"Original Translation
 zh_CN: 大小：%s
-zh_TW: 大小：%s"	"字号：%s"
+zh_TW: 大小：%s"	"大小：%s"
 "chat.settings.fontSize.disabled"	"Size: Available with %s"	"Original Translation
 zh_CN: 大小：%s 时可用
 zh_TW: 大小：於 %s 提供"	"字号：字体为%s时可用"
@@ -2242,16 +2242,16 @@ zh_CN: 未知的成就或统计数据 '%1$s'
 zh_TW: 未知的成就或統計 '%1$s'"	""
 "commands.agent.attack.failed"	"Agent failed to attack"	"Original Translation
 zh_CN: 代理机器人攻击失败
-zh_TW: Agent攻擊失敗"	""
+zh_TW: Agent攻擊失敗"	"智能体攻击失败"
 "commands.agent.attack.success"	"Agent attack successful"	"Original Translation
 zh_CN: 代理机器人攻击成功
-zh_TW: Agent攻擊成功"	""
+zh_TW: Agent攻擊成功"	"智能体攻击成功"
 "commands.agent.collect.failed"	"Agent failed to collect"	"Original Translation
 zh_CN: 代理机器人收集失败
-zh_TW: Agent收集失敗"	""
+zh_TW: Agent收集失敗"	"智能体收集失败"
 "commands.agent.collect.success"	"Agent collect successful"	"Original Translation
 zh_CN: 代理机器人收集成功
-zh_TW: Agent收集成功"	""
+zh_TW: Agent收集成功"	"智能体收集成功"
 "commands.agent.createagent.failed"	"Unable to create Agent"	"Original Translation
 zh_CN: 无法创建代理机器人
 zh_TW: 無法建立Agent"	"无法创建智能体"
@@ -2260,34 +2260,34 @@ zh_CN: 已创建代理机器人
 zh_TW: 已建立Agent"	"已创建智能体"
 "commands.agent.destroy.failed"	"Agent destroy failed"	"Original Translation
 zh_CN: 代理机器人摧毁失败
-zh_TW: Agent破壞失敗"	""
+zh_TW: Agent破壞失敗"	"智能体摧毁方块失败"
 "commands.agent.destroy.success"	"Agent destroyed a block"	"Original Translation
 zh_CN: 代理机器人摧毁了一个方块
-zh_TW: Agent已破壞一方塊"	""
+zh_TW: Agent已破壞一方塊"	"智能体已摧毁方块"
 "commands.agent.detect.failed"	"Agent failed to detect"	"Original Translation
 zh_CN: 代理机器人探测失败
-zh_TW: Agent偵測失敗"	""
+zh_TW: Agent偵測失敗"	"智能体检测方块失败"
 "commands.agent.detect.success"	"Agent detect successful"	"Original Translation
 zh_CN: 代理机器人探测成功
-zh_TW: Agent偵測成功"	""
+zh_TW: Agent偵測成功"	"智能体检测方块成功"
 "commands.agent.detectredstone.failed"	"Agent failed to detectredstone"	"Original Translation
 zh_CN: 代理机器人 detectredstone 失败
-zh_TW: Agent detectredstone失敗"	""
+zh_TW: Agent detectredstone失敗"	"智能体无法检测红石信号"
 "commands.agent.detectredstone.success"	"Agent detectredstone successful"	"Original Translation
 zh_CN: 代理机器人 detectredstone 成功
-zh_TW: Agent detectredstone成功"	""
+zh_TW: Agent detectredstone成功"	"智能体成功检测红石信号"
 "commands.agent.drop.failed"	"Agent failed to drop"	"Original Translation
 zh_CN: 代理机器人掉落失败
-zh_TW: Agent掉物失敗"	""
+zh_TW: Agent掉物失敗"	"智能体丢弃物品失败"
 "commands.agent.drop.success"	"Agent drop successful"	"Original Translation
 zh_CN: 代理机器人掉落成功
-zh_TW: Agent掉物成功"	""
+zh_TW: Agent掉物成功"	"智能体丢弃物品成功"
 "commands.agent.dropall.failed"	"Agent failed to dropall"	"Original Translation
 zh_CN: 代理机器人 dropall 失败
-zh_TW: Agent dropall失敗"	""
+zh_TW: Agent dropall失敗"	"智能体无法丢弃所有物品"
 "commands.agent.dropall.success"	"Agent dropall successful"	"Original Translation
 zh_CN: 代理机器人 dropall 成功
-zh_TW: Agent dropall成功"	""
+zh_TW: Agent dropall成功"	"智能体成功丢弃所有物品"
 "commands.agent.getitemcount.failed"	"Agent failed to getitemcount"	"Original Translation
 zh_CN: 代理机器人 getitemcount 失败
 zh_TW: Agent getitemcount失敗"	""
@@ -2308,10 +2308,10 @@ zh_CN: 代理机器人 getitemspace 成功
 zh_TW: Agent getitemspace成功"	""
 "commands.agent.getposition.failed"	"Agent getposition failed"	"Original Translation
 zh_CN: 代理机器人获得位置失败
-zh_TW: Agent 取得失敗"	""
+zh_TW: Agent 取得失敗"	"智能体获取位置失败"
 "commands.agent.getposition.success"	"Agent getposition successful"	"Original Translation
 zh_CN: 代理机器人获得位置成功
-zh_TW: Agent 取得成功"	""
+zh_TW: Agent 取得成功"	"智能体获取位置成功"
 "commands.agent.inspect.failed"	"Agent failed to inspect"	"Original Translation
 zh_CN: 代理机器人检查失败
 zh_TW: Agent檢查失敗"	""
@@ -2326,52 +2326,52 @@ zh_CN: 代理检查数据成功
 zh_TW: Agent 檢查資料成功"	""
 "commands.agent.move.failed"	"Unable to move Agent"	"Original Translation
 zh_CN: 无法移动代理机器人
-zh_TW: 無法移動Agent"	""
+zh_TW: 無法移動Agent"	"无法移动智能体"
 "commands.agent.move.success"	"Agent move successful"	"Original Translation
 zh_CN: 代理机器人移动成功
-zh_TW: Agent移動成功"	""
+zh_TW: Agent移動成功"	"智能体移动成功"
 "commands.agent.outofrange"	"Cannot issue command, Agent is out of range"	"Original Translation
 zh_CN: 无法发出命令，代理机器人超出范围
 zh_TW: 無法發出指令，Agent超出範圍"	""
 "commands.agent.place.failed"	"Agent failed to place"	"Original Translation
 zh_CN: 代理机器人放置失败
-zh_TW: Agent放置失敗"	""
+zh_TW: Agent放置失敗"	"智能体放置失败"
 "commands.agent.place.success"	"Agent place successful"	"Original Translation
 zh_CN: 代理机器人放置成功
-zh_TW: Agent放置成功"	""
+zh_TW: Agent放置成功"	"智能体放置成功"
 "commands.agent.setitem.failed"	"Agent failed to set item"	"Original Translation
 zh_CN: 代理机器人设置物品失败
-zh_TW: Agent 無法設定物品"	""
+zh_TW: Agent 無法設定物品"	"智能体设置物品失败"
 "commands.agent.setitem.success"	"Agent set item successful"	"Original Translation
 zh_CN: 代理机器人设置物品成功
-zh_TW: Agent 設定物品成功"	""
+zh_TW: Agent 設定物品成功"	"智能体设置物品成功"
 "commands.agent.till.failed"	"Agent failed to till"	"Original Translation
 zh_CN: 代理机器人耕种失败
-zh_TW: Agent耕耘失敗"	""
+zh_TW: Agent耕耘失敗"	"智能体锄地失败"
 "commands.agent.till.success"	"Agent till successful"	"Original Translation
 zh_CN: 代理机器人耕种成功
-zh_TW: Agent耕耘成功"	""
+zh_TW: Agent耕耘成功"	"智能体锄地成功"
 "commands.agent.tpagent.description"	"Teleport your Agent."	"Original Translation
 zh_CN: 传送您的代理机器人。
-zh_TW: 傳送你的 Agent。"	""
+zh_TW: 傳送你的 Agent。"	"传送你的智能体。"
 "commands.agent.tpagent.failed"	"Agent failed to teleport"	"Original Translation
 zh_CN: 代理机器人传送失败
-zh_TW: Agent傳送失敗"	""
+zh_TW: Agent傳送失敗"	"智能体传送失败"
 "commands.agent.tpagent.success"	"Agent teleported"	"Original Translation
 zh_CN: 代理机器人已传送
-zh_TW: Agent已傳送"	""
+zh_TW: Agent已傳送"	"智能体已传送"
 "commands.agent.transfer.failed"	"Agent failed to transfer"	"Original Translation
 zh_CN: 代理机器人转移失败
-zh_TW: Agent轉移失敗"	""
+zh_TW: Agent轉移失敗"	"智能体转移物品失败"
 "commands.agent.transfer.success"	"Agent transfer successful"	"Original Translation
 zh_CN: 代理机器人转移成功
-zh_TW: Agent轉移成功"	""
+zh_TW: Agent轉移成功"	"智能体转移物品成功"
 "commands.agent.turn.failed"	"Unable to turn Agent"	"Original Translation
 zh_CN: 无法转动代理机器人
-zh_TW: 無法將Agent轉向"	""
+zh_TW: 無法將Agent轉向"	"无法转动智能体"
 "commands.agent.turn.success"	"Agent turn successful"	"Original Translation
 zh_CN: 代理机器人转动成功
-zh_TW: Agent轉向成功"	""
+zh_TW: Agent轉向成功"	"智能体转动成功"
 "commands.aimassist.description"	"Enable Aim Assist"	"Original Translation
 zh_CN: 启用瞄准辅助
 zh_TW: 啟用瞄準輔助"	"启用瞄准辅助"
@@ -7831,7 +7831,7 @@ zh_CN: 《我的世界》黄绿色
 zh_TW: Minecraft 淡黃綠色"	""
 "dr.color.minecraft_magenta"	"Minecraft Magenta"	"Original Translation
 zh_CN: 《我的世界》品红色
-zh_TW: Minecraft 洋紅色"	""
+zh_TW: Minecraft 洋紅色"	"品红色"
 "dr.color.minecraft_orange"	"Minecraft Orange"	"Original Translation
 zh_CN: 《我的世界》橙色
 zh_TW: Minecraft 橙色"	""
@@ -7870,7 +7870,7 @@ zh_CN: 柔和金色
 zh_TW: 柔和的金色"	""
 "dr.color.soft_magenta"	"Soft Magenta"	"Original Translation
 zh_CN: 柔和品红色
-zh_TW: 柔和洋紅色"	""
+zh_TW: 柔和洋紅色"	"柔和品红色"
 "dr.color.very_dark_cool"	"Very Dark - Cool"	"Original Translation
 zh_CN: 极深色 - 冷色
 zh_TW: 非常深 - 冷色"	""
@@ -35262,7 +35262,7 @@ zh_CN: 显示区块地图
 zh_TW: 呈現區塊地圖"	""
 "options.dev_showDevConsoleButton"	"Show dev console button"	"Original Translation
 zh_CN: 显示开发控制台按钮
-zh_TW: 顯示開發控制台按鈕"	""
+zh_TW: 顯示開發控制台按鈕"	"显示开发者控制台按钮"
 "options.dev_showDiscoveryOverridePanel"	"Override Service Endpoints"	"Original Translation
 zh_CN: 覆盖服务端点
 zh_TW: 覆寫服務端點"	""
@@ -42705,7 +42705,7 @@ zh_CN: 打开聊天窗口以发送消息或使用命令。
 zh_TW: 開啟聊天視窗以傳送訊息或使用指令。"	""
 "resourcePack.editor.toolMode.keyBinding.devConsole"	"Open Dev Console"	"Original Translation
 zh_CN: 打开开发控制台
-zh_TW: 開啟開發人員主控台"	""
+zh_TW: 開啟開發人員主控台"	"打开开发者控制台"
 "resourcePack.editor.toolMode.keyBinding.hotbar1.title"	"Select Hotbar 1"	"Original Translation
 zh_CN: 选择快捷栏 1
 zh_TW: 選取快捷列 1"	""
