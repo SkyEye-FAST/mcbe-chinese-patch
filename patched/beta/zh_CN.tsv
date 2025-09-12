@@ -2243,7 +2243,7 @@ zh_CN: 成功从 %2$s 中获得了统计数据 %1$s
 zh_TW: 已成功取得統計項目 %1$s，玩家為 %2$s"	""
 "commands.achievement.unknownAchievement"	"Unknown achievement or statistic '%1$s'"	"Original Translation
 zh_CN: 未知的成就或统计数据 '%1$s'
-zh_TW: 未知的成就或統計 '%1$s'"	"未知的成就或统计数据“%1$s”"
+zh_TW: 未知的成就或統計 '%1$s'"	"未知的成就或统计信息“%1$s”"
 "commands.agent.attack.failed"	"Agent failed to attack"	"Original Translation
 zh_CN: 代理机器人攻击失败
 zh_TW: Agent攻擊失敗"	"智能体攻击失败"
