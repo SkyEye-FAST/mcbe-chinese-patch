@@ -257,22 +257,19 @@ def build_key_to_source_mapping(extracted_dir: Path, branch: str, lang_code: str
     for subdir in reversed(search_order):
         lang_file = search_base / subdir / f"{lang_code}.lang"
         if lang_file.exists():
-            try:
-                content = lang_file.read_text(encoding="utf-8")
-                source_path = f"resource_packs/{subdir}/texts/{lang_code}.lang"
+            content = lang_file.read_text(encoding="utf-8")
+            source_path = f"resource_packs/{subdir}/texts/{lang_code}.lang"
 
-                for line in content.splitlines():
-                    line = line.strip()
-                    if not line or line.startswith("##"):
-                        continue
+            for line in content.splitlines():
+                line = line.strip()
+                if not line or line.startswith("##"):
+                    continue
 
-                    equal_index = line.find("=")
-                    if equal_index > 0:
-                        key = line[:equal_index].strip()
-                        if key not in key_to_source:
-                            key_to_source[key] = source_path
-            except Exception:
-                continue
+                equal_index = line.find("=")
+                if equal_index > 0:
+                    key = line[:equal_index].strip()
+                    if key not in key_to_source:
+                        key_to_source[key] = source_path
 
     return key_to_source
 
