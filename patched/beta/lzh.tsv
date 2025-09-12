@@ -48837,10 +48837,10 @@ zh_CN: 砂土
 zh_TW: 粗泥"	""
 "tile.dirt.default.name"	"Dirt"	"Original Translation
 zh_CN: 泥土
-zh_TW: 泥土"	""
+zh_TW: 泥土"	"土"
 "tile.dirt.name"	"Dirt"	"Original Translation
 zh_CN: 泥土
-zh_TW: 泥土"	""
+zh_TW: 泥土"	"土"
 "tile.dirt_with_roots.name"	"Rooted Dirt"	"Original Translation
 zh_CN: 缠根泥土
 zh_TW: 纏根泥土"	""
@@ -51303,7 +51303,7 @@ zh_CN: 诡异疣方块
 zh_TW: 扭曲疙瘩塊"	""
 "tile.water.name"	"Water"	"Original Translation
 zh_CN: 水
-zh_TW: 水"	""
+zh_TW: 水"	"水"
 "tile.waterlily.name"	"Lily Pad"	"Original Translation
 zh_CN: 睡莲
 zh_TW: 睡蓮"	""
@@ -52344,91 +52344,91 @@ zh_CN: 哪个试用版世界？
 zh_TW: 要選擇哪個教學用世界？"	""
 "trim_material.amethyst.name"	"Amethyst Material"	"Original Translation
 zh_CN: 紫水晶材料
-zh_TW: 紫水晶材料"	""
+zh_TW: 紫水晶材料"	"紫水玉質"
 "trim_material.copper.name"	"Copper Material"	"Original Translation
 zh_CN: 铜材料
-zh_TW: 銅材料"	""
+zh_TW: 銅材料"	"銅質"
 "trim_material.diamond.name"	"Diamond Material"	"Original Translation
 zh_CN: 钻石材料
-zh_TW: 鑽石材料"	""
+zh_TW: 鑽石材料"	"金剛石質"
 "trim_material.emerald.name"	"Emerald Material"	"Original Translation
 zh_CN: 绿宝石材料
-zh_TW: 翡翠材料"	""
+zh_TW: 翡翠材料"	"祖母綠質"
 "trim_material.gold.name"	"Gold Material"	"Original Translation
 zh_CN: 黄金材料
-zh_TW: 黃金材料"	""
+zh_TW: 黃金材料"	"金質"
 "trim_material.iron.name"	"Iron Material"	"Original Translation
 zh_CN: 铁材料
-zh_TW: 鐵材料"	""
+zh_TW: 鐵材料"	"鐵質"
 "trim_material.lapis.name"	"Lapis Material"	"Original Translation
 zh_CN: 青金石材料
-zh_TW: 青金石材料"	""
+zh_TW: 青金石材料"	"群青質"
 "trim_material.netherite.name"	"Netherite Material"	"Original Translation
 zh_CN: 下界合金材料
-zh_TW: 獄髓材料"	""
+zh_TW: 獄髓材料"	"玄鈺質"
 "trim_material.quartz.name"	"Quartz Material"	"Original Translation
 zh_CN: 石英材料
-zh_TW: 石英材料"	""
+zh_TW: 石英材料"	"石英質"
 "trim_material.redstone.name"	"Redstone Material"	"Original Translation
 zh_CN: 红石材料
-zh_TW: 紅石材料"	""
+zh_TW: 紅石材料"	"赤石質"
 "trim_material.resin.name"	"Resin Material"	"Original Translation
 zh_CN: 树脂材料
-zh_TW: 樹脂材料"	""
+zh_TW: 樹脂材料"	"樹香質"
 "trim_pattern.bolt.name"	"Bolt Armor Trim"	"Original Translation
 zh_CN: 镶铆盔甲纹饰
-zh_TW: 閃電紋飾護甲"	""
+zh_TW: 閃電紋飾護甲"	"榫卯甲紋"
 "trim_pattern.coast.name"	"Coast Armor Trim"	"Original Translation
 zh_CN: 海岸纹饰盔甲
-zh_TW: 海岸紋飾護甲"	""
+zh_TW: 海岸紋飾護甲"	"邊海甲紋"
 "trim_pattern.dune.name"	"Dune Armor Trim"	"Original Translation
 zh_CN: 沙丘纹饰盔甲
-zh_TW: 沙丘紋飾護甲"	""
+zh_TW: 沙丘紋飾護甲"	"沙墩甲紋"
 "trim_pattern.eye.name"	"Eye Armor Trim"	"Original Translation
 zh_CN: 眼眸盔甲纹饰
-zh_TW: 眼睛紋飾護甲"	""
+zh_TW: 眼睛紋飾護甲"	"瞳眸甲紋"
 "trim_pattern.flow.name"	"Flow Armor Trim"	"Original Translation
 zh_CN: 涡流盔甲纹饰
-zh_TW: 流動紋飾護甲"	""
+zh_TW: 流動紋飾護甲"	"氣洄甲紋"
 "trim_pattern.host.name"	"Host Armor Trim"	"Original Translation
 zh_CN: 主导盔甲纹饰
-zh_TW: 主宰紋飾護甲"	""
+zh_TW: 主宰紋飾護甲"	"佃東甲紋"
 "trim_pattern.raiser.name"	"Raiser Armor Trim"	"Original Translation
 zh_CN: 崛起盔甲纹饰
-zh_TW: 飼養者紋飾護甲"	""
+zh_TW: 飼養者紋飾護甲"	"牧民甲紋"
 "trim_pattern.rib.name"	"Rib Armor Trim"	"Original Translation
 zh_CN: 肋骨纹饰盔甲
-zh_TW: 肋骨紋飾護甲"	""
+zh_TW: 肋骨紋飾護甲"	"脅肋甲紋"
 "trim_pattern.sentry.name"	"Sentry Armor Trim"	"Original Translation
 zh_CN: 哨兵纹饰盔甲
-zh_TW: 哨兵紋飾護甲"	""
+zh_TW: 哨兵紋飾護甲"	"斥候甲紋"
 "trim_pattern.shaper.name"	"Shaper Armor Trim"	"Original Translation
 zh_CN: 塑形盔甲纹饰
-zh_TW: 塑形者紋飾護甲"	""
+zh_TW: 塑形者紋飾護甲"	"巧匠甲紋"
 "trim_pattern.silence.name"	"Silence Armor Trim"	"Original Translation
 zh_CN: 潜声盔甲纹饰
-zh_TW: 寂靜紋飾護甲"	""
+zh_TW: 寂靜紋飾護甲"	"寂靜甲紋"
 "trim_pattern.snout.name"	"Snout Armor Trim"	"Original Translation
 zh_CN: 猪鼻纹饰盔甲
-zh_TW: 鼻子紋飾護甲"	""
+zh_TW: 鼻子紋飾護甲"	"豕鼻甲紋"
 "trim_pattern.spire.name"	"Spire Armor Trim"	"Original Translation
 zh_CN: 尖顶纹饰盔甲
-zh_TW: 尖頂紋飾護甲"	""
+zh_TW: 尖頂紋飾護甲"	"旋塔甲紋"
 "trim_pattern.tide.name"	"Tide Armor Trim"	"Original Translation
 zh_CN: 潮汐纹饰盔甲
-zh_TW: 潮汐紋飾護甲"	""
+zh_TW: 潮汐紋飾護甲"	"潮汐甲紋"
 "trim_pattern.vex.name"	"Vex Armor Trim"	"Original Translation
 zh_CN: 恼鬼纹饰盔甲
-zh_TW: 維克絲紋飾護甲"	""
+zh_TW: 維克絲紋飾護甲"	"惱鬼甲紋"
 "trim_pattern.ward.name"	"Ward Armor Trim"	"Original Translation
 zh_CN: 监守纹饰盔甲
-zh_TW: 守衛紋飾護甲"	""
+zh_TW: 守衛紋飾護甲"	"監守甲紋"
 "trim_pattern.wayfinder.name"	"Wayfinder Armor Trim"	"Original Translation
 zh_CN: 寻路盔甲纹饰
-zh_TW: 尋路者紋飾護甲"	""
+zh_TW: 尋路者紋飾護甲"	"嚮導甲紋"
 "trim_pattern.wild.name"	"Wild Armor Trim"	"Original Translation
 zh_CN: 荒野纹饰盔甲
-zh_TW: 狂野紋飾護甲"	""
+zh_TW: 狂野紋飾護甲"	"林野甲紋"
 "tutorial.edu.menuTitle"	"Learn to Play"	"Original Translation
 zh_CN: 玩法学习
 zh_TW: 了解遊戲方式"	""

@@ -2243,10 +2243,10 @@ zh_CN: 代理机器人 dropall 成功
 zh_TW: Agent dropall成功"	"智能体成功丢弃所有物品"
 "commands.agent.getitemcount.failed"	"Agent failed to getitemcount"	"Original Translation
 zh_CN: 代理机器人 getitemcount 失败
-zh_TW: Agent getitemcount失敗"	""
+zh_TW: Agent getitemcount失敗"	"智能体无法获取物品数量"
 "commands.agent.getitemcount.success"	"Agent getitemcount successful"	"Original Translation
 zh_CN: 代理机器人 getitemcount 成功
-zh_TW: Agent getitemcount成功"	""
+zh_TW: Agent getitemcount成功"	"智能体成功获取物品数量"
 "commands.agent.getitemdetail.failed"	"Agent failed to getitemdetail"	"Original Translation
 zh_CN: 代理机器人 getitemdetail 失败
 zh_TW: Agent getitemdetail失敗"	""
