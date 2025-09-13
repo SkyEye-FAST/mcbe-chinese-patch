@@ -1552,7 +1552,7 @@ zh_CN: 您的帐户信息出错，请再次登录以继续使用多人玩家功�
 zh_TW: 您的帳戶資訊發生問題。請再次登入以繼續使用多人遊戲功能。"	""
 "authentication.toast.refreshFailed.title"	"Account"	"Original Translation
 zh_CN: 帐户
-zh_TW: 帳戶"	""
+zh_TW: 帳戶"	"戶簿"
 "authentication.trialEnded"	"Your trial of Minecraft Education is complete.%1%1Your school or organization will need to purchase a license for you to continue to use all of the features of Minecraft Education.%1%1You'll be signed out of your %2 account now and you can explore our feature-limited demo lesson."	"Original Translation
 zh_CN: 您的 Minecraft Education 试用版已结束。%1%1您的学校或组织需购买许可证才能继续使用 Minecraft Education 的所有功能。%1%1您现在将从您的 %2 账户中注销，您可以继续探索功能有限的演示课程。
 zh_TW: 你的 Minecraft Education 試用版已完畢。%1%1你的學校或組織必須購買授權，才能繼續使用 Minecraft Education 的所有功能。%1%1你現在將從你的 %2 帳戶登出，歡迎探索功能有限的體驗課程。"	""
@@ -1597,7 +1597,7 @@ zh_CN: 当您看到此图标时，我们正在保存您的游戏。当屏幕上�
 zh_TW: 畫面上顯示此圖示時，表示系統正在儲存您的遊戲，請勿在此時關閉您的 Xbox。"	""
 "autosave.title"	"Autosave"	"Original Translation
 zh_CN: 自动保存
-zh_TW: 自動儲存"	""
+zh_TW: 自動儲存"	"自存術"
 "beginnerTips.1"	"Most monsters only come out at night. During the day you're safe... probably."	"Original Translation
 zh_CN: 大多数的怪物都是昼伏夜出。白天你是安全的…大概吧。
 zh_TW: 大多數怪物都會在夜晚出沒。在白天您是安全的… 應該吧。"	""
@@ -1681,7 +1681,7 @@ zh_CN: [在此处输入书名]
 zh_TW: [在此輸入標題]"	"[題]"
 "bookAndQuill.unsignedName"	"Book"	"Original Translation
 zh_CN: 书
-zh_TW: 書本"	""
+zh_TW: 書本"	"書"
 "build.tooHigh"	"Height limit for building is %s blocks"	"Original Translation
 zh_CN: 建筑高度限制是 %s 个方块
 zh_TW: 最大建築高度限制為 %s 格"	"高之極，以%s爲限"
@@ -1708,10 +1708,10 @@ zh_CN: 坐标已复制
 zh_TW: 座標已複製"	""
 "chat.coordinateTypeFacing"	"Block Position"	"Original Translation
 zh_CN: 方块位置
-zh_TW: 方塊位置"	""
+zh_TW: 方塊位置"	"塊方之所"
 "chat.coordinateTypePosition"	"My Position"	"Original Translation
 zh_CN: 我的位置
-zh_TW: 我的位置"	""
+zh_TW: 我的位置"	"自身之所"
 "chat.coordinatesInvalid"	"Invalid Coordinates"	"Original Translation
 zh_CN: 无效坐标
 zh_TW: 無效的座標"	""
@@ -1759,7 +1759,7 @@ zh_CN: 聊天字体
 zh_TW: 聊天字型"	"論議字體"
 "chat.settings.color"	"Color"	"Original Translation
 zh_CN: 颜色
-zh_TW: 顏色"	""
+zh_TW: 顏色"	"色"
 "chat.settings.defaultChatColor"	"Default Chat Color"	"Original Translation
 zh_CN: 默认聊天颜色
 zh_TW: 預設聊天顏色"	""
@@ -1840,25 +1840,25 @@ zh_CN: 物品栏
 zh_TW: 物品欄"	""
 "chestScreen.header.small"	"Chest"	"Original Translation
 zh_CN: 箱子
-zh_TW: 箱子"	""
+zh_TW: 箱子"	"箱"
 "chooseRealmScreen.addrealmbuttontext"	"Add a Realm"	"Original Translation
 zh_CN: 添加一个 Realm
-zh_TW: 新增 Realm"	""
+zh_TW: 新增 Realm"	"新增領域"
 "chooseRealmScreen.header"	"Choose a Realm Server"	"Original Translation
 zh_CN: 选择一个 Realm 服务器
-zh_TW: 選擇 Realm 伺服器"	""
+zh_TW: 選擇 Realm 伺服器"	"擇領域伺服器"
 "chooseRealmScreen.realmsbuttontext"	"Add a 2 player Realm"	"Original Translation
 zh_CN: 添加一个 2 名用户的 Realm
-zh_TW: 新增 2 名玩家的 Realm"	""
+zh_TW: 新增 2 名玩家的 Realm"	"新雙人領域"
 "chooseRealmScreen.realmsplusbuttontext"	"Add a 10 player Realm"	"Original Translation
 zh_CN: 添加一个 10 名用户的 Realm
-zh_TW: 新增 10 名玩家的 Realm"	""
+zh_TW: 新增 10 名玩家的 Realm"	"新十人人領域"
 "classroomSettings.uriResource.header.description"	"Create a new button on the Game menu that links to an assessment tool, website, or other resource for your world."	"Original Translation
 zh_CN: 在游戏菜单上创建一个新按钮，为您的世界添加一个通往评估工具、网站或其他资源的链接。
 zh_TW: 在 [遊戲] 功能表上建立新按鈕，連結至適用於您的世界的評估工具、網站或其他資源。"	""
 "classroomSettings.uriResource.header.title"	"Resource Link"	"Original Translation
 zh_CN: 资源链接
-zh_TW: 資源連結"	""
+zh_TW: 資源連結"	"資鏈"
 "classroomSettings.uriResource.name.placeHolder"	"OPEN LINK (Default)"	"Original Translation
 zh_CN: 打开链接（默认）
 zh_TW: 開啟連結 (預設)"	""
@@ -1945,7 +1945,7 @@ zh_CN: 网络错误。请重试或与 LiveOps 联系。
 zh_TW: 網路錯誤。請重試或與 LiveOps 聯絡。"	""
 "cloud_upload.prompt.button.learn_more"	"Learn More"	"Original Translation
 zh_CN: 了解更多
-zh_TW: 瞭解更多"	""
+zh_TW: 瞭解更多"	"博問之"
 "cloud_upload.prompt.button.worlds"	"Go to Worlds"	"Original Translation
 zh_CN: 前往世界
 zh_TW: 走向世界"	""
@@ -49060,19 +49060,19 @@ zh_CN: 青色蜡烛
 zh_TW: 青綠色蠟燭"	"黛燭"
 "tile.cyan_candle_cake.name"	"Cake with Cyan Candle"	"Original Translation
 zh_CN: 带青色蜡烛的蛋糕
-zh_TW: 蛋糕與青綠色蠟燭"	""
+zh_TW: 蛋糕與青綠色蠟燭"	"黛燭之洋糕"
 "tile.darkOakFence.name"	"Dark Oak Fence"	"Original Translation
 zh_CN: 深色橡木栅栏
-zh_TW: 黑橡木柵欄"	""
+zh_TW: 黑橡木柵欄"	"黯柞檻"
 "tile.dark_oak_button.name"	"Dark Oak Button"	"Original Translation
 zh_CN: 深色橡木按钮
-zh_TW: 黑橡木按鈕"	""
+zh_TW: 黑橡木按鈕"	"黯柞鈕"
 "tile.dark_oak_fence_gate.name"	"Dark Oak Fence Gate"	"Original Translation
 zh_CN: 深色橡木栅栏门
-zh_TW: 黑橡木柵欄門"	""
+zh_TW: 黑橡木柵欄門"	"黯柞扉"
 "tile.dark_oak_pressure_plate.name"	"Dark Oak Pressure Plate"	"Original Translation
 zh_CN: 深色橡木压力板
-zh_TW: 黑橡木壓板"	""
+zh_TW: 黑橡木壓板"	"黯柞踏板"
 "tile.dark_oak_stairs.name"	"Dark Oak Stairs"	"Original Translation
 zh_CN: 深色橡木楼梯
 zh_TW: 黑橡木階梯"	""
@@ -49210,10 +49210,10 @@ zh_CN: 砖台阶
 zh_TW: 磚塊板"	""
 "tile.double_stone_slab.cobble.name"	"Cobblestone Slab"	"Original Translation
 zh_CN: 圆石台阶
-zh_TW: 鵝卵石板"	""
+zh_TW: 鵝卵石板"	"䃮版"
 "tile.double_stone_slab.name"	"Stone Slab"	"Original Translation
 zh_CN: 石台阶
-zh_TW: 石板"	""
+zh_TW: 石板"	"石復版"
 "tile.double_stone_slab.nether_brick.name"	"Nether Brick Slab"	"Original Translation
 zh_CN: 下界砖台阶
 zh_TW: 地獄磚塊板"	""
@@ -50015,31 +50015,31 @@ zh_CN: 丛林木按钮
 zh_TW: 叢林按鈕"	""
 "tile.jungle_fence_gate.name"	"Jungle Fence Gate"	"Original Translation
 zh_CN: 丛林木栅栏门
-zh_TW: 叢林木柵欄門"	""
+zh_TW: 叢林木柵欄門"	"叢莽扉"
 "tile.jungle_pressure_plate.name"	"Jungle Pressure Plate"	"Original Translation
 zh_CN: 丛林木压力板
-zh_TW: 叢林壓板"	""
+zh_TW: 叢林壓板"	"叢莽踏板"
 "tile.jungle_stairs.name"	"Jungle Stairs"	"Original Translation
 zh_CN: 丛林木楼梯
-zh_TW: 叢林階梯"	""
+zh_TW: 叢林階梯"	"叢莽階"
 "tile.jungle_standing_sign.name"	"Jungle Sign"	"Original Translation
 zh_CN: 丛林木告示牌
-zh_TW: 叢林木告示牌"	""
+zh_TW: 叢林木告示牌"	"叢莽牌"
 "tile.jungle_trapdoor.name"	"Jungle Trapdoor"	"Original Translation
 zh_CN: 丛林木活板门
-zh_TW: 叢林地板門"	""
+zh_TW: 叢林地板門"	"叢莽窖門"
 "tile.labtable.name"	"Lab Table"	"Original Translation
 zh_CN: 实验台
 zh_TW: 實驗桌"	""
 "tile.ladder.name"	"Ladder"	"Original Translation
 zh_CN: 梯子
-zh_TW: 梯子"	""
+zh_TW: 梯子"	"梯"
 "tile.lantern.name"	"Lantern"	"Original Translation
 zh_CN: 灯
-zh_TW: 燈籠"	""
+zh_TW: 燈籠"	"燈籠"
 "tile.lapis_block.name"	"Block of Lapis Lazuli"	"Original Translation
 zh_CN: 青金石块
-zh_TW: 青金石方塊"	""
+zh_TW: 青金石方塊"	"群青塊"
 "tile.lapis_ore.name"	"Lapis Lazuli Ore"	"Original Translation
 zh_CN: 青金石矿石
 zh_TW: 青金石礦石"	"群青礦"
@@ -50192,7 +50192,7 @@ zh_CN: 红树木活板门
 zh_TW: 紅樹林地板門"	"沒潮木窖門"
 "tile.mangrove_wood.name"	"Mangrove Wood"	"Original Translation
 zh_CN: 红树木木材
-zh_TW: 紅樹林木頭"	""
+zh_TW: 紅樹林木頭"	"沒潮木"
 "tile.materialreducer.name"	"Material Reducer"	"Original Translation
 zh_CN: 材料分解器
 zh_TW: 物質消除器"	""
@@ -50201,100 +50201,100 @@ zh_CN: 中型紫晶芽
 zh_TW: 中型紫水晶芽"	""
 "tile.melon_block.name"	"Melon"	"Original Translation
 zh_CN: 西瓜
-zh_TW: 西瓜"	""
+zh_TW: 西瓜"	"寒瓜"
 "tile.mob_spawner.name"	"Monster Spawner"	"Original Translation
 zh_CN: 刷怪笼
-zh_TW: 怪物產生器"	""
+zh_TW: 怪物產生器"	"孳衍籠"
 "tile.monster_egg.brick.name"	"Infested Stone Bricks"	"Original Translation
 zh_CN: 虫蚀石砖
-zh_TW: 蛀蝕石磚塊"	""
+zh_TW: 蛀蝕石磚塊"	"蟫蝕石磚"
 "tile.monster_egg.chiseledbrick.name"	"Infested Chiseled Stone Brick"	"Original Translation
 zh_CN: 被虫蚀的錾制石砖
-zh_TW: 蛀蝕鑿刻石磚塊"	""
+zh_TW: 蛀蝕鑿刻石磚塊"	"蟫蝕雕磚"
 "tile.monster_egg.cobble.name"	"Infested Cobblestone"	"Original Translation
 zh_CN: 被虫蚀的圆石
-zh_TW: 蛀蝕鵝卵石"	""
+zh_TW: 蛀蝕鵝卵石"	"蟫蝕䃮"
 "tile.monster_egg.crackedbrick.name"	"Infested Cracked Stone Brick"	"Original Translation
 zh_CN: 被虫蚀的裂纹石砖
-zh_TW: 蛀蝕裂開的石磚塊"	""
+zh_TW: 蛀蝕裂開的石磚塊"	"蟫蝕裂磚"
 "tile.monster_egg.mossybrick.name"	"Infested Mossy Stone Brick"	"Original Translation
 zh_CN: 被虫蚀的苔石砖
-zh_TW: 蛀蝕青苔石磚塊"	""
+zh_TW: 蛀蝕青苔石磚塊"	"蟫蝕苔磚"
 "tile.monster_egg.name"	"Infested Stone"	"Original Translation
 zh_CN: 被虫蚀的石头
-zh_TW: 蛀蝕石頭"	""
+zh_TW: 蛀蝕石頭"	"蟫蝕石"
 "tile.monster_egg.stone.name"	"Infested Stone"	"Original Translation
 zh_CN: 被虫蚀的石头
-zh_TW: 蛀蝕石頭"	""
+zh_TW: 蛀蝕石頭"	"蟫蝕石"
 "tile.moss_block.name"	"Moss Block"	"Original Translation
 zh_CN: 苔藓块
-zh_TW: 青苔方塊"	""
+zh_TW: 青苔方塊"	"蘚塊"
 "tile.moss_carpet.name"	"Moss Carpet"	"Original Translation
 zh_CN: 苔藓地毯
-zh_TW: 青苔地毯"	""
+zh_TW: 青苔地毯"	"地蘚"
 "tile.mossy_cobblestone.name"	"Mossy Cobblestone"	"Original Translation
 zh_CN: 苔石
-zh_TW: 青苔鵝卵石"	""
+zh_TW: 青苔鵝卵石"	"苔䃮"
 "tile.mossy_cobblestone_stairs.name"	"Mossy Cobblestone Stairs"	"Original Translation
 zh_CN: 苔圆石楼梯
-zh_TW: 青苔鵝卵石階梯"	""
+zh_TW: 青苔鵝卵石階梯"	"苔䃮階"
 "tile.mossy_stone_brick_stairs.name"	"Mossy Stone Brick Stairs"	"Original Translation
 zh_CN: 苔石砖楼梯
-zh_TW: 青苔石磚階梯"	""
+zh_TW: 青苔石磚階梯"	"苔磚階"
 "tile.mud.name"	"Mud"	"Original Translation
 zh_CN: 泥巴
-zh_TW: 泥"	""
+zh_TW: 泥"	"泥"
 "tile.mud_brick_double_slab"	"Mud Brick Double Slab"	"Original Translation
 zh_CN: 泥砖双台阶
 zh_TW: 泥磚雙板"	""
 "tile.mud_brick_slab.name"	"Mud Brick Slab"	"Original Translation
 zh_CN: 泥砖台阶
-zh_TW: 泥磚板"	""
+zh_TW: 泥磚板"	"泥磚版"
 "tile.mud_brick_stairs.name"	"Mud Brick Stairs"	"Original Translation
 zh_CN: 泥砖楼梯
-zh_TW: 泥磚階梯"	""
+zh_TW: 泥磚階梯"	"泥磚階"
 "tile.mud_brick_wall.name"	"Mud Brick Wall"	"Original Translation
 zh_CN: 泥砖墙
-zh_TW: 泥磚牆"	""
+zh_TW: 泥磚牆"	"泥磚垣"
 "tile.mud_bricks.name"	"Mud Bricks"	"Original Translation
 zh_CN: 泥砖
-zh_TW: 泥磚"	""
+zh_TW: 泥磚"	"泥磚"
 "tile.muddy_mangrove_roots.name"	"Muddy Mangrove Roots"	"Original Translation
 zh_CN: 沾泥的红树木根
-zh_TW: 泥濘紅樹林根"	""
+zh_TW: 泥濘紅樹林根"	"泥沒潮木根"
 "tile.mushroom.name"	"Mushroom"	"Original Translation
 zh_CN: 蘑菇
 zh_TW: 蘑菇"	""
 "tile.mycelium.name"	"Mycelium"	"Original Translation
 zh_CN: 菌丝
-zh_TW: 菌絲土"	""
+zh_TW: 菌絲土"	"盤菌土"
 "tile.nether_brick.name"	"Nether Bricks"	"Original Translation
 zh_CN: 下界砖
-zh_TW: 地獄磚塊"	""
+zh_TW: 地獄磚塊"	"焱界磚塊"
 "tile.nether_brick_fence.name"	"Nether Brick Fence"	"Original Translation
 zh_CN: 下界砖栅栏
-zh_TW: 地獄磚塊柵欄"	""
+zh_TW: 地獄磚塊柵欄"	"焱界磚檻"
 "tile.nether_brick_stairs.name"	"Nether Brick Stairs"	"Original Translation
 zh_CN: 下界砖楼梯
-zh_TW: 地獄磚塊梯"	""
+zh_TW: 地獄磚塊梯"	"焱界磚階"
 "tile.nether_gold_ore.name"	"Nether Gold Ore"	"Original Translation
 zh_CN: 下界金矿石
-zh_TW: 地獄金礦石"	""
+zh_TW: 地獄金礦石"	"焱界金礦"
 "tile.nether_sprouts.name"	"Nether Sprouts"	"Original Translation
 zh_CN: 下界苗
-zh_TW: 地獄芽"	""
+zh_TW: 地獄芽"	"焱界苗"
 "tile.nether_wart.name"	"Nether Wart"	"Original Translation
 zh_CN: 下界疣
-zh_TW: 地獄疙瘩"	""
+zh_TW: 地獄疙瘩"	"焱界疣"
 "tile.nether_wart_block.name"	"Nether Wart Block"	"Original Translation
 zh_CN: 下界疣方块
-zh_TW: 地獄疙瘩方塊"	""
+zh_TW: 地獄疙瘩方塊"	"焱界疣塊"
 "tile.netherite_block.name"	"Block of Netherite"	"Original Translation
 zh_CN: 下界合金块
-zh_TW: 獄髓方塊"	""
+zh_TW: 獄髓方塊"	"玄鈺塊"
 "tile.netherrack.name"	"Netherrack"	"Original Translation
 zh_CN: 下界岩
-zh_TW: 地獄石"	""
+zh_TW: 地獄石"	"焱界石"
 "tile.netherreactor.active"	"Active!"	"Original Translation
 zh_CN: 激活！
 zh_TW: 啟動！"	""
@@ -50529,64 +50529,64 @@ zh_CN: 磨制花岗岩楼梯
 zh_TW: 拋光花崗岩階梯"	""
 "tile.polished_tuff.name"	"Polished Tuff"	"Original Translation
 zh_CN: 磨制凝灰岩
-zh_TW: 拋光凝灰岩"	""
+zh_TW: 拋光凝灰岩"	"鎣積塊石"
 "tile.polished_tuff_slab.name"	"Polished Tuff Slab"	"Original Translation
 zh_CN: 磨制凝灰岩台阶
-zh_TW: 拋光凝灰岩板"	""
+zh_TW: 拋光凝灰岩板"	"鎣積塊石版"
 "tile.polished_tuff_stairs.name"	"Polished Tuff Stairs"	"Original Translation
 zh_CN: 磨制凝灰岩楼梯
-zh_TW: 拋光凝灰岩階梯"	""
+zh_TW: 拋光凝灰岩階梯"	"鎣積塊石階"
 "tile.polished_tuff_wall.name"	"Polished Tuff Wall"	"Original Translation
 zh_CN: 磨制凝灰岩墙
-zh_TW: 拋光凝灰岩牆壁"	""
+zh_TW: 拋光凝灰岩牆壁"	"鎣積塊垣"
 "tile.portal.name"	"Portal"	"Original Translation
 zh_CN: 传送门
 zh_TW: 傳送門"	""
 "tile.potatoes.name"	"Potatoes"	"Original Translation
 zh_CN: 马铃薯
-zh_TW: 馬鈴薯"	""
+zh_TW: 馬鈴薯"	"洋芋"
 "tile.powder_snow.name"	"Powder Snow"	"Original Translation
 zh_CN: 细雪
-zh_TW: 粉雪"	""
+zh_TW: 粉雪"	"齏雪"
 "tile.prismarine.bricks.name"	"Prismarine Bricks"	"Original Translation
 zh_CN: 海晶石砖
-zh_TW: 海磷石磚"	""
+zh_TW: 海磷石磚"	"海磷磚"
 "tile.prismarine.dark.name"	"Dark Prismarine"	"Original Translation
 zh_CN: 暗海晶石
 zh_TW: 暗海磷石"	""
 "tile.prismarine.rough.name"	"Prismarine"	"Original Translation
 zh_CN: 海晶石
-zh_TW: 海磷石"	""
+zh_TW: 海磷石"	"海磷"
 "tile.prismarine_bricks_stairs.name"	"Prismarine Brick Stairs"	"Original Translation
 zh_CN: 海晶石砖楼梯
-zh_TW: 海磷石磚塊梯"	""
+zh_TW: 海磷石磚塊梯"	"海磷磚階"
 "tile.prismarine_stairs.name"	"Prismarine Stairs"	"Original Translation
 zh_CN: 海晶石楼梯
-zh_TW: 海磷石階梯"	""
+zh_TW: 海磷石階梯"	"海磷階"
 "tile.pumpkin.name"	"Pumpkin"	"Original Translation
 zh_CN: 南瓜
-zh_TW: 南瓜"	""
+zh_TW: 南瓜"	"南瓜"
 "tile.pumpkin_stem.name"	"Pumpkin Stem"	"Original Translation
 zh_CN: 南瓜茎
-zh_TW: 南瓜莖"	""
+zh_TW: 南瓜莖"	"南瓜莖"
 "tile.purple_candle.name"	"Purple Candle"	"Original Translation
 zh_CN: 紫色蜡烛
-zh_TW: 紫色蠟燭"	""
+zh_TW: 紫色蠟燭"	"紫燭"
 "tile.purple_candle_cake.name"	"Cake with Purple Candle"	"Original Translation
 zh_CN: 带紫色蜡烛的蛋糕
-zh_TW: 蛋糕與紫色蠟燭"	""
+zh_TW: 蛋糕與紫色蠟燭"	"紫燭之洋糕"
 "tile.purpur_block.chiseled.name"	"Chiseled Purpur"	"Original Translation
 zh_CN: 錾制紫珀
 zh_TW: 鑿刻紫珀塊"	""
 "tile.purpur_block.default.name"	"Purpur Block"	"Original Translation
 zh_CN: 紫珀方块
-zh_TW: 紫珀塊"	""
+zh_TW: 紫珀塊"	"紫珀塊"
 "tile.purpur_block.lines.name"	"Purpur Pillar"	"Original Translation
 zh_CN: 紫珀柱子
-zh_TW: 紫珀柱"	""
+zh_TW: 紫珀柱"	"紫珀柱"
 "tile.purpur_stairs.name"	"Purpur Stairs"	"Original Translation
 zh_CN: 紫珀楼梯
-zh_TW: 紫珀階梯"	""
+zh_TW: 紫珀階梯"	"紫珀階"
 "tile.quartz_block.chiseled.name"	"Chiseled Quartz Block"	"Original Translation
 zh_CN: 錾制石英块
 zh_TW: 鑿刻石英方塊"	""
