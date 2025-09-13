@@ -91,7 +91,7 @@ zh_CN: 全部静音
 zh_TW: 全部靜音"	""
 "accessibility.chat.tts.says"	"%s says %s"	"Original Translation
 zh_CN: %s 说 %s
-zh_TW: %s 說 %s"	""
+zh_TW: %s 說 %s"	"%s曰%s"
 "accessibility.chat.tts.sendChatMessage"	"Send"	"Original Translation
 zh_CN: 发送
 zh_TW: 傳送"	"傳"
@@ -136,7 +136,7 @@ zh_CN: 下载已开始
 zh_TW: 下載已開始"	""
 "accessibility.dropdown.listItem"	"List item"	"Original Translation
 zh_CN: 列表项
-zh_TW: 清單項目"	""
+zh_TW: 清單項目"	"列目"
 "accessibility.dropdown.tts.title"	"Dropdown"	"Original Translation
 zh_CN: 下拉
 zh_TW: 下拉式選單"	""
@@ -7849,40 +7849,40 @@ zh_CN: 中等 - 暖色
 zh_TW: 中等 - 暖色"	""
 "dr.color.minecraft_black"	"Minecraft Black"	"Original Translation
 zh_CN: 《我的世界》黑色
-zh_TW: Minecraft 黑色"	""
+zh_TW: Minecraft 黑色"	"礦藝黑"
 "dr.color.minecraft_blue"	"Minecraft Blue"	"Original Translation
 zh_CN: 《我的世界》蓝色
-zh_TW: Minecraft 藍色"	""
+zh_TW: Minecraft 藍色"	"礦藝靛"
 "dr.color.minecraft_cyan"	"Minecraft Cyan"	"Original Translation
 zh_CN: 《我的世界》青色
-zh_TW: Minecraft 青色"	""
+zh_TW: Minecraft 青色"	"礦藝黛"
 "dr.color.minecraft_gray"	"Minecraft Gray"	"Original Translation
 zh_CN: 《我的世界》灰色
-zh_TW: Minecraft 灰色"	""
+zh_TW: Minecraft 灰色"	"礦藝灰"
 "dr.color.minecraft_green"	"Minecraft Green"	"Original Translation
 zh_CN: 《我的世界》绿色
-zh_TW: Minecraft 綠色"	""
+zh_TW: Minecraft 綠色"	"礦藝綠"
 "dr.color.minecraft_light_blue"	"Minecraft Light Blue"	"Original Translation
 zh_CN: 《我的世界》淡蓝色
-zh_TW: Minecraft 淺藍色"	""
+zh_TW: Minecraft 淺藍色"	"礦藝縹"
 "dr.color.minecraft_light_gray"	"Minecraft Light Gray"	"Original Translation
 zh_CN: 《我的世界》浅灰色
-zh_TW: Minecraft 淺灰色"	""
+zh_TW: Minecraft 淺灰色"	"礦藝蒼"
 "dr.color.minecraft_lime_green"	"Minecraft Lime Green"	"Original Translation
 zh_CN: 《我的世界》黄绿色
-zh_TW: Minecraft 淡黃綠色"	""
+zh_TW: Minecraft 淡黃綠色"	"礦藝翠"
 "dr.color.minecraft_magenta"	"Minecraft Magenta"	"Original Translation
 zh_CN: 《我的世界》品红色
-zh_TW: Minecraft 洋紅色"	""
+zh_TW: Minecraft 洋紅色"	"礦藝赬"
 "dr.color.minecraft_orange"	"Minecraft Orange"	"Original Translation
 zh_CN: 《我的世界》橙色
-zh_TW: Minecraft 橙色"	""
+zh_TW: Minecraft 橙色"	"礦藝橙"
 "dr.color.minecraft_pink"	"Minecraft Pink"	"Original Translation
 zh_CN: 《我的世界》粉红色
-zh_TW: Minecraft 粉紅色"	""
+zh_TW: Minecraft 粉紅色"	"礦藝紅"
 "dr.color.minecraft_purple"	"Minecraft Purple"	"Original Translation
 zh_CN: 《我的世界》紫色
-zh_TW: Minecraft 紫色"	""
+zh_TW: Minecraft 紫色"	"礦藝紫"
 "dr.color.minecraft_red"	"Minecraft Red"	"Original Translation
 zh_CN: 《我的世界》红色
 zh_TW: Minecraft 紅色"	""
@@ -48306,79 +48306,79 @@ zh_CN: 紫颂植株
 zh_TW: 歌萊枝"	""
 "tile.clay.name"	"Clay"	"Original Translation
 zh_CN: 黏土
-zh_TW: 黏土"	""
+zh_TW: 黏土"	"埴塊"
 "tile.closed_eyeblossom.name"	"Closed Eyeblossom"	"Original Translation
 zh_CN: 合拢的眼眸花
-zh_TW: 閉合的夜眼之花"	""
+zh_TW: 閉合的夜眼之花"	"瞑瞳榮"
 "tile.coal_block.name"	"Block of Coal"	"Original Translation
 zh_CN: 煤炭块
-zh_TW: 煤炭方塊"	""
+zh_TW: 煤炭方塊"	"石炭塊"
 "tile.coal_ore.name"	"Coal Ore"	"Original Translation
 zh_CN: 煤矿石
-zh_TW: 煤礦石"	""
+zh_TW: 煤礦石"	"石炭礦"
 "tile.cobbled_deepslate.name"	"Cobbled Deepslate"	"Original Translation
 zh_CN: 深板岩圆石
-zh_TW: 鵝卵石深板岩"	""
+zh_TW: 鵝卵石深板岩"	"碎板石"
 "tile.cobbled_deepslate_double_slab.name"	"Cobbled Deepslate Double Slab"	"Original Translation
 zh_CN: 深板岩圆石双台阶
 zh_TW: 鵝卵石深板岩雙板"	""
 "tile.cobbled_deepslate_slab.name"	"Cobbled Deepslate Slab"	"Original Translation
 zh_CN: 深板岩圆石台阶
-zh_TW: 鵝卵石深板岩板"	""
+zh_TW: 鵝卵石深板岩板"	"碎板石版"
 "tile.cobbled_deepslate_stairs.name"	"Cobbled Deepslate Stairs"	"Original Translation
 zh_CN: 深板岩圆石楼梯
-zh_TW: 鵝卵石深板岩樓梯"	""
+zh_TW: 鵝卵石深板岩樓梯"	"碎板石階"
 "tile.cobbled_deepslate_wall.name"	"Cobbled Deepslate Wall"	"Original Translation
 zh_CN: 深板岩圆石墙
-zh_TW: 鵝卵石深板岩牆"	""
+zh_TW: 鵝卵石深板岩牆"	"碎板石垣"
 "tile.cobblestone.name"	"Cobblestone"	"Original Translation
 zh_CN: 圆石
-zh_TW: 鵝卵石"	""
+zh_TW: 鵝卵石"	"䃮"
 "tile.cobblestone_wall.andesite.name"	"Andesite Wall"	"Original Translation
 zh_CN: 安山岩墙
-zh_TW: 安山岩牆"	""
+zh_TW: 安山岩牆"	"安山石垣"
 "tile.cobblestone_wall.brick.name"	"Brick Wall"	"Original Translation
 zh_CN: 砖墙
-zh_TW: 磚牆"	""
+zh_TW: 磚牆"	"磚垣"
 "tile.cobblestone_wall.diorite.name"	"Diorite Wall"	"Original Translation
 zh_CN: 闪长岩墙
-zh_TW: 閃長岩牆"	""
+zh_TW: 閃長岩牆"	"閃綠石垣"
 "tile.cobblestone_wall.end_brick.name"	"End Stone Brick Wall"	"Original Translation
 zh_CN: 末地石砖墙
-zh_TW: 終界石磚牆"	""
+zh_TW: 終界石磚牆"	"終界石磚垣"
 "tile.cobblestone_wall.granite.name"	"Granite Wall"	"Original Translation
 zh_CN: 花岗岩墙
-zh_TW: 花崗岩牆"	""
+zh_TW: 花崗岩牆"	"花崗石垣"
 "tile.cobblestone_wall.mossy.name"	"Mossy Cobblestone Wall"	"Original Translation
 zh_CN: 苔石墙
-zh_TW: 青苔鵝卵石牆"	""
+zh_TW: 青苔鵝卵石牆"	"苔䃮垣"
 "tile.cobblestone_wall.mossy_stone_brick.name"	"Mossy Stone Brick Wall"	"Original Translation
 zh_CN: 苔石砖墙
-zh_TW: 青苔石磚牆"	""
+zh_TW: 青苔石磚牆"	"苔磚垣"
 "tile.cobblestone_wall.nether_brick.name"	"Nether Brick Wall"	"Original Translation
 zh_CN: 下界砖墙
-zh_TW: 地獄磚牆"	""
+zh_TW: 地獄磚牆"	"焱界磚垣"
 "tile.cobblestone_wall.normal.name"	"Cobblestone Wall"	"Original Translation
 zh_CN: 圆石墙
-zh_TW: 鵝卵石牆"	""
+zh_TW: 鵝卵石牆"	"䃮垣"
 "tile.cobblestone_wall.prismarine.name"	"Prismarine Wall"	"Original Translation
 zh_CN: 海晶石墙
-zh_TW: 海磷石牆"	""
+zh_TW: 海磷石牆"	"海磷垣"
 "tile.cobblestone_wall.red_nether_brick.name"	"Red Nether Brick Wall"	"Original Translation
 zh_CN: 红色下界砖墙
-zh_TW: 紅色地獄磚牆"	""
+zh_TW: 紅色地獄磚牆"	"焱界赤磚垣"
 "tile.cobblestone_wall.red_sandstone.name"	"Red Sandstone Wall"	"Original Translation
 zh_CN: 红砂岩墙
-zh_TW: 紅沙岩牆"	""
+zh_TW: 紅沙岩牆"	"赤砂垣"
 "tile.cobblestone_wall.sandstone.name"	"Sandstone Wall"	"Original Translation
 zh_CN: 砂岩墙
-zh_TW: 沙岩牆"	""
+zh_TW: 沙岩牆"	"砂垣"
 "tile.cobblestone_wall.stone_brick.name"	"Stone Brick Wall"	"Original Translation
 zh_CN: 石砖墙
-zh_TW: 石磚牆"	""
+zh_TW: 石磚牆"	"石磚垣"
 "tile.cocoa.name"	"Cocoa"	"Original Translation
 zh_CN: 可可
-zh_TW: 可可"	""
+zh_TW: 可可"	"可可荳"
 "tile.colored_torch.blue.name"	"Blue Torch"	"Original Translation
 zh_CN: 蓝色火炬
 zh_TW: 藍火把"	""
@@ -48393,91 +48393,91 @@ zh_CN: 红色火炬
 zh_TW: 紅火把"	""
 "tile.command_block.name"	"Command Block"	"Original Translation
 zh_CN: 命令方块
-zh_TW: 指令方塊"	""
+zh_TW: 指令方塊"	"命令塊"
 "tile.composter.name"	"Composter"	"Original Translation
 zh_CN: 堆肥箱
-zh_TW: 堆肥箱"	""
+zh_TW: 堆肥箱"	"肥箱"
 "tile.compoundcreator.name"	"Compound Creator"	"Original Translation
 zh_CN: 化合物创建器
 zh_TW: 複合物建立工具"	""
 "tile.concrete.black.name"	"Black Concrete"	"Original Translation
 zh_CN: 黑色混凝土
-zh_TW: 黑色混凝土"	""
+zh_TW: 黑色混凝土"	"黑砼"
 "tile.concrete.blue.name"	"Blue Concrete"	"Original Translation
 zh_CN: 蓝色混凝土
-zh_TW: 藍色混凝土"	""
+zh_TW: 藍色混凝土"	"靛砼"
 "tile.concrete.brown.name"	"Brown Concrete"	"Original Translation
 zh_CN: 棕色混凝土
-zh_TW: 棕色混凝土"	""
+zh_TW: 棕色混凝土"	"褐砼"
 "tile.concrete.cyan.name"	"Cyan Concrete"	"Original Translation
 zh_CN: 青色混凝土
-zh_TW: 青綠色混凝土"	""
+zh_TW: 青綠色混凝土"	"黛砼"
 "tile.concrete.gray.name"	"Gray Concrete"	"Original Translation
 zh_CN: 灰色混凝土
-zh_TW: 灰色混凝土"	""
+zh_TW: 灰色混凝土"	"灰砼"
 "tile.concrete.green.name"	"Green Concrete"	"Original Translation
 zh_CN: 绿色混凝土
-zh_TW: 綠色混凝土"	""
+zh_TW: 綠色混凝土"	"綠砼"
 "tile.concrete.lightBlue.name"	"Light Blue Concrete"	"Original Translation
 zh_CN: 淡蓝色混凝土
-zh_TW: 淺藍色混凝土"	""
+zh_TW: 淺藍色混凝土"	"縹砼"
 "tile.concrete.lime.name"	"Lime Concrete"	"Original Translation
 zh_CN: 黄绿色混凝土
-zh_TW: 淡黃綠色混凝土"	""
+zh_TW: 淡黃綠色混凝土"	"翠砼"
 "tile.concrete.magenta.name"	"Magenta Concrete"	"Original Translation
 zh_CN: 品红色混凝土
-zh_TW: 洋紅色混凝土"	""
+zh_TW: 洋紅色混凝土"	"赬砼"
 "tile.concrete.orange.name"	"Orange Concrete"	"Original Translation
 zh_CN: 橙色混凝土
-zh_TW: 橙色混凝土"	""
+zh_TW: 橙色混凝土"	"橙砼"
 "tile.concrete.pink.name"	"Pink Concrete"	"Original Translation
 zh_CN: 粉红色混凝土
-zh_TW: 粉紅色混凝土"	""
+zh_TW: 粉紅色混凝土"	"紅砼"
 "tile.concrete.purple.name"	"Purple Concrete"	"Original Translation
 zh_CN: 紫色混凝土
-zh_TW: 紫色混凝土"	""
+zh_TW: 紫色混凝土"	"紫砼"
 "tile.concrete.red.name"	"Red Concrete"	"Original Translation
 zh_CN: 红色混凝土
-zh_TW: 紅色混凝土"	""
+zh_TW: 紅色混凝土"	"赤砼"
 "tile.concrete.silver.name"	"Light Gray Concrete"	"Original Translation
 zh_CN: 淡灰色混凝土
-zh_TW: 淺灰色混凝土"	""
+zh_TW: 淺灰色混凝土"	"蒼砼"
 "tile.concrete.white.name"	"White Concrete"	"Original Translation
 zh_CN: 白色混凝土
-zh_TW: 白色混凝土"	""
+zh_TW: 白色混凝土"	"白砼"
 "tile.concrete.yellow.name"	"Yellow Concrete"	"Original Translation
 zh_CN: 黄色混凝土
-zh_TW: 黃色混凝土"	""
+zh_TW: 黃色混凝土"	"黃砼"
 "tile.concretePowder.black.name"	"Black Concrete Powder"	"Original Translation
 zh_CN: 黑色混凝土粉末
-zh_TW: 黑色混凝土粉末"	""
+zh_TW: 黑色混凝土粉末"	"黑砼粉"
 "tile.concretePowder.blue.name"	"Blue Concrete Powder"	"Original Translation
 zh_CN: 蓝色混凝土粉末
-zh_TW: 藍色混凝土粉末"	""
+zh_TW: 藍色混凝土粉末"	"靛砼粉"
 "tile.concretePowder.brown.name"	"Brown Concrete Powder"	"Original Translation
 zh_CN: 棕色混凝土粉末
-zh_TW: 棕色混凝土粉末"	""
+zh_TW: 棕色混凝土粉末"	"褐砼粉"
 "tile.concretePowder.cyan.name"	"Cyan Concrete Powder"	"Original Translation
 zh_CN: 青色混凝土粉末
-zh_TW: 青綠色混凝土粉末"	""
+zh_TW: 青綠色混凝土粉末"	"黛砼粉"
 "tile.concretePowder.gray.name"	"Gray Concrete Powder"	"Original Translation
 zh_CN: 灰色混凝土粉末
-zh_TW: 灰色混凝土粉末"	""
+zh_TW: 灰色混凝土粉末"	"灰砼粉"
 "tile.concretePowder.green.name"	"Green Concrete Powder"	"Original Translation
 zh_CN: 绿色混凝土粉末
-zh_TW: 綠色混凝土粉末"	""
+zh_TW: 綠色混凝土粉末"	"綠砼粉"
 "tile.concretePowder.lightBlue.name"	"Light Blue Concrete Powder"	"Original Translation
 zh_CN: 淡蓝色混凝土粉末
-zh_TW: 淺藍色混凝土粉末"	""
+zh_TW: 淺藍色混凝土粉末"	"縹砼粉"
 "tile.concretePowder.lime.name"	"Lime Concrete Powder"	"Original Translation
 zh_CN: 黄绿色混凝土粉末
-zh_TW: 淡黃綠色混凝土粉末"	""
+zh_TW: 淡黃綠色混凝土粉末"	"翠砼粉"
 "tile.concretePowder.magenta.name"	"Magenta Concrete Powder"	"Original Translation
 zh_CN: 品红色混凝土粉末
-zh_TW: 洋紅色混凝土粉末"	""
+zh_TW: 洋紅色混凝土粉末"	"赬砼粉"
 "tile.concretePowder.orange.name"	"Orange Concrete Powder"	"Original Translation
 zh_CN: 橙色混凝土粉末
-zh_TW: 橙色混凝土粉末"	""
+zh_TW: 橙色混凝土粉末"	"橙砼粉"
 "tile.concretePowder.pink.name"	"Pink Concrete Powder"	"Original Translation
 zh_CN: 粉红色混凝土粉末
 zh_TW: 粉紅色混凝土粉末"	""
