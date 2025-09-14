@@ -86,7 +86,7 @@ If you want to contribute to the development of this project, here's how to get 
         source .venv/bin/activate
         ```
 
-### Manual Build Process
+### Manual Build
 
 To build the resource packs from the source files, you only need to run the `pack.py` script:
 
@@ -96,9 +96,9 @@ python scripts/pack.py
 
 This will generate the `.mcpack` and `.zip` files in the `packed/` directory.
 
-### Workflow Automation
+### Workflow
 
-This project uses GitHub Actions to automate the translation and packaging process. It runs every 2 hours to update language files, and the final resource packs (`.mcpack` and `.zip`) are generated and available for download.
+This project uses GitHub Actions to automate the translation, Crowdin synchronization, and packaging process. It runs every 2 hours to update language files and synchronize translations with Crowdin. The final resource packs (`.mcpack` and `.zip`) are then generated and available for download.
 
 ## License
 
