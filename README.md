@@ -58,14 +58,14 @@ If you want to contribute to the development of this project, here's how to get 
 
 1. **Clone the repository:**
 
-    ```bash
+    ``` bash
     git clone https://github.com/SkyEye-FAST/mcbe-chinese-patch.git
     cd mcbe-chinese-patch
     ```
 
 2. **Create a virtual environment and install dependencies:**
 
-    ```bash
+    ``` bash
     uv venv
     uv sync
     ```
@@ -76,57 +76,25 @@ If you want to contribute to the development of this project, here's how to get 
 
     - **Windows (PowerShell):**
 
-        ```powershell
+        ``` powershell
         .venv\Scripts\Activate.ps1
         ```
 
     - **macOS/Linux:**
 
-        ```bash
+        ``` bash
         source .venv/bin/activate
         ```
 
-### Scripts
-
-This project uses several Python scripts to automate the process of extracting, merging, and packing the language files.
-
-- **`extract.py`**: Downloads the latest Minecraft Bedrock Edition packages (release and development) and extracts the language files (`en_US.lang`, `zh_CN.lang`, `zh_TW.lang`). It saves them in the `extracted/` directory in both `.lang` and `.json` formats.
-
-- **`merge.py`**: Merges the language files from different resource packs (e.g., vanilla, oreui, persona) into consolidated `en_US.json`, `zh_CN.json`, and `zh_TW.json` files for each branch (release, beta, preview). The merged files are stored in the `merged/` directory.
-
-- **`update_sources.py`**: Takes the merged language files and creates `.tsv` source files for Crowdin. It uses `en_US.json` as the source string and includes existing `zh_CN` and `zh_TW` translations as context. These files are saved in the `sources/` directory.
-
-- **`pack.py`**: Takes the translated `.tsv` files from the `patched/` directory, converts them back into `.lang` files, and then creates the final resource packs (`.mcpack` and `.zip`) in the `packed/` directory.
-
-- **`convert.py`**: A utility module used by other scripts for converting files between `.lang`, `.json`, and `.tsv` formats.
-
 ### Manual Build Process
 
-To build the resource packs from the source files, you can run the scripts in the following order:
+To build the resource packs from the source files, you only need to run the `pack.py` script:
 
-1. **Extract language files:**
+``` bash
+python scripts/pack.py
+```
 
-   ```bash
-   python scripts/extract.py
-   ```
-
-2. **Merge language files:**
-
-   ```bash
-   python scripts/merge.py
-   ```
-
-3. **Generate Crowdin sources (optional, for updating sources):**
-
-   ```bash
-   python scripts/update_sources.py
-   ```
-
-4. **Pack the resource packs (assuming you have translated files in `patched/`):**
-
-   ```bash
-   python scripts/pack.py
-   ```
+This will generate the `.mcpack` and `.zip` files in the `packed/` directory.
 
 ### Workflow Automation
 
