@@ -1,8 +1,6 @@
 # Minecraft Bedrock Chinese Patch
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE) [![Crowdin](https://badges.crowdin.net/mcbe-chinese-patch/localized.svg)](https://crowdin.com/project/mcbe-chinese-patch)
-
-**Experience Minecraft: Bedrock Edition with enhanced Chinese translations, brought to you by the community.**
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE) [![Update language files](https://github.com/SkyEye-FAST/mcbe-chinese-patch/actions/workflows/update.yml/badge.svg)](https://github.com/SkyEye-FAST/mcbe-chinese-patch/actions/workflows/update.yml) [![Crowdin](https://badges.crowdin.net/mcbe-chinese-patch/localized.svg)](https://crowdin.com/project/mcbe-chinese-patch)
 
 This project aims to provide high-quality Chinese localization for Minecraft: Bedrock Edition. We strive to align the Bedrock Edition translations with the Java Edition as much as possible, while keeping modifications to the original text minimal.
 
@@ -10,19 +8,29 @@ This project aims to provide high-quality Chinese localization for Minecraft: Be
 
 The Bedrock Edition's translations often fall short of the Java Edition's community-driven quality on Crowdin. This is because a separate translation team, contracted by Microsoft, handles Bedrock's localization. Consequently, the Bedrock Edition suffers from inconsistent and inaccurate translations.
 
-Despite years of player feedback and bug reports, the translation process for Bedrock Edition remains largely unchanged, and many issues persist.
-
-Even with the recent addition of contextual explanations from Microsoft, the contracted translators often seem unresponsive, over-relying on unreviewed machine translation. While they occasionally consult the Java Edition for corrections, new content translations are frequently riddled with errors.
+Despite years of player feedback and bug reports, the translation process for Bedrock Edition remains largely unchanged, and many issues persist. Even with the recent addition of contextual explanations from Microsoft, the contracted translators often seem unresponsive, over-relying on unreviewed machine translation. While they occasionally consult the Java Edition for corrections, new content translations are frequently riddled with errors.
 
 Worse still, the Bedrock Edition sometimes suffers from translation "regressions", where previously correct text is inexplicably replaced with flawed machine translations after an update. This further degrades the already poor translation quality in the Bedrock Edition.
+
+## Installation and Usage
+
+**You can find the latest builds of this resource pack on the [Actions page](https://github.com/SkyEye-FAST/mcbe-chinese-patch/actions).**
+
+For instructions on how to install the resource pack, please refer to [Microsoft Learn](https://learn.microsoft.com/en-us/minecraft/creator/documents/gettingstarted).
+
+> [!NOTE]
+> Once the translation completion reaches a sufficient level, we will regularly release it on the [Releases page](https://github.com/SkyEye-FAST/mcbe-chinese-patch/releases).
 
 ## Contributing
 
 We welcome contributions from the community! Here's how you can help:
 
 - **Contribute Translations:** Join our [Crowdin project](https://crowdin.com/project/mcbe-chinese-patch) to contribute translations directly.
-- **Report Issues:** If you find any translation errors or inconsistencies, please submit an issue on our [GitHub repository](https://github.com/SkyEye-FAST/mcbe-chinese-patch/issues).
-- **Submit Pull Requests:** If you have improvements or fixes, feel free to submit a pull request.
+- **Report Code Issues:** For code-related issues, please submit an issue on our [GitHub repository](https://github.com/SkyEye-FAST/mcbe-chinese-patch/issues).
+- **Submit Pull Requests:** If you have code improvements or fixes, feel free to submit a pull request.
+
+> [!IMPORTANT]
+> **Only code-related issues should be reported on GitHub.** For translation issues, please use Crowdin.
 
 ## File Structure
 
@@ -30,27 +38,129 @@ Here's a breakdown of the repository's file structure:
 
 - `extracted/`: Contains the raw language files as extracted directly from the game.
 - `merged/`: Holds consolidated language files, organized by game version.
-- `patched/`: This directory contains the final, ready-to-use language files with the applied patches.
+- `patched/`: This directory contains the final, ready-to-use language files with the applied patches from Crowdin.
 - `sources/`: Stores the generated TSV source files for use with Crowdin.
-- `resources/`: Includes supplementary resources such as language metadata.
+- `packed/`: Contains the final `.mcpack` and `.zip` resource packs.
+- `resources/`: Includes supplementary resources such as the pack manifest and language metadata.
 - `scripts/`: Houses utility scripts for managing and updating the translations.
+- `.github/workflows/`: Contains the GitHub Actions workflow for automating the translation process.
+
+## For Developers
+
+If you want to contribute to the development of this project, here's how to get started.
+
+### Prerequisites
+
+- [Python 3.12+](https://www.python.org/)
+- [uv](https://github.com/astral-sh/uv)
+
+### Setup
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/SkyEye-FAST/mcbe-chinese-patch.git
+    cd mcbe-chinese-patch
+    ```
+
+2. **Create a virtual environment and install dependencies:**
+
+    ```bash
+    uv venv
+    uv sync
+    ```
+
+    This will create a virtual environment in the `.venv` directory and install the required packages listed in `pyproject.toml`.
+
+3. **Activate the virtual environment:**
+
+    - **Windows (PowerShell):**
+
+        ```powershell
+        .venv\Scripts\Activate.ps1
+        ```
+
+    - **macOS/Linux:**
+
+        ```bash
+        source .venv/bin/activate
+        ```
+
+### Scripts
+
+This project uses several Python scripts to automate the process of extracting, merging, and packing the language files.
+
+- **`extract.py`**: Downloads the latest Minecraft Bedrock Edition packages (release and development/beta) and extracts the language files (`en_US.lang`, `zh_CN.lang`, `zh_TW.lang`). It saves them in the `extracted/` directory in both `.lang` and `.json` formats.
+
+- **`merge.py`**: Merges the language files from different resource packs (e.g., vanilla, oreui, persona) into consolidated `en_US.json`, `zh_CN.json`, and `zh_TW.json` files for each branch (release, beta, preview). The merged files are stored in the `merged/` directory.
+
+- **`update_sources.py`**: Takes the merged language files and creates `.tsv` source files for Crowdin. It uses `en_US.json` as the source string and includes existing `zh_CN` and `zh_TW` translations as context. These files are saved in the `sources/` directory.
+
+- **`pack.py`**: Takes the translated `.tsv` files from the `patched/` directory, converts them back into `.lang` files, and then creates the final resource packs (`.mcpack` and `.zip`) in the `packed/` directory.
+
+- **`convert.py`**: A utility module used by other scripts for converting files between `.lang`, `.json`, and `.tsv` formats.
+
+### Manual Build Process
+
+To build the resource packs from the source files, you can run the scripts in the following order:
+
+1. **Extract language files:**
+
+   ```bash
+   python scripts/extract.py
+   ```
+
+2. **Merge language files:**
+
+   ```bash
+   python scripts/merge.py
+   ```
+
+3. **Generate Crowdin sources (optional, for updating sources):**
+
+   ```bash
+   python scripts/update_sources.py
+   ```
+
+4. **Pack the resource packs (assuming you have translated files in `patched/`):**
+
+   ```bash
+   python scripts/pack.py
+   ```
+
+### Workflow Automation
+
+This project uses GitHub Actions to automate the entire translation and packaging process. The workflow consists of the following steps:
+
+1. **Update Language Files**:
+   - Runs on a schedule (every 2 hours) or can be triggered manually.
+   - Executes `extract.py`, `merge.py`, and `update_sources.py` to get the latest source strings from the game.
+   - Commits the updated source files to the repository.
+
+2. **Sync with Crowdin**:
+   - Uploads the new source files to Crowdin.
+   - Downloads the latest translations from Crowdin and commits them to the `patched/` directory.
+
+3. **Post-processing**:
+   - Runs `pack.py` to create the final resource packs (`.mcpack` and `.zip`).
+   - Uploads the generated resource packs as artifacts to the GitHub Actions run, making them available for download.
 
 ## License
 
 This project is licensed under the [Apache 2.0 License](LICENSE).
 
 ``` text
-Copyright 2025 Minecraft Bedrock Chinese Patch Authors
+    Copyright 2025 Minecraft Bedrock Chinese Patch Authors
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
 
-    http://www.apache.org/licenses/LICENSE-2.0
+        http://www.apache.org/licenses/LICENSE-2.0
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
 ```
