@@ -90,7 +90,7 @@ If you want to contribute to the development of this project, here's how to get 
 
 This project uses several Python scripts to automate the process of extracting, merging, and packing the language files.
 
-- **`extract.py`**: Downloads the latest Minecraft Bedrock Edition packages (release and development/beta) and extracts the language files (`en_US.lang`, `zh_CN.lang`, `zh_TW.lang`). It saves them in the `extracted/` directory in both `.lang` and `.json` formats.
+- **`extract.py`**: Downloads the latest Minecraft Bedrock Edition packages (release and development) and extracts the language files (`en_US.lang`, `zh_CN.lang`, `zh_TW.lang`). It saves them in the `extracted/` directory in both `.lang` and `.json` formats.
 
 - **`merge.py`**: Merges the language files from different resource packs (e.g., vanilla, oreui, persona) into consolidated `en_US.json`, `zh_CN.json`, and `zh_TW.json` files for each branch (release, beta, preview). The merged files are stored in the `merged/` directory.
 
@@ -130,20 +130,7 @@ To build the resource packs from the source files, you can run the scripts in th
 
 ### Workflow Automation
 
-This project uses GitHub Actions to automate the entire translation and packaging process. The workflow consists of the following steps:
-
-1. **Update Language Files**:
-   - Runs on a schedule (every 2 hours) or can be triggered manually.
-   - Executes `extract.py`, `merge.py`, and `update_sources.py` to get the latest source strings from the game.
-   - Commits the updated source files to the repository.
-
-2. **Sync with Crowdin**:
-   - Uploads the new source files to Crowdin.
-   - Downloads the latest translations from Crowdin and commits them to the `patched/` directory.
-
-3. **Post-processing**:
-   - Runs `pack.py` to create the final resource packs (`.mcpack` and `.zip`).
-   - Uploads the generated resource packs as artifacts to the GitHub Actions run, making them available for download.
+This project uses GitHub Actions to automate the translation and packaging process. It runs every 2 hours to update language files, and the final resource packs (`.mcpack` and `.zip`) are generated and available for download.
 
 ## License
 
