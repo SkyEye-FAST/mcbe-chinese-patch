@@ -38377,16 +38377,16 @@ zh_CN: 所选择的 Realm 描述包含其他人可能会觉得冒犯且无法使
 zh_TW: 您選擇的 Realm 敘述包含可能讓其他人覺得冒犯的字詞，因此無法使用。請變更 Realm 敘述後再試一次。"	""
 "realmsCreateScreen.durationHeader"	"Duration"	"Original Translation
 zh_CN: 持续时间
-zh_TW: 期間"	""
+zh_TW: 期間"	"持续时间"
 "realmsCreateScreen.durationLong"	"180 Days"	"Original Translation
 zh_CN: 180 天
-zh_TW: 180 天"	""
+zh_TW: 180 天"	"180天"
 "realmsCreateScreen.durationShort"	"30 Days"	"Original Translation
 zh_CN: 30 天
-zh_TW: 30 天"	""
+zh_TW: 30 天"	"30天"
 "realmsCreateScreen.errorRealmName"	"Your Realm name cannot be blank."	"Original Translation
 zh_CN: 你的 Realm 名称不能为空。
-zh_TW: Realm 名稱不可空白。"	""
+zh_TW: Realm 名稱不可空白。"	"你的Realm名称不能为空。"
 "realmsCreateScreen.errorRealmNameAndTOS"	"Your Realm name cannot be blank, and you must accept the terms of service to create a Realm."	"Original Translation
 zh_CN: 你的 Realm 名称不能为空，而且你必须接受服务条款才能创建 Realm。
 zh_TW: Realm 名稱不可空白，並且必須接受服務條款才能建立 Realm。"	""
@@ -38398,10 +38398,10 @@ zh_CN: 你已经尽可能延长 Realms 定期服务，现在无法增加额外�
 zh_TW: 你已經儘可能延長了你的 Realms 訂閱。現在，你無法新增額外時間。請稍後再試。"	""
 "realmsCreateScreen.goBack"	"Go Back"	"Original Translation
 zh_CN: 返回
-zh_TW: 返回"	""
+zh_TW: 返回"	"返回"
 "realmsCreateScreen.incomplete"	"Incomplete Realm"	"Original Translation
 zh_CN: 不完整 Realm
-zh_TW: Realm 未完成"	""
+zh_TW: Realm 未完成"	"不完整的Realm"
 "realmsCreateScreen.incomplete.create.a"	"It looks like we didn't finish things last time. Let's complete creating your Realm now."	"Original Translation
 zh_CN: 看来我们上次并没有完成。现在我们来完成创建你的 Realm 吧。
 zh_TW: 上次的程序似乎尚未完成。現在，來完成你的 Realm 建立吧。"	""
@@ -38437,31 +38437,31 @@ zh_CN: 最大订阅数
 zh_TW: 訂閱數目上限"	""
 "realmsCreateScreen.nameHeader"	"Realm Name"	"Original Translation
 zh_CN: Realm 名称
-zh_TW: Realm 名稱"	""
+zh_TW: Realm 名稱"	"Realm名称"
 "realmsCreateScreen.nameHeader.name"	"Realm Name"	"Original Translation
 zh_CN: Realm 名称
-zh_TW: Realm 名稱"	""
+zh_TW: Realm 名稱"	"Realm名称"
 "realmsCreateScreen.nameHeader.rename"	"Rename Realm?"	"Original Translation
 zh_CN: 重命名 Realm？
-zh_TW: 重新命名 Realm"	""
+zh_TW: 重新命名 Realm"	"重命名Realm？"
 "realmsCreateScreen.offerNotAvailable.content"	"Your device lost connection to the store and we can't confirm this offer is still available. Please check your internet connection or try again later."	"Original Translation
 zh_CN: 您的设备与商店连接中断，我们无法确认此优惠是否可用。请检查您的互联网连接，或稍后再试。
 zh_TW: 您的裝置與商店的連線中斷，我們無法確認此優惠是否仍然可用。請檢查您的網際網路連線或稍後再試。"	""
 "realmsCreateScreen.offerNotAvailable.title"	"Store Connection Lost"	"Original Translation
 zh_CN: 商店连接已中断
-zh_TW: 儲存連線遺失"	""
+zh_TW: 儲存連線遺失"	"商店连接已中断"
 "realmsCreateScreen.offerNotFound.content"	"Your device lost connection to the store and we can't confirm this offer is still available. Please check your internet connection or try again later."	"Original Translation
 zh_CN: 您的设备与商店连接中断，我们无法确认此优惠是否可用。请检查您的互联网连接，或稍后再试。
 zh_TW: 您的裝置與商店的連線中斷，我們無法確認此優惠是否仍然可用。請檢查您的網際網路連線或稍後再試。"	""
 "realmsCreateScreen.offerNotFound.title"	"Store Connection Lost"	"Original Translation
 zh_CN: 商店连接已中断
-zh_TW: 儲存連線遺失"	""
+zh_TW: 儲存連線遺失"	"商店连接已中断"
 "realmsCreateScreen.paymentFailed.body"	"Unable to connect to Realms and complete your purchase at this time. Please try again later."	"Original Translation
 zh_CN: 目前无法连接 Realms，不能完成你的购买。请稍后再试。
 zh_TW: 此刻無法連線至 Realms，未能完成你的購買。請稍後再試一次。"	""
 "realmsCreateScreen.paymentFailed.title"	"Payment service"	"Original Translation
 zh_CN: 支付服务
-zh_TW: 付款服務"	""
+zh_TW: 付款服務"	"支付服务"
 "realmsCreateScreen.playNowMessage1"	"You can invite friends to your Realm and start playing now."	"Original Translation
 zh_CN: 您可以邀请好友加入您的 Realm 并立即开始探索。
 zh_TW: 你可以邀請好友至你的 Realm，並立即開始玩遊戲。"	""
@@ -38470,55 +38470,55 @@ zh_CN: 或者，您可以随时在屏幕的世界选项卡中找到它。您可�
 zh_TW: 或者你隨時可以在「遊戲」畫面的「世界」標籤中尋找。編輯即可變更遊戲模式，甚至可以上傳任何世界至你的 Realm。"	""
 "realmsCreateScreen.playNowTitle"	"Play on Realm, Now?"	"Original Translation
 zh_CN: 立即在 Realm 上玩吗？
-zh_TW: 現在要在 Realm 上遊戲嗎？"	""
+zh_TW: 現在要在 Realm 上遊戲嗎？"	"立即在Realm上游玩吗？"
 "realmsCreateScreen.playSolo"	"Play Solo"	"Original Translation
 zh_CN: 独自玩
-zh_TW: 單人遊戲"	""
+zh_TW: 單人遊戲"	"独自游玩"
 "realmsCreateScreen.playWithFriends"	"Play with Friends"	"Original Translation
 zh_CN: 与好友一起玩
-zh_TW: 與好友進行遊戲"	""
+zh_TW: 與好友進行遊戲"	"与好友一起游玩"
 "realmsCreateScreen.prepare.store.body"	"We need you to sign in to the store to view your purchase history before we can continue."	"Original Translation
 zh_CN: 我们需要您登录到商店查看您的购买历史记录，然后才能继续。
 zh_TW: 您必須登入至商店才能檢視您的購買記錄，然後才能繼續。"	""
 "realmsCreateScreen.prepare.store.button"	"Sign In to Store"	"Original Translation
 zh_CN: 登录到商店
-zh_TW: 登入至商店"	""
+zh_TW: 登入至商店"	"登录到商店"
 "realmsCreateScreen.prepare.store.title"	"Purchase History Needed"	"Original Translation
 zh_CN: 需要购买历史记录
-zh_TW: 需有購買記錄"	""
+zh_TW: 需有購買記錄"	"需要购买历史记录"
 "realmsCreateScreen.purchaseConfirmation.cancel"	"Cancel"	"Original Translation
 zh_CN: 取消
-zh_TW: 取消"	""
+zh_TW: 取消"	"取消"
 "realmsCreateScreen.purchaseConfirmation.continue"	"Confirm Purchase"	"Original Translation
 zh_CN: 确认购买
-zh_TW: 確認購買"	""
+zh_TW: 確認購買"	"确认购买"
 "realmsCreateScreen.purchaseConfirmation.create.message"	"Are you sure you want to create a Realm?"	"Original Translation
 zh_CN: 确定要创建一个 Realm 吗？
-zh_TW: 你確定想建立 Realm？"	""
+zh_TW: 你確定想建立 Realm？"	"确定要创建Realm吗？"
 "realmsCreateScreen.purchaseConfirmation.extend.message"	"Are you sure you want to extend a Realm?"	"Original Translation
 zh_CN: 确定要延期一个 Realm 吗？
-zh_TW: 你確定想延長 Realm？"	""
+zh_TW: 你確定想延長 Realm？"	"确定要延期Realm吗？"
 "realmsCreateScreen.purchaseConfirmation.renew.message"	"Are you sure you want to renew a Realm?"	"Original Translation
 zh_CN: 确定要续订一个 Realm 吗？
-zh_TW: 你確定想續訂 Realm？"	""
+zh_TW: 你確定想續訂 Realm？"	"确定要续订Realm吗？"
 "realmsCreateScreen.purchaseConfirmation.title"	"Purchase Realm?"	"Original Translation
 zh_CN: 购买 Realm？
-zh_TW: 是否要購買 Realm？"	""
+zh_TW: 是否要購買 Realm？"	"购买Realm？"
 "realmsCreateScreen.purchaseFailed"	"Sorry, we were unable to complete your Realm purchase. Maybe check your internet connection?"	"Original Translation
 zh_CN: 抱歉，我们无法完成你的 Realm 购买。不妨检查一下你的网络连接？
 zh_TW: 抱歉，我們無法完成你的 Realm 購買。能否請你確認一下網際網路的連線狀態？"	""
 "realmsCreateScreen.purchasePrefix.create"	"Create"	"Original Translation
 zh_CN: 创建
-zh_TW: 建立"	""
+zh_TW: 建立"	"创建"
 "realmsCreateScreen.purchasePrefix.extend"	"Extend"	"Original Translation
 zh_CN: 延长
-zh_TW: 延長"	""
+zh_TW: 延長"	"延期"
 "realmsCreateScreen.purchasePrefix.renew"	"Renew"	"Original Translation
 zh_CN: 更新
-zh_TW: 續訂"	""
+zh_TW: 續訂"	"续订"
 "realmsCreateScreen.renameFailed.profanity"	"The world name %s is not allowed."	"Original Translation
 zh_CN: 不允许使用世界名称 %s。
-zh_TW: 世界名稱 %s 不允許使用。"	""
+zh_TW: 世界名稱 %s 不允許使用。"	"不允许使用世界名称%s。"
 "realmsCreateScreen.sizeHeader"	"Tier"	"Original Translation
 zh_CN: 层级
 zh_TW: 層"	""
@@ -38608,124 +38608,124 @@ zh_CN: 正在获取新链接...
 zh_TW: 正在擷取新連結..."	""
 "realmsInvitationScreen.findFriends"	"Find friends"	"Original Translation
 zh_CN: 查找好友
-zh_TW: 尋找好友"	""
+zh_TW: 尋找好友"	"查找好友"
 "realmsInvitationScreen.friends"	"Friends"	"Original Translation
 zh_CN: 好友
-zh_TW: 好友"	""
+zh_TW: 好友"	"好友"
 "realmsInvitationScreen.generate"	"Generate"	"Original Translation
 zh_CN: 生成
-zh_TW: 產生"	""
+zh_TW: 產生"	"生成"
 "realmsInvitationScreen.invitedPlayers"	"Invited Players"	"Original Translation
 zh_CN: 受邀玩家
-zh_TW: 已邀請的玩家"	""
+zh_TW: 已邀請的玩家"	"受邀玩家"
 "realmsInvitationScreen.kick"	"Remove"	"Original Translation
 zh_CN: 删除
-zh_TW: 移除"	""
+zh_TW: 移除"	"删除"
 "realmsInvitationScreen.kickAndBlock"	"Block"	"Original Translation
 zh_CN: 阻止
-zh_TW: 封鎖"	""
+zh_TW: 封鎖"	"封禁"
 "realmsInvitationScreen.kickPopupText"	"Do you want to revoke access for this player? You can undo this at any time."	"Original Translation
 zh_CN: 您是否希望撤消此玩家的访问权限？您可以随时撤销该操作。
 zh_TW: 要撤銷此玩家的存取權限嗎？您可以隨時復原此動作。"	""
 "realmsInvitationScreen.kickPopupTitle"	"Revoke Access?"	"Original Translation
 zh_CN: 撤消访问权限？
-zh_TW: 要撤銷存取權限嗎？"	""
+zh_TW: 要撤銷存取權限嗎？"	"撤消访问权限？"
 "realmsInvitationScreen.loadingFriends"	"Loading Friends and Members..."	"Original Translation
 zh_CN: 正在加载好友和成员...
-zh_TW: 正在載入好友和成員..."	""
+zh_TW: 正在載入好友和成員..."	"正在加载好友和成员…"
 "realmsInvitationScreen.loadingProfiles"	"Loading Profiles (%s / %s)"	"Original Translation
 zh_CN: 正在加载档案 (%s/%s)
-zh_TW: 正在載入設定檔 (%s / %s)"	""
+zh_TW: 正在載入設定檔 (%s / %s)"	"正在加载档案（%s/%s）"
 "realmsInvitationScreen.members"	"Members"	"Original Translation
 zh_CN: 成员
-zh_TW: 成員"	""
+zh_TW: 成員"	"成员"
 "realmsInvitationScreen.myRealm"	"My Realm"	"Original Translation
 zh_CN: 我的 Realm
-zh_TW: 我的 Realm"	""
+zh_TW: 我的 Realm"	"我的Realm"
 "realmsInvitationScreen.noInvites"	"No players could be found."	"Original Translation
 zh_CN: 未找到任何玩家。
-zh_TW: 找不到玩家。"	""
+zh_TW: 找不到玩家。"	"未找到任何玩家。"
 "realmsInvitationScreen.playerFilterTitle"	"Filter players"	"Original Translation
 zh_CN: 筛选玩家
-zh_TW: 篩選玩家"	""
+zh_TW: 篩選玩家"	"筛选玩家"
 "realmsInvitationScreen.refreshDialogLabel"	"This will disable the current link and generate a new one. Anyone who became a member already will still be able to join your Realm."	"Original Translation
 zh_CN: 这将禁用当前链接并生成一个新链接。已成为成员的任何人仍能够加入您的 Realm。
 zh_TW: 這將停用目前的連結並生成一個新連結。任何已經成為成員的人仍然可以加入你的 Realm。"	""
 "realmsInvitationScreen.refreshDialogTitle"	"Disable Current Link?"	"Original Translation
 zh_CN: 禁用当前链接？
-zh_TW: 要停用目前的連結嗎？"	""
+zh_TW: 要停用目前的連結嗎？"	"禁用当前链接？"
 "realmsInvitationScreen.removeRealmMember"	"Remove player from the Realm"	"Original Translation
 zh_CN: 将玩家从 Realm 移除
-zh_TW: 將玩家從 Realm 中移除"	""
+zh_TW: 將玩家從 Realm 中移除"	"将玩家从Realm移除"
 "realmsInvitationScreen.savingChanges"	"Saving Changes..."	"Original Translation
 zh_CN: 保存更改中...
-zh_TW: 正在儲存變更..."	""
+zh_TW: 正在儲存變更..."	"保存更改中…"
 "realmsInvitationScreen.sendingInvitesFailed"	"Something went wrong. We could not add the players you selected to your Realm. Please try again later."	"Original Translation
 zh_CN: 出错了。我们无法将您所选的用户添加到您的 Realm。请稍后再试。
 zh_TW: 發生問題。我們無法將你選擇的玩家加入你的 Realm。請稍後再試。"	""
 "realmsInvitationScreen.setDefaultPermissionFail"	"Failed to set default permissions."	"Original Translation
 zh_CN: 设置默认许可失败。
-zh_TW: 無法設定預設權限。"	""
+zh_TW: 無法設定預設權限。"	"设置默认权限失败。"
 "realmsInvitationScreen.setPermissionFail"	"Failed to set permission for user %s."	"Original Translation
 zh_CN: 为用户%s设置许可失败。
-zh_TW: 無法為使用者 %s 設定權限。"	""
+zh_TW: 無法為使用者 %s 設定權限。"	"为用户%s设置权限失败。"
 "realmsInvitationScreen.shareDialogCopyButton"	"Copy"	"Original Translation
 zh_CN: 复制
-zh_TW: 複製"	""
+zh_TW: 複製"	"复制"
 "realmsInvitationScreen.shareDialogLabel"	"Anyone with this link can become a member of your Realm. Be careful who you share it with. You may want to download a backup of your world first. You can remove members from Realm settings."	"Original Translation
 zh_CN: 具有此链接的任何人都可以成为您的 Realm 成员。慎重选择要分享的人员。您可能希望首先下载您的世界的备份。您可以从 Realm 设置中删除成员。
 zh_TW: 任何擁有此連結的人都可以成為你的 Realm 的成員。請謹慎選擇分享對象。你可能會希望先下載世界備份。你可以從 Realm 設定中移除成員。"	""
 "realmsInvitationScreen.shareDialogShareButton"	"Share"	"Original Translation
 zh_CN: 分享
-zh_TW: 分享"	""
+zh_TW: 分享"	"分享"
 "realmsInvitationScreen.shareDialogTitle"	"Download Backup Before Sharing?"	"Original Translation
 zh_CN: 分享之前下载备份？
-zh_TW: 要在分享前先下載備份資料嗎？"	""
+zh_TW: 要在分享前先下載備份資料嗎？"	"分享之前下载备份？"
 "realmsInvitationScreen.shareText"	"Come join me in this Realm!"	"Original Translation
 zh_CN: 在这个 Realm 中加入我吧！
 zh_TW: 和我一起玩這個 Realm！"	""
 "realmsInvitationScreen.shareTitle"	"Realms Invitation"	"Original Translation
 zh_CN: Realms 邀请
-zh_TW: Realms 邀請"	""
+zh_TW: Realms 邀請"	"Realms邀请"
 "realmsInvitationScreen.title"	"Add Members"	"Original Translation
 zh_CN: 添加成员
-zh_TW: 新增成員"	""
+zh_TW: 新增成員"	"添加成员"
 "realmsInvitationScreen.unableToAddPlayers"	"Could Not Add Players"	"Original Translation
 zh_CN: 无法添加玩家
-zh_TW: 無法新增玩家"	""
+zh_TW: 無法新增玩家"	"无法添加玩家"
 "realmsInvitationScreen.unblock"	"Unblock"	"Original Translation
 zh_CN: 取消阻止
-zh_TW: 解除封鎖"	""
+zh_TW: 解除封鎖"	"取消封禁"
 "realmsInvitationScreen.unblocked"	"Unblocked"	"Original Translation
 zh_CN: 已取消阻止
-zh_TW: 已解除封鎖"	""
+zh_TW: 已解除封鎖"	"已取消封禁"
 "realmsInvitationScreen.undo"	"Undo"	"Original Translation
 zh_CN: 撤消
-zh_TW: 復原"	""
+zh_TW: 復原"	"撤消"
 "realmsPendingInvitationsScreen.accepted"	"Accepted"	"Original Translation
 zh_CN: 已接受
-zh_TW: 已接受"	""
+zh_TW: 已接受"	"已接受"
 "realmsPendingInvitationsScreen.decline"	"Decline"	"Original Translation
 zh_CN: 拒绝
-zh_TW: 拒絕"	""
+zh_TW: 拒絕"	"拒绝"
 "realmsPendingInvitationsScreen.declined"	"Declined"	"Original Translation
 zh_CN: 已拒绝
-zh_TW: 已拒絕"	""
+zh_TW: 已拒絕"	"已拒绝"
 "realmsPendingInvitationsScreen.fetchingInvites"	"Fetching invites..."	"Original Translation
 zh_CN: 正在获取邀请...
-zh_TW: 獲取邀請..."	""
+zh_TW: 獲取邀請..."	"正在获取邀请…"
 "realmsPendingInvitationsScreen.noInvites"	"You have no pending invites."	"Original Translation
 zh_CN: 你没有待处理邀请。
-zh_TW: 你沒有待處理邀請。"	""
+zh_TW: 你沒有待處理邀請。"	"没有待处理的邀请。"
 "realmsPendingInvitationsScreen.pendingInvitations"	"Realms Membership Invites"	"Original Translation
 zh_CN: Realms 成员邀请
-zh_TW: Realms 會員邀請"	""
+zh_TW: Realms 會員邀請"	"Realms成员邀请"
 "realmsPendingInvitationsScreen.showFriendInvites"	"Only show invites from Friends."	"Original Translation
 zh_CN: 只显示来自好友的邀请。
 zh_TW: 只顯示好友寄的邀請。"	""
 "realmsPlus.popup.bottom_button_text"	"Renew Subscription"	"Original Translation
 zh_CN: 续订
-zh_TW: 續訂"	""
+zh_TW: 續訂"	"续订"
 "realmsPlus.popup.message"	"Your Realms Plus subscription has expired. To regain access to your Realm and the packs or skins you received from Realms Plus you need to renew your subscription."	"Original Translation
 zh_CN: 你的 Realms Plus 定期服务已过期。为了能够重新访问你的 Realm 以及你从 Realms Plus 获得的包或皮肤，你需要续订你的定期服务。
 zh_TW: 你的 Realms Plus 定期服務已過期。若要再次存取 Realm 以及你從 Realms Plus 獲得的套件或外觀，必須續訂你的定期服務。"	""
@@ -38740,22 +38740,22 @@ zh_CN: 你的 Realms 定期服务已升级为 Realms Plus。现在你无需花�
 zh_TW: 你的 Realms 訂閱已升級為 Realms Plus。現在你可以存取精選優質內容的目錄，而且不須額外付費。一次最多可有 10 名玩家一起玩遊戲，而且他們可以免費存取你 Realm 中的所有訂閱內容！"	""
 "realmsPlusUpgradeNotice.continue"	"Continue"	"Original Translation
 zh_CN: 继续
-zh_TW: 繼續"	""
+zh_TW: 繼續"	"继续"
 "realmsPlusUpgradeNotice.title"	"Welcome to Realms Plus!"	"Original Translation
 zh_CN: 欢迎使用 Realms Plus！
-zh_TW: 歡迎使用 Realms Plus！"	""
+zh_TW: 歡迎使用 Realms Plus！"	"欢迎使用Realms Plus！"
 "realmsPlusUpgradeNotice.viewpacks"	"View Realms Plus Packs"	"Original Translation
 zh_CN: 查看 Realms Plus 包
-zh_TW: 檢視 Realms Plus 套件"	""
+zh_TW: 檢視 Realms Plus 套件"	"查看Realms Plus包"
 "realmsSettingsScreen.LoadingInviteLinks"	"Loading invite links..."	"Original Translation
 zh_CN: 正在加载邀请链接...
-zh_TW: 正在載入邀請連結..."	""
+zh_TW: 正在載入邀請連結..."	"正在加载邀请链接…"
 "realmsSettingsScreen.LoadingSubscription"	"Loading subscription..."	"Original Translation
 zh_CN: 载入订阅中...
-zh_TW: 正在載入訂閱服務..."	""
+zh_TW: 正在載入訂閱服務..."	"正在加载订阅…"
 "realmsSettingsScreen.SonyStoreDisplayName"	"PlayStation®Store"	"Original Translation
 zh_CN: PlayStation®Store
-zh_TW: PlayStation®Store"	""
+zh_TW: PlayStation®Store"	"PlayStation®Store"
 "realmsSettingsScreen.SubscriptionTimeLeftRefresh"	"Changes made to your Realms subscription such as stacking time or turning off recurring billing will not be reflected until your next billing date."	"Original Translation
 zh_CN: 在下一次账单日期之前，不会反映对你的 Realms 定期服务所做的更改，例如堆叠时间或关闭重复计费。
 zh_TW: 對於你的 Realms 訂閱所做的變更，例如累積時間或關閉自動續訂，直到下個計費日才會生效。"	""
@@ -38890,118 +38890,118 @@ zh_CN: 当前版本：
 zh_TW: 目前版本："	""
 "realmsSettingsScreen.dev_matching_version_label"	"Commit matching client:"	"Original Translation
 zh_CN: 与提交匹配的客户端：
-zh_TW: 認可符合用戶端："	""
+zh_TW: 認可符合用戶端："	"与提交匹配的客户端："
 "realmsSettingsScreen.dev_next_page_label"	"Next"	"Original Translation
 zh_CN: 下一个
-zh_TW: 下一個"	""
+zh_TW: 下一個"	"下一个"
 "realmsSettingsScreen.dev_no_matching_version_message"	"NO MATCH FOR '%s'"	"Original Translation
 zh_CN: 没有与 '%s' 匹配的对象
-zh_TW: 「%s」沒有配對"	""
+zh_TW: 「%s」沒有配對"	"没有与“%s”匹配的对象"
 "realmsSettingsScreen.dev_prev_page_label"	"Prev"	"Original Translation
 zh_CN: 上一个
-zh_TW: 上一個"	""
+zh_TW: 上一個"	"上一个"
 "realmsSettingsScreen.difficultyOptionLabelFormat"	"%s %s"	"Original Translation
 zh_CN: %s %s
-zh_TW: %s %s"	""
+zh_TW: %s %s"	"%s %s"
 "realmsSettingsScreen.download.worldtoobig"	"Download failed. The world size exceeds the maximum downloadable limit of %s."	"Original Translation
 zh_CN: 下载失败。世界大小超过最大可下载限制（%s）。
-zh_TW: 下載失敗。世界大小超過可下載上限 %s。"	""
+zh_TW: 下載失敗。世界大小超過可下載上限 %s。"	"下载失败。世界大小超过最大可下载限制（%s）。"
 "realmsSettingsScreen.downloadSave"	"Download save"	"Original Translation
 zh_CN: 下载存档
 zh_TW: 下載存檔"	""
 "realmsSettingsScreen.downloadWorldButton"	"Download World"	"Original Translation
 zh_CN: 下载世界
-zh_TW: 下載世界"	""
+zh_TW: 下載世界"	"下载世界"
 "realmsSettingsScreen.downloadWorldNameCopy"	"%s - Copy"	"Original Translation
 zh_CN: %s - 拷贝
-zh_TW: %s - 副本"	""
+zh_TW: %s - 副本"	"%s - 副本"
 "realmsSettingsScreen.durationLabelFormat"	"%d Days Remaining"	"Original Translation
 zh_CN: 剩余 %d 天
-zh_TW: 剩下 %d 天"	""
+zh_TW: 剩下 %d 天"	"剩余%d天"
 "realmsSettingsScreen.errorApply"	"Error when applying content"	"Original Translation
 zh_CN: 应用内容时出现错误
 zh_TW: 套用內容時發生錯誤"	""
 "realmsSettingsScreen.expiration.day"	"1 day"	"Original Translation
 zh_CN: 1 天
-zh_TW: 1 天"	""
+zh_TW: 1 天"	"1天"
 "realmsSettingsScreen.expiration.day.full"	"In 1 day. %s"	"Original Translation
 zh_CN: 1 天后。%s
-zh_TW: 1 天內。%s"	""
+zh_TW: 1 天內。%s"	"1天内。%s"
 "realmsSettingsScreen.expiration.halfDay"	"12 hours"	"Original Translation
 zh_CN: 12 小时
-zh_TW: 12 小時"	""
+zh_TW: 12 小時"	"12小时"
 "realmsSettingsScreen.expiration.halfDay.full"	"In 12 hours. %s"	"Original Translation
 zh_CN: 12 小时后。%s
-zh_TW: 12 小時內。%s"	""
+zh_TW: 12 小時內。%s"	"12小时内。%s"
 "realmsSettingsScreen.expiration.halfHour"	"30 min"	"Original Translation
 zh_CN: 30 分钟
-zh_TW: 30 分鐘"	""
+zh_TW: 30 分鐘"	"30分钟"
 "realmsSettingsScreen.expiration.halfHour.full"	"In 30 min. %s"	"Original Translation
 zh_CN: 30 分钟后。%s
-zh_TW: 30 分鐘內。%s"	""
+zh_TW: 30 分鐘內。%s"	"30分钟内。%s"
 "realmsSettingsScreen.expiration.hour"	"1 hour"	"Original Translation
 zh_CN: 1 小时
-zh_TW: 1 小時"	""
+zh_TW: 1 小時"	"1小时"
 "realmsSettingsScreen.expiration.hour.full"	"In 1 hour. %s"	"Original Translation
 zh_CN: 1 小时后。%s
-zh_TW: 1 小時內。%s"	""
+zh_TW: 1 小時內。%s"	"1 小时内。%s"
 "realmsSettingsScreen.expiration.never"	"Never"	"Original Translation
 zh_CN: 从不
-zh_TW: 永不"	""
+zh_TW: 永不"	"永不"
 "realmsSettingsScreen.expiration.never.full"	"Never Expires"	"Original Translation
 zh_CN: 永不过期
-zh_TW: 永不過期"	""
+zh_TW: 永不過期"	"永不过期"
 "realmsSettingsScreen.expiration.quarterDay"	"6 hours"	"Original Translation
 zh_CN: 6 小时
-zh_TW: 6 小時"	""
+zh_TW: 6 小時"	"6小时"
 "realmsSettingsScreen.expiration.quarterDay.full"	"In 6 hours. %s"	"Original Translation
 zh_CN: 6 小时后。%s
-zh_TW: 6 小時內。%s"	""
+zh_TW: 6 小時內。%s"	"6小时内。%s"
 "realmsSettingsScreen.expiration.timeFormat"	"%s at %s"	"Original Translation
 zh_CN: %s%s
 zh_TW: %s 於 %s"	""
 "realmsSettingsScreen.expiration.unset"	"Set Expiration"	"Original Translation
 zh_CN: 设置过期
-zh_TW: 設定期限"	""
+zh_TW: 設定期限"	"设置过期时间"
 "realmsSettingsScreen.expiration.week"	"7 days"	"Original Translation
 zh_CN: 7 天
-zh_TW: 7 天"	""
+zh_TW: 7 天"	"7天"
 "realmsSettingsScreen.expiration.week.full"	"In 7 days. %s"	"Original Translation
 zh_CN: 7 天后。%s
-zh_TW: 7 天內。%s"	""
+zh_TW: 7 天內。%s"	"7天内。%s"
 "realmsSettingsScreen.extendConsumableButton"	"Extend Subscription"	"Original Translation
 zh_CN: 延长订阅
-zh_TW: 延長訂閱服務"	""
+zh_TW: 延長訂閱服務"	"延长订阅"
 "realmsSettingsScreen.extendConsumableButton.180"	"Extend by 180 Days"	"Original Translation
 zh_CN: 延长 180 天
-zh_TW: 延長 180 天"	""
+zh_TW: 延長 180 天"	"延长180天"
 "realmsSettingsScreen.extendConsumableButton.30"	"Extend by 30 Days"	"Original Translation
 zh_CN: 延长 30 天
-zh_TW: 延長 30 天"	""
+zh_TW: 延長 30 天"	"延长30天"
 "realmsSettingsScreen.extendRealmButton"	"Extend Realm"	"Original Translation
 zh_CN: 延长 Realm
-zh_TW: 延長 Realm"	""
+zh_TW: 延長 Realm"	"延期Realm"
 "realmsSettingsScreen.extendingRealm"	"Extending Realm..."	"Original Translation
 zh_CN: 正在延长 Realm……
-zh_TW: 正在延長 Realm..."	""
+zh_TW: 正在延長 Realm..."	"正在延期Realm…"
 "realmsSettingsScreen.failedApply"	"Some of the selected content could not be applied."	"Original Translation
 zh_CN: 某些已选择内容无法应用。
-zh_TW: 無法套用部分選擇的內容。"	""
+zh_TW: 無法套用部分選擇的內容。"	"某些已选择内容无法应用。"
 "realmsSettingsScreen.failedLoadingInviteLinks"	"Failed Loading Invite Links"	"Original Translation
 zh_CN: 加载邀请链接失败
-zh_TW: 邀請連結載入失敗"	""
+zh_TW: 邀請連結載入失敗"	"加载邀请链接失败"
 "realmsSettingsScreen.failedLoadingSubscription"	"Failed Loading subscription"	"Original Translation
 zh_CN: 加载订阅失败
-zh_TW: 載入訂閱服務失敗"	""
+zh_TW: 載入訂閱服務失敗"	"加载订阅失败"
 "realmsSettingsScreen.failedUploadPack"	"Failed to upload pack %s."	"Original Translation
 zh_CN: 未能上传包 %s。
-zh_TW: 無法上傳套件 %s。"	""
+zh_TW: 無法上傳套件 %s。"	"上传包%s失败。"
 "realmsSettingsScreen.fetchingWorldInfo"	"Fetching Realm Information..."	"Original Translation
 zh_CN: 正在提取 Realm 信息……
-zh_TW: 正在擷取 Realm 資訊..."	""
+zh_TW: 正在擷取 Realm 資訊..."	"正在提取Realm信息…"
 "realmsSettingsScreen.forceResourcePackFail"	"Failed to set force resource pack value"	"Original Translation
 zh_CN: 未能设置强制资源包的值
-zh_TW: 無法設定強制資源套件值"	""
+zh_TW: 無法設定強制資源套件值"	"设置强制资源包的值失败"
 "realmsSettingsScreen.formattedDate"	"%s %d, %d"	"Original Translation
 zh_CN: %s %d，%d
 zh_TW: %s %d, %d"	""
@@ -39019,13 +39019,13 @@ zh_CN: 释放空间
 zh_TW: 釋放空間"	""
 "realmsSettingsScreen.gameModeOptionLabel"	"Game Mode"	"Original Translation
 zh_CN: 游戏模式
-zh_TW: 遊戲模式"	""
+zh_TW: 遊戲模式"	"游戏模式"
 "realmsSettingsScreen.gameSectionTitle"	"Game Settings"	"Original Translation
 zh_CN: 游戏设置
-zh_TW: 遊戲設定"	""
+zh_TW: 遊戲設定"	"游戏设置"
 "realmsSettingsScreen.googlePlayStoreDisplayName"	"Google Play store"	"Original Translation
 zh_CN: Google Play 商店
-zh_TW: Google Play 商店"	""
+zh_TW: Google Play 商店"	"Google Play商店"
 "realmsSettingsScreen.inviteLink.errorLinkAddingBody"	"There was an error adding a link to this Realm, please try again."	"Original Translation
 zh_CN: 向此 Realm 添加链接时出错，请重试。
 zh_TW: 新增連結至此 Realm 時發生錯誤，請再試一次。"	""
@@ -39172,31 +39172,31 @@ zh_CN: 邀请链接
 zh_TW: 邀請連結"	""
 "realmsSettingsScreen.iosStoreDisplayName"	"App Store"	"Original Translation
 zh_CN: App Store
-zh_TW: App Store"	""
+zh_TW: App Store"	"App Store"
 "realmsSettingsScreen.learnMore"	"Learn more"	"Original Translation
 zh_CN: 了解更多
-zh_TW: 深入了解"	""
+zh_TW: 深入了解"	"了解更多"
 "realmsSettingsScreen.manageSubscriptionButton"	"Manage Subscription"	"Original Translation
 zh_CN: 管理订阅
-zh_TW: 管理訂閱服務"	""
+zh_TW: 管理訂閱服務"	"管理订阅"
 "realmsSettingsScreen.manageSubscriptionsButton"	"Manage Subscriptions"	"Original Translation
 zh_CN: 管理订阅
-zh_TW: 管理訂閱"	""
+zh_TW: 管理訂閱"	"管理订阅"
 "realmsSettingsScreen.manualLabel"	"Manual saves count toward the total storage space for your Realm."	"Original Translation
 zh_CN: 手动保存将计入你 Realm 的总存储空间。
 zh_TW: 手動存檔會計入你的 Realm 總儲存空間。"	""
 "realmsSettingsScreen.manualTab"	"Manual"	"Original Translation
 zh_CN: 手动
-zh_TW: 手動"	""
+zh_TW: 手動"	"手动"
 "realmsSettingsScreen.matchingPurchasePlatformFormat"	"You purchased your subscription in the %s"	"Original Translation
 zh_CN: 你于 %s 购买了订阅
 zh_TW: 您於 %s 購買訂閱服務"	""
 "realmsSettingsScreen.maxPlayersLabelFormat"	"%d Friends"	"Original Translation
 zh_CN: %d 位好友
-zh_TW: %d 位好友"	""
+zh_TW: %d 位好友"	"%d位好友"
 "realmsSettingsScreen.membersSectionTitle"	"Members"	"Original Translation
 zh_CN: 成员
-zh_TW: 成員"	""
+zh_TW: 成員"	"成员"
 "realmsSettingsScreen.modal.deleteAndSave.confirm"	"Delete and Save"	"Original Translation
 zh_CN: 删除并保存
 zh_TW: 刪除並儲存"	""
@@ -39289,115 +39289,115 @@ zh_CN: 购买待处理
 zh_TW: 購買待處理"	""
 "realmsSettingsScreen.openRealmButton"	"Open Realm"	"Original Translation
 zh_CN: 打开 Realm
-zh_TW: 開啟 Realm"	""
+zh_TW: 開啟 Realm"	"打开Realm"
 "realmsSettingsScreen.openingRealm"	"Opening Realm..."	"Original Translation
 zh_CN: 正在打开 Realm……
-zh_TW: 正在開啟 Realm..."	""
+zh_TW: 正在開啟 Realm..."	"正在打开Realm…"
 "realmsSettingsScreen.optionsTitle"	"Options"	"Original Translation
 zh_CN: 选项
 zh_TW: 選項"	""
 "realmsSettingsScreen.packs"	"Packs:"	"Original Translation
 zh_CN: 组合包：
-zh_TW: 套件："	""
+zh_TW: 套件："	"包："
 "realmsSettingsScreen.playDisabledRealmButton"	"Realm Closed"	"Original Translation
 zh_CN: Realm 已关闭
-zh_TW: Realm 已關閉"	""
+zh_TW: Realm 已關閉"	"Realm已关闭"
 "realmsSettingsScreen.playExpiredRealmButton"	"Realm Expired"	"Original Translation
 zh_CN: Realm 已过期
-zh_TW: Realm 已過期"	""
+zh_TW: Realm 已過期"	"Realm已过期"
 "realmsSettingsScreen.playRealmButton"	"Play"	"Original Translation
 zh_CN: 游戏
-zh_TW: 遊戲"	""
+zh_TW: 遊戲"	"开始游戏"
 "realmsSettingsScreen.playerCountLabel"	"Size"	"Original Translation
 zh_CN: 大小
-zh_TW: 大小"	""
+zh_TW: 大小"	"大小"
 "realmsSettingsScreen.playersSectionTitle"	"Players"	"Original Translation
 zh_CN: 玩家
-zh_TW: 玩家"	""
+zh_TW: 玩家"	"玩家"
 "realmsSettingsScreen.preferredRegions.AustraliaEast"	"New South Wales, Australia"	"Original Translation
 zh_CN: 澳大利亚新南威尔士州
-zh_TW: 澳洲新南威爾士州"	""
+zh_TW: 澳洲新南威爾士州"	"澳大利亚新南威尔士州"
 "realmsSettingsScreen.preferredRegions.AustraliaSoutheast"	"Victoria, Australia"	"Original Translation
 zh_CN: 澳大利亚维多利亚州
-zh_TW: 澳洲維多利亞州"	""
+zh_TW: 澳洲維多利亞州"	"澳大利亚维多利亚州"
 "realmsSettingsScreen.preferredRegions.BrazilSouth"	"Brazil"	"Original Translation
 zh_CN: 巴西
-zh_TW: 巴西"	""
+zh_TW: 巴西"	"巴西"
 "realmsSettingsScreen.preferredRegions.CanadaCentral"	"Toronto"	"Original Translation
 zh_CN: 多伦多
 zh_TW: 多倫多"	""
 "realmsSettingsScreen.preferredRegions.CentralIndia"	"India"	"Original Translation
 zh_CN: 印度
-zh_TW: 印度"	""
+zh_TW: 印度"	"印度"
 "realmsSettingsScreen.preferredRegions.CentralUs"	"Iowa, USA"	"Original Translation
 zh_CN: 美国爱荷华州
-zh_TW: 美國愛荷華州"	""
+zh_TW: 美國愛荷華州"	"美国艾奥瓦州"
 "realmsSettingsScreen.preferredRegions.EastAsia"	"Hong Kong"	"Original Translation
 zh_CN: 香港特别行政区
-zh_TW: 香港特別行政區"	""
+zh_TW: 香港特別行政區"	"香港"
 "realmsSettingsScreen.preferredRegions.EastUs"	"Virginia, USA"	"Original Translation
 zh_CN: 美国弗吉尼亚州
-zh_TW: 美國維吉尼亞州"	""
+zh_TW: 美國維吉尼亞州"	"美国弗吉尼亚州"
 "realmsSettingsScreen.preferredRegions.EastUs2"	"North Carolina, USA"	"Original Translation
 zh_CN: 美国北卡罗来纳州
-zh_TW: 美國北卡羅萊納州"	""
+zh_TW: 美國北卡羅萊納州"	"美国北卡罗来纳州"
 "realmsSettingsScreen.preferredRegions.FranceCentral"	"France"	"Original Translation
 zh_CN: 法国
-zh_TW: 法國"	""
+zh_TW: 法國"	"法国"
 "realmsSettingsScreen.preferredRegions.JapanEast"	"Eastern Japan"	"Original Translation
 zh_CN: 日本东部
-zh_TW: 東日本"	""
+zh_TW: 東日本"	"日本东部"
 "realmsSettingsScreen.preferredRegions.JapanWest"	"Western Japan"	"Original Translation
 zh_CN: 日本西部
-zh_TW: 西日本"	""
+zh_TW: 西日本"	"日本西部"
 "realmsSettingsScreen.preferredRegions.KoreaCentral"	"South Korea"	"Original Translation
 zh_CN: 韩国
-zh_TW: 南韓"	""
+zh_TW: 南韓"	"韩国"
 "realmsSettingsScreen.preferredRegions.MexicoCentral"	"Mexico City"	"Original Translation
 zh_CN: 墨西哥城
 zh_TW: 墨西哥城"	""
 "realmsSettingsScreen.preferredRegions.NorthCentralUs"	"Illinois, USA"	"Original Translation
 zh_CN: 美国伊利诺伊州
-zh_TW: 美國伊利諾州"	""
+zh_TW: 美國伊利諾州"	"美国伊利诺伊州"
 "realmsSettingsScreen.preferredRegions.NorthEurope"	"Ireland"	"Original Translation
 zh_CN: 爱尔兰
-zh_TW: 愛爾蘭"	""
+zh_TW: 愛爾蘭"	"爱尔兰"
 "realmsSettingsScreen.preferredRegions.SouthAfricaNorth"	"South Africa"	"Original Translation
 zh_CN: 南非
-zh_TW: 南非"	""
+zh_TW: 南非"	"南非"
 "realmsSettingsScreen.preferredRegions.SouthCentralUs"	"Texas, USA"	"Original Translation
 zh_CN: 美国得克萨斯州
-zh_TW: 美國德州"	""
+zh_TW: 美國德州"	"美国得克萨斯州"
 "realmsSettingsScreen.preferredRegions.SoutheastAsia"	"Singapore"	"Original Translation
 zh_CN: 新加坡
-zh_TW: 新加坡"	""
+zh_TW: 新加坡"	"新加坡"
 "realmsSettingsScreen.preferredRegions.SwedenCentral"	"Sweden"	"Original Translation
 zh_CN: 瑞典
-zh_TW: 瑞典"	""
+zh_TW: 瑞典"	"瑞典"
 "realmsSettingsScreen.preferredRegions.UAENorth"	"United Arab Emirates (UAE)"	"Original Translation
 zh_CN: 阿拉伯联合酋长国 (UAE)
-zh_TW: 阿拉伯聯合國大公國 (UAE)"	""
+zh_TW: 阿拉伯聯合國大公國 (UAE)"	"阿联酋"
 "realmsSettingsScreen.preferredRegions.UKSouth"	"Southern England"	"Original Translation
 zh_CN: 英国南部
-zh_TW: 英國南部"	""
+zh_TW: 英國南部"	"英国南部"
 "realmsSettingsScreen.preferredRegions.WestCentralUS"	"Utah, USA"	"Original Translation
 zh_CN: 美国犹他州
-zh_TW: 美國猶他州"	""
+zh_TW: 美國猶他州"	"美国犹他州"
 "realmsSettingsScreen.preferredRegions.WestEurope"	"Netherlands"	"Original Translation
 zh_CN: 荷兰
-zh_TW: 荷蘭"	""
+zh_TW: 荷蘭"	"荷兰"
 "realmsSettingsScreen.preferredRegions.WestUs"	"California, USA"	"Original Translation
 zh_CN: 美国加利福尼亚州
-zh_TW: 美國加州"	""
+zh_TW: 美國加州"	"美国加利福尼亚州"
 "realmsSettingsScreen.preferredRegions.WestUs2"	"Washington, USA"	"Original Translation
 zh_CN: 美国华盛顿州
-zh_TW: 美國華盛頓州"	""
+zh_TW: 美國華盛頓州"	"美国华盛顿州"
 "realmsSettingsScreen.preferredRegions.firstToJoin"	"Automatic (first to join session)"	"Original Translation
 zh_CN: 自动（最先加入会话）
-zh_TW: 自動 (第一個加入連線遊戲)"	""
+zh_TW: 自動 (第一個加入連線遊戲)"	"自动（取决于首个加入会话的玩家）"
 "realmsSettingsScreen.preferredRegions.owner"	"Automatic (Realm owner connection)"	"Original Translation
 zh_CN: 自动（Realm 所有者连接）
-zh_TW: 自動 (Realm擁有者連線)"	""
+zh_TW: 自動 (Realm擁有者連線)"	"自动（取决于Realm所有者的连接）"
 "realmsSettingsScreen.preferredRegions.ownerSelected"	"Automatic,"	"Original Translation
 zh_CN: 自动
 zh_TW: 自動，"	""
@@ -39557,10 +39557,10 @@ zh_CN: 此 Realm 上的其他玩家可能会有更好的体验，具体取决于
 zh_TW: 該 Realm 的其他玩家可能會獲得更好的體驗，而這取決於他們的連接強度和物理位置。"	""
 "realmsSettingsScreen.slowConnection.doNotShow"	"Don't show this message again"	"Original Translation
 zh_CN: 不再显示此消息
-zh_TW: 不要再顯示這個訊息"	""
+zh_TW: 不要再顯示這個訊息"	"不再显示此消息"
 "realmsSettingsScreen.slowConnection.title"	"Slow Connection"	"Original Translation
 zh_CN: 连接缓慢
-zh_TW: 連線速度慢"	""
+zh_TW: 連線速度慢"	"连接缓慢"
 "realmsSettingsScreen.subscriptionLabelFormat"	"Renews every %d days"	"Original Translation
 zh_CN: 每 %d 天更新一次
 zh_TW: 每 %d 天續訂"	""
@@ -39569,22 +39569,22 @@ zh_CN: 每 %d 天续订一次付费 Realms 定期服务
 zh_TW: 每 %d 天續訂 Realms 付費訂閱"	""
 "realmsSettingsScreen.subscriptionSectionTitle"	"Subscription"	"Original Translation
 zh_CN: 订阅
-zh_TW: 訂閱服務"	""
+zh_TW: 訂閱服務"	"订阅"
 "realmsSettingsScreen.survivalRadioButton"	"Survival"	"Original Translation
 zh_CN: 生存
-zh_TW: 生存"	""
+zh_TW: 生存"	"生存"
 "realmsSettingsScreen.switchStoreDisplayName"	"Nintendo eShop"	"Original Translation
 zh_CN: Nintendo eShop
-zh_TW: Nintendo eShop"	""
+zh_TW: Nintendo eShop"	"Nintendo eShop"
 "realmsSettingsScreen.unknownPackName"	"Unknown Name"	"Original Translation
 zh_CN: 未知名称
-zh_TW: 未知名稱"	""
+zh_TW: 未知名稱"	"未知名称"
 "realmsSettingsScreen.unknownStoreDisplayName"	"unknown store"	"Original Translation
 zh_CN: 未知商店
-zh_TW: 未知商店"	""
+zh_TW: 未知商店"	"未知商店"
 "realmsSettingsScreen.updatingWorldInfo"	"Updating Realm Information..."	"Original Translation
 zh_CN: 正在更新 Realm 信息……
-zh_TW: 正在更新 Realm 資訊..."	""
+zh_TW: 正在更新 Realm 資訊..."	"正在更新Realm信息…"
 "realmsSettingsScreen.upload.worldtoobig"	"Upload failed. The world size exceeds the maximum uploadable limit of %s."	"Original Translation
 zh_CN: 上传失败。世界大小超过最大可上传限制（%s）。
 zh_TW: 上載失敗。世界大小超過可上傳上限 %s。"	""
@@ -39593,37 +39593,37 @@ zh_CN: 这将从你的 Realm 活跃栏位中移除当前的世界，将其替换
 zh_TW: 此動作將從 Realm 的使用中欄位移除你目前的世界，並且替換成新的世界。你的 Realm 成員將能造訪你的新世界。選擇「取消」然後「下載世界」以下載目前世界的副本，防止資料遺失，或是選擇「確認」繼續替換你的世界。"	""
 "realmsSettingsScreen.uploadConfirmationTitle"	"Replace World?"	"Original Translation
 zh_CN: 替换世界吗？
-zh_TW: 是否要置換世界？"	""
+zh_TW: 是否要置換世界？"	"替换世界？"
 "realmsSettingsScreen.uploadWorldButton"	"Upload World"	"Original Translation
 zh_CN: 上传世界
-zh_TW: 上傳世界"	""
+zh_TW: 上傳世界"	"上传世界"
 "realmsSettingsScreen.version"	"Version"	"Original Translation
 zh_CN: 版本
-zh_TW: 版本"	""
+zh_TW: 版本"	"版本"
 "realmsSettingsScreen.viewSubscriptionsButton"	"View Subscriptions"	"Original Translation
 zh_CN: 查看订阅
-zh_TW: 檢視訂閱"	""
+zh_TW: 檢視訂閱"	"查看订阅"
 "realmsSettingsScreen.windowsStoreDisplayName"	"Windows Store"	"Original Translation
 zh_CN: Windows 应用商店
-zh_TW: Windows 市集"	""
+zh_TW: Windows 市集"	"Windows商店"
 "realmsSettingsScreen.worldSectionTitle"	"World"	"Original Translation
 zh_CN: 世界
-zh_TW: 世界"	""
+zh_TW: 世界"	"世界"
 "realmsSettingsScreen.xboxOneStoreDisplayName"	"Xbox Store"	"Original Translation
 zh_CN: Xbox 商店
-zh_TW: Xbox 市集"	""
+zh_TW: Xbox 市集"	"Xbox商店"
 "realmsSharingScreen.badInviteMessage"	"The invite link is either incorrect or deactivated. Ask the Realm's owner for an updated link and make sure you've entered it correctly."	"Original Translation
 zh_CN: 邀请链接不正确或已停用。向 Realm 的所有者索取更新的链接，并确保输入的内容无误。
 zh_TW: 邀請連結不正確或已停用。請向 Realm 的擁有者詢問更新後的連結，並確定輸入正確無誤。"	""
 "realmsSharingScreen.badInviteTitle"	"Invalid Realm Link"	"Original Translation
 zh_CN: 无效的 Realm 链接
-zh_TW: 無效的 Realm 連結"	""
+zh_TW: 無效的 Realm 連結"	"无效的Realm链接"
 "realmsSharingScreen.blockedInviteMessage"	"Sorry, you've been blocked! Ask the Realm's owner to remove you from the Blocked list."	"Original Translation
 zh_CN: 很抱歉，您已被屏蔽！请让 Realm 所有者将您从“屏蔽”列表中移除。
 zh_TW: 很抱歉，你已被封鎖了！請要求 Realm 的擁有者將你從封鎖清單中移除。"	""
 "realmsSharingScreen.blockedInviteTitle"	"Player Blocked"	"Original Translation
 zh_CN: 用户被屏蔽
-zh_TW: 玩家已封鎖"	""
+zh_TW: 玩家已封鎖"	"用户被封禁"
 "realmsSharingScreen.cantJoinClosedMessage"	"%s is closed. Ask %s to reopen it."	"Original Translation
 zh_CN: %s 已关闭。要求 %s 重新打开。
 zh_TW: %s 已關閉。請 %s 重新開啟。"	""
@@ -39641,43 +39641,43 @@ zh_CN: 您需要用 Microsoft 账号登录，才能加入 Realm。请登录，�
 zh_TW: 你必須登入 Microsoft 帳戶才能加入 Realm。請登入然後再試一次。"	""
 "realmsSharingScreen.failedSignInModalTitle"	"Sign in to join this Realm"	"Original Translation
 zh_CN: 登录以加入此 Realm
-zh_TW: 登入以加入此 Realm"	""
+zh_TW: 登入以加入此 Realm"	"登录以加入此Realm"
 "realmsSharingScreen.invalidPermissionTitle"	"Invalid permissions"	"Original Translation
 zh_CN: 无效权限
-zh_TW: 無效的權限"	""
+zh_TW: 無效的權限"	"无效的权限"
 "realmsSharingScreen.inviteLinkNotFoundMessage"	"This invite link is invalid."	"Original Translation
 zh_CN: 此邀请链接无效。
-zh_TW: 此邀請連結無效。"	""
+zh_TW: 此邀請連結無效。"	"此邀请链接无效。"
 "realmsSharingScreen.inviteLinkNotFoundTitle"	"Realms Error"	"Original Translation
 zh_CN: Realms 错误
-zh_TW: Realms 錯誤"	""
+zh_TW: Realms 錯誤"	"Realms错误"
 "realmsSharingScreen.join"	"Join"	"Original Translation
 zh_CN: 加入
-zh_TW: 加入"	""
+zh_TW: 加入"	"加入"
 "realmsSharingScreen.joinMessage"	"Join Realm %s?"	"Original Translation
 zh_CN: 加入 Realm %s？
-zh_TW: 要加入 Realm %s 嗎？"	""
+zh_TW: 要加入 Realm %s 嗎？"	"加入Realm %s？"
 "realmsSharingScreen.joinTitle"	"Join Realm?"	"Original Translation
 zh_CN: 加入 Realm？
-zh_TW: 要加入 Realm 嗎？"	""
+zh_TW: 要加入 Realm 嗎？"	"加入Realm？"
 "realmsSharingScreen.regenerateLinkFailed"	"Failed to generate new invite link"	"Original Translation
 zh_CN: 无法产生新邀请链接
-zh_TW: 無法產生新的邀請連結"	""
+zh_TW: 無法產生新的邀請連結"	"无法生成新邀请链接"
 "realmsSharingScreen.unexpectedServerResponseMessage"	"Sorry, we had a problem connecting to the Realm. Please try again later."	"Original Translation
 zh_CN: 很抱歉，连接到 Realm 时出现了问题。请稍后重试。
 zh_TW: 很抱歉，連接到 Realm 資料庫時發生問題。請稍後再試。"	""
 "realmsSharingScreen.unexpectedServerResponseTitle"	"Realms Error"	"Original Translation
 zh_CN: Realms 错误
-zh_TW: Realms 錯誤"	""
+zh_TW: Realms 錯誤"	"Realms错误"
 "realmsSlotsScreen.activateWarning"	"If you edit or activate this world, you will kick all active players. Don't worry, they can rejoin."	"Original Translation
 zh_CN: 如果您编辑或激活这个世界，您会踢出所有活跃玩家。别担心，他们可以重新加入。
 zh_TW: 如果編輯或啟動這個世界，將會踢掉目前所有的玩家。別擔心，他們可以重新加入。"	""
 "realmsSlotsScreen.activateWorld"	"Activate World"	"Original Translation
 zh_CN: 激活世界
-zh_TW: 啟動世界"	""
+zh_TW: 啟動世界"	"激活世界"
 "realmsSlotsScreen.celebrationMap"	"Realms Celebration Map"	"Original Translation
 zh_CN: Realms 庆典地图
-zh_TW: Realms 慶典地圖"	""
+zh_TW: Realms 慶典地圖"	"Realms庆典地图"
 "realmsSlotsScreen.chooseSlot"	"Choose a Slot"	"Original Translation
 zh_CN: 选择插槽
 zh_TW: 選擇欄位"	""
@@ -39689,19 +39689,19 @@ zh_CN: 选择最多三个世界上传到你的 Realms 服务器。选择一个�
 zh_TW: 最多可選 3 個世界上傳至你的 Realms 伺服器。選擇世界來啟動或編輯！"	""
 "realmsSlotsScreen.editRealm"	"Manage Realm"	"Original Translation
 zh_CN: 管理 Realm
-zh_TW: 管理 Realm"	""
+zh_TW: 管理 Realm"	"管理Realm"
 "realmsSlotsScreen.editWorld"	"Edit World"	"Original Translation
 zh_CN: 编辑世界
-zh_TW: 編輯世界"	""
+zh_TW: 編輯世界"	"编辑世界"
 "realmsSlotsScreen.gamesettings"	"Game Settings"	"Original Translation
 zh_CN: 游戏设置
-zh_TW: 遊戲設定"	""
+zh_TW: 遊戲設定"	"游戏设置"
 "realmsSlotsScreen.new"	"New World"	"Original Translation
 zh_CN: 新的世界
-zh_TW: 新的世界"	""
+zh_TW: 新的世界"	"新的世界"
 "realmsSlotsScreen.readyToPlay"	"Ready to Play"	"Original Translation
 zh_CN: 准备游玩
-zh_TW: 準備遊玩"	""
+zh_TW: 準備遊玩"	"准备就绪"
 "realmsStories.realmEvents.outOfGameMessage"	"There was a Realm Event. Check out the Story Feed in Minecraft to see what happened."	"Original Translation
 zh_CN: 有一个 Realm 事件。查看 Minecraft 中的故事动态，了解发生了什么。
 zh_TW: 有一個 Realm 事件。請查看 Minecraft 中的故事動態來看看發生了什麼。"	""
@@ -39812,22 +39812,22 @@ zh_CN: 激活
 zh_TW: 啟用"	""
 "resourcePack.available.none.behavior"	"You have no behavior packs"	"Original Translation
 zh_CN: 您没有行为资源包
-zh_TW: 您沒有行為套件"	""
+zh_TW: 您沒有行為套件"	"没有行为包"
 "resourcePack.available.none.store"	"View Marketplace"	"Original Translation
 zh_CN: 查看市场
-zh_TW: 檢視市集"	""
+zh_TW: 檢視市集"	"查看市场"
 "resourcePack.available.none.text"	"You have no resource packs"	"Original Translation
 zh_CN: 您没有资源包
-zh_TW: 您沒有資源套件"	""
+zh_TW: 您沒有資源套件"	"没有资源包"
 "resourcePack.available.title"	"Available Resource Packs"	"Original Translation
 zh_CN: 可用的资源包
-zh_TW: 可用的資源套件"	""
+zh_TW: 可用的資源套件"	"可用的资源包"
 "resourcePack.available.title.behaviorPacks"	"Available Behavior Packs"	"Original Translation
 zh_CN: 可用的行为包
-zh_TW: 可用的行為套件"	""
+zh_TW: 可用的行為套件"	"可用的行为包"
 "resourcePack.available.title.packs"	"My Packs"	"Original Translation
 zh_CN: 我的包
-zh_TW: 我的套件"	""
+zh_TW: 我的套件"	"我的包"
 "resourcePack.cached.title"	"Cached Packs"	"Original Translation
 zh_CN: 缓存包
 zh_TW: 快取包"	""
@@ -40169,7 +40169,7 @@ zh_CN: 原剪贴板项目中的原点。该点既是放置锚点，也是剪贴�
 zh_TW: 剪貼簿項目中的原點。這用作放置錨點以及剪貼簿圍繞其旋轉和鏡像的點"	""
 "resourcePack.editor.ClipboardPreviewControl.placement.title"	"Options"	"Original Translation
 zh_CN: 选项
-zh_TW: 選項"	""
+zh_TW: 選項"	"选项"
 "resourcePack.editor.ClipboardPreviewControl.placement.tooltip"	"The options for the current clipboard item."	"Original Translation
 zh_CN: 当前剪贴板项目的选项。
 zh_TW: 目前剪貼簿項目的選項。"	""
@@ -40181,19 +40181,19 @@ zh_CN: 显示关于当前剪贴板项目的信息。
 zh_TW: 顯示目前剪貼簿項目的資訊。"	""
 "resourcePack.editor.ClipboardPreviewControl.rotation.180"	"180°"	"Original Translation
 zh_CN: 180°
-zh_TW: 180°"	""
+zh_TW: 180°"	"180°"
 "resourcePack.editor.ClipboardPreviewControl.rotation.270"	"270°"	"Original Translation
 zh_CN: 270°
-zh_TW: 270°"	""
+zh_TW: 270°"	"270°"
 "resourcePack.editor.ClipboardPreviewControl.rotation.90"	"90°"	"Original Translation
 zh_CN: 90°
-zh_TW: 90°"	""
+zh_TW: 90°"	"90°"
 "resourcePack.editor.ClipboardPreviewControl.rotation.none"	"None"	"Original Translation
 zh_CN: 无
-zh_TW: 無"	""
+zh_TW: 無"	"无"
 "resourcePack.editor.ClipboardPreviewControl.rotation.title"	"Rotation"	"Original Translation
 zh_CN: 旋转
-zh_TW: 旋轉"	""
+zh_TW: 旋轉"	"旋转"
 "resourcePack.editor.ClipboardPreviewControl.rotation.tooltip"	"Allows the rotation of the clipboard item on the Y axis by 90 degree increments.%s%s - Rotate Paste Preview clockwise%s%s - Rotate Paste Preview counterclockwise"	"Original Translation
 zh_CN: 允许剪贴板项目在 Y 轴上的旋转增加 90 度。%s%s - 顺时针旋转粘贴预览%s%s - 逆时针旋转粘贴预览
 zh_TW: 允許剪貼板項目在 Y 軸上以 90 度的增量旋轉。%s%s - 順時針旋轉貼上預覽%s%s - 逆時針旋轉貼上預覽"	""
@@ -40595,31 +40595,31 @@ zh_CN: 将当前选择的内容复制到剪贴板，并在此过程中删除选�
 zh_TW: 將目前選取的內容複製到剪貼簿，並在此過程中移除選取的內容"	""
 "resourcePack.editor.copypaste.keyBinding.copy.title"	"Copy"	"Original Translation
 zh_CN: 复制
-zh_TW: 複製"	""
+zh_TW: 複製"	"复制"
 "resourcePack.editor.copypaste.keyBinding.copy.tooltip"	"Copy Selection to clipboard."	"Original Translation
 zh_CN: 将选择内容复制到剪贴板。
 zh_TW: 複製選取範圍到剪貼簿。"	""
 "resourcePack.editor.copypaste.keyBinding.cut.title"	"Cut"	"Original Translation
 zh_CN: 剪切
-zh_TW: 剪下"	""
+zh_TW: 剪下"	"剪切"
 "resourcePack.editor.copypaste.keyBinding.cut.tooltip"	"Cut Selection to clipboard."	"Original Translation
 zh_CN: 将选择内容剪切到剪贴板。
 zh_TW: 剪下選取範圍到剪貼簿。"	""
 "resourcePack.editor.copypaste.keyBinding.paste.title"	"Paste"	"Original Translation
 zh_CN: 粘贴
-zh_TW: 貼上"	""
+zh_TW: 貼上"	"粘贴"
 "resourcePack.editor.copypaste.keyBinding.paste.tooltip"	"Paste clipboard at cursor position."	"Original Translation
 zh_CN: 将剪贴板内容粘贴在光标位置。
 zh_TW: 在游標位置貼上剪貼簿內容。"	""
 "resourcePack.editor.copypaste.menu.copy.title"	"Copy"	"Original Translation
 zh_CN: 复制
-zh_TW: 複製"	""
+zh_TW: 複製"	"复制"
 "resourcePack.editor.copypaste.menu.copy.tooltip"	"Copy the contents of the current selection to the clipboard, leaving the contents of the Selection intact."	"Original Translation
 zh_CN: 将当前选择的内容复制到剪贴板，保留选择内容不变。
 zh_TW: 將目前選取的內容複製到剪貼簿，保留選取的內容不變。"	""
 "resourcePack.editor.copypaste.menu.cut.title"	"Cut"	"Original Translation
 zh_CN: 剪切
-zh_TW: 剪下"	""
+zh_TW: 剪下"	"剪切"
 "resourcePack.editor.copypaste.menu.cut.tooltip"	"Copy the contents of the current selection to the clipboard and remove the contents of the Selection in the process."	"Original Translation
 zh_CN: 将当前选择的内容复制到剪贴板，并在此过程中删除选择的内容。
 zh_TW: 將目前選取的內容複製到剪貼簿，並在此過程中移除選取的內容。"	""
@@ -40655,13 +40655,13 @@ zh_CN: 黑影
 zh_TW: 黑影"	""
 "resourcePack.editor.datatransferaccessors.water"	"Water"	"Original Translation
 zh_CN: 水
-zh_TW: 水"	""
+zh_TW: 水"	"水"
 "resourcePack.editor.deferredLightingSettings.menu.title"	"Vibrant Visuals Settings"	"Original Translation
 zh_CN: 灵动视效设置
-zh_TW: 絢麗視覺設定"	""
+zh_TW: 絢麗視覺設定"	"灵动视效设置"
 "resourcePack.editor.delete.keyBinding.title"	"Delete"	"Original Translation
 zh_CN: 删除
-zh_TW: 刪除"	""
+zh_TW: 刪除"	"删除"
 "resourcePack.editor.delete.keyBinding.tooltip"	"Replace all block inside a selection with Air blocks."	"Original Translation
 zh_CN: 将选择范围内的所有方块替换为空气方块。
 zh_TW: 將選取範圍內的所有方塊用空氣方塊取代。"	""
@@ -40670,7 +40670,7 @@ zh_CN: 左键点击实体以查看并编辑其属性。
 zh_TW: 在實體上按下滑鼠左鍵以檢視並編輯其屬性。"	""
 "resourcePack.editor.exportProject.advancedSettings"	"Advanced Settings"	"Original Translation
 zh_CN: 高级设置
-zh_TW: 進階設定"	""
+zh_TW: 進階設定"	"高级设置"
 "resourcePack.editor.exportProject.advancedSettings.bedsWork"	"Skip Night by Sleeping"	"Original Translation
 zh_CN: 通过睡觉跳过夜晚
 zh_TW: 睡眠跳過夜晚"	""
@@ -40679,7 +40679,7 @@ zh_CN: 确定晚上在床上睡觉是否会跳到早上。
 zh_TW: 決定夜晚在床上睡覺時是否會直接跳到早上。"	""
 "resourcePack.editor.exportProject.advancedSettings.bonusChest"	"Bonus Chest"	"Original Translation
 zh_CN: 奖励箱
-zh_TW: 贈品箱"	""
+zh_TW: 贈品箱"	"奖励箱"
 "resourcePack.editor.exportProject.advancedSettings.bonusChest.tooltip"	"A Bonus Chest spawns near World Spawn. The chest spawns once the first time the world is played by anyone."	"Original Translation
 zh_CN: 世界生成位置附近会生成一个奖励箱子。每当有玩家第一次进入世界游玩时就会生成奖励箱子。
 zh_TW: 世界重生點附近會生成贈品箱。此贈品箱只會在任何人首次遊玩此世界時生成一次。"	""
@@ -40742,7 +40742,7 @@ zh_CN: 重生半径
 zh_TW: 重生半徑"	""
 "resourcePack.editor.exportProject.advancedSettings.showCoordinates"	"Show Coordinates"	"Original Translation
 zh_CN: 显示坐标
-zh_TW: 顯示座標"	""
+zh_TW: 顯示座標"	"显示坐标"
 "resourcePack.editor.exportProject.advancedSettings.showCoordinates.tooltip"	"Displays the world coordinates on the players' screen of their current position."	"Original Translation
 zh_CN: 在玩家的屏幕上显示当前位置的世界坐标。
 zh_TW: 在玩家的螢幕上顯示其目前位置的世界座標。"	""
@@ -40787,7 +40787,7 @@ zh_CN: 确定方块遭到破坏时是否掉落物品。
 zh_TW: 決定方塊被破壞時是否會掉落。"	""
 "resourcePack.editor.exportProject.advancedSettings.tntExplodes"	"TNT Explodes"	"Original Translation
 zh_CN: TNT 爆炸
-zh_TW: 炸藥會爆炸"	""
+zh_TW: 炸藥會爆炸"	"TNT爆炸"
 "resourcePack.editor.exportProject.advancedSettings.tntExplodes.tooltip"	"Determines whether TNT can explode."	"Original Translation
 zh_CN: 确定 TNT 是否会爆炸。
 zh_TW: 決定炸藥是否能爆炸。"	""
@@ -40796,43 +40796,43 @@ zh_CN: 这些设置允许进一步自定义世界，不需要启用作弊。
 zh_TW: 這些設定可以讓您進一步自訂世界。這些設定不需要啟用作弊模式。"	""
 "resourcePack.editor.exportProject.cheatsSettings"	"Cheats Settings"	"Original Translation
 zh_CN: 作弊设置
-zh_TW: 作弊設定"	""
+zh_TW: 作弊設定"	"作弊设置"
 "resourcePack.editor.exportProject.cheatsSettings.cheats"	"Cheats"	"Original Translation
 zh_CN: 作弊
-zh_TW: 作弊"	""
+zh_TW: 作弊"	"作弊"
 "resourcePack.editor.exportProject.cheatsSettings.cheats.tooltip"	"Determines whether Cheats are enabled for the exported world."	"Original Translation
 zh_CN: 确定是否为导出的世界启用作弊。
 zh_TW: 決定匯出的世界是否啟用作弊模式。"	""
 "resourcePack.editor.exportProject.cheatsSettings.commandBlockOutput"	"Command Block Output"	"Original Translation
 zh_CN: 命令方块输出
-zh_TW: 指令方塊輸出"	""
+zh_TW: 指令方塊輸出"	"命令方块输出"
 "resourcePack.editor.exportProject.cheatsSettings.commandBlockOutput.tooltip"	"Determines whether the admins should be notified when a Command block executes."	"Original Translation
 zh_CN: 确定命令方块执行时是否应通知管理员。
 zh_TW: 決定指令方塊執行時是否應通知管理員。"	""
 "resourcePack.editor.exportProject.cheatsSettings.commandBlocks"	"Command Blocks"	"Original Translation
 zh_CN: 命令方块
-zh_TW: 指令方塊"	""
+zh_TW: 指令方塊"	"命令方块"
 "resourcePack.editor.exportProject.cheatsSettings.commandBlocks.tooltip"	"Determines whether Command Blocks work."	"Original Translation
 zh_CN: 确定命令方块是否有效。
 zh_TW: 決定指令方塊是否運作。"	""
 "resourcePack.editor.exportProject.cheatsSettings.daylightCycle"	"Daylight Cycle"	"Original Translation
 zh_CN: 日照时长
-zh_TW: 日照時長"	""
+zh_TW: 日照時長"	"昼夜更替"
 "resourcePack.editor.exportProject.cheatsSettings.daylightCycle.alwaysDay"	"Always Day"	"Original Translation
 zh_CN: 终为白日
-zh_TW: 永為白晝"	""
+zh_TW: 永為白晝"	"终为白日"
 "resourcePack.editor.exportProject.cheatsSettings.daylightCycle.lockTime"	"Lock Time"	"Original Translation
 zh_CN: 锁定时间
-zh_TW: 鎖定時間"	""
+zh_TW: 鎖定時間"	"锁定时间"
 "resourcePack.editor.exportProject.cheatsSettings.daylightCycle.normal"	"Normal"	"Original Translation
 zh_CN: 一般
-zh_TW: 普通"	""
+zh_TW: 普通"	"普通"
 "resourcePack.editor.exportProject.cheatsSettings.daylightCycle.tooltip"	"Determines if Daylight Cycle is enabled or locked to a specific time when the world is exported."	"Original Translation
 zh_CN: 确定导出世界时是启用昼夜更替还是锁定到特定时间。
 zh_TW: 決定匯出世界時，日光循環是否啟用，或是鎖定在特定時間。"	""
 "resourcePack.editor.exportProject.cheatsSettings.drowningDamage"	"Drowning Damage"	"Original Translation
 zh_CN: 溺水伤害
-zh_TW: 溺水傷害"	""
+zh_TW: 溺水傷害"	"溺水伤害"
 "resourcePack.editor.exportProject.cheatsSettings.educationFeatures"	"Education Features"	"Original Translation
 zh_CN: 教育功能
 zh_TW: Education 功能"	"教育版功能"
