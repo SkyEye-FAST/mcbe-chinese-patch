@@ -25946,19 +25946,19 @@ zh_CN: 使用摇杆控制方案时，向上拖动 :tip_virtual_joystick: 向前�
 zh_TW: 使用手把時，按住方向鍵上 :tip_virtual_joystick: 向前移動，然後點下 :tip_virtual_button_dismount: 離開。"	""
 "howtoplay.weapons"	"Weapons"	"Original Translation
 zh_CN: 武器
-zh_TW: 武器"	""
+zh_TW: 武器"	"武器"
 "howtoplay.weapons.header.1"	"Sword"	"Original Translation
 zh_CN: 木剑
-zh_TW: 劍"	""
+zh_TW: 劍"	"剑"
 "howtoplay.weapons.header.2"	"Bow"	"Original Translation
 zh_CN: 弓
-zh_TW: 弓"	""
+zh_TW: 弓"	"弓"
 "howtoplay.weapons.header.3"	"Crossbow"	"Original Translation
 zh_CN: 弩
-zh_TW: 十字弓"	""
+zh_TW: 十字弓"	"弩"
 "howtoplay.weapons.header.4"	"Trident"	"Original Translation
 zh_CN: 三叉戟
-zh_TW: 三叉戟"	""
+zh_TW: 三叉戟"	"三叉戟"
 "howtoplay.weapons.header.5"	"Enchanted Weapons"	"Original Translation
 zh_CN: 附魔武器
 zh_TW: 附魔武器"	""
@@ -26024,10 +26024,10 @@ zh_CN: 如果想快速打开您自己的世界建造者能力，请运行下述�
 zh_TW: 若要快速切換您自己的「創世者」能力，請選擇執行以下任一指令："	""
 "howtoplay.worldBuilder.text.6"	"/worldbuilder"	"Original Translation
 zh_CN: /worldbuilder
-zh_TW: /worldbuilder"	""
+zh_TW: /worldbuilder"	"/worldbuilder"
 "howtoplay.worldBuilder.text.7"	"/wb"	"Original Translation
 zh_CN: /wb
-zh_TW: /wb"	""
+zh_TW: /wb"	"/wb"
 "howtoplay.worldBuilder.text.8"	"To query your World Builder ability, run the following command:"	"Original Translation
 zh_CN: 如果想查询您的世界建造者能力，请运行下述命令：
 zh_TW: 若要查詢您的「創世者」能力，請執行以下指令："	""
@@ -26039,7 +26039,7 @@ zh_CN: 游戏指南：世界建造者
 zh_TW: 遊戲說明：創世者"	""
 "howtoplay.worlds"	"Worlds"	"Original Translation
 zh_CN: 世界
-zh_TW: 世界"	""
+zh_TW: 世界"	"世界"
 "howtoplay.worlds.header.1"	"Mini-Games"	"Original Translation
 zh_CN: 小游戏
 zh_TW: 小遊戲"	""
@@ -41055,7 +41055,7 @@ zh_CN: 开局时，玩家的物品栏中有一张定位器地图。
 zh_TW: 玩家開始時，物品欄中會有一張定位地圖。"	""
 "resourcePack.editor.exportProject.advancedSettings.tileDrops"	"Tile Drops"	"Original Translation
 zh_CN: 方块掉落
-zh_TW: 磚塊掉落"	""
+zh_TW: 磚塊掉落"	"方块掉落"
 "resourcePack.editor.exportProject.advancedSettings.tileDrops.tooltip"	"Determines whether blocks drop when they are broken."	"Original Translation
 zh_CN: 确定方块遭到破坏时是否掉落物品。
 zh_TW: 決定方塊被破壞時是否會掉落。"	""
@@ -41106,7 +41106,7 @@ zh_CN: 确定导出世界时是启用昼夜更替还是锁定到特定时间。
 zh_TW: 決定匯出世界時，日光循環是否啟用，或是鎖定在特定時間。"	""
 "resourcePack.editor.exportProject.cheatsSettings.drowningDamage"	"Drowning Damage"	"Original Translation
 zh_CN: 溺水伤害
-zh_TW: 溺水傷害"	""
+zh_TW: 溺水傷害"	"溺水伤害"
 "resourcePack.editor.exportProject.cheatsSettings.educationFeatures"	"Education Features"	"Original Translation
 zh_CN: 教育功能
 zh_TW: Education 功能"	"教育版功能"
@@ -41115,31 +41115,31 @@ zh_CN: 确定导出的世界是否可以使用教育版功能。
 zh_TW: 決定匯出的世界是否可以使用教育版功能。"	""
 "resourcePack.editor.exportProject.cheatsSettings.entitiesDropLoot"	"Entities Drop Loot"	"Original Translation
 zh_CN: 实体掉落战利品
-zh_TW: 實體掉落拾取"	""
+zh_TW: 實體掉落拾取"	"实体掉落战利品"
 "resourcePack.editor.exportProject.cheatsSettings.entitiesDropLoot.tooltip"	"Determines whether an entity (other than a mob) drops itself when broken."	"Original Translation
 zh_CN: 确定实体（生物除外）被破坏时是否掉落其本身。
 zh_TW: 決定實體 (生物除外) 被破壞時是否會掉落自身。"	""
 "resourcePack.editor.exportProject.cheatsSettings.fallDamage"	"Fall Damage"	"Original Translation
 zh_CN: 坠落伤害
-zh_TW: 掉落傷害"	""
+zh_TW: 掉落傷害"	"摔落伤害"
 "resourcePack.editor.exportProject.cheatsSettings.fallDamage.tooltip"	"Determines whether a player should receive Fall Damage."	"Original Translation
 zh_CN: 确定玩家是否应该受到坠落伤害。
 zh_TW: 決定玩家是否會受到掉落傷害。"	""
 "resourcePack.editor.exportProject.cheatsSettings.fireDamage"	"Fire Damage"	"Original Translation
 zh_CN: 火焰伤害
-zh_TW: 火燒傷害"	""
+zh_TW: 火燒傷害"	"火焰伤害"
 "resourcePack.editor.exportProject.cheatsSettings.fireDamage.tooltip"	"Determines whether fire damages other players."	"Original Translation
 zh_CN: 确定火焰是否伤害其他玩家。
 zh_TW: 決定火焰是否會對其他玩家造成傷害。"	""
 "resourcePack.editor.exportProject.cheatsSettings.freezeDamage"	"Freeze Damage"	"Original Translation
 zh_CN: 冰冻伤害
-zh_TW: 冰凍傷害"	""
+zh_TW: 冰凍傷害"	"冰冻伤害"
 "resourcePack.editor.exportProject.cheatsSettings.freezeDamage.tooltip"	"Determines whether a player takes damage from Powder Snow."	"Original Translation
 zh_CN: 确定玩家是否受到细雪伤害。
 zh_TW: 決定玩家是否會受到細雪造成的傷害。"	""
 "resourcePack.editor.exportProject.cheatsSettings.functionCommandLimit"	"Function Command Limit"	"Original Translation
 zh_CN: 函数命令限制
-zh_TW: 函數指令限制"	""
+zh_TW: 函數指令限制"	"函数命令限制"
 "resourcePack.editor.exportProject.cheatsSettings.functionCommandLimit.tooltip"	"Sets the max number of commands that /function can execute."	"Original Translation
 zh_CN: 设置 /function 可以执行的最大命令数量。
 zh_TW: 設定 /函數指令可以執行的最大指令數量。"	""
@@ -41163,31 +41163,31 @@ zh_CN: 确定一刻可以执行的最大命令方块数量。
 zh_TW: 決定單個遊戲刻內可以執行的最大指令方塊數量。"	""
 "resourcePack.editor.exportProject.cheatsSettings.mobGriefing"	"Mob Griefing"	"Original Translation
 zh_CN: 生物破坏
-zh_TW: 生物惡意破壞"	""
+zh_TW: 生物惡意破壞"	"生物破坏"
 "resourcePack.editor.exportProject.cheatsSettings.mobGriefing.tooltip"	"Determines whether mobs can change blocks or pick up items."	"Original Translation
 zh_CN: 确定生物是可以改变方块，还是可以拾取物品。
 zh_TW: 決定生物是否能改變方塊或撿拾物品。"	""
 "resourcePack.editor.exportProject.cheatsSettings.mobSpawning"	"Mob Spawning"	"Original Translation
 zh_CN: 生物生成
-zh_TW: 生物重生"	""
+zh_TW: 生物重生"	"生物生成"
 "resourcePack.editor.exportProject.cheatsSettings.mobSpawning.tooltip"	"Determines whether Mobs spawn in the world."	"Original Translation
 zh_CN: 确定是否在世界中生成生物。
 zh_TW: 決定世界上是否會生成生物。"	""
 "resourcePack.editor.exportProject.cheatsSettings.randomTickSpeed"	"Random Tick Speed"	"Original Translation
 zh_CN: 随机刻速度
-zh_TW: 隨機刻速度"	""
+zh_TW: 隨機刻速度"	"随机刻速度"
 "resourcePack.editor.exportProject.cheatsSettings.randomTickSpeed.tooltip"	"Determines how often a Random Tick can occur."	"Original Translation
 zh_CN: 确定随机刻的发生频率。
 zh_TW: 決定隨機刻發生的頻率。"	""
 "resourcePack.editor.exportProject.cheatsSettings.sendCommandFeedback"	"Send Command Feedback"	"Original Translation
 zh_CN: 发送命令反馈
-zh_TW: 傳送指令回饋"	""
+zh_TW: 傳送指令回饋"	"发送命令反馈"
 "resourcePack.editor.exportProject.cheatsSettings.sendCommandFeedback.tooltip"	"Determines whether Command Block Output is displayed in Chat."	"Original Translation
 zh_CN: 确定聊天中是否显示命令方块输出。
 zh_TW: 決定指令方塊的輸出是否顯示在聊天室中。"	""
 "resourcePack.editor.exportProject.cheatsSettings.showBorderEffect"	"Show Border Effect"	"Original Translation
 zh_CN: 显示边框效果
-zh_TW: 顯示邊界效果"	""
+zh_TW: 顯示邊界效果"	"显示边框效果"
 "resourcePack.editor.exportProject.cheatsSettings.showBorderEffect.tooltip"	"Determines whether Border blocks display particles."	"Original Translation
 zh_CN: 确定边框方块是否显示粒子。
 zh_TW: 決定邊界方塊是否顯示粒子效果。"	""
@@ -41196,16 +41196,16 @@ zh_CN: 这些是需要启用作弊才能更新的设置。
 zh_TW: 這些是需要啟用作弊模式才能更新的設定。"	""
 "resourcePack.editor.exportProject.cheatsSettings.weatherCycle"	"Weather Cycle"	"Original Translation
 zh_CN: 天气更替
-zh_TW: 天氣循環"	""
+zh_TW: 天氣循環"	"天气更替"
 "resourcePack.editor.exportProject.cheatsSettings.weatherCycle.tooltip"	"Determines if weather cycle is on or if it is locked to a specific weather type."	"Original Translation
 zh_CN: 确定是启用天气更替，还是锁定到特定天气类型。
 zh_TW: 決定天氣循環是否開啟，或者是否鎖定在特定的天氣類型。"	""
 "resourcePack.editor.exportProject.difficulty.easy"	"Easy"	"Original Translation
 zh_CN: 简单
-zh_TW: 簡單"	""
+zh_TW: 簡單"	"简单"
 "resourcePack.editor.exportProject.difficulty.hard"	"Hard"	"Original Translation
 zh_CN: 困难
-zh_TW: 困難"	""
+zh_TW: 困難"	"困难"
 "resourcePack.editor.exportProject.difficulty.normal"	"Normal"	"Original Translation
 zh_CN: 普通
 zh_TW: 普通"	""
@@ -41283,7 +41283,7 @@ zh_CN: 这些是在导出世界时使用的基本设置。
 zh_TW: 這些是匯出世界時所使用的基本世界設定。"	""
 "resourcePack.editor.exportProject.generalSettings.worldName"	"World Name"	"Original Translation
 zh_CN: 世界名称
-zh_TW: 世界名稱"	""
+zh_TW: 世界名稱"	"世界名称"
 "resourcePack.editor.exportProject.generalSettings.worldName.tooltip"	"This is the name that the exported world has when it appears in Minecraft."	"Original Translation
 zh_CN: 这是导出的世界在 Minecraft 中显示的名称。
 zh_TW: 這是匯出後的世界在 Minecraft 中顯示的名稱。"	""
@@ -41301,13 +41301,13 @@ zh_CN: 自定义开始时间
 zh_TW: 自訂起始時間"	""
 "resourcePack.editor.exportProject.initialPlaySettings.spawnPosition"	"World Spawn Point"	"Original Translation
 zh_CN: 世界出生点
-zh_TW: 世界重生點"	""
+zh_TW: 世界重生點"	"世界出生点"
 "resourcePack.editor.exportProject.initialPlaySettings.spawnPosition.tooltip"	"The location a player spawns into the world the first time they spawn into the world."	"Original Translation
 zh_CN: 玩家进入世界后，第一次生成的位置。
 zh_TW: 玩家初次進入世界時的重生位置。"	""
 "resourcePack.editor.exportProject.initialPlaySettings.startTime"	"Starting Time"	"Original Translation
 zh_CN: 开始时间
-zh_TW: 起始時間"	""
+zh_TW: 起始時間"	"开始时间"
 "resourcePack.editor.exportProject.initialPlaySettings.startTime.tooltip"	"The time that the world starts the first time it is played."	"Original Translation
 zh_CN: 第一次游玩世界时，世界启动的时间。
 zh_TW: 世界在首次遊玩時開始的時間。"	""
@@ -41331,43 +41331,43 @@ zh_CN: 确定玩家是否可以攻击其他玩家。
 zh_TW: 決定玩家是否可以攻擊其他玩家。"	""
 "resourcePack.editor.exportProject.multiplayerSettings.multiplayerGame"	"Multiplayer Game"	"Original Translation
 zh_CN: 多人游戏
-zh_TW: 多人遊戲"	""
+zh_TW: 多人遊戲"	"多人游戏"
 "resourcePack.editor.exportProject.multiplayerSettings.multiplayerGame.tooltip"	"Determines whether the world is exported with multiplayer enabled."	"Original Translation
 zh_CN: 确定是否在启用多人游戏的状态下导出世界。
 zh_TW: 決定匯出的世界是否啟用多人遊戲。"	""
 "resourcePack.editor.exportProject.multiplayerSettings.playerAccess"	"Player Access"	"Original Translation
 zh_CN: 玩家访问权限
-zh_TW: 玩家存取"	""
+zh_TW: 玩家存取"	"玩家访问权限"
 "resourcePack.editor.exportProject.multiplayerSettings.playerAccess.friendsOfFriends"	"Friend of Friends"	"Original Translation
 zh_CN: 好友的好友
-zh_TW: 好友的好友"	""
+zh_TW: 好友的好友"	"好友的好友"
 "resourcePack.editor.exportProject.multiplayerSettings.playerAccess.friendsOnly"	"Friends Only"	"Original Translation
 zh_CN: 仅好友
-zh_TW: 僅限好友"	""
+zh_TW: 僅限好友"	"仅好友"
 "resourcePack.editor.exportProject.multiplayerSettings.playerAccess.inviteOnly"	"Invite Only"	"Original Translation
 zh_CN: 仅邀请
-zh_TW: 僅限邀請"	""
+zh_TW: 僅限邀請"	"仅邀请"
 "resourcePack.editor.exportProject.multiplayerSettings.playerAccess.tooltip"	"Determines the access needed for multiple players to join the world."	"Original Translation
 zh_CN: 确定多名玩家加入世界所需的访问权限。
 zh_TW: 決定多位玩家加入世界所需的權限。"	""
 "resourcePack.editor.exportProject.multiplayerSettings.playerPermissions"	"Player Permissions"	"Original Translation
 zh_CN: 玩家权限
-zh_TW: 玩家權限"	""
+zh_TW: 玩家權限"	"玩家权限"
 "resourcePack.editor.exportProject.multiplayerSettings.playerPermissions.custom"	"Custom"	"Original Translation
 zh_CN: 自定义
-zh_TW: 自訂"	""
+zh_TW: 自訂"	"自定义"
 "resourcePack.editor.exportProject.multiplayerSettings.playerPermissions.member"	"Member"	"Original Translation
 zh_CN: 成员
-zh_TW: 成員"	""
+zh_TW: 成員"	"成员"
 "resourcePack.editor.exportProject.multiplayerSettings.playerPermissions.operator"	"Operator"	"Original Translation
 zh_CN: 操作员
-zh_TW: 操作者"	""
+zh_TW: 操作者"	"管理员"
 "resourcePack.editor.exportProject.multiplayerSettings.playerPermissions.tooltip"	"Determines the permissions a player has when they join the exported world."	"Original Translation
 zh_CN: 确定玩家加入导出的世界时所拥有的权限。
 zh_TW: 決定玩家加入匯出後世界的權限。"	""
 "resourcePack.editor.exportProject.multiplayerSettings.playerPermissions.visitor"	"Visitor"	"Original Translation
 zh_CN: 访客
-zh_TW: 訪客"	""
+zh_TW: 訪客"	"访客"
 "resourcePack.editor.exportProject.multiplayerSettings.tooltip"	"These are the Multiplayer Settings for the exported world."	"Original Translation
 zh_CN: 这些是导出的世界的多人游戏设置。
 zh_TW: 這些是匯出後世界的多人遊戲設定。"	""
@@ -41385,19 +41385,19 @@ zh_CN: 重置为默认设置
 zh_TW: 重設為預設值"	""
 "resourcePack.editor.exportProject.weather.clear"	"Clear"	"Original Translation
 zh_CN: 晴天
-zh_TW: 清除"	""
+zh_TW: 清除"	"晴天"
 "resourcePack.editor.exportProject.weather.default"	"Current Weather"	"Original Translation
 zh_CN: 当前天气
-zh_TW: 目前天氣"	""
+zh_TW: 目前天氣"	"当前天气"
 "resourcePack.editor.exportProject.weather.rain"	"Rain"	"Original Translation
 zh_CN: 下雨
-zh_TW: 雨天"	""
+zh_TW: 雨天"	"雨天"
 "resourcePack.editor.exportProject.weather.thunder"	"Thunder"	"Original Translation
 zh_CN: 雷暴
-zh_TW: 雷霆"	""
+zh_TW: 雷霆"	"雷雨"
 "resourcePack.editor.global.keyBinding.toggleMode.title"	"Toggle Mode"	"Original Translation
 zh_CN: 切换模式
-zh_TW: 切換模式"	""
+zh_TW: 切換模式"	"切换模式"
 "resourcePack.editor.global.keyBinding.toggleMode.tooltip"	"Toggle between viewport focus, UI focus, and Crosshair mode."	"Original Translation
 zh_CN: 在视区焦点、UI 焦点和十字准线模式之间进行切换。
 zh_TW: 在視角聚焦、使用者介面聚焦和準星模式之間切換。"	""
@@ -41415,7 +41415,7 @@ zh_CN: 前往出生点
 zh_TW: 前往起始點"	""
 "resourcePack.editor.goToMark.pane.location"	"Location"	"Original Translation
 zh_CN: 位置
-zh_TW: 位置"	""
+zh_TW: 位置"	"位置"
 "resourcePack.editor.goToMark.pane.location.tooltip"	"Shows the current player location. These can be updates and used to Teleport to a new location in the world."	"Original Translation
 zh_CN: 显示当前玩家位置。这些可以是更新数据，并用于传送到世界中的新位置。
 zh_TW: 顯示目前玩家位置。這些可以更新並用於傳送到世界中的新位置。"	""
