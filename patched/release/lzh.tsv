@@ -8923,7 +8923,7 @@ zh_CN: 经验修补
 zh_TW: 修補"	""
 "enchantment.oxygen"	"Respiration"	"Original Translation
 zh_CN: 水下呼吸
-zh_TW: 水中呼吸"	""
+zh_TW: 水中呼吸"	"水肺"
 "enchantment.protect.all"	"Protection"	"Original Translation
 zh_CN: 保护
 zh_TW: 防護"	""
@@ -49396,79 +49396,79 @@ zh_CN: 碘
 zh_TW: 碘"	"碘"
 "tile.element.in.name"	"Indium"	"Original Translation
 zh_CN: 铟
-zh_TW: 銦"	""
+zh_TW: 銦"	"銦"
 "tile.element.ir.name"	"Iridium"	"Original Translation
 zh_CN: 铱
-zh_TW: 銥"	""
+zh_TW: 銥"	"銥"
 "tile.element.k.name"	"Potassium"	"Original Translation
 zh_CN: 钾
-zh_TW: 鉀"	""
+zh_TW: 鉀"	"鉀"
 "tile.element.kr.name"	"Krypton"	"Original Translation
 zh_CN: 氪
-zh_TW: 氪"	""
+zh_TW: 氪"	"氪"
 "tile.element.la.name"	"Lanthanum"	"Original Translation
 zh_CN: 镧
-zh_TW: 鑭"	""
+zh_TW: 鑭"	"鑭"
 "tile.element.li.name"	"Lithium"	"Original Translation
 zh_CN: 锂
-zh_TW: 鋰"	""
+zh_TW: 鋰"	"鋰"
 "tile.element.lr.name"	"Lawrencium"	"Original Translation
 zh_CN: 铹
-zh_TW: 鐒"	""
+zh_TW: 鐒"	"鐒"
 "tile.element.lu.name"	"Lutetium"	"Original Translation
 zh_CN: 镥
-zh_TW: 鎦"	""
+zh_TW: 鎦"	"鑥"
 "tile.element.lv.name"	"Livermorium"	"Original Translation
 zh_CN: 鉝
-zh_TW: 鉝"	""
+zh_TW: 鉝"	"鉝"
 "tile.element.mc.name"	"Moscovium"	"Original Translation
 zh_CN: 镆
-zh_TW: 鏌"	""
+zh_TW: 鏌"	"鏌"
 "tile.element.md.name"	"Mendelevium"	"Original Translation
 zh_CN: 钔
-zh_TW: 鍆"	""
+zh_TW: 鍆"	"鍆"
 "tile.element.mg.name"	"Magnesium"	"Original Translation
 zh_CN: 镁
-zh_TW: 鎂"	""
+zh_TW: 鎂"	"鎂"
 "tile.element.mn.name"	"Manganese"	"Original Translation
 zh_CN: 锰
-zh_TW: 錳"	""
+zh_TW: 錳"	"錳"
 "tile.element.mo.name"	"Molybdenum"	"Original Translation
 zh_CN: 钼
-zh_TW: 鉬"	""
+zh_TW: 鉬"	"鉬"
 "tile.element.mt.name"	"Meitnerium"	"Original Translation
 zh_CN: 䥑
-zh_TW: 䥑"	""
+zh_TW: 䥑"	"䥑"
 "tile.element.n.name"	"Nitrogen"	"Original Translation
 zh_CN: 氮
-zh_TW: 氮"	""
+zh_TW: 氮"	"淡"
 "tile.element.na.name"	"Sodium"	"Original Translation
 zh_CN: 钠
-zh_TW: 鈉"	""
+zh_TW: 鈉"	"鈉"
 "tile.element.nb.name"	"Niobium"	"Original Translation
 zh_CN: 铌
-zh_TW: 鈮"	""
+zh_TW: 鈮"	"鈮"
 "tile.element.nd.name"	"Neodymium"	"Original Translation
 zh_CN: 钕
-zh_TW: 釹"	""
+zh_TW: 釹"	"釹"
 "tile.element.ne.name"	"Neon"	"Original Translation
 zh_CN: 氖
-zh_TW: 氖"	""
+zh_TW: 氖"	"氖"
 "tile.element.nh.name"	"Nihonium"	"Original Translation
 zh_CN: 鉨
-zh_TW: 鉨"	""
+zh_TW: 鉨"	"鉨"
 "tile.element.ni.name"	"Nickel"	"Original Translation
 zh_CN: 镍
-zh_TW: 鎳"	""
+zh_TW: 鎳"	"鎳"
 "tile.element.no.name"	"Nobelium"	"Original Translation
 zh_CN: 锘
-zh_TW: 鍩"	""
+zh_TW: 鍩"	"鍩"
 "tile.element.np.name"	"Neptunium"	"Original Translation
 zh_CN: 镎
-zh_TW: 錼"	""
+zh_TW: 錼"	"鎿"
 "tile.element.o.name"	"Oxygen"	"Original Translation
 zh_CN: 氧
-zh_TW: 氧"	""
+zh_TW: 氧"	"養"
 "tile.element.og.name"	"Oganesson"	"Original Translation
 zh_CN: Oganesson
 zh_TW: Oganesson"	"鿫"
@@ -49498,257 +49498,257 @@ zh_CN: 镨
 zh_TW: 鐠"	"鐠"
 "tile.element.pt.name"	"Platinum"	"Original Translation
 zh_CN: 铂
-zh_TW: 鉑"	""
+zh_TW: 鉑"	"鉑"
 "tile.element.pu.name"	"Plutonium"	"Original Translation
 zh_CN: 钚
-zh_TW: 鈽"	""
+zh_TW: 鈽"	"鈈"
 "tile.element.ra.name"	"Radium"	"Original Translation
 zh_CN: 镭
-zh_TW: 鐳"	""
+zh_TW: 鐳"	"鐳"
 "tile.element.rb.name"	"Rubidium"	"Original Translation
 zh_CN: 铷
-zh_TW: 銣"	""
+zh_TW: 銣"	"銣"
 "tile.element.re.name"	"Rhenium"	"Original Translation
 zh_CN: 铼
-zh_TW: 錸"	""
+zh_TW: 錸"	"錸"
 "tile.element.rf.name"	"Rutherfordium"	"Original Translation
 zh_CN: 鑪
-zh_TW: 鑪"	""
+zh_TW: 鑪"	"鑪"
 "tile.element.rg.name"	"Roentgenium"	"Original Translation
 zh_CN: 錀
-zh_TW: 錀"	""
+zh_TW: 錀"	"錀"
 "tile.element.rh.name"	"Rhodium"	"Original Translation
 zh_CN: 铑
-zh_TW: 銠"	""
+zh_TW: 銠"	"銠"
 "tile.element.rn.name"	"Radon"	"Original Translation
 zh_CN: 氡
-zh_TW: 氡"	""
+zh_TW: 氡"	"氡"
 "tile.element.ru.name"	"Ruthenium"	"Original Translation
 zh_CN: 钌
-zh_TW: 釕"	""
+zh_TW: 釕"	"釕"
 "tile.element.s.name"	"Sulfur"	"Original Translation
 zh_CN: 硫
-zh_TW: 硫"	""
+zh_TW: 硫"	"硫"
 "tile.element.sb.name"	"Antimony"	"Original Translation
 zh_CN: 锑
-zh_TW: 銻"	""
+zh_TW: 銻"	"銻"
 "tile.element.sc.name"	"Scandium"	"Original Translation
 zh_CN: 钪
-zh_TW: 鈧"	""
+zh_TW: 鈧"	"鈧"
 "tile.element.se.name"	"Selenium"	"Original Translation
 zh_CN: 硒
-zh_TW: 硒"	""
+zh_TW: 硒"	"硒"
 "tile.element.sg.name"	"Seaborgium"	"Original Translation
 zh_CN: Seaborgium
-zh_TW: Seaborgium"	""
+zh_TW: Seaborgium"	"𨭎"
 "tile.element.si.name"	"Silicon"	"Original Translation
 zh_CN: 硅
-zh_TW: 矽"	""
+zh_TW: 矽"	"硅"
 "tile.element.sm.name"	"Samarium"	"Original Translation
 zh_CN: 钐
-zh_TW: 釤"	""
+zh_TW: 釤"	"釤"
 "tile.element.sn.name"	"Tin"	"Original Translation
 zh_CN: 锡
-zh_TW: 錫"	""
+zh_TW: 錫"	"錫"
 "tile.element.sr.name"	"Strontium"	"Original Translation
 zh_CN: 锶
-zh_TW: 鍶"	""
+zh_TW: 鍶"	"鍶"
 "tile.element.ta.name"	"Tantalum"	"Original Translation
 zh_CN: 钽
-zh_TW: 鉭"	""
+zh_TW: 鉭"	"鉭"
 "tile.element.tb.name"	"Terbium"	"Original Translation
 zh_CN: 铽
-zh_TW: 鋱"	""
+zh_TW: 鋱"	"鋱"
 "tile.element.tc.name"	"Technetium"	"Original Translation
 zh_CN: 锝
-zh_TW: 鎝"	""
+zh_TW: 鎝"	"鍀"
 "tile.element.te.name"	"Tellurium"	"Original Translation
 zh_CN: 碲
-zh_TW: 碲"	""
+zh_TW: 碲"	"碲"
 "tile.element.th.name"	"Thorium"	"Original Translation
 zh_CN: 钍
-zh_TW: 釷"	""
+zh_TW: 釷"	"釷"
 "tile.element.ti.name"	"Titanium"	"Original Translation
 zh_CN: 钛
-zh_TW: 鈦"	""
+zh_TW: 鈦"	"鈦"
 "tile.element.tl.name"	"Thallium"	"Original Translation
 zh_CN: 铊
-zh_TW: 鉈"	""
+zh_TW: 鉈"	"鉈"
 "tile.element.tm.name"	"Thulium"	"Original Translation
 zh_CN: 铥
-zh_TW: 銩"	""
+zh_TW: 銩"	"銩"
 "tile.element.ts.name"	"Tennessine"	"Original Translation
 zh_CN: Tennessine
-zh_TW: Tennessine"	""
+zh_TW: Tennessine"	"鿬"
 "tile.element.u.name"	"Uranium"	"Original Translation
 zh_CN: 铀
-zh_TW: 鈾"	""
+zh_TW: 鈾"	"鈾"
 "tile.element.unknown.name"	"Unknown Element"	"Original Translation
 zh_CN: 未知元素
-zh_TW: 未知元素"	""
+zh_TW: 未知元素"	"未明之炁"
 "tile.element.v.name"	"Vanadium"	"Original Translation
 zh_CN: 钒
-zh_TW: 釩"	""
+zh_TW: 釩"	"釩"
 "tile.element.w.name"	"Tungsten"	"Original Translation
 zh_CN: 钨
-zh_TW: 鎢"	""
+zh_TW: 鎢"	"鎢"
 "tile.element.xe.name"	"Xenon"	"Original Translation
 zh_CN: 氙
-zh_TW: 氙"	""
+zh_TW: 氙"	"氙"
 "tile.element.y.name"	"Yttrium"	"Original Translation
 zh_CN: 钇
-zh_TW: 釔"	""
+zh_TW: 釔"	"釔"
 "tile.element.yb.name"	"Ytterbium"	"Original Translation
 zh_CN: 镱
-zh_TW: 鐿"	""
+zh_TW: 鐿"	"鐿"
 "tile.element.zn.name"	"Zinc"	"Original Translation
 zh_CN: 锌
-zh_TW: 鋅"	""
+zh_TW: 鋅"	"鋅"
 "tile.element.zr.name"	"Zirconium"	"Original Translation
 zh_CN: 锆
-zh_TW: 鋯"	""
+zh_TW: 鋯"	"鋯"
 "tile.elementconstructor.name"	"Element Constructor"	"Original Translation
 zh_CN: 元素构造器
-zh_TW: 元素製造器"	""
+zh_TW: 元素製造器"	"構素檯"
 "tile.emerald_block.name"	"Block of Emerald"	"Original Translation
 zh_CN: 绿宝石块
-zh_TW: 翡翠方塊"	""
+zh_TW: 翡翠方塊"	"祖母綠塊"
 "tile.emerald_ore.name"	"Emerald Ore"	"Original Translation
 zh_CN: 绿宝石矿石
-zh_TW: 翡翠礦石"	""
+zh_TW: 翡翠礦石"	"祖母綠礦"
 "tile.enchanting_table.name"	"Enchanting Table"	"Original Translation
 zh_CN: 附魔台
-zh_TW: 附魔台"	""
+zh_TW: 附魔台"	"淬靈案"
 "tile.end_brick_stairs.name"	"End Stone Brick Stairs"	"Original Translation
 zh_CN: 末地石砖楼梯
-zh_TW: 終界石磚塊梯"	""
+zh_TW: 終界石磚塊梯"	"終界石磚階"
 "tile.end_bricks.name"	"End Stone Bricks"	"Original Translation
 zh_CN: 末地石砖
-zh_TW: 終界石磚塊"	""
+zh_TW: 終界石磚塊"	"終界石磚塊"
 "tile.end_portal_frame.name"	"End Portal Frame"	"Original Translation
 zh_CN: 末地传送门框架
-zh_TW: 終界傳送門框架"	""
+zh_TW: 終界傳送門框架"	"終界結界門匡"
 "tile.end_rod.name"	"End Rod"	"Original Translation
 zh_CN: 末地烛
-zh_TW: 終界燭"	""
+zh_TW: 終界燭"	"終界燭"
 "tile.end_stone.name"	"End Stone"	"Original Translation
 zh_CN: 末地石
-zh_TW: 終界石"	""
+zh_TW: 終界石"	"終界石"
 "tile.enderChest.name"	"Ender Chest"	"Original Translation
 zh_CN: 末影箱
-zh_TW: 終界箱"	""
+zh_TW: 終界箱"	"終眇箱"
 "tile.ender_chest.name"	"Ender Chest"	"Original Translation
 zh_CN: 末影箱
-zh_TW: 終界箱"	""
+zh_TW: 終界箱"	"終眇箱"
 "tile.exposed_chiseled_copper.name"	"Exposed Chiseled Copper"	"Original Translation
 zh_CN: 外露錾制铜块
-zh_TW: 外露鑿刻銅"	""
+zh_TW: 外露鑿刻銅"	"渡濕雕銅塊"
 "tile.exposed_copper.name"	"Exposed Copper"	"Original Translation
 zh_CN: 斑驳的铜块
-zh_TW: 外露的銅方塊"	""
+zh_TW: 外露的銅方塊"	"渡濕銅塊"
 "tile.exposed_copper_bulb.name"	"Exposed Copper Bulb"	"Original Translation
 zh_CN: 外露铜灯泡
-zh_TW: 外露銅燈泡"	""
-"tile.exposed_copper_chest.name"	"Exposed Copper Chest"	"Original Translation"	""
+zh_TW: 外露銅燈泡"	"渡濕銅燈"
+"tile.exposed_copper_chest.name"	"Exposed Copper Chest"	"Original Translation"	"渡濕銅箱"
 "tile.exposed_copper_door.name"	"Exposed Copper Door"	"Original Translation
 zh_CN: 外露铜门
-zh_TW: 外露銅門"	""
+zh_TW: 外露銅門"	"渡濕銅門"
 "tile.exposed_copper_grate.name"	"Exposed Copper Grate"	"Original Translation
 zh_CN: 外露铜格栅
-zh_TW: 外露銅雕花格"	""
+zh_TW: 外露銅雕花格"	"渡濕銅柵網"
 "tile.exposed_copper_trapdoor.name"	"Exposed Copper Trapdoor"	"Original Translation
 zh_CN: 外露铜活板门
-zh_TW: 外露銅地板門"	""
+zh_TW: 外露銅地板門"	"渡濕銅窖門"
 "tile.exposed_cut_copper.name"	"Exposed Cut Copper"	"Original Translation
 zh_CN: 外露切制铜块
-zh_TW: 外露的切製銅方塊"	""
+zh_TW: 外露的切製銅方塊"	"渡濕割銅塊"
 "tile.exposed_cut_copper_slab.name"	"Exposed Cut Copper Slab"	"Original Translation
 zh_CN: 外露切制铜块台阶
-zh_TW: 外露的切製銅半磚"	""
+zh_TW: 外露的切製銅半磚"	"渡濕割銅版"
 "tile.exposed_cut_copper_stairs.name"	"Exposed Cut Copper Stairs"	"Original Translation
 zh_CN: 外露切制铜楼梯
-zh_TW: 外露的切製銅階梯"	""
+zh_TW: 外露的切製銅階梯"	"渡濕割銅階"
 "tile.farmland.name"	"Farmland"	"Original Translation
 zh_CN: 耕地
-zh_TW: 農地"	""
+zh_TW: 農地"	"疇"
 "tile.fence.name"	"Oak Fence"	"Original Translation
 zh_CN: 橡木栅栏
-zh_TW: 橡木柵欄"	""
+zh_TW: 橡木柵欄"	"柞檻"
 "tile.fence_gate.name"	"Oak Fence Gate"	"Original Translation
 zh_CN: 橡木栅栏门
-zh_TW: 橡木柵欄門"	""
+zh_TW: 橡木柵欄門"	"柞扉"
 "tile.fire.name"	"Fire"	"Original Translation
 zh_CN: 火
-zh_TW: 火"	""
+zh_TW: 火"	"火"
 "tile.firefly_bush.name"	"Firefly Bush"	"Original Translation
 zh_CN: 萤火虫灌木
-zh_TW: 螢火蟲野地"	""
+zh_TW: 螢火蟲野地"	"螢叢"
 "tile.fletching_table.name"	"Fletching Table"	"Original Translation
 zh_CN: 制箭台
-zh_TW: 製箭台"	""
+zh_TW: 製箭台"	"製箭案"
 "tile.flowering_azalea.name"	"Flowering Azalea"	"Original Translation
 zh_CN: 盛开的杜鹃花
-zh_TW: 盛開的杜鵑花"	""
+zh_TW: 盛開的杜鵑花"	"芳杜鵑叢"
 "tile.flowing_lava.name"	"Lava"	"Original Translation
 zh_CN: 熔岩
-zh_TW: 熔岩"	""
+zh_TW: 熔岩"	"熔石"
 "tile.flowing_water.name"	"Water"	"Original Translation
 zh_CN: 水
-zh_TW: 水"	""
+zh_TW: 水"	"水"
 "tile.frog_spawn.name"	"Frogspawn"	"Original Translation
 zh_CN: 青蛙卵
-zh_TW: 青蛙卵"	""
+zh_TW: 青蛙卵"	"鼃卵"
 "tile.frosted_ice.name"	"Frosted Ice"	"Original Translation
 zh_CN: 冰霜
-zh_TW: 冰霜"	""
+zh_TW: 冰霜"	"霜冰"
 "tile.furnace.name"	"Furnace"	"Original Translation
 zh_CN: 熔炉
-zh_TW: 熔爐"	""
+zh_TW: 熔爐"	"爐"
 "tile.gilded_blackstone.name"	"Gilded Blackstone"	"Original Translation
 zh_CN: 镶金黑石
-zh_TW: 鑲金黑石"	""
+zh_TW: 鑲金黑石"	"嵌金之墨石"
 "tile.glass.name"	"Glass"	"Original Translation
 zh_CN: 玻璃
-zh_TW: 玻璃"	""
+zh_TW: 玻璃"	"琉璃"
 "tile.glass_pane.name"	"Glass Pane"	"Original Translation
 zh_CN: 玻璃板
-zh_TW: 玻璃窗格"	""
+zh_TW: 玻璃窗格"	"琉璃嵌板"
 "tile.glazedTerracotta.black.name"	"Black Glazed Terracotta"	"Original Translation
 zh_CN: 黑色带釉陶瓦
-zh_TW: 黑色帶釉陶土"	""
+zh_TW: 黑色帶釉陶土"	"黑釉陶"
 "tile.glazedTerracotta.blue.name"	"Blue Glazed Terracotta"	"Original Translation
 zh_CN: 蓝色带釉陶瓦
-zh_TW: 藍色帶釉陶土"	""
+zh_TW: 藍色帶釉陶土"	"靛釉陶"
 "tile.glazedTerracotta.brown.name"	"Brown Glazed Terracotta"	"Original Translation
 zh_CN: 棕色带釉陶瓦
-zh_TW: 棕色帶釉陶土"	""
+zh_TW: 棕色帶釉陶土"	"褐釉陶"
 "tile.glazedTerracotta.cyan.name"	"Cyan Glazed Terracotta"	"Original Translation
 zh_CN: 青色带釉陶瓦
-zh_TW: 青色帶釉陶土"	""
+zh_TW: 青色帶釉陶土"	"黛釉陶"
 "tile.glazedTerracotta.gray.name"	"Gray Glazed Terracotta"	"Original Translation
 zh_CN: 灰色带釉陶瓦
-zh_TW: 灰色帶釉陶土"	""
+zh_TW: 灰色帶釉陶土"	"灰釉陶"
 "tile.glazedTerracotta.green.name"	"Green Glazed Terracotta"	"Original Translation
 zh_CN: 绿色带釉陶瓦
-zh_TW: 綠色帶釉陶土"	""
+zh_TW: 綠色帶釉陶土"	"綠釉陶"
 "tile.glazedTerracotta.light_blue.name"	"Light Blue Glazed Terracotta"	"Original Translation
 zh_CN: 淡蓝色带釉陶瓦
-zh_TW: 淺藍色帶釉陶土"	""
+zh_TW: 淺藍色帶釉陶土"	"縹釉陶"
 "tile.glazedTerracotta.lime.name"	"Lime Glazed Terracotta"	"Original Translation
 zh_CN: 黄绿色带釉陶瓦
-zh_TW: 淺綠色色帶釉陶土"	""
+zh_TW: 淺綠色色帶釉陶土"	"翠釉陶"
 "tile.glazedTerracotta.magenta.name"	"Magenta Glazed Terracotta"	"Original Translation
 zh_CN: 品红色带釉陶瓦
-zh_TW: 洋紅色帶釉陶土"	""
+zh_TW: 洋紅色帶釉陶土"	"赬釉陶"
 "tile.glazedTerracotta.orange.name"	"Orange Glazed Terracotta"	"Original Translation
 zh_CN: 橙色带釉陶瓦
-zh_TW: 橙色帶釉陶土"	""
+zh_TW: 橙色帶釉陶土"	"橙釉陶"
 "tile.glazedTerracotta.pink.name"	"Pink Glazed Terracotta"	"Original Translation
 zh_CN: 粉红色带釉陶瓦
-zh_TW: 粉紅色帶釉陶土"	""
+zh_TW: 粉紅色帶釉陶土"	"紅釉陶"
 "tile.glazedTerracotta.purple.name"	"Purple Glazed Terracotta"	"Original Translation
 zh_CN: 紫色带釉陶瓦
-zh_TW: 紫色帶釉陶土"	""
+zh_TW: 紫色帶釉陶土"	"紫釉陶"
 "tile.glazedTerracotta.red.name"	"Red Glazed Terracotta"	"Original Translation
 zh_CN: 红色带釉陶瓦
 zh_TW: 紅色帶釉陶土"	""
