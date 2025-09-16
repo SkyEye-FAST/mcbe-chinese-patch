@@ -48937,7 +48937,7 @@ zh_CN: 失活的火珊瑚块
 zh_TW: 死亡火珊瑚方塊"	"枯火珊瑚塊"
 "tile.coral_block.yellow.name"	"Horn Coral Block"	"Original Translation
 zh_CN: 鹿角珊瑚块
-zh_TW: 角狀珊瑚方塊"	""
+zh_TW: 角狀珊瑚方塊"	"管珊瑚塊"
 "tile.coral_block.yellow_dead.name"	"Dead Horn Coral Block"	"Original Translation
 zh_CN: 失活的鹿角珊瑚块
 zh_TW: 死亡角狀珊瑚方塊"	""
@@ -50300,19 +50300,19 @@ zh_CN: 激活！
 zh_TW: 啟動！"	"啟！"
 "tile.netherreactor.builtTooHigh"	"The nether reactor needs to be built lower down."	"Original Translation
 zh_CN: 需要将下界反应器构建得更低一些。
-zh_TW: 需要將地獄反應器建構得更低一些。"	"須築焱璣儀於益軒處。"
+zh_TW: 需要將地獄反應器建構得更低一些。"	"須築焱璣儀於益低處。"
 "tile.netherreactor.builtTooLow"	"The nether reactor needs to be built higher up."	"Original Translation
 zh_CN: 需要将下界反应器构建得更高一些。
-zh_TW: 需要將地獄反應器建構得更高一些。"	""
+zh_TW: 需要將地獄反應器建構得更高一些。"	"須築焱璣儀於益高處。"
 "tile.netherreactor.name"	"Nether Reactor Core"	"Original Translation
 zh_CN: 下界反应核
 zh_TW: 地獄反應核"	"焱璣核"
 "tile.netherreactor.playersTooFar"	"All players need to be close to the reactor."	"Original Translation
 zh_CN: 所有玩家都需要靠近反应器。
-zh_TW: 所有玩家都需要靠近反應器。"	""
+zh_TW: 所有玩家都需要靠近反應器。"	"戲者須咸近焱璣儀。"
 "tile.netherreactor.wrongPattern"	"Not the correct pattern!"	"Original Translation
 zh_CN: 模式不正确！
-zh_TW: 樣式不正確！"	""
+zh_TW: 樣式不正確！"	"形不正！"
 "tile.normal_stone_stairs.name"	"Stone Stairs"	"Original Translation
 zh_CN: 石质楼梯
 zh_TW: 石階梯"	"石階"
