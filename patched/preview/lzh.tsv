@@ -50292,16 +50292,16 @@ zh_CN: 石英块
 zh_TW: 石英方塊"	""
 "tile.quartz_block.lines.name"	"Quartz Pillar"	"Original Translation
 zh_CN: 石英柱
-zh_TW: 石英柱"	""
+zh_TW: 石英柱"	"石英柱"
 "tile.quartz_block.name"	"Block of Quartz"	"Original Translation
 zh_CN: 石英块
-zh_TW: 石英方塊"	""
+zh_TW: 石英方塊"	"石英塊"
 "tile.quartz_block.smooth.name"	"Smooth Quartz Block"	"Original Translation
 zh_CN: 平滑石英块
-zh_TW: 平滑石英方塊"	""
+zh_TW: 平滑石英方塊"	"潤石英塊"
 "tile.quartz_bricks.name"	"Quartz Bricks"	"Original Translation
 zh_CN: 石英砖
-zh_TW: 石英磚塊"	""
+zh_TW: 石英磚塊"	"石英磚"
 "tile.quartz_ore.name"	"Nether Quartz Ore"	"Original Translation
 zh_CN: 下界石英矿石
 zh_TW: 地獄石英礦石"	"石英礦"
@@ -50457,16 +50457,16 @@ zh_CN: 红沙
 zh_TW: 紅沙"	"赤沙"
 "tile.sandstone.chiseled.name"	"Chiseled Sandstone"	"Original Translation
 zh_CN: 錾制砂岩
-zh_TW: 鑿刻砂岩"	""
+zh_TW: 鑿刻砂岩"	"雕砂"
 "tile.sandstone.cut.name"	"Cut Sandstone"	"Original Translation
 zh_CN: 切制砂岩
-zh_TW: 切割沙岩"	""
+zh_TW: 切割沙岩"	"割砂"
 "tile.sandstone.default.name"	"Sandstone"	"Original Translation
 zh_CN: 砂岩
-zh_TW: 沙岩"	""
+zh_TW: 沙岩"	"砂"
 "tile.sandstone.name"	"Sandstone"	"Original Translation
 zh_CN: 砂岩
-zh_TW: 沙岩"	""
+zh_TW: 沙岩"	"砂"
 "tile.sandstone.smooth.name"	"Smooth Sandstone"	"Original Translation
 zh_CN: 平滑砂岩
 zh_TW: 平滑沙岩"	"潤砂"
@@ -50619,55 +50619,55 @@ zh_CN: 灵魂营火
 zh_TW: 靈魂營火"	"靈篝火"
 "tile.soul_fire.name"	"Soul Fire"	"Original Translation
 zh_CN: 灵魂火
-zh_TW: 靈魂火燈"	""
+zh_TW: 靈魂火燈"	"靈火"
 "tile.soul_lantern.name"	"Soul Lantern"	"Original Translation
 zh_CN: 灵魂灯
-zh_TW: 靈魂燈籠"	""
+zh_TW: 靈魂燈籠"	"靈燈"
 "tile.soul_sand.name"	"Soul Sand"	"Original Translation
 zh_CN: 灵魂沙
-zh_TW: 靈魂砂"	""
+zh_TW: 靈魂砂"	"靈沙"
 "tile.soul_soil.name"	"Soul Soil"	"Original Translation
 zh_CN: 灵魂土
-zh_TW: 靈魂土壤"	""
+zh_TW: 靈魂土壤"	"靈土"
 "tile.soul_torch.name"	"Soul Torch"	"Original Translation
 zh_CN: 灵魂火把
-zh_TW: 靈魂火把"	""
+zh_TW: 靈魂火把"	"靈炬"
 "tile.sponge.dry.name"	"Sponge"	"Original Translation
 zh_CN: 海绵
-zh_TW: 海綿"	""
+zh_TW: 海綿"	"海綿"
 "tile.sponge.wet.name"	"Wet Sponge"	"Original Translation
 zh_CN: 湿海绵
-zh_TW: 濕海綿"	""
+zh_TW: 濕海綿"	"㵖海綿"
 "tile.spore_blossom.name"	"Spore Blossom"	"Original Translation
 zh_CN: 孢子花
-zh_TW: 孢子花"	""
+zh_TW: 孢子花"	"籽榮"
 "tile.spruceFence.name"	"Spruce Fence"	"Original Translation
 zh_CN: 云杉木栅栏
-zh_TW: 杉木柵欄"	""
+zh_TW: 杉木柵欄"	"樅檻"
 "tile.spruce_button.name"	"Spruce Button"	"Original Translation
 zh_CN: 云杉木按钮
-zh_TW: 杉木按鈕"	""
+zh_TW: 杉木按鈕"	"樅鈕"
 "tile.spruce_fence_gate.name"	"Spruce Fence Gate"	"Original Translation
 zh_CN: 云杉木栅栏门
-zh_TW: 杉木柵欄門"	""
+zh_TW: 杉木柵欄門"	"樅扉"
 "tile.spruce_hanging_sign.name"	"Spruce Hanging Sign"	"Original Translation
 zh_CN: 云杉木悬挂告示牌
 zh_TW: 懸掛式杉木告示牌"	""
 "tile.spruce_pressure_plate.name"	"Spruce Pressure Plate"	"Original Translation
 zh_CN: 云杉木压力板
-zh_TW: 杉木壓板"	""
+zh_TW: 杉木壓板"	"樅踏板"
 "tile.spruce_shelf.name"	"Spruce Shelf"	"Original Translation
 zh_CN: 云杉木架
 zh_TW: 杉木架子"	""
 "tile.spruce_stairs.name"	"Spruce Stairs"	"Original Translation
 zh_CN: 云杉木楼梯
-zh_TW: 杉木階梯"	""
+zh_TW: 杉木階梯"	"樅階"
 "tile.spruce_standing_sign.name"	"Spruce Sign"	"Original Translation
 zh_CN: 云杉木告示牌
-zh_TW: 杉木告示牌"	""
+zh_TW: 杉木告示牌"	"樅牌"
 "tile.spruce_trapdoor.name"	"Spruce Trapdoor"	"Original Translation
 zh_CN: 云杉木活板门
-zh_TW: 杉木地板門"	""
+zh_TW: 杉木地板門"	"樅窖門"
 "tile.stained_glass.black.name"	"Black Stained Glass"	"Original Translation
 zh_CN: 黑色玻璃
 zh_TW: 黑色彩繪玻璃"	""
@@ -50718,31 +50718,31 @@ zh_CN: 黄色玻璃
 zh_TW: 黃色彩繪玻璃"	""
 "tile.stained_glass_pane.black.name"	"Black Stained Glass Pane"	"Original Translation
 zh_CN: 黑色玻璃板
-zh_TW: 黑色彩繪玻璃窗格"	""
+zh_TW: 黑色彩繪玻璃窗格"	"黑琉璃嵌板"
 "tile.stained_glass_pane.blue.name"	"Blue Stained Glass Pane"	"Original Translation
 zh_CN: 蓝色玻璃板
-zh_TW: 藍色彩繪玻璃窗格"	""
+zh_TW: 藍色彩繪玻璃窗格"	"靛琉璃嵌板"
 "tile.stained_glass_pane.brown.name"	"Brown Stained Glass Pane"	"Original Translation
 zh_CN: 棕色玻璃板
-zh_TW: 棕色彩繪玻璃窗格"	""
+zh_TW: 棕色彩繪玻璃窗格"	"褐琉璃嵌板"
 "tile.stained_glass_pane.cyan.name"	"Cyan Stained Glass Pane"	"Original Translation
 zh_CN: 青色玻璃板
-zh_TW: 青綠色彩繪玻璃窗格"	""
+zh_TW: 青綠色彩繪玻璃窗格"	"黛琉璃嵌板"
 "tile.stained_glass_pane.gray.name"	"Gray Stained Glass Pane"	"Original Translation
 zh_CN: 灰色玻璃板
-zh_TW: 灰色彩繪玻璃窗格"	""
+zh_TW: 灰色彩繪玻璃窗格"	"灰琉璃嵌板"
 "tile.stained_glass_pane.green.name"	"Green Stained Glass Pane"	"Original Translation
 zh_CN: 绿色玻璃板
-zh_TW: 綠色彩繪玻璃窗格"	""
+zh_TW: 綠色彩繪玻璃窗格"	"綠琉璃嵌板"
 "tile.stained_glass_pane.light_blue.name"	"Light Blue Stained Glass Pane"	"Original Translation
 zh_CN: 淡蓝色玻璃板
-zh_TW: 淺藍色彩繪玻璃窗格"	""
+zh_TW: 淺藍色彩繪玻璃窗格"	"縹琉璃嵌板"
 "tile.stained_glass_pane.lime.name"	"Lime Stained Glass Pane"	"Original Translation
 zh_CN: 黄绿色玻璃板
-zh_TW: 淡黃綠色彩繪玻璃窗格"	""
+zh_TW: 淡黃綠色彩繪玻璃窗格"	"翠琉璃嵌板"
 "tile.stained_glass_pane.magenta.name"	"Magenta Stained Glass Pane"	"Original Translation
 zh_CN: 品红色玻璃板
-zh_TW: 洋紅色彩繪玻璃窗格"	""
+zh_TW: 洋紅色彩繪玻璃窗格"	"赬琉璃嵌板"
 "tile.stained_glass_pane.orange.name"	"Orange Stained Glass Pane"	"Original Translation
 zh_CN: 橙色玻璃板
 zh_TW: 橙色彩繪玻璃窗格"	""
@@ -51108,13 +51108,13 @@ zh_CN: 遮光玻璃
 zh_TW: 遮光玻璃"	""
 "tile.tnt.name"	"TNT"	"Original Translation
 zh_CN: TNT
-zh_TW: 炸藥"	""
+zh_TW: 炸藥"	"灹藥"
 "tile.torch.name"	"Torch"	"Original Translation
 zh_CN: 火把
-zh_TW: 火把"	""
+zh_TW: 火把"	"炬"
 "tile.torchflower.name"	"Torchflower"	"Original Translation
 zh_CN: 火把花
-zh_TW: 火炬花"	""
+zh_TW: 火炬花"	"炬蓮"
 "tile.torchflower_crop.name"	"Torchflower Crop"	"Original Translation
 zh_CN: 火把花植株
 zh_TW: 火炬花作物"	""
@@ -51123,7 +51123,7 @@ zh_CN: 橡木活板门
 zh_TW: 橡木地板門"	""
 "tile.trapped_chest.name"	"Trapped Chest"	"Original Translation
 zh_CN: 陷阱箱
-zh_TW: 陷阱箱"	""
+zh_TW: 陷阱箱"	"機關箱"
 "tile.trial_spawner.name"	"Trial Spawner"	"Original Translation
 zh_CN: 试炼刷怪笼
 zh_TW: 試煉生成器"	""
@@ -51135,34 +51135,34 @@ zh_CN: 绊线钩
 zh_TW: 絆線鉤"	""
 "tile.tuff.name"	"Tuff"	"Original Translation
 zh_CN: 凝灰岩
-zh_TW: 凝灰岩"	""
+zh_TW: 凝灰岩"	"積塊石"
 "tile.tuff_brick_slab.name"	"Tuff Brick Slab"	"Original Translation
 zh_CN: 凝灰岩砖台阶
-zh_TW: 凝灰岩磚塊板"	""
+zh_TW: 凝灰岩磚塊板"	"積塊石磚版"
 "tile.tuff_brick_stairs.name"	"Tuff Brick Stairs"	"Original Translation
 zh_CN: 凝灰岩砖楼梯
-zh_TW: 凝灰岩磚塊梯"	""
+zh_TW: 凝灰岩磚塊梯"	"積塊石磚階"
 "tile.tuff_brick_wall.name"	"Tuff Brick Wall"	"Original Translation
 zh_CN: 凝灰岩砖墙
-zh_TW: 凝灰岩磚牆"	""
+zh_TW: 凝灰岩磚牆"	"積塊石磚垣"
 "tile.tuff_bricks.name"	"Tuff Bricks"	"Original Translation
 zh_CN: 凝灰岩砖
-zh_TW: 凝灰岩磚塊"	""
+zh_TW: 凝灰岩磚塊"	"積塊石磚"
 "tile.tuff_slab.name"	"Tuff Slab"	"Original Translation
 zh_CN: 凝灰岩台阶
-zh_TW: 凝灰岩板"	""
+zh_TW: 凝灰岩板"	"積塊石版"
 "tile.tuff_stairs.name"	"Tuff Stairs"	"Original Translation
 zh_CN: 凝灰岩楼梯
-zh_TW: 凝灰岩階梯"	""
+zh_TW: 凝灰岩階梯"	"積塊石階"
 "tile.tuff_wall.name"	"Tuff Wall"	"Original Translation
 zh_CN: 凝灰岩墙
-zh_TW: 凝灰岩牆壁"	""
+zh_TW: 凝灰岩牆壁"	"積塊石垣"
 "tile.turtle_egg.name"	"Turtle Egg"	"Original Translation
 zh_CN: 海龟蛋
-zh_TW: 海龜蛋"	""
+zh_TW: 海龜蛋"	"海龜卵"
 "tile.twisting_vines.name"	"Twisting Vines"	"Original Translation
 zh_CN: 缠怨藤
-zh_TW: 扭曲藤蔓"	""
+zh_TW: 扭曲藤蔓"	"輪囷藤"
 "tile.underwater_tnt.name"	"Underwater TNT"	"Original Translation
 zh_CN: 水下 TNT
 zh_TW: 水下炸藥"	""
@@ -51174,7 +51174,7 @@ zh_CN: 未知
 zh_TW: 未知"	""
 "tile.unlit_redstone_torch.name"	"Redstone Torch"	"Original Translation
 zh_CN: 红石火把
-zh_TW: 紅石火把"	""
+zh_TW: 紅石火把"	"赤石炬"
 "tile.unpowered_comparator.name"	"Redstone Comparator"	"Original Translation
 zh_CN: 红石比较器
 zh_TW: 紅石比較器"	""
@@ -51183,163 +51183,163 @@ zh_CN: 红石中继器
 zh_TW: 紅石中繼器"	""
 "tile.vault.name"	"Vault"	"Original Translation
 zh_CN: 宝库
-zh_TW: 保險庫"	""
+zh_TW: 保險庫"	"寶篋"
 "tile.verdant_froglight.name"	"Verdant Froglight"	"Original Translation
 zh_CN: 青翠蛙明灯
 zh_TW: 翠綠蛙燈"	"翠鼃光"
 "tile.vine.name"	"Vines"	"Original Translation
 zh_CN: 藤蔓
-zh_TW: 藤蔓"	""
+zh_TW: 藤蔓"	"藤"
 "tile.warped_button.name"	"Warped Button"	"Original Translation
 zh_CN: 诡异木按钮
-zh_TW: 扭曲蕈木按鈕"	""
+zh_TW: 扭曲蕈木按鈕"	"譎蕈木鈕"
 "tile.warped_door.name"	"Warped Door"	"Original Translation
 zh_CN: 诡异门
-zh_TW: 扭曲蕈木門"	""
+zh_TW: 扭曲蕈木門"	"譎蕈木門"
 "tile.warped_double_slab.name"	"Warped Slab"	"Original Translation
 zh_CN: 诡异木台阶
-zh_TW: 扭曲蕈木半磚"	""
+zh_TW: 扭曲蕈木半磚"	"譎蕈木版"
 "tile.warped_fence.name"	"Warped Fence"	"Original Translation
 zh_CN: 诡异木栅栏
-zh_TW: 扭曲蕈木柵欄"	""
+zh_TW: 扭曲蕈木柵欄"	"譎蕈木檻"
 "tile.warped_fence_gate.name"	"Warped Fence Gate"	"Original Translation
 zh_CN: 诡异木栅栏门
-zh_TW: 扭曲蕈木柵欄門"	""
+zh_TW: 扭曲蕈木柵欄門"	"譎蕈木扉"
 "tile.warped_fungus.name"	"Warped Fungus"	"Original Translation
 zh_CN: 诡异真菌
-zh_TW: 扭曲蕈菇"	""
+zh_TW: 扭曲蕈菇"	"譎蕈"
 "tile.warped_hanging_sign.name"	"Warped Hanging Sign"	"Original Translation
 zh_CN: 翘曲悬挂告示牌
 zh_TW: 懸掛式扭曲蕈木告示牌"	""
 "tile.warped_hyphae.name"	"Warped Hyphae"	"Original Translation
 zh_CN: 诡异菌丝
-zh_TW: 扭曲菌絲體"	""
+zh_TW: 扭曲菌絲體"	"譎蕈體"
 "tile.warped_nylium.name"	"Warped Nylium"	"Original Translation
 zh_CN: 诡异菌岩
-zh_TW: 扭曲菌絲石"	""
+zh_TW: 扭曲菌絲石"	"譎蕈石"
 "tile.warped_planks.name"	"Warped Planks"	"Original Translation
 zh_CN: 诡异木板
-zh_TW: 扭曲蕈木材"	""
+zh_TW: 扭曲蕈木材"	"譎蕈木材"
 "tile.warped_pressure_plate.name"	"Warped Pressure Plate"	"Original Translation
 zh_CN: 诡异木压力板
-zh_TW: 扭曲蕈木壓力板"	""
+zh_TW: 扭曲蕈木壓力板"	"譎蕈木踏板"
 "tile.warped_roots.warpedRoots.name"	"Warped Roots"	"Original Translation
 zh_CN: 诡异菌根
-zh_TW: 扭曲蕈根"	""
+zh_TW: 扭曲蕈根"	"譎蕈索"
 "tile.warped_shelf.name"	"Warped Shelf"	"Original Translation
 zh_CN: 诡异架子
 zh_TW: 扭曲架子"	""
 "tile.warped_slab.name"	"Warped Slab"	"Original Translation
 zh_CN: 诡异木台阶
-zh_TW: 扭曲蕈木半磚"	""
+zh_TW: 扭曲蕈木半磚"	"譎蕈木版"
 "tile.warped_stairs.name"	"Warped Stairs"	"Original Translation
 zh_CN: 诡异楼梯
-zh_TW: 扭曲蕈木階梯"	""
+zh_TW: 扭曲蕈木階梯"	"譎蕈木階"
 "tile.warped_standing_sign.name"	"Warped Sign"	"Original Translation
 zh_CN: 诡异木告示牌
-zh_TW: 扭曲蕈木告示牌"	""
+zh_TW: 扭曲蕈木告示牌"	"譎蕈木牌"
 "tile.warped_stem.name"	"Warped Stem"	"Original Translation
 zh_CN: 诡异菌柄
-zh_TW: 扭曲蕈柄"	""
+zh_TW: 扭曲蕈柄"	"譎蕈柄"
 "tile.warped_trapdoor.name"	"Warped Trapdoor"	"Original Translation
 zh_CN: 诡异木活板门
-zh_TW: 扭曲蕈木地板門"	""
+zh_TW: 扭曲蕈木地板門"	"譎蕈木窖門"
 "tile.warped_wall_sign.name"	"Warped Sign"	"Original Translation
 zh_CN: 诡异木告示牌
-zh_TW: 扭曲蕈木告示牌"	""
+zh_TW: 扭曲蕈木告示牌"	"譎蕈木牌"
 "tile.warped_wart_block.name"	"Warped Wart Block"	"Original Translation
 zh_CN: 诡异疣方块
-zh_TW: 扭曲疙瘩塊"	""
+zh_TW: 扭曲疙瘩塊"	"譎疣塊"
 "tile.water.name"	"Water"	"Original Translation
 zh_CN: 水
 zh_TW: 水"	"水"
 "tile.waterlily.name"	"Lily Pad"	"Original Translation
 zh_CN: 睡莲
-zh_TW: 睡蓮"	""
+zh_TW: 睡蓮"	"蓮葉"
 "tile.waxed_chiseled_copper.name"	"Waxed Chiseled Copper"	"Original Translation
 zh_CN: 涂蜡錾制铜
-zh_TW: 塗蠟鑿刻銅"	""
+zh_TW: 塗蠟鑿刻銅"	"蠟引雕銅塊"
 "tile.waxed_copper.name"	"Waxed Block of Copper"	"Original Translation
 zh_CN: 涂蜡铜方块
-zh_TW: 上蠟的銅方塊"	""
+zh_TW: 上蠟的銅方塊"	"蠟引銅塊"
 "tile.waxed_copper_bars.name"	"Waxed Copper Bars"	"Original Translation
 zh_CN: 涂蜡的铜条
 zh_TW: 上蠟的銅方塊欄杆"	""
 "tile.waxed_copper_bulb.name"	"Waxed Copper Bulb"	"Original Translation
 zh_CN: 涂蜡铜灯泡
-zh_TW: 塗蠟銅燈泡"	""
+zh_TW: 塗蠟銅燈泡"	"蠟引銅燈"
 "tile.waxed_copper_chain.name"	"Waxed Copper Chain"	"Original Translation
 zh_CN: 涂蜡的铜链
 zh_TW: 塗蠟的銅鎖鏈"	""
 "tile.waxed_copper_chest.name"	"Waxed Copper Chest"	"Original Translation
 zh_CN: 涂蜡的铜宝箱
-zh_TW: 塗蠟的銅箱子"	""
+zh_TW: 塗蠟的銅箱子"	"蠟引銅箱"
 "tile.waxed_copper_door.name"	"Waxed Copper Door"	"Original Translation
 zh_CN: 涂蜡铜门
-zh_TW: 塗蠟銅門"	""
+zh_TW: 塗蠟銅門"	"蠟引銅門"
 "tile.waxed_copper_golem_statue.name"	"Waxed Copper Golem Statue"	"Original Translation
 zh_CN: 涂蜡铜傀儡雕像
 zh_TW: 塗蠟的銅魔像雕像"	""
 "tile.waxed_copper_grate.name"	"Waxed Copper Grate"	"Original Translation
 zh_CN: 涂蜡铜格栅
-zh_TW: 塗蠟銅灰色爐柵"	""
+zh_TW: 塗蠟銅灰色爐柵"	"蠟引銅柵網"
 "tile.waxed_copper_lantern.name"	"Waxed Copper Lantern"	"Original Translation
 zh_CN: 涂蜡铜提灯
 zh_TW: 上蠟的銅方塊燈籠"	""
 "tile.waxed_copper_trapdoor.name"	"Waxed Copper Trapdoor"	"Original Translation
 zh_CN: 涂蜡铜活板门
-zh_TW: 塗蠟銅地板門"	""
+zh_TW: 塗蠟銅地板門"	"蠟引銅窖門"
 "tile.waxed_cut_copper.name"	"Waxed Cut Copper"	"Original Translation
 zh_CN: 涂蜡切制铜块
-zh_TW: 上蠟的切製銅方塊"	""
+zh_TW: 上蠟的切製銅方塊"	"蠟引割銅塊"
 "tile.waxed_cut_copper_slab.name"	"Waxed Cut Copper Slab"	"Original Translation
 zh_CN: 涂蜡切制铜块台阶
-zh_TW: 上蠟的切製銅半磚"	""
+zh_TW: 上蠟的切製銅半磚"	"蠟引割銅版"
 "tile.waxed_cut_copper_stairs.name"	"Waxed Cut Copper Stairs"	"Original Translation
 zh_CN: 涂蜡切制铜楼梯
-zh_TW: 上蠟的切製銅階梯"	""
+zh_TW: 上蠟的切製銅階梯"	"蠟引割銅階"
 "tile.waxed_exposed_chiseled_copper.name"	"Waxed Exposed Chiseled Copper"	"Original Translation
 zh_CN: 涂蜡外露錾制铜
-zh_TW: 上蠟的外露鑿刻銅"	""
+zh_TW: 上蠟的外露鑿刻銅"	"蠟引渡濕雕銅塊"
 "tile.waxed_exposed_copper.name"	"Waxed Exposed Copper"	"Original Translation
 zh_CN: 外露的涂蜡铜块
-zh_TW: 上蠟的外露銅方塊"	""
+zh_TW: 上蠟的外露銅方塊"	"蠟引渡濕銅塊"
 "tile.waxed_exposed_copper_bars.name"	"Waxed Exposed Copper Bars"	"Original Translation
 zh_CN: 斑驳的涂蜡铜条
 zh_TW: 上蠟的外露銅方魂欄杆"	""
 "tile.waxed_exposed_copper_bulb.name"	"Waxed Exposed Copper Bulb"	"Original Translation
 zh_CN: 涂蜡外露铜灯泡
-zh_TW: 塗蠟的外露銅燈泡"	""
+zh_TW: 塗蠟的外露銅燈泡"	"蠟引渡濕銅燈"
 "tile.waxed_exposed_copper_chain.name"	"Waxed Exposed Copper Chain"	"Original Translation
 zh_CN: 斑驳的涂蜡铜链
 zh_TW: 上蠟的外露銅方塊鎖鏈"	""
 "tile.waxed_exposed_copper_chest.name"	"Waxed Exposed Copper Chest"	"Original Translation
 zh_CN: 外露的涂蜡铜宝箱
-zh_TW: 上蠟的外露銅箱子"	""
+zh_TW: 上蠟的外露銅箱子"	"蠟引渡濕銅箱"
 "tile.waxed_exposed_copper_door.name"	"Waxed Exposed Copper Door"	"Original Translation
 zh_CN: 涂蜡外露铜门
-zh_TW: 塗蠟的外露銅門"	""
+zh_TW: 塗蠟的外露銅門"	"蠟引渡濕銅門"
 "tile.waxed_exposed_copper_golem_statue.name"	"Waxed Exposed Copper Golem Statue"	"Original Translation
 zh_CN: 斑驳的涂蜡铜傀儡雕像
 zh_TW: 上蠟的外露銅方塊魔像雕像"	""
 "tile.waxed_exposed_copper_grate.name"	"Waxed Exposed Copper Grate"	"Original Translation
 zh_CN: 涂蜡外露铜格栅
-zh_TW: 塗蠟外露銅爐柵"	""
+zh_TW: 塗蠟外露銅爐柵"	"蠟引渡濕銅柵網"
 "tile.waxed_exposed_copper_lantern.name"	"Waxed Exposed Copper Lantern"	"Original Translation
 zh_CN: 斑驳的涂蜡铜提灯
 zh_TW: 上蠟的外露銅方塊燈籠"	""
 "tile.waxed_exposed_copper_trapdoor.name"	"Waxed Exposed Copper Trapdoor"	"Original Translation
 zh_CN: 外露的涂蜡铜活板门
-zh_TW: 塗蠟外露銅地板門"	""
+zh_TW: 塗蠟外露銅地板門"	"蠟引渡濕銅窖門"
 "tile.waxed_exposed_cut_copper.name"	"Waxed Exposed Cut Copper"	"Original Translation
 zh_CN: 外露的涂蜡切制铜块
-zh_TW: 上蠟的外露切製銅方塊"	""
+zh_TW: 上蠟的外露切製銅方塊"	"蠟引渡濕割銅塊"
 "tile.waxed_exposed_cut_copper_slab.name"	"Waxed Exposed Cut Copper Slab"	"Original Translation
 zh_CN: 外露的涂蜡切制铜块台阶
-zh_TW: 上蠟的外露切製銅半磚"	""
+zh_TW: 上蠟的外露切製銅半磚"	"蠟引渡濕割銅版"
 "tile.waxed_exposed_cut_copper_stairs.name"	"Waxed Exposed Cut Copper Stairs"	"Original Translation
 zh_CN: 外露的涂蜡切制铜楼梯
-zh_TW: 上蠟的外露切製銅階梯"	""
+zh_TW: 上蠟的外露切製銅階梯"	"蠟引渡濕割銅階"
 "tile.waxed_exposed_lightning_rod.name"	"Waxed Exposed Lightning Rod"	"Original Translation
 zh_CN: 涂蜡外露雷霆之杖
 zh_TW: 塗蠟外露避雷針"	""
@@ -51348,40 +51348,40 @@ zh_CN: 涂蜡雷霆之杖
 zh_TW: 塗蠟避雷針"	""
 "tile.waxed_oxidized_chiseled_copper.name"	"Waxed Oxidized Chiseled Copper"	"Original Translation
 zh_CN: 涂蜡氧化錾制铜
-zh_TW: 上蠟的氧化鑿刻銅"	""
+zh_TW: 上蠟的氧化鑿刻銅"	"蠟引風蝕雕銅塊"
 "tile.waxed_oxidized_copper.name"	"Waxed Oxidized Copper"	"Original Translation
 zh_CN: 氧化的涂蜡铜块
-zh_TW: 上蠟的氧化銅方塊"	""
+zh_TW: 上蠟的氧化銅方塊"	"蠟引風蝕銅塊"
 "tile.waxed_oxidized_copper_bars.name"	"Waxed Oxidized Copper Bars"	"Original Translation
 zh_CN: 氧化的涂蜡铜条
 zh_TW: 上蠟的氧化銅方塊欄杆"	""
 "tile.waxed_oxidized_copper_bulb.name"	"Waxed Oxidized Copper Bulb"	"Original Translation
 zh_CN: 氧化的涂蜡铜灯泡
-zh_TW: 塗蠟氧化銅燈泡"	""
+zh_TW: 塗蠟氧化銅燈泡"	"蠟引風蝕銅燈"
 "tile.waxed_oxidized_copper_chain.name"	"Waxed Oxidized Copper Chain"	"Original Translation
 zh_CN: 氧化的涂蜡铜链
 zh_TW: 上蠟的氧化銅方塊鎖鏈"	""
 "tile.waxed_oxidized_copper_chest.name"	"Waxed Oxidized Copper Chest"	"Original Translation
 zh_CN: 氧化的涂蜡铜宝箱
-zh_TW: 上蠟的氧化銅箱子"	""
+zh_TW: 上蠟的氧化銅箱子"	"蠟引風蝕銅箱"
 "tile.waxed_oxidized_copper_door.name"	"Waxed Oxidized Copper Door"	"Original Translation
 zh_CN: 涂蜡氧化铜门
-zh_TW: 塗蠟的氧化銅門"	""
+zh_TW: 塗蠟的氧化銅門"	"蠟引風蝕銅門"
 "tile.waxed_oxidized_copper_golem_statue.name"	"Waxed Oxidized Copper Golem Statue"	"Original Translation
 zh_CN: 氧化的涂蜡铜傀儡雕像
 zh_TW: 上蠟的氧化銅方塊魔像雕像"	""
 "tile.waxed_oxidized_copper_grate.name"	"Waxed Oxidized Copper Grate"	"Original Translation
 zh_CN: 涂蜡氧化铜格栅
-zh_TW: 塗蠟的氧化銅爐柵"	""
+zh_TW: 塗蠟的氧化銅爐柵"	"蠟引風蝕銅柵網"
 "tile.waxed_oxidized_copper_lantern.name"	"Waxed Oxidized Copper Lantern"	"Original Translation
 zh_CN: 氧化的涂蜡铜提灯
 zh_TW: 上蠟的氧化銅方塊燈籠"	""
 "tile.waxed_oxidized_copper_trapdoor.name"	"Waxed Oxidized Copper Trapdoor"	"Original Translation
 zh_CN: 涂蜡氧化铜活板门
-zh_TW: 塗蠟的氧化銅地板門"	""
+zh_TW: 塗蠟的氧化銅地板門"	"蠟引風蝕銅窖門"
 "tile.waxed_oxidized_cut_copper.name"	"Waxed Oxidized Cut Copper"	"Original Translation
 zh_CN: 氧化的涂蜡切制铜块
-zh_TW: 上蠟的氧化切製銅方塊"	""
+zh_TW: 上蠟的氧化切製銅方塊"	"蠟引風蝕割銅塊"
 "tile.waxed_oxidized_cut_copper_slab.name"	"Waxed Oxidized Cut Copper Slab"	"Original Translation
 zh_CN: 氧化的涂蜡切制铜块台阶
 zh_TW: 上蠟的氧化切製銅半磚"	"蠟引風蝕割銅版"
@@ -51483,7 +51483,7 @@ zh_CN: 风化雷霆之杖
 zh_TW: 風化避雷針"	""
 "tile.web.name"	"Cobweb"	"Original Translation
 zh_CN: 蜘蛛网
-zh_TW: 蜘蛛網"	""
+zh_TW: 蜘蛛網"	"蛛網"
 "tile.weeping_vines.name"	"Weeping Vines"	"Original Translation
 zh_CN: 垂泪藤
 zh_TW: 哭泣藤蔓"	"垂泣藤"
@@ -51498,10 +51498,10 @@ zh_CN: 带白色蜡烛的蛋糕
 zh_TW: 蛋糕與白色蠟燭"	"白燭之洋糕"
 "tile.wildflowers.name"	"Wildflowers"	"Original Translation
 zh_CN: 野花
-zh_TW: 野花"	""
+zh_TW: 野花"	"野芳叢"
 "tile.wither_rose.name"	"Wither Rose"	"Original Translation
 zh_CN: 凋零玫瑰
-zh_TW: 凋靈玫瑰"	""
+zh_TW: 凋靈玫瑰"	"凋靈玫瑰"
 "tile.wood.acacia.name"	"Acacia Wood"	"Original Translation
 zh_CN: 金合欢木
 zh_TW: 相思樹木頭"	"㭜木"
@@ -51624,7 +51624,7 @@ zh_CN: 带黄色蜡烛的蛋糕
 zh_TW: 蛋糕與黃色蠟燭"	"黃燭之洋糕"
 "tile.yellow_flower.dandelion.name"	"Dandelion"	"Original Translation
 zh_CN: 蒲公英
-zh_TW: 蒲公英"	""
+zh_TW: 蒲公英"	"蒲公英"
 "tile.yellow_flower.name"	"Flower"	"Original Translation
 zh_CN: 花
 zh_TW: 花朵"	""
