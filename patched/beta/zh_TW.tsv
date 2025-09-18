@@ -190,109 +190,109 @@ zh_CN: 方向键下
 zh_TW: 下方向鍵"	"下方向鍵"
 "accessibility.gamepad.dpad.left"	"D-Pad Left"	"Original Translation
 zh_CN: 方向键左
-zh_TW: 左方向鍵"	""
+zh_TW: 左方向鍵"	"左方向鍵"
 "accessibility.gamepad.dpad.right"	"D-Pad Right"	"Original Translation
 zh_CN: 方向键右
-zh_TW: 右方向鍵"	""
+zh_TW: 右方向鍵"	"右方向鍵"
 "accessibility.gamepad.dpad.up"	"D-Pad Up"	"Original Translation
 zh_CN: 方向键上
-zh_TW: 上方向鍵"	""
+zh_TW: 上方向鍵"	"上方向鍵"
 "accessibility.gamepad.faceButton.down"	"Button A"	"Original Translation
 zh_CN: A 按钮
-zh_TW: A 按鈕"	""
+zh_TW: A 按鈕"	"A 按鈕"
 "accessibility.gamepad.faceButton.left"	"Button X"	"Original Translation
 zh_CN: 按钮 X
-zh_TW: X 按鈕"	""
+zh_TW: X 按鈕"	"X 按鈕"
 "accessibility.gamepad.faceButton.right"	"Button B"	"Original Translation
 zh_CN: 按钮 B
-zh_TW: B 按鈕"	""
+zh_TW: B 按鈕"	"B 按鈕"
 "accessibility.gamepad.faceButton.up"	"Button Y"	"Original Translation
 zh_CN: Y 按钮
-zh_TW: Y 按鈕"	""
+zh_TW: Y 按鈕"	"Y 按鈕"
 "accessibility.gamepad.stick.left"	"Left Stick"	"Original Translation
 zh_CN: 左摇杆
-zh_TW: 左搖桿"	""
+zh_TW: 左搖桿"	"左搖桿"
 "accessibility.gamepad.stick.left.tiltDown"	"Left Stick Tilt Back"	"Original Translation
 zh_CN: 左摇杆向后倾斜
-zh_TW: 左搖桿向後傾斜"	""
+zh_TW: 左搖桿向後傾斜"	"左搖桿向後傾斜"
 "accessibility.gamepad.stick.left.tiltLeft"	"Left Stick Tilt Left"	"Original Translation
 zh_CN: 左摇杆向左倾斜
-zh_TW: 左搖桿向左傾斜"	""
+zh_TW: 左搖桿向左傾斜"	"左搖桿向左傾斜"
 "accessibility.gamepad.stick.left.tiltRight"	"Left Stick Tilt Right"	"Original Translation
 zh_CN: 左摇杆向右倾斜
-zh_TW: 左搖桿向右傾斜"	""
+zh_TW: 左搖桿向右傾斜"	"左搖桿向右傾斜"
 "accessibility.gamepad.stick.left.tiltUp"	"Left Stick Tilt Forward"	"Original Translation
 zh_CN: 左摇杆向前倾斜
-zh_TW: 左搖桿向前傾斜"	""
+zh_TW: 左搖桿向前傾斜"	"左搖桿向前傾斜"
 "accessibility.gamepad.stick.right"	"Right Stick"	"Original Translation
 zh_CN: 右摇杆
-zh_TW: 右搖桿"	""
+zh_TW: 右搖桿"	"右搖桿"
 "accessibility.gamepad.trigger.left"	"Left Trigger"	"Original Translation
 zh_CN: 左扳机
-zh_TW: LT 鍵"	""
+zh_TW: LT 鍵"	"LT 鍵"
 "accessibility.gamepad.trigger.right"	"Right Trigger"	"Original Translation
 zh_CN: 右扳机键
-zh_TW: RT 鍵"	""
+zh_TW: RT 鍵"	"RT 鍵"
 "accessibility.gametip"	"Tip"	"Original Translation
 zh_CN: 提示
-zh_TW: 秘訣"	""
+zh_TW: 秘訣"	"提示"
 "accessibility.image.tts.title"	"Image"	"Original Translation
 zh_CN: 图像
-zh_TW: 圖像"	""
+zh_TW: 圖像"	"影像"
 "accessibility.importing.Progress"	"Importing %s percent"	"Original Translation
 zh_CN: 正在导入 %s%
-zh_TW: 匯入中，百分之 %s"	""
+zh_TW: 匯入中，百分之 %s"	"已匯入 %s%"
 "accessibility.importing.canceled"	"Import canceled"	"Original Translation
 zh_CN: 导入已取消
-zh_TW: 匯入已取消"	""
+zh_TW: 匯入已取消"	"匯入已取消"
 "accessibility.importing.complete"	"Import complete"	"Original Translation
 zh_CN: 导入完成
-zh_TW: 匯入完成"	""
+zh_TW: 匯入完成"	"匯入完成"
 "accessibility.importing.start"	"Import begun"	"Original Translation
 zh_CN: 导入已开始
-zh_TW: 匯入已開始"	""
+zh_TW: 匯入已開始"	"匯入已開始"
 "accessibility.index"	"%s of %s"	"Original Translation
 zh_CN: 第 %s 个，共 %s 个
-zh_TW: %s/%s"	""
+zh_TW: %s/%s"	"第 %s 個，共 %s 個"
 "accessibility.key.gamepad"	"Controller %s"	"Original Translation
 zh_CN: 控制器 %s
-zh_TW: 控制器 %s"	""
+zh_TW: 控制器 %s"	"控制器 %s"
 "accessibility.key.mouseButton"	"Mouse Button %s"	"Original Translation
 zh_CN: 鼠标按钮 %s
-zh_TW: 滑鼠按鈕 %s"	""
+zh_TW: 滑鼠按鈕 %s"	"滑鼠按鈕 %s"
 "accessibility.keyboard.leftBracket"	"Left square bracket key"	"Original Translation
 zh_CN: 左方括号键
-zh_TW: 左方括號鍵"	""
+zh_TW: 左方括號鍵"	"左方括號鍵"
 "accessibility.keyboard.rightBracket"	"Right square bracket key"	"Original Translation
 zh_CN: 右方括号键
-zh_TW: 右方括號鍵"	""
+zh_TW: 右方括號鍵"	"右方括號鍵"
 "accessibility.list.or.three_or_more.first"	"%s"	"Original Translation
 zh_CN: %s
-zh_TW: %s"	""
+zh_TW: %s"	"%s"
 "accessibility.list.or.three_or_more.inner"	", %s"	"Original Translation
 zh_CN: ，%s
-zh_TW: ，%s"	""
+zh_TW: ，%s"	"、%s"
 "accessibility.list.or.three_or_more.last"	", or %s"	"Original Translation
 zh_CN: ，或 %s
-zh_TW: ，或 %s"	""
+zh_TW: ，或 %s"	" 或 %s"
 "accessibility.list.or.two"	"%s or %s"	"Original Translation
 zh_CN: %s或%s
-zh_TW: %s或%s"	""
+zh_TW: %s或%s"	"%s 或 %s"
 "accessibility.loading.done"	"Done"	"Original Translation
 zh_CN: 完成
-zh_TW: 完成"	""
+zh_TW: 完成"	"完成"
 "accessibility.minecoin"	"Minecoin"	"Original Translation
 zh_CN: Minecoin
-zh_TW: Minecoin"	""
+zh_TW: Minecoin"	"Minecoin"
 "accessibility.minecoins"	"Minecoins"	"Original Translation
 zh_CN: Minecoin
-zh_TW: Minecoin"	""
+zh_TW: Minecoin"	"Minecoin"
 "accessibility.pause.permissions"	"Permissions"	"Original Translation
 zh_CN: 许可
-zh_TW: 權限"	""
+zh_TW: 權限"	"權限"
 "accessibility.pause.profile"	"Choose Profile"	"Original Translation
 zh_CN: 选择个人资料
-zh_TW: 選擇設定檔"	""
+zh_TW: 選擇設定檔"	"選擇個人資料"
 "accessibility.play.editRealm"	"Edit Realm"	"Original Translation
 zh_CN: 编辑 Realm
 zh_TW: 編輯 Realm"	""

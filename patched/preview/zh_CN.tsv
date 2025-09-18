@@ -26687,7 +26687,7 @@ zh_CN: 游戏邀请
 zh_TW: 遊戲邀請"	""
 "invite.pageCounter"	"%d/%d"	"Original Translation
 zh_CN: %d/%d
-zh_TW: %d/%d"	""
+zh_TW: %d/%d"	"%d/%d"
 "invite.realm.add_member"	"Add Realm Members"	"Original Translation
 zh_CN: 添加 Realm 成员
 zh_TW: 新增 Realm 成員"	""
@@ -32471,7 +32471,7 @@ zh_CN: 斜杠
 zh_TW: 斜線"	""
 "keyboard.keyName.slash.short"	"/"	"Original Translation
 zh_CN: /
-zh_TW: /"	""
+zh_TW: /"	"/"
 "keyboard.keyName.space"	"SPACE"	"Original Translation
 zh_CN: 空格
 zh_TW: 空格鍵"	""
