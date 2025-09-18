@@ -322,7 +322,7 @@ zh_CN: Realm 内容
 zh_TW: Realm 動態"	""
 "accessibility.play.singleNewPost"	"1 new post"	"Original Translation
 zh_CN: 1 个新帖子
-zh_TW: 1 則新貼文"	""
+zh_TW: 1 則新貼文"	"一新文"
 "accessibility.play.tabLeft"	"Press the %s to tab left"	"Original Translation
 zh_CN: 按下选项卡左边的 %s
 zh_TW: 按 %s 以選取左標籤"	""
@@ -331,13 +331,13 @@ zh_CN: 按下选项卡右边的 %s
 zh_TW: 按 %s 以選取右標籤"	""
 "accessibility.play.uploadWorld"	"Upload World"	"Original Translation
 zh_CN: 上传世界
-zh_TW: 上傳世界"	""
+zh_TW: 上傳世界"	"上傳生界"
 "accessibility.popup.joinRealm"	"Join Realm Screen"	"Original Translation
 zh_CN: 加入 Realms 屏幕
-zh_TW: 加入 Realm 畫面"	""
+zh_TW: 加入 Realm 畫面"	"入領域之幕"
 "accessibility.popup.left_button_text"	"Turn Off"	"Original Translation
 zh_CN: 关闭
-zh_TW: 關閉"	""
+zh_TW: 關閉"	"閉"
 "accessibility.popup.message.default"	"On your device, screen reader support is enabled by default."	"Original Translation
 zh_CN: 你的设备上默认启用了屏幕阅读器支持。
 zh_TW: 根據預設，螢幕閱讀器在您的裝置為已經啟用。"	""
@@ -11657,166 +11657,166 @@ zh_CN: 显示详情
 zh_TW: 顯示詳細資訊"	""
 "hbui.ControllerSpecificButtonNarration.Gamepad.A.KEYBOARD"	"Press A"	"Original Translation
 zh_CN: 按下 “A”
-zh_TW: 按下 A"	""
+zh_TW: 按下 A"	"撳A"
 "hbui.ControllerSpecificButtonNarration.Gamepad.A.PS"	"Press A"	"Original Translation
 zh_CN: 按下 “A”
-zh_TW: 按下 A"	""
+zh_TW: 按下 A"	"撳A"
 "hbui.ControllerSpecificButtonNarration.Gamepad.A.QUEST"	"Press A"	"Original Translation
 zh_CN: 按下 “A”
-zh_TW: 按下 A"	""
+zh_TW: 按下 A"	"撳A"
 "hbui.ControllerSpecificButtonNarration.Gamepad.A.STEAM"	"Press A"	"Original Translation
 zh_CN: 按下 “A”
-zh_TW: 按下 A"	""
+zh_TW: 按下 A"	"撳A"
 "hbui.ControllerSpecificButtonNarration.Gamepad.A.SWITCH"	"Press A"	"Original Translation
 zh_CN: 按下 “A”
-zh_TW: 按下 A"	""
+zh_TW: 按下 A"	"撳A"
 "hbui.ControllerSpecificButtonNarration.Gamepad.A.XBOX"	"Press A"	"Original Translation
 zh_CN: 按下 “A”
-zh_TW: 按下 A"	""
+zh_TW: 按下 A"	"撳A"
 "hbui.ControllerSpecificButtonNarration.Gamepad.B.KEYBOARD"	"Press B"	"Original Translation
 zh_CN: 按下 B
-zh_TW: 請按 B"	""
+zh_TW: 請按 B"	"撳B"
 "hbui.ControllerSpecificButtonNarration.Gamepad.B.PS"	"Press B"	"Original Translation
 zh_CN: 按下 B
-zh_TW: 請按 B"	""
+zh_TW: 請按 B"	"撳B"
 "hbui.ControllerSpecificButtonNarration.Gamepad.B.QUEST"	"Press B"	"Original Translation
 zh_CN: 按下 B
-zh_TW: 請按 B"	""
+zh_TW: 請按 B"	"撳B"
 "hbui.ControllerSpecificButtonNarration.Gamepad.B.STEAM"	"Press B"	"Original Translation
 zh_CN: 按下 B
-zh_TW: 請按 B"	""
+zh_TW: 請按 B"	"撳B"
 "hbui.ControllerSpecificButtonNarration.Gamepad.B.SWITCH"	"Press B"	"Original Translation
 zh_CN: 按下 B
-zh_TW: 請按 B"	""
+zh_TW: 請按 B"	"撳B"
 "hbui.ControllerSpecificButtonNarration.Gamepad.B.XBOX"	"Press B"	"Original Translation
 zh_CN: 按下 B
-zh_TW: 請按 B"	""
+zh_TW: 請按 B"	"撳B"
 "hbui.ControllerSpecificButtonNarration.Gamepad.DOWN.KEYBOARD"	"Press DOWN"	"Original Translation
 zh_CN: 按下“向下”
-zh_TW: 請按 DOWN （向下）"	""
+zh_TW: 請按 DOWN （向下）"	"撳下鍵"
 "hbui.ControllerSpecificButtonNarration.Gamepad.DOWN.PS"	"Press DOWN"	"Original Translation
 zh_CN: 按下“向下”
-zh_TW: 請按 DOWN （向下）"	""
+zh_TW: 請按 DOWN （向下）"	"撳下鍵"
 "hbui.ControllerSpecificButtonNarration.Gamepad.DOWN.QUEST"	"Press DOWN"	"Original Translation
 zh_CN: 按下“向下”
-zh_TW: 請按 DOWN （向下）"	""
+zh_TW: 請按 DOWN （向下）"	"撳下鍵"
 "hbui.ControllerSpecificButtonNarration.Gamepad.DOWN.STEAM"	"Press DOWN"	"Original Translation
 zh_CN: 按下“向下”
-zh_TW: 請按 DOWN （向下）"	""
+zh_TW: 請按 DOWN （向下）"	"撳下鍵"
 "hbui.ControllerSpecificButtonNarration.Gamepad.DOWN.SWITCH"	"Press DOWN"	"Original Translation
 zh_CN: 按下“向下”
-zh_TW: 請按 DOWN （向下）"	""
+zh_TW: 請按 DOWN （向下）"	"撳下鍵"
 "hbui.ControllerSpecificButtonNarration.Gamepad.DOWN.XBOX"	"Press DOWN"	"Original Translation
 zh_CN: 按下“向下”
-zh_TW: 請按 DOWN （向下）"	""
+zh_TW: 請按 DOWN （向下）"	"撳下鍵"
 "hbui.ControllerSpecificButtonNarration.Gamepad.L3.KEYBOARD"	"Press L3"	"Original Translation
 zh_CN: 按下 L3
-zh_TW: 請按 L3"	""
+zh_TW: 請按 L3"	"撳L3"
 "hbui.ControllerSpecificButtonNarration.Gamepad.L3.PS"	"Press L3"	"Original Translation
 zh_CN: 按下 L3
-zh_TW: 請按 L3"	""
+zh_TW: 請按 L3"	"撳L3"
 "hbui.ControllerSpecificButtonNarration.Gamepad.L3.QUEST"	"Press L3"	"Original Translation
 zh_CN: 按下 L3
-zh_TW: 請按 L3"	""
+zh_TW: 請按 L3"	"撳L3"
 "hbui.ControllerSpecificButtonNarration.Gamepad.L3.STEAM"	"Press L3"	"Original Translation
 zh_CN: 按下 L3
-zh_TW: 請按 L3"	""
+zh_TW: 請按 L3"	"撳L3"
 "hbui.ControllerSpecificButtonNarration.Gamepad.L3.SWITCH"	"Press L3"	"Original Translation
 zh_CN: 按下 L3
-zh_TW: 請按 L3"	""
+zh_TW: 請按 L3"	"撳L3"
 "hbui.ControllerSpecificButtonNarration.Gamepad.L3.XBOX"	"Press L3"	"Original Translation
 zh_CN: 按下 L3
-zh_TW: 請按 L3"	""
+zh_TW: 請按 L3"	"撳L3"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LB.KEYBOARD"	"Press LB"	"Original Translation
 zh_CN: 按下 LB
-zh_TW: 請按 LB"	""
+zh_TW: 請按 LB"	"撳LB"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LB.PS"	"Press LB"	"Original Translation
 zh_CN: 按下 LB
-zh_TW: 請按 LB"	""
+zh_TW: 請按 LB"	"撳LB"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LB.QUEST"	"Press LB"	"Original Translation
 zh_CN: 按下 LB
-zh_TW: 請按 LB"	""
+zh_TW: 請按 LB"	"撳LB"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LB.STEAM"	"Press LB"	"Original Translation
 zh_CN: 按下 LB
-zh_TW: 請按 LB"	""
+zh_TW: 請按 LB"	"撳LB"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LB.SWITCH"	"Press LB"	"Original Translation
 zh_CN: 按下 LB
-zh_TW: 請按 LB"	""
+zh_TW: 請按 LB"	"撳LB"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LB.XBOX"	"Press LB"	"Original Translation
 zh_CN: 按下 LB
-zh_TW: 請按 LB"	""
+zh_TW: 請按 LB"	"撳LB"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LEFT.KEYBOARD"	"Press LEFT"	"Original Translation
 zh_CN: 按下“向左”
-zh_TW: 請按左鍵"	""
+zh_TW: 請按左鍵"	"撳左鍵"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LEFT.PS"	"Press LEFT"	"Original Translation
 zh_CN: 按下“向左”
-zh_TW: 請按左鍵"	""
+zh_TW: 請按左鍵"	"撳左鍵"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LEFT.QUEST"	"Press LEFT"	"Original Translation
 zh_CN: 按下“向左”
-zh_TW: 請按左鍵"	""
+zh_TW: 請按左鍵"	"撳左鍵"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LEFT.STEAM"	"Press LEFT"	"Original Translation
 zh_CN: 按下“向左”
-zh_TW: 請按左鍵"	""
+zh_TW: 請按左鍵"	"撳左鍵"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LEFT.SWITCH"	"Press LEFT"	"Original Translation
 zh_CN: 按下“向左”
-zh_TW: 請按左鍵"	""
+zh_TW: 請按左鍵"	"撳左鍵"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LEFT.XBOX"	"Press LEFT"	"Original Translation
 zh_CN: 按下“向左”
-zh_TW: 請按左鍵"	""
+zh_TW: 請按左鍵"	"撳左鍵"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LEFT_HORIZONTAL_AXIS.KEYBOARD"	"Press LEFT_HORIZONTAL_AXIS"	"Original Translation
 zh_CN: 按下 LEFT_HORIZONTAL_AXIS
-zh_TW: 按 LEFT_HORIZONTAL_AXIS"	""
+zh_TW: 按 LEFT_HORIZONTAL_AXIS"	"撳左緯"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LEFT_HORIZONTAL_AXIS.PS"	"Press LEFT_HORIZONTAL_AXIS"	"Original Translation
 zh_CN: 按下 LEFT_HORIZONTAL_AXIS
-zh_TW: 按 LEFT_HORIZONTAL_AXIS"	""
+zh_TW: 按 LEFT_HORIZONTAL_AXIS"	"撳左緯"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LEFT_HORIZONTAL_AXIS.QUEST"	"Press LEFT_HORIZONTAL_AXIS"	"Original Translation
 zh_CN: 按下 LEFT_HORIZONTAL_AXIS
-zh_TW: 按 LEFT_HORIZONTAL_AXIS"	""
+zh_TW: 按 LEFT_HORIZONTAL_AXIS"	"撳左緯"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LEFT_HORIZONTAL_AXIS.STEAM"	"Press LEFT_HORIZONTAL_AXIS"	"Original Translation
 zh_CN: 按下 LEFT_HORIZONTAL_AXIS
-zh_TW: 按 LEFT_HORIZONTAL_AXIS"	""
+zh_TW: 按 LEFT_HORIZONTAL_AXIS"	"撳左緯"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LEFT_HORIZONTAL_AXIS.SWITCH"	"Press LEFT_HORIZONTAL_AXIS"	"Original Translation
 zh_CN: 按下 LEFT_HORIZONTAL_AXIS
-zh_TW: 按 LEFT_HORIZONTAL_AXIS"	""
+zh_TW: 按 LEFT_HORIZONTAL_AXIS"	"撳左緯"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LEFT_HORIZONTAL_AXIS.XBOX"	"Press LEFT_HORIZONTAL_AXIS"	"Original Translation
 zh_CN: 按下 LEFT_HORIZONTAL_AXIS
-zh_TW: 按 LEFT_HORIZONTAL_AXIS"	""
+zh_TW: 按 LEFT_HORIZONTAL_AXIS"	"撳左緯"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LEFT_VERTICAL_AXIS.KEYBOARD"	"Press LEFT_VERTICAL_AXIS"	"Original Translation
 zh_CN: 按下 LEFT_VERTICAL_AXIS
-zh_TW: 按 LEFT_VERTICAL_AXIS"	""
+zh_TW: 按 LEFT_VERTICAL_AXIS"	"撳左經"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LEFT_VERTICAL_AXIS.PS"	"Press LEFT_VERTICAL_AXIS"	"Original Translation
 zh_CN: 按下 LEFT_VERTICAL_AXIS
-zh_TW: 按 LEFT_VERTICAL_AXIS"	""
+zh_TW: 按 LEFT_VERTICAL_AXIS"	"撳左經"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LEFT_VERTICAL_AXIS.QUEST"	"Press LEFT_VERTICAL_AXIS"	"Original Translation
 zh_CN: 按下 LEFT_VERTICAL_AXIS
-zh_TW: 按 LEFT_VERTICAL_AXIS"	""
+zh_TW: 按 LEFT_VERTICAL_AXIS"	"撳左經"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LEFT_VERTICAL_AXIS.STEAM"	"Press LEFT_VERTICAL_AXIS"	"Original Translation
 zh_CN: 按下 LEFT_VERTICAL_AXIS
-zh_TW: 按 LEFT_VERTICAL_AXIS"	""
+zh_TW: 按 LEFT_VERTICAL_AXIS"	"撳左經"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LEFT_VERTICAL_AXIS.SWITCH"	"Press LEFT_VERTICAL_AXIS"	"Original Translation
 zh_CN: 按下 LEFT_VERTICAL_AXIS
-zh_TW: 按 LEFT_VERTICAL_AXIS"	""
+zh_TW: 按 LEFT_VERTICAL_AXIS"	"撳左經"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LEFT_VERTICAL_AXIS.XBOX"	"Press LEFT_VERTICAL_AXIS"	"Original Translation
 zh_CN: 按下 LEFT_VERTICAL_AXIS
-zh_TW: 按 LEFT_VERTICAL_AXIS"	""
+zh_TW: 按 LEFT_VERTICAL_AXIS"	"撳左經"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LT.KEYBOARD"	"Press LT"	"Original Translation
 zh_CN: 按下 LT
-zh_TW: 請按 LT"	""
+zh_TW: 請按 LT"	"撳LT"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LT.PS"	"Press LT"	"Original Translation
 zh_CN: 按下 LT
-zh_TW: 請按 LT"	""
+zh_TW: 請按 LT"	"撳LT"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LT.QUEST"	"Press LT"	"Original Translation
 zh_CN: 按下 LT
-zh_TW: 請按 LT"	""
+zh_TW: 請按 LT"	"撳LT"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LT.STEAM"	"Press LT"	"Original Translation
 zh_CN: 按下 LT
-zh_TW: 請按 LT"	""
+zh_TW: 請按 LT"	"撳LT"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LT.SWITCH"	"Press ZL"	"Original Translation
 zh_CN: 按下 ZL
-zh_TW: 按下 ZL 鍵"	""
+zh_TW: 按下 ZL 鍵"	"撳ZL"
 "hbui.ControllerSpecificButtonNarration.Gamepad.LT.XBOX"	"Press LT"	"Original Translation
 zh_CN: 按下 LT
-zh_TW: 請按 LT"	""
+zh_TW: 請按 LT"	"撳LT"
 "hbui.ControllerSpecificButtonNarration.Gamepad.L_DOWN.KEYBOARD"	"Press L_DOWN"	"Original Translation
 zh_CN: 按下 L_DOWN
 zh_TW: 按 L_DOWN"	""
@@ -16184,25 +16184,25 @@ zh_CN: 最喜爱的好友
 zh_TW: 最愛的好友"	""
 "hbui.FriendList.narration.friends"	"Friends"	"Original Translation
 zh_CN: 好友
-zh_TW: 好友"	""
+zh_TW: 好友"	"友"
 "hbui.FriendList.narration.offline"	"Offline Friends"	"Original Translation
 zh_CN: 离线好友
-zh_TW: 離線好友"	""
+zh_TW: 離線好友"	"離綫之友"
 "hbui.FriendList.narration.offline.playstation"	"Offline PlayStation™Network friends"	"Original Translation
 zh_CN: PlayStation™Network 离线好友
-zh_TW: PlayStation™Network 離線好友"	""
+zh_TW: PlayStation™Network 離線好友"	"離綫戲驛網之友"
 "hbui.FriendList.narration.offline.switch"	"Offline Friends"	"Original Translation
 zh_CN: 离线好友
-zh_TW: 離線好友"	""
+zh_TW: 離線好友"	"離綫之友"
 "hbui.FriendList.narration.online"	"Online Friends"	"Original Translation
 zh_CN: 在线好友
-zh_TW: 線上好友"	""
+zh_TW: 線上好友"	"在綫之友"
 "hbui.FriendList.narration.online.playstation"	"Online PlayStation™Network Friends"	"Original Translation
 zh_CN: PlayStation™Network 在线好友
-zh_TW: PlayStation™Network 線上好友"	""
+zh_TW: PlayStation™Network 線上好友"	"在綫戲驛網之友"
 "hbui.FriendList.narration.online.switch"	"Online Nintendo Friends"	"Original Translation
 zh_CN: Nintendo 在线好友
-zh_TW: Nintendo 線上好友"	""
+zh_TW: Nintendo 線上好友"	"在綫任天堂之友"
 "hbui.FriendList.noFriends"	"All your friends hade been added as favorites!"	"Original Translation
 zh_CN: 所有好友都已标记为最喜爱的好友！
 zh_TW: 你的全部好友都已新增為最愛！"	""
@@ -16214,34 +16214,34 @@ zh_CN: 没有好友在线
 zh_TW: 沒有朋友在線上"	""
 "hbui.FriendList.offline"	"Offline (%1$s)"	"Original Translation
 zh_CN: 离线 (%1$s)
-zh_TW: 離線 (%1$s)"	""
+zh_TW: 離線 (%1$s)"	"離綫（%1$s）"
 "hbui.FriendList.offline.playstation"	"Offline PSN™ friends (%1$s)"	"Original Translation
 zh_CN: PSN™ 离线好友 (%1$s)
-zh_TW: PSN™ 離線好友 (%1$s)"	""
+zh_TW: PSN™ 離線好友 (%1$s)"	"離綫戲驛網之友（%1$s）"
 "hbui.FriendList.offline.switch"	"Offline Nintendo friends (%1$s)"	"Original Translation
 zh_CN: Nintendo 离线好友 (%1$s)
-zh_TW: Nintendo 離線好友 (%1$s)"	""
+zh_TW: Nintendo 離線好友 (%1$s)"	"離綫任天堂之友（%1$s）"
 "hbui.FriendList.offlineFriendsNumberMultiple"	"%1$s friends offline"	"Original Translation
 zh_CN: %1$s 个好友离线
-zh_TW: %1$s 位好友離線"	""
+zh_TW: %1$s 位好友離線"	"%1$s友離綫"
 "hbui.FriendList.offlineFriendsNumberSingular"	"%1$s friend offline"	"Original Translation
 zh_CN: %1$s 个好友离线
-zh_TW: %1$s 位好友已離線"	""
+zh_TW: %1$s 位好友已離線"	"%1$s友離綫"
 "hbui.FriendList.online"	"Online (%1$s)"	"Original Translation
 zh_CN: 在线 (%1$s)
-zh_TW: 線上 (%1$s)"	""
+zh_TW: 線上 (%1$s)"	"在綫（%1$s）"
 "hbui.FriendList.online.playstation"	"Online PSN™ friends (%1$s)"	"Original Translation
 zh_CN: PSN™ 在线好友 (%1$s)
-zh_TW: PSN™ 線上好友(%1$s)"	""
+zh_TW: PSN™ 線上好友(%1$s)"	"在綫戲驛網之友（%1$s）"
 "hbui.FriendList.online.switch"	"Online Nintendo friends (%1$s)"	"Original Translation
 zh_CN: Nintendo 在线好友 (%1$s)
-zh_TW: Nintendo 線上好友 (%1$s)"	""
+zh_TW: Nintendo 線上好友 (%1$s)"	"在綫任天堂之友（%1$s）"
 "hbui.FriendList.onlineFriendsNumberMultiple"	"%1$s friends online"	"Original Translation
 zh_CN: %1$s 位好友在线
-zh_TW: %1$s 位好友在線上"	""
+zh_TW: %1$s 位好友在線上"	"%1$s友在綫"
 "hbui.FriendList.onlineFriendsNumberSingular"	"%1$s friend online"	"Original Translation
 zh_CN: %1$s 个好友在线
-zh_TW: %1$s 位好友在線上"	""
+zh_TW: %1$s 位好友在線上"	"%1$s友在綫"
 "hbui.FriendList.pending"	"Pending requests (%1$s)"	"Original Translation
 zh_CN: 待处理请求 (%1$s)
 zh_TW: 待處理的請求 (%1$s)"	""
@@ -16256,7 +16256,7 @@ zh_CN: %1 个请求待处理
 zh_TW: %1$s 個待處理的請求"	""
 "hbui.FriendList.you"	"You"	"Original Translation
 zh_CN: 您
-zh_TW: 你"	""
+zh_TW: 你"	"君"
 "hbui.FriendsDrawer.AddFriendsOnlineSafety.helpButton"	"Learn more"	"Original Translation
 zh_CN: 了解更多
 zh_TW: 深入了解"	""
