@@ -295,58 +295,58 @@ zh_CN: 选择个人资料
 zh_TW: 選擇設定檔"	"選擇個人資料"
 "accessibility.play.editRealm"	"Edit Realm"	"Original Translation
 zh_CN: 编辑 Realm
-zh_TW: 編輯 Realm"	""
+zh_TW: 編輯 Realm"	"編輯 Realm"
 "accessibility.play.editServer"	"Edit Server"	"Original Translation
 zh_CN: 编辑服务器
-zh_TW: 編輯伺服器"	""
+zh_TW: 編輯伺服器"	"編輯伺服器"
 "accessibility.play.editWorld"	"Edit World"	"Original Translation
 zh_CN: 编辑世界
-zh_TW: 編輯世界"	""
+zh_TW: 編輯世界"	"編輯世界"
 "accessibility.play.importWorld"	"Import World"	"Original Translation
 zh_CN: 导入世界
-zh_TW: 匯入世界"	""
+zh_TW: 匯入世界"	"匯入世界"
 "accessibility.play.leaveRealm"	"Leave Realm"	"Original Translation
 zh_CN: 离开 Realm
-zh_TW: 離開 Realm"	""
+zh_TW: 離開 Realm"	"離開 Realm"
 "accessibility.play.legacyWorldsDelete"	"Delete Legacy World"	"Original Translation
 zh_CN: 删除旧的世界
 zh_TW: 刪除舊版世界"	""
 "accessibility.play.multipleNewPosts"	"%s new posts"	"Original Translation
 zh_CN: %s 个新帖子
-zh_TW: %s 則新貼文"	""
+zh_TW: %s 則新貼文"	"%s 則新貼文"
 "accessibility.play.noNewPosts"	"No new posts"	"Original Translation
 zh_CN: 没有新帖子
-zh_TW: 沒有新貼文"	""
+zh_TW: 沒有新貼文"	"沒有新貼文"
 "accessibility.play.realmFeed"	"Realm Feed"	"Original Translation
 zh_CN: Realm 内容
-zh_TW: Realm 動態"	""
+zh_TW: Realm 動態"	"Realm 動態"
 "accessibility.play.singleNewPost"	"1 new post"	"Original Translation
 zh_CN: 1 个新帖子
-zh_TW: 1 則新貼文"	""
+zh_TW: 1 則新貼文"	"1 則新貼文"
 "accessibility.play.tabLeft"	"Press the %s to tab left"	"Original Translation
 zh_CN: 按下选项卡左边的 %s
-zh_TW: 按 %s 以選取左標籤"	""
+zh_TW: 按 %s 以選取左標籤"	"按 %s 以選取左標籤"
 "accessibility.play.tabRight"	"Press the %s to tab right"	"Original Translation
 zh_CN: 按下选项卡右边的 %s
-zh_TW: 按 %s 以選取右標籤"	""
+zh_TW: 按 %s 以選取右標籤"	"按 %s 以選取右標籤"
 "accessibility.play.uploadWorld"	"Upload World"	"Original Translation
 zh_CN: 上传世界
-zh_TW: 上傳世界"	""
+zh_TW: 上傳世界"	"上傳世界"
 "accessibility.popup.joinRealm"	"Join Realm Screen"	"Original Translation
 zh_CN: 加入 Realms 屏幕
-zh_TW: 加入 Realm 畫面"	""
+zh_TW: 加入 Realm 畫面"	"加入 Realm 畫面"
 "accessibility.popup.left_button_text"	"Turn Off"	"Original Translation
 zh_CN: 关闭
-zh_TW: 關閉"	""
+zh_TW: 關閉"	"關閉"
 "accessibility.popup.message.default"	"On your device, screen reader support is enabled by default."	"Original Translation
 zh_CN: 你的设备上默认启用了屏幕阅读器支持。
-zh_TW: 根據預設，螢幕閱讀器在您的裝置為已經啟用。"	""
+zh_TW: 根據預設，螢幕閱讀器在您的裝置為已經啟用。"	"螢幕閱讀器支援在您的裝置已預設啟用。"
 "accessibility.popup.message.line1"	"Welcome to Minecraft!"	"Original Translation
 zh_CN: 欢迎来到《我的世界》！
-zh_TW: 歡迎來到《Minecraft》！"	""
+zh_TW: 歡迎來到《Minecraft》！"	"歡迎來到 Minecraft！"
 "accessibility.popup.message.line3"	"Would you like to turn this off?"	"Original Translation
 zh_CN: 您想将它关掉吗？
-zh_TW: 您是否要將此關閉？"	""
+zh_TW: 您是否要將此關閉？"	"您是否要將此關閉？"
 "accessibility.popup.message.platform"	"We've detected that your system has a screen reader enabled and have automatically enabled Minecraft's screen reader."	"Original Translation
 zh_CN: 我们发现您的系统启用了一个屏幕阅读器，并且自动启用了 Minecraft 的屏幕阅读器。
 zh_TW: 我們已偵測到您的系統已啟用螢幕閱讀器，並已自動啟用 Minecraft 的螢幕閱讀器。"	""

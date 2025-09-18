@@ -8704,7 +8704,7 @@ zh_CN: 渗浆
 zh_TW: 滲液"	""
 "effect.raid_omen"	"Raid Omen"	"Original Translation
 zh_CN: 袭击之兆
-zh_TW: 戰鬥預兆"	""
+zh_TW: 戰鬥預兆"	"襲祲"
 "effect.trial_omen"	"Trial Omen"	"Original Translation
 zh_CN: 试炼之兆
 zh_TW: 試煉預兆"	""
@@ -37519,7 +37519,7 @@ zh_CN: 第 %s 页
 zh_TW: 第 %s 頁"	""
 "potion.absorption"	"Absorption"	"Original Translation
 zh_CN: 伤害吸收
-zh_TW: 吸收"	""
+zh_TW: 吸收"	"消災"
 "potion.awkward.linger.name"	"Lingering Awkward Potion"	"Original Translation
 zh_CN: 滞留型粗制药水
 zh_TW: 滯留型粗劣藥水"	""
@@ -37531,37 +37531,37 @@ zh_CN: 喷溅型粗制药水
 zh_TW: 噴濺型粗劣藥水"	""
 "potion.blindness"	"Blindness"	"Original Translation
 zh_CN: 失明
-zh_TW: 眼盲"	""
+zh_TW: 眼盲"	"盲"
 "potion.conduitPower"	"Conduit Power"	"Original Translation
 zh_CN: 潮涌能量
-zh_TW: 導管力量"	""
+zh_TW: 導管力量"	"潮信之力"
 "potion.confusion"	"Nausea"	"Original Translation
 zh_CN: 反胃
-zh_TW: 噁心"	""
+zh_TW: 噁心"	"氣逆"
 "potion.damageBoost"	"Strength"	"Original Translation
 zh_CN: 力量
-zh_TW: 力量"	""
+zh_TW: 力量"	"力"
 "potion.damageBoost.linger.name"	"Lingering Potion of Strength"	"Original Translation
 zh_CN: 滞留型力量药水
-zh_TW: 滯留型力量藥水"	""
+zh_TW: 滯留型力量藥水"	"力滯劑"
 "potion.damageBoost.name"	"Potion of Strength"	"Original Translation
 zh_CN: 力量药水
-zh_TW: 力量藥水"	""
+zh_TW: 力量藥水"	"力劑"
 "potion.damageBoost.splash.name"	"Splash Potion of Strength"	"Original Translation
 zh_CN: 喷溅型力量药水
-zh_TW: 噴濺型力量藥水"	""
+zh_TW: 噴濺型力量藥水"	"力噴劑"
 "potion.digSlowDown"	"Mining Fatigue"	"Original Translation
 zh_CN: 开采疲劳
-zh_TW: 開採倦怠"	""
+zh_TW: 開採倦怠"	"疲"
 "potion.digSpeed"	"Haste"	"Original Translation
 zh_CN: 急速
-zh_TW: 速掘"	""
+zh_TW: 速掘"	"速掘"
 "potion.effects.whenDrank"	"When Applied:"	"Original Translation
 zh_CN: 当使用后：
-zh_TW: 使用後會得到："	""
+zh_TW: 使用後會得到："	"付之時："
 "potion.empty"	"No Effects"	"Original Translation
 zh_CN: 无效果
-zh_TW: 無效果"	""
+zh_TW: 無效果"	"無"
 "potion.emptyPotion.linger.name"	"Lingering Water Bottle"	"Original Translation
 zh_CN: 滯留水瓶
 zh_TW: 滯留水瓶"	"水滯劑"
@@ -37573,109 +37573,109 @@ zh_CN: 喷溅水瓶
 zh_TW: 噴濺水瓶"	"水噴劑"
 "potion.fireResistance"	"Fire Resistance"	"Original Translation
 zh_CN: 抗火
-zh_TW: 抗火"	""
+zh_TW: 抗火"	"抗火"
 "potion.fireResistance.linger.name"	"Lingering Potion of Fire Resistance"	"Original Translation
 zh_CN: 滞留型抗火药水
-zh_TW: 滯留型抗火藥水"	""
+zh_TW: 滯留型抗火藥水"	"抗火滯劑"
 "potion.fireResistance.name"	"Potion of Fire Resistance"	"Original Translation
 zh_CN: 抗火药水
-zh_TW: 抗火藥水"	""
+zh_TW: 抗火藥水"	"抗火劑"
 "potion.fireResistance.splash.name"	"Splash Potion of Fire Resistance"	"Original Translation
 zh_CN: 喷溅型抗火药水
-zh_TW: 噴濺型抗火藥水"	""
+zh_TW: 噴濺型抗火藥水"	"抗火噴劑"
 "potion.harm"	"Instant Damage"	"Original Translation
 zh_CN: 瞬间伤害
-zh_TW: 立即傷害"	""
+zh_TW: 立即傷害"	"瞬傷"
 "potion.harm.linger.name"	"Lingering Potion of Harming"	"Original Translation
 zh_CN: 滞留型伤害药水
-zh_TW: 滯留型傷害藥水"	""
+zh_TW: 滯留型傷害藥水"	"瞬傷滯劑"
 "potion.harm.name"	"Potion of Harming"	"Original Translation
 zh_CN: 伤害药水
-zh_TW: 傷害藥水"	""
+zh_TW: 傷害藥水"	"瞬傷劑"
 "potion.harm.splash.name"	"Splash Potion of Harming"	"Original Translation
 zh_CN: 喷溅型伤害药水
-zh_TW: 噴濺型傷害藥水"	""
+zh_TW: 噴濺型傷害藥水"	"瞬傷噴劑"
 "potion.heal"	"Instant Health"	"Original Translation
 zh_CN: 瞬间治疗
-zh_TW: 立即回復生命值"	""
+zh_TW: 立即回復生命值"	"瞬療"
 "potion.heal.linger.name"	"Lingering Potion of Healing"	"Original Translation
 zh_CN: 滞留型治疗药水
-zh_TW: 滯留型治療藥水"	""
+zh_TW: 滯留型治療藥水"	"瞬療滯劑"
 "potion.heal.name"	"Potion of Healing"	"Original Translation
 zh_CN: 治疗药水
-zh_TW: 治療藥水"	""
+zh_TW: 治療藥水"	"瞬療劑"
 "potion.heal.splash.name"	"Splash Potion of Healing"	"Original Translation
 zh_CN: 喷溅型治疗药水
-zh_TW: 噴濺型治療藥水"	""
+zh_TW: 噴濺型治療藥水"	"瞬療噴劑"
 "potion.healthBoost"	"Health Boost"	"Original Translation
 zh_CN: 生命提升
-zh_TW: 生命值加乘"	""
+zh_TW: 生命值加乘"	"益壽"
 "potion.hunger"	"Hunger"	"Original Translation
 zh_CN: 饥饿
-zh_TW: 飢餓"	""
+zh_TW: 飢餓"	"飢"
 "potion.infested"	"Infested"	"Original Translation
 zh_CN: 虫蚀
-zh_TW: 蛀蝕"	""
+zh_TW: 蛀蝕"	"蟫蝕"
 "potion.infested.linger.name"	"Lingering Potion of Infestation"	"Original Translation
 zh_CN: 滞留型虫蚀药水
-zh_TW: 滯留型蛀蝕藥水"	""
+zh_TW: 滯留型蛀蝕藥水"	"蟫蝕滯劑"
 "potion.infested.name"	"Potion of Infestation"	"Original Translation
 zh_CN: 虫蚀药水
-zh_TW: 蛀蝕藥水"	""
+zh_TW: 蛀蝕藥水"	"蟫蝕劑"
 "potion.infested.splash.name"	"Splash Potion of Infestation"	"Original Translation
 zh_CN: 喷溅型虫蚀药水
-zh_TW: 噴濺型蛀蝕藥水"	""
+zh_TW: 噴濺型蛀蝕藥水"	"蟫蝕噴劑"
 "potion.invisibility"	"Invisibility"	"Original Translation
 zh_CN: 隐身
-zh_TW: 隱形"	""
+zh_TW: 隱形"	"隱"
 "potion.invisibility.linger.name"	"Lingering Potion of Invisibility"	"Original Translation
 zh_CN: 滞留型隐身药水
-zh_TW: 滯留型隱形藥水"	""
+zh_TW: 滯留型隱形藥水"	"隱滯劑"
 "potion.invisibility.name"	"Potion of Invisibility"	"Original Translation
 zh_CN: 隐身药水
-zh_TW: 隱形藥水"	""
+zh_TW: 隱形藥水"	"隱劑"
 "potion.invisibility.splash.name"	"Splash Potion of Invisibility"	"Original Translation
 zh_CN: 喷溅型隐身药水
-zh_TW: 噴濺型隱形藥水"	""
+zh_TW: 噴濺型隱形藥水"	"隱噴劑"
 "potion.jump"	"Jump Boost"	"Original Translation
 zh_CN: 跳跃增强
-zh_TW: 跳躍增強"	""
+zh_TW: 跳躍增強"	"躍昇"
 "potion.jump.linger.name"	"Lingering Potion of Leaping"	"Original Translation
 zh_CN: 滞留型跳跃药水
-zh_TW: 滯留型跳躍藥水"	""
+zh_TW: 滯留型跳躍藥水"	"躍昇滯劑"
 "potion.jump.name"	"Potion of Leaping"	"Original Translation
 zh_CN: 跳跃药水
-zh_TW: 跳躍藥水"	""
+zh_TW: 跳躍藥水"	"躍昇劑"
 "potion.jump.splash.name"	"Splash Potion of Leaping"	"Original Translation
 zh_CN: 喷溅型跳跃药水
-zh_TW: 噴濺型跳躍藥水"	""
+zh_TW: 噴濺型跳躍藥水"	"躍昇噴劑"
 "potion.levitation"	"Levitation"	"Original Translation
 zh_CN: 飘浮
-zh_TW: 漂浮"	""
+zh_TW: 漂浮"	"浮"
 "potion.moveSlowdown"	"Slowness"	"Original Translation
 zh_CN: 缓慢
-zh_TW: 緩慢"	""
+zh_TW: 緩慢"	"緩"
 "potion.moveSlowdown.linger.name"	"Lingering Potion of Slowness"	"Original Translation
 zh_CN: 滞留型迟缓药水
-zh_TW: 滯留型緩慢藥水"	""
+zh_TW: 滯留型緩慢藥水"	"緩滯劑"
 "potion.moveSlowdown.name"	"Potion of Slowness"	"Original Translation
 zh_CN: 迟缓药水
-zh_TW: 緩慢藥水"	""
+zh_TW: 緩慢藥水"	"緩劑"
 "potion.moveSlowdown.splash.name"	"Splash Potion of Slowness"	"Original Translation
 zh_CN: 喷溅型迟缓药水
-zh_TW: 噴濺型緩慢藥水"	""
+zh_TW: 噴濺型緩慢藥水"	"緩噴劑"
 "potion.moveSpeed"	"Speed"	"Original Translation
 zh_CN: 速度
-zh_TW: 速度"	""
+zh_TW: 速度"	"速"
 "potion.moveSpeed.linger.name"	"Lingering Potion of Swiftness"	"Original Translation
 zh_CN: 滞留型迅捷药水
-zh_TW: 滯留型迅捷藥水"	""
+zh_TW: 滯留型迅捷藥水"	"速滯劑"
 "potion.moveSpeed.name"	"Potion of Swiftness"	"Original Translation
 zh_CN: 迅捷药水
-zh_TW: 迅捷藥水"	""
+zh_TW: 迅捷藥水"	"速劑"
 "potion.moveSpeed.splash.name"	"Splash Potion of Swiftness"	"Original Translation
 zh_CN: 喷溅型迅捷药水
-zh_TW: 噴濺型迅捷藥水"	""
+zh_TW: 噴濺型迅捷藥水"	"速噴劑"
 "potion.mundane.extended.linger.name"	"Lingering Long Mundane Potion"	"Original Translation
 zh_CN: 滞留型长久平凡药水
 zh_TW: 滯留型長效平凡藥水"	""
@@ -37696,7 +37696,7 @@ zh_CN: 喷溅型平凡药水
 zh_TW: 噴濺型平凡藥水"	""
 "potion.nightVision"	"Night Vision"	"Original Translation
 zh_CN: 夜视
-zh_TW: 夜視"	""
+zh_TW: 夜視"	"夜視"
 "potion.nightVision.linger.name"	"Lingering Potion of Night Vision"	"Original Translation
 zh_CN: 滞留型夜视药水
 zh_TW: 滯留型夜視藥水"	""
@@ -38272,19 +38272,19 @@ zh_CN: 测验
 zh_TW: 測驗"	""
 "raid.defeat"	"Defeat"	"Original Translation
 zh_CN: 失败
-zh_TW: 失敗"	""
+zh_TW: 失敗"	"敗"
 "raid.expiry"	"A raid has expired"	"Original Translation
 zh_CN: 一次劫掠已过期
 zh_TW: 一場戰鬥已經過期"	""
 "raid.name"	"Raid"	"Original Translation
 zh_CN: 劫掠
-zh_TW: 戰鬥"	""
+zh_TW: 戰鬥"	"襲"
 "raid.progress"	"Mobs remaining:"	"Original Translation
 zh_CN: 剩余生物：
-zh_TW: 剩餘生物："	""
+zh_TW: 剩餘生物："	"殘寇尚餘："
 "raid.victory"	"Victory"	"Original Translation
 zh_CN: 胜利
-zh_TW: 勝利"	""
+zh_TW: 勝利"	"捷"
 "ratingPopUp.title"	"Are you enjoying Minecraft?"	"Original Translation
 zh_CN: 喜欢 Minecraft 吗？
 zh_TW: 你喜歡 Minecraft 嗎？"	""
@@ -38815,10 +38815,10 @@ zh_CN: 备份
 zh_TW: 備份"	""
 "realmsSettingsScreen.backupVersion"	"Version: %s"	"Original Translation
 zh_CN: 版本：%s
-zh_TW: 版本：%s"	""
+zh_TW: 版本：%s"	"版：%s"
 "realmsSettingsScreen.backupVersionUnknown"	"Version: Unknown"	"Original Translation
 zh_CN: 版本：未知
-zh_TW: 版本：未知"	""
+zh_TW: 版本：未知"	"版：未明"
 "realmsSettingsScreen.berwickStoreDisplayName"	"PlayStation®Store"	"Original Translation
 zh_CN: PlayStation®Store
 zh_TW: PlayStation®Store"	""
@@ -44532,13 +44532,13 @@ zh_CN: 重命名世界
 zh_TW: 重新命名世界"	""
 "selectWorld.resultFolder"	"Will be saved in:"	"Original Translation
 zh_CN: 将会保存于：
-zh_TW: 將被儲存於："	""
+zh_TW: 將被儲存於："	"將記於："
 "selectWorld.seedInfo"	"Leave blank for a random seed"	"Original Translation
 zh_CN: 留出空白以使用随机种子
 zh_TW: 保留空白隨機生成種子"	""
 "selectWorld.select"	"Play Selected World"	"Original Translation
 zh_CN: 进入选中的世界
-zh_TW: 進入所選的世界"	""
+zh_TW: 進入所選的世界"	"入所選"
 "selectWorld.tab.classmates"	"Friends"	"Original Translation
 zh_CN: 好友
 zh_TW: 好友"	""
@@ -44547,16 +44547,16 @@ zh_CN: 好友
 zh_TW: 好友"	""
 "selectWorld.tab.realms"	"Realms"	"Original Translation
 zh_CN: Realms
-zh_TW: Realms"	""
+zh_TW: Realms"	"領域"
 "selectWorld.tab.thirdParty"	"Servers"	"Original Translation
 zh_CN: 服务器
-zh_TW: 伺服器"	""
+zh_TW: 伺服器"	"伺服器"
 "selectWorld.tab.worlds"	"Worlds"	"Original Translation
 zh_CN: 世界
-zh_TW: 世界"	""
+zh_TW: 世界"	"生界"
 "selectWorld.title"	"Select World"	"Original Translation
 zh_CN: 选择世界
-zh_TW: 選擇世界"	""
+zh_TW: 選擇世界"	"擇生界"
 "selectWorld.trustPlayers"	"Trust Players:"	"Original Translation
 zh_CN: 信任玩家：
 zh_TW: 信任玩家："	""
@@ -44568,7 +44568,7 @@ zh_CN: 正在发送旧世界
 zh_TW: 正在傳送舊版世界"	""
 "selectWorld.world"	"World"	"Original Translation
 zh_CN: 世界
-zh_TW: 世界"	""
+zh_TW: 世界"	"生界"
 "selectWorld.worldTags"	"%1$s - %2$s"	"Original Translation
 zh_CN: %1$s - %2$s
 zh_TW: %1$s - %2$s"	""
@@ -44577,7 +44577,7 @@ zh_CN: 实验
 zh_TW: 實驗性"	""
 "selectWorld.worldTags.hardcore"	"Hardcore"	"Original Translation
 zh_CN: 极限
-zh_TW: 極限"	""
+zh_TW: 極限"	"極"
 "serverUI.errorDescription"	"Received invalid form json. Error:%s"	"Original Translation
 zh_CN: 接收的表单 json 无效。错误：%s
 zh_TW: 收到無效的 json 表單。錯誤：%s"	""
@@ -51927,19 +51927,19 @@ zh_CN: 经验：%d/%d
 zh_TW: 經驗值：%d/%d"	""
 "trade.level.1"	"Novice"	"Original Translation
 zh_CN: 新手
-zh_TW: 初學者"	""
+zh_TW: 初學者"	"新人"
 "trade.level.2"	"Apprentice"	"Original Translation
 zh_CN: 学徒
-zh_TW: 學徒"	""
+zh_TW: 學徒"	"門徒"
 "trade.level.3"	"Journeyman"	"Original Translation
 zh_CN: 熟手
-zh_TW: 老手"	""
+zh_TW: 老手"	"手熟"
 "trade.level.4"	"Expert"	"Original Translation
 zh_CN: 专家
-zh_TW: 專家"	""
+zh_TW: 專家"	"匠人"
 "trade.level.5"	"Master"	"Original Translation
 zh_CN: 大师
-zh_TW: 大師"	""
+zh_TW: 大師"	"巨擘"
 "trade.levelPrefix"	"Level %d"	"Original Translation
 zh_CN: %d 级
 zh_TW: 等級 %d"	""
