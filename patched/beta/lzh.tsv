@@ -253,7 +253,7 @@ zh_CN: 导入已开始
 zh_TW: 匯入已開始"	""
 "accessibility.index"	"%s of %s"	"Original Translation
 zh_CN: 第 %s 个，共 %s 个
-zh_TW: %s/%s"	""
+zh_TW: %s/%s"	"%2$s之%1$s"
 "accessibility.key.gamepad"	"Controller %s"	"Original Translation
 zh_CN: 控制器 %s
 zh_TW: 控制器 %s"	""
@@ -268,55 +268,55 @@ zh_CN: 右方括号键
 zh_TW: 右方括號鍵"	""
 "accessibility.list.or.three_or_more.first"	"%s"	"Original Translation
 zh_CN: %s
-zh_TW: %s"	""
+zh_TW: %s"	"%s"
 "accessibility.list.or.three_or_more.inner"	", %s"	"Original Translation
 zh_CN: ，%s
-zh_TW: ，%s"	""
+zh_TW: ，%s"	"、%s"
 "accessibility.list.or.three_or_more.last"	", or %s"	"Original Translation
 zh_CN: ，或 %s
-zh_TW: ，或 %s"	""
+zh_TW: ，或 %s"	"抑%s"
 "accessibility.list.or.two"	"%s or %s"	"Original Translation
 zh_CN: %s或%s
-zh_TW: %s或%s"	""
+zh_TW: %s或%s"	"%s抑%s"
 "accessibility.loading.done"	"Done"	"Original Translation
 zh_CN: 完成
-zh_TW: 完成"	""
+zh_TW: 完成"	"畢"
 "accessibility.minecoin"	"Minecoin"	"Original Translation
 zh_CN: Minecoin
-zh_TW: Minecoin"	""
+zh_TW: Minecoin"	"礦藝緡"
 "accessibility.minecoins"	"Minecoins"	"Original Translation
 zh_CN: Minecoin
-zh_TW: Minecoin"	""
+zh_TW: Minecoin"	"礦藝緡"
 "accessibility.pause.permissions"	"Permissions"	"Original Translation
 zh_CN: 许可
-zh_TW: 權限"	""
+zh_TW: 權限"	"權"
 "accessibility.pause.profile"	"Choose Profile"	"Original Translation
 zh_CN: 选择个人资料
-zh_TW: 選擇設定檔"	""
+zh_TW: 選擇設定檔"	"擇戶簿"
 "accessibility.play.editRealm"	"Edit Realm"	"Original Translation
 zh_CN: 编辑 Realm
-zh_TW: 編輯 Realm"	""
+zh_TW: 編輯 Realm"	"纂領域"
 "accessibility.play.editServer"	"Edit Server"	"Original Translation
 zh_CN: 编辑服务器
-zh_TW: 編輯伺服器"	""
+zh_TW: 編輯伺服器"	"纂伺服器"
 "accessibility.play.editWorld"	"Edit World"	"Original Translation
 zh_CN: 编辑世界
-zh_TW: 編輯世界"	""
+zh_TW: 編輯世界"	"纂生界"
 "accessibility.play.importWorld"	"Import World"	"Original Translation
 zh_CN: 导入世界
 zh_TW: 匯入世界"	""
 "accessibility.play.leaveRealm"	"Leave Realm"	"Original Translation
 zh_CN: 离开 Realm
-zh_TW: 離開 Realm"	""
+zh_TW: 離開 Realm"	"去領域"
 "accessibility.play.legacyWorldsDelete"	"Delete Legacy World"	"Original Translation
 zh_CN: 删除旧的世界
-zh_TW: 刪除舊版世界"	""
+zh_TW: 刪除舊版世界"	"刪故生界"
 "accessibility.play.multipleNewPosts"	"%s new posts"	"Original Translation
 zh_CN: %s 个新帖子
-zh_TW: %s 則新貼文"	""
+zh_TW: %s 則新貼文"	"%s新文"
 "accessibility.play.noNewPosts"	"No new posts"	"Original Translation
 zh_CN: 没有新帖子
-zh_TW: 沒有新貼文"	""
+zh_TW: 沒有新貼文"	"無新文"
 "accessibility.play.realmFeed"	"Realm Feed"	"Original Translation
 zh_CN: Realm 内容
 zh_TW: Realm 動態"	""
