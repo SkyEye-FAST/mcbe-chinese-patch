@@ -1390,7 +1390,7 @@ zh_CN: 速度
 zh_TW: 速度"	""
 "attribute.name.zombie.spawnReinforcements"	"Zombie Reinforcements"	"Original Translation
 zh_CN: 僵尸增援
-zh_TW: 殭屍增援隊"	""
+zh_TW: 殭屍增援隊"	"殭屍援軍"
 "attribution.goBack"	"Go Back"	"Original Translation
 zh_CN: 返回
 zh_TW: 返回"	""
@@ -23771,10 +23771,10 @@ zh_CN: 有关如何能充分利用附加内容的更多信息，你可以访问�
 zh_TW: 有關如何充分利用附加元內容的更多資訊，您可以造訪我們的常見問題頁面。"	""
 "howtoplay.adventureMode"	"Adventure Mode"	"Original Translation
 zh_CN: 冒险模式
-zh_TW: 冒險模式"	""
+zh_TW: 冒險模式"	"勇法"
 "howtoplay.adventureMode.text.1"	"Adventure Mode is a gamemode for world builders. In Adventure Mode, players must use special tools to place or break blocks."	"Original Translation
 zh_CN: 冒险模式是世界建造者的一种游戏模式。在冒险模式中，玩家必须使用特殊工具来放置或击破方块。
-zh_TW: 冒險模式是專為喜歡建造世界的玩家設計的遊戲模式，玩家可以使用特殊的工具來放置或破壞方塊。"	""
+zh_TW: 冒險模式是專為喜歡建造世界的玩家設計的遊戲模式，玩家可以使用特殊的工具來放置或破壞方塊。"	"勇者，匠之法也。惟殊器以置破焉。"
 "howtoplay.adventureMode.text.2"	"To get these special tools, you must use §e/give§f with §ecanplace§f or §ecandestroy§f parameters while in creative mode."	"Original Translation
 zh_CN: 要获得这些特殊工具，必须在创造模式下使用 §e/give§f 与 §ecanplace§f 或 §ecandestroy§f 参数。
 zh_TW: 如要取得這些特殊工具，你必須在創造模式中將 §e/give§f 搭配 §ecanplace §f 或 §ecandestroy§f 參數一起使用。"	""
@@ -23816,16 +23816,16 @@ zh_CN: 伪装
 zh_TW: 偽裝"	""
 "howtoplay.armor.text.1"	"By wearing Armor, you can protect yourself from incoming damage. Your Armor level is represented by :armor: on the HUD, the higher the level, the less damage you will take."	"Original Translation
 zh_CN: 通过穿戴盔甲，您可以保护自己免受伤害。您的盔甲级别由 HUD 上的 :armor: 表示，级别越高，所受伤害越小。
-zh_TW: 只要穿上護甲，您就能抵擋外來的傷害。您的護甲等級會在 HUD 上以 :armor: 表示。等級越高，您受到的傷害就越少。"	""
+zh_TW: 只要穿上護甲，您就能抵擋外來的傷害。您的護甲等級會在 HUD 上以 :armor: 表示。等級越高，您受到的傷害就越少。"	"著甲胄則自禦傷焉。甲胄之階以:armor:見於幕，甲之彌精，傷之彌微。"
 "howtoplay.armor.text.2"	"Armor can be crafted from Leather, Iron, Gold, or Diamond. Chainmail Armor can be obtained through villager trading and loot from zombies and skeletons."	"Original Translation
 zh_CN: 盔甲可以由皮革、铁、黄金或钻石合成。链甲可以通过村民交易获得，也可以从僵尸和骷髅身上掠夺。
-zh_TW: 護甲可以用皮革、鐵、金或鑽石來製作。鎖鏈護甲可以透過與村民交易或從殭屍和骷髏的戰利品取得。"	""
+zh_TW: 護甲可以用皮革、鐵、金或鑽石來製作。鎖鏈護甲可以透過與村民交易或從殭屍和骷髏的戰利品取得。"	"甲胄製於革、鐵、金、金剛。至於環鎖甲，賈於鄉民，奪於殭屍、骷髏。"
 "howtoplay.armor.text.3"	"Equip Armor by opening your inventory and moving pieces of Armor to the appropriate slot next to your player skin."	"Original Translation
 zh_CN: 通过打开您的物品栏并将盔甲碎片移动到玩家皮肤旁边的相应槽位中，即可装备盔甲。
 zh_TW: 只要開啟物品欄，然後將護甲部件移到玩家外觀旁的合適空格上，就能配備護甲。"	""
 "howtoplay.armor.text.4"	"Iron, Chainmail, and Golden Armor can be smelted into Iron or Gold Nuggets in a Furnace."	"Original Translation
 zh_CN: 铁质盔甲、链甲盔甲和黄金盔甲可以在熔炉中熔化成铁粒或金粒。
-zh_TW: 鐵護甲、鎖鏈護甲和黃金護甲可以在熔爐中熔煉成鐵塊或金粒。"	""
+zh_TW: 鐵護甲、鎖鏈護甲和黃金護甲可以在熔爐中熔煉成鐵塊或金粒。"	"甲胄之鐵、環鎖、金者，付諸爐中，可熔爲鐵粒金粒。"
 "howtoplay.armor.text.5.gamepad"	"The Shield will block incoming damage. The Shield can be equipped in the offhand slot as well as the hotbar. Press :_input_key.sneak: or press :_gamepad_stick_right: to toggle block with the Shield."	"Original Translation
 zh_CN: 盾牌可以格挡来袭的伤害。盾牌可以装备在便捷槽位以及热键中。按 :_input_key.sneak: 或按 :_gamepad_stick_right: 可以切换成使用盾牌进行格挡。
 zh_TW: 盾可以格擋傷害，還可以裝備在副手物品欄以及物品槽。按下 :_input_key.sneak: 按鈕或按 :_gamepad_stick_right: 可切換使用盾來格擋。"	""
@@ -23852,10 +23852,10 @@ zh_CN: 盾牌甚至可以格挡一次苦力怕的爆炸！
 zh_TW: 盾甚至可以格擋苦力怕爆炸！"	""
 "howtoplay.armor.text.7"	"You can also wear a Carved Pumpkin on your head. This won't give you any :armor: but will make it so Endermen won't get mad when you look at them."	"Original Translation
 zh_CN: 您还可以将雕刻过的南瓜戴在头上。这不会给予您任何 :armor:，但却使您在盯着末影人看时不会让它变得疯狂。
-zh_TW: 您也可以把雕刻過的南瓜戴在頭上。這麼做雖然不會增加任何 :armor:，卻能讓終界使者不會因為您盯著它們瞧而發飆。"	""
+zh_TW: 您也可以把雕刻過的南瓜戴在頭上。這麼做雖然不會增加任何 :armor:，卻能讓終界使者不會因為您盯著它們瞧而發飆。"	"雕南瓜亦可以爲冠。雖不堪爲胄，矚終眇使而不慍旃。"
 "howtoplay.armorStand"	"Armor Stand"	"Original Translation
 zh_CN: 盔甲架
-zh_TW: 護甲座"	""
+zh_TW: 護甲座"	"甲桁"
 "howtoplay.armorStand.header.1"	"Outfitting"	"Original Translation
 zh_CN: 装备
 zh_TW: 放置護甲"	""
@@ -25292,7 +25292,7 @@ zh_CN: NPC 是能够提供额外的课程信息、提示或者指导的非玩家
 zh_TW: NPC 即為非玩家角色，可提供額外的課程資訊、提示或說明。"	""
 "howtoplay.npc.text.2"	"Only World Builders can place, delete, name, or edit NPCs. NPCs can execute commands and link to websites. Commands can be assigned to buttons in the NPC's dialog window; website links will always have a button."	"Original Translation
 zh_CN: 只有世界建造者能够放置、删除、命名或编辑非用户角色。非用户角色可以执行命令和网站链接。命令可在非用户角色的对话窗口中分配到按钮上；网站链接始终都会有按钮。
-zh_TW: 只有「創世者」可以放置、刪除、命名或編輯 NPC。NPC 可以執行命令並連結到網站。可以將指令分配至 NPC 對話框視窗中的按鈕；永遠都會有一個網站連結的按鈕。"	""
+zh_TW: 只有「創世者」可以放置、刪除、命名或編輯 NPC。NPC 可以執行命令並連結到網站。可以將指令分配至 NPC 對話框視窗中的按鈕；永遠都會有一個網站連結的按鈕。"	"惟匠之於傀也，是置是刪，是名是纂。傀得行令鏈網。令則得鈕於議幕，鏈則恆有鈕焉。"
 "howtoplay.npc.text.3"	"NPCs have a variety of skins to choose from and are immobile."	"Original Translation
 zh_CN: NPC 有大量皮肤可供选择，是稳定的。
 zh_TW: NPC 有多種不同的外觀可選，而且無法移動。"	""
@@ -26006,7 +26006,7 @@ zh_CN: 您可从附魔台或铁砧为剑、弓、弩和三叉戟获取特定附�
 zh_TW: 您可以利用附魔台或鐵砧來為劍、弓、十字弓和三叉戟加上專屬附魔，藉此提高傷害、耐久度，甚至還能讓生物著火！"	""
 "howtoplay.worldBuilder"	"World Builder"	"Original Translation
 zh_CN: 世界建造者
-zh_TW: 創世者"	""
+zh_TW: 創世者"	"匠"
 "howtoplay.worldBuilder.text.1"	"To place or use certain Minecraft Education blocks or items, a player must possess a special ability called 'World Builder'."	"Original Translation
 zh_CN: 若要放置或使用特定的 Minecraft Education 方块或物品，用户必须拥有一种名为“World Builder”的特殊能力。
 zh_TW: 若要放置或使用特定《Minecraft Education》方塊或物品，玩家必須有稱為「創世者」的特殊能力。"	""
@@ -26486,7 +26486,7 @@ zh_CN: 升级：
 zh_TW: 升級："	"昇："
 "item.armor_stand.name"	"Armor Stand"	"Original Translation
 zh_CN: 盔甲架
-zh_TW: 護甲座"	"桁架"
+zh_TW: 護甲座"	"甲桁"
 "item.arms_up_pottery_sherd.name"	"Arms Up Pottery Sherd"	"Original Translation
 zh_CN: 举臂纹样陶片
 zh_TW: 舉手陶器碎片"	"肱陶片"
@@ -30556,7 +30556,7 @@ zh_CN: 你需要创造模式 + 操作员权限来生成 NPC
 zh_TW: 你需要創造 + 操作員來生成一個 NPC"	"須創吏以召傀"
 "item.spawn_egg.entity.npc.failed.edu"	"You need worldbuilder permissions to spawn an NPC"	"Original Translation
 zh_CN: 你需要世界建造者权限才能生成 NPC
-zh_TW: 您需要創世者的權限才能生成 NPC"	"須主以召傀"
+zh_TW: 您需要創世者的權限才能生成 NPC"	"須匠以召傀"
 "item.spawn_egg.entity.npc.name"	"NPC Spawn Egg"	"Original Translation
 zh_CN: NPC 刷怪蛋
 zh_TW: NPC 生成蛋"	"孳傀之卵"
@@ -30688,7 +30688,7 @@ zh_CN: 僵尸刷怪蛋
 zh_TW: 殭屍生成蛋"	"孳殭屍之卵"
 "item.spawn_egg.entity.zombie_horse.name"	"Zombie Horse Spawn Egg"	"Original Translation
 zh_CN: 僵尸马刷怪蛋
-zh_TW: 殭屍馬生成蛋"	"孳殭屍馬之卵"
+zh_TW: 殭屍馬生成蛋"	"孳屍馬之卵"
 "item.spawn_egg.entity.zombie_pigman.name"	"Zombified Piglin Spawn Egg"	"Original Translation
 zh_CN: 僵尸猪灵刷怪蛋
 zh_TW: 殭屍豬布林生成蛋"	"孳屍化豕靈之卵"
@@ -31045,7 +31045,7 @@ zh_CN: 您需要创造模式 + 操作员权限来放置此方块
 zh_TW: 您需要創造 + 操作員來放置此方塊"	"須創吏以置是塊"
 "item.worldbuilder.block.failed.edu"	"You need worldbuilder permissions to place this block"	"Original Translation
 zh_CN: 你需要世界建造者权限才能放置此方块
-zh_TW: 你需要世界建造權限才能放置此方塊"	"須主以置是塊"
+zh_TW: 你需要世界建造權限才能放置此方塊"	"須匠以置是塊"
 "item.writable_book.name"	"Book and Quill"	"Original Translation
 zh_CN: 书和羽毛
 zh_TW: 書本和羽毛筆"	"書與筆"
@@ -33612,7 +33612,7 @@ zh_CN: 幻翼是会在夜间出现的危险生物。您得确保自己有规律�
 zh_TW: 幻影是危險的生物，會在夜裡出現。記得一定要準時上床睡覺！"	""
 "midgameTips.46"	"Zombies turn into drowned if they sink underwater."	"Original Translation
 zh_CN: 僵尸沉入水下后会变成溺尸。
-zh_TW: 殭屍如果沉入水裡就會變成水鬼。"	""
+zh_TW: 殭屍如果沉入水裡就會變成水鬼。"	"殭屍沈則爲溺屍。"
 "midgameTips.47"	"Sprint in water to swim!"	"Original Translation
 zh_CN: 在水中游泳冲刺！
 zh_TW: 跳入水中即可游泳！"	""
