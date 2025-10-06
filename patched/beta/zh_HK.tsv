@@ -1,22 +1,22 @@
 "Key"	"Source string"	"Context"	"Translation"
 "3d_export.export"	"Export"	"Original Translation
 zh_CN: 导出
-zh_TW: 匯出"	""
+zh_TW: 匯出"	"3D匯出"
 "3d_export.include"	"Include"	"Original Translation
 zh_CN: 包含
-zh_TW: 加入"	""
+zh_TW: 加入"	"加入"
 "3d_export.include_players"	"Include Players:"	"Original Translation
 zh_CN: 包含玩家：
-zh_TW: 加入玩家："	""
+zh_TW: 加入玩家："	"加入玩家："
 "3d_export.off"	"Off"	"Original Translation
 zh_CN: 关闭
-zh_TW: 關閉"	""
+zh_TW: 關閉"	"關閉"
 "3d_export.remixServiceDiscontinued"	"Note: Remix3D Upload service is no longer available, use Export to save locally instead."	"Original Translation
 zh_CN: 注意：Remix3D 上传服务不再可用，请使用“导出”来进行本地保存。
-zh_TW: 注意：Remix3D 上傳服務已不再提供，使用「匯出」即可改為本機儲存。"	""
+zh_TW: 注意：Remix3D 上傳服務已不再提供，使用「匯出」即可改為本機儲存。"	"注意：Remix3D上傳服務已不再提供，使用「匯出」即可改為本機儲存。"
 "3d_export.remove"	"Remove"	"Original Translation
 zh_CN: 移除
-zh_TW: 移除"	""
+zh_TW: 移除"	"移除"
 "3d_export.remove_blocks"	"Remove Blocks:"	"Original Translation
 zh_CN: 移除方块：
 zh_TW: 移除方塊："	""
@@ -1633,55 +1633,55 @@ zh_CN: 床是个好东西！制作一张床，然后睡上一觉，不仅可以�
 zh_TW: 床舖非常有用！合成一張床，可以讓您迅速度過夜晚並設定重生點。"	""
 "beta.loading.1"	"When you're on the beta, you can only play with other friends who are also on the beta!"	"Original Translation
 zh_CN: 如果您玩的是测试版，那么只能和其他也在玩测试版的好友一起玩！
-zh_TW: 使用測試版時，你只能與其他同樣也使用測試版的好友一起玩遊戲！"	""
+zh_TW: 使用測試版時，你只能與其他同樣也使用測試版的好友一起玩遊戲！"	"使用測試版時，你只能與其他同樣也使用測試版的好友一起玩遊戲！"
 "beta.loading.10"	"Remember to back up your worlds often & before you open them in the beta."	"Original Translation
 zh_CN: 请记住，在测试版中打开您的世界之前，要经常进行备份。
-zh_TW: 記得經常備份你的世界，在測試版中開啟世界前也要記得備份。"	""
+zh_TW: 記得經常備份你的世界，在測試版中開啟世界前也要記得備份。"	"記得經常備份你的世界，在測試版中開啟世界前也要記得備份。"
 "beta.loading.11"	"Thank you for participating in the beta!"	"Original Translation
 zh_CN: 感谢参与测试版！
-zh_TW: 感謝你參與測試！"	""
+zh_TW: 感謝你參與測試！"	"感謝你參與測試！"
 "beta.loading.12"	"Need help leaving the beta? Check out aka.ms/MinecraftXIP"	"Original Translation
 zh_CN: 退出测试版时需要帮助？请访问 aka.ms/MinecraftXIP
-zh_TW: 需要協助以退出測試版嗎？請參閱 aka.ms/MinecraftXIP"	""
+zh_TW: 需要協助以退出測試版嗎？請參閱 aka.ms/MinecraftXIP"	"需要協助以退出測試版嗎？請參閱 aka.ms/MinecraftXIP"
 "beta.loading.13"	"The beta program is currently only available on Windows 10, Xbox One, and Android."	"Original Translation
 zh_CN: 测试版程序目前仅适用于 Windows 10、Xbox One 和安卓设备。
-zh_TW: 測試版目前僅於 Windows 10、Xbox One 和 Android 開放提供。"	""
+zh_TW: 測試版目前僅於 Windows 10、Xbox One 和 Android 開放提供。"	"測試版目前僅於 Chrome OS 和 Android 開放提供。"
 "beta.loading.14"	"Remember, beta builds are not the final product. You might find crashes, glitches, and other weird stuff."	"Original Translation
 zh_CN: 请记住，测试版并非最终产品。您可能会发现崩溃、故障和其他奇怪的问题。
-zh_TW: 提醒你，測試版遊戲並非最終產品。你可能會遇到當機、錯誤或發現其他奇怪的地方。"	""
+zh_TW: 提醒你，測試版遊戲並非最終產品。你可能會遇到當機、錯誤或發現其他奇怪的地方。"	"提醒你，測試版遊戲並非最終產品。你可能會遇到崩潰、錯誤或發現其他奇怪的地方。"
 "beta.loading.15"	"We love your feedback! Tell us what you think at feedback.minecraft.net"	"Original Translation
 zh_CN: 欢迎您的反馈！请访问 feedback.minecraft.net，告诉我们您的想法
-zh_TW: 我們非常歡迎你提出意見！請至 feedback.minecraft.net 與我們分享你的意見"	""
+zh_TW: 我們非常歡迎你提出意見！請至 feedback.minecraft.net 與我們分享你的意見"	"我們非常歡迎你提出意見！請至 feedback.minecraft.net 與我們分享你的意見。"
 "beta.loading.16"	"Join the official Minecraft Discord server on discord.gg/Minecraft!"	"Original Translation
 zh_CN: 加入官方 Minecraft Discord 服务器，请访问：discord.gg/Minecraft！
-zh_TW: 加入官方 Minecraft Discord 伺服器：discord.gg/Minecraft！"	""
+zh_TW: 加入官方 Minecraft Discord 伺服器：discord.gg/Minecraft！"	"加入官方 Minecraft Discord 伺服器：discord.gg/Minecraft！"
 "beta.loading.17"	"Don't worry about crashing because crashes on the beta mean less crashes later!"	"Original Translation
 zh_CN: 不用担心崩溃，因为测试版出现崩溃意味着之后崩溃的次数会少一些！
-zh_TW: 別擔心當機問題，因為現在在測試版的當機，代表的是以後就不會出現當機問題！"	""
+zh_TW: 別擔心當機問題，因為現在在測試版的當機，代表的是以後就不會出現當機問題！"	"別擔心崩潰，因為現在在測試版的崩潰代表以後就會較少出現崩潰！"
 "beta.loading.2"	"Remember, you can't play on most servers when you're on the beta."	"Original Translation
 zh_CN: 请记住，当你处于测试版模式时，无法在大多数服务器上进行游戏。
-zh_TW: 提醒你，你無法在使用測試版時於大多數伺服器中遊玩遊戲。"	""
+zh_TW: 提醒你，你無法在使用測試版時於大多數伺服器中遊玩遊戲。"	"提醒你，你無法在使用測試版時於大多數伺服器中遊玩。"
 "beta.loading.3"	"Whatever you buy in the beta is real and will still be there if you leave the beta."	"Original Translation
 zh_CN: 你在测试版中购买的一切均有效。即便退出测试版，购买的东西也不会消失。
-zh_TW: 你在測試版中購買的所有物品皆為實際購買，且如果你離開測試版也仍可使用。"	""
+zh_TW: 你在測試版中購買的所有物品皆為實際購買，且如果你離開測試版也仍可使用。"	"你在測試版中購買的所有物品皆為真實，且你離開測試版也仍可使用。"
 "beta.loading.4"	"Don't forget to create backups of your worlds before loading them in the beta."	"Original Translation
 zh_CN: 在测试版中加载世界之前，别忘了给它们创建备份。
-zh_TW: 在測試版中載入世界前記得要先建立備份。"	""
+zh_TW: 在測試版中載入世界前記得要先建立備份。"	"在測試版中載入世界前記得要先建立備份。"
 "beta.loading.5"	"Please log all bugs you find at bugs.mojang.com"	"Original Translation
 zh_CN: 请在 bugs.mojang.com 上记录发现的所有漏洞
-zh_TW: 請在 bugs.mojang.com 記錄所有你發現的錯誤"	""
+zh_TW: 請在 bugs.mojang.com 記錄所有你發現的錯誤"	"請在 bugs.mojang.com 記錄所有你發現的錯誤。"
 "beta.loading.6"	"Want to chat with us about the beta? Join the Minecraft Discord at discord.gg/Minecraft"	"Original Translation
 zh_CN: 想和我们聊聊测试版吗？访问 discord.gg/Minecraft，加入 Minecraft Discord
-zh_TW: 想要與我們討論測試版相關問題嗎？請至 discord.gg/Minecraft 加入 Minecraft Discord"	""
+zh_TW: 想要與我們討論測試版相關問題嗎？請至 discord.gg/Minecraft 加入 Minecraft Discord"	"想要與我們討論測試版相關問題嗎？請至 discord.gg/Minecraft 加入 Minecraft Discord。"
 "beta.loading.7"	"Do you have a great idea for a new feature? Tell us on the beta forum of the feedback site at feedback.minecraft.net"	"Original Translation
 zh_CN: 关于新的功能，您有什么好的建议吗？请访问反馈网址 feedback.minecraft.net 上的测试版论坛，将您的建议告知我们
-zh_TW: 你對於新功能有好想法嗎？請至 feedback.minecraft.net 意見網站的測試版論壇告訴我們"	""
+zh_TW: 你對於新功能有好想法嗎？請至 feedback.minecraft.net 意見網站的測試版論壇告訴我們"	"你對於新功能有好想法嗎？請至 feedback.minecraft.net 意見網站的測試版論壇告訴我們。"
 "beta.loading.8"	"Find a bug? Please tell us about it at bugs.mojang.com"	"Original Translation
 zh_CN: 发现了漏洞？请访问 bugs.mojang.com 告知我们
-zh_TW: 找到錯誤？請至 bugs.mojang.com 告訴我們"	""
+zh_TW: 找到錯誤？請至 bugs.mojang.com 告訴我們"	"找到錯誤？請至 bugs.mojang.com 告訴我們。"
 "beta.loading.9"	"If your friends can't join your world, it may be because they aren't also on the beta."	"Original Translation
 zh_CN: 如果您的好友无法加入您的世界，那可能是因为他们玩的不是测试版。
-zh_TW: 如果你的好友無法加入你的世界，可能是因為他們並非同樣使用測試版。"	""
+zh_TW: 如果你的好友無法加入你的世界，可能是因為他們並非同樣使用測試版。"	"如果你的好友無法加入你的世界，可能是因為他們並非同樣使用測試版。"
 "book.byAuthor"	"by"	"Original Translation
 zh_CN: 作者
 zh_TW: 作者"	""
@@ -8992,7 +8992,7 @@ zh_CN: 旋风人
 zh_TW: 微風"	""
 "entity.breeze_wind_charge_projectile.name"	"Wind Charge"	"Original Translation
 zh_CN: 风弹
-zh_TW: 風彈"	""
+zh_TW: 風彈"	"風彈"
 "entity.camel.name"	"Camel"	"Original Translation
 zh_CN: 骆驼
 zh_TW: 駱駝"	""
@@ -9346,7 +9346,7 @@ zh_CN: 监守者
 zh_TW: 循聲守衛"	""
 "entity.wind_charge_projectile.name"	"Wind Charge"	"Original Translation
 zh_CN: 风弹
-zh_TW: 風彈"	""
+zh_TW: 風彈"	"風彈"
 "entity.witch.name"	"Witch"	"Original Translation
 zh_CN: 女巫
 zh_TW: 女巫"	""
@@ -47829,106 +47829,106 @@ zh_CN: 立即开玩！
 zh_TW: 馬上玩！"	""
 "tile.acaciaFence.name"	"Acacia Fence"	"Original Translation
 zh_CN: 金合欢木栅栏
-zh_TW: 相思木柵欄"	""
+zh_TW: 相思木柵欄"	"相思木欄杆"
 "tile.acacia_button.name"	"Acacia Button"	"Original Translation
 zh_CN: 金合欢木按钮
-zh_TW: 相思木按鈕"	""
+zh_TW: 相思木按鈕"	"相思木按鈕"
 "tile.acacia_fence_gate.name"	"Acacia Fence Gate"	"Original Translation
 zh_CN: 金合欢木栅栏门
-zh_TW: 相思木柵欄門"	""
+zh_TW: 相思木柵欄門"	"相思木閘門"
 "tile.acacia_hanging_sign.name"	"Acacia Hanging Sign"	"Original Translation
 zh_CN: 金合欢悬挂告示牌
 zh_TW: 懸掛式相思木告示牌"	""
 "tile.acacia_pressure_plate.name"	"Acacia Pressure Plate"	"Original Translation
 zh_CN: 金合欢木压力板
-zh_TW: 相思木壓板"	""
+zh_TW: 相思木壓板"	"相思木壓力板"
 "tile.acacia_shelf.name"	"Acacia Shelf"	"Original Translation
 zh_CN: 金合欢木架
 zh_TW: 相思木架子"	""
 "tile.acacia_stairs.name"	"Acacia Stairs"	"Original Translation
 zh_CN: 金合欢木楼梯
-zh_TW: 相思木階梯"	""
+zh_TW: 相思木階梯"	"相思木樓梯"
 "tile.acacia_standing_sign.name"	"Acacia Sign"	"Original Translation
 zh_CN: 金合欢木告示牌
-zh_TW: 相思木告示牌"	""
+zh_TW: 相思木告示牌"	"相思木指示牌"
 "tile.acacia_trapdoor.name"	"Acacia Trapdoor"	"Original Translation
 zh_CN: 金合欢木活板门
-zh_TW: 相思木地板門"	""
+zh_TW: 相思木地板門"	"相思木地板門"
 "tile.activator_rail.name"	"Activator Rail"	"Original Translation
 zh_CN: 激活铁轨
-zh_TW: 觸發鐵軌"	""
+zh_TW: 觸發鐵軌"	"觸發路軌"
 "tile.air.name"	"Air"	"Original Translation
 zh_CN: 空气
-zh_TW: 空氣"	""
+zh_TW: 空氣"	"空氣"
 "tile.allow.name"	"Allow"	"Original Translation
 zh_CN: 允许方块
-zh_TW: 允許"	""
+zh_TW: 允許"	"允許方塊"
 "tile.amethyst_block.name"	"Block of Amethyst"	"Original Translation
 zh_CN: 紫水晶方块
-zh_TW: 紫水晶方塊"	""
+zh_TW: 紫水晶方塊"	"紫水晶磚"
 "tile.amethyst_cluster.name"	"Amethyst Cluster"	"Original Translation
 zh_CN: 紫水晶簇
-zh_TW: 紫水晶簇"	""
+zh_TW: 紫水晶簇"	"紫水晶簇"
 "tile.ancient_debris.name"	"Ancient Debris"	"Original Translation
 zh_CN: 远古残骸
-zh_TW: 古代碎片"	""
+zh_TW: 古代碎片"	"遠古殘骸"
 "tile.andesite_stairs.name"	"Andesite Stairs"	"Original Translation
 zh_CN: 安山岩楼梯
-zh_TW: 安山岩階梯"	""
+zh_TW: 安山岩階梯"	"安山岩樓梯"
 "tile.anvil.intact.name"	"Anvil"	"Original Translation
 zh_CN: 铁砧
-zh_TW: 鐵砧"	""
+zh_TW: 鐵砧"	"鐵砧"
 "tile.anvil.name"	"Anvil"	"Original Translation
 zh_CN: 铁砧
-zh_TW: 鐵砧"	""
+zh_TW: 鐵砧"	"鐵砧"
 "tile.anvil.slightlyDamaged.name"	"Chipped Anvil"	"Original Translation
 zh_CN: 开裂的铁砧
-zh_TW: 破損的鐵砧"	""
+zh_TW: 破損的鐵砧"	"開裂的鐵砧"
 "tile.anvil.veryDamaged.name"	"Damaged Anvil"	"Original Translation
 zh_CN: 损坏的铁砧
-zh_TW: 損壞的鐵砧"	""
+zh_TW: 損壞的鐵砧"	"破損的鐵砧"
 "tile.azalea.name"	"Azalea"	"Original Translation
 zh_CN: 杜鹃花
-zh_TW: 杜鵑花"	""
+zh_TW: 杜鵑花"	"杜鵑叢"
 "tile.azalea_leaves.name"	"Azalea Leaves"	"Original Translation
 zh_CN: 杜鹃花叶
-zh_TW: 杜鵑花樹葉"	""
+zh_TW: 杜鵑花樹葉"	"杜鵑樹葉"
 "tile.azalea_leaves_flowered.name"	"Flowering Azalea Leaves"	"Original Translation
 zh_CN: 盛开的杜鹃花树叶
-zh_TW: 盛開的杜鵑花樹葉"	""
+zh_TW: 盛開的杜鵑花樹葉"	"盛開的杜鵑樹葉"
 "tile.bamboo.name"	"Bamboo"	"Original Translation
 zh_CN: 竹子
-zh_TW: 竹子"	""
+zh_TW: 竹子"	"竹"
 "tile.bamboo_block.name"	"Block of Bamboo"	"Original Translation
 zh_CN: 竹子方块
-zh_TW: 竹子方塊"	""
+zh_TW: 竹子方塊"	"竹塊"
 "tile.bamboo_button.name"	"Bamboo Button"	"Original Translation
 zh_CN: 竹制按钮
-zh_TW: 竹子按鈕"	""
+zh_TW: 竹子按鈕"	"竹按鈕"
 "tile.bamboo_fence.name"	"Bamboo Fence"	"Original Translation
 zh_CN: 竹制围墙
-zh_TW: 竹子柵欄"	""
+zh_TW: 竹子柵欄"	"竹欄杆"
 "tile.bamboo_fence_gate.name"	"Bamboo Fence Gate"	"Original Translation
 zh_CN: 竹制围墙大门
-zh_TW: 竹子柵欄門"	""
+zh_TW: 竹子柵欄門"	"竹閘門"
 "tile.bamboo_hanging_sign.name"	"Bamboo Hanging Sign"	"Original Translation
 zh_CN: 竹制悬挂告示牌
 zh_TW: 懸掛式竹告示牌"	""
 "tile.bamboo_mosaic.name"	"Bamboo Mosaic"	"Original Translation
 zh_CN: 竹制马赛克
-zh_TW: 竹子馬賽克"	""
+zh_TW: 竹子馬賽克"	"竹拼塊"
 "tile.bamboo_mosaic_slab.name"	"Bamboo Mosaic Slab"	"Original Translation
 zh_CN: 竹制马赛克台阶
-zh_TW: 竹子馬賽克板"	""
+zh_TW: 竹子馬賽克板"	"竹拼半磚"
 "tile.bamboo_mosaic_stairs.name"	"Bamboo Mosaic Stairs"	"Original Translation
 zh_CN: 竹制马赛克楼梯
-zh_TW: 竹子馬賽克階梯"	""
+zh_TW: 竹子馬賽克階梯"	"竹拼樓梯"
 "tile.bamboo_planks.name"	"Bamboo Planks"	"Original Translation
 zh_CN: 竹板
-zh_TW: 竹材"	""
+zh_TW: 竹材"	"竹板"
 "tile.bamboo_pressure_plate.name"	"Bamboo Pressure Plate"	"Original Translation
 zh_CN: 竹制压力板
-zh_TW: 竹子壓板"	""
+zh_TW: 竹子壓板"	"竹壓力板"
 "tile.bamboo_sapling.name"	"Bamboo Sapling"	"Original Translation
 zh_CN: 竹苗
 zh_TW: 竹子樹苗"	""
@@ -47937,178 +47937,178 @@ zh_CN: 竹架
 zh_TW: 竹架子"	""
 "tile.bamboo_slab.name"	"Bamboo Slab"	"Original Translation
 zh_CN: 竹制台阶
-zh_TW: 竹板"	""
+zh_TW: 竹板"	"竹半磚"
 "tile.bamboo_stairs.name"	"Bamboo Stairs"	"Original Translation
 zh_CN: 竹制楼梯
-zh_TW: 竹子階梯"	""
+zh_TW: 竹子階梯"	"竹樓梯"
 "tile.bamboo_standing_sign.name"	"Bamboo Sign"	"Original Translation
 zh_CN: 竹制告示牌
 zh_TW: 竹子告示牌"	""
 "tile.bamboo_trapdoor.name"	"Bamboo Trapdoor"	"Original Translation
 zh_CN: 竹制活板门
-zh_TW: 竹子地板門"	""
+zh_TW: 竹子地板門"	"竹地板門"
 "tile.barrel.name"	"Barrel"	"Original Translation
 zh_CN: 木桶
-zh_TW: 木桶"	""
+zh_TW: 木桶"	"木桶"
 "tile.barrier.name"	"Barrier"	"Original Translation
 zh_CN: 屏障
-zh_TW: 屏障"	""
+zh_TW: 屏障"	"障幕"
 "tile.basalt.name"	"Basalt"	"Original Translation
 zh_CN: 玄武岩
-zh_TW: 玄武岩"	""
+zh_TW: 玄武岩"	"玄武岩"
 "tile.beacon.name"	"Beacon"	"Original Translation
 zh_CN: 信标
-zh_TW: 燈塔"	""
+zh_TW: 燈塔"	"燈標"
 "tile.beacon.primary"	"Primary Power"	"Original Translation
 zh_CN: 主要效果
-zh_TW: 主要效果"	""
+zh_TW: 主要效果"	"主要效果"
 "tile.beacon.primary.pocket"	"Primary"	"Original Translation
 zh_CN: 主要的
-zh_TW: 主要"	""
+zh_TW: 主要"	"主要"
 "tile.beacon.secondary"	"Secondary Power"	"Original Translation
 zh_CN: 次要效果
-zh_TW: 次要效果"	""
+zh_TW: 次要效果"	"次要效果"
 "tile.beacon.secondary.pocket"	"Secondary"	"Original Translation
 zh_CN: 辅助
-zh_TW: 次要"	""
+zh_TW: 次要"	"次要"
 "tile.bed.name"	"Bed"	"Original Translation
 zh_CN: 床
 zh_TW: 床舖"	""
 "tile.bed.noSleep"	"You can only sleep at night and during thunderstorms"	"Original Translation
 zh_CN: 你只能在晚上和雷雨天睡觉
-zh_TW: 您只能在晚上和有雷雨時睡覺"	""
+zh_TW: 您只能在晚上和有雷雨時睡覺"	"你僅可於夜晚或者雷暴時入睡"
 "tile.bed.notSafe"	"You may not rest now, there are monsters nearby"	"Original Translation
 zh_CN: 你现在不能休息，周围有怪物在游荡
-zh_TW: 有怪物在附近遊蕩，現在不能休息"	""
+zh_TW: 有怪物在附近遊蕩，現在不能休息"	"你現時無法休息，周圍有怪物遊蕩"
 "tile.bed.notValid"	"Your home bed was missing or obstructed"	"Original Translation
 zh_CN: 你的床已遗失或被阻挡
 zh_TW: 您家中的床舖已消失，或是被擋住了"	""
 "tile.bed.obstructed"	"Bed is obstructed"	"Original Translation
 zh_CN: 床被阻挡
-zh_TW: 床被阻擋了"	""
+zh_TW: 床被阻擋了"	"牀受到阻擋"
 "tile.bed.occupied"	"This bed is occupied"	"Original Translation
 zh_CN: 这张床已被占用
-zh_TW: 這張床舖已經有人佔據了"	""
+zh_TW: 這張床舖已經有人佔據了"	"牀已被佔用"
 "tile.bed.respawnSet"	"Respawn point set"	"Original Translation
 zh_CN: 重生点设置
 zh_TW: 重生點已設定"	""
 "tile.bed.tooFar"	"Bed is too far away"	"Original Translation
 zh_CN: 床太远了
-zh_TW: 床舖距離太遠"	""
+zh_TW: 床舖距離太遠"	"你現時無法休息，牀距離過遠"
 "tile.bedrock.name"	"Bedrock"	"Original Translation
 zh_CN: 基岩
-zh_TW: 基岩"	""
+zh_TW: 基岩"	"基岩"
 "tile.bee_nest.name"	"Bee Nest"	"Original Translation
 zh_CN: 蜂巢
-zh_TW: 蜂巢"	""
+zh_TW: 蜂巢"	"蜂巢"
 "tile.beehive.name"	"Beehive"	"Original Translation
 zh_CN: 蜂箱
-zh_TW: 蜂箱"	""
+zh_TW: 蜂箱"	"蜂箱"
 "tile.beetroot.name"	"Beetroot"	"Original Translation
 zh_CN: 甜菜根
-zh_TW: 甜菜根"	""
+zh_TW: 甜菜根"	"紅菜頭"
 "tile.bell.name"	"Bell"	"Original Translation
 zh_CN: 钟
-zh_TW: 鐘"	""
+zh_TW: 鐘"	"鐘"
 "tile.big_dripleaf.name"	"Big Dripleaf"	"Original Translation
 zh_CN: 大型垂滴叶
-zh_TW: 大垂滴葉"	""
+zh_TW: 大垂滴葉"	"大懸葉草"
 "tile.birchFence.name"	"Birch Fence"	"Original Translation
 zh_CN: 白桦木栅栏
-zh_TW: 樺木柵欄"	""
+zh_TW: 樺木柵欄"	"樺木欄杆"
 "tile.birch_button.name"	"Birch Button"	"Original Translation
 zh_CN: 白桦木按钮
-zh_TW: 樺木按鈕"	""
+zh_TW: 樺木按鈕"	"樺木按鈕"
 "tile.birch_fence_gate.name"	"Birch Fence Gate"	"Original Translation
 zh_CN: 白桦木栅栏门
-zh_TW: 樺木柵欄門"	""
+zh_TW: 樺木柵欄門"	"樺木閘門"
 "tile.birch_hanging_sign.name"	"Birch Hanging Sign"	"Original Translation
 zh_CN: 白桦木悬挂告示牌
 zh_TW: 懸掛式樺木告示牌"	""
 "tile.birch_pressure_plate.name"	"Birch Pressure Plate"	"Original Translation
 zh_CN: 白桦木压力板
-zh_TW: 樺木壓板"	""
+zh_TW: 樺木壓板"	"樺木壓力板"
 "tile.birch_shelf.name"	"Birch Shelf"	"Original Translation
 zh_CN: 桦树木架
 zh_TW: 樺木架子"	""
 "tile.birch_stairs.name"	"Birch Stairs"	"Original Translation
 zh_CN: 白桦木楼梯
-zh_TW: 樺木階梯"	""
+zh_TW: 樺木階梯"	"樺木樓梯"
 "tile.birch_standing_sign.name"	"Birch Sign"	"Original Translation
 zh_CN: 白桦木告示牌
-zh_TW: 樺木告示牌"	""
+zh_TW: 樺木告示牌"	"樺木指示牌"
 "tile.birch_trapdoor.name"	"Birch Trapdoor"	"Original Translation
 zh_CN: 白桦木活板门
-zh_TW: 樺木地板門"	""
+zh_TW: 樺木地板門"	"樺木地板門"
 "tile.black_candle.name"	"Black Candle"	"Original Translation
 zh_CN: 黑色蜡烛
-zh_TW: 黑色蠟燭"	""
+zh_TW: 黑色蠟燭"	"黑色蠟燭"
 "tile.black_candle_cake.name"	"Cake with Black Candle"	"Original Translation
 zh_CN: 带黑色蜡烛的蛋糕
-zh_TW: 蛋糕與黑色蠟燭"	""
+zh_TW: 蛋糕與黑色蠟燭"	"插上黑色蠟燭的蛋糕"
 "tile.blackstone.name"	"Blackstone"	"Original Translation
 zh_CN: 黑石
-zh_TW: 黑石"	""
+zh_TW: 黑石"	"黑石"
 "tile.blackstone_slab.name"	"Blackstone Slab"	"Original Translation
 zh_CN: 黑石台阶
-zh_TW: 黑石板"	""
+zh_TW: 黑石板"	"黑石半磚"
 "tile.blackstone_stairs.name"	"Blackstone Stairs"	"Original Translation
 zh_CN: 黑石楼梯
-zh_TW: 黑石階梯"	""
+zh_TW: 黑石階梯"	"黑石樓梯"
 "tile.blackstone_wall.name"	"Blackstone Wall"	"Original Translation
 zh_CN: 黑石墙
-zh_TW: 黑石牆"	""
+zh_TW: 黑石牆"	"黑石牆"
 "tile.blast_furnace.name"	"Blast Furnace"	"Original Translation
 zh_CN: 高炉
-zh_TW: 高爐"	""
+zh_TW: 高爐"	"高爐"
 "tile.blue_candle.name"	"Blue Candle"	"Original Translation
 zh_CN: 蓝色蜡烛
-zh_TW: 藍色蠟燭"	""
+zh_TW: 藍色蠟燭"	"藍色蠟燭"
 "tile.blue_candle_cake.name"	"Cake with Blue Candle"	"Original Translation
 zh_CN: 带蓝色蜡烛的蛋糕
-zh_TW: 蛋糕與藍色蠟燭"	""
+zh_TW: 蛋糕與藍色蠟燭"	"插上藍色蠟燭的蛋糕"
 "tile.blue_ice.name"	"Blue Ice"	"Original Translation
 zh_CN: 蓝冰
-zh_TW: 藍冰"	""
+zh_TW: 藍冰"	"藍冰"
 "tile.bone_block.name"	"Bone Block"	"Original Translation
 zh_CN: 骨块
-zh_TW: 骨頭方塊"	""
+zh_TW: 骨頭方塊"	"骨塊"
 "tile.bookshelf.name"	"Bookshelf"	"Original Translation
 zh_CN: 书架
-zh_TW: 書架"	""
+zh_TW: 書架"	"書櫃"
 "tile.border_block.name"	"Border"	"Original Translation
 zh_CN: 边界方块
-zh_TW: 邊界"	""
+zh_TW: 邊界"	"邊界"
 "tile.brick_block.name"	"Bricks"	"Original Translation
 zh_CN: 砖
-zh_TW: 磚頭"	""
+zh_TW: 磚頭"	"紅磚"
 "tile.brick_stairs.name"	"Brick Stairs"	"Original Translation
 zh_CN: 砖楼梯
-zh_TW: 磚塊梯"	""
+zh_TW: 磚塊梯"	"紅磚樓梯"
 "tile.brown_candle.name"	"Brown Candle"	"Original Translation
 zh_CN: 棕色蜡烛
-zh_TW: 棕色蠟燭"	""
+zh_TW: 棕色蠟燭"	"啡色蠟燭"
 "tile.brown_candle_cake.name"	"Cake with Brown Candle"	"Original Translation
 zh_CN: 带棕色蜡烛的蛋糕
-zh_TW: 蛋糕與棕色蠟燭"	""
+zh_TW: 蛋糕與棕色蠟燭"	"插上啡色蠟燭的蛋糕"
 "tile.brown_mushroom.name"	"Brown Mushroom"	"Original Translation
 zh_CN: 棕色蘑菇
-zh_TW: 棕色蘑菇"	""
+zh_TW: 棕色蘑菇"	"啡色蘑菇"
 "tile.brown_mushroom_block.cap.name"	"Brown Mushroom Block"	"Original Translation
 zh_CN: 棕色蘑菇方块
-zh_TW: 棕色蘑菇方塊"	""
+zh_TW: 棕色蘑菇方塊"	"啡色蘑菇方塊"
 "tile.brown_mushroom_block.mushroom.name"	"Mushroom"	"Original Translation
 zh_CN: 蘑菇
-zh_TW: 蘑菇"	""
+zh_TW: 蘑菇"	"蘑菇"
 "tile.brown_mushroom_block.stem.name"	"Mushroom Stem"	"Original Translation
 zh_CN: 蘑菇柄
-zh_TW: 蘑菇莖"	""
+zh_TW: 蘑菇莖"	"蘑菇柄"
 "tile.budding_amethyst.name"	"Budding Amethyst"	"Original Translation
 zh_CN: 紫水晶母岩
-zh_TW: 發芽紫水晶"	""
+zh_TW: 發芽紫水晶"	"紫水晶母岩"
 "tile.bush.name"	"Bush"	"Original Translation
 zh_CN: 灌木
-zh_TW: 野地"	""
+zh_TW: 野地"	"灌木叢"
 "tile.cactus.name"	"Cactus"	"Original Translation
 zh_CN: 仙人掌
 zh_TW: 仙人掌"	""
