@@ -48294,91 +48294,91 @@ zh_CN: 錾制树脂砖块
 zh_TW: 雕刻樹脂合磚"	"浮雕樹脂磚"
 "tile.chiseled_tuff.name"	"Chiseled Tuff"	"Original Translation
 zh_CN: 雕纹凝灰岩
-zh_TW: 鑿刻凝灰岩"	""
+zh_TW: 鑿刻凝灰岩"	"浮雕凝灰岩"
 "tile.chiseled_tuff_bricks.name"	"Chiseled Tuff Bricks"	"Original Translation
 zh_CN: 雕纹凝灰岩砖
-zh_TW: 鑿刻凝灰岩磚塊"	""
+zh_TW: 鑿刻凝灰岩磚塊"	"浮雕凝灰岩磚"
 "tile.chorus_flower.name"	"Chorus Flower"	"Original Translation
 zh_CN: 紫颂花
-zh_TW: 歌萊花"	""
+zh_TW: 歌萊花"	"歌萊花"
 "tile.chorus_plant.name"	"Chorus Plant"	"Original Translation
 zh_CN: 紫颂植株
-zh_TW: 歌萊枝"	""
+zh_TW: 歌萊枝"	"歌萊枝"
 "tile.clay.name"	"Clay"	"Original Translation
 zh_CN: 黏土
-zh_TW: 黏土"	""
+zh_TW: 黏土"	"黏土"
 "tile.closed_eyeblossom.name"	"Closed Eyeblossom"	"Original Translation
 zh_CN: 合拢的眼眸花
-zh_TW: 閉合的夜眼之花"	""
+zh_TW: 閉合的夜眼之花"	"閉合的眼眸花"
 "tile.coal_block.name"	"Block of Coal"	"Original Translation
 zh_CN: 煤炭块
-zh_TW: 煤炭方塊"	""
+zh_TW: 煤炭方塊"	"煤炭磚"
 "tile.coal_ore.name"	"Coal Ore"	"Original Translation
 zh_CN: 煤矿石
-zh_TW: 煤礦石"	""
+zh_TW: 煤礦石"	"煤礦"
 "tile.cobbled_deepslate.name"	"Cobbled Deepslate"	"Original Translation
 zh_CN: 深板岩圆石
-zh_TW: 鵝卵石深板岩"	""
+zh_TW: 鵝卵石深板岩"	"深板岩碎石"
 "tile.cobbled_deepslate_double_slab.name"	"Cobbled Deepslate Double Slab"	"Original Translation
 zh_CN: 深板岩圆石双台阶
 zh_TW: 鵝卵石深板岩雙板"	""
 "tile.cobbled_deepslate_slab.name"	"Cobbled Deepslate Slab"	"Original Translation
 zh_CN: 深板岩圆石台阶
-zh_TW: 鵝卵石深板岩板"	""
+zh_TW: 鵝卵石深板岩板"	"深板岩碎石半磚"
 "tile.cobbled_deepslate_stairs.name"	"Cobbled Deepslate Stairs"	"Original Translation
 zh_CN: 深板岩圆石楼梯
-zh_TW: 鵝卵石深板岩樓梯"	""
+zh_TW: 鵝卵石深板岩樓梯"	"深板岩碎石樓梯"
 "tile.cobbled_deepslate_wall.name"	"Cobbled Deepslate Wall"	"Original Translation
 zh_CN: 深板岩圆石墙
-zh_TW: 鵝卵石深板岩牆"	""
+zh_TW: 鵝卵石深板岩牆"	"深板岩碎石牆"
 "tile.cobblestone.name"	"Cobblestone"	"Original Translation
 zh_CN: 圆石
-zh_TW: 鵝卵石"	""
+zh_TW: 鵝卵石"	"碎石"
 "tile.cobblestone_wall.andesite.name"	"Andesite Wall"	"Original Translation
 zh_CN: 安山岩墙
-zh_TW: 安山岩牆"	""
+zh_TW: 安山岩牆"	"安山岩牆"
 "tile.cobblestone_wall.brick.name"	"Brick Wall"	"Original Translation
 zh_CN: 砖墙
-zh_TW: 磚牆"	""
+zh_TW: 磚牆"	"紅磚牆"
 "tile.cobblestone_wall.diorite.name"	"Diorite Wall"	"Original Translation
 zh_CN: 闪长岩墙
-zh_TW: 閃長岩牆"	""
+zh_TW: 閃長岩牆"	"閃長岩牆"
 "tile.cobblestone_wall.end_brick.name"	"End Stone Brick Wall"	"Original Translation
 zh_CN: 末地石砖墙
-zh_TW: 終界石磚牆"	""
+zh_TW: 終界石磚牆"	"終界石磚牆"
 "tile.cobblestone_wall.granite.name"	"Granite Wall"	"Original Translation
 zh_CN: 花岗岩墙
-zh_TW: 花崗岩牆"	""
+zh_TW: 花崗岩牆"	"花崗岩牆"
 "tile.cobblestone_wall.mossy.name"	"Mossy Cobblestone Wall"	"Original Translation
 zh_CN: 苔石墙
-zh_TW: 青苔鵝卵石牆"	""
+zh_TW: 青苔鵝卵石牆"	"青苔碎石牆"
 "tile.cobblestone_wall.mossy_stone_brick.name"	"Mossy Stone Brick Wall"	"Original Translation
 zh_CN: 苔石砖墙
-zh_TW: 青苔石磚牆"	""
+zh_TW: 青苔石磚牆"	"青苔石磚牆"
 "tile.cobblestone_wall.nether_brick.name"	"Nether Brick Wall"	"Original Translation
 zh_CN: 下界砖墙
-zh_TW: 地獄磚牆"	""
+zh_TW: 地獄磚牆"	"地獄磚牆"
 "tile.cobblestone_wall.normal.name"	"Cobblestone Wall"	"Original Translation
 zh_CN: 圆石墙
-zh_TW: 鵝卵石牆"	""
+zh_TW: 鵝卵石牆"	"碎石牆"
 "tile.cobblestone_wall.prismarine.name"	"Prismarine Wall"	"Original Translation
 zh_CN: 海晶石墙
-zh_TW: 海磷石牆"	""
+zh_TW: 海磷石牆"	"海磷石牆"
 "tile.cobblestone_wall.red_nether_brick.name"	"Red Nether Brick Wall"	"Original Translation
 zh_CN: 红色下界砖墙
-zh_TW: 紅色地獄磚牆"	""
+zh_TW: 紅色地獄磚牆"	"紅色地獄磚牆"
 "tile.cobblestone_wall.red_sandstone.name"	"Red Sandstone Wall"	"Original Translation
 zh_CN: 红砂岩墙
-zh_TW: 紅沙岩牆"	""
+zh_TW: 紅沙岩牆"	"紅砂岩牆"
 "tile.cobblestone_wall.sandstone.name"	"Sandstone Wall"	"Original Translation
 zh_CN: 砂岩墙
-zh_TW: 沙岩牆"	""
+zh_TW: 沙岩牆"	"砂岩牆"
 "tile.cobblestone_wall.stone_brick.name"	"Stone Brick Wall"	"Original Translation
 zh_CN: 石砖墙
-zh_TW: 石磚牆"	""
+zh_TW: 石磚牆"	"石磚牆"
 "tile.cocoa.name"	"Cocoa"	"Original Translation
 zh_CN: 可可
-zh_TW: 可可"	""
+zh_TW: 可可"	"可可果"
 "tile.colored_torch.blue.name"	"Blue Torch"	"Original Translation
 zh_CN: 蓝色火炬
 zh_TW: 藍火把"	""
