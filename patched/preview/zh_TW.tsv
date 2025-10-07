@@ -24077,7 +24077,7 @@ zh_CN: 要获得这些特殊工具，必须在创造模式下使用 §e/give§f 
 zh_TW: 如要取得這些特殊工具，你必須在創造模式中將 §e/give§f 搭配 §ecanplace §f 或 §ecandestroy§f 參數一起使用。"	""
 "howtoplay.anvil"	"Anvil"	"Original Translation
 zh_CN: 铁砧
-zh_TW: 鐵砧"	""
+zh_TW: 鐵砧"	"鐵砧"
 "howtoplay.anvil.header.1"	"Renaming and Applying Enchantments"	"Original Translation
 zh_CN: 重命名和应用附魔
 zh_TW: 重新命名和套用附魔效果"	""
@@ -47790,10 +47790,10 @@ zh_CN: 金合欢悬挂告示牌
 zh_TW: 懸掛式相思木告示牌"	""
 "tile.acacia_pressure_plate.name"	"Acacia Pressure Plate"	"Original Translation
 zh_CN: 金合欢木压力板
-zh_TW: 相思木壓板"	""
+zh_TW: 相思木壓板"	"相思木壓力板"
 "tile.acacia_shelf.name"	"Acacia Shelf"	"Original Translation
 zh_CN: 金合欢木架
-zh_TW: 相思木架子"	""
+zh_TW: 相思木架子"	"相思木展示架"
 "tile.acacia_stairs.name"	"Acacia Stairs"	"Original Translation
 zh_CN: 金合欢木楼梯
 zh_TW: 相思木階梯"	""
@@ -47802,7 +47802,7 @@ zh_CN: 金合欢木告示牌
 zh_TW: 相思木告示牌"	""
 "tile.acacia_trapdoor.name"	"Acacia Trapdoor"	"Original Translation
 zh_CN: 金合欢木活板门
-zh_TW: 相思木地板門"	""
+zh_TW: 相思木地板門"	"相思木地板門"
 "tile.activator_rail.name"	"Activator Rail"	"Original Translation
 zh_CN: 激活铁轨
 zh_TW: 觸發鐵軌"	""
@@ -47826,10 +47826,10 @@ zh_CN: 安山岩楼梯
 zh_TW: 安山岩階梯"	""
 "tile.anvil.intact.name"	"Anvil"	"Original Translation
 zh_CN: 铁砧
-zh_TW: 鐵砧"	""
+zh_TW: 鐵砧"	"鐵砧"
 "tile.anvil.name"	"Anvil"	"Original Translation
 zh_CN: 铁砧
-zh_TW: 鐵砧"	""
+zh_TW: 鐵砧"	"鐵砧"
 "tile.anvil.slightlyDamaged.name"	"Chipped Anvil"	"Original Translation
 zh_CN: 开裂的铁砧
 zh_TW: 破損的鐵砧"	""
