@@ -175,6 +175,13 @@ tile.cobblestone_wall.red_sandstone.name=紅砂岩牆
 tile.cobblestone_wall.sandstone.name=砂岩牆
 tile.cobblestone_wall.stone_brick.name=石磚牆
 tile.cocoa.name=可可果
+tile.command_block.name=命令方塊
+tile.composter.name=堆肥桶
+tile.concrete.black.name=黑色混凝土
+tile.concrete.blue.name=藍色混凝土
+tile.concrete.brown.name=啡色混凝土
+tile.concrete.cyan.name=青藍色混凝土
+tile.concrete.gray.name=灰色混凝土
 tile.copper_grate.name=銅網格
 tile.copper_ore.name=銅礦
 tile.copper_trapdoor.name=銅地板門
@@ -255,3 +262,7 @@ beta.loading.9=如果你的好友無法加入你的世界，可能是因為他�
 
 ## resource_packs/chemistry/texts/en_US.lang
 tile.chemical_heat.name=加熱塊
+tile.colored_torch.blue.name=藍色火炬
+tile.colored_torch.green.name=綠色火炬
+tile.colored_torch.purple.name=紫色火炬
+tile.colored_torch.red.name=紅色火炬
