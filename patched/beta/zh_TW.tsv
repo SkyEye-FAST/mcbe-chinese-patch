@@ -1741,7 +1741,7 @@ zh_CN: 已复制数据到剪贴板
 zh_TW: 已將資料複製到剪貼簿"	""
 "cauldronScreen.header"	"Cauldron"	"Original Translation
 zh_CN: 炼药锅
-zh_TW: 鍋釜"	""
+zh_TW: 鍋釜"	"鍋釜"
 "chalkboardScreen.header"	"Edit Text"	"Original Translation
 zh_CN: 编辑文本
 zh_TW: 編輯內文"	""
@@ -1891,7 +1891,7 @@ zh_CN: 物品栏
 zh_TW: 物品欄"	""
 "chestScreen.header.small"	"Chest"	"Original Translation
 zh_CN: 箱子
-zh_TW: 箱子"	""
+zh_TW: 箱子"	"儲物箱"
 "chooseRealmScreen.addrealmbuttontext"	"Add a Realm"	"Original Translation
 zh_CN: 添加一个 Realm
 zh_TW: 新增 Realm"	""
@@ -2150,7 +2150,7 @@ zh_CN: 从文件重新加载权限失败，文件未找到。
 zh_TW: 從檔案重新載入權限失敗，找不到檔案。"	""
 "commandBlock.genericName"	"Command Block"	"Original Translation
 zh_CN: 命令方块
-zh_TW: 指令方塊"	""
+zh_TW: 指令方塊"	"指令方塊"
 "commandBlock.shortName"	"@"	"Original Translation
 zh_CN: @
 zh_TW: @"	""
@@ -2159,7 +2159,7 @@ zh_CN: 方块类型：
 zh_TW: 方塊類型："	""
 "commandBlockScreen.blockType.chain"	"Chain"	"Original Translation
 zh_CN: 连锁
-zh_TW: 鎖鏈"	""
+zh_TW: 鎖鏈"	"鎖鏈"
 "commandBlockScreen.blockType.impulse"	"Impulse"	"Original Translation
 zh_CN: 脉冲
 zh_TW: 脈衝"	""
@@ -4988,7 +4988,7 @@ zh_CN: 大铜宝箱
 zh_TW: 大型銅箱"	""
 "container.crafter"	"Crafter"	"Original Translation
 zh_CN: 合成器
-zh_TW: 合成器"	""
+zh_TW: 合成器"	"合成器"
 "container.crafting"	"Crafting"	"Original Translation
 zh_CN: 合成
 zh_TW: 合成"	""
@@ -4997,10 +4997,10 @@ zh_CN: 物品选栏
 zh_TW: 選擇物品"	""
 "container.dispenser"	"Dispenser"	"Original Translation
 zh_CN: 发射器
-zh_TW: 發射器"	""
+zh_TW: 發射器"	"發射器"
 "container.dropper"	"Dropper"	"Original Translation
 zh_CN: 投掷器
-zh_TW: 投擲器"	""
+zh_TW: 投擲器"	"投擲器"
 "container.enchant"	"Enchant"	"Original Translation
 zh_CN: 附魔
 zh_TW: 附魔"	""
@@ -26984,7 +26984,7 @@ zh_CN: 黄色砖纹
 zh_TW: 黃色磚牆花紋"	""
 "item.banner.brown.name"	"Brown Banner"	"Original Translation
 zh_CN: 棕色旗帜
-zh_TW: 棕色旗幟"	""
+zh_TW: 棕色旗幟"	"棕色旗幟"
 "item.banner.circle.black"	"Black Roundel"	"Original Translation
 zh_CN: 黑色圆形
 zh_TW: 黑色圓形"	""
@@ -27179,7 +27179,7 @@ zh_CN: 黄色波纹边
 zh_TW: 黃色鋸齒框邊"	""
 "item.banner.cyan.name"	"Cyan Banner"	"Original Translation
 zh_CN: 青色旗帜
-zh_TW: 青綠色旗幟"	""
+zh_TW: 青綠色旗幟"	"青色旗幟"
 "item.banner.diagonal_left.black"	"Black Per Bend Sinister"	"Original Translation
 zh_CN: 黑色左上三角
 zh_TW: 左上半部分黑色填滿"	""
@@ -28988,13 +28988,13 @@ zh_CN: 黑床
 zh_TW: 黑色床舖"	"黑色床"
 "item.bed.blue.name"	"Blue Bed"	"Original Translation
 zh_CN: 蓝床
-zh_TW: 藍色床舖"	""
+zh_TW: 藍色床舖"	"藍色床"
 "item.bed.brown.name"	"Brown Bed"	"Original Translation
 zh_CN: 棕床
-zh_TW: 棕色床舖"	""
+zh_TW: 棕色床舖"	"棕色床"
 "item.bed.cyan.name"	"Cyan Bed"	"Original Translation
 zh_CN: 青床
-zh_TW: 青綠色床舖"	""
+zh_TW: 青綠色床舖"	"青色床"
 "item.bed.gray.name"	"Gray Bed"	"Original Translation
 zh_CN: 灰床
 zh_TW: 灰色床舖"	""
@@ -29048,7 +29048,7 @@ zh_CN: 钟
 zh_TW: 鐘"	""
 "item.birch_door.name"	"Birch Door"	"Original Translation
 zh_CN: 白桦木门
-zh_TW: 樺木門"	""
+zh_TW: 樺木門"	"樺木門"
 "item.birch_hanging_sign.name"	"Birch Hanging Sign"	"Original Translation
 zh_CN: 白桦木悬挂告示牌
 zh_TW: 懸掛式樺木告示牌"	""
@@ -29210,7 +29210,7 @@ zh_CN: 烈焰纹样陶片
 zh_TW: 燃燒陶器碎片"	""
 "item.cake.name"	"Cake"	"Original Translation
 zh_CN: 蛋糕
-zh_TW: 蛋糕"	""
+zh_TW: 蛋糕"	"蛋糕"
 "item.camera.name"	"Camera"	"Original Translation
 zh_CN: 摄像机
 zh_TW: 相機"	""
@@ -29246,7 +29246,7 @@ zh_CN: 木炭
 zh_TW: 木炭"	""
 "item.cherry_door.name"	"Cherry Door"	"Original Translation
 zh_CN: 樱花木门
-zh_TW: 櫻花木門"	""
+zh_TW: 櫻花木門"	"櫻花木門"
 "item.cherry_hanging_sign.name"	"Cherry Hanging Sign"	"Original Translation
 zh_CN: 樱花木悬挂告示牌
 zh_TW: 懸掛式櫻花木告示牌"	""
@@ -29570,7 +29570,7 @@ zh_CN: 铜胸甲
 zh_TW: 銅胸甲"	""
 "item.copper_door.name"	"Copper Door"	"Original Translation
 zh_CN: 铜门
-zh_TW: 銅門"	""
+zh_TW: 銅門"	"銅門"
 "item.copper_helmet.name"	"Copper Helmet"	"Original Translation
 zh_CN: 铜头盔
 zh_TW: 銅頭盔"	""
@@ -29603,13 +29603,13 @@ zh_CN: 苦力怕头像旗帜图案
 zh_TW: 苦力怕頭形狀旗幟樣式"	""
 "item.crimson_door.name"	"Crimson Door"	"Original Translation
 zh_CN: 绯红木门
-zh_TW: 緋紅蕈木門"	""
+zh_TW: 緋紅蕈木門"	"緋紅蕈木門"
 "item.crimson_hanging_sign.name"	"Crimson Hanging Sign"	"Original Translation
 zh_CN: 绯红木悬挂告示牌
-zh_TW: 懸掛式緋紅蕈木告示牌"	""
+zh_TW: 懸掛式緋紅蕈木告示牌"	"懸掛式緋紅蕈木告示牌"
 "item.crimson_sign.name"	"Crimson Sign"	"Original Translation
 zh_CN: 绯红木告示牌
-zh_TW: 緋紅蕈木告示牌"	""
+zh_TW: 緋紅蕈木告示牌"	"緋紅蕈木告示牌"
 "item.crossbow.name"	"Crossbow"	"Original Translation
 zh_CN: 弩
 zh_TW: 十字弓"	""
@@ -29627,13 +29627,13 @@ zh_CN: 危机纹样陶片
 zh_TW: 危險陶器碎片"	""
 "item.dark_oak_door.name"	"Dark Oak Door"	"Original Translation
 zh_CN: 深色橡木门
-zh_TW: 黑橡木門"	""
+zh_TW: 黑橡木門"	"黑橡木門"
 "item.dark_oak_hanging_sign.name"	"Dark Oak Hanging Sign"	"Original Translation
 zh_CN: 深色橡木悬挂告示牌
-zh_TW: 懸掛式黑橡木告示牌"	""
+zh_TW: 懸掛式黑橡木告示牌"	"懸掛式黑橡木告示牌"
 "item.darkoak_sign.name"	"Dark Oak Sign"	"Original Translation
 zh_CN: 深色橡木告示牌
-zh_TW: 黑橡木告示牌"	""
+zh_TW: 黑橡木告示牌"	"黑橡木告示牌"
 "item.diamond.name"	"Diamond"	"Original Translation
 zh_CN: 钻石
 zh_TW: 鑽石"	""
@@ -30686,10 +30686,10 @@ zh_CN: 玩家头颅
 zh_TW: 玩家頭顱"	""
 "item.skull.creeper.name"	"Creeper Head"	"Original Translation
 zh_CN: 苦力怕的头
-zh_TW: 苦力怕頭顱"	""
+zh_TW: 苦力怕頭顱"	"苦力怕頭顱"
 "item.skull.dragon.name"	"Dragon Head"	"Original Translation
 zh_CN: 龙首
-zh_TW: 龍頭顱"	""
+zh_TW: 龍頭顱"	"龍首"
 "item.skull.piglin.name"	"Piglin Head"	"Original Translation
 zh_CN: 猪灵头颅
 zh_TW: 豬布林頭顱"	""
@@ -47865,7 +47865,7 @@ zh_CN: 允许方块
 zh_TW: 允許"	""
 "tile.amethyst_block.name"	"Block of Amethyst"	"Original Translation
 zh_CN: 紫水晶方块
-zh_TW: 紫水晶方塊"	""
+zh_TW: 紫水晶方塊"	"紫水晶方塊"
 "tile.amethyst_cluster.name"	"Amethyst Cluster"	"Original Translation
 zh_CN: 紫水晶簇
 zh_TW: 紫水晶簇"	"紫水晶晶簇"
@@ -47883,10 +47883,10 @@ zh_CN: 铁砧
 zh_TW: 鐵砧"	"鐵砧"
 "tile.anvil.slightlyDamaged.name"	"Chipped Anvil"	"Original Translation
 zh_CN: 开裂的铁砧
-zh_TW: 破損的鐵砧"	""
+zh_TW: 破損的鐵砧"	"微損的鐵砧"
 "tile.anvil.veryDamaged.name"	"Damaged Anvil"	"Original Translation
 zh_CN: 损坏的铁砧
-zh_TW: 損壞的鐵砧"	""
+zh_TW: 損壞的鐵砧"	"耗損的鐵砧"
 "tile.azalea.name"	"Azalea"	"Original Translation
 zh_CN: 杜鹃花
 zh_TW: 杜鵑花"	"杜鵑叢"
@@ -47901,7 +47901,7 @@ zh_CN: 竹子
 zh_TW: 竹子"	"竹子"
 "tile.bamboo_block.name"	"Block of Bamboo"	"Original Translation
 zh_CN: 竹子方块
-zh_TW: 竹子方塊"	""
+zh_TW: 竹子方塊"	"竹方塊"
 "tile.bamboo_button.name"	"Bamboo Button"	"Original Translation
 zh_CN: 竹制按钮
 zh_TW: 竹子按鈕"	"竹按鈕"
@@ -47943,16 +47943,16 @@ zh_CN: 竹制楼梯
 zh_TW: 竹子階梯"	"竹階梯"
 "tile.bamboo_standing_sign.name"	"Bamboo Sign"	"Original Translation
 zh_CN: 竹制告示牌
-zh_TW: 竹子告示牌"	""
+zh_TW: 竹子告示牌"	"竹告示牌"
 "tile.bamboo_trapdoor.name"	"Bamboo Trapdoor"	"Original Translation
 zh_CN: 竹制活板门
 zh_TW: 竹子地板門"	"竹地板門"
 "tile.barrel.name"	"Barrel"	"Original Translation
 zh_CN: 木桶
-zh_TW: 木桶"	""
+zh_TW: 木桶"	"木桶"
 "tile.barrier.name"	"Barrier"	"Original Translation
 zh_CN: 屏障
-zh_TW: 屏障"	""
+zh_TW: 屏障"	"屏障"
 "tile.basalt.name"	"Basalt"	"Original Translation
 zh_CN: 玄武岩
 zh_TW: 玄武岩"	"玄武岩"
@@ -48036,7 +48036,7 @@ zh_CN: 白桦木楼梯
 zh_TW: 樺木階梯"	"樺木階梯"
 "tile.birch_standing_sign.name"	"Birch Sign"	"Original Translation
 zh_CN: 白桦木告示牌
-zh_TW: 樺木告示牌"	""
+zh_TW: 樺木告示牌"	"樺木告示牌"
 "tile.birch_trapdoor.name"	"Birch Trapdoor"	"Original Translation
 zh_CN: 白桦木活板门
 zh_TW: 樺木地板門"	"樺木地板門"
@@ -48045,28 +48045,28 @@ zh_CN: 黑色蜡烛
 zh_TW: 黑色蠟燭"	"黑色蠟燭"
 "tile.black_candle_cake.name"	"Cake with Black Candle"	"Original Translation
 zh_CN: 带黑色蜡烛的蛋糕
-zh_TW: 蛋糕與黑色蠟燭"	""
+zh_TW: 蛋糕與黑色蠟燭"	"插上黑色蠟燭的蛋糕"
 "tile.blackstone.name"	"Blackstone"	"Original Translation
 zh_CN: 黑石
 zh_TW: 黑石"	"黑石"
 "tile.blackstone_slab.name"	"Blackstone Slab"	"Original Translation
 zh_CN: 黑石台阶
-zh_TW: 黑石板"	""
+zh_TW: 黑石板"	"黑石半磚"
 "tile.blackstone_stairs.name"	"Blackstone Stairs"	"Original Translation
 zh_CN: 黑石楼梯
 zh_TW: 黑石階梯"	""
 "tile.blackstone_wall.name"	"Blackstone Wall"	"Original Translation
 zh_CN: 黑石墙
-zh_TW: 黑石牆"	""
+zh_TW: 黑石牆"	"黑石牆"
 "tile.blast_furnace.name"	"Blast Furnace"	"Original Translation
 zh_CN: 高炉
-zh_TW: 高爐"	""
+zh_TW: 高爐"	"高爐"
 "tile.blue_candle.name"	"Blue Candle"	"Original Translation
 zh_CN: 蓝色蜡烛
 zh_TW: 藍色蠟燭"	""
 "tile.blue_candle_cake.name"	"Cake with Blue Candle"	"Original Translation
 zh_CN: 带蓝色蜡烛的蛋糕
-zh_TW: 蛋糕與藍色蠟燭"	""
+zh_TW: 蛋糕與藍色蠟燭"	"插上藍色蠟燭的蛋糕"
 "tile.blue_ice.name"	"Blue Ice"	"Original Translation
 zh_CN: 蓝冰
 zh_TW: 藍冰"	"藍冰"
@@ -48081,16 +48081,16 @@ zh_CN: 边界方块
 zh_TW: 邊界"	""
 "tile.brick_block.name"	"Bricks"	"Original Translation
 zh_CN: 砖
-zh_TW: 磚頭"	""
+zh_TW: 磚頭"	"紅磚"
 "tile.brick_stairs.name"	"Brick Stairs"	"Original Translation
 zh_CN: 砖楼梯
 zh_TW: 磚塊梯"	""
 "tile.brown_candle.name"	"Brown Candle"	"Original Translation
 zh_CN: 棕色蜡烛
-zh_TW: 棕色蠟燭"	""
+zh_TW: 棕色蠟燭"	"棕色蠟燭"
 "tile.brown_candle_cake.name"	"Cake with Brown Candle"	"Original Translation
 zh_CN: 带棕色蜡烛的蛋糕
-zh_TW: 蛋糕與棕色蠟燭"	""
+zh_TW: 蛋糕與棕色蠟燭"	"插上棕色蠟燭的蛋糕"
 "tile.brown_mushroom.name"	"Brown Mushroom"	"Original Translation
 zh_CN: 棕色蘑菇
 zh_TW: 棕色蘑菇"	""
@@ -48105,49 +48105,49 @@ zh_CN: 蘑菇柄
 zh_TW: 蘑菇莖"	""
 "tile.budding_amethyst.name"	"Budding Amethyst"	"Original Translation
 zh_CN: 紫水晶母岩
-zh_TW: 發芽紫水晶"	""
+zh_TW: 發芽紫水晶"	"紫水晶芽床"
 "tile.bush.name"	"Bush"	"Original Translation
 zh_CN: 灌木
-zh_TW: 野地"	""
+zh_TW: 野地"	"灌木叢"
 "tile.cactus.name"	"Cactus"	"Original Translation
 zh_CN: 仙人掌
-zh_TW: 仙人掌"	""
+zh_TW: 仙人掌"	"仙人掌"
 "tile.cactus_flower.name"	"Cactus Flower"	"Original Translation
 zh_CN: 仙人掌花
-zh_TW: 仙人掌花朵"	""
+zh_TW: 仙人掌花朵"	"仙人掌花"
 "tile.cake.name"	"Cake"	"Original Translation
 zh_CN: 蛋糕
 zh_TW: 蛋糕"	""
 "tile.calcite.name"	"Calcite"	"Original Translation
 zh_CN: 方解石
-zh_TW: 方解石"	""
+zh_TW: 方解石"	"方解石"
 "tile.calibrated_sculk_sensor.name"	"Calibrated Sculk Sensor"	"Original Translation
 zh_CN: 已校准潜声感测器
-zh_TW: 校準伏聆振測器"	""
+zh_TW: 校準伏聆振測器"	"校準伏聆振測器"
 "tile.camera.name"	"Camera"	"Original Translation
 zh_CN: 摄像机
 zh_TW: 相機"	""
 "tile.campfire.name"	"Campfire"	"Original Translation
 zh_CN: 营火
-zh_TW: 營火"	""
+zh_TW: 營火"	"營火"
 "tile.candle.name"	"Candle"	"Original Translation
 zh_CN: 蜡烛
-zh_TW: 蠟燭"	""
+zh_TW: 蠟燭"	"蠟燭"
 "tile.candle_cake.name"	"Cake with Candle"	"Original Translation
 zh_CN: 带蜡烛的蛋糕
-zh_TW: 蛋糕與蠟燭"	""
+zh_TW: 蛋糕與蠟燭"	"插上蠟燭的蛋糕"
 "tile.carpet.black.name"	"Black Carpet"	"Original Translation
 zh_CN: 黑色地毯
 zh_TW: 黑色地毯"	"黑色地毯"
 "tile.carpet.blue.name"	"Blue Carpet"	"Original Translation
 zh_CN: 蓝色地毯
-zh_TW: 藍色地毯"	""
+zh_TW: 藍色地毯"	"藍色地毯"
 "tile.carpet.brown.name"	"Brown Carpet"	"Original Translation
 zh_CN: 棕色地毯
-zh_TW: 棕色地毯"	""
+zh_TW: 棕色地毯"	"棕色地毯"
 "tile.carpet.cyan.name"	"Cyan Carpet"	"Original Translation
 zh_CN: 青色地毯
-zh_TW: 青綠地毯"	""
+zh_TW: 青綠地毯"	"青色地毯"
 "tile.carpet.gray.name"	"Gray Carpet"	"Original Translation
 zh_CN: 灰色地毯
 zh_TW: 灰色地毯"	""
@@ -48189,19 +48189,19 @@ zh_CN: 黄色地毯
 zh_TW: 黃色地毯"	""
 "tile.carrots.name"	"Carrots"	"Original Translation
 zh_CN: 胡萝卜
-zh_TW: 胡蘿蔔"	""
+zh_TW: 胡蘿蔔"	"胡蘿蔔"
 "tile.cartography_table.name"	"Cartography Table"	"Original Translation
 zh_CN: 制图台
-zh_TW: 製圖台"	""
+zh_TW: 製圖台"	"製圖台"
 "tile.carved_pumpkin.name"	"Carved Pumpkin"	"Original Translation
 zh_CN: 雕刻过的南瓜
-zh_TW: 雕刻過的南瓜"	""
+zh_TW: 雕刻過的南瓜"	"雕刻過的南瓜"
 "tile.cauldron.name"	"Cauldron"	"Original Translation
 zh_CN: 炼药锅
 zh_TW: 鍋釜"	""
 "tile.cave_vines.name"	"Cave Vines"	"Original Translation
 zh_CN: 洞穴藤蔓
-zh_TW: 洞穴藤蔓"	""
+zh_TW: 洞穴藤蔓"	"洞穴藤蔓"
 "tile.cave_vines_body_with_berries.name"	"Cave Vines"	"Original Translation
 zh_CN: 洞穴藤蔓
 zh_TW: 洞穴藤蔓"	""
@@ -48213,7 +48213,7 @@ zh_CN: 锁链
 zh_TW: 鎖鏈"	""
 "tile.chain_command_block.name"	"Chain Command Block"	"Original Translation
 zh_CN: 连锁型命令方块
-zh_TW: 鎖鏈指令方塊"	""
+zh_TW: 鎖鏈指令方塊"	"連鎖式指令方塊"
 "tile.chalkboard.oneByOne.name"	"Slate"	"Original Translation
 zh_CN: 石板
 zh_TW: 石板"	""
@@ -48234,115 +48234,115 @@ zh_CN: 樱花木双台阶
 zh_TW: 櫻花木雙板"	""
 "tile.cherry_fence.name"	"Cherry Fence"	"Original Translation
 zh_CN: 樱花木栅栏
-zh_TW: 櫻花木柵欄"	""
+zh_TW: 櫻花木柵欄"	"櫻花木柵欄"
 "tile.cherry_fence_gate.name"	"Cherry Fence Gate"	"Original Translation
 zh_CN: 樱花木栅栏门
-zh_TW: 櫻花木柵欄門"	""
+zh_TW: 櫻花木柵欄門"	"櫻花木柵欄門"
 "tile.cherry_hanging_sign.name"	"Cherry Hanging Sign"	"Original Translation
 zh_CN: 樱花木悬挂告示牌
 zh_TW: 懸掛式櫻花木告示牌"	""
 "tile.cherry_leaves.name"	"Cherry Leaves"	"Original Translation
 zh_CN: 樱花树叶
-zh_TW: 櫻花樹葉"	""
+zh_TW: 櫻花樹葉"	"櫻花木樹葉"
 "tile.cherry_log.name"	"Cherry Log"	"Original Translation
 zh_CN: 樱花原木
-zh_TW: 櫻花樹原木"	""
+zh_TW: 櫻花樹原木"	"櫻花木原木"
 "tile.cherry_planks.name"	"Cherry Planks"	"Original Translation
 zh_CN: 樱花木板
-zh_TW: 櫻花木材"	""
+zh_TW: 櫻花木材"	"櫻花木材"
 "tile.cherry_pressure_plate.name"	"Cherry Pressure Plate"	"Original Translation
 zh_CN: 樱花木压力板
-zh_TW: 櫻花木壓板"	""
+zh_TW: 櫻花木壓板"	"櫻花木壓力板"
 "tile.cherry_sapling.name"	"Cherry Sapling"	"Original Translation
 zh_CN: 樱花树苗
-zh_TW: 櫻花樹苗"	""
+zh_TW: 櫻花樹苗"	"櫻花木樹苗"
 "tile.cherry_shelf.name"	"Cherry Shelf"	"Original Translation
 zh_CN: 樱桃木架
-zh_TW: 櫻木架子"	""
+zh_TW: 櫻木架子"	"櫻花木展示架"
 "tile.cherry_slab.name"	"Cherry Slab"	"Original Translation
 zh_CN: 樱花木台阶
-zh_TW: 櫻花木板"	""
+zh_TW: 櫻花木板"	"櫻花木半磚"
 "tile.cherry_stairs.name"	"Cherry Stairs"	"Original Translation
 zh_CN: 樱花木楼梯
-zh_TW: 櫻花木樓梯"	""
+zh_TW: 櫻花木樓梯"	"櫻花木階梯"
 "tile.cherry_trapdoor.name"	"Cherry Trapdoor"	"Original Translation
 zh_CN: 樱花木活板门
 zh_TW: 櫻花木地板門"	""
 "tile.cherry_wood.name"	"Cherry Wood"	"Original Translation
 zh_CN: 樱花木
-zh_TW: 櫻花樹木頭"	""
+zh_TW: 櫻花樹木頭"	"櫻花木塊"
 "tile.chest.name"	"Chest"	"Original Translation
 zh_CN: 箱子
 zh_TW: 箱子"	""
 "tile.chiseled_bookshelf.name"	"Chiseled Bookshelf"	"Original Translation
 zh_CN: 錾制书架
-zh_TW: 鑿刻書櫃"	""
+zh_TW: 鑿刻書櫃"	"浮雕書櫃"
 "tile.chiseled_copper.name"	"Chiseled Copper"	"Original Translation
 zh_CN: 雕纹铜块
-zh_TW: 鑿刻銅"	""
+zh_TW: 鑿刻銅"	"浮雕銅方塊"
 "tile.chiseled_deepslate.name"	"Chiseled Deepslate"	"Original Translation
 zh_CN: 錾制深板岩
-zh_TW: 鑿刻深板岩"	""
+zh_TW: 鑿刻深板岩"	"浮雕深板岩"
 "tile.chiseled_nether_bricks.name"	"Chiseled Nether Bricks"	"Original Translation
 zh_CN: 錾制下界砖
-zh_TW: 鑿刻地獄磚塊"	""
+zh_TW: 鑿刻地獄磚塊"	"浮雕地獄磚"
 "tile.chiseled_polished_blackstone.name"	"Chiseled Polished Blackstone"	"Original Translation
 zh_CN: 錾制磨制黑石
-zh_TW: 鑿刻拋光黑石"	""
+zh_TW: 鑿刻拋光黑石"	"浮雕拋光黑石"
 "tile.chiseled_resin_bricks.name"	"Chiseled Resin Bricks"	"Original Translation
 zh_CN: 錾制树脂砖块
-zh_TW: 雕刻樹脂合磚"	""
+zh_TW: 雕刻樹脂合磚"	"浮雕樹脂磚"
 "tile.chiseled_tuff.name"	"Chiseled Tuff"	"Original Translation
 zh_CN: 雕纹凝灰岩
-zh_TW: 鑿刻凝灰岩"	""
+zh_TW: 鑿刻凝灰岩"	"浮雕凝灰岩"
 "tile.chiseled_tuff_bricks.name"	"Chiseled Tuff Bricks"	"Original Translation
 zh_CN: 雕纹凝灰岩砖
-zh_TW: 鑿刻凝灰岩磚塊"	""
+zh_TW: 鑿刻凝灰岩磚塊"	"浮雕凝灰岩磚"
 "tile.chorus_flower.name"	"Chorus Flower"	"Original Translation
 zh_CN: 紫颂花
-zh_TW: 歌萊花"	""
+zh_TW: 歌萊花"	"歌萊花"
 "tile.chorus_plant.name"	"Chorus Plant"	"Original Translation
 zh_CN: 紫颂植株
-zh_TW: 歌萊枝"	""
+zh_TW: 歌萊枝"	"歌萊枝"
 "tile.clay.name"	"Clay"	"Original Translation
 zh_CN: 黏土
-zh_TW: 黏土"	""
+zh_TW: 黏土"	"黏土"
 "tile.closed_eyeblossom.name"	"Closed Eyeblossom"	"Original Translation
 zh_CN: 合拢的眼眸花
-zh_TW: 閉合的夜眼之花"	""
+zh_TW: 閉合的夜眼之花"	"閉合的擬目花"
 "tile.coal_block.name"	"Block of Coal"	"Original Translation
 zh_CN: 煤炭块
-zh_TW: 煤炭方塊"	""
+zh_TW: 煤炭方塊"	"煤炭方塊"
 "tile.coal_ore.name"	"Coal Ore"	"Original Translation
 zh_CN: 煤矿石
-zh_TW: 煤礦石"	""
+zh_TW: 煤礦石"	"煤礦"
 "tile.cobbled_deepslate.name"	"Cobbled Deepslate"	"Original Translation
 zh_CN: 深板岩圆石
-zh_TW: 鵝卵石深板岩"	""
+zh_TW: 鵝卵石深板岩"	"深板岩碎石"
 "tile.cobbled_deepslate_double_slab.name"	"Cobbled Deepslate Double Slab"	"Original Translation
 zh_CN: 深板岩圆石双台阶
 zh_TW: 鵝卵石深板岩雙板"	""
 "tile.cobbled_deepslate_slab.name"	"Cobbled Deepslate Slab"	"Original Translation
 zh_CN: 深板岩圆石台阶
-zh_TW: 鵝卵石深板岩板"	""
+zh_TW: 鵝卵石深板岩板"	"碎深板岩半磚"
 "tile.cobbled_deepslate_stairs.name"	"Cobbled Deepslate Stairs"	"Original Translation
 zh_CN: 深板岩圆石楼梯
-zh_TW: 鵝卵石深板岩樓梯"	""
+zh_TW: 鵝卵石深板岩樓梯"	"碎深板岩階梯"
 "tile.cobbled_deepslate_wall.name"	"Cobbled Deepslate Wall"	"Original Translation
 zh_CN: 深板岩圆石墙
-zh_TW: 鵝卵石深板岩牆"	""
+zh_TW: 鵝卵石深板岩牆"	"碎深板岩牆"
 "tile.cobblestone.name"	"Cobblestone"	"Original Translation
 zh_CN: 圆石
-zh_TW: 鵝卵石"	""
+zh_TW: 鵝卵石"	"鵝卵石"
 "tile.cobblestone_wall.andesite.name"	"Andesite Wall"	"Original Translation
 zh_CN: 安山岩墙
 zh_TW: 安山岩牆"	"安山岩牆"
 "tile.cobblestone_wall.brick.name"	"Brick Wall"	"Original Translation
 zh_CN: 砖墙
-zh_TW: 磚牆"	""
+zh_TW: 磚牆"	"紅磚牆"
 "tile.cobblestone_wall.diorite.name"	"Diorite Wall"	"Original Translation
 zh_CN: 闪长岩墙
-zh_TW: 閃長岩牆"	""
+zh_TW: 閃長岩牆"	"閃長岩牆"
 "tile.cobblestone_wall.end_brick.name"	"End Stone Brick Wall"	"Original Translation
 zh_CN: 末地石砖墙
 zh_TW: 終界石磚牆"	""
@@ -48360,7 +48360,7 @@ zh_CN: 下界砖墙
 zh_TW: 地獄磚牆"	""
 "tile.cobblestone_wall.normal.name"	"Cobblestone Wall"	"Original Translation
 zh_CN: 圆石墙
-zh_TW: 鵝卵石牆"	""
+zh_TW: 鵝卵石牆"	"鵝卵石牆"
 "tile.cobblestone_wall.prismarine.name"	"Prismarine Wall"	"Original Translation
 zh_CN: 海晶石墙
 zh_TW: 海磷石牆"	""
@@ -48378,7 +48378,7 @@ zh_CN: 石砖墙
 zh_TW: 石磚牆"	""
 "tile.cocoa.name"	"Cocoa"	"Original Translation
 zh_CN: 可可
-zh_TW: 可可"	""
+zh_TW: 可可"	"可可豆"
 "tile.colored_torch.blue.name"	"Blue Torch"	"Original Translation
 zh_CN: 蓝色火炬
 zh_TW: 藍火把"	""
@@ -48408,7 +48408,7 @@ zh_CN: 蓝色混凝土
 zh_TW: 藍色混凝土"	""
 "tile.concrete.brown.name"	"Brown Concrete"	"Original Translation
 zh_CN: 棕色混凝土
-zh_TW: 棕色混凝土"	""
+zh_TW: 棕色混凝土"	"棕色混凝土"
 "tile.concrete.cyan.name"	"Cyan Concrete"	"Original Translation
 zh_CN: 青色混凝土
 zh_TW: 青綠色混凝土"	""
@@ -48456,10 +48456,10 @@ zh_CN: 蓝色混凝土粉末
 zh_TW: 藍色混凝土粉末"	""
 "tile.concretePowder.brown.name"	"Brown Concrete Powder"	"Original Translation
 zh_CN: 棕色混凝土粉末
-zh_TW: 棕色混凝土粉末"	""
+zh_TW: 棕色混凝土粉末"	"棕色混凝土粉末"
 "tile.concretePowder.cyan.name"	"Cyan Concrete Powder"	"Original Translation
 zh_CN: 青色混凝土粉末
-zh_TW: 青綠色混凝土粉末"	""
+zh_TW: 青綠色混凝土粉末"	"青色混凝土粉末"
 "tile.concretePowder.gray.name"	"Gray Concrete Powder"	"Original Translation
 zh_CN: 灰色混凝土粉末
 zh_TW: 灰色混凝土粉末"	""
@@ -48501,58 +48501,58 @@ zh_CN: 潮涌核心
 zh_TW: 海靈核心"	""
 "tile.copper_bars.name"	"Copper Bars"	"Original Translation
 zh_CN: 铜条
-zh_TW: 銅欄杆"	""
+zh_TW: 銅欄杆"	"銅柵欄"
 "tile.copper_block.name"	"Block of Copper"	"Original Translation
 zh_CN: 铜方块
-zh_TW: 銅方塊"	""
+zh_TW: 銅方塊"	"銅方塊"
 "tile.copper_bulb.name"	"Copper Bulb"	"Original Translation
 zh_CN: 铜灯泡
 zh_TW: 銅燈泡"	""
 "tile.copper_chain.name"	"Copper Chain"	"Original Translation
 zh_CN: 铜链
-zh_TW: 銅鎖鏈"	""
+zh_TW: 銅鎖鏈"	"銅鏈"
 "tile.copper_chest.name"	"Copper Chest"	"Original Translation
 zh_CN: 铜宝箱
-zh_TW: 銅箱子"	""
+zh_TW: 銅箱子"	"銅儲物箱"
 "tile.copper_door.name"	"Copper Door"	"Original Translation
 zh_CN: 铜门
 zh_TW: 銅門"	""
 "tile.copper_golem_statue.name"	"Copper Golem Statue"	"Original Translation
 zh_CN: 铜傀儡雕像
-zh_TW: 銅魔像雕像"	""
+zh_TW: 銅魔像雕像"	"銅像"
 "tile.copper_grate.name"	"Copper Grate"	"Original Translation
 zh_CN: 铜格栅
-zh_TW: 銅雕花格"	""
+zh_TW: 銅雕花格"	"銅格柵"
 "tile.copper_lantern.name"	"Copper Lantern"	"Original Translation
 zh_CN: 铜提灯
 zh_TW: 銅燈籠"	""
 "tile.copper_ore.name"	"Copper Ore"	"Original Translation
 zh_CN: 铜矿石
-zh_TW: 銅礦石"	""
+zh_TW: 銅礦石"	"銅礦"
 "tile.copper_torch.name"	"Copper Torch"	"Original Translation
 zh_CN: 铜火把
-zh_TW: 銅火把"	""
+zh_TW: 銅火把"	"銅火把"
 "tile.copper_trapdoor.name"	"Copper Trapdoor"	"Original Translation
 zh_CN: 铜活板门
-zh_TW: 銅製地板門"	""
+zh_TW: 銅製地板門"	"銅地板門"
 "tile.coral.blue.name"	"Tube Coral"	"Original Translation
 zh_CN: 管珊瑚
 zh_TW: 管狀珊瑚"	""
 "tile.coral.blue_dead.name"	"Dead Tube Coral"	"Original Translation
 zh_CN: 失活的管珊瑚
-zh_TW: 死亡管狀珊瑚"	""
+zh_TW: 死亡管狀珊瑚"	"死亡的管珊瑚"
 "tile.coral.pink.name"	"Brain Coral"	"Original Translation
 zh_CN: 脑纹珊瑚
 zh_TW: 腦狀珊瑚"	"腦珊瑚"
 "tile.coral.pink_dead.name"	"Dead Brain Coral"	"Original Translation
 zh_CN: 失活的脑纹珊瑚
-zh_TW: 死亡腦狀珊瑚"	""
+zh_TW: 死亡腦狀珊瑚"	"死亡的腦珊瑚"
 "tile.coral.purple.name"	"Bubble Coral"	"Original Translation
 zh_CN: 气泡珊瑚
-zh_TW: 氣泡珊瑚"	""
+zh_TW: 氣泡珊瑚"	"氣泡珊瑚"
 "tile.coral.purple_dead.name"	"Dead Bubble Coral"	"Original Translation
 zh_CN: 失活的气泡珊瑚
-zh_TW: 死亡氣泡珊瑚"	""
+zh_TW: 死亡氣泡珊瑚"	"死亡的氣泡珊瑚"
 "tile.coral.red.name"	"Fire Coral"	"Original Translation
 zh_CN: 火珊瑚
 zh_TW: 火珊瑚"	""
@@ -48564,37 +48564,37 @@ zh_CN: 鹿角珊瑚
 zh_TW: 角狀珊瑚"	""
 "tile.coral.yellow_dead.name"	"Dead Horn Coral"	"Original Translation
 zh_CN: 失活的鹿角珊瑚
-zh_TW: 死亡角狀珊瑚"	""
+zh_TW: 死亡角狀珊瑚"	"死亡的角珊瑚"
 "tile.coral_block.blue.name"	"Tube Coral Block"	"Original Translation
 zh_CN: 管珊瑚块
 zh_TW: 管狀珊瑚方塊"	""
 "tile.coral_block.blue_dead.name"	"Dead Tube Coral Block"	"Original Translation
 zh_CN: 失活的管珊瑚块
-zh_TW: 死亡管狀珊瑚方塊"	""
+zh_TW: 死亡管狀珊瑚方塊"	"死亡的管珊瑚方塊"
 "tile.coral_block.pink.name"	"Brain Coral Block"	"Original Translation
 zh_CN: 脑纹珊瑚块
 zh_TW: 腦狀珊瑚方塊"	""
 "tile.coral_block.pink_dead.name"	"Dead Brain Coral Block"	"Original Translation
 zh_CN: 失活的脑纹珊瑚块
-zh_TW: 死亡腦狀珊瑚方塊"	""
+zh_TW: 死亡腦狀珊瑚方塊"	"死亡的腦珊瑚方塊"
 "tile.coral_block.purple.name"	"Bubble Coral Block"	"Original Translation
 zh_CN: 气泡珊瑚块
-zh_TW: 氣泡珊瑚方塊"	""
+zh_TW: 氣泡珊瑚方塊"	"氣泡珊瑚方塊"
 "tile.coral_block.purple_dead.name"	"Dead Bubble Coral Block"	"Original Translation
 zh_CN: 失活的气泡珊瑚块
-zh_TW: 死亡氣泡珊瑚方塊"	""
+zh_TW: 死亡氣泡珊瑚方塊"	"死亡的氣泡珊瑚方塊"
 "tile.coral_block.red.name"	"Fire Coral Block"	"Original Translation
 zh_CN: 火珊瑚块
 zh_TW: 火珊瑚方塊"	""
 "tile.coral_block.red_dead.name"	"Dead Fire Coral Block"	"Original Translation
 zh_CN: 失活的火珊瑚块
-zh_TW: 死亡火珊瑚方塊"	""
+zh_TW: 死亡火珊瑚方塊"	"死亡的火珊瑚方塊"
 "tile.coral_block.yellow.name"	"Horn Coral Block"	"Original Translation
 zh_CN: 鹿角珊瑚块
 zh_TW: 角狀珊瑚方塊"	""
 "tile.coral_block.yellow_dead.name"	"Dead Horn Coral Block"	"Original Translation
 zh_CN: 失活的鹿角珊瑚块
-zh_TW: 死亡角狀珊瑚方塊"	""
+zh_TW: 死亡角狀珊瑚方塊"	"死亡的角珊瑚方塊"
 "tile.coral_fan.blue_fan.name"	"Tube Coral Fan"	"Original Translation
 zh_CN: 管珊瑚扇
 zh_TW: 管狀珊瑚扇"	""
@@ -48603,7 +48603,7 @@ zh_CN: 脑纹珊瑚扇
 zh_TW: 腦狀珊瑚扇"	"扇狀腦珊瑚"
 "tile.coral_fan.purple_fan.name"	"Bubble Coral Fan"	"Original Translation
 zh_CN: 气泡珊瑚扇
-zh_TW: 氣泡珊瑚扇"	""
+zh_TW: 氣泡珊瑚扇"	"扇狀氣泡珊瑚"
 "tile.coral_fan.red_fan.name"	"Fire Coral Fan"	"Original Translation
 zh_CN: 火珊瑚扇
 zh_TW: 火珊瑚扇"	""
@@ -48612,31 +48612,31 @@ zh_CN: 鹿角珊瑚扇
 zh_TW: 角狀珊瑚扇"	""
 "tile.coral_fan_dead.blue_fan.name"	"Dead Tube Coral Fan"	"Original Translation
 zh_CN: 失活的管珊瑚扇
-zh_TW: 死亡管狀珊瑚扇"	""
+zh_TW: 死亡管狀珊瑚扇"	"死亡的扇狀管珊瑚"
 "tile.coral_fan_dead.pink_fan.name"	"Dead Brain Coral Fan"	"Original Translation
 zh_CN: 失活的脑纹珊瑚扇
 zh_TW: 死亡腦狀珊瑚扇"	""
 "tile.coral_fan_dead.purple_fan.name"	"Dead Bubble Coral Fan"	"Original Translation
 zh_CN: 失活的气泡珊瑚扇
-zh_TW: 死亡氣泡珊瑚扇"	""
+zh_TW: 死亡氣泡珊瑚扇"	"死亡的扇狀氣泡珊瑚"
 "tile.coral_fan_dead.red_fan.name"	"Dead Fire Coral Fan"	"Original Translation
 zh_CN: 失活的火珊瑚扇
-zh_TW: 死亡火珊瑚扇"	""
+zh_TW: 死亡火珊瑚扇"	"死亡的扇狀火珊瑚"
 "tile.coral_fan_dead.yellow_fan.name"	"Dead Horn Coral Fan"	"Original Translation
 zh_CN: 失活的鹿角珊瑚扇
-zh_TW: 死亡角狀珊瑚扇"	""
+zh_TW: 死亡角狀珊瑚扇"	"死亡的扇狀角珊瑚"
 "tile.cracked_deepslate_bricks.name"	"Cracked Deepslate Bricks"	"Original Translation
 zh_CN: 裂纹深板岩砖
-zh_TW: 裂紋深板岩磚"	""
+zh_TW: 裂紋深板岩磚"	"裂紋深板岩磚"
 "tile.cracked_deepslate_tiles.name"	"Cracked Deepslate Tiles"	"Original Translation
 zh_CN: 裂纹深板岩瓦
 zh_TW: 裂紋深板岩磚瓦"	""
 "tile.cracked_nether_bricks.name"	"Cracked Nether Bricks"	"Original Translation
 zh_CN: 裂纹下界砖
-zh_TW: 裂開的地獄磚塊"	""
+zh_TW: 裂開的地獄磚塊"	"裂紋地獄磚"
 "tile.cracked_polished_blackstone_bricks.name"	"Cracked Polished Blackstone Bricks"	"Original Translation
 zh_CN: 裂纹磨制黑石砖
-zh_TW: 裂紋拋光黑石磚"	""
+zh_TW: 裂紋拋光黑石磚"	"裂紋拋光黑石磚"
 "tile.crafter.name"	"Crafter"	"Original Translation
 zh_CN: 合成器
 zh_TW: 合成器"	""
@@ -48645,10 +48645,10 @@ zh_CN: 工作台
 zh_TW: 精製台"	""
 "tile.creaking_heart.name"	"Creaking Heart"	"Original Translation
 zh_CN: 嘎枝之心
-zh_TW: 闇響之心"	""
+zh_TW: 闇響之心"	"嘎枝之心"
 "tile.crimson_button.name"	"Crimson Button"	"Original Translation
 zh_CN: 绯红木按钮
-zh_TW: 緋紅蕈木按鈕"	""
+zh_TW: 緋紅蕈木按鈕"	"緋紅蕈木按鈕"
 "tile.crimson_door.name"	"Crimson Door"	"Original Translation
 zh_CN: 绯红木门
 zh_TW: 緋紅蕈木門"	""
@@ -48657,34 +48657,34 @@ zh_CN: 绯红木台阶
 zh_TW: 緋紅蕈木半磚"	""
 "tile.crimson_fence.name"	"Crimson Fence"	"Original Translation
 zh_CN: 绯红木栅栏
-zh_TW: 緋紅蕈木柵欄"	""
+zh_TW: 緋紅蕈木柵欄"	"緋紅蕈木柵欄"
 "tile.crimson_fence_gate.name"	"Crimson Fence Gate"	"Original Translation
 zh_CN: 绯红木栅栏门
-zh_TW: 緋紅蕈木柵欄門"	""
+zh_TW: 緋紅蕈木柵欄門"	"緋紅蕈木柵欄門"
 "tile.crimson_fungus.name"	"Crimson Fungus"	"Original Translation
 zh_CN: 绯红菌
-zh_TW: 緋紅蕈菇"	""
+zh_TW: 緋紅蕈菇"	"緋紅蕈菇"
 "tile.crimson_hanging_sign.name"	"Crimson Hanging Sign"	"Original Translation
 zh_CN: 绯红木悬挂告示牌
 zh_TW: 懸掛式緋紅蕈木告示牌"	""
 "tile.crimson_hyphae.name"	"Crimson Hyphae"	"Original Translation
 zh_CN: 绯红菌核
-zh_TW: 緋紅菌絲體"	""
+zh_TW: 緋紅菌絲體"	"緋紅菌絲體"
 "tile.crimson_nylium.name"	"Crimson Nylium"	"Original Translation
 zh_CN: 绯红菌岩
-zh_TW: 緋紅菌絲石"	""
+zh_TW: 緋紅菌絲石"	"緋紅菌絲石"
 "tile.crimson_planks.name"	"Crimson Planks"	"Original Translation
 zh_CN: 绯红木板
-zh_TW: 緋紅蕈木材"	""
+zh_TW: 緋紅蕈木材"	"緋紅蕈木材"
 "tile.crimson_pressure_plate.name"	"Crimson Pressure Plate"	"Original Translation
 zh_CN: 绯红木压力板
-zh_TW: 緋紅蕈木壓力板"	""
+zh_TW: 緋紅蕈木壓力板"	"緋紅蕈木壓力板"
 "tile.crimson_roots.crimsonRoots.name"	"Crimson Roots"	"Original Translation
 zh_CN: 绯红菌索
-zh_TW: 緋紅蕈根"	""
+zh_TW: 緋紅蕈根"	"緋紅蕈根"
 "tile.crimson_shelf.name"	"Crimson Shelf"	"Original Translation
 zh_CN: 绯红架子
-zh_TW: 緋紅架子"	""
+zh_TW: 緋紅架子"	"緋紅蕈木展示架"
 "tile.crimson_slab.name"	"Crimson Slab"	"Original Translation
 zh_CN: 绯红木台阶
 zh_TW: 緋紅蕈木半磚"	""
@@ -48696,148 +48696,148 @@ zh_CN: 绯红木告示牌
 zh_TW: 緋紅蕈木告示牌"	""
 "tile.crimson_stem.name"	"Crimson Stem"	"Original Translation
 zh_CN: 绯红菌柄
-zh_TW: 緋紅蕈柄"	""
+zh_TW: 緋紅蕈柄"	"緋紅蕈柄"
 "tile.crimson_trapdoor.name"	"Crimson Trapdoor"	"Original Translation
 zh_CN: 绯红木活板门
-zh_TW: 緋紅蕈木地板門"	""
+zh_TW: 緋紅蕈木地板門"	"緋紅蕈木地板門"
 "tile.crimson_wall_sign.name"	"Crimson Sign"	"Original Translation
 zh_CN: 绯红木告示牌
 zh_TW: 緋紅蕈木告示牌"	""
 "tile.crying_obsidian.name"	"Crying Obsidian"	"Original Translation
 zh_CN: 哭泣的黑曜石
-zh_TW: 哭泣黑曜石"	""
+zh_TW: 哭泣黑曜石"	"哭泣的黑曜石"
 "tile.cut_copper.name"	"Cut Copper"	"Original Translation
 zh_CN: 切制铜块
-zh_TW: 切製銅方塊"	""
+zh_TW: 切製銅方塊"	"切製銅方塊"
 "tile.cut_copper_slab.name"	"Cut Copper Slab"	"Original Translation
 zh_CN: 切制铜块台阶
-zh_TW: 切製銅半磚"	""
+zh_TW: 切製銅半磚"	"切製銅半磚"
 "tile.cut_copper_stairs.name"	"Cut Copper Stairs"	"Original Translation
 zh_CN: 切制铜楼梯
-zh_TW: 切制銅階梯"	""
+zh_TW: 切制銅階梯"	"切製銅階梯"
 "tile.cyan_candle.name"	"Cyan Candle"	"Original Translation
 zh_CN: 青色蜡烛
-zh_TW: 青綠色蠟燭"	""
+zh_TW: 青綠色蠟燭"	"青色蠟燭"
 "tile.cyan_candle_cake.name"	"Cake with Cyan Candle"	"Original Translation
 zh_CN: 带青色蜡烛的蛋糕
-zh_TW: 蛋糕與青綠色蠟燭"	""
+zh_TW: 蛋糕與青綠色蠟燭"	"插上青色蠟燭的蛋糕"
 "tile.darkOakFence.name"	"Dark Oak Fence"	"Original Translation
 zh_CN: 深色橡木栅栏
-zh_TW: 黑橡木柵欄"	""
+zh_TW: 黑橡木柵欄"	"黑橡木柵欄"
 "tile.dark_oak_button.name"	"Dark Oak Button"	"Original Translation
 zh_CN: 深色橡木按钮
-zh_TW: 黑橡木按鈕"	""
+zh_TW: 黑橡木按鈕"	"黑橡木按鈕"
 "tile.dark_oak_fence_gate.name"	"Dark Oak Fence Gate"	"Original Translation
 zh_CN: 深色橡木栅栏门
-zh_TW: 黑橡木柵欄門"	""
+zh_TW: 黑橡木柵欄門"	"黑橡木柵欄門"
 "tile.dark_oak_hanging_sign.name"	"Dark Oak Hanging Sign"	"Original Translation
 zh_CN: 深色橡木悬挂告示牌
 zh_TW: 懸掛式黑橡木告示牌"	""
 "tile.dark_oak_pressure_plate.name"	"Dark Oak Pressure Plate"	"Original Translation
 zh_CN: 深色橡木压力板
-zh_TW: 黑橡木壓板"	""
+zh_TW: 黑橡木壓板"	"黑橡木壓力板"
 "tile.dark_oak_shelf.name"	"Dark Oak Shelf"	"Original Translation
 zh_CN: 深色橡木架
-zh_TW: 黑橡木架子"	""
+zh_TW: 黑橡木架子"	"黑橡木展示架"
 "tile.dark_oak_stairs.name"	"Dark Oak Stairs"	"Original Translation
 zh_CN: 深色橡木楼梯
-zh_TW: 黑橡木階梯"	""
+zh_TW: 黑橡木階梯"	"黑橡木階梯"
 "tile.dark_oak_trapdoor.name"	"Dark Oak Trapdoor"	"Original Translation
 zh_CN: 深色橡木活板门
-zh_TW: 黑橡木地板門"	""
+zh_TW: 黑橡木地板門"	"黑橡木地板門"
 "tile.dark_prismarine_stairs.name"	"Dark Prismarine Stairs"	"Original Translation
 zh_CN: 暗海晶石楼梯
-zh_TW: 暗海磷石階梯"	""
+zh_TW: 暗海磷石階梯"	"暗海磷石階梯"
 "tile.darkoak_standing_sign.name"	"Dark Oak Sign"	"Original Translation
 zh_CN: 深色橡木告示牌
 zh_TW: 黑橡木告示牌"	""
 "tile.daylight_detector.name"	"Daylight Detector"	"Original Translation
 zh_CN: 阳光探测器
-zh_TW: 日光偵測器"	""
+zh_TW: 日光偵測器"	"日光感測器"
 "tile.deadbush.name"	"Dead Bush"	"Original Translation
 zh_CN: 枯萎的灌木
-zh_TW: 枯灌木"	""
+zh_TW: 枯灌木"	"枯灌木"
 "tile.decorated_pot.name"	"Decorated Pot"	"Original Translation
 zh_CN: 装饰罐
-zh_TW: 裝飾罐"	""
+zh_TW: 裝飾罐"	"飾紋陶罐"
 "tile.deepslate.name"	"Deepslate"	"Original Translation
 zh_CN: 深板岩
-zh_TW: 深板岩"	""
+zh_TW: 深板岩"	"深板岩"
 "tile.deepslate_brick_double_slab.name"	"Deepslate Brick Double Slab"	"Original Translation
 zh_CN: 深板岩砖双台阶
 zh_TW: 深板岩磚二半磚"	""
 "tile.deepslate_brick_slab.name"	"Deepslate Brick Slab"	"Original Translation
 zh_CN: 深板岩砖台阶
-zh_TW: 深板岩磚半磚"	""
+zh_TW: 深板岩磚半磚"	"深板岩磚半磚"
 "tile.deepslate_brick_stairs.name"	"Deepslate Brick Stairs"	"Original Translation
 zh_CN: 深板岩砖楼梯
-zh_TW: 深板岩磚階梯"	""
+zh_TW: 深板岩磚階梯"	"深板岩磚階梯"
 "tile.deepslate_brick_wall.name"	"Deepslate Brick Wall"	"Original Translation
 zh_CN: 深板岩砖墙
-zh_TW: 深板岩磚牆"	""
+zh_TW: 深板岩磚牆"	"深板岩磚牆"
 "tile.deepslate_bricks.name"	"Deepslate Bricks"	"Original Translation
 zh_CN: 深板岩砖
-zh_TW: 深板岩磚"	""
+zh_TW: 深板岩磚"	"深板岩磚"
 "tile.deepslate_coal_ore.name"	"Deepslate Coal Ore"	"Original Translation
 zh_CN: 深层煤矿石
-zh_TW: 深板岩煤礦石"	""
+zh_TW: 深板岩煤礦石"	"深板岩煤礦"
 "tile.deepslate_copper_ore.name"	"Deepslate Copper Ore"	"Original Translation
 zh_CN: 深层铜矿石
-zh_TW: 深板岩銅礦石"	""
+zh_TW: 深板岩銅礦石"	"深板岩銅礦"
 "tile.deepslate_diamond_ore.name"	"Deepslate Diamond Ore"	"Original Translation
 zh_CN: 深层钻石矿石
-zh_TW: 深板岩鑽石礦石"	""
+zh_TW: 深板岩鑽石礦石"	"深板岩鑽石礦"
 "tile.deepslate_emerald_ore.name"	"Deepslate Emerald Ore"	"Original Translation
 zh_CN: 深层绿宝石矿石
-zh_TW: 深石翡翠礦石"	""
+zh_TW: 深石翡翠礦石"	"深板岩綠寶石礦"
 "tile.deepslate_gold_ore.name"	"Deepslate Gold Ore"	"Original Translation
 zh_CN: 深层金矿石
-zh_TW: 深板岩黃金礦石"	""
+zh_TW: 深板岩黃金礦石"	"深板岩金礦"
 "tile.deepslate_iron_ore.name"	"Deepslate Iron Ore"	"Original Translation
 zh_CN: 深层铁矿石
-zh_TW: 深板岩鐵礦石"	""
+zh_TW: 深板岩鐵礦石"	"深板岩鐵礦"
 "tile.deepslate_lapis_ore.name"	"Deepslate Lapis Lazuli Ore"	"Original Translation
 zh_CN: 深板岩青金石矿石
-zh_TW: 深板岩青金石礦石"	""
+zh_TW: 深板岩青金石礦石"	"深板岩青金石礦"
 "tile.deepslate_redstone_ore.name"	"Deepslate Redstone Ore"	"Original Translation
 zh_CN: 深层红石矿石
-zh_TW: 深板岩紅石礦石"	""
+zh_TW: 深板岩紅石礦石"	"深板岩紅石礦"
 "tile.deepslate_tile_double_slab.name"	"Deepslate Tile Double Slab"	"Original Translation
 zh_CN: 深板岩瓦双台阶
 zh_TW: 深板岩磚瓦二半磚"	""
 "tile.deepslate_tile_slab.name"	"Deepslate Tile Slab"	"Original Translation
 zh_CN: 深板岩瓦台阶
-zh_TW: 深板岩磚瓦半磚"	""
+zh_TW: 深板岩磚瓦半磚"	"深板岩磚瓦半磚"
 "tile.deepslate_tile_stairs.name"	"Deepslate Tile Stairs"	"Original Translation
 zh_CN: 深板岩瓦楼梯
-zh_TW: 深板岩磚瓦半磚階梯"	""
+zh_TW: 深板岩磚瓦半磚階梯"	"深板岩磚瓦階梯"
 "tile.deepslate_tile_wall.name"	"Deepslate Tile Wall"	"Original Translation
 zh_CN: 深板岩瓦墙
-zh_TW: 深板岩磚瓦牆"	""
+zh_TW: 深板岩磚瓦牆"	"深板岩磚瓦牆"
 "tile.deepslate_tiles.name"	"Deepslate Tiles"	"Original Translation
 zh_CN: 深板岩瓦
-zh_TW: 深板岩磚瓦"	""
+zh_TW: 深板岩磚瓦"	"深板岩磚瓦"
 "tile.deny.name"	"Deny"	"Original Translation
 zh_CN: 拒绝方块
 zh_TW: 拒絕"	""
 "tile.detector_rail.name"	"Detector Rail"	"Original Translation
 zh_CN: 探测铁轨
-zh_TW: 偵測器軌道"	""
+zh_TW: 偵測器軌道"	"感測鐵軌"
 "tile.diamond_block.name"	"Block of Diamond"	"Original Translation
 zh_CN: 钻石块
-zh_TW: 鑽石方塊"	""
+zh_TW: 鑽石方塊"	"鑽石方塊"
 "tile.diamond_ore.name"	"Diamond Ore"	"Original Translation
 zh_CN: 钻石矿石
-zh_TW: 鑽石礦石"	""
+zh_TW: 鑽石礦石"	"鑽石礦"
 "tile.diorite_stairs.name"	"Diorite Stairs"	"Original Translation
 zh_CN: 闪长岩楼梯
-zh_TW: 閃長岩階梯"	""
+zh_TW: 閃長岩階梯"	"閃長岩階梯"
 "tile.dirt.coarse.name"	"Coarse Dirt"	"Original Translation
 zh_CN: 砂土
-zh_TW: 粗泥"	""
+zh_TW: 粗泥"	"粗泥"
 "tile.dirt.default.name"	"Dirt"	"Original Translation
 zh_CN: 泥土
-zh_TW: 泥土"	""
+zh_TW: 泥土"	"泥土"
 "tile.dirt.name"	"Dirt"	"Original Translation
 zh_CN: 泥土
 zh_TW: 泥土"	""
@@ -48903,16 +48903,16 @@ zh_CN: 红砂岩台阶
 zh_TW: 紅砂岩半磚"	""
 "tile.dragon_egg.name"	"Dragon Egg"	"Original Translation
 zh_CN: 龙蛋
-zh_TW: 龍蛋"	""
+zh_TW: 龍蛋"	"龍蛋"
 "tile.dried_ghast.name"	"Dried Ghast"	"Original Translation
 zh_CN: 脱水恶魂
 zh_TW: 乾枯地獄幽靈"	""
 "tile.dried_kelp_block.name"	"Dried Kelp Block"	"Original Translation
 zh_CN: 干海带块
-zh_TW: 乾海帶方塊"	""
+zh_TW: 乾海帶方塊"	"海帶乾塊"
 "tile.dripstone_block.name"	"Dripstone Block"	"Original Translation
 zh_CN: 滴水石块
-zh_TW: 滴水石方塊"	""
+zh_TW: 滴水石方塊"	"鐘乳石方塊"
 "tile.dropper.name"	"Dropper"	"Original Translation
 zh_CN: 投掷器
 zh_TW: 投擲器"	""
@@ -49278,10 +49278,10 @@ zh_CN: 元素构造器
 zh_TW: 元素製造器"	""
 "tile.emerald_block.name"	"Block of Emerald"	"Original Translation
 zh_CN: 绿宝石块
-zh_TW: 翡翠方塊"	""
+zh_TW: 翡翠方塊"	"綠寶石方塊"
 "tile.emerald_ore.name"	"Emerald Ore"	"Original Translation
 zh_CN: 绿宝石矿石
-zh_TW: 翡翠礦石"	""
+zh_TW: 翡翠礦石"	"綠寶石礦"
 "tile.enchanting_table.name"	"Enchanting Table"	"Original Translation
 zh_CN: 附魔台
 zh_TW: 附魔台"	""
@@ -49407,13 +49407,13 @@ zh_CN: 黑色带釉陶瓦
 zh_TW: 黑色帶釉陶土"	""
 "tile.glazedTerracotta.blue.name"	"Blue Glazed Terracotta"	"Original Translation
 zh_CN: 蓝色带釉陶瓦
-zh_TW: 藍色帶釉陶土"	""
+zh_TW: 藍色帶釉陶土"	"藍色釉陶"
 "tile.glazedTerracotta.brown.name"	"Brown Glazed Terracotta"	"Original Translation
 zh_CN: 棕色带釉陶瓦
 zh_TW: 棕色帶釉陶土"	""
 "tile.glazedTerracotta.cyan.name"	"Cyan Glazed Terracotta"	"Original Translation
 zh_CN: 青色带釉陶瓦
-zh_TW: 青色帶釉陶土"	""
+zh_TW: 青色帶釉陶土"	"青色釉陶"
 "tile.glazedTerracotta.gray.name"	"Gray Glazed Terracotta"	"Original Translation
 zh_CN: 灰色带釉陶瓦
 zh_TW: 灰色帶釉陶土"	""
@@ -49455,7 +49455,7 @@ zh_CN: 黑色带釉陶瓦
 zh_TW: 黑色帶釉陶土"	""
 "tile.glazedTerracottaBlue.name"	"Blue Glazed Terracotta"	"Original Translation
 zh_CN: 蓝色带釉陶瓦
-zh_TW: 藍色帶釉陶土"	""
+zh_TW: 藍色帶釉陶土"	"藍色釉陶"
 "tile.glazedTerracottaBrown.name"	"Brown Glazed Terracotta"	"Original Translation
 zh_CN: 棕色带釉陶瓦
 zh_TW: 棕色帶釉陶土"	""
@@ -49509,7 +49509,7 @@ zh_CN: 荧石
 zh_TW: 螢光石"	""
 "tile.gold_block.name"	"Block of Gold"	"Original Translation
 zh_CN: 金块
-zh_TW: 黃金方塊"	""
+zh_TW: 黃金方塊"	"黃金方塊"
 "tile.gold_ore.name"	"Gold Ore"	"Original Translation
 zh_CN: 金矿石
 zh_TW: 黃金礦石"	""
@@ -49524,7 +49524,7 @@ zh_CN: 草方块
 zh_TW: 青草方塊"	""
 "tile.grass_path.name"	"Dirt Path"	"Original Translation
 zh_CN: 土径
-zh_TW: 土徑"	""
+zh_TW: 土徑"	"土徑"
 "tile.gravel.name"	"Gravel"	"Original Translation
 zh_CN: 砂砾
 zh_TW: 礫石"	""
@@ -49533,13 +49533,13 @@ zh_CN: 灰色蜡烛
 zh_TW: 灰色蠟燭"	""
 "tile.gray_candle_cake.name"	"Cake with Gray Candle"	"Original Translation
 zh_CN: 带灰色蜡烛的蛋糕
-zh_TW: 蛋糕與灰色蠟燭"	""
+zh_TW: 蛋糕與灰色蠟燭"	"插上灰色蠟燭的蛋糕"
 "tile.green_candle.name"	"Green Candle"	"Original Translation
 zh_CN: 绿色蜡烛
 zh_TW: 綠色蠟燭"	""
 "tile.green_candle_cake.name"	"Cake with Green Candle"	"Original Translation
 zh_CN: 带绿色蜡烛的蛋糕
-zh_TW: 蛋糕與綠色蠟燭"	""
+zh_TW: 蛋糕與綠色蠟燭"	"插上綠色蠟燭的蛋糕"
 "tile.grindstone.name"	"Grindstone"	"Original Translation
 zh_CN: 砂轮
 zh_TW: 砂輪"	""
@@ -49743,7 +49743,7 @@ zh_CN: 灯
 zh_TW: 燈籠"	""
 "tile.lapis_block.name"	"Block of Lapis Lazuli"	"Original Translation
 zh_CN: 青金石块
-zh_TW: 青金石方塊"	""
+zh_TW: 青金石方塊"	"青金石方塊"
 "tile.lapis_ore.name"	"Lapis Lazuli Ore"	"Original Translation
 zh_CN: 青金石矿石
 zh_TW: 青金石礦石"	""
@@ -49758,10 +49758,10 @@ zh_CN: 落叶堆
 zh_TW: 散落的樹葉"	""
 "tile.leaves.acacia.name"	"Acacia Leaves"	"Original Translation
 zh_CN: 金合欢树叶
-zh_TW: 相思樹葉"	""
+zh_TW: 相思樹葉"	"相思木樹葉"
 "tile.leaves.big_oak.name"	"Dark Oak Leaves"	"Original Translation
 zh_CN: 深色橡树叶
-zh_TW: 黑橡樹葉"	""
+zh_TW: 黑橡樹葉"	"黑橡木樹葉"
 "tile.leaves.birch.name"	"Birch Leaves"	"Original Translation
 zh_CN: 桦树叶
 zh_TW: 樺樹樹葉"	""
@@ -49797,13 +49797,13 @@ zh_CN: 淡蓝色蜡烛
 zh_TW: 淺藍色蠟燭"	""
 "tile.light_blue_candle_cake.name"	"Cake with Light Blue Candle"	"Original Translation
 zh_CN: 带淡蓝色蜡烛的蛋糕
-zh_TW: 蛋糕與淺藍色蠟燭"	""
+zh_TW: 蛋糕與淺藍色蠟燭"	"插上淺藍色蠟燭的蛋糕"
 "tile.light_gray_candle.name"	"Light Gray Candle"	"Original Translation
 zh_CN: 淡灰色蜡烛
 zh_TW: 淺灰色蠟燭"	""
 "tile.light_gray_candle_cake.name"	"Cake with Light Gray Candle"	"Original Translation
 zh_CN: 带淡灰色蜡烛的蛋糕
-zh_TW: 蛋糕與淺灰色蠟燭"	""
+zh_TW: 蛋糕與淺灰色蠟燭"	"插上淺灰色蠟燭的蛋糕"
 "tile.light_weighted_pressure_plate.name"	"Light Weighted Pressure Plate"	"Original Translation
 zh_CN: 轻质测重压力板
 zh_TW: 輕型測重壓板"	""
@@ -49815,7 +49815,7 @@ zh_CN: 黄绿色蜡烛
 zh_TW: 淡黃綠色蠟燭"	""
 "tile.lime_candle_cake.name"	"Cake with Lime Candle"	"Original Translation
 zh_CN: 带黄绿色蜡烛的蛋糕
-zh_TW: 蛋糕與淡黃綠色蠟燭"	""
+zh_TW: 蛋糕與淡黃綠色蠟燭"	"插上淺綠色蠟燭的蛋糕"
 "tile.lit_pumpkin.name"	"Jack o'Lantern"	"Original Translation
 zh_CN: 南瓜灯
 zh_TW: 南瓜燈"	""
@@ -49830,7 +49830,7 @@ zh_CN: 金合欢原木
 zh_TW: 相思樹原木"	""
 "tile.log.big_oak.name"	"Dark Oak Log"	"Original Translation
 zh_CN: 深色橡树原木
-zh_TW: 黑橡樹原木"	""
+zh_TW: 黑橡樹原木"	"黑橡木原木"
 "tile.log.birch.name"	"Birch Log"	"Original Translation
 zh_CN: 桦树原木
 zh_TW: 樺樹原木"	"樺木原木"
@@ -49854,7 +49854,7 @@ zh_CN: 品红色蜡烛
 zh_TW: 洋紅色蠟燭"	""
 "tile.magenta_candle_cake.name"	"Cake with Magenta Candle"	"Original Translation
 zh_CN: 带品红色蜡烛的蛋糕
-zh_TW: 蛋糕與洋紅色蠟燭"	""
+zh_TW: 蛋糕與洋紅色蠟燭"	"插上洋紅色蠟燭的蛋糕"
 "tile.magma.name"	"Magma Block"	"Original Translation
 zh_CN: 岩浆块
 zh_TW: 熔岩方塊"	""
@@ -50004,7 +50004,7 @@ zh_CN: 下界疣方块
 zh_TW: 地獄疙瘩方塊"	""
 "tile.netherite_block.name"	"Block of Netherite"	"Original Translation
 zh_CN: 下界合金块
-zh_TW: 獄髓方塊"	""
+zh_TW: 獄髓方塊"	"獄髓方塊"
 "tile.netherrack.name"	"Netherrack"	"Original Translation
 zh_CN: 下界岩
 zh_TW: 地獄石"	""
@@ -50058,7 +50058,7 @@ zh_CN: 橙色蜡烛
 zh_TW: 橙色蠟燭"	""
 "tile.orange_candle_cake.name"	"Cake with Orange Candle"	"Original Translation
 zh_CN: 带橙色蜡烛的蛋糕
-zh_TW: 蛋糕與橙色蠟燭"	""
+zh_TW: 蛋糕與橙色蠟燭"	"插上橙色蠟燭的蛋糕"
 "tile.oreRuby.name"	"Ruby Ore"	"Original Translation
 zh_CN: 红宝石矿石
 zh_TW: 紅寶石礦石"	""
@@ -50178,7 +50178,7 @@ zh_CN: 粉红色蜡烛
 zh_TW: 粉紅色蠟燭"	""
 "tile.pink_candle_cake.name"	"Cake with Pink Candle"	"Original Translation
 zh_CN: 带粉红色蜡烛的蛋糕
-zh_TW: 蛋糕與粉紅色蠟燭"	""
+zh_TW: 蛋糕與粉紅色蠟燭"	"插上粉紅色蠟燭的蛋糕"
 "tile.pink_petals.name"	"Pink Petals"	"Original Translation
 zh_CN: 粉红色花瓣
 zh_TW: 粉紅色花瓣"	""
@@ -50196,7 +50196,7 @@ zh_CN: 金合欢木板
 zh_TW: 相思木材"	"相思木材"
 "tile.planks.big_oak.name"	"Dark Oak Planks"	"Original Translation
 zh_CN: 深色橡木板
-zh_TW: 黑橡木材"	""
+zh_TW: 黑橡木材"	"黑橡木材"
 "tile.planks.birch.name"	"Birch Planks"	"Original Translation
 zh_CN: 白桦木板
 zh_TW: 樺木材"	""
@@ -50301,7 +50301,7 @@ zh_CN: 海晶石砖
 zh_TW: 海磷石磚"	""
 "tile.prismarine.dark.name"	"Dark Prismarine"	"Original Translation
 zh_CN: 暗海晶石
-zh_TW: 暗海磷石"	""
+zh_TW: 暗海磷石"	"暗海磷石"
 "tile.prismarine.rough.name"	"Prismarine"	"Original Translation
 zh_CN: 海晶石
 zh_TW: 海磷石"	""
@@ -50322,7 +50322,7 @@ zh_CN: 紫色蜡烛
 zh_TW: 紫色蠟燭"	""
 "tile.purple_candle_cake.name"	"Cake with Purple Candle"	"Original Translation
 zh_CN: 带紫色蜡烛的蛋糕
-zh_TW: 蛋糕與紫色蠟燭"	""
+zh_TW: 蛋糕與紫色蠟燭"	"插上紫色蠟燭的蛋糕"
 "tile.purpur_block.chiseled.name"	"Chiseled Purpur"	"Original Translation
 zh_CN: 錾制紫珀
 zh_TW: 鑿刻紫珀塊"	""
@@ -50337,16 +50337,16 @@ zh_CN: 紫珀楼梯
 zh_TW: 紫珀階梯"	""
 "tile.quartz_block.chiseled.name"	"Chiseled Quartz Block"	"Original Translation
 zh_CN: 錾制石英块
-zh_TW: 鑿刻石英方塊"	""
+zh_TW: 鑿刻石英方塊"	"浮雕石英方塊"
 "tile.quartz_block.default.name"	"Block of Quartz"	"Original Translation
 zh_CN: 石英块
-zh_TW: 石英方塊"	""
+zh_TW: 石英方塊"	"石英方塊"
 "tile.quartz_block.lines.name"	"Quartz Pillar"	"Original Translation
 zh_CN: 石英柱
 zh_TW: 石英柱"	""
 "tile.quartz_block.name"	"Block of Quartz"	"Original Translation
 zh_CN: 石英块
-zh_TW: 石英方塊"	""
+zh_TW: 石英方塊"	"石英方塊"
 "tile.quartz_block.smooth.name"	"Smooth Quartz Block"	"Original Translation
 zh_CN: 平滑石英块
 zh_TW: 平滑石英方塊"	""
@@ -50364,19 +50364,19 @@ zh_CN: 铁轨
 zh_TW: 軌道"	""
 "tile.raw_copper_block.name"	"Block of Raw Copper"	"Original Translation
 zh_CN: 粗铜块
-zh_TW: 粗銅方塊"	""
+zh_TW: 粗銅方塊"	"銅原礦方塊"
 "tile.raw_gold_block.name"	"Block of Raw Gold"	"Original Translation
 zh_CN: 粗金块
 zh_TW: 粗金方塊"	""
 "tile.raw_iron_block.name"	"Block of Raw Iron"	"Original Translation
 zh_CN: 粗铁块
-zh_TW: 粗鐵方塊"	""
+zh_TW: 粗鐵方塊"	"鐵原礦方塊"
 "tile.red_candle.name"	"Red Candle"	"Original Translation
 zh_CN: 红色蜡烛
 zh_TW: 紅色蠟燭"	""
 "tile.red_candle_cake.name"	"Cake with Red Candle"	"Original Translation
 zh_CN: 带红色蜡烛的蛋糕
-zh_TW: 蛋糕與紅色蠟燭"	""
+zh_TW: 蛋糕與紅色蠟燭"	"插上紅色蠟燭的蛋糕"
 "tile.red_flower.allium.name"	"Allium"	"Original Translation
 zh_CN: 绒球葱
 zh_TW: 紫紅球花"	"紫紅球花"
@@ -50385,7 +50385,7 @@ zh_CN: 兰花
 zh_TW: 藍色蝴蝶蘭"	"藍色蝴蝶蘭"
 "tile.red_flower.cornflower.name"	"Cornflower"	"Original Translation
 zh_CN: 矢车菊
-zh_TW: 矢車菊"	""
+zh_TW: 矢車菊"	"矢車菊"
 "tile.red_flower.houstonia.name"	"Azure Bluet"	"Original Translation
 zh_CN: 蓝花美耳草
 zh_TW: 雛草"	"雛草"
@@ -50427,10 +50427,10 @@ zh_CN: 红色下界砖楼梯
 zh_TW: 紅色地獄磚塊梯"	""
 "tile.red_sandstone.chiseled.name"	"Chiseled Red Sandstone"	"Original Translation
 zh_CN: 錾制红砂岩
-zh_TW: 鑿刻紅沙岩"	""
+zh_TW: 鑿刻紅沙岩"	"浮雕紅砂岩"
 "tile.red_sandstone.cut.name"	"Cut Red Sandstone"	"Original Translation
 zh_CN: 切制红砂岩
-zh_TW: 切割紅沙岩"	""
+zh_TW: 切割紅沙岩"	"切製紅砂岩"
 "tile.red_sandstone.default.name"	"Red Sandstone"	"Original Translation
 zh_CN: 红砂岩
 zh_TW: 紅沙岩"	""
@@ -50469,7 +50469,7 @@ zh_CN: 循环型命令方块
 zh_TW: 重複指令方塊"	""
 "tile.resin_block.name"	"Block of Resin"	"Original Translation
 zh_CN: 树脂块
-zh_TW: 樹脂方塊"	""
+zh_TW: 樹脂方塊"	"樹脂方塊"
 "tile.resin_brick_double_slab.name"	"Resin Brick Double Slab"	"Original Translation
 zh_CN: 树脂砖双台阶
 zh_TW: 樹脂磚塊雙層半磚"	""
@@ -50508,7 +50508,7 @@ zh_CN: 红沙
 zh_TW: 紅沙"	""
 "tile.sandstone.chiseled.name"	"Chiseled Sandstone"	"Original Translation
 zh_CN: 錾制砂岩
-zh_TW: 鑿刻砂岩"	""
+zh_TW: 鑿刻砂岩"	"浮雕砂岩"
 "tile.sandstone.cut.name"	"Cut Sandstone"	"Original Translation
 zh_CN: 切制砂岩
 zh_TW: 切割沙岩"	""
@@ -50529,7 +50529,7 @@ zh_CN: 金合欢树苗
 zh_TW: 相思木樹苗"	"相思木樹苗"
 "tile.sapling.big_oak.name"	"Dark Oak Sapling"	"Original Translation
 zh_CN: 深色橡树苗
-zh_TW: 黑橡木樹苗"	""
+zh_TW: 黑橡木樹苗"	"黑橡木樹苗"
 "tile.sapling.birch.name"	"Birch Sapling"	"Original Translation
 zh_CN: 桦树苗
 zh_TW: 樺樹樹苗"	"樺木樹苗"
@@ -50589,7 +50589,7 @@ zh_CN: 棕色潜影盒
 zh_TW: 棕色界伏蚌盒"	""
 "tile.shulkerBoxCyan.name"	"Cyan Shulker Box"	"Original Translation
 zh_CN: 青色潜影盒
-zh_TW: 青綠色界伏蚌盒"	""
+zh_TW: 青綠色界伏蚌盒"	"青色界伏盒"
 "tile.shulkerBoxGray.name"	"Gray Shulker Box"	"Original Translation
 zh_CN: 灰色潜影盒
 zh_TW: 灰色界伏蚌盒"	""
@@ -50727,10 +50727,10 @@ zh_CN: 蓝色玻璃
 zh_TW: 藍色彩繪玻璃"	"藍色玻璃"
 "tile.stained_glass.brown.name"	"Brown Stained Glass"	"Original Translation
 zh_CN: 棕色玻璃
-zh_TW: 棕色彩繪玻璃"	""
+zh_TW: 棕色彩繪玻璃"	"棕色玻璃"
 "tile.stained_glass.cyan.name"	"Cyan Stained Glass"	"Original Translation
 zh_CN: 青色玻璃
-zh_TW: 青綠色彩繪玻璃"	""
+zh_TW: 青綠色彩繪玻璃"	"青色玻璃"
 "tile.stained_glass.gray.name"	"Gray Stained Glass"	"Original Translation
 zh_CN: 灰色玻璃
 zh_TW: 灰色彩繪玻璃"	""
@@ -50775,10 +50775,10 @@ zh_CN: 蓝色玻璃板
 zh_TW: 藍色彩繪玻璃窗格"	"藍色玻璃片"
 "tile.stained_glass_pane.brown.name"	"Brown Stained Glass Pane"	"Original Translation
 zh_CN: 棕色玻璃板
-zh_TW: 棕色彩繪玻璃窗格"	""
+zh_TW: 棕色彩繪玻璃窗格"	"棕色玻璃片"
 "tile.stained_glass_pane.cyan.name"	"Cyan Stained Glass Pane"	"Original Translation
 zh_CN: 青色玻璃板
-zh_TW: 青綠色彩繪玻璃窗格"	""
+zh_TW: 青綠色彩繪玻璃窗格"	"青色玻璃片"
 "tile.stained_glass_pane.gray.name"	"Gray Stained Glass Pane"	"Original Translation
 zh_CN: 灰色玻璃板
 zh_TW: 灰色彩繪玻璃窗格"	""
@@ -50823,10 +50823,10 @@ zh_CN: 蓝色陶瓦
 zh_TW: 藍色陶土"	"藍色陶土"
 "tile.stained_hardened_clay.brown.name"	"Brown Terracotta"	"Original Translation
 zh_CN: 棕色陶瓦
-zh_TW: 棕色陶土"	""
+zh_TW: 棕色陶土"	"棕色陶土"
 "tile.stained_hardened_clay.cyan.name"	"Cyan Terracotta"	"Original Translation
 zh_CN: 青色陶瓦
-zh_TW: 青色陶土"	""
+zh_TW: 青色陶土"	"青色陶土"
 "tile.stained_hardened_clay.gray.name"	"Gray Terracotta"	"Original Translation
 zh_CN: 灰色陶瓦
 zh_TW: 灰色陶土"	""
@@ -50868,7 +50868,7 @@ zh_CN: 黄色陶瓦
 zh_TW: 黃色陶土"	""
 "tile.standing_banner.black.name"	"Black Banner"	"Original Translation
 zh_CN: 黑色旗帜
-zh_TW: 黑色旗幟"	""
+zh_TW: 黑色旗幟"	"黑色旗幟"
 "tile.standing_banner.blue.name"	"Blue Banner"	"Original Translation
 zh_CN: 蓝色旗帜
 zh_TW: 藍色旗幟"	""
@@ -51033,7 +51033,7 @@ zh_CN: 切制红砂岩台阶
 zh_TW: 切製紅砂岩半磚"	""
 "tile.stone_slab4.cut_sandstone.name"	"Cut Sandstone Slab"	"Original Translation
 zh_CN: 切制砂岩台阶
-zh_TW: 切製砂岩半磚"	""
+zh_TW: 切製砂岩半磚"	"切製砂岩半磚"
 "tile.stone_slab4.mossy_stone_brick.name"	"Mossy Stone Brick Slab"	"Original Translation
 zh_CN: 苔石砖台阶
 zh_TW: 青苔石磚塊板"	""
@@ -51045,13 +51045,13 @@ zh_CN: 石台阶
 zh_TW: 石板"	""
 "tile.stone_stairs.name"	"Cobblestone Stairs"	"Original Translation
 zh_CN: 圆石楼梯
-zh_TW: 鵝卵石階梯"	""
+zh_TW: 鵝卵石階梯"	"鵝卵石階梯"
 "tile.stonebrick.chiseled.name"	"Chiseled Stone Bricks"	"Original Translation
 zh_CN: 錾制石砖
 zh_TW: 鑿刻石磚"	""
 "tile.stonebrick.cracked.name"	"Cracked Stone Bricks"	"Original Translation
 zh_CN: 裂纹石砖
-zh_TW: 裂紋石磚"	""
+zh_TW: 裂紋石磚"	"裂紋石磚"
 "tile.stonebrick.default.name"	"Stone Bricks"	"Original Translation
 zh_CN: 石砖
 zh_TW: 石磚塊"	""
@@ -51534,7 +51534,7 @@ zh_CN: 风化雷霆之杖
 zh_TW: 風化避雷針"	""
 "tile.web.name"	"Cobweb"	"Original Translation
 zh_CN: 蜘蛛网
-zh_TW: 蜘蛛網"	""
+zh_TW: 蜘蛛網"	"蜘蛛網"
 "tile.weeping_vines.name"	"Weeping Vines"	"Original Translation
 zh_CN: 垂泪藤
 zh_TW: 哭泣藤蔓"	""
@@ -51546,7 +51546,7 @@ zh_CN: 白色蜡烛
 zh_TW: 白色蠟燭"	""
 "tile.white_candle_cake.name"	"Cake with White Candle"	"Original Translation
 zh_CN: 带白色蜡烛的蛋糕
-zh_TW: 蛋糕與白色蠟燭"	""
+zh_TW: 蛋糕與白色蠟燭"	"插上白色蠟燭的蛋糕"
 "tile.wildflowers.name"	"Wildflowers"	"Original Translation
 zh_CN: 野花
 zh_TW: 野花"	""
@@ -51558,7 +51558,7 @@ zh_CN: 金合欢木
 zh_TW: 相思樹木頭"	"相思木塊"
 "tile.wood.birch.name"	"Birch Wood"	"Original Translation
 zh_CN: 白桦木
-zh_TW: 樺樹木頭"	""
+zh_TW: 樺樹木頭"	"樺木塊"
 "tile.wood.dark_oak.name"	"Dark Oak Wood"	"Original Translation
 zh_CN: 深色橡木
 zh_TW: 黑橡樹木頭"	""
@@ -51600,7 +51600,7 @@ zh_CN: 金合欢木台阶
 zh_TW: 相思木板"	"相思木半磚"
 "tile.wooden_slab.big_oak.name"	"Dark Oak Slab"	"Original Translation
 zh_CN: 深色橡木台阶
-zh_TW: 黑橡木板"	""
+zh_TW: 黑橡木板"	"黑橡木半磚"
 "tile.wooden_slab.birch.name"	"Birch Slab"	"Original Translation
 zh_CN: 白桦木台阶
 zh_TW: 樺木板"	""
@@ -51624,10 +51624,10 @@ zh_CN: 蓝色羊毛
 zh_TW: 藍色羊毛"	""
 "tile.wool.brown.name"	"Brown Wool"	"Original Translation
 zh_CN: 棕色羊毛
-zh_TW: 棕色羊毛"	""
+zh_TW: 棕色羊毛"	"棕色羊毛"
 "tile.wool.cyan.name"	"Cyan Wool"	"Original Translation
 zh_CN: 青色羊毛
-zh_TW: 青綠色羊毛"	""
+zh_TW: 青綠色羊毛"	"青色羊毛"
 "tile.wool.gray.name"	"Gray Wool"	"Original Translation
 zh_CN: 灰色羊毛
 zh_TW: 灰色羊毛"	""
@@ -51672,10 +51672,10 @@ zh_CN: 黄色蜡烛
 zh_TW: 黃色蠟燭"	""
 "tile.yellow_candle_cake.name"	"Cake with Yellow Candle"	"Original Translation
 zh_CN: 带黄色蜡烛的蛋糕
-zh_TW: 蛋糕與黃色蠟燭"	""
+zh_TW: 蛋糕與黃色蠟燭"	"插上黃色蠟燭的蛋糕"
 "tile.yellow_flower.dandelion.name"	"Dandelion"	"Original Translation
 zh_CN: 蒲公英
-zh_TW: 蒲公英"	""
+zh_TW: 蒲公英"	"蒲公英"
 "tile.yellow_flower.name"	"Flower"	"Original Translation
 zh_CN: 花
 zh_TW: 花朵"	""
