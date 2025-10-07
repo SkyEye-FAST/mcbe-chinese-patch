@@ -4916,7 +4916,7 @@ zh_CN: 需要游戏控制器
 zh_TW: 需要遊戲控制器"	""
 "container.barrel"	"Barrel"	"Original Translation
 zh_CN: 木桶
-zh_TW: 木桶"	""
+zh_TW: 木桶"	"木桶"
 "container.beacon"	"Beacon"	"Original Translation
 zh_CN: 信标
 zh_TW: 燈塔"	""
@@ -26717,7 +26717,7 @@ zh_CN: 金合欢木告示牌
 zh_TW: 相思木告示牌"	""
 "item.air.name"	"Air"	"Original Translation
 zh_CN: 空气
-zh_TW: 空氣"	""
+zh_TW: 空氣"	"空氣"
 "item.amethyst_shard.name"	"Amethyst Shard"	"Original Translation
 zh_CN: 紫水晶碎片
 zh_TW: 紫水晶碎片"	""
@@ -26822,16 +26822,16 @@ zh_CN: 黄色气球
 zh_TW: 黃色氣球"	""
 "item.bamboo_door.name"	"Bamboo Door"	"Original Translation
 zh_CN: 竹门
-zh_TW: 竹門"	""
+zh_TW: 竹門"	"竹門"
 "item.bamboo_hanging_sign.name"	"Bamboo Hanging Sign"	"Original Translation
 zh_CN: 竹制悬挂告示牌
-zh_TW: 懸掛式竹告示牌"	""
+zh_TW: 懸掛式竹告示牌"	"懸掛式竹告示牌"
 "item.bamboo_sign.name"	"Bamboo Sign"	"Original Translation
 zh_CN: 竹制告示牌
-zh_TW: 竹子告示牌"	""
+zh_TW: 竹子告示牌"	"竹告示牌"
 "item.banner.black.name"	"Black Banner"	"Original Translation
 zh_CN: 黑色旗帜
-zh_TW: 黑色旗幟"	""
+zh_TW: 黑色旗幟"	"黑色旗幟"
 "item.banner.blue.name"	"Blue Banner"	"Original Translation
 zh_CN: 蓝色旗帜
 zh_TW: 藍色旗幟"	""
@@ -28934,7 +28934,7 @@ zh_CN: 波纹边
 zh_TW: 鋸齒框邊"	""
 "item.bed.black.name"	"Black Bed"	"Original Translation
 zh_CN: 黑床
-zh_TW: 黑色床舖"	""
+zh_TW: 黑色床舖"	"黑色床"
 "item.bed.blue.name"	"Blue Bed"	"Original Translation
 zh_CN: 蓝床
 zh_TW: 藍色床舖"	""
@@ -29003,7 +29003,7 @@ zh_CN: 白桦木悬挂告示牌
 zh_TW: 懸掛式樺木告示牌"	""
 "item.birch_sign.name"	"Birch Sign"	"Original Translation
 zh_CN: 白桦木告示牌
-zh_TW: 樺木告示牌"	""
+zh_TW: 樺木告示牌"	"樺木告示牌"
 "item.black_bundle"	"Black Bundle"	"Original Translation
 zh_CN: 黑色收纳袋
 zh_TW: 黑色組合包"	""
@@ -29033,7 +29033,7 @@ zh_CN: 蓝色挽具
 zh_TW: 藍色挽具"	""
 "item.boat.acacia.name"	"Acacia Boat"	"Original Translation
 zh_CN: 金合欢木船
-zh_TW: 相思木船"	""
+zh_TW: 相思木船"	"相思木船"
 "item.boat.bamboo.name"	"Bamboo Raft"	"Original Translation
 zh_CN: 竹筏
 zh_TW: 竹筏"	""
@@ -47805,10 +47805,10 @@ zh_CN: 金合欢木活板门
 zh_TW: 相思木地板門"	"相思木地板門"
 "tile.activator_rail.name"	"Activator Rail"	"Original Translation
 zh_CN: 激活铁轨
-zh_TW: 觸發鐵軌"	""
+zh_TW: 觸發鐵軌"	"觸發鐵軌"
 "tile.air.name"	"Air"	"Original Translation
 zh_CN: 空气
-zh_TW: 空氣"	""
+zh_TW: 空氣"	"空氣"
 "tile.allow.name"	"Allow"	"Original Translation
 zh_CN: 允许方块
 zh_TW: 允許"	""
@@ -47817,13 +47817,13 @@ zh_CN: 紫水晶方块
 zh_TW: 紫水晶方塊"	""
 "tile.amethyst_cluster.name"	"Amethyst Cluster"	"Original Translation
 zh_CN: 紫水晶簇
-zh_TW: 紫水晶簇"	""
+zh_TW: 紫水晶簇"	"紫水晶晶簇"
 "tile.ancient_debris.name"	"Ancient Debris"	"Original Translation
 zh_CN: 远古残骸
-zh_TW: 古代碎片"	""
+zh_TW: 古代碎片"	"遠古遺骸"
 "tile.andesite_stairs.name"	"Andesite Stairs"	"Original Translation
 zh_CN: 安山岩楼梯
-zh_TW: 安山岩階梯"	""
+zh_TW: 安山岩階梯"	"安山岩階梯"
 "tile.anvil.intact.name"	"Anvil"	"Original Translation
 zh_CN: 铁砧
 zh_TW: 鐵砧"	"鐵砧"
@@ -47838,64 +47838,64 @@ zh_CN: 损坏的铁砧
 zh_TW: 損壞的鐵砧"	""
 "tile.azalea.name"	"Azalea"	"Original Translation
 zh_CN: 杜鹃花
-zh_TW: 杜鵑花"	""
+zh_TW: 杜鵑花"	"杜鵑叢"
 "tile.azalea_leaves.name"	"Azalea Leaves"	"Original Translation
 zh_CN: 杜鹃花叶
-zh_TW: 杜鵑花樹葉"	""
+zh_TW: 杜鵑花樹葉"	"杜鵑葉"
 "tile.azalea_leaves_flowered.name"	"Flowering Azalea Leaves"	"Original Translation
 zh_CN: 盛开的杜鹃花树叶
 zh_TW: 盛開的杜鵑花樹葉"	""
 "tile.bamboo.name"	"Bamboo"	"Original Translation
 zh_CN: 竹子
-zh_TW: 竹子"	""
+zh_TW: 竹子"	"竹子"
 "tile.bamboo_block.name"	"Block of Bamboo"	"Original Translation
 zh_CN: 竹子方块
 zh_TW: 竹子方塊"	""
 "tile.bamboo_button.name"	"Bamboo Button"	"Original Translation
 zh_CN: 竹制按钮
-zh_TW: 竹子按鈕"	""
+zh_TW: 竹子按鈕"	"竹按鈕"
 "tile.bamboo_fence.name"	"Bamboo Fence"	"Original Translation
 zh_CN: 竹制围墙
-zh_TW: 竹子柵欄"	""
+zh_TW: 竹子柵欄"	"竹柵欄"
 "tile.bamboo_fence_gate.name"	"Bamboo Fence Gate"	"Original Translation
 zh_CN: 竹制围墙大门
-zh_TW: 竹子柵欄門"	""
+zh_TW: 竹子柵欄門"	"竹柵欄門"
 "tile.bamboo_hanging_sign.name"	"Bamboo Hanging Sign"	"Original Translation
 zh_CN: 竹制悬挂告示牌
-zh_TW: 懸掛式竹告示牌"	""
+zh_TW: 懸掛式竹告示牌"	"懸掛式竹告示牌"
 "tile.bamboo_mosaic.name"	"Bamboo Mosaic"	"Original Translation
 zh_CN: 竹制马赛克
-zh_TW: 竹子馬賽克"	""
+zh_TW: 竹子馬賽克"	"竹拼塊"
 "tile.bamboo_mosaic_slab.name"	"Bamboo Mosaic Slab"	"Original Translation
 zh_CN: 竹制马赛克台阶
 zh_TW: 竹子馬賽克板"	""
 "tile.bamboo_mosaic_stairs.name"	"Bamboo Mosaic Stairs"	"Original Translation
 zh_CN: 竹制马赛克楼梯
-zh_TW: 竹子馬賽克階梯"	""
+zh_TW: 竹子馬賽克階梯"	"竹拼階梯"
 "tile.bamboo_planks.name"	"Bamboo Planks"	"Original Translation
 zh_CN: 竹板
-zh_TW: 竹材"	""
+zh_TW: 竹材"	"竹材"
 "tile.bamboo_pressure_plate.name"	"Bamboo Pressure Plate"	"Original Translation
 zh_CN: 竹制压力板
-zh_TW: 竹子壓板"	""
+zh_TW: 竹子壓板"	"竹壓力板"
 "tile.bamboo_sapling.name"	"Bamboo Sapling"	"Original Translation
 zh_CN: 竹苗
 zh_TW: 竹子樹苗"	""
 "tile.bamboo_shelf.name"	"Bamboo Shelf"	"Original Translation
 zh_CN: 竹架
-zh_TW: 竹架子"	""
+zh_TW: 竹架子"	"竹展示架"
 "tile.bamboo_slab.name"	"Bamboo Slab"	"Original Translation
 zh_CN: 竹制台阶
-zh_TW: 竹板"	""
+zh_TW: 竹板"	"竹半磚"
 "tile.bamboo_stairs.name"	"Bamboo Stairs"	"Original Translation
 zh_CN: 竹制楼梯
-zh_TW: 竹子階梯"	""
+zh_TW: 竹子階梯"	"竹階梯"
 "tile.bamboo_standing_sign.name"	"Bamboo Sign"	"Original Translation
 zh_CN: 竹制告示牌
 zh_TW: 竹子告示牌"	""
 "tile.bamboo_trapdoor.name"	"Bamboo Trapdoor"	"Original Translation
 zh_CN: 竹制活板门
-zh_TW: 竹子地板門"	""
+zh_TW: 竹子地板門"	"竹地板門"
 "tile.barrel.name"	"Barrel"	"Original Translation
 zh_CN: 木桶
 zh_TW: 木桶"	""
@@ -47904,7 +47904,7 @@ zh_CN: 屏障
 zh_TW: 屏障"	""
 "tile.basalt.name"	"Basalt"	"Original Translation
 zh_CN: 玄武岩
-zh_TW: 玄武岩"	""
+zh_TW: 玄武岩"	"玄武岩"
 "tile.beacon.name"	"Beacon"	"Original Translation
 zh_CN: 信标
 zh_TW: 燈塔"	""
@@ -47949,10 +47949,10 @@ zh_CN: 基岩
 zh_TW: 基岩"	""
 "tile.bee_nest.name"	"Bee Nest"	"Original Translation
 zh_CN: 蜂巢
-zh_TW: 蜂巢"	""
+zh_TW: 蜂巢"	"蜂窩"
 "tile.beehive.name"	"Beehive"	"Original Translation
 zh_CN: 蜂箱
-zh_TW: 蜂箱"	""
+zh_TW: 蜂箱"	"蜂箱"
 "tile.beetroot.name"	"Beetroot"	"Original Translation
 zh_CN: 甜菜根
 zh_TW: 甜菜根"	""
@@ -47961,10 +47961,10 @@ zh_CN: 钟
 zh_TW: 鐘"	""
 "tile.big_dripleaf.name"	"Big Dripleaf"	"Original Translation
 zh_CN: 大型垂滴叶
-zh_TW: 大垂滴葉"	""
+zh_TW: 大垂滴葉"	"大懸葉草"
 "tile.birchFence.name"	"Birch Fence"	"Original Translation
 zh_CN: 白桦木栅栏
-zh_TW: 樺木柵欄"	""
+zh_TW: 樺木柵欄"	"樺木柵欄"
 "tile.birch_button.name"	"Birch Button"	"Original Translation
 zh_CN: 白桦木按钮
 zh_TW: 樺木按鈕"	""
@@ -47982,22 +47982,22 @@ zh_CN: 桦树木架
 zh_TW: 樺木架子"	""
 "tile.birch_stairs.name"	"Birch Stairs"	"Original Translation
 zh_CN: 白桦木楼梯
-zh_TW: 樺木階梯"	""
+zh_TW: 樺木階梯"	"樺木階梯"
 "tile.birch_standing_sign.name"	"Birch Sign"	"Original Translation
 zh_CN: 白桦木告示牌
 zh_TW: 樺木告示牌"	""
 "tile.birch_trapdoor.name"	"Birch Trapdoor"	"Original Translation
 zh_CN: 白桦木活板门
-zh_TW: 樺木地板門"	""
+zh_TW: 樺木地板門"	"樺木地板門"
 "tile.black_candle.name"	"Black Candle"	"Original Translation
 zh_CN: 黑色蜡烛
-zh_TW: 黑色蠟燭"	""
+zh_TW: 黑色蠟燭"	"黑色蠟燭"
 "tile.black_candle_cake.name"	"Cake with Black Candle"	"Original Translation
 zh_CN: 带黑色蜡烛的蛋糕
 zh_TW: 蛋糕與黑色蠟燭"	""
 "tile.blackstone.name"	"Blackstone"	"Original Translation
 zh_CN: 黑石
-zh_TW: 黑石"	""
+zh_TW: 黑石"	"黑石"
 "tile.blackstone_slab.name"	"Blackstone Slab"	"Original Translation
 zh_CN: 黑石台阶
 zh_TW: 黑石板"	""
@@ -48018,13 +48018,13 @@ zh_CN: 带蓝色蜡烛的蛋糕
 zh_TW: 蛋糕與藍色蠟燭"	""
 "tile.blue_ice.name"	"Blue Ice"	"Original Translation
 zh_CN: 蓝冰
-zh_TW: 藍冰"	""
+zh_TW: 藍冰"	"藍冰"
 "tile.bone_block.name"	"Bone Block"	"Original Translation
 zh_CN: 骨块
-zh_TW: 骨頭方塊"	""
+zh_TW: 骨頭方塊"	"骨塊"
 "tile.bookshelf.name"	"Bookshelf"	"Original Translation
 zh_CN: 书架
-zh_TW: 書架"	""
+zh_TW: 書架"	"書櫃"
 "tile.border_block.name"	"Border"	"Original Translation
 zh_CN: 边界方块
 zh_TW: 邊界"	""
@@ -48087,7 +48087,7 @@ zh_CN: 带蜡烛的蛋糕
 zh_TW: 蛋糕與蠟燭"	""
 "tile.carpet.black.name"	"Black Carpet"	"Original Translation
 zh_CN: 黑色地毯
-zh_TW: 黑色地毯"	""
+zh_TW: 黑色地毯"	"黑色地毯"
 "tile.carpet.blue.name"	"Blue Carpet"	"Original Translation
 zh_CN: 蓝色地毯
 zh_TW: 藍色地毯"	""
@@ -48285,7 +48285,7 @@ zh_CN: 圆石
 zh_TW: 鵝卵石"	""
 "tile.cobblestone_wall.andesite.name"	"Andesite Wall"	"Original Translation
 zh_CN: 安山岩墙
-zh_TW: 安山岩牆"	""
+zh_TW: 安山岩牆"	"安山岩牆"
 "tile.cobblestone_wall.brick.name"	"Brick Wall"	"Original Translation
 zh_CN: 砖墙
 zh_TW: 磚牆"	""
@@ -48399,7 +48399,7 @@ zh_CN: 黄色混凝土
 zh_TW: 黃色混凝土"	""
 "tile.concretePowder.black.name"	"Black Concrete Powder"	"Original Translation
 zh_CN: 黑色混凝土粉末
-zh_TW: 黑色混凝土粉末"	""
+zh_TW: 黑色混凝土粉末"	"黑色混凝土粉末"
 "tile.concretePowder.blue.name"	"Blue Concrete Powder"	"Original Translation
 zh_CN: 蓝色混凝土粉末
 zh_TW: 藍色混凝土粉末"	""
@@ -48492,7 +48492,7 @@ zh_CN: 失活的管珊瑚
 zh_TW: 死亡管狀珊瑚"	""
 "tile.coral.pink.name"	"Brain Coral"	"Original Translation
 zh_CN: 脑纹珊瑚
-zh_TW: 腦狀珊瑚"	""
+zh_TW: 腦狀珊瑚"	"腦珊瑚"
 "tile.coral.pink_dead.name"	"Dead Brain Coral"	"Original Translation
 zh_CN: 失活的脑纹珊瑚
 zh_TW: 死亡腦狀珊瑚"	""
@@ -48549,7 +48549,7 @@ zh_CN: 管珊瑚扇
 zh_TW: 管狀珊瑚扇"	""
 "tile.coral_fan.pink_fan.name"	"Brain Coral Fan"	"Original Translation
 zh_CN: 脑纹珊瑚扇
-zh_TW: 腦狀珊瑚扇"	""
+zh_TW: 腦狀珊瑚扇"	"扇狀腦珊瑚"
 "tile.coral_fan.purple_fan.name"	"Bubble Coral Fan"	"Original Translation
 zh_CN: 气泡珊瑚扇
 zh_TW: 氣泡珊瑚扇"	""
@@ -49782,7 +49782,7 @@ zh_CN: 深色橡树原木
 zh_TW: 黑橡樹原木"	""
 "tile.log.birch.name"	"Birch Log"	"Original Translation
 zh_CN: 桦树原木
-zh_TW: 樺樹原木"	""
+zh_TW: 樺樹原木"	"樺木原木"
 "tile.log.jungle.name"	"Jungle Log"	"Original Translation
 zh_CN: 丛林原木
 zh_TW: 叢林原木"	""
@@ -50142,7 +50142,7 @@ zh_CN: 猪笼草
 zh_TW: 豬籠草"	""
 "tile.planks.acacia.name"	"Acacia Planks"	"Original Translation
 zh_CN: 金合欢木板
-zh_TW: 相思木材"	""
+zh_TW: 相思木材"	"相思木材"
 "tile.planks.big_oak.name"	"Dark Oak Planks"	"Original Translation
 zh_CN: 深色橡木板
 zh_TW: 黑橡木材"	""
@@ -50328,16 +50328,16 @@ zh_CN: 带红色蜡烛的蛋糕
 zh_TW: 蛋糕與紅色蠟燭"	""
 "tile.red_flower.allium.name"	"Allium"	"Original Translation
 zh_CN: 绒球葱
-zh_TW: 紫紅球花"	""
+zh_TW: 紫紅球花"	"紫紅球花"
 "tile.red_flower.blueOrchid.name"	"Blue Orchid"	"Original Translation
 zh_CN: 兰花
-zh_TW: 藍色蝴蝶蘭"	""
+zh_TW: 藍色蝴蝶蘭"	"藍色蝴蝶蘭"
 "tile.red_flower.cornflower.name"	"Cornflower"	"Original Translation
 zh_CN: 矢车菊
 zh_TW: 矢車菊"	""
 "tile.red_flower.houstonia.name"	"Azure Bluet"	"Original Translation
 zh_CN: 蓝花美耳草
-zh_TW: 雛草"	""
+zh_TW: 雛草"	"雛草"
 "tile.red_flower.lilyOfTheValley.name"	"Lily of the Valley"	"Original Translation
 zh_CN: 铃兰
 zh_TW: 空谷百合"	""
@@ -50475,13 +50475,13 @@ zh_CN: 砂岩楼梯
 zh_TW: 沙岩階梯"	""
 "tile.sapling.acacia.name"	"Acacia Sapling"	"Original Translation
 zh_CN: 金合欢树苗
-zh_TW: 相思木樹苗"	""
+zh_TW: 相思木樹苗"	"相思木樹苗"
 "tile.sapling.big_oak.name"	"Dark Oak Sapling"	"Original Translation
 zh_CN: 深色橡树苗
 zh_TW: 黑橡木樹苗"	""
 "tile.sapling.birch.name"	"Birch Sapling"	"Original Translation
 zh_CN: 桦树苗
-zh_TW: 樺樹樹苗"	""
+zh_TW: 樺樹樹苗"	"樺木樹苗"
 "tile.sapling.jungle.name"	"Jungle Sapling"	"Original Translation
 zh_CN: 丛林树苗
 zh_TW: 叢林木樹苗"	""
@@ -50529,10 +50529,10 @@ zh_CN: 潜影盒
 zh_TW: 界伏蚌盒"	""
 "tile.shulkerBoxBlack.name"	"Black Shulker Box"	"Original Translation
 zh_CN: 黑色潜影盒
-zh_TW: 黑色界伏蚌盒"	""
+zh_TW: 黑色界伏蚌盒"	"黑色界伏盒"
 "tile.shulkerBoxBlue.name"	"Blue Shulker Box"	"Original Translation
 zh_CN: 蓝色潜影盒
-zh_TW: 藍色界伏蚌盒"	""
+zh_TW: 藍色界伏蚌盒"	"藍色界伏盒"
 "tile.shulkerBoxBrown.name"	"Brown Shulker Box"	"Original Translation
 zh_CN: 棕色潜影盒
 zh_TW: 棕色界伏蚌盒"	""
@@ -50670,10 +50670,10 @@ zh_CN: 云杉木活板门
 zh_TW: 杉木地板門"	""
 "tile.stained_glass.black.name"	"Black Stained Glass"	"Original Translation
 zh_CN: 黑色玻璃
-zh_TW: 黑色彩繪玻璃"	""
+zh_TW: 黑色彩繪玻璃"	"黑色玻璃"
 "tile.stained_glass.blue.name"	"Blue Stained Glass"	"Original Translation
 zh_CN: 蓝色玻璃
-zh_TW: 藍色彩繪玻璃"	""
+zh_TW: 藍色彩繪玻璃"	"藍色玻璃"
 "tile.stained_glass.brown.name"	"Brown Stained Glass"	"Original Translation
 zh_CN: 棕色玻璃
 zh_TW: 棕色彩繪玻璃"	""
@@ -50718,10 +50718,10 @@ zh_CN: 黄色玻璃
 zh_TW: 黃色彩繪玻璃"	""
 "tile.stained_glass_pane.black.name"	"Black Stained Glass Pane"	"Original Translation
 zh_CN: 黑色玻璃板
-zh_TW: 黑色彩繪玻璃窗格"	""
+zh_TW: 黑色彩繪玻璃窗格"	"黑色玻璃片"
 "tile.stained_glass_pane.blue.name"	"Blue Stained Glass Pane"	"Original Translation
 zh_CN: 蓝色玻璃板
-zh_TW: 藍色彩繪玻璃窗格"	""
+zh_TW: 藍色彩繪玻璃窗格"	"藍色玻璃片"
 "tile.stained_glass_pane.brown.name"	"Brown Stained Glass Pane"	"Original Translation
 zh_CN: 棕色玻璃板
 zh_TW: 棕色彩繪玻璃窗格"	""
@@ -50766,10 +50766,10 @@ zh_CN: 黄色玻璃板
 zh_TW: 黃色彩繪玻璃窗格"	""
 "tile.stained_hardened_clay.black.name"	"Black Terracotta"	"Original Translation
 zh_CN: 黑色陶瓦
-zh_TW: 黑色陶土"	""
+zh_TW: 黑色陶土"	"黑色陶土"
 "tile.stained_hardened_clay.blue.name"	"Blue Terracotta"	"Original Translation
 zh_CN: 蓝色陶瓦
-zh_TW: 藍色陶土"	""
+zh_TW: 藍色陶土"	"藍色陶土"
 "tile.stained_hardened_clay.brown.name"	"Brown Terracotta"	"Original Translation
 zh_CN: 棕色陶瓦
 zh_TW: 棕色陶土"	""
@@ -50874,7 +50874,7 @@ zh_CN: 黏性活塞
 zh_TW: 黏性活塞"	""
 "tile.stone.andesite.name"	"Andesite"	"Original Translation
 zh_CN: 安山岩
-zh_TW: 安山岩"	""
+zh_TW: 安山岩"	"安山岩"
 "tile.stone.andesiteSmooth.name"	"Polished Andesite"	"Original Translation
 zh_CN: 磨制安山岩
 zh_TW: 拋光安山岩"	""
@@ -50955,7 +50955,7 @@ zh_CN: 平滑砂岩台阶
 zh_TW: 平滑砂岩半磚"	""
 "tile.stone_slab3.andesite.name"	"Andesite Slab"	"Original Translation
 zh_CN: 安山岩台阶
-zh_TW: 安山岩板"	""
+zh_TW: 安山岩板"	"安山岩半磚"
 "tile.stone_slab3.andesite.smooth.name"	"Polished Andesite Slab"	"Original Translation
 zh_CN: 磨制安山岩台阶
 zh_TW: 拋光安山岩板"	""
@@ -51567,7 +51567,7 @@ zh_CN: 云杉木台阶
 zh_TW: 杉木板"	""
 "tile.wool.black.name"	"Black Wool"	"Original Translation
 zh_CN: 黑色羊毛
-zh_TW: 黑色羊毛"	""
+zh_TW: 黑色羊毛"	"黑色羊毛"
 "tile.wool.blue.name"	"Blue Wool"	"Original Translation
 zh_CN: 蓝色羊毛
 zh_TW: 藍色羊毛"	""
