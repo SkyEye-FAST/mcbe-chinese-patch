@@ -26708,10 +26708,10 @@ zh_CN: 邀请成员加入您的 Realm 服务器
 zh_TW: 邀請成員加入您的 Realm 伺服器"	""
 "item.acacia_door.name"	"Acacia Door"	"Original Translation
 zh_CN: 金合欢木门
-zh_TW: 相思木門"	""
+zh_TW: 相思木門"	"相思木門"
 "item.acacia_hanging_sign.name"	"Acacia Hanging Sign"	"Original Translation
 zh_CN: 金合欢悬挂告示牌
-zh_TW: 懸掛式相思木告示牌"	""
+zh_TW: 懸掛式相思木告示牌"	"懸掛式相思木告示牌"
 "item.acacia_sign.name"	"Acacia Sign"	"Original Translation
 zh_CN: 金合欢木告示牌
 zh_TW: 相思木告示牌"	""
@@ -47778,13 +47778,13 @@ zh_CN: 立即开玩！
 zh_TW: 馬上玩！"	""
 "tile.acaciaFence.name"	"Acacia Fence"	"Original Translation
 zh_CN: 金合欢木栅栏
-zh_TW: 相思木柵欄"	""
+zh_TW: 相思木柵欄"	"相思木柵欄"
 "tile.acacia_button.name"	"Acacia Button"	"Original Translation
 zh_CN: 金合欢木按钮
-zh_TW: 相思木按鈕"	""
+zh_TW: 相思木按鈕"	"相思木按鈕"
 "tile.acacia_fence_gate.name"	"Acacia Fence Gate"	"Original Translation
 zh_CN: 金合欢木栅栏门
-zh_TW: 相思木柵欄門"	""
+zh_TW: 相思木柵欄門"	"相思木柵欄門"
 "tile.acacia_hanging_sign.name"	"Acacia Hanging Sign"	"Original Translation
 zh_CN: 金合欢悬挂告示牌
 zh_TW: 懸掛式相思木告示牌"	""
@@ -51504,7 +51504,7 @@ zh_CN: 凋零玫瑰
 zh_TW: 凋靈玫瑰"	""
 "tile.wood.acacia.name"	"Acacia Wood"	"Original Translation
 zh_CN: 金合欢木
-zh_TW: 相思樹木頭"	""
+zh_TW: 相思樹木頭"	"相思木塊"
 "tile.wood.birch.name"	"Birch Wood"	"Original Translation
 zh_CN: 白桦木
 zh_TW: 樺樹木頭"	""
@@ -51546,7 +51546,7 @@ zh_CN: 橡木压力板
 zh_TW: 橡木壓板"	""
 "tile.wooden_slab.acacia.name"	"Acacia Slab"	"Original Translation
 zh_CN: 金合欢木台阶
-zh_TW: 相思木板"	""
+zh_TW: 相思木板"	"相思木半磚"
 "tile.wooden_slab.big_oak.name"	"Dark Oak Slab"	"Original Translation
 zh_CN: 深色橡木台阶
 zh_TW: 黑橡木板"	""
