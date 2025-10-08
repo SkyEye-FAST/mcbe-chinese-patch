@@ -55,55 +55,55 @@ zh_CN: 右箭头
 zh_TW: 向右鍵"	"向右鍵"
 "accessibility.button.recipebook.layout"	"Recipe book and inventory view"	"Original Translation
 zh_CN: 配方书和物品栏视图
-zh_TW: 配方書和物品欄檢視"	""
+zh_TW: 配方書和物品欄檢視"	"配方指南和物品欄檢視"
 "accessibility.button.sort"	"Sort"	"Original Translation
 zh_CN: 排序
-zh_TW: 排序"	""
+zh_TW: 排序"	"排序"
 "accessibility.button.survival.layout"	"Inventory view"	"Original Translation
 zh_CN: 物品栏视图
-zh_TW: 物品欄檢視"	""
+zh_TW: 物品欄檢視"	"物品欄檢視"
 "accessibility.button.tts.title"	"Button"	"Original Translation
 zh_CN: 按钮
-zh_TW: 按鈕"	""
+zh_TW: 按鈕"	"按鈕"
 "accessibility.chat.howtoemote"	"Press or Hold %s to Emote"	"Original Translation
 zh_CN: 按或按住 %s 发表情
-zh_TW: 按住 %s 以顯示表情符號"	""
+zh_TW: 按住 %s 以顯示表情符號"	"按住 %s 以顯示表情"
 "accessibility.chat.howtoopen"	"Press %s to open chat"	"Original Translation
 zh_CN: 按 %s 打开聊天
-zh_TW: 按 %s 開啟聊天"	""
+zh_TW: 按 %s 開啟聊天"	"按%s開啟聊天"
 "accessibility.chat.tts.gamepad.back"	"Press the %s to go back"	"Original Translation
 zh_CN: 按下 %s 返回
-zh_TW: 按 %s 返回"	""
+zh_TW: 按 %s 返回"	"按%s返回"
 "accessibility.chat.tts.gamepad.exitChat"	"Press the %s to exit chat"	"Original Translation
 zh_CN: 按下 %s 退出聊天
-zh_TW: 按 %s 退出聊天"	""
+zh_TW: 按 %s 退出聊天"	"按%s退出聊天"
 "accessibility.chat.tts.gamepad.sendMessage"	"Press the %s to send message"	"Original Translation
 zh_CN: 按下 %s 发送消息
-zh_TW: 按 %s 發送消息"	""
+zh_TW: 按 %s 發送消息"	"按%s發送消息"
 "accessibility.chat.tts.hideChat"	"Hide chat"	"Original Translation
 zh_CN: 隐藏聊天
-zh_TW: 隱藏聊天"	""
+zh_TW: 隱藏聊天"	"隱藏聊天"
 "accessibility.chat.tts.keyboard"	"Keyboard"	"Original Translation
 zh_CN: 键盘
-zh_TW: 鍵盤"	""
+zh_TW: 鍵盤"	"鍵盤"
 "accessibility.chat.tts.muteChatToggle"	"Mute All"	"Original Translation
 zh_CN: 全部静音
-zh_TW: 全部靜音"	""
+zh_TW: 全部靜音"	"全部靜音"
 "accessibility.chat.tts.says"	"%s says %s"	"Original Translation
 zh_CN: %s 说 %s
-zh_TW: %s 說 %s"	""
+zh_TW: %s 說 %s"	"%s說%s"
 "accessibility.chat.tts.sendChatMessage"	"Send"	"Original Translation
 zh_CN: 发送
-zh_TW: 傳送"	""
+zh_TW: 傳送"	"傳送"
 "accessibility.chat.tts.textboxTitle"	"Chat"	"Original Translation
 zh_CN: 聊天
-zh_TW: 聊天"	""
+zh_TW: 聊天"	"聊天"
 "accessibility.checkbox.tts.status"	"status %s"	"Original Translation
 zh_CN: 状态 %s
-zh_TW: 狀態 %s"	""
+zh_TW: 狀態 %s"	"狀態%s"
 "accessibility.checkbox.tts.title"	"Checkbox"	"Original Translation
 zh_CN: 复选框
-zh_TW: 核取方塊"	""
+zh_TW: 核取方塊"	"核取方塊"
 "accessibility.controllerLayoutScreen.buttonBoundTo"	"%s button: %s"	"Original Translation
 zh_CN: %s 按钮：%s
 zh_TW: %s 按鈕：%s"	""
