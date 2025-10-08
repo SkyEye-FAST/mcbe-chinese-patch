@@ -1,4 +1,22 @@
 ## resource_packs/vanilla/texts/en_US.lang
+3d_export.export=匯出
+3d_export.include=加入
+3d_export.include_players=加入玩家：
+3d_export.off=關閉
+3d_export.remixServiceDiscontinued=注意：Remix3D 上傳服務已不再提供，使用「匯出」即可改為本機儲存。
+3d_export.remove=移除
+3d_export.remove_blocks=移除方塊：
+3d_export.reset=重置
+3d_export.show=顯示
+3d_export.title=3D匯出
+accessibility.button.back=返回
+accessibility.button.close=關閉
+accessibility.button.creative.layout=配方指南檢視
+accessibility.button.exit=離開
+accessibility.button.filter=篩選
+accessibility.button.filter.appliedCount=已套用「%s」
+accessibility.button.navigateLeft=向左鍵
+accessibility.button.navigateRight=向右鍵
 entity.breeze_wind_charge_projectile.name=風彈
 entity.wind_charge_projectile.name=風彈
 tile.acaciaFence.name=相思木欄杆
@@ -238,6 +256,18 @@ tile.double_plant.name=植物
 tile.double_plant.paeonia.name=牡丹花
 tile.double_plant.rose.name=玫瑰叢
 tile.double_plant.sunflower.name=向日葵
+tile.double_stone_slab.brick.name=紅磚半磚
+tile.double_stone_slab.cobble.name=碎石半磚
+tile.double_stone_slab.name=石頭半磚
+tile.double_stone_slab.nether_brick.name=地獄磚半磚
+tile.double_stone_slab.quartz.name=石英半磚
+tile.double_stone_slab.sand.name=砂岩半磚
+tile.double_stone_slab.smoothStoneBrick.name=石磚半磚
+tile.double_stone_slab.stone.name=石頭半磚
+tile.double_stone_slab.wood.name=木半磚
+tile.double_stone_slab2.red_sandstone.name="紅砂岩半磚
+tile.dragon_egg.name=龍蛋
+tile.dried_ghast.name=脱水幽靈
 
 ## resource_packs/chemistry/texts/en_US.lang
 tile.chemical_heat.name=加熱塊
