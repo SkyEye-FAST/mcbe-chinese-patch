@@ -1,58 +1,58 @@
 "Key"	"Source string"	"Context"	"Translation"
 "3d_export.export"	"Export"	"Original Translation
 zh_CN: 导出
-zh_TW: 匯出"	""
+zh_TW: 匯出"	"匯出"
 "3d_export.include"	"Include"	"Original Translation
 zh_CN: 包含
-zh_TW: 加入"	""
+zh_TW: 加入"	"加入"
 "3d_export.include_players"	"Include Players:"	"Original Translation
 zh_CN: 包含玩家：
-zh_TW: 加入玩家："	""
+zh_TW: 加入玩家："	"加入玩家："
 "3d_export.off"	"Off"	"Original Translation
 zh_CN: 关闭
-zh_TW: 關閉"	""
+zh_TW: 關閉"	"關閉"
 "3d_export.remixServiceDiscontinued"	"Note: Remix3D Upload service is no longer available, use Export to save locally instead."	"Original Translation
 zh_CN: 注意：Remix3D 上传服务不再可用，请使用“导出”来进行本地保存。
-zh_TW: 注意：Remix3D 上傳服務已不再提供，使用「匯出」即可改為本機儲存。"	""
+zh_TW: 注意：Remix3D 上傳服務已不再提供，使用「匯出」即可改為本機儲存。"	"注意：Remix3D 上傳服務已不再提供，使用「匯出」即可改為本機儲存。"
 "3d_export.remove"	"Remove"	"Original Translation
 zh_CN: 移除
-zh_TW: 移除"	""
+zh_TW: 移除"	"移除"
 "3d_export.remove_blocks"	"Remove Blocks:"	"Original Translation
 zh_CN: 移除方块：
-zh_TW: 移除方塊："	""
+zh_TW: 移除方塊："	"移除方塊："
 "3d_export.reset"	"Reset"	"Original Translation
 zh_CN: 重置
-zh_TW: 重置"	""
+zh_TW: 重置"	"重置"
 "3d_export.show"	"Show"	"Original Translation
 zh_CN: 显示
-zh_TW: 顯示"	""
+zh_TW: 顯示"	"顯示"
 "3d_export.title"	"3D Export"	"Original Translation
 zh_CN: 3D 导出
-zh_TW: 3D 匯出"	""
+zh_TW: 3D 匯出"	"3D匯出"
 "accessibility.button.back"	"back"	"Original Translation
 zh_CN: 返回
-zh_TW: 返回"	""
+zh_TW: 返回"	"返回"
 "accessibility.button.close"	"close"	"Original Translation
 zh_CN: 关闭
-zh_TW: 關閉"	""
+zh_TW: 關閉"	"關閉"
 "accessibility.button.creative.layout"	"Recipe book view"	"Original Translation
 zh_CN: 配方书视图
-zh_TW: 配方書檢視"	""
+zh_TW: 配方書檢視"	"配方指南檢視"
 "accessibility.button.exit"	"Exit"	"Original Translation
 zh_CN: 退出
-zh_TW: 離開"	""
+zh_TW: 離開"	"離開"
 "accessibility.button.filter"	"Filter"	"Original Translation
 zh_CN: 筛选
-zh_TW: 篩選"	""
+zh_TW: 篩選"	"篩選"
 "accessibility.button.filter.appliedCount"	"%s Applied"	"Original Translation
 zh_CN: %s 已应用
-zh_TW: 已套用「%s」"	""
+zh_TW: 已套用「%s」"	"已套用「%s」"
 "accessibility.button.navigateLeft"	"Left Arrow"	"Original Translation
 zh_CN: 左箭头
-zh_TW: 向左鍵"	""
+zh_TW: 向左鍵"	"向左鍵"
 "accessibility.button.navigateRight"	"Right Arrow"	"Original Translation
 zh_CN: 右箭头
-zh_TW: 向右鍵"	""
+zh_TW: 向右鍵"	"向右鍵"
 "accessibility.button.recipebook.layout"	"Recipe book and inventory view"	"Original Translation
 zh_CN: 配方书和物品栏视图
 zh_TW: 配方書和物品欄檢視"	""
@@ -48822,40 +48822,40 @@ zh_CN: 丁香
 zh_TW: 紫丁香"	""
 "tile.double_stone_slab.brick.name"	"Brick Slab"	"Original Translation
 zh_CN: 砖台阶
-zh_TW: 磚塊板"	""
+zh_TW: 磚塊板"	"紅磚半磚"
 "tile.double_stone_slab.cobble.name"	"Cobblestone Slab"	"Original Translation
 zh_CN: 圆石台阶
-zh_TW: 鵝卵石板"	""
+zh_TW: 鵝卵石板"	"碎石半磚"
 "tile.double_stone_slab.name"	"Stone Slab"	"Original Translation
 zh_CN: 石台阶
-zh_TW: 石板"	""
+zh_TW: 石板"	"石頭半磚"
 "tile.double_stone_slab.nether_brick.name"	"Nether Brick Slab"	"Original Translation
 zh_CN: 下界砖台阶
-zh_TW: 地獄磚塊板"	""
+zh_TW: 地獄磚塊板"	"地獄磚半磚"
 "tile.double_stone_slab.quartz.name"	"Quartz Slab"	"Original Translation
 zh_CN: 石英台阶
-zh_TW: 石英板"	""
+zh_TW: 石英板"	"石英半磚"
 "tile.double_stone_slab.sand.name"	"Sandstone Slab"	"Original Translation
 zh_CN: 砂岩台阶
-zh_TW: 砂岩半磚"	""
+zh_TW: 砂岩半磚"	"砂岩半磚"
 "tile.double_stone_slab.smoothStoneBrick.name"	"Stone Brick Slab"	"Original Translation
 zh_CN: 石砖台阶
-zh_TW: 石磚塊板"	""
+zh_TW: 石磚塊板"	"石磚半磚"
 "tile.double_stone_slab.stone.name"	"Stone Slab"	"Original Translation
 zh_CN: 石台阶
-zh_TW: 石板"	""
+zh_TW: 石板"	"石頭半磚"
 "tile.double_stone_slab.wood.name"	"Wooden Slab"	"Original Translation
 zh_CN: 木台阶
-zh_TW: 木板"	""
+zh_TW: 木板"	"木半磚"
 "tile.double_stone_slab2.red_sandstone.name"	"Red Sandstone Slab"	"Original Translation
 zh_CN: 红砂岩台阶
-zh_TW: 紅砂岩半磚"	""
+zh_TW: 紅砂岩半磚"	"""紅砂岩半磚"
 "tile.dragon_egg.name"	"Dragon Egg"	"Original Translation
 zh_CN: 龙蛋
-zh_TW: 龍蛋"	""
+zh_TW: 龍蛋"	"龍蛋"
 "tile.dried_ghast.name"	"Dried Ghast"	"Original Translation
 zh_CN: 脱水恶魂
-zh_TW: 乾枯地獄幽靈"	""
+zh_TW: 乾枯地獄幽靈"	"脱水幽靈"
 "tile.dried_kelp_block.name"	"Dried Kelp Block"	"Original Translation
 zh_CN: 干海带块
 zh_TW: 乾海帶方塊"	""
