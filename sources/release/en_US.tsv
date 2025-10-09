@@ -11331,7 +11331,7 @@ hbui.BackButton.back	Back	"Original Translation
 zh_CN: 返回
 zh_TW: 返回"
 hbui.BackButton.narration.backButton	Back button	"Original Translation
-zh_CN: 返回按钮
+zh_CN: 返回键
 zh_TW: 返回按鈕"
 hbui.BackButton.narrationComponentType	Button	"Original Translation
 zh_CN: 按钮
@@ -11526,10 +11526,10 @@ hbui.BaseDropdown.selected	Selected	"Original Translation
 zh_CN: 已选择
 zh_TW: 已選取"
 hbui.BaseDropdown.stateCollapsed	Collapsed	"Original Translation
-zh_CN: 崩溃的
+zh_CN: 已折叠
 zh_TW: 已摺疊"
 hbui.BaseDropdown.stateExpanded	Expanded	"Original Translation
-zh_CN: 扩展的
+zh_CN: 已扩展
 zh_TW: 已展開"
 hbui.BaseDropdown.toggleElementType	Option	"Original Translation
 zh_CN: 选项
@@ -11553,10 +11553,10 @@ hbui.BaseSwitch.narrationDisabled	Disable	"Original Translation
 zh_CN: 禁用
 zh_TW: 停用"
 hbui.BaseSwitch.off	Off	"Original Translation
-zh_CN: 关闭
+zh_CN: 关
 zh_TW: 關閉"
 hbui.BaseSwitch.on	On	"Original Translation
-zh_CN: 打开
+zh_CN: 开
 zh_TW: 開啟"
 hbui.BaseSwitch.toggle	Toggle	"Original Translation
 zh_CN: 切换
@@ -14373,7 +14373,7 @@ hbui.DropdownItem.disabled	Disabled	"Original Translation
 zh_CN: 已禁用
 zh_TW: 已停用"
 hbui.DropdownItem.elementType	item	"Original Translation
-zh_CN: 物品
+zh_CN: 项目
 zh_TW: 物品"
 hbui.DropdownItem.narrationComponentType	Option	"Original Translation
 zh_CN: 选项
@@ -14383,9 +14383,9 @@ zh_CN: 选择
 zh_TW: 選取"
 hbui.DropdownItem.selected	selected	"Original Translation
 zh_CN: 已选择
-zh_TW: 已選擇"
+zh_TW: 已選取"
 hbui.DropdownItem.unselected	not selected	"Original Translation
-zh_CN: 未选择
+zh_CN: 未当选
 zh_TW: 未選擇"
 hbui.EditRealmWorld.ConfirmModals.cancel	Cancel	"Original Translation
 zh_CN: 取消
@@ -22716,7 +22716,7 @@ hbui.ScreenshotShowcaseRoute.header	%1$s's Showcase Gallery	"Original Translatio
 zh_CN: %1$s 的展示相册
 zh_TW: %1$s 的展示相簿"
 hbui.ScrollView.loadingState	Loading	"Original Translation
-zh_CN: 正在载入
+zh_CN: 正在加载
 zh_TW: 載入中"
 hbui.ScrollView.narrationScrollViewComponentType	Content	"Original Translation
 zh_CN: 内容
@@ -23736,13 +23736,13 @@ hbui.TitleBar.Buttons.Back.inputLegend	Back	"Original Translation
 zh_CN: 返回
 zh_TW: 返回"
 hbui.TitleBar.Buttons.Back.narration	Back button	"Original Translation
-zh_CN: 返回按钮
+zh_CN: 返回键
 zh_TW: 返回按鈕"
 hbui.TitleBar.Buttons.Close.inputLegend	Close	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"
 hbui.TitleBar.Buttons.Close.narration	Close button	"Original Translation
-zh_CN: 关闭按钮
+zh_CN: 关闭键
 zh_TW: 關閉按鈕"
 hbui.Toggle.count	%1$s of %2$s	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
