@@ -14373,7 +14373,7 @@ hbui.DropdownItem.disabled	Disabled	"Original Translation
 zh_CN: 已禁用
 zh_TW: 已停用"
 hbui.DropdownItem.elementType	item	"Original Translation
-zh_CN: 项目
+zh_CN: 物品
 zh_TW: 物品"
 hbui.DropdownItem.narrationComponentType	Option	"Original Translation
 zh_CN: 选项
@@ -14385,7 +14385,7 @@ hbui.DropdownItem.selected	selected	"Original Translation
 zh_CN: 已选择
 zh_TW: 已選取"
 hbui.DropdownItem.unselected	not selected	"Original Translation
-zh_CN: 未当选
+zh_CN: 未选择
 zh_TW: 未選擇"
 hbui.EditRealmWorld.ConfirmModals.cancel	Cancel	"Original Translation
 zh_CN: 取消
