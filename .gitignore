@@ -1,7 +1,11 @@
 __pycache__/
 
 packed/
+extracted/tools/
+extracted/development/temp_extract
 
 *.zip
-*.appx
 *.mcpack
+
+*.appx
+*.msixvc
