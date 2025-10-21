@@ -85,34 +85,47 @@ def get_latest_version_from_api(package_type: str) -> tuple[str, str, str] | Non
 
     api_url = "https://data.mcappx.com/v2/bedrock.json"
 
-    proxy_urls = [
-        None,
-        f"https://api.allorigins.win/raw?url={api_url}",
-        f"https://corsproxy.io/?{api_url}",
-        f"https://cors-anywhere.herokuapp.com/{api_url}",
+    proxy_configs = [
+        (None, None),
+        (f"https://api.codetabs.com/v1/proxy?quest={api_url}", "codetabs"),
+        (f"https://api.allorigins.win/raw?url={api_url}", "allorigins"),
     ]
 
     data = None
     last_error = None
 
-    for proxy_url in proxy_urls:
+    for proxy_url, proxy_name in proxy_configs:
         try:
             target_url = proxy_url if proxy_url else api_url
-            if proxy_url:
-                print(f"  Trying via proxy: {proxy_url.split('?')[0]}...")
+            if proxy_name:
+                print(f"  Trying via proxy: {proxy_name}...")
+
             response = requests.get(target_url, headers=headers, timeout=30)
             response.raise_for_status()
+
+            content_type = response.headers.get("Content-Type", "")
+            if "json" not in content_type.lower() and proxy_name:
+                print(f"  [FAIL] Proxy returned non-JSON content: {content_type}")
+                continue
+
             data = response.json()
-            if proxy_url:
-                print("  ✓ Successfully fetched data via proxy")
+
+            if proxy_name:
+                print("  [OK] Successfully fetched data via proxy")
+
             break
 
         except requests.RequestException as e:
             last_error = e
-            if proxy_url:
-                print(f"  ✗ Proxy failed: {e}")
+            if proxy_name:
+                print(f"  [FAIL] Proxy failed: {e}")
             else:
-                print(f"  ✗ Direct access failed: {e}")
+                print(f"  [FAIL] Direct access failed: {e}")
+            continue
+        except ValueError as e:
+            last_error = e
+            if proxy_name:
+                print(f"  [FAIL] Invalid JSON from proxy: {e}")
             continue
 
     if not data:
