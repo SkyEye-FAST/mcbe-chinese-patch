@@ -40,14 +40,6 @@ jobs:
           Expand-Archive -Path $output -DestinationPath "extracted/tools/XvdTool.Streaming" -Force
           Remove-Item $output
 
-      - name: Download CikExtractor
-        run: |
-          $url = "https://github.com/SkyEye-FAST/CikExtractor/releases/latest/download/win-x64.zip"
-          $output = "extracted/tools/CikExtractor.zip"
-          Invoke-WebRequest -Uri $url -OutFile $output
-          Expand-Archive -Path $output -DestinationPath "extracted/tools/CikExtractor" -Force
-          Remove-Item $output
-
       - name: Extract language files
         run: uv run scripts/extract.py
         env:
