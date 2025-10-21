@@ -19,28 +19,6 @@ from pathlib import Path
 from convert import extract_translation_with_sources, save_lang_file_with_sources
 
 
-def format_version(version_str: str, is_dev: bool = False) -> str:
-    """Format version string according to branch requirements.
-
-    Args:
-        version_str (str): Version string in format "x.y.z.w"
-        is_dev (bool, optional): Whether this is a development build. Defaults to False.
-
-    Returns:
-        str: Formatted version string.
-    """
-    x, y, z, _ = version_str.split(".")
-    z_int = int(z)
-
-    if is_dev:
-        new_z = z_int // 100
-        new_w = z_int % 100
-        return f"{x}.{y}.{new_z}.{new_w}"
-    else:
-        new_z = z_int // 100
-        return f"{x}.{y}.{new_z}"
-
-
 def create_pack_archive(branch: str, lang_files: list[Path], version: str) -> None:
     """Create zip and mcpack files for a branch.
 
@@ -138,10 +116,10 @@ def main() -> None:
 
         print(f"Packing branch: {branch}")
 
-        if branch == "release":
-            version = format_version(versions["release"], False)
+        if branch.lower() == "release":
+            version = versions["release"]
         else:
-            version = format_version(versions["development"], True)
+            version = versions["development"]
 
         create_pack_archive(branch, lang_files, version)
 
