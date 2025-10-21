@@ -51,7 +51,8 @@ If you want to contribute to the development of this project, here's how to get 
 
 ### Prerequisites
 
-- [Python 3.12+](https://www.python.org/)
+- [Python 3.11+](https://www.python.org/)
+- [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
 - [uv](https://github.com/astral-sh/uv)
 
 ### Setup
@@ -99,6 +100,17 @@ This will generate the `.mcpack` and `.zip` files in the `packed/` directory.
 ### Workflow
 
 This project uses GitHub Actions to automate the translation, Crowdin synchronization, and packaging process. It runs every 2 hours to update language files and synchronize translations with Crowdin. The final resource packs (`.mcpack` and `.zip`) are then generated and available for download.
+
+#### Required GitHub Secrets
+
+To run the automated workflow, the following secrets must be configured in your GitHub repository:
+
+- `MINECRAFT_CIK`: Hex-encoded CIK (Content Identity Key) for decrypting GDK packages
+- `MINECRAFT_CIK_GUID`: GUID identifier for the CIK key
+- `CROWDIN_PROJECT_ID`: Crowdin project ID
+- `CROWDIN_PERSONAL_TOKEN`: Crowdin API token
+
+To obtain the CIK values, run `python scripts/extract_cik.py` on a Windows machine with Minecraft installed. The script will output the required secret values.
 
 ## License
 

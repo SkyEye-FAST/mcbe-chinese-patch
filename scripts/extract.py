@@ -491,6 +491,22 @@ def process_gdk_package(msixvc_file: Path, base_output_dir: Path) -> bool:
         print(f"Extract to: {tools_dir / 'XvdTool.Streaming'}")
         return False
 
+    cik_hex = os.getenv("MINECRAFT_CIK")
+    cik_guid = os.getenv("MINECRAFT_CIK_GUID")
+
+    if cik_hex and cik_guid:
+        print("\nUsing CIK from environment variables")
+        cik_dir.mkdir(parents=True, exist_ok=True)
+
+        try:
+            cik_bytes = bytes.fromhex(cik_hex)
+            cik_file_path = cik_dir / f"{cik_guid}.cik"
+            cik_file_path.write_bytes(cik_bytes)
+            print(f"Created CIK file from environment: {cik_file_path.name}")
+        except ValueError as e:
+            print(f"\nError: Invalid CIK hex format in MINECRAFT_CIK: {e}")
+            return False
+
     if not cik_dir.exists():
         print(f"\nError: CIK directory not found: {cik_dir}")
         print("Please run extract_cik.py to extract CIK keys first")

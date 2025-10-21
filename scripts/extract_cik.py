@@ -76,6 +76,22 @@ def extract_cik_keys(tools_dir: Path, cik_output_dir: Path) -> bool:
             print(f"\nCikExtractor failed with error code {result.returncode}")
             return False
 
+        minecraft_guid = None
+        if result.stdout:
+            lines = result.stdout.splitlines()
+            for i, line in enumerate(lines):
+                if "microsoft.minecraftwindowsbeta_8wekyb3d8bbwe" in line.lower():
+                    for j in range(i + 1, min(i + 10, len(lines))):
+                        next_line = lines[j]
+                        if "└── ??" in next_line or "    └── ??" in next_line:
+                            parts = next_line.strip().split()
+                            if len(parts) >= 2:
+                                guid_candidate = parts[-1]
+                                if "-" in guid_candidate and len(guid_candidate) > 30:
+                                    minecraft_guid = guid_candidate
+                                    break
+                    break
+
         cik_files = list(cik_output_dir.glob("*.cik"))
         if not cik_files:
             print("\nWarning: No CIK files were extracted")
@@ -85,6 +101,31 @@ def extract_cik_keys(tools_dir: Path, cik_output_dir: Path) -> bool:
         for cik_file in cik_files:
             file_size = cik_file.stat().st_size
             print(f"  - {cik_file.name} ({file_size} bytes)")
+
+        minecraft_cik = None
+        if minecraft_guid:
+            for cik_file in cik_files:
+                if cik_file.stem.lower() == minecraft_guid.lower():
+                    minecraft_cik = cik_file
+                    break
+
+        if minecraft_cik:
+            print("\n" + "=" * 60)
+            print("GitHub Actions Secrets Configuration")
+            print("=" * 60)
+
+            cik_bytes = minecraft_cik.read_bytes()
+            cik_hex = cik_bytes.hex().upper()
+            cik_guid = minecraft_cik.stem
+
+            print(f"\nMinecraft CIK file: {minecraft_cik.name}")
+            print("\nMINECRAFT_CIK_GUID:")
+            print(cik_guid)
+            print("\nMINECRAFT_CIK:")
+            print(cik_hex)
+        else:
+            print("\nWarning: Could not identify Minecraft CIK from extracted files")
+            print("Please manually check the CIK files in the output directory")
 
         return True
 

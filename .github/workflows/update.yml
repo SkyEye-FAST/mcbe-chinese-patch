@@ -10,13 +10,18 @@ on:
 
 jobs:
   update-language-files:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v5
         with:
           fetch-depth: 0
           ref: main
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v5
+        with:
+          dotnet-version: "9.0.x"
 
       - name: Install uv and set the python version
         uses: astral-sh/setup-uv@v6
@@ -26,8 +31,28 @@ jobs:
       - name: Install the project
         run: uv sync --locked --all-extras --dev
 
+      - name: Download XvdTool.Streaming
+        run: |
+          $url = "https://github.com/SkyEye-FAST/XvdTool.Streaming/releases/latest/download/win-x64.zip"
+          $output = "extracted/tools/XvdTool.Streaming.zip"
+          New-Item -ItemType Directory -Path "extracted/tools" -Force
+          Invoke-WebRequest -Uri $url -OutFile $output
+          Expand-Archive -Path $output -DestinationPath "extracted/tools/XvdTool.Streaming" -Force
+          Remove-Item $output
+
+      - name: Download CikExtractor
+        run: |
+          $url = "https://github.com/SkyEye-FAST/CikExtractor/releases/latest/download/win-x64.zip"
+          $output = "extracted/tools/CikExtractor.zip"
+          Invoke-WebRequest -Uri $url -OutFile $output
+          Expand-Archive -Path $output -DestinationPath "extracted/tools/CikExtractor" -Force
+          Remove-Item $output
+
       - name: Extract language files
         run: uv run scripts/extract.py
+        env:
+          MINECRAFT_CIK: ${{ secrets.MINECRAFT_CIK }}
+          MINECRAFT_CIK_GUID: ${{ secrets.MINECRAFT_CIK_GUID }}
 
       - name: Merge language files
         run: uv run scripts/merge.py
