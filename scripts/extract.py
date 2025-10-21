@@ -87,8 +87,9 @@ def get_latest_version_from_api(package_type: str) -> tuple[str, str, str] | Non
 
     proxy_configs = [
         (None, None),
-        (f"https://api.codetabs.com/v1/proxy?quest={api_url}", "codetabs"),
-        (f"https://api.allorigins.win/raw?url={api_url}", "allorigins"),
+        (f"https://cors.eu.org/{api_url}", "cors.eu.org"),
+        (f"https://proxy.cors.sh/{api_url}", "cors.sh"),
+        (f"https://corsproxy.io/?{api_url}", "corsproxy"),
     ]
 
     data = None
