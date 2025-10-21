@@ -73,67 +73,22 @@ def get_latest_version_from_api(package_type: str) -> tuple[str, str, str] | Non
     """
     print(f"Fetching latest {package_type} version from mcappx.com API...")
 
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-            "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        ),
-        "Accept": "application/json, text/plain, */*",
-        "Accept-Language": "en-US,en;q=0.9",
-        "Referer": "https://mcappx.com/",
-    }
-
-    api_url = "https://data.mcappx.com/v2/bedrock.json"
-
-    proxy_configs = [
-        (None, None),
-        (f"https://cors.eu.org/{api_url}", "cors.eu.org"),
-        (f"https://proxy.cors.sh/{api_url}", "cors.sh"),
-        (f"https://corsproxy.io/?{api_url}", "corsproxy"),
-    ]
-
-    data = None
-    last_error = None
-
-    for proxy_url, proxy_name in proxy_configs:
-        try:
-            target_url = proxy_url if proxy_url else api_url
-            if proxy_name:
-                print(f"  Trying via proxy: {proxy_name}...")
-
-            response = requests.get(target_url, headers=headers, timeout=30)
-            response.raise_for_status()
-
-            content_type = response.headers.get("Content-Type", "")
-            if "json" not in content_type.lower() and proxy_name:
-                print(f"  [FAIL] Proxy returned non-JSON content: {content_type}")
-                continue
-
-            data = response.json()
-
-            if proxy_name:
-                print("  [OK] Successfully fetched data via proxy")
-
-            break
-
-        except requests.RequestException as e:
-            last_error = e
-            if proxy_name:
-                print(f"  [FAIL] Proxy failed: {e}")
-            else:
-                print(f"  [FAIL] Direct access failed: {e}")
-            continue
-        except ValueError as e:
-            last_error = e
-            if proxy_name:
-                print(f"  [FAIL] Invalid JSON from proxy: {e}")
-            continue
-
-    if not data:
-        print(f"Error: All methods failed. Last error: {last_error}", file=sys.stderr)
-        return None
-
     try:
+        headers = {
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            ),
+            "Accept": "application/json, text/plain, */*",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Referer": "https://mcappx.com/",
+        }
+        response = requests.get(
+            "https://data.mcappx.com/v2/bedrock.json", headers=headers, timeout=30
+        )
+        response.raise_for_status()
+        data = response.json()
+
         versions_data = data.get("From_mcappx.com", {})
 
         latest_version: str | None = None
