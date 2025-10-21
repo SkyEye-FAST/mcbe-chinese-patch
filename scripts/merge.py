@@ -114,7 +114,12 @@ def get_target_subdirs(src_dir: Path, target_name: str) -> list[str]:
     Returns:
         list[str]: List of ordered subdirectory paths
     """
-    target_config = {
+
+    class _TargetConfig(TypedDict):
+        exclude: list[str]
+        special_dir: str
+
+    target_config: dict[str, _TargetConfig] = {
         "beta": {"exclude": ["previewapp"], "special_dir": "beta"},
         "preview": {"exclude": ["beta"], "special_dir": "previewapp"},
     }

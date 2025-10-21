@@ -82,7 +82,7 @@ def get_latest_version_from_api(package_type: str) -> tuple[str, str, str] | Non
 
         latest_version: str | None = None
         latest_data: VersionData | None = None
-        latest_date: str = ""
+        latest_date = ""
 
         for version, version_data in versions_data.items():
             if version_data.get("Type") == package_type:
@@ -153,8 +153,8 @@ def get_appx_file(package_name: str, base_dir: Path) -> Path | None:
     """
     print(f"Getting download link for {package_name}...")
 
-    url: str = "https://store.rg-adguard.net/api/GetFiles"
-    data: dict[str, str] = {
+    url = "https://store.rg-adguard.net/api/GetFiles"
+    data = {
         "type": "PackageFamilyName",
         "url": package_name,
         "ring": "RP",
@@ -174,49 +174,16 @@ def get_appx_file(package_name: str, base_dir: Path) -> Path | None:
         if not isinstance(link, Tag):
             continue
 
-        link_text: str = link.get_text(strip=True)
+        link_text = link.get_text(strip=True)
         if re.search(r"x64.*\.appx\b", link_text):
-            appx_path: Path = base_dir / link_text
             href_value = link.get("href")
-
             if not isinstance(href_value, str):
                 continue
 
-            download_url: str = href_value
-
-            print(f"Downloading {link_text}...")
-
-            if appx_path.exists():
-                print(f"Already exists, skipping {link_text}")
+            appx_path = base_dir / link_text
+            if download_file(href_value, appx_path):
                 return appx_path
-
-            try:
-                with requests.get(download_url, stream=True, timeout=60) as r:
-                    r.raise_for_status()
-
-                    total_size: int = int(r.headers.get("content-length", 0))
-                    downloaded_size: int = 0
-                    is_github_actions: bool = bool(os.getenv("GITHUB_ACTIONS"))
-                    last_progress_logged: int = -1
-
-                    with appx_path.open("wb") as f:
-                        for chunk in r.iter_content(chunk_size=8192):
-                            if chunk:
-                                f.write(chunk)
-                                downloaded_size += len(chunk)
-                                last_progress_logged = _show_download_progress(
-                                    downloaded_size,
-                                    total_size,
-                                    last_progress_logged,
-                                    is_github_actions,
-                                )
-
-                    if not is_github_actions:
-                        print()
-                return appx_path
-            except requests.RequestException as e:
-                print(f"Error downloading {link_text}: {e}", file=sys.stderr)
-                return None
+            return None
 
     print(f"No x64 appx file found for {package_name}")
     return None
@@ -247,13 +214,26 @@ def _process_lang_file(
     if not cleaned_content:
         return False
 
-    output_file = base_output_dir / relative_path
+    return _save_lang_and_json(cleaned_content, base_output_dir / relative_path, relative_path)
+
+
+def _save_lang_and_json(content: str, output_file: Path, relative_path: str) -> bool:
+    """Save language content to .lang and .json files.
+
+    Args:
+        content: Cleaned language file content
+        output_file: Path to output .lang file
+        relative_path: Relative path for display purposes
+
+    Returns:
+        bool: True if files were successfully saved, False otherwise
+    """
     output_file.parent.mkdir(parents=True, exist_ok=True)
 
-    output_file.write_text(cleaned_content, encoding="utf-8", newline="\n")
+    output_file.write_text(content, encoding="utf-8", newline="\n")
     print(f"Created {relative_path}")
 
-    json_data = convert_lang_to_json(cleaned_content)
+    json_data = convert_lang_to_json(content)
     json_file = output_file.with_suffix(".json")
 
     with json_file.open("wb") as f:
@@ -282,11 +262,11 @@ def export_files_to_structure(
     package_type = "release files" if exclude_beta else "files to directory structure"
     print(f"Extracting {package_type} from {zip_path}...")
 
-    found_any: bool = False
+    found_any = False
 
     try:
         with zipfile.ZipFile(zip_path, "r") as zip_file:
-            texts_entries: list[zipfile.ZipInfo] = [
+            texts_entries = [
                 entry
                 for entry in zip_file.infolist()
                 if entry.filename.startswith("data/resource_packs/")
@@ -296,12 +276,12 @@ def export_files_to_structure(
             texts_entries.sort(key=lambda x: x.filename)
 
             for entry in texts_entries:
-                filename: str = Path(entry.filename).name
+                filename = Path(entry.filename).name
 
                 if filename not in target_languages:
                     continue
 
-                relative_path: str = entry.filename.replace("data/resource_packs/", "").replace(
+                relative_path = entry.filename.replace("data/resource_packs/", "").replace(
                     "/texts/", "/"
                 )
 
@@ -320,22 +300,6 @@ def export_files_to_structure(
         return False
 
     return found_any
-
-
-def export_release_files(
-    zip_path: Path, base_output_dir: Path, target_languages: list[str]
-) -> bool:
-    """Extract language files from release package, excluding beta paths.
-
-    Args:
-        zip_path (Path): Path to the appx/zip file to extract from
-        base_output_dir (Path): Base output directory for extracted files
-        target_languages (list[str]): List of language files to extract (e.g., ['en_US.lang'])
-
-    Returns:
-        bool: True if any files were successfully extracted, False otherwise
-    """
-    return export_files_to_structure(zip_path, base_output_dir, target_languages, exclude_beta=True)
 
 
 def _show_download_progress(
@@ -446,8 +410,53 @@ def download_gdk_package(download_url: str, base_dir: Path, version: str) -> Pat
     return None
 
 
+def _process_extracted_lang_files(
+    resource_packs_dir: Path, base_output_dir: Path, target_languages: list[str]
+) -> bool:
+    """Process language files from extracted resource packs directory.
+
+    Args:
+        resource_packs_dir: Path to resource_packs directory
+        base_output_dir: Base output directory for processed files
+        target_languages: List of language files to process
+
+    Returns:
+        bool: True if any files were successfully processed, False otherwise
+    """
+    print(f"Processing language files from {resource_packs_dir}...")
+
+    found_any = False
+
+    for pack_dir in resource_packs_dir.iterdir():
+        if not pack_dir.is_dir():
+            continue
+
+        texts_dir = pack_dir / "texts"
+        if not texts_dir.exists():
+            continue
+
+        for lang_file_name in target_languages:
+            lang_file = texts_dir / lang_file_name
+            if not lang_file.exists():
+                continue
+
+            raw_content = lang_file.read_text(encoding="utf-8", errors="ignore")
+            cleaned_content = clean_lang_content(raw_content)
+
+            if not cleaned_content:
+                continue
+
+            relative_path = f"{pack_dir.name}/{lang_file_name}"
+            output_file = base_output_dir / relative_path
+
+            if _save_lang_and_json(cleaned_content, output_file, relative_path):
+                found_any = True
+
+    return found_any
+
+
 def process_gdk_package(msixvc_file: Path, base_output_dir: Path) -> bool:
-    """Process GDK package using CikExtractor and XvdTool.Streaming.
+    """Process GDK package using XvdTool.Streaming with pre-configured CIK keys.
 
     Args:
         msixvc_file (Path): Path to the msixvc file
@@ -455,118 +464,52 @@ def process_gdk_package(msixvc_file: Path, base_output_dir: Path) -> bool:
 
     Returns:
         bool: True if processing successful, False otherwise
+
+    Note:
+        CIK keys must be pre-configured in tools/Cik/ directory.
+        Use extract_cik.py script to extract CIK keys before running this function.
     """
     print(f"Processing GDK package: {msixvc_file.name}")
 
     tools_dir = base_output_dir.parent / "tools"
     tools_dir.mkdir(exist_ok=True)
 
-    cikextractor_exe = tools_dir / "CikExtractor" / "CikExtractor.exe"
     xvdtool_exe = tools_dir / "XvdTool.Streaming" / "XvdTool.Streaming.exe"
     cik_dir = tools_dir / "Cik"
-    cik_dir.mkdir(exist_ok=True)
 
-    is_ci = os.environ.get("CI") == "true" or os.environ.get("GITHUB_ACTIONS") == "true"
+    if sys.platform != "win32":
+        print("\nError: GDK package processing requires Windows")
+        print("XvdTool.Streaming is a Windows-only tool")
+        return False
 
-    if not is_ci:
-        if sys.platform != "win32":
-            print("\nError: GDK package processing requires Windows")
-            print("CikExtractor and XvdTool.Streaming are Windows-only tools")
-            return False
+    print("\nChecking for required tools and CIK keys...")
 
-        print("\nChecking for required tools...")
+    if not xvdtool_exe.exists():
+        print("\nError: XvdTool.Streaming.exe not found")
+        print("Please manually download XvdTool.Streaming from:")
+        print("  https://github.com/LukeFZ/XvdTool.Streaming/releases")
+        print(f"Extract to: {tools_dir / 'XvdTool.Streaming'}")
+        return False
 
-        if not cikextractor_exe.exists():
-            print("\nError: CikExtractor.exe not found")
-            print("Please manually download CikExtractor from:")
-            print("  https://github.com/LukeFZ/CikExtractor/releases")
-            print(f"Extract to: {tools_dir / 'CikExtractor'}")
-            return False
+    if not cik_dir.exists():
+        print(f"\nError: CIK directory not found: {cik_dir}")
+        print("Please run extract_cik.py to extract CIK keys first")
+        return False
 
-        if not xvdtool_exe.exists():
-            print("\nError: XvdTool.Streaming.exe not found")
-            print("Please manually download XvdTool.Streaming from:")
-            print("  https://github.com/LukeFZ/XvdTool.Streaming/releases")
-            print(f"Extract to: {tools_dir / 'XvdTool.Streaming'}")
-            return False
-    else:
-        if not xvdtool_exe.exists():
-            print(f"\nError: XvdTool.Streaming.exe not found at {xvdtool_exe}")
-            return False
+    cik_files = list(cik_dir.glob("*.cik"))
+    if not cik_files:
+        print(f"\nError: No CIK files found in {cik_dir}")
+        print("Please run extract_cik.py to extract CIK keys first")
+        print("\nFor CI environments, you can also set these environment variables:")
+        print("  - MINECRAFT_CIK: Hex-encoded CIK key")
+        print("  - MINECRAFT_CIK_GUID: GUID for the CIK key")
+        return False
 
-    if is_ci:
-        print("Running in CI environment")
-        cik_secret = os.environ.get("MINECRAFT_CIK")
-        cik_guid = os.environ.get("MINECRAFT_CIK_GUID")
+    print(f"Found {len(cik_files)} CIK key(s):")
+    for cik_file in cik_files:
+        print(f"  - {cik_file.name}")
 
-        if not cik_secret or not cik_guid:
-            print("\nWarning: MINECRAFT_CIK or MINECRAFT_CIK_GUID environment variables not set")
-            print("GDK package processing requires a valid CIK key")
-            print("Please set these secrets in your GitHub repository settings")
-            print("Skipping GDK package processing...")
-            return False
-
-        print("Using CIK from environment variables")
-        cik_file = cik_dir / f"{cik_guid}.cik"
-
-        try:
-            cik_bytes = bytes.fromhex(cik_secret)
-            cik_file.write_bytes(cik_bytes)
-            print(f"CIK file created: {cik_file.name}")
-        except Exception as e:
-            print(f"Failed to create CIK file: {e}")
-            return False
-
-    else:
-        print("\nStep 1: Extracting CIK using CikExtractor...")
-
-        cikextractor_dir = cikextractor_exe.parent
-
-        try:
-            result = subprocess.run(
-                [str(cikextractor_exe), "dump", "-c", str(cik_dir.absolute())],
-                capture_output=True,
-                text=True,
-                check=False,
-                cwd=str(cikextractor_dir),
-            )
-
-            print(f"CikExtractor return code: {result.returncode}")
-
-            if result.stdout:
-                print("CikExtractor output:")
-                print(result.stdout)
-
-            if result.stderr:
-                print("CikExtractor errors:")
-                print(result.stderr)
-
-            if result.returncode != 0:
-                print(f"CikExtractor failed with error code {result.returncode}")
-                print("\nNote: CikExtractor requires:")
-                print("  - Administrator privileges")
-                print("  - Valid Minecraft license on this machine")
-                print("  - Python with Qiling installed")
-                return False
-
-            cik_files = list(cik_dir.glob("*.cik"))
-            if not cik_files:
-                print("\nWarning: No CIK files were extracted")
-                print("This usually means:")
-                print("  - Minecraft is not installed/licensed on this machine")
-                print("  - The required game version is not installed")
-                print("For CI/automated builds, use environment variables instead")
-                return False
-
-            print(f"\nCIK extraction successful - {len(cik_files)} key(s) extracted:")
-            for cik_file in cik_files:
-                print(f"  - {cik_file.name}")
-
-        except Exception as e:
-            print(f"Failed to run CikExtractor: {e}")
-            return False
-
-    print("\nStep 2: Decrypting and extracting package using XvdTool.Streaming...")
+    print("\nDecrypting and extracting package using XvdTool.Streaming...")
 
     extract_output_dir = base_output_dir / "temp_extract"
     extract_output_dir.mkdir(exist_ok=True)
@@ -627,7 +570,7 @@ def process_gdk_package(msixvc_file: Path, base_output_dir: Path) -> bool:
         print(f"Failed to run XvdTool.Streaming: {e}")
         return False
 
-    print("\nStep 3: Organizing extracted files...")
+    print("\nOrganizing extracted files...")
 
     data_folder = None
     for candidate in ["data", "Data", "DATA"]:
@@ -648,47 +591,8 @@ def process_gdk_package(msixvc_file: Path, base_output_dir: Path) -> bool:
         print(f"Warning: Could not find resource_packs folder in {data_folder}")
         return False
 
-    print(f"Processing language files from {resource_packs_dir}...")
-
-    found_any = False
     target_languages = ["en_US.lang", "zh_CN.lang", "zh_TW.lang"]
-
-    for pack_dir in resource_packs_dir.iterdir():
-        if not pack_dir.is_dir():
-            continue
-
-        texts_dir = pack_dir / "texts"
-        if not texts_dir.exists():
-            continue
-
-        for lang_file_name in target_languages:
-            lang_file = texts_dir / lang_file_name
-            if not lang_file.exists():
-                continue
-
-            raw_content = lang_file.read_text(encoding="utf-8", errors="ignore")
-            cleaned_content = clean_lang_content(raw_content)
-
-            if not cleaned_content:
-                continue
-
-            relative_path = f"{pack_dir.name}/{lang_file_name}"
-            output_file = base_output_dir / relative_path
-            output_file.parent.mkdir(parents=True, exist_ok=True)
-
-            output_file.write_text(cleaned_content, encoding="utf-8", newline="\n")
-            print(f"  Created {relative_path}")
-
-            json_data = convert_lang_to_json(cleaned_content)
-            json_file = output_file.with_suffix(".json")
-
-            with json_file.open("wb") as f:
-                f.write(orjson.dumps(json_data, option=orjson.OPT_INDENT_2))
-
-            json_relative_path = relative_path.replace(".lang", ".json")
-            print(f"  Created {json_relative_path} with {len(json_data)} entries")
-
-            found_any = True
+    found_any = _process_extracted_lang_files(resource_packs_dir, base_output_dir, target_languages)
 
     if not found_any:
         print("Warning: No language files found in resource packs")
@@ -703,10 +607,10 @@ def process_gdk_package(msixvc_file: Path, base_output_dir: Path) -> bool:
 
 def main() -> None:
     """Main entry point for the language file extractor."""
-    script_dir: Path = Path(__file__).parent
-    base_dir: Path = script_dir.parent
+    script_dir = Path(__file__).parent
+    base_dir = script_dir.parent
 
-    output_dir: Path = base_dir / "extracted"
+    output_dir = base_dir / "extracted"
     output_dir.mkdir(exist_ok=True)
 
     print("Starting language file extraction process...")
@@ -717,7 +621,7 @@ def main() -> None:
     version_info: dict[str, str | None] = {"release": None, "development": None}
 
     for i, package in enumerate(PACKAGE_INFO):
-        prefix: str = "\n" if i == 0 else "\n\n"
+        prefix = "\n" if i == 0 else "\n\n"
         package_type = package["package_type"]
         folder_name = package["folder_name"]
 
@@ -775,19 +679,14 @@ def main() -> None:
 
         if build_type == "GDK":
             success = process_gdk_package(package_file, package_output_dir)
-            if not success:
-                print(f"GDK package processing not yet fully implemented for {package_file}")
         else:
-            is_release = folder_name == "release"
-            if is_release:
-                success = export_release_files(package_file, package_output_dir, TARGET_LANGUAGES)
-            else:
-                success = export_files_to_structure(
-                    package_file, package_output_dir, TARGET_LANGUAGES
-                )
+            exclude_beta = folder_name == "release"
+            success = export_files_to_structure(
+                package_file, package_output_dir, TARGET_LANGUAGES, exclude_beta
+            )
 
-            if not success:
-                print(f"Failed to extract language files from {package_file}")
+        if not success:
+            print(f"Failed to process package: {package_file}")
 
     print("\n" + "=" * 60)
     print("Language file extraction completed!")
