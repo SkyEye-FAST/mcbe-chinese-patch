@@ -73,22 +73,53 @@ def get_latest_version_from_api(package_type: str) -> tuple[str, str, str] | Non
     """
     print(f"Fetching latest {package_type} version from mcappx.com API...")
 
-    try:
-        headers = {
-            "User-Agent": (
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-            ),
-            "Accept": "application/json, text/plain, */*",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Referer": "https://mcappx.com/",
-        }
-        response = requests.get(
-            "https://data.mcappx.com/v2/bedrock.json", headers=headers, timeout=30
-        )
-        response.raise_for_status()
-        data = response.json()
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        ),
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://mcappx.com/",
+    }
 
+    api_url = "https://data.mcappx.com/v2/bedrock.json"
+
+    proxy_urls = [
+        None,
+        f"https://api.allorigins.win/raw?url={api_url}",
+        f"https://corsproxy.io/?{api_url}",
+        f"https://cors-anywhere.herokuapp.com/{api_url}",
+    ]
+
+    data = None
+    last_error = None
+
+    for proxy_url in proxy_urls:
+        try:
+            target_url = proxy_url if proxy_url else api_url
+            if proxy_url:
+                print(f"  Trying via proxy: {proxy_url.split('?')[0]}...")
+            response = requests.get(target_url, headers=headers, timeout=30)
+            response.raise_for_status()
+            data = response.json()
+            if proxy_url:
+                print("  ✓ Successfully fetched data via proxy")
+            break
+
+        except requests.RequestException as e:
+            last_error = e
+            if proxy_url:
+                print(f"  ✗ Proxy failed: {e}")
+            else:
+                print(f"  ✗ Direct access failed: {e}")
+            continue
+
+    if not data:
+        print(f"Error: All methods failed. Last error: {last_error}", file=sys.stderr)
+        return None
+
+    try:
         versions_data = data.get("From_mcappx.com", {})
 
         latest_version: str | None = None
