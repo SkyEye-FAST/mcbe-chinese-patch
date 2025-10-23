@@ -192,7 +192,6 @@ chooseRealmScreen.addrealmbuttontext=新增領域
 chooseRealmScreen.header=擇領域伺服器
 chooseRealmScreen.realmsbuttontext=新雙人領域
 chooseRealmScreen.realmsplusbuttontext=新十人人領域
-cloud_upload.prompt.button.learn_more=博問之
 commandBlock.genericName=命令塊
 commands.autocomplete.p=至邇之戲者
 commands.autocomplete.r=無定戲者
