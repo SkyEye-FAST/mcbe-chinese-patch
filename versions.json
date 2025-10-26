@@ -1,7 +1,7 @@
 {
-  "timestamp": "2025-10-26T14:21:29.141831+00:00",
+  "timestamp": "2025-10-26T16:19:48.592424+00:00",
   "versions": {
-    "release": null,
-    "development": null
+    "release": "1.21.114",
+    "development": "1.21.130.22"
   }
 }
