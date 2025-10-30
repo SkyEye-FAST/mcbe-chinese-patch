@@ -133,19 +133,6 @@ def get_latest_version_from_api(package_type: str) -> tuple[str, str, str] | Non
         return None
 
 
-def save_version_info(
-    base_dir: Path,
-    appx_files: list[tuple[str, Path]] | None = None,
-) -> None:
-    """Save current version information to versions.json file.
-
-    Args:
-        base_dir: Base directory where versions.json will be created
-        appx_files: List of tuples (folder_name, appx_file_path) for extracting MS Store versions
-    """
-    pass
-
-
 def get_appx_file(package_name: str, base_dir: Path) -> Path | None:
     """Download appx file for the specified package.
 
@@ -662,42 +649,67 @@ def main() -> None:
     package_files: list[tuple[str, Path, str]] = []
     version_info: dict[str, str | None] = {"release": None, "development": None}
 
-    for i, package in enumerate(PACKAGE_INFO):
-        prefix = "\n" if i == 0 else "\n\n"
-        package_type = package["package_type"]
-        folder_name = package["folder_name"]
+    max_retries = 5
+    retry_count = 0
 
-        print(f"{prefix}Processing package type: {package_type}")
+    while retry_count < max_retries:
+        version_info = {"release": None, "development": None}
 
-        version_data = get_latest_version_from_api(package_type)
+        for i, package in enumerate(PACKAGE_INFO):
+            prefix = "\n" if i == 0 else "\n\n"
+            package_type = package["package_type"]
+            folder_name = package["folder_name"]
 
-        if not version_data:
-            print(f"Failed to get version info for {package_type}")
-            continue
+            if retry_count > 0:
+                attempt_msg = f"(Attempt {retry_count + 1}/{max_retries})"
+                print(f"{prefix}Retrying package type: {package_type} {attempt_msg}")
+            else:
+                print(f"{prefix}Processing package type: {package_type}")
 
-        version, build_type, download_info = version_data
+            version_data = get_latest_version_from_api(package_type)
 
-        if folder_name == "release":
-            version_info["release"] = version
-        else:
-            version_info["development"] = version
+            if not version_data:
+                print(f"Failed to get version info for {package_type}")
+                continue
 
-        package_file: Path | None = None
+            version, build_type, download_info = version_data
 
-        if build_type == "UWP":
-            package_file = get_appx_file(download_info, base_dir)
-        elif build_type == "GDK":
-            package_file = download_gdk_package(download_info, base_dir, version)
-        else:
-            print(f"Unknown build type: {build_type}")
-            continue
+            if folder_name == "release":
+                version_info["release"] = version
+            else:
+                version_info["development"] = version
 
-        if not package_file:
-            print(f"Failed to download package for {package_type}")
-            continue
+            package_file: Path | None = None
 
-        print(f"Downloaded: {package_file.name}")
-        package_files.append((folder_name, package_file, build_type))
+            if build_type == "UWP":
+                package_file = get_appx_file(download_info, base_dir)
+            elif build_type == "GDK":
+                package_file = download_gdk_package(download_info, base_dir, version)
+            else:
+                print(f"Unknown build type: {build_type}")
+                continue
+
+            if not package_file:
+                print(f"Failed to download package for {package_type}")
+                continue
+
+            print(f"Downloaded: {package_file.name}")
+            package_files.append((folder_name, package_file, build_type))
+
+        if version_info["release"] is not None and version_info["development"] is not None:
+            break
+
+        retry_count += 1
+        if retry_count < max_retries:
+            retry_msg = f"Attempt {retry_count + 1}/{max_retries}"
+            print(f"\nVersion info incomplete, retrying... ({retry_msg})")
+
+    if version_info["release"] is None or version_info["development"] is None:
+        print("\nError: Failed to get complete version info after 5 attempts")
+        print(f"  Release: {version_info.get('release', 'null')}")
+        print(f"  Development: {version_info.get('development', 'null')}")
+        print("Aborting program without updating versions.json")
+        sys.exit(1)
 
     print("\n" + "=" * 60)
     versions_file = base_dir / "versions.json"
