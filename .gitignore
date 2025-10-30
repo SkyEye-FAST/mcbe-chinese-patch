@@ -2,7 +2,7 @@ __pycache__/
 
 packed/
 extracted/tools/
-extracted/development/temp_extract/
+extracted/*/temp_extract/
 
 *.zip
 *.mcpack
