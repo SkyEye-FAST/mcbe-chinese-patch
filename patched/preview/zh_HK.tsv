@@ -935,6 +935,7 @@ zh_TW: 按一下跳躍離開小船"	""
 "action.hint.exit.camel"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻触潜行可以下马
 zh_TW: 點擊潛行以取消搭乘"	""
+"action.hint.exit.camel_husk"	"Press :_input_key.sneak: to dismount"	"Original Translation"	""
 "action.hint.exit.chest_boat"	"Tap jump to exit the boat"	"Original Translation
 zh_CN: 点击“跳跃”离开船
 zh_TW: 按一下跳躍離開小船"	""
@@ -944,6 +945,7 @@ zh_TW: 按 :_input_key.jump: 離開小船"	""
 "action.hint.exit.console.camel"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
 zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
+"action.hint.exit.console.camel_husk"	"Press :_input_key.sneak: to dismount"	"Original Translation"	""
 "action.hint.exit.console.chest_boat"	"Press :_input_key.jump: to exit the boat"	"Original Translation
 zh_CN: 按下 :_input_key.jump: 离开船
 zh_TW: 按 :_input_key.jump: 離開小船"	""
@@ -1010,6 +1012,7 @@ zh_TW: 按一下跳躍離開木筏"	""
 "action.hint.exit.scheme.camel"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下即可下马
 zh_TW: 點擊以取消乘坐"	""
+"action.hint.exit.scheme.camel_husk"	"Tap dismount to dismount"	"Original Translation"	""
 "action.hint.exit.scheme.donkey"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
 zh_TW: 點擊取消乘坐以取消乘坐"	""
@@ -1051,6 +1054,7 @@ zh_TW: 點擊潛行以取消搭乘"	""
 "action.hint.exit.trader_llama"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻触潜行可以下马
 zh_TW: 輕觸潛行以取消乘坐"	""
+"action.hint.exit.zombie_horse"	"Tap sneak to dismount"	"Original Translation"	""
 "action.hint.exit.zombie_nautilus"	"Tap sneak to dismount"	"Original Translation"	""
 "action.interact.allay"	"Give item to Allay"	"Original Translation
 zh_CN: 给悦灵物品
@@ -6454,6 +6458,7 @@ zh_TW: %1$s 被刺死了"	""
 "death.attack.cactus.player"	"%1$s walked into a cactus whilst trying to escape %2$s"	"Original Translation
 zh_CN: %1$s 在试图逃离 %2$s 时撞入了仙人掌中
 zh_TW: %1$s 要逃開 %2$s 時，被仙人掌刺了"	""
+"death.attack.dehydration"	"%1$s died from dehydration"	"Original Translation"	""
 "death.attack.drown"	"%1$s drowned"	"Original Translation
 zh_CN: %1$s 淹死了
 zh_TW: %1$s 溺水了"	""
@@ -8912,6 +8917,7 @@ zh_TW: 風彈"	"風彈"
 "entity.camel.name"	"Camel"	"Original Translation
 zh_CN: 骆驼
 zh_TW: 駱駝"	"駱駝"
+"entity.camel_husk.name"	"Camel Husk"	"Original Translation"	""
 "entity.cat.name"	"Cat"	"Original Translation
 zh_CN: 猫
 zh_TW: 小貓"	""
@@ -9093,6 +9099,7 @@ zh_TW: 圖畫"	""
 "entity.panda.name"	"Panda"	"Original Translation
 zh_CN: 熊猫
 zh_TW: 熊貓"	""
+"entity.parched.name"	"Parched"	"Original Translation"	""
 "entity.parrot.name"	"Parrot"	"Original Translation
 zh_CN: 鹦鹉
 zh_TW: 鸚鵡"	""
@@ -11527,6 +11534,9 @@ zh_TW: TAB 鍵"	""
 "hbui.Card.narrationComponentTypeButton"	"Button"	"Original Translation
 zh_CN: 按钮
 zh_TW: 按鈕"	""
+"hbui.ChatPane.narration.context"	"%1$s Chat Pane"	"Original Translation"	""
+"hbui.ChatPane.narration.sendMessage"	"Send message"	"Original Translation"	""
+"hbui.ChatPane.placeholder"	"Type message to %1$s..."	"Original Translation"	""
 "hbui.ChatRail.input.close"	"Close"	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"	""
@@ -15782,6 +15792,15 @@ zh_TW: 選擇"	""
 "hbui.EditorTab.selected"	"selected"	"Original Translation
 zh_CN: 已选择
 zh_TW: 已選擇"	""
+"hbui.EditorTagContainer.addNewTag"	"Add new tag..."	"Original Translation"	""
+"hbui.EditorTagContainer.cancel"	"Cancel"	"Original Translation"	""
+"hbui.EditorTagContainer.confirm"	"Confirm"	"Original Translation"	""
+"hbui.EditorTagContainer.enterNewTag"	"Enter new tag..."	"Original Translation"	""
+"hbui.EditorTagContainer.newTag"	"New tag"	"Original Translation"	""
+"hbui.EditorTagContainer.noTagMessage"	"Add tags with the menu..."	"Original Translation"	""
+"hbui.EditorTagContainer.tagContainer"	"Tags Container"	"Original Translation"	""
+"hbui.EditorTagContainer.tagNameDeleteNarration"	"Delete tag"	"Original Translation"	""
+"hbui.EditorTagContainer.tagNameNarration"	"Tag %1$s of %2$s"	"Original Translation"	""
 "hbui.EditorTextField.clear"	"Clear Input Field Button"	"Original Translation
 zh_CN: 清除输入字段按钮
 zh_TW: 清除輸入欄位按鈕"	""
@@ -17017,15 +17036,7 @@ zh_TW: 確定要離開目前的派對？你可能需要新的邀請才能重新�
 "hbui.LeavePartyModal.leavePartyModalTitle"	"Leave party?"	"Original Translation
 zh_CN: 离开队伍？
 zh_TW: 離開派對？"	""
-"hbui.LeavePartyModal.switchParty"	"Join new party"	"Original Translation
-zh_CN: 加入新队伍
-zh_TW: 加入我們的派對"	""
-"hbui.LeavePartyModal.switchPartyModalMessage"	"Do you want to leave your current party and join a new one? If in a world, your progress will be saved"	"Original Translation
-zh_CN: 是否要退出当前派对并加入新的派对？如果在一个世界中，你的进度将被保存
-zh_TW: 你想離開目前的隊伍並加入新隊伍嗎？若你正在世界中，系統會儲存你的進度"	""
-"hbui.LeavePartyModal.switchPartyModalTitle"	"Switch parties?"	"Original Translation
-zh_CN: 切换队伍？
-zh_TW: 要切換派對？"	""
+"hbui.LeavePartyModal.stayWithParty"	"Continue on with party"	"Original Translation"	""
 "hbui.LeaveWorldThenJoinModal.cancel"	"Go back"	"Original Translation
 zh_CN: 返回
 zh_TW: 返回"	""
@@ -20333,9 +20344,6 @@ zh_TW: 此通知載入失敗，或已刪除"	""
 "hbui.RealmsFeedModeration.item.hasImage"	"Reported item contains an image. Click to view the full screen image"	"Original Translation
 zh_CN: 举报的内容包含一个图像。点击查看全屏图像
 zh_TW: 被檢舉的項目包含圖片。按一下以檢視全螢幕圖片"	""
-"hbui.RealmsFeedModeration.item.loadingFailed"	"Notification failed to load"	"Original Translation
-zh_CN: 最新资讯加载失败
-zh_TW: 通知載入失敗"	""
 "hbui.RealmsFeedModeration.item.notifiersNarration"	"Number of notifications on story."	"Original Translation
 zh_CN: 故事最新资讯的数量。
 zh_TW: 動態上的通知數量。"	""
@@ -23636,6 +23644,10 @@ zh_TW: 已摺疊"	""
 "hbui.SwitchAccordion.stateExpanded"	"Expanded"	"Original Translation
 zh_CN: 已展开
 zh_TW: 已展開"	""
+"hbui.SwitchPartyModal.goBack"	"Go back"	"Original Translation"	""
+"hbui.SwitchPartyModal.joinNewParty"	"Join new party"	"Original Translation"	""
+"hbui.SwitchPartyModal.message"	"Do you want to leave your current party and join a new one? If in a world, your progress will be saved."	"Original Translation"	""
+"hbui.SwitchPartyModal.title"	"Switch parties?"	"Original Translation"	""
 "hbui.TabBar.narrationComponentType"	"Horizontal tab"	"Original Translation
 zh_CN: 水平选项卡
 zh_TW: 水平標籤"	""
@@ -31131,6 +31143,7 @@ zh_TW: 旋風使者生成蛋"	""
 "item.spawn_egg.entity.camel.name"	"Camel Spawn Egg"	"Original Translation
 zh_CN: 骆驼刷怪蛋
 zh_TW: 駱駝生成蛋"	""
+"item.spawn_egg.entity.camel_husk.name"	"Camel Husk Spawn Egg"	"Original Translation"	""
 "item.spawn_egg.entity.cat.name"	"Cat Spawn Egg"	"Original Translation
 zh_CN: 猫刷怪蛋
 zh_TW: 貓咪生成蛋"	""
@@ -31237,6 +31250,7 @@ zh_TW: 豹貓生成蛋"	""
 "item.spawn_egg.entity.panda.name"	"Panda Spawn Egg"	"Original Translation
 zh_CN: 熊猫刷怪蛋
 zh_TW: 熊貓生成蛋"	""
+"item.spawn_egg.entity.parched.name"	"Parched Spawn Egg"	"Original Translation"	""
 "item.spawn_egg.entity.parrot.name"	"Parrot Spawn Egg"	"Original Translation
 zh_CN: 鹦鹉刷怪蛋
 zh_TW: 鸚鵡生成蛋"	""
@@ -31973,7 +31987,7 @@ zh_TW: 厚板"	""
 "itemGroup.name.smithing_templates"	"Smithing Templates"	"Original Translation
 zh_CN: 锻造模板
 zh_TW: 鍛造範本"	""
-"itemGroup.name.spear"	"Spear"	"Original Translation"	""
+"itemGroup.name.spear"	"Spears"	"Original Translation"	""
 "itemGroup.name.splashPotion"	"Splash Potions"	"Original Translation
 zh_CN: 喷溅药水
 zh_TW: 噴濺藥水"	""
@@ -33562,13 +33576,26 @@ zh_TW: 選取「視訊」分頁以開啟視訊設定。"	""
 "menu.video.access.noicon"	"Select [A] to open the Video Settings."	"Original Translation
 zh_CN: 选择 [A] 打开”视频设置“。
 zh_TW: 選擇 [A] 開啟視訊設定。"	""
+"menu.video.gamma"	"Display brightness"	"Original Translation"	""
+"menu.video.gamma.action"	"Adjust"	"Original Translation"	""
+"menu.video.gamma.description"	"Calibrate brightness and gamma to make Minecraft easier to see"	"Original Translation"	""
 "menu.video.generalMessage"	"Video settings."	"Original Translation
 zh_CN: 视频设置。
 zh_TW: 視訊設定。"	""
-"menu.video.tab.description"	"Control how Minecraft looks and runs"	"Original Translation
+"menu.video.group.accessibility"	"Accessibility: Video"	"Original Translation"	""
+"menu.video.group.accessibility.description"	"Controls to make Minecraft more comfortable to play"	"Original Translation"	""
+"menu.video.group.customization"	"View customization"	"Original Translation"	""
+"menu.video.group.customization.description"	"Build, stream, or take screenshots without distractions"	"Original Translation"	""
+"menu.video.group.performance"	"Graphics, performance and layout"	"Original Translation"	""
+"menu.video.group.performance.description"	"Control how Minecraft looks and runs"	"Original Translation"	""
+"menu.video.mode"	"Mode"	"Original Translation"	""
+"menu.video.mode.description"	"Adjust the quality of your game visuals"	"Original Translation"	""
+"menu.video.mode_switch"	"In-game graphics mode switching."	"Original Translation"	""
+"menu.video.mode_switch.description"	"Change graphics mode during play, may affect performance. Turn off in Main Menu settings if frame rate drops."	"Original Translation"	""
+"menu.video.tab.description"	"Graphics options and visual quality settings to allow the game to look its best."	"Original Translation
 zh_CN: 控制 Minecraft 的外观和运行
 zh_TW: 控制 Minecraft 的外觀與執行方式"	""
-"menu.video.tab.title"	"Graphics, performance and layout"	"Original Translation
+"menu.video.tab.title"	"Video"	"Original Translation
 zh_CN: 图形、性能和布局
 zh_TW: 畫面、效能與版面配置"	""
 "menu.worldtemplates"	"World Templates"	"Original Translation
@@ -34339,9 +34366,10 @@ zh_TW: 自動跳躍"	""
 "options.blockAlternatives"	"Alternate Blocks"	"Original Translation
 zh_CN: 替选方块
 zh_TW: 替代的方塊"	""
-"options.bloomStrengthSlider"	"Bloom"	"Original Translation
+"options.bloomStrengthSlider"	"Bloom intensity"	"Original Translation
 zh_CN: 光晕
 zh_TW: 泛光"	""
+"options.bloomStrengthSlider.description"	"Control how vividly lights glow"	"Original Translation"	""
 "options.bubbleparticles"	"Fancy Bubbles"	"Original Translation
 zh_CN: 华丽气泡
 zh_TW: 花式泡泡"	""
@@ -34450,9 +34478,10 @@ zh_TW: 為你注視的方塊新增彩色邊框，使其更容易看見目前鎖�
 "options.clearhotbar"	"Clear Hotbar"	"Original Translation
 zh_CN: 清除热键
 zh_TW: 清除快捷欄"	""
-"options.cloudQuality"	"Clouds"	"Original Translation
+"options.cloudQuality"	"Cloud range"	"Original Translation
 zh_CN: 云
 zh_TW: 雲朵"	""
+"options.cloudQuality.description"	"Control the render distance of clouds"	"Original Translation"	""
 "options.cloudQuality.high"	"High"	"Original Translation
 zh_CN: 高
 zh_TW: 高"	""
@@ -34731,6 +34760,8 @@ zh_TW: 史提夫"	""
 "options.deferred.renderDistance"	"Deferred Render Distance"	"Original Translation
 zh_CN: 延迟能见度
 zh_TW: 延遲渲染距離"	""
+"options.deferred.renderDistance.description"	"Adjust the distance at which detail is rendered. A high render distance could impact performance."	"Original Translation"	""
+"options.deferred.renderDistance.name"	"Render Distance"	"Original Translation"	""
 "options.deferred.renderDistanceFormat"	"%s chunks"	"Original Translation
 zh_CN: %s 个区块
 zh_TW: %s 個區塊"	""
@@ -35535,16 +35566,16 @@ zh_TW: 聊天文字轉語音輸出"	""
 "options.enableChatTextToSpeech.description"	"Hear chat messages with text to speech"	"Original Translation
 zh_CN: 使用文字转语音输出功能听取聊天消息
 zh_TW: 透過文字轉語音聽取聊天訊息"	""
-"options.enableDitheringBlocks"	"Enable Dithering for Blocks"	"Original Translation
+"options.enableDitheringBlocks"	"Block dithering"	"Original Translation
 zh_CN: 启用方块抖动处理
 zh_TW: 啟用方塊的遞色效果"	""
 "options.enableDitheringBlocks.description"	"Enables an effect that fades out certain blocks near the player camera, such as sugar cane"	"Original Translation
 zh_CN: 启用一种效果，使玩家视角附近的某些方块（如甘蔗）逐渐淡出
 zh_TW: 啟用會淡出玩家鏡頭附近特定方塊 (例如甘蔗) 的效果"	""
-"options.enableDitheringMobs"	"Enable Dithering for Mobs"	"Original Translation
+"options.enableDitheringMobs"	"Player and mob dithering"	"Original Translation
 zh_CN: 启用生物抖动处理
 zh_TW: 啟用生物的遞色效果"	""
-"options.enableDitheringMobs.description"	"Enables an effect that fades out Mobs near the player camera"	"Original Translation
+"options.enableDitheringMobs.description"	"Enables an effect that fades out players and mobs near the player camera"	"Original Translation
 zh_CN: 启用一种效果，使玩家视角附近的生物逐渐淡出
 zh_TW: 啟用會淡出玩家鏡頭附近生物的效果"	""
 "options.enableEcoMode"	"Lower Framerate When Controller Is Disconnected"	"Original Translation
@@ -35592,6 +35623,7 @@ zh_TW: Realms 採購履行失敗"	""
 "options.fancyskies"	"Beautiful Skies"	"Original Translation
 zh_CN: 美丽的天空
 zh_TW: 美麗的天空"	""
+"options.fancyskies.description"	"Show sun, moon, stars, and atmospheric effects"	"Original Translation"	""
 "options.farWarning1"	"A 64 bit Java installation is recommended"	"Original Translation
 zh_CN: 推荐安装64位的Java以使用能见度
 zh_TW: 建議安裝 64 位元 Java"	""
@@ -35667,7 +35699,7 @@ zh_TW: 強制使用 Unicode 字符"	""
 "options.fov"	"FOV"	"Original Translation
 zh_CN: 视野
 zh_TW: 視野"	""
-"options.fov.description"	"Adjust the viewing angle of the in-game camera. This will affect the limits of your peripheral vision"	"Original Translation
+"options.fov.description"	"Adjust the viewing angle of the in-game camera"	"Original Translation
 zh_CN: 调整游戏内摄像机的视角。这将会影响你的周边视野范围
 zh_TW: 調整遊戲內攝影機的視角。這會影響您的周邊視野範圍"	""
 "options.fov.format"	"%s°"	"Original Translation
@@ -35679,9 +35711,12 @@ zh_TW: 超廣角"	""
 "options.fov.min"	"Normal"	"Original Translation
 zh_CN: 普通
 zh_TW: 普通"	""
+"options.fov.name"	"Field of view"	"Original Translation"	""
 "options.fov.toggle"	"FOV Can Be Altered By Gameplay"	"Original Translation
 zh_CN: FOV 可以通过游戏指南更改
 zh_TW: 視野可透過遊戲控制調整"	""
+"options.fov.toggle.description"	"Allow gameplay effects like sprinting or potion use to temporarily change the Field Of View"	"Original Translation"	""
+"options.fov.toggle.name"	"Field of view can be altered by gameplay"	"Original Translation"	""
 "options.framePacing"	"Frame pacing"	"Original Translation
 zh_CN: 帧同步
 zh_TW: 影格同步"	""
@@ -35703,6 +35738,7 @@ zh_TW: 全鍵盤佈局"	""
 "options.fullscreen"	"Fullscreen"	"Original Translation
 zh_CN: 全屏
 zh_TW: 全螢幕"	""
+"options.fullscreen.description"	"Minecraft, in full screen"	"Original Translation"	""
 "options.gamepadcursorsensitivity"	"Controller Cursor Sensitivity"	"Original Translation
 zh_CN: 控制器光标灵敏度
 zh_TW: 控制器游標靈敏度"	""
@@ -35772,9 +35808,12 @@ zh_TW: 圖形模式"	""
 "options.graphicsMode.deferred"	"Vibrant Visuals"	"Original Translation
 zh_CN: 灵动视效
 zh_TW: 絢麗視覺"	""
+"options.graphicsMode.deferred.description"	"Vibrant visuals for a richer, more immersive look. Requires a supported device and compatible Marketplace content"	"Original Translation"	""
+"options.graphicsMode.deferred.name"	"Vibrant"	"Original Translation"	""
 "options.graphicsMode.fancy"	"Fancy"	"Original Translation
 zh_CN: 花式
 zh_TW: 精美"	""
+"options.graphicsMode.fancy.description"	"Classic fancy, great for most devices"	"Original Translation"	""
 "options.graphicsMode.performanceWarning.leftButton"	"Enable"	"Original Translation
 zh_CN: 启用
 zh_TW: 啟用"	""
@@ -35787,9 +35826,11 @@ zh_TW: 真的要啟用絢麗視覺效果？"	""
 "options.graphicsMode.rayTraced"	"Ray Traced"	"Original Translation
 zh_CN: 光线追踪
 zh_TW: 光線追蹤"	""
+"options.graphicsMode.rayTraced.description"	"Advanced realtime lighting and reflections"	"Original Translation"	""
 "options.graphicsMode.simple"	"Simple"	"Original Translation
 zh_CN: 简约
 zh_TW: 簡單"	""
+"options.graphicsMode.simple.description"	"Best for low-end or older devices"	"Original Translation"	""
 "options.graphicsMode.tooltip"	"Vibrant Visuals requires a supported device and is not compatible with Marketplace Texture Packs or Worlds."	"Original Translation
 zh_CN: 灵动视效需要受支持的设备，且与市场材质包或世界不兼容。
 zh_TW: 絢麗視覺需要支援支援的裝置，而且不與市集材質套件或世界相容。"	""
@@ -35817,12 +35858,19 @@ zh_TW: 品質預設模式"	""
 "options.graphicsQualityPresetMode.custom"	"Custom"	"Original Translation
 zh_CN: 自定义
 zh_TW: 自訂"	""
+"options.graphicsQualityPresetMode.custom.description"	"Your preferences, as you wish"	"Original Translation"	""
+"options.graphicsQualityPresetMode.description"	"Choose between optimized performance or enhanced visuals"	"Original Translation"	""
+"options.graphicsQualityPresetMode.name"	"Preferences"	"Original Translation"	""
 "options.graphicsQualityPresetMode.performance"	"Favor Performance"	"Original Translation
 zh_CN: 性能优先
 zh_TW: 偏好效能"	""
+"options.graphicsQualityPresetMode.performance.description"	"Favor frame rate and responsiveness"	"Original Translation"	""
+"options.graphicsQualityPresetMode.performance.name"	"Performance"	"Original Translation"	""
 "options.graphicsQualityPresetMode.visuals"	"Favor Visuals"	"Original Translation
 zh_CN: 视觉优先
 zh_TW: 偏好視覺效果"	""
+"options.graphicsQualityPresetMode.visuals.description"	"Favor visual quality and immersion"	"Original Translation"	""
+"options.graphicsQualityPresetMode.visuals.name"	"Visuals"	"Original Translation"	""
 "options.group.audio"	"Sound"	"Original Translation
 zh_CN: 音效
 zh_TW: 聲音"	""
@@ -35859,9 +35907,10 @@ zh_TW: 啟用超大版本的新 UI 選單作為附加的輔助功能選項。這
 "options.guiAccessibilityScaling"	"Extra large UI"	"Original Translation
 zh_CN: 超大用户界面
 zh_TW: 超大 UI"	""
-"options.guiAccessibilityScaling.description"	"Turns on an extra large version of the UI for increased clarity. This may cause visual glitches in some menu screens"	"Original Translation
+"options.guiAccessibilityScaling.description"	"Make the updated menus bigger. Some parts might look a bit glitchy"	"Original Translation
 zh_CN: 打开超大版用户界面以提高清晰度。此设置可能导致部分菜单屏幕显示异常
 zh_TW: 開啟超大版本的 UI 以提高清晰度。這可能會在某些選單畫面中造成視覺錯誤"	""
+"options.guiAccessibilityScaling.name"	"Extra large new UI"	"Original Translation"	""
 "options.guiScale"	"D-pad size"	"Original Translation
 zh_CN: 方向键大小
 zh_TW: 方向鍵大小"	""
@@ -35889,9 +35938,10 @@ zh_TW: 普通"	""
 "options.guiScale.optionName"	"GUI Scale Modifier"	"Original Translation
 zh_CN: GUI 标度修正
 zh_TW: GUI 比例修改器"	""
-"options.guiScale.optionName.description"	"Choose the size of the HUD and other User Interface elements to make them clearer and easier to use on different screens and devices"	"Original Translation
+"options.guiScale.optionName.description"	"Adjust the size of the HUD and other User Interface elements"	"Original Translation
 zh_CN: 选择 HUD 和其他用户界面元素的大小，使它们在不同的屏幕和设备上更清晰、更易于使用
 zh_TW: 選擇 HUD 與其他使用者介面元素的大小，使其在不同螢幕和裝置上更清晰、更易於使用"	""
+"options.guiScale.optionName.name"	"UI scale modifier"	"Original Translation"	""
 "options.guiScale.small"	"Small"	"Original Translation
 zh_CN: 小
 zh_TW: 小"	""
@@ -35931,7 +35981,7 @@ zh_TW: 在第一人稱視角中隱藏您的手，以及您可能持有的任何�
 "options.hidehud"	"Hide HUD"	"Original Translation
 zh_CN: 隐藏 HUD
 zh_TW: 隱藏 HUD"	""
-"options.hidehud.description"	"Hides the entire Heads Up Display from view"	"Original Translation
+"options.hidehud.description"	"Hide your Heads-Up Display - the health, hunger, and item bars"	"Original Translation
 zh_CN: 隐藏整个平视显示器
 zh_TW: 隱藏整個 HUD 介面"	""
 "options.hidepaperdoll"	"Hide Paper Doll"	"Original Translation
@@ -35973,15 +36023,18 @@ zh_TW: 控制工具提示以及 /title 指令文字的背景"	""
 "options.improvedInputResponsePlaceholder"	"Improved Input Response"	"Original Translation
 zh_CN: 改进的输入响应
 zh_TW: 改善輸入回應"	""
+"options.improvedInputResponsePlaceholder.description"	"Makes the game react faster when you press buttons or move. May increase power consumption"	"Original Translation"	""
+"options.improvedInputResponsePlaceholder.name"	"Improved input response"	"Original Translation"	""
 "options.improvedInputResponsePlaceholder.tooltip"	"Reduces the delay between your input and what you see on your screen. This setting might use more battery power."	"Original Translation
 zh_CN: 缩短输入和屏幕显示内容之间的延迟。该设置可能会耗费较多的电池电量。
 zh_TW: 減少您的輸入和您在螢幕上看到內容之間的延遲。此設定可能會消耗更多電池電量。"	""
 "options.ingamePlayerNames"	"In-game Player Names"	"Original Translation
 zh_CN: 游戏内玩家昵称
 zh_TW: 玩家遊戲名稱"	""
-"options.ingamePlayerNames.description"	"Reveals the usernames of other players in the world, visible above their heads"	"Original Translation
+"options.ingamePlayerNames.description"	"Display the profile names of players in the world, visible above their heads when playing split-screen"	"Original Translation
 zh_CN: 显示世界中其他玩家的用户名，悬浮于其头顶可见
 zh_TW: 顯示世界中其他玩家的使用者名稱 (於角色頭頂上方)"	""
+"options.ingamePlayerNames.name"	"Show player names"	"Original Translation"	""
 "options.interactionmodel"	"Interaction Model"	"Original Translation
 zh_CN: 交互模型
 zh_TW: 互動模型"	""
@@ -35997,7 +36050,7 @@ zh_TW: 觸控"	""
 "options.interfaceOpacity"	"HUD Opacity"	"Original Translation
 zh_CN: HUD 不透明度
 zh_TW: HUD 不透明度"	""
-"options.interfaceOpacity.description"	"Adjust how much you can see through the Heads Up Display"	"Original Translation
+"options.interfaceOpacity.description"	"Adjust how much you can see through the Heads-Up Display"	"Original Translation
 zh_CN: 调整平视显示器可以看到的范围
 zh_TW: 調整 HUD 介面的不透明度"	""
 "options.invertMouse"	"Invert Mouse"	"Original Translation
@@ -36087,6 +36140,7 @@ zh_TW: 若要管理隱私權設定，請使用任何網路瀏覽器造訪 https:
 "options.maxFramerate"	"Framerate Limit"	"Original Translation
 zh_CN: 帧率限制
 zh_TW: 畫面幀率上限"	""
+"options.maxFramerate.description"	"Cap the game’s maximum frames per second to maintain a steady frame rate or prevent overheating your device"	"Original Translation"	""
 "options.maxFramerate.tooltip"	"Lower the game's maximum framerate to improve battery life and device health. Actual framerate may fall below the set limit."	"Original Translation
 zh_CN: 降低游戏的最大帧率以延长电池寿命和改善设备健康。实际帧率可能会低于设定限值。
 zh_TW: 降低遊戲的最大影格率，以延長電池續航力和裝置健康。實際影格率可能會低於設定的限制。"	""
@@ -36120,6 +36174,7 @@ zh_TW: 右衣袖"	""
 "options.msaa"	"Anti-Aliasing"	"Original Translation
 zh_CN: 抗锯齿
 zh_TW: 消除鋸齒"	""
+"options.msaa.description"	"How smooth do you like your blocks? Higher values may affect performance"	"Original Translation"	""
 "options.multiplayer.title"	"Multiplayer Settings..."	"Original Translation
 zh_CN: 多人游戏设置…
 zh_TW: 多人遊戲設定..."	""
@@ -36309,6 +36364,7 @@ zh_TW: 視訊效能設定"	""
 "options.pointLightLODingQuality"	"Point Light Quality"	"Original Translation
 zh_CN: 点光源质量
 zh_TW: 點光源品質"	""
+"options.pointLightLODingQuality.description"	"Adjust level of detail for point light"	"Original Translation"	""
 "options.pointLightLODingQuality.high"	"High"	"Original Translation
 zh_CN: 高
 zh_TW: 高"	""
@@ -36327,6 +36383,7 @@ zh_TW: 超高"	""
 "options.pointLightShadowQuality"	"Point Light Shadow Quality"	"Original Translation
 zh_CN: 点光源阴影质量
 zh_TW: 點光源陰影品質"	""
+"options.pointLightShadowQuality.description"	"Adjust level of detail for point light shadows"	"Original Translation"	""
 "options.pointLightShadowQuality.high"	"High"	"Original Translation
 zh_CN: 高
 zh_TW: 高"	""
@@ -36396,6 +36453,7 @@ zh_TW: 簡化除錯資訊"	""
 "options.reflectionsQuality"	"Reflections"	"Original Translation
 zh_CN: 反射
 zh_TW: 反射"	""
+"options.reflectionsQuality.description"	"Control resolution and sample quality of reflections"	"Original Translation"	""
 "options.reflectionsQuality.high"	"High"	"Original Translation
 zh_CN: 高
 zh_TW: 高"	""
@@ -36534,6 +36592,7 @@ zh_TW: LAN 玩家可見"	""
 "options.shadowQuality"	"Shadow Quality"	"Original Translation
 zh_CN: 阴影质量
 zh_TW: 陰影品質"	""
+"options.shadowQuality.description"	"Control the resolution and render distance of shadows"	"Original Translation"	""
 "options.shadowQuality.high"	"High"	"Original Translation
 zh_CN: 高
 zh_TW: 高"	""
@@ -36573,9 +36632,10 @@ zh_TW: 顯示觸控控制項選擇畫面"	""
 "options.showautosaveicon"	"Show Autosave Icon"	"Original Translation
 zh_CN: 显示自动保存图标
 zh_TW: 顯示自動儲存圖示"	""
-"options.showautosaveicon.description"	"Turns on the on-screen save indicator, which will show whenever the game autosaves"	"Original Translation
+"options.showautosaveicon.description"	"Display an icon when the game is autosaving"	"Original Translation
 zh_CN: 打开屏幕上的保存指示器，每当游戏自动保存时它就会显示
 zh_TW: 開啟自動儲存圖示，在遊戲儲存時會顯示於畫面上"	""
+"options.showautosaveicon.name"	"Show autosave icon"	"Original Translation"	""
 "options.skin.change"	"Change Skin"	"Original Translation
 zh_CN: 更改皮肤
 zh_TW: 變更外觀"	""
@@ -36600,6 +36660,7 @@ zh_TW: 緩慢旋轉速度"	""
 "options.smooth_lighting"	"Smooth Lighting"	"Original Translation
 zh_CN: 平滑光照
 zh_TW: 柔和光源"	""
+"options.smooth_lighting.description"	"Enable smoother light transitions for more natural looking shadows and brightness"	"Original Translation"	""
 "options.sneakOption"	"Sneak"	"Original Translation
 zh_CN: 潜行
 zh_TW: 潛行"	""
@@ -36645,6 +36706,7 @@ zh_TW: 音訊設定"	""
 "options.splitscreen"	"Split Screen"	"Original Translation
 zh_CN: 拆分屏幕
 zh_TW: 分割畫面"	""
+"options.splitscreen.description"	"Choose whether to split screen vertically or horizontally when using split screen"	"Original Translation"	""
 "options.splitscreen.horizontal"	"Horizontal Split Screen"	"Original Translation
 zh_CN: 水平拆分屏幕
 zh_TW: 水平分割畫面"	""
@@ -36657,9 +36719,12 @@ zh_TW: 分割畫面 HUD 大小"	""
 "options.splitscreenIngamePlayerNames"	"Splitscreen In-game Player Names"	"Original Translation
 zh_CN: 分屏游戏内玩家昵称
 zh_TW: 分割畫面玩家遊戲名稱"	""
+"options.splitscreenIngamePlayerNames.description"	"Display the profile names of players in the world, visible above their heads when playing split-screen"	"Original Translation"	""
+"options.splitscreenIngamePlayerNames.name"	"Show player names in split-screen"	"Original Translation"	""
 "options.splitscreenInterfaceOpacity"	"Splitscreen HUD Opacity"	"Original Translation
 zh_CN: 分屏 HUD 不透明度
 zh_TW: 分割畫面 HUD 不透明度"	""
+"options.splitscreenInterfaceOpacity.description"	"Adjust how much you can see through the Heads Up Display in split screen"	"Original Translation"	""
 "options.splitvibration"	"Vibrate When Splitting Items"	"Original Translation
 zh_CN: 拆分物品时振动
 zh_TW: 拆分物品時震動"	""
@@ -36798,6 +36863,8 @@ zh_TW: 地形陰影"	""
 "options.texelAA"	"Texel Anti-Aliasing"	"Original Translation
 zh_CN: 纹素抗锯齿
 zh_TW: 材質消除鋸齒"	""
+"options.texelAA.description"	"How smooth do you like your blocks? Higher values may affect performance"	"Original Translation"	""
+"options.texelAA.name"	"Texel Anti-Aliasing"	"Original Translation"	""
 "options.thirdperson"	"Camera Perspective"	"Original Translation
 zh_CN: 摄像机视角
 zh_TW: 攝影機視角"	""
@@ -36856,6 +36923,7 @@ zh_TW: 觸控模式"	""
 "options.transparentleaves"	"Fancy Leaves"	"Original Translation
 zh_CN: 花俏的树叶
 zh_TW: 花俏的樹葉"	""
+"options.transparentleaves.description"	"Leaves but better"	"Original Translation"	""
 "options.turnOffAchievements"	"Turn off achievements?"	"Original Translation
 zh_CN: 关闭成就？
 zh_TW: 關閉成就？"	""
@@ -36901,6 +36969,7 @@ zh_TW: UI 設定檔"	""
 "options.uiprofile.classic"	"Classic"	"Original Translation
 zh_CN: 经典
 zh_TW: 傳統"	""
+"options.uiprofile.description"	"Choose between Classic and Pocket (mobile) interface layouts"	"Original Translation"	""
 "options.uiprofile.pocket"	"Pocket"	"Original Translation
 zh_CN: 携带版
 zh_TW: Pocket"	""
@@ -36943,18 +37012,22 @@ zh_TW: 此更新能增加世界的高度和深度。本次更新在目前的世�
 "options.upscaling"	"Upscaling"	"Original Translation
 zh_CN: 画质提升
 zh_TW: 升級"	""
-"options.upscalingMode"	"Upscaling Mode"	"Original Translation
+"options.upscalingMode"	"Upscaling mode"	"Original Translation
 zh_CN: 上采样模式
 zh_TW: 放大模式"	""
+"options.upscalingMode.description"	"Select the technique to use for upscaling"	"Original Translation"	""
 "options.upscalingModeOptions.bilinear"	"Bilinear"	"Original Translation
 zh_CN: 双线性
 zh_TW: 雙線性"	""
+"options.upscalingModeOptions.bilinear.description"	"Stretch the frame to fit the screen, more suitable for low end devices"	"Original Translation"	""
 "options.upscalingModeOptions.taau"	"TAAU"	"Original Translation
 zh_CN: TAAU
 zh_TW: TAAU"	""
+"options.upscalingModeOptions.taau.description"	"Use multiple frames to create a crisper upscaled frame"	"Original Translation"	""
 "options.upscalingPercentage"	"Resolution"	"Original Translation
 zh_CN: 分辨率
 zh_TW: 解析度"	""
+"options.upscalingPercentage.description"	"Fine tune your upscaling resolution"	"Original Translation"	""
 "options.upscalingPercentage.hundred"	"Native"	"Original Translation
 zh_CN: 原始
 zh_TW: 原始"	""
@@ -36979,6 +37052,9 @@ zh_TW: 使用 VBO"	""
 "options.video"	"Video"	"Original Translation
 zh_CN: 视频
 zh_TW: 視訊"	""
+"options.video.resetSettings"	"Reset to default"	"Original Translation"	""
+"options.video.resetSettings.buttonLabel"	"Reset"	"Original Translation"	""
+"options.video.resetSettings.description"	"Restore all video settings to their original values"	"Original Translation"	""
 "options.videoTitle"	"Video Settings"	"Original Translation
 zh_CN: 视频设置
 zh_TW: 視訊設定"	""
@@ -37072,6 +37148,7 @@ zh_TW: 顯示"	""
 "options.volumetricFogQuality"	"Volumetric Fog Quality"	"Original Translation
 zh_CN: 体积雾质量
 zh_TW: 體積霧品質"	""
+"options.volumetricFogQuality.description"	"Adjust level of detail for more immersive fog"	"Original Translation"	""
 "options.volumetricFogQuality.high"	"High"	"Original Translation
 zh_CN: 高
 zh_TW: 高"	""
@@ -37308,7 +37385,7 @@ zh_TW: 設定隊伍隊長失敗"	""
 "parties.toast.travelToMenu"	"Party loading - Main Menu"	"Original Translation
 zh_CN: 派对加载中 - 主菜单
 zh_TW: 隊伍載入中 - 主選單"	""
-"parties.toast.travelToWorld"	"Party loading - Player world"	"Original Translation
+"parties.toast.travelToWorld"	"Party loading - %s"	"Original Translation
 zh_CN: 派对加载中 - 玩家世界
 zh_TW: 隊伍載入中 - 玩家世界"	""
 "patchNotes.continue"	"Continue"	"Original Translation
