@@ -329,9 +329,6 @@ zh_TW: 按 %s 以選取左標籤"	"按 %s 以選取左標籤"
 "accessibility.play.tabRight"	"Press the %s to tab right"	"Original Translation
 zh_CN: 按下选项卡右边的 %s
 zh_TW: 按 %s 以選取右標籤"	"按 %s 以選取右標籤"
-"accessibility.play.uploadWorld"	"Upload World"	"Original Translation
-zh_CN: 上传世界
-zh_TW: 上傳世界"	"上傳世界"
 "accessibility.popup.joinRealm"	"Join Realm Screen"	"Original Translation
 zh_CN: 加入 Realms 屏幕
 zh_TW: 加入 Realm 畫面"	"加入 Realm 畫面"
@@ -1054,7 +1051,7 @@ zh_TW: 點擊潛行以取消搭乘"	""
 "action.hint.exit.trader_llama"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻触潜行可以下马
 zh_TW: 輕觸潛行以取消乘坐"	""
-"action.hint.exit.zombie_horse"	"Tap sneak to dismount"	"Original Translation"	""
+"action.hint.exit.zombie_horse"	"Press :_input_key.sneak: to dismount"	"Original Translation"	""
 "action.hint.exit.zombie_nautilus"	"Tap sneak to dismount"	"Original Translation"	""
 "action.interact.allay"	"Give item to Allay"	"Original Translation
 zh_CN: 给悦灵物品
@@ -6071,9 +6068,6 @@ zh_TW: TNT 會爆炸"	""
 "createWorldScreen.trustPlayers"	"Trust Players"	"Original Translation
 zh_CN: 信任玩家
 zh_TW: 信任玩家"	""
-"createWorldScreen.upload"	"Upload World"	"Original Translation
-zh_CN: 上传世界
-zh_TW: 上傳世界"	""
 "createWorldScreen.weathercycle"	"Weather Cycle"	"Original Translation
 zh_CN: 天气更替
 zh_TW: 天氣循環"	""
@@ -8378,6 +8372,66 @@ zh_TW: 從 Realms 下載成功。世界位置：%s"	""
 "editor.logging.worldExportMessage"	"Exporting world was Successful. World Location: %s"	"Original Translation
 zh_CN: 成功导出世界。世界位置：%s
 zh_TW: 匯出世界成功。世界位置：%s"	""
+"editor.prefabInstanceEditor.templatePicker.button.cancel"	"Cancel"	"Original Translation"	""
+"editor.prefabInstanceEditor.templatePicker.button.select"	"Select"	"Original Translation"	""
+"editor.prefabInstanceEditor.templatePicker.dropdown.title"	"Templates"	"Original Translation"	""
+"editor.prefabInstanceEditor.templatePicker.instruction"	"Select a prefab template"	"Original Translation"	""
+"editor.prefabInstanceEditor.templatePicker.properties.description"	"Description"	"Original Translation"	""
+"editor.prefabInstanceEditor.templatePicker.properties.displayName"	"Display Name"	"Original Translation"	""
+"editor.prefabInstanceEditor.templatePicker.properties.location"	"Location"	"Original Translation"	""
+"editor.prefabInstanceEditor.templatePicker.properties.name"	"Name"	"Original Translation"	""
+"editor.prefabInstanceEditor.templatePicker.properties.notes"	"Notes"	"Original Translation"	""
+"editor.prefabInstanceEditor.templatePicker.properties.title"	"Template Properties"	"Original Translation"	""
+"editor.prefabInstanceEditor.templatePicker.title"	"Choose Template:"	"Original Translation"	""
+"editor.prefabInstanceEditor.templatePicker.tool.quickAction.groupTitle"	"Mode"	"Original Translation"	""
+"editor.prefabInstanceEditor.templatePicker.tool.quickAction.groupTitle.tooltip"	"Select the mode for quick actions when placing prefab instances."	"Original Translation"	""
+"editor.prefabInstanceEditor.templatePicker.tool.quickAction.pickMode"	"Pick Mode"	"Original Translation"	""
+"editor.prefabInstanceEditor.templatePicker.tool.quickAction.pickMode.tooltip"	"Allows you to pick an instance in the world to edit its properties."	"Original Translation"	""
+"editor.prefabInstanceEditor.templatePicker.tool.quickAction.placeMode"	"Place Mode"	"Original Translation"	""
+"editor.prefabInstanceEditor.templatePicker.tool.quickAction.placeMode.tooltip"	"Allows you to place an instance of the current template into the map."	"Original Translation"	""
+"editor.prefabInstanceEditor.templatePicker.tool.rootPane"	"Prefab Instance Editor"	"Original Translation"	""
+"editor.prefabInstanceEditor.templatePicker.tool.title"	"Prefab Instance Editor"	"Original Translation"	""
+"editor.prefabInstanceEditor.templatePicker.tool.tooltip"	"Tool for placing prefab instances in the world"	"Original Translation"	""
+"editor.prefabTemplateEditor.actionBar.title"	"Prefab Templates"	"Original Translation"	""
+"editor.prefabTemplateEditor.actionBar.tooltip"	"Prefab Template Manager"	"Original Translation"	""
+"editor.prefabTemplateEditor.actionBar.tooltip.description"	"Prefab Template Editor allows you to create and edit templates for use with the Prefab Tool. Templates can be used to quickly place structures in your world."	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.prefabInstance.title"	"Prefab Manager"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.prefabTemplate.structure.focus"	"Focus"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.prefabTemplate.structure.mirrorX"	"Mirror X"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.prefabTemplate.structure.mirrorZ"	"Mirror Z"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.prefabTemplate.structure.offset"	"Structure Offset"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.prefabTemplate.structure.origin"	"Structure Origin"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.prefabTemplate.structure.remove"	"Remove"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.prefabTemplate.structure.rootOffset"	"Offset"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.prefabTemplate.structure.rotation"	"Rotation"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.prefabTemplate.structure.rotation.180"	"180 Degrees"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.prefabTemplate.structure.rotation.270"	"270 Degrees"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.prefabTemplate.structure.rotation.90"	"90 Degrees"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.prefabTemplate.structure.rotation.none"	"None"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.prefabTemplate.structure.size"	"Structure Size"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.prefabTemplate.title"	"Prefab Template"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.root.title"	"Prefab Template Editor"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.templateManager.copyTemplate"	"Copy Template"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.templateManager.deleteTemplate"	"Delete Template"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.templateManager.editTemplate"	"Edit Template"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.templateManager.newTemplate.displayName"	"Display Name"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.templateManager.newTemplate.displayName.tooltip"	"Display Name for new template"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.templateManager.newTemplate.name"	"Name"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.templateManager.newTemplate.name.tooltip"	"Unique Template Name"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.templateManager.newTemplate.title"	"New Template"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.templateManager.newtemplate"	"New Template"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.templateManager.templates.deleteTemplate.title"	"Are you sure you want to delete ""%s"" ?"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.templateManager.templates.newTemplate"	"Enter a new template name"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.templateManager.templates.title"	"Templates"	"Original Translation"	""
+"editor.prefabTemplateEditor.pane.templateManager.title"	"Prefab Template Manager"	"Original Translation"	""
+"editor.prefabTemplateEditor.structurePicker.instruction"	"Select a structure"	"Original Translation"	""
+"editor.prefabTemplateEditor.structurePicker.picker.cancel"	"Cancel"	"Original Translation"	""
+"editor.prefabTemplateEditor.structurePicker.picker.select"	"Select"	"Original Translation"	""
+"editor.prefabTemplateEditor.structurePicker.picker.title"	"Structures"	"Original Translation"	""
+"editor.prefabTemplateEditor.structurePicker.title"	"Select Structure"	"Original Translation"	""
+"editor.prefabTemplateEditor.tool.addStructure"	"Add Structure"	"Original Translation"	""
+"editor.prefabTemplateEditor.tool.title"	"Prefab Template Editor"	"Original Translation"	""
+"editor.prefabTemplateEditor.tool.tooltip"	"Tool for editing prefab templates"	"Original Translation"	""
 "editor.sharedUtils.modaldialogconfirmation.No"	"No"	"Original Translation
 zh_CN: 否
 zh_TW: 否"	""
@@ -8399,6 +8453,18 @@ zh_TW: 確定"	""
 "editor.sharedUtils.modaldialogstringinput.title"	"Input Required"	"Original Translation
 zh_CN: 需要输入
 zh_TW: 需要輸入"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffsetBack.title"	"Nudge Back"	"Original Translation"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffsetBack.tooltip"	"Nudge the prefab instance offset back by 1 block."	"Original Translation"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffsetDown.title"	"Nudge Down"	"Original Translation"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffsetDown.tooltip"	"Nudge the prefab instance offset down by 1 block."	"Original Translation"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffsetForward.title"	"Nudge Forward"	"Original Translation"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffsetForward.tooltip"	"Nudge the prefab instance offset forward by 1 block."	"Original Translation"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffsetLeft.title"	"Nudge Left"	"Original Translation"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffsetLeft.tooltip"	"Nudge the prefab instance offset left by 1 block."	"Original Translation"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffsetRight.title"	"Nudge Right"	"Original Translation"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffsetRight.tooltip"	"Nudge the prefab instance offset right by 1 block."	"Original Translation"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffsetUp.title"	"Nudge Up"	"Original Translation"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffsetUp.tooltip"	"Nudge the prefab instance offset up by 1 block."	"Original Translation"	""
 "editor.vibrantVisuals.pane.graphicsProgress"	"Refreshing graphics, please wait..."	"Original Translation
 zh_CN: 正在刷新图形，请稍候…
 zh_TW: 正在重新整理圖形，請稍候…"	""
@@ -11121,7 +11187,7 @@ zh_TW: 解鎖"	""
 zh_CN: 返回
 zh_TW: 返回"	""
 "hbui.BackButton.narration.backButton"	"Back button"	"Original Translation
-zh_CN: 返回按钮
+zh_CN: 返回键
 zh_TW: 返回按鈕"	""
 "hbui.BackButton.narrationComponentType"	"Button"	"Original Translation
 zh_CN: 按钮
@@ -11316,10 +11382,10 @@ zh_TW: 開啟"	""
 zh_CN: 已选择
 zh_TW: 已選取"	""
 "hbui.BaseDropdown.stateCollapsed"	"Collapsed"	"Original Translation
-zh_CN: 崩溃的
+zh_CN: 已折叠
 zh_TW: 已摺疊"	""
 "hbui.BaseDropdown.stateExpanded"	"Expanded"	"Original Translation
-zh_CN: 扩展的
+zh_CN: 已扩展
 zh_TW: 已展開"	""
 "hbui.BaseDropdown.toggleElementType"	"Option"	"Original Translation
 zh_CN: 选项
@@ -11361,10 +11427,10 @@ zh_TW: 開關"	""
 zh_CN: 禁用
 zh_TW: 停用"	""
 "hbui.BaseSwitch.off"	"Off"	"Original Translation
-zh_CN: 关闭
+zh_CN: 关
 zh_TW: 關閉"	""
 "hbui.BaseSwitch.on"	"On"	"Original Translation
-zh_CN: 打开
+zh_CN: 开
 zh_TW: 開啟"	""
 "hbui.BaseSwitch.toggle"	"Toggle"	"Original Translation
 zh_CN: 切换
@@ -11708,27 +11774,17 @@ zh_TW: 對這個世界做出的編輯，代表你將無法再於此世界獲得�
 "hbui.ConfirmDisableAchievementsModal.title"	"You can’t earn achievements"	"Original Translation
 zh_CN: 你无法获得成就
 zh_TW: 您無法獲得成就"	""
-"hbui.ConnectionErrorRoute.backToMenu"	"Back to menu"	"Original Translation
-zh_CN: 返回菜单
-zh_TW: 返回選單"	""
-"hbui.ConnectionErrorRoute.codewordDetailsHelp"	"Search help.Minecraft.net with the codeword above for more information."	"Original Translation
-zh_CN: 使用上方的密码搜索 help.Minecraft.net，以获取更多信息。
-zh_TW: 使用上方的代號搜尋 help.Minecraft.net 以獲得更多資訊。"	""
-"hbui.ConnectionErrorRoute.codewordHelp"	"Search help.Minecraft.net for ""%1$s"" for more information."	"Original Translation
-zh_CN: 有关更多信息，请在 help.Minecraft.net 上搜索 ""%1$s""。
-zh_TW: 搜尋 help.Minecraft.net 以獲得「%1$s」的更多資訊。"	""
-"hbui.ConnectionErrorRoute.errorDetailsHelp"	"For further assistance, submit a support ticket with a screenshot of these details."	"Original Translation
-zh_CN: 如需进一步帮助，请提交支持凭证，并附上这些详细信息的屏幕截图。
-zh_TW: 若需進一步協助，請提交支援票證，內容包含這些細節的螢幕截圖。"	""
-"hbui.ConnectionErrorRoute.header"	"Error details"	"Original Translation
-zh_CN: 错误详情
-zh_TW: 錯誤詳細資訊"	""
-"hbui.ConnectionErrorRoute.learnMore"	"Learn more"	"Original Translation
-zh_CN: 了解更多
-zh_TW: 深入了解"	""
-"hbui.ConnectionErrorRoute.showDetails"	"Show details"	"Original Translation
-zh_CN: 显示详情
-zh_TW: 顯示詳細資訊"	""
+"hbui.ConnectionErrorRoute.details.codewordDetailsHelp"	"Search help.Minecraft.net with the codeword above for more information."	"Original Translation"	""
+"hbui.ConnectionErrorRoute.details.errorDetailsHelp"	"For further assistance, submit a support ticket with a screenshot of these details."	"Original Translation"	""
+"hbui.ConnectionErrorRoute.details.fromServer"	"From %1$s"	"Original Translation"	""
+"hbui.ConnectionErrorRoute.details.header"	"Error details"	"Original Translation"	""
+"hbui.ConnectionErrorRoute.server.backToMenu"	"Back to menu"	"Original Translation"	""
+"hbui.ConnectionErrorRoute.server.disconnectedFrom"	"Disconnected from %1$s"	"Original Translation"	""
+"hbui.ConnectionErrorRoute.server.showDetails"	"Show details"	"Original Translation"	""
+"hbui.ConnectionErrorRoute.standard.backToMenu"	"Back to menu"	"Original Translation"	""
+"hbui.ConnectionErrorRoute.standard.codewordHelp"	"Search help.Minecraft.net for ""%1$s"" for more information."	"Original Translation"	""
+"hbui.ConnectionErrorRoute.standard.learnMore"	"Learn more"	"Original Translation"	""
+"hbui.ConnectionErrorRoute.standard.showDetails"	"Show details"	"Original Translation"	""
 "hbui.ControllerSpecificButtonNarration.Gamepad.A.KEYBOARD"	"Press A"	"Original Translation
 zh_CN: 按下 “A”
 zh_TW: 按下 A"	""
@@ -14206,7 +14262,7 @@ zh_TW: 選項"	""
 zh_CN: 已禁用
 zh_TW: 已停用"	""
 "hbui.DropdownItem.elementType"	"item"	"Original Translation
-zh_CN: 物品
+zh_CN: 项目
 zh_TW: 物品"	""
 "hbui.DropdownItem.narrationComponentType"	"Option"	"Original Translation
 zh_CN: 选项
@@ -14218,7 +14274,7 @@ zh_TW: 選取"	""
 zh_CN: 已选择
 zh_TW: 已選取"	""
 "hbui.DropdownItem.unselected"	"not selected"	"Original Translation
-zh_CN: 未选择
+zh_CN: 未当选
 zh_TW: 未選擇"	""
 "hbui.EditRealmWorld.ConfirmModals.cancel"	"Cancel"	"Original Translation
 zh_CN: 取消
@@ -14298,15 +14354,6 @@ zh_TW: 遊玩"	""
 "hbui.EditRealmWorld.title"	"Edit World"	"Original Translation
 zh_CN: 编辑世界
 zh_TW: 編輯世界"	""
-"hbui.EditRealmWorld.underConstruction.behaviorPacks"	"Behavior packs is under construction!"	"Original Translation
-zh_CN: 行为包正在建造中！
-zh_TW: 行為套件建置中！"	""
-"hbui.EditRealmWorld.underConstruction.experimental"	"Experiments is under construction!"	"Original Translation
-zh_CN: 实验性游戏内容正在建设中！
-zh_TW: 實驗性內容建置中！"	""
-"hbui.EditRealmWorld.underConstruction.resourcePacks"	"Resource packs is under construction!"	"Original Translation
-zh_CN: 资源包正在建造中！
-zh_TW: 資源包建置中！"	""
 "hbui.EditWorld.EditThumbnailModal.changeThumbnail"	"Change thumbnail"	"Original Translation
 zh_CN: 更改缩略图
 zh_TW: 變更縮圖"	""
@@ -15723,6 +15770,8 @@ zh_TW: 大小"	""
 "hbui.EditorStructurePanel.details.sourceLabel"	"Source"	"Original Translation
 zh_CN: 初始
 zh_TW: 來源"	""
+"hbui.EditorStructurePanel.details.structureTags"	"Structure"	"Original Translation"	""
+"hbui.EditorStructurePanel.details.tags"	"Tags"	"Original Translation"	""
 "hbui.EditorStructurePanel.details.updateFromClipboardLabel"	"Update from Clipboard"	"Original Translation
 zh_CN: 以剪贴板内容更新
 zh_TW: 從剪貼簿更新"	""
@@ -17790,9 +17839,6 @@ zh_TW: 收到的邀請 (%1$s)"	""
 "hbui.Patchnote.narration.textBlockRole"	"TextBlock"	"Original Translation
 zh_CN: 文本块
 zh_TW: 文字方塊"	""
-"hbui.PeopleTab.backButton"	"Back"	"Original Translation
-zh_CN: 返回
-zh_TW: 返回"	""
 "hbui.PeopleTab.closeButtonNarrationHint"	"Navigate down for more options"	"Original Translation
 zh_CN: 向下导航查看更多选项
 zh_TW: 向下導覽以檢視更多選項"	""
@@ -20353,6 +20399,7 @@ zh_TW: 已提交檢舉"	""
 "hbui.RealmsFeedModeration.item.options.header"	"Options"	"Original Translation
 zh_CN: 选项
 zh_TW: 選項"	""
+"hbui.RealmsFeedModeration.item.options.legend"	"View report options"	"Original Translation"	""
 "hbui.RealmsFeedModeration.item.options.notifiers"	"Notifiers"	"Original Translation
 zh_CN: 通知器
 zh_TW: 通知"	""
@@ -20860,6 +20907,7 @@ zh_TW: 您現在可以邀請好友到您的 Realm，否則您可以稍後再邀�
 "hbui.RealmsPurchaseSubscriptionRoute.PurchaseCompleteModal.body2"	"Manage your Realm and invite more players in Realm settings, accessed from the Options button on the Realms tab."	"Original Translation
 zh_CN: 通过 Realms 选项卡中的“选项”按钮在 Realm 设置中管理你的 Realm，并邀请更多玩家。
 zh_TW: 管理你的 Realm，並在 Realms 索引標籤上的「選項」按鈕中邀請更多的玩家。"	""
+"hbui.RealmsPurchaseSubscriptionRoute.PurchaseCompleteModal.enumeration"	"%1$s of %2$s"	"Original Translation"	""
 "hbui.RealmsPurchaseSubscriptionRoute.PurchaseCompleteModal.playSolo"	"Play solo"	"Original Translation
 zh_CN: 独自探索
 zh_TW: 自己一個人玩"	""
@@ -22829,7 +22877,7 @@ zh_TW: 選擇要在展示相簿中顯示的螢幕擷取畫面。"	""
 zh_CN: %1$s 的展示相册
 zh_TW: %1$s 的展示相簿"	""
 "hbui.ScrollView.loadingState"	"Loading"	"Original Translation
-zh_CN: 正在载入
+zh_CN: 正在加载
 zh_TW: 載入中"	""
 "hbui.ScrollView.narrationScrollViewComponentType"	"Content"	"Original Translation
 zh_CN: 内容
@@ -22888,6 +22936,14 @@ zh_TW: 設定世界縮圖"	""
 "hbui.SetWorldThumbnailRoute.successSnackbarMessage"	"%1$s thumbnail updated"	"Original Translation
 zh_CN: %1$s 缩略图已更新
 zh_TW: %1$s 縮圖已更新"	""
+"hbui.Settings.button.narration.role"	"Button"	"Original Translation"	""
+"hbui.Settings.inputBindingButton.captureMode.narration"	"Select input to bind for %1$s"	"Original Translation"	""
+"hbui.Settings.inputBindingButton.inputLegend"	"Change mapping"	"Original Translation"	""
+"hbui.Settings.inputBindingButton.inputUpdated.narration"	"%1$s is now bound to %2$s"	"Original Translation"	""
+"hbui.Settings.inputBindingButton.narration.role"	"Mapping"	"Original Translation"	""
+"hbui.Settings.inputBindingButton.reset.narration"	"Reset to default"	"Original Translation"	""
+"hbui.Settings.inputBindingButton.resetContext.narration"	"Navigate left to Reset"	"Original Translation"	""
+"hbui.Settings.inputBindingButton.select.narration"	"Select to remap"	"Original Translation"	""
 "hbui.Settings.modals.fontLicense.title"	"Minecraft - Noto Sans Font License"	"Original Translation
 zh_CN: Minecraft - Noto Sans 字体证书
 zh_TW: Minecraft - Noto Sans 字型授權"	""
@@ -23149,6 +23205,7 @@ zh_TW: %1$s 的選項"	""
 "hbui.SocialDrawer.PlayerOptionsMenu.unmute"	"Unmute"	"Original Translation
 zh_CN: 取消静音
 zh_TW: 取消靜音"	""
+"hbui.SocialDrawer.backButton"	"Back"	"Original Translation"	""
 "hbui.SocialDrawer.narration.title"	"Social Drawer"	"Original Translation
 zh_CN: 社交抽屉
 zh_TW: 社交抽屜"	""
@@ -23182,18 +23239,14 @@ zh_TW: 搜尋玩家"	""
 "hbui.SocialDrawerHeader.socialSettings"	"Social settings"	"Original Translation
 zh_CN: 社交设置
 zh_TW: 社交設定"	""
-"hbui.SocialDrawerTabEmptyState.party.buttonTitle"	"Create party"	"Original Translation
-zh_CN: 创建派对
-zh_TW: 建立派對"	""
-"hbui.SocialDrawerTabEmptyState.party.title"	"No parties available"	"Original Translation
-zh_CN: 无可加入派对
-zh_TW: 沒有可參加的派對"	""
-"hbui.SocialDrawerTabEmptyState.people.buttonTitle"	"Search for people"	"Original Translation
-zh_CN: 搜索玩家
-zh_TW: 搜尋玩家"	""
-"hbui.SocialDrawerTabEmptyState.people.title"	"Let's add some friends!"	"Original Translation
-zh_CN: 让我们添加一些好友吧！
-zh_TW: 加入幾位好友吧！"	""
+"hbui.SocialDrawerTabErrorState.party.multiplayerDisabledButtonTitleFixNow"	"Fix Now"	"Original Translation"	""
+"hbui.SocialDrawerTabErrorState.party.multiplayerDisabledButtonTitleLearnMore"	"Learn More"	"Original Translation"	""
+"hbui.SocialDrawerTabErrorState.party.multiplayerDisabledDescription"	"You can’t create or join a party because of a privacy setting on your account. These settings can be found in the Xbox Privacy section of Privacy & Online Safety."	"Original Translation"	""
+"hbui.SocialDrawerTabErrorState.party.multiplayerDisabledTitle"	"Permission required"	"Original Translation"	""
+"hbui.SocialDrawerTabErrorState.party.noDataButtonTitle"	"Create party"	"Original Translation"	""
+"hbui.SocialDrawerTabErrorState.party.noDataTitle"	"No parties available"	"Original Translation"	""
+"hbui.SocialDrawerTabErrorState.people.noDataButtonTitle"	"Search for people"	"Original Translation"	""
+"hbui.SocialDrawerTabErrorState.people.noDataTitle"	"Let's add some friends!"	"Original Translation"	""
 "hbui.SocialWorldTab.PlayerOptionsMenu.addToFavorites"	"Add to favorites"	"Original Translation
 zh_CN: 添加到收藏夹
 zh_TW: 新增到我的最愛"	""
@@ -23913,13 +23966,13 @@ zh_TW: 時間線"	""
 zh_CN: 返回
 zh_TW: 返回"	""
 "hbui.TitleBar.Buttons.Back.narration"	"Back button"	"Original Translation
-zh_CN: 返回按钮
+zh_CN: 返回键
 zh_TW: 返回按鈕"	""
 "hbui.TitleBar.Buttons.Close.inputLegend"	"Close"	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"	""
 "hbui.TitleBar.Buttons.Close.narration"	"Close button"	"Original Translation
-zh_CN: 关闭按钮
+zh_CN: 关闭键
 zh_TW: 關閉按鈕"	""
 "hbui.Toggle.count"	"%1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
@@ -23963,6 +24016,7 @@ zh_TW: 搖桿和瞄準準星"	""
 "hbui.TouchControlSelectionRoute.header"	"Control Mode"	"Original Translation
 zh_CN: 控制模式
 zh_TW: 控制方式"	""
+"hbui.TouchControlSelectionRoute.lockWarning"	"""D-Pad & tap to interact"" is not supported with the current control scheme"	"Original Translation"	""
 "hbui.TouchControlSelectionRoute.more"	"Controls can be customized in the settings menu at any time"	"Original Translation
 zh_CN: 您可以随时在设置菜单中自定义控制选项
 zh_TW: 可以隨時在設定功能表中自訂控制項"	""
@@ -26900,6 +26954,7 @@ zh_TW: 雕刻"	""
 "hudScreen.tooltip.change_note"	"Change Note"	"Original Translation
 zh_CN: 变更说明
 zh_TW: 變更說明"	""
+"hudScreen.tooltip.charge"	"Charge"	"Original Translation"	""
 "hudScreen.tooltip.collect"	"Collect"	"Original Translation
 zh_CN: 收集
 zh_TW: 收集"	""
@@ -26951,6 +27006,7 @@ zh_TW: 插入"	""
 "hudScreen.tooltip.inventory"	"Inventory"	"Original Translation
 zh_CN: 物品栏
 zh_TW: 物品欄"	""
+"hudScreen.tooltip.jab"	"Jab"	"Original Translation"	""
 "hudScreen.tooltip.milk"	"Drink"	"Original Translation
 zh_CN: 喝下
 zh_TW: 喝"	""
@@ -30709,6 +30765,7 @@ zh_TW: 獄髓頭盔"	""
 "item.netherite_hoe.name"	"Netherite Hoe"	"Original Translation
 zh_CN: 下界合金锄头
 zh_TW: 獄髓鋤"	""
+"item.netherite_horse_armor.name"	"Netherite Horse Armor"	"Original Translation"	""
 "item.netherite_ingot.name"	"Netherite Ingot"	"Original Translation
 zh_CN: 下界合金锭
 zh_TW: 獄髓錠"	""
@@ -33410,6 +33467,15 @@ zh_TW: 特別為遊戲舊雨新知提供的 Minecraft 百科全書。"	""
 "menu.inbox"	"Inbox"	"Original Translation
 zh_CN: 收件箱
 zh_TW: 收件匣"	""
+"menu.keyboardAndMouse.access"	"Press :_gamepad_face_button_down: to open the Keyboard & Mouse Settings."	"Original Translation"	""
+"menu.keyboardAndMouse.access.button"	"Open keyboard & mouse settings"	"Original Translation"	""
+"menu.keyboardAndMouse.access.nogamepad"	"Select the Keyboard & Mouse Tab to open the Keyboard & Mouse Settings."	"Original Translation"	""
+"menu.keyboardAndMouse.access.noicon"	"Select [A] to open the Keyboard & Mouse Settings."	"Original Translation"	""
+"menu.keyboardAndMouse.generalMessage"	"We have moved the keyboard & mouse settings."	"Original Translation"	""
+"menu.keyboardAndMouse.tab.description"	"Input options, sensitivity settings and button mapping for keyboard & mouse"	"Original Translation"	""
+"menu.keyboardAndMouse.tab.mappings.description"	"Remap any and all keyboard & mouse buttons to play your way"	"Original Translation"	""
+"menu.keyboardAndMouse.tab.mappings.title"	"Keyboard & Mouse Mappings"	"Original Translation"	""
+"menu.keyboardAndMouse.tab.title"	"Keyboard & Mouse"	"Original Translation"	""
 "menu.language.access"	"Press :_gamepad_face_button_down: to open the Language Settings."	"Original Translation"	""
 "menu.language.access.nogamepad"	"Select the Language Tab to open the Language Settings."	"Original Translation
 zh_CN: 选择“语言”选项卡以打开“语言设置”。
@@ -34363,6 +34429,8 @@ zh_TW: 僅使用 Wi-Fi"	""
 "options.autojump"	"Auto Jump"	"Original Translation
 zh_CN: 自动跳跃
 zh_TW: 自動跳躍"	""
+"options.autojump.description"	"Automatically jump up single blocks when moving forward"	"Original Translation"	""
+"options.autojump.name"	"Auto jump"	"Original Translation"	""
 "options.blockAlternatives"	"Alternate Blocks"	"Original Translation
 zh_CN: 替选方块
 zh_TW: 替代的方塊"	""
@@ -35599,9 +35667,10 @@ zh_TW: 啟用《Education Edition》化學功能。如果您的世界已經建�
 "options.enableNewTouchControlSchemes"	"Enable New Touch Control Schemes"	"Original Translation
 zh_CN: 启用新的触控方案
 zh_TW: 啟用新的觸控控制模式"	""
-"options.enableOpenChatMessage"	"Enable Open Chat Message"	"Original Translation
+"options.enableOpenChatMessage"	"Chat Instructions on Join"	"Original Translation
 zh_CN: 启用开放聊天消息
 zh_TW: 啟用開啟聊天視窗訊息"	""
+"options.enableOpenChatMessage.description"	"Get a reminder on how to open chat when you join a world"	"Original Translation"	""
 "options.enableUITextToSpeech"	"Text To Speech For UI"	"Original Translation
 zh_CN: UI 文本转语音输出
 zh_TW: UI 文字轉語音輸出"	""
@@ -35732,6 +35801,8 @@ zh_TW: 無限"	""
 "options.fullKeyboardGameplay"	"Full Keyboard Gameplay"	"Original Translation
 zh_CN: 全键盘玩法
 zh_TW: 全鍵盤遊戲"	""
+"options.fullKeyboardGameplay.description"	"Maps mouse input onto the keyboard, for keyboard-only input while playing"	"Original Translation"	""
+"options.fullKeyboardGameplay.name"	"Full keyboard mode"	"Original Translation"	""
 "options.fullKeyboardLayout"	"Full Keyboard Layout"	"Original Translation
 zh_CN: 全键盘布局
 zh_TW: 全鍵盤佈局"	""
@@ -36059,6 +36130,8 @@ zh_TW: 滑鼠反向"	""
 "options.invertYAxis"	"Invert Y-Axis"	"Original Translation
 zh_CN: 反转Y轴
 zh_TW: Y 軸反向"	""
+"options.invertYAxis.description"	"Reverses up and down when looking around. A less common option for keyboard and mouse users, but you do you"	"Original Translation"	""
+"options.invertYAxis.name"	"Invert camera Y-axis"	"Original Translation"	""
 "options.joystickMoveVisible"	"Joystick Always Visible"	"Original Translation
 zh_CN: 摇杆始终可见
 zh_TW: 一律顯示搖桿"	""
@@ -36074,9 +36147,16 @@ zh_TW: 未使用時隱藏搖桿"	""
 "options.joystickVisibilityOption.visibleJoystick"	"Visible Joystick"	"Original Translation
 zh_CN: 可见的摇杆
 zh_TW: 顯示搖桿"	""
+"options.key.reset.buttonLabel"	"Reset"	"Original Translation"	""
 "options.keyboardAndMouse"	"Keyboard & Mouse"	"Original Translation
 zh_CN: 键盘和鼠标
 zh_TW: 鍵盤和滑鼠"	""
+"options.keyboardAndMouse.resetMappings"	"Reset mapping to default"	"Original Translation"	""
+"options.keyboardAndMouse.resetMappings.buttonLabel"	"Reset"	"Original Translation"	""
+"options.keyboardAndMouse.resetMappings.description"	"Restore all keyboard & mouse button mappings to their original values"	"Original Translation"	""
+"options.keyboardAndMouse.resetSettings"	"Reset settings to default"	"Original Translation"	""
+"options.keyboardAndMouse.resetSettings.buttonLabel"	"Reset"	"Original Translation"	""
+"options.keyboardAndMouse.resetSettings.description"	"Restore all the above keyboard & mouse options to their original values"	"Original Translation"	""
 "options.keyboardAndMouseSettings"	"Keyboard and Mouse Settings"	"Original Translation
 zh_CN: 键盘和鼠标设置
 zh_TW: 鍵盤和滑鼠設定"	""
@@ -36580,12 +36660,14 @@ zh_TW: 開啟晃動動畫，例如在第一人稱模式下受到傷害時的畫�
 "options.sensitivity"	"Camera Sensitivity"	"Original Translation
 zh_CN: 相机灵敏度
 zh_TW: 相機靈敏度"	""
+"options.sensitivity.description"	"Adjust the speed of the camera when looking around with the mouse"	"Original Translation"	""
 "options.sensitivity.max"	"HYPERSPEED!!!"	"Original Translation
 zh_CN: 超高速！！！
 zh_TW: 超高速！"	""
 "options.sensitivity.min"	"*yawn*"	"Original Translation
 zh_CN: *哈欠*
 zh_TW: *哈欠*"	""
+"options.sensitivity.name"	"Camera sensitivity (mouse)"	"Original Translation"	""
 "options.servervisible"	"Visible to LAN Players"	"Original Translation
 zh_CN: 对局域网内玩家可见
 zh_TW: LAN 玩家可見"	""
@@ -36657,6 +36739,8 @@ zh_TW: %s：%s"	""
 "options.smoothRotationSpeed"	"Smooth Rotation Speed"	"Original Translation
 zh_CN: 平滑旋转速度
 zh_TW: 緩慢旋轉速度"	""
+"options.smoothRotationSpeed.description"	"Adjust the speed of the camera when looking around with the keyboard"	"Original Translation"	""
+"options.smoothRotationSpeed.name"	"Camera sensitivity (keyboard)"	"Original Translation"	""
 "options.smooth_lighting"	"Smooth Lighting"	"Original Translation
 zh_CN: 平滑光照
 zh_TW: 柔和光源"	""
@@ -36737,6 +36821,8 @@ zh_TW: 將搖桿推到最大時自動奔跑。"	""
 "options.spyglassdampen"	"Spyglass Damping"	"Original Translation
 zh_CN: 望远镜移动速度
 zh_TW: 望遠鏡阻尼"	""
+"options.spyglassdampen.description"	"Adjust the speed of the camera when using a spyglass"	"Original Translation"	""
+"options.spyglassdampen.name"	"Spyglass damping"	"Original Translation"	""
 "options.stacksplittingtriggertime"	"Stack Splitting Time(ms)"	"Original Translation
 zh_CN: 堆栈拆分时间 (ms)
 zh_TW: 堆疊拆分時間(ms)"	""
@@ -41132,6 +41218,7 @@ zh_TW: 半徑"	""
 "resourcePack.editor.brushShape.common.settings.radius.tooltip"	"The size of circular shaped brushes."	"Original Translation
 zh_CN: 圆形画笔的大小。
 zh_TW: 圓形筆刷的大小。"	""
+"resourcePack.editor.brushShape.common.settings.rotation"	"Rotation"	"Original Translation"	""
 "resourcePack.editor.brushShape.common.settings.uniform"	"Uniform"	"Original Translation
 zh_CN: 轴向同化
 zh_TW: 一致化"	""
