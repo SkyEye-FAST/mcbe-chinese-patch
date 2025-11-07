@@ -349,7 +349,7 @@ zh_CN: 您想将它关掉吗？
 zh_TW: 您是否要將此關閉？"	"您是否要將此關閉？"
 "accessibility.popup.message.platform"	"We've detected that your system has a screen reader enabled and have automatically enabled Minecraft's screen reader."	"Original Translation
 zh_CN: 我们发现您的系统启用了一个屏幕阅读器，并且自动启用了 Minecraft 的屏幕阅读器。
-zh_TW: 我們已偵測到您的系統已啟用螢幕閱讀器，並已自動啟用 Minecraft 的螢幕閱讀器。"	""
+zh_TW: 我們已偵測到您的系統已啟用螢幕閱讀器，並已自動啟用 Minecraft 的螢幕閱讀器。"	"我們已偵測到您的系統已啟用螢幕閱讀器，並已自動啟用 Minecraft 的螢幕閱讀器。"
 "accessibility.popup.message.touch"	"Touch and drag to find controls on the screen, and double tap controls to select. To scroll on a screen, double tap and hold while swiping up or down."	"Original Translation
 zh_CN: 触摸和拖动以在屏幕上找到控件，双击控件以进行选择。若要在屏幕上滚动，上下滑动时双击并按住即可。
 zh_TW: 觸碰並拖曳以尋找畫面上的控制選項，然後點按兩下控制選項即可選取。若要在畫面上捲動，點按兩下，並在向上或向下滑動時按住。"	""
@@ -358,67 +358,67 @@ zh_CN: 我们发现您的账户已经启用了“课程阅读模式”，并且�
 zh_TW: 我們已偵測到您的帳戶已啟用「讓遊戲讀給我聽」的功能，並已自動啟用 Minecraft 的螢幕閱讀器。"	""
 "accessibility.popup.right_button_text"	"Leave On"	"Original Translation
 zh_CN: 保持打开
-zh_TW: 保持開啟"	""
+zh_TW: 保持開啟"	"保持開啟"
 "accessibility.popup.title"	"Turn Off Screen Reader?"	"Original Translation
 zh_CN: 关闭屏幕阅读器？
-zh_TW: 是否關閉螢幕閱讀器？"	""
+zh_TW: 是否關閉螢幕閱讀器？"	"是否關閉螢幕閱讀器？"
 "accessibility.saving.done"	"Done"	"Original Translation
 zh_CN: 完成
-zh_TW: 完成"	""
+zh_TW: 完成"	"完成"
 "accessibility.screen.tts.title"	"%s Screen"	"Original Translation
 zh_CN: %s屏幕
-zh_TW: %s畫面"	""
+zh_TW: %s畫面"	"%s畫面"
 "accessibility.screenName.achievements"	"Achievements Screen"	"Original Translation
 zh_CN: 成就界面
-zh_TW: 成就畫面"	""
+zh_TW: 成就畫面"	"成就畫面"
 "accessibility.screenName.addExternalServer"	"Add External Server Screen"	"Original Translation
 zh_CN: 添加外部服务器屏幕
-zh_TW: 新增外部伺服器畫面"	""
+zh_TW: 新增外部伺服器畫面"	"新增外部伺服器畫面"
 "accessibility.screenName.chat"	"Chat Screen"	"Original Translation
 zh_CN: 聊天屏幕
-zh_TW: 聊天畫面"	""
+zh_TW: 聊天畫面"	"聊天畫面"
 "accessibility.screenName.chatSettings"	"Chat Settings Screen"	"Original Translation
 zh_CN: 聊天设置屏幕
-zh_TW: 聊天設定畫面"	""
+zh_TW: 聊天設定畫面"	"聊天設定畫面"
 "accessibility.screenName.createNew"	"Create New Screen"	"Original Translation
 zh_CN: 创建新的屏幕
-zh_TW: 建立新畫面"	""
+zh_TW: 建立新畫面"	"建立新畫面"
 "accessibility.screenName.createWorld"	"Create World Settings Screen"	"Original Translation
 zh_CN: 创建世界设置屏幕
-zh_TW: 建立世界設定畫面"	""
+zh_TW: 建立世界設定畫面"	"建立世界設定畫面"
 "accessibility.screenName.editCharacter"	"Character Creator"	"Original Translation
 zh_CN: 角色创建器
-zh_TW: 自訂角色"	""
+zh_TW: 自訂角色"	"自訂角色"
 "accessibility.screenName.editExternalServer"	"Edit External Server Screen"	"Original Translation
 zh_CN: 编辑外部服务器屏幕
-zh_TW: 編輯外部伺服器畫面"	""
+zh_TW: 編輯外部伺服器畫面"	"編輯外部伺服器畫面"
 "accessibility.screenName.editWorldSettings"	"Edit World Settings Screen"	"Original Translation
 zh_CN: 编辑世界设置屏幕
-zh_TW: 編輯世界設定畫面"	""
+zh_TW: 編輯世界設定畫面"	"編輯世界設定畫面"
 "accessibility.screenName.emoteWheel"	"Emotes Screen"	"Original Translation
 zh_CN: 表情屏幕
-zh_TW: 表情畫面"	""
+zh_TW: 表情畫面"	"表情畫面"
 "accessibility.screenName.encyclopedia"	"Encyclopedia Screen"	"Original Translation
 zh_CN: 百科全书屏幕
-zh_TW: 百科全書畫面"	""
+zh_TW: 百科全書畫面"	"百科全書畫面"
 "accessibility.screenName.error"	"Error Screen"	"Original Translation
 zh_CN: 错误屏幕
-zh_TW: 錯誤畫面"	""
+zh_TW: 錯誤畫面"	"錯誤畫面"
 "accessibility.screenName.howToPlay"	"How To Play Screen"	"Original Translation
 zh_CN: 帮助屏幕
-zh_TW: 遊戲說明畫面"	""
+zh_TW: 遊戲說明畫面"	"遊戲說明畫面"
 "accessibility.screenName.inviteToGame"	"Invite To Game Screen"	"Original Translation
 zh_CN: 邀请至游戏屏幕
-zh_TW: 邀請至遊戲畫面"	""
+zh_TW: 邀請至遊戲畫面"	"邀請至遊戲畫面"
 "accessibility.screenName.joinByConnectionID"	"Join by connection I D dialog"	"Original Translation
 zh_CN: 通过连接 ID 对话框加入
-zh_TW: 加入連線 ID 對話方塊"	""
+zh_TW: 加入連線 ID 對話方塊"	"使用連線 ID 加入對話方塊"
 "accessibility.screenName.joinByIP"	"Join by IP dialog"	"Original Translation
 zh_CN: 通过 IP 对话框加入
-zh_TW: 使用 IP 對話方塊加入"	""
+zh_TW: 使用 IP 對話方塊加入"	"使用 IP 加入對話方塊"
 "accessibility.screenName.joinCode"	"Join Code dialog"	"Original Translation
 zh_CN: 加入代码对话框
-zh_TW: 加入代碼對話方塊"	""
+zh_TW: 加入代碼對話方塊"	"加入代碼對話方塊"
 "accessibility.screenName.library"	"Library Screen"	"Original Translation
 zh_CN: 库屏幕
 zh_TW: 資料庫畫面"	""
