@@ -6912,6 +6912,7 @@ zh_TW: 你的網路探索環境與主機不相符。"
 disconnectionScreen.body.gameOutOfDate	The game version you are using is out of date. Update your game to the latest version and try again.	"Original Translation
 zh_CN: 你正在使用的游戏版本已过期。请将你的游戏更新到最新版本，然后重试。
 zh_TW: 你使用的遊戲版本已過期。請將遊戲更新至最新版本後再試一次。"
+disconnectionScreen.body.hostSignedOut	The host signed out.	Original Translation
 disconnectionScreen.body.hostVersionOlder	The host you are trying to join is using an older version of Minecraft. Try again when the host has updated its version.	"Original Translation
 zh_CN: 你要加入的主机使用的是旧版本的《Minecraft》。请在主机更新版本后再试一次。
 zh_TW: 你想加入的主持人正在使用較舊的 Minecraft 版本。請在主持人更新版本後再試一次。"
@@ -8423,30 +8424,54 @@ zh_TW: 從 Realms 下載成功。世界位置：%s"
 editor.logging.worldExportMessage	Exporting world was Successful. World Location: %s	"Original Translation
 zh_CN: 成功导出世界。世界位置：%s
 zh_TW: 匯出世界成功。世界位置：%s"
+editor.prefabInstanceEditor.info.bakingComplete	Baking Complete	Original Translation
+editor.prefabInstanceEditor.infoPanel.picker.title	Layout Instance Properties	Original Translation
+editor.prefabInstanceEditor.infoPanel.picker.tooltip	Select and modify properties of an existing layout instance	Original Translation
+editor.prefabInstanceEditor.infoPanel.placer.title	Layout Instance Placer	Original Translation
+editor.prefabInstanceEditor.instanceSubPane.title	Structure: %s	Original Translation
+editor.prefabInstanceEditor.mirror.none	None	Original Translation
+editor.prefabInstanceEditor.mirror.title	Mirror	Original Translation
+editor.prefabInstanceEditor.mirror.tooltip	Allows the mirror of the structure item on the specified axis	Original Translation
+editor.prefabInstanceEditor.mirror.x	X Axis	Original Translation
+editor.prefabInstanceEditor.mirror.xz	X and Z Axis	Original Translation
+editor.prefabInstanceEditor.mirror.z	Z Axis	Original Translation
+editor.prefabInstanceEditor.placer.bake.button.title	Bake Layout Instance	Original Translation
+editor.prefabInstanceEditor.placer.structures.title	Structures	Original Translation
+editor.prefabInstanceEditor.quickAction.title	Mode	Original Translation
+editor.prefabInstanceEditor.quickAction.title.tooltip	Select and modify properties of an existing layout instance, or place new instances in the world	Original Translation
+editor.prefabInstanceEditor.rotation.180	180°	Original Translation
+editor.prefabInstanceEditor.rotation.270	270°	Original Translation
+editor.prefabInstanceEditor.rotation.90	90°	Original Translation
+editor.prefabInstanceEditor.rotation.none	None	Original Translation
+editor.prefabInstanceEditor.rotation.title	Rotation	Original Translation
+editor.prefabInstanceEditor.rotation.tooltip	Allows the rotation of the structure item on the Y axis by 90 degree increments	Original Translation
 editor.prefabInstanceEditor.templatePicker.button.cancel	Cancel	Original Translation
+editor.prefabInstanceEditor.templatePicker.button.choose	Choose Template	Original Translation
 editor.prefabInstanceEditor.templatePicker.button.select	Select	Original Translation
 editor.prefabInstanceEditor.templatePicker.dropdown.title	Templates	Original Translation
-editor.prefabInstanceEditor.templatePicker.instruction	Select a prefab template	Original Translation
+editor.prefabInstanceEditor.templatePicker.instruction	Select a layout template	Original Translation
 editor.prefabInstanceEditor.templatePicker.properties.description	Description	Original Translation
 editor.prefabInstanceEditor.templatePicker.properties.displayName	Display Name	Original Translation
 editor.prefabInstanceEditor.templatePicker.properties.location	Location	Original Translation
 editor.prefabInstanceEditor.templatePicker.properties.name	Name	Original Translation
 editor.prefabInstanceEditor.templatePicker.properties.notes	Notes	Original Translation
-editor.prefabInstanceEditor.templatePicker.properties.title	Template Properties	Original Translation
+editor.prefabInstanceEditor.templatePicker.properties.title	Layout Properties	Original Translation
 editor.prefabInstanceEditor.templatePicker.title	Choose Template:	Original Translation
 editor.prefabInstanceEditor.templatePicker.tool.quickAction.groupTitle	Mode	Original Translation
-editor.prefabInstanceEditor.templatePicker.tool.quickAction.groupTitle.tooltip	Select the mode for quick actions when placing prefab instances.	Original Translation
+editor.prefabInstanceEditor.templatePicker.tool.quickAction.groupTitle.tooltip	Select the mode for quick actions when placing layout instances.	Original Translation
 editor.prefabInstanceEditor.templatePicker.tool.quickAction.pickMode	Pick Mode	Original Translation
 editor.prefabInstanceEditor.templatePicker.tool.quickAction.pickMode.tooltip	Allows you to pick an instance in the world to edit its properties.	Original Translation
 editor.prefabInstanceEditor.templatePicker.tool.quickAction.placeMode	Place Mode	Original Translation
 editor.prefabInstanceEditor.templatePicker.tool.quickAction.placeMode.tooltip	Allows you to place an instance of the current template into the map.	Original Translation
-editor.prefabInstanceEditor.templatePicker.tool.rootPane	Prefab Instance Editor	Original Translation
-editor.prefabInstanceEditor.templatePicker.tool.title	Prefab Instance Editor	Original Translation
-editor.prefabInstanceEditor.templatePicker.tool.tooltip	Tool for placing prefab instances in the world	Original Translation
-editor.prefabTemplateEditor.actionBar.title	Prefab Templates	Original Translation
-editor.prefabTemplateEditor.actionBar.tooltip	Prefab Template Manager	Original Translation
-editor.prefabTemplateEditor.actionBar.tooltip.description	Prefab Template Editor allows you to create and edit templates for use with the Prefab Tool. Templates can be used to quickly place structures in your world.	Original Translation
-editor.prefabTemplateEditor.pane.prefabInstance.title	Prefab Manager	Original Translation
+editor.prefabInstanceEditor.templatePicker.tool.rootPane	Layout Instance Editor	Original Translation
+editor.prefabInstanceEditor.templatePicker.tool.title	Layout Instance Editor	Original Translation
+editor.prefabInstanceEditor.templatePicker.tool.tooltip	Tool for placing layout instances in the world	Original Translation
+editor.prefabInstanceEditor.templatePicker.window.hint	Select a Layout Template	Original Translation
+editor.prefabInstanceEditor.templatePicker.window.title	Layout Template Picker	Original Translation
+editor.prefabTemplateEditor.actionBar.title	Layout Templates	Original Translation
+editor.prefabTemplateEditor.actionBar.tooltip	Layout Template Manager	Original Translation
+editor.prefabTemplateEditor.actionBar.tooltip.description	Editor to create and edit Layouts. Layouts contain one or more Structures.  Updates made to Layouts or the referenced Structures propagate to all instances of the Layout.	Original Translation
+editor.prefabTemplateEditor.pane.prefabInstance.title	Layout Manager	Original Translation
 editor.prefabTemplateEditor.pane.prefabTemplate.structure.focus	Focus	Original Translation
 editor.prefabTemplateEditor.pane.prefabTemplate.structure.mirrorX	Mirror X	Original Translation
 editor.prefabTemplateEditor.pane.prefabTemplate.structure.mirrorZ	Mirror Z	Original Translation
@@ -8460,8 +8485,8 @@ editor.prefabTemplateEditor.pane.prefabTemplate.structure.rotation.270	270 Degre
 editor.prefabTemplateEditor.pane.prefabTemplate.structure.rotation.90	90 Degrees	Original Translation
 editor.prefabTemplateEditor.pane.prefabTemplate.structure.rotation.none	None	Original Translation
 editor.prefabTemplateEditor.pane.prefabTemplate.structure.size	Structure Size	Original Translation
-editor.prefabTemplateEditor.pane.prefabTemplate.title	Prefab Template	Original Translation
-editor.prefabTemplateEditor.pane.root.title	Prefab Template Editor	Original Translation
+editor.prefabTemplateEditor.pane.prefabTemplate.title	Layout Template	Original Translation
+editor.prefabTemplateEditor.pane.root.title	Layouts Editor	Original Translation
 editor.prefabTemplateEditor.pane.templateManager.copyTemplate	Copy Template	Original Translation
 editor.prefabTemplateEditor.pane.templateManager.deleteTemplate	Delete Template	Original Translation
 editor.prefabTemplateEditor.pane.templateManager.editTemplate	Edit Template	Original Translation
@@ -8474,14 +8499,15 @@ editor.prefabTemplateEditor.pane.templateManager.newtemplate	New Template	Origin
 editor.prefabTemplateEditor.pane.templateManager.templates.deleteTemplate.title	"Are you sure you want to delete ""%s"" ?"	Original Translation
 editor.prefabTemplateEditor.pane.templateManager.templates.newTemplate	Enter a new template name	Original Translation
 editor.prefabTemplateEditor.pane.templateManager.templates.title	Templates	Original Translation
-editor.prefabTemplateEditor.pane.templateManager.title	Prefab Template Manager	Original Translation
+editor.prefabTemplateEditor.pane.templateManager.title	Layout Template Manager	Original Translation
 editor.prefabTemplateEditor.structurePicker.instruction	Select a structure	Original Translation
 editor.prefabTemplateEditor.structurePicker.picker.cancel	Cancel	Original Translation
 editor.prefabTemplateEditor.structurePicker.picker.select	Select	Original Translation
 editor.prefabTemplateEditor.structurePicker.picker.title	Structures	Original Translation
 editor.prefabTemplateEditor.structurePicker.title	Select Structure	Original Translation
 editor.prefabTemplateEditor.tool.addStructure	Add Structure	Original Translation
-editor.prefabTemplateEditor.tool.title	Prefab Template Editor	Original Translation
+editor.prefabTemplateEditor.tool.button.save	Save	Original Translation
+editor.prefabTemplateEditor.tool.title	Layouts Editor	Original Translation
 editor.prefabTemplateEditor.tool.tooltip	Tool for editing prefab templates	Original Translation
 editor.sharedUtils.modaldialogconfirmation.No	No	"Original Translation
 zh_CN: 否
@@ -10154,6 +10180,7 @@ zh_TW: 加入遊戲"
 gathering.button.updateRequired	Update Required	"Original Translation
 zh_CN: 需要更新
 zh_TW: 必須更新"
+gathering.caption.alternateFallback	Play Now!	Original Translation
 gathering.caption.endsIn	Ends in %s	"Original Translation
 zh_CN: 距离结束还有 %s
 zh_TW: %s 後結束"
@@ -10202,7 +10229,7 @@ zh_TW: 深入了解"
 gathering.info.signIn.body	Please sign in to your Microsoft account to take part in this event.	"Original Translation
 zh_CN: 请登录至 Microsoft 账号以参加此项活动。
 zh_TW: 請登入你的 Minecraft 帳戶以參加此活動。"
-gathering.info.signIn.title	Sign in to join this event.	"Original Translation
+gathering.info.signIn.title	Sign in to join this Experience	"Original Translation
 zh_CN: 登录以参加此项活动。
 zh_TW: 登入以參加此活動。"
 gathering.info.title.liveEventFallback	Live Event	"Original Translation
@@ -14323,7 +14350,7 @@ zh_CN: 选择
 zh_TW: 選取"
 hbui.DropdownItem.selected	selected	"Original Translation
 zh_CN: 已选择
-zh_TW: 已選取"
+zh_TW: 已選擇"
 hbui.DropdownItem.unselected	not selected	"Original Translation
 zh_CN: 未当选
 zh_TW: 未選擇"
@@ -15832,6 +15859,8 @@ zh_TW: 篩選按鈕"
 hbui.EditorStructurePanel.filterIconTooltip	Filter	"Original Translation
 zh_CN: 筛选
 zh_TW: 篩選"
+hbui.EditorStructurePanel.filterLabel	Filter:	Original Translation
+hbui.EditorStructurePanel.filterTagsButton	Filter Tags	Original Translation
 hbui.EditorStructurePanel.gridViewIconTooltip	Grid View	"Original Translation
 zh_CN: 网格视图
 zh_TW: 格線檢視"
@@ -15850,6 +15879,7 @@ zh_TW: 從剪貼簿中新增"
 hbui.EditorStructurePanel.newFromSelection	New from Selection	"Original Translation
 zh_CN: 以所选内容新建
 zh_TW: 從選取範圍新建"
+hbui.EditorStructurePanel.placeholderTextToFilter	Text to filter	Original Translation
 hbui.EditorStructurePanel.sortLabel	Sort	"Original Translation
 zh_CN: 排序
 zh_TW: 排序"
@@ -15865,6 +15895,7 @@ zh_TW: 標籤"
 hbui.EditorStructurePanel.toggleButton	Toggle Button	"Original Translation
 zh_CN: 切换按钮
 zh_TW: 切換按鈕"
+hbui.EditorStructurePanel.toggleFilter	Toggle Filter	Original Translation
 hbui.EditorStructurePanel.totalBlocksLabel	Total Blocks	"Original Translation
 zh_CN: 区块总数
 zh_TW: 總方塊數"
@@ -17118,25 +17149,10 @@ zh_TW: 你加入了「%1$s」！"
 hbui.JoinRealmsServerTransient.title	Join %1$s	"Original Translation
 zh_CN: 加入%1$s
 zh_TW: 加入 %1$s"
-hbui.LeavePartyModal.back	Back	"Original Translation
-zh_CN: 返回
-zh_TW: 返回"
-hbui.LeavePartyModal.declinedMoveModalMessage	Declining this move will mean leaving your current party and you may need a new invite to rejoin.	"Original Translation
-zh_CN: 拒绝此动作意味着离开当前派对，你可能需要新的邀请才能重新加入。
-zh_TW: 拒絕此移動代表要離開你目前的隊伍，且你可能需要新的邀請才能重新加入。"
-hbui.LeavePartyModal.goBack	Go back	"Original Translation
-zh_CN: 返回
-zh_TW: 返回"
-hbui.LeavePartyModal.leaveParty	Leave party	"Original Translation
-zh_CN: 离开队伍
-zh_TW: 離開派對"
-hbui.LeavePartyModal.leavePartyModalMessage	Are you sure you want to leave the current party? You may need a new invite to rejoin.	"Original Translation
-zh_CN: 确定要离开当前队伍？你可能需要新的邀请才能重新加入。
-zh_TW: 確定要離開目前的派對？你可能需要新的邀請才能重新加入。"
-hbui.LeavePartyModal.leavePartyModalTitle	Leave party?	"Original Translation
-zh_CN: 离开队伍？
-zh_TW: 離開派對？"
-hbui.LeavePartyModal.stayWithParty	Continue on with party	Original Translation
+hbui.LeavePartyModal.cancel	Go back	Original Translation
+hbui.LeavePartyModal.confirm	Leave party	Original Translation
+hbui.LeavePartyModal.message	Are you sure you want to leave the current party? You may need a new invite to rejoin.	Original Translation
+hbui.LeavePartyModal.title	Leave party?	Original Translation
 hbui.LeaveWorldThenJoinModal.cancel	Go back	"Original Translation
 zh_CN: 返回
 zh_TW: 返回"
@@ -17809,6 +17825,10 @@ zh_TW: 往後跳至第 %1$s 頁"
 hbui.Pagination.unselected	Not selected	"Original Translation
 zh_CN: 未选择
 zh_TW: 未選擇"
+hbui.PartyDeclineTravelModal.cancel	Continue on with party	Original Translation
+hbui.PartyDeclineTravelModal.confirm	Leave party	Original Translation
+hbui.PartyDeclineTravelModal.message	Declining this move will mean leaving your current party and you may need a new invite to rejoin.	Original Translation
+hbui.PartyDeclineTravelModal.title	Leave party?	Original Translation
 hbui.PartyInviteListGroup.friendsTitle	Friends	"Original Translation
 zh_CN: 好友
 zh_TW: 好友"
@@ -17827,21 +17847,16 @@ zh_TW: 搜尋玩家"
 hbui.PartyInviteListGroup.titleWithLength	%1$s (%2$s)	"Original Translation
 zh_CN: %1$s (%2$s)
 zh_TW: %1$s (%2$s)"
-hbui.PartyTab.PartyRemovePlayerModal.back	Back	"Original Translation
-zh_CN: 返回
-zh_TW: 返回"
-hbui.PartyTab.PartyRemovePlayerModal.body	Do you want to remove this player from your party? They will need an invite to join your party again.	"Original Translation
-zh_CN: 你想将该玩家移出派对吗？对方将需要获得邀请才能再次加入你的派对。
-zh_TW: 是否要從您的派對移除這位玩家？他們需要邀請才能再次加入您的派對。"
-hbui.PartyTab.PartyRemovePlayerModal.checkboxTitle	Block %1$s from your party?	"Original Translation
-zh_CN: 屏蔽派对中的 %1$s？
-zh_TW: 從您的派對封鎖 %1$s？"
-hbui.PartyTab.PartyRemovePlayerModal.remove	Remove	"Original Translation
-zh_CN: 移除
-zh_TW: 移除"
-hbui.PartyTab.PartyRemovePlayerModal.title	Remove %1$s?	"Original Translation
-zh_CN: 移除 %1$s？
-zh_TW: 是否移除 %1$s？"
+hbui.PartyMemberGoingElsewhereModal.cancel	Go back	Original Translation
+hbui.PartyMemberGoingElsewhereModal.confirm	Leave party	Original Translation
+hbui.PartyMemberGoingElsewhereModal.message1	Only the party leader can choose new worlds for the party.	Original Translation
+hbui.PartyMemberGoingElsewhereModal.message2	You can join this world, but it will mean leaving your current party and you may need an new invite to rejoin.	Original Translation
+hbui.PartyMemberGoingElsewhereModal.title	Leave party?	Original Translation
+hbui.PartyRemovePlayerModal.cancel	Back	Original Translation
+hbui.PartyRemovePlayerModal.checkboxTitle	Block %1$s from your party?	Original Translation
+hbui.PartyRemovePlayerModal.confirm	Remove	Original Translation
+hbui.PartyRemovePlayerModal.message	Do you want to remove this player from your party? They will need an invite to join your party again.	Original Translation
+hbui.PartyRemovePlayerModal.title	Remove %1$s?	Original Translation
 hbui.PartyTab.PlayerOptionsMenu.addFriend	Add friend	"Original Translation
 zh_CN: 添加好友
 zh_TW: 新增好友"
@@ -17887,9 +17902,26 @@ zh_TW: %1$s 的選項"
 hbui.PartyTab.receivedInvites	Received invites (%1$s)	"Original Translation
 zh_CN: 已收到邀请 (%1$s)
 zh_TW: 收到的邀請 (%1$s)"
+hbui.PartyUnsupportedWorldModal.cancel	Go back	Original Translation
+hbui.PartyUnsupportedWorldModal.confirm	Leave party	Original Translation
+hbui.PartyUnsupportedWorldModal.message	Realms and Servers are not enabled for parties.	Original Translation
+hbui.PartyUnsupportedWorldModal.title	You cannot come here with your party yet	Original Translation
+hbui.PartyWorldCapacityModal.cancel	Go back	Original Translation
+hbui.PartyWorldCapacityModal.confirm	Join world	Original Translation
+hbui.PartyWorldCapacityModal.message1	The world doesn't have enough open player slots for everyone in your party.	Original Translation
+hbui.PartyWorldCapacityModal.message2	Some party members may not be able to enter the world, and will be removed from the party.	Original Translation
+hbui.PartyWorldCapacityModal.title	Your party is too large	Original Translation
+hbui.PartyWorldPublishSettingModal.cancel	Go back	Original Translation
+hbui.PartyWorldPublishSettingModal.confirm	Join world	Original Translation
+hbui.PartyWorldPublishSettingModal.message1	Some party members don't have permission to join this world.	Original Translation
+hbui.PartyWorldPublishSettingModal.message2	If you choose to join this world, they'll be removed from the party.	Original Translation
+hbui.PartyWorldPublishSettingModal.title	Permission required	Original Translation
 hbui.Patchnote.narration.textBlockRole	TextBlock	"Original Translation
 zh_CN: 文本块
 zh_TW: 文字方塊"
+hbui.PeopleTab.backButton	Back	"Original Translation
+zh_CN: 返回
+zh_TW: 返回"
 hbui.PeopleTab.closeButtonNarrationHint	Navigate down for more options	"Original Translation
 zh_CN: 向下导航查看更多选项
 zh_TW: 向下導覽以檢視更多選項"
@@ -17911,18 +17943,6 @@ zh_TW: 朋友隱藏式選單"
 hbui.PeopleTab.noInternetMessage	Please check your internet connection to see your friends.	"Original Translation
 zh_CN: 请检查你的互联网连接，以查看好友。
 zh_TW: 請檢查網際網路連線來跟好友見面。"
-hbui.PeopleTab.notLoggedInMessage.button	Sign in now	"Original Translation
-zh_CN: 立即登录
-zh_TW: 立即登入"
-hbui.PeopleTab.notLoggedInMessage.inputLegend	Sign in	"Original Translation
-zh_CN: 登录
-zh_TW: 登入"
-hbui.PeopleTab.notLoggedInMessage.text	You need an account to play online with friends.	"Original Translation
-zh_CN: 你需要一个账户，才能与好友一起在线玩游戏。
-zh_TW: 您需要有帳號才能與朋友在線上遊玩。"
-hbui.PeopleTab.notLoggedInMessage.title	You're not logged in	"Original Translation
-zh_CN: 你尚未登录
-zh_TW: 你尚未登入"
 hbui.PeopleTab.numberOfFriends	You have %1$s online friends	"Original Translation
 zh_CN: 你有 %1$s 位在线好友
 zh_TW: 你有 %1$s 位朋友在線上"
@@ -23290,6 +23310,10 @@ zh_TW: 搜尋玩家"
 hbui.SocialDrawerHeader.socialSettings	Social settings	"Original Translation
 zh_CN: 社交设置
 zh_TW: 社交設定"
+hbui.SocialDrawerTabErrorState.notLoggedInButton	Sign in now	Original Translation
+hbui.SocialDrawerTabErrorState.notLoggedInDescription	You need an account to play online with friends.	Original Translation
+hbui.SocialDrawerTabErrorState.notLoggedInInputLegend	Sign in	Original Translation
+hbui.SocialDrawerTabErrorState.notLoggedInTitle	You're not logged in	Original Translation
 hbui.SocialDrawerTabErrorState.party.multiplayerDisabledButtonTitleFixNow	Fix Now	Original Translation
 hbui.SocialDrawerTabErrorState.party.multiplayerDisabledButtonTitleLearnMore	Learn More	Original Translation
 hbui.SocialDrawerTabErrorState.party.multiplayerDisabledDescription	You can’t create or join a party because of a privacy setting on your account. These settings can be found in the Xbox Privacy section of Privacy & Online Safety.	Original Translation
@@ -33368,6 +33392,40 @@ zh_TW: 自訂遊戲的 UI，以減少干擾並最大化清晰度"
 menu.accessibility.tab.ui.title	User Interface	"Original Translation
 zh_CN: 用户界面
 zh_TW: 使用者介面"
+menu.account.access	Press :_gamepad_face_button_down: to open the Account Settings.	Original Translation
+menu.account.access.nogamepad	Select the Account Tab to open the Account Settings.	Original Translation
+menu.account.access.noicon	Select [A] to open the Account Settings.	Original Translation
+menu.account.changeGamertag.buttonLabel	Change	Original Translation
+menu.account.changeGamertag.title	Change Gamertag	Original Translation
+menu.account.changeName.title	Name	Original Translation
+menu.account.clearSignInData.buttonLabel	Clear data	Original Translation
+menu.account.clearSignInData.popup.acceptLabel	Clear data	Original Translation
+menu.account.clearSignInData.popup.cancelLabel	Go Back	Original Translation
+menu.account.clearSignInData.popup.description	Are you sure you want to do this?	Original Translation
+menu.account.clearSignInData.popup.title	Clear Account Sign-in Data	Original Translation
+menu.account.clearSignInData.title	Clear Account Sign-in Data	Original Translation
+menu.account.deleteMicrosoftAccount.buttonLabel	Delete	Original Translation
+menu.account.deleteMicrosoftAccount.title	Delete Microsoft account	Original Translation
+menu.account.gamertag.title	Gamertag	Original Translation
+menu.account.generalMessage	Account settings.	Original Translation
+menu.account.manageAccount.buttonLabel	Manage	Original Translation
+menu.account.manageAccount.title	Manage Account	Original Translation
+menu.account.managePlaystationAuthorization.buttonLabel	Manage	Original Translation
+menu.account.managePlaystationAuthorization.title	Manage PlayStation™Network Authorisation	Original Translation
+menu.account.privacyAndSafety.buttonLabel	View	Original Translation
+menu.account.privacyAndSafety.title	Privacy & online safety	Original Translation
+menu.account.realmMembershipInvites.buttonLabel	Manage	Original Translation
+menu.account.realmMembershipInvites.title	Manage Realms membership invites	Original Translation
+menu.account.signOutOfMicrosoft.buttonLabel	Sign Out	Original Translation
+menu.account.signOutOfMicrosoft.popup.acceptLabel	Sign Out	Original Translation
+menu.account.signOutOfMicrosoft.popup.cancelLabel	Go Back	Original Translation
+menu.account.signOutOfMicrosoft.popup.description	While you are signed out of your Microsoft account you will not have access to the Minecoins and items you bought in the store. Are you sure you want to do this?	Original Translation
+menu.account.signOutOfMicrosoft.popup.title	Microsoft account Purchases!	Original Translation
+menu.account.signOutOfMicrosoft.title	Sign out of your Microsoft account	Original Translation
+menu.account.tab.description	Access your account information	Original Translation
+menu.account.tab.title	Account	Original Translation
+menu.account.unlinkMicrosoftAccount.buttonLabel	Unlink	Original Translation
+menu.account.unlinkMicrosoftAccount.title	Unlink Microsoft account	Original Translation
 menu.achievements	Achievements	"Original Translation
 zh_CN: 成就
 zh_TW: 成就"
@@ -35953,7 +36011,7 @@ options.graphicsMode.simple	Simple	"Original Translation
 zh_CN: 简约
 zh_TW: 簡單"
 options.graphicsMode.simple.description	Best for low-end or older devices	Original Translation
-options.graphicsMode.tooltip	Vibrant Visuals requires a supported device and is not compatible with Marketplace Texture Packs or Worlds.	"Original Translation
+options.graphicsMode.tooltip	Vibrant Visuals requires a supported device and compatible Marketplace content.	"Original Translation
 zh_CN: 灵动视效需要受支持的设备，且与市场材质包或世界不兼容。
 zh_TW: 絢麗視覺需要支援支援的裝置，而且不與市集材質套件或世界相容。"
 options.graphicsMode.tooltip.splitscreen	Vibrant Visuals not supported while in split-screen.	"Original Translation
@@ -37177,6 +37235,8 @@ zh_TW: 使用遙控器連線至 Microsoft 帳戶登入 (需要重新啟動)"
 options.useSpecificTouchControlNames	Use Specific Touch Control Names	"Original Translation
 zh_CN: 使用特定的触摸控件名称
 zh_TW: 使用特定的觸控控制名稱"
+options.useXBLRemoteConnect	Remote Connect	Original Translation
+options.useXBLRemoteConnect.description	Use Remote Connect for Microsoft account Sign In (requires restart)	Original Translation
 options.usetouchpad	Split Controls	"Original Translation
 zh_CN: 分离控制
 zh_TW: 分離控制"
@@ -42003,6 +42063,7 @@ zh_TW: 刪除已儲存位置"
 resourcePack.editor.goToMark.pane.locationPane.dropdownLabel	Stored Locations	"Original Translation
 zh_CN: 存储的位置
 zh_TW: 已儲存位置"
+resourcePack.editor.goToMark.pane.locationPane.heading	Stored Locations	Original Translation
 resourcePack.editor.goToMark.pane.locationPane.inputName	New Name	"Original Translation
 zh_CN: 新名称
 zh_TW: 新名稱"
@@ -42018,6 +42079,7 @@ zh_TW: 傳送至已儲存位置 %1$s"
 resourcePack.editor.goToMark.pane.locationPane.title	Stored Locations	"Original Translation
 zh_CN: 存储的位置
 zh_TW: 已儲存位置"
+resourcePack.editor.goToMark.pane.mapPane.heading	Map & Quick Teleport	Original Translation
 resourcePack.editor.goToMark.pane.mapSize	Map Size	"Original Translation
 zh_CN: 地图大小
 zh_TW: 地圖尺寸"
@@ -42036,7 +42098,8 @@ zh_TW: 在導航面板中切換地圖顯示。"
 resourcePack.editor.goToMark.pane.teleport	Teleport to Location	"Original Translation
 zh_CN: 传送到位置
 zh_TW: 傳送到地點"
-resourcePack.editor.goToMark.title	Navigation Panel	"Original Translation
+resourcePack.editor.goToMark.pane.usersPane.heading	Users	Original Translation
+resourcePack.editor.goToMark.title	Navigation	"Original Translation
 zh_CN: 导航面板
 zh_TW: 導航面板"
 resourcePack.editor.goToMark.tooltip	Panel used to Teleport around the world.	"Original Translation
@@ -42093,7 +42156,7 @@ zh_TW: 可讓你編輯拼圖結構池的設定。"
 resourcePack.editor.jigsaw.pane.generate.bypassValidation.title	Skip Validation	"Original Translation
 zh_CN: 跳过验证
 zh_TW: 略過驗證"
-resourcePack.editor.jigsaw.pane.generate.bypassValidation.tooltip	Bypasses validation that runs before attempting to generate the Jigsaw structure. If true, the game may crash if the Jigsaw Collection is not correctly formatted.	"Original Translation
+resourcePack.editor.jigsaw.pane.generate.bypassValidation.tooltip	Skips validation that runs before attempting to generate the Jigsaw structure.	"Original Translation
 zh_CN: 绕过在尝试生成拼图结构之前运行的验证。若为真，则当拼图集合的格式有误时，游戏可能会崩溃。
 zh_TW: 略過生成拼圖結構前的驗證程序。若勾選此項，且拼圖收藏集的格式不正確，遊戲可能會崩潰。"
 resourcePack.editor.jigsaw.pane.generate.depth.title	Depth	"Original Translation
@@ -42135,6 +42198,7 @@ zh_TW: 生成時來自起始池之第一個使用的拼圖方塊目標名稱。�
 resourcePack.editor.jigsaw.pane.generate.subpane.title	Depth	"Original Translation
 zh_CN: 深度
 zh_TW: 深度"
+resourcePack.editor.jigsaw.pane.generatingJigsaw	Generating Jigsaw preview...	Original Translation
 resourcePack.editor.jigsaw.pane.poolSubpane.add.title	Add Jigsaw Pool Piece	"Original Translation
 zh_CN: 添加拼图池碎片
 zh_TW: 新增拼圖結構池組件"
@@ -42180,6 +42244,10 @@ zh_TW: 拼圖收藏集："
 resourcePack.editor.jigsaw.pane.registryDropdown.tooltip	A collection of Jigsaw Pools that are used for Jigsaw Structure generation.	"Original Translation
 zh_CN: 一系列拼图池，可用于生成拼图结构。
 zh_TW: 包含多個用於生成拼圖結構之結構池的收藏集。"
+resourcePack.editor.jigsaw.pane.skipValidationPane	"This will skip validation that runs before attempting to generate the Jigsaw structure.  The game may crash if the Jigsaw Collection is not correctly formatted. Select ""Confirm"" to continue without validation."	Original Translation
+resourcePack.editor.jigsaw.pane.skipValidationPaneCancel	Cancel	Original Translation
+resourcePack.editor.jigsaw.pane.skipValidationPaneConfirm	Confirm	Original Translation
+resourcePack.editor.jigsaw.pane.skipValidationPaneSkip	Don't ask again for this session.	Original Translation
 resourcePack.editor.jigsaw.pane.templatePoolCreation.heading	Jigsaw Pool Name	"Original Translation
 zh_CN: 拼图池名称
 zh_TW: 拼圖結構池名稱"
@@ -42717,6 +42785,8 @@ zh_TW: 模式"
 resourcePack.editor.pencil.editmode.tooltip	Choose whether Pencil adds or removes blocks from the world.	"Original Translation
 zh_CN: 选择铅笔是向世界中添加方块还是从中删除方块。
 zh_TW: 選擇鉛筆工具在世界中新增或移除方塊。"
+resourcePack.editor.pencil.keybinding.oneshot.title	Paint	Original Translation
+resourcePack.editor.pencil.keybinding.oneshot.tooltip	Paint blocks into the world while this key is held.	Original Translation
 resourcePack.editor.pencil.keybinding.title	Pencil	"Original Translation
 zh_CN: 铅笔
 zh_TW: 鉛筆"
@@ -43071,6 +43141,16 @@ zh_TW: 你沒有重新載入指令碼的權限。"
 resourcePack.editor.reloadScripts.response.tooMany	Too many players are connected to the server.  Script reloading is only supported on hosts with a single player connected.	"Original Translation
 zh_CN: 连接到服务器的玩家过多。仅在连接了单个玩家的主机上支持脚本重新加载。
 zh_TW: 連線到伺服器的玩家人數過多。只有單一玩家連線的主機才支援指令碼重新載入。"
+resourcePack.editor.selectionTool.blockManifest.blockTable.count	Count	Original Translation
+resourcePack.editor.selectionTool.blockManifest.blockTable.deselect	Deselect	Original Translation
+resourcePack.editor.selectionTool.blockManifest.blockTable.replace	Replace	Original Translation
+resourcePack.editor.selectionTool.blockManifest.blockTable.title	Contents	Original Translation
+resourcePack.editor.selectionTool.blockManifest.blockTable.tooltip	List of all the block types in the selection.	Original Translation
+resourcePack.editor.selectionTool.blockManifest.button.generateManifest.title	Generate Manifest	Original Translation
+resourcePack.editor.selectionTool.blockManifest.button.generateManifest.tooltip	Analyze the selection and generate a list of all block types and their counts.	Original Translation
+resourcePack.editor.selectionTool.blockManifest.progressIndicator.generatingManifest	Generating Manifest...	Original Translation
+resourcePack.editor.selectionTool.blockManifest.title	Block Manifest	Original Translation
+resourcePack.editor.selectionTool.blockManifest.tooltip	View and manage the contents of the current selection.	Original Translation
 resourcePack.editor.selectionTool.deselect	Deselect	"Original Translation
 zh_CN: 取消选择
 zh_TW: 取消選取"
@@ -43358,6 +43438,8 @@ zh_TW: 任意形狀"
 resourcePack.editor.selectionTool.settingsPane.title	Selection	"Original Translation
 zh_CN: 选择
 zh_TW: 選擇"
+resourcePack.editor.selectionTool.toast.noSelection.description	Please create a selection before generating a manifest.	Original Translation
+resourcePack.editor.selectionTool.toast.noSelection.title	No Selection	Original Translation
 resourcePack.editor.selectionTool.toolRail.description	Left mouse click and drag to create a Selection; CTRL + D to Deselect.	"Original Translation
 zh_CN: 鼠标左键点击并拖动以创建选区；按 CTRL + D 取消选择。
 zh_TW: 按下滑鼠左鍵並拖曳以建立選取範圍；按 CTRL + D 取消選取。"
@@ -43829,9 +43911,18 @@ zh_TW: 小麥"
 resourcePack.editor.toolRail.FarmGenerator.pane.fence	Fence	"Original Translation
 zh_CN: 栅栏
 zh_TW: 柵欄"
+resourcePack.editor.toolRail.FarmGenerator.pane.fence.acacia	Acacia	Original Translation
+resourcePack.editor.toolRail.FarmGenerator.pane.fence.bamboo	Bamboo	Original Translation
+resourcePack.editor.toolRail.FarmGenerator.pane.fence.birch	Birch	Original Translation
+resourcePack.editor.toolRail.FarmGenerator.pane.fence.cherry	Cherry	Original Translation
+resourcePack.editor.toolRail.FarmGenerator.pane.fence.crimson	Crimson	Original Translation
+resourcePack.editor.toolRail.FarmGenerator.pane.fence.jungle	Jungle	Original Translation
+resourcePack.editor.toolRail.FarmGenerator.pane.fence.oak	Oak	Original Translation
+resourcePack.editor.toolRail.FarmGenerator.pane.fence.spruce	Spruce	Original Translation
 resourcePack.editor.toolRail.FarmGenerator.pane.fence.tooltip	The wood type of the fence that surrounds the farm.	"Original Translation
 zh_CN: 围绕农场的栅栏的木材类型。
 zh_TW: 農場周圍柵欄的木塊種類。"
+resourcePack.editor.toolRail.FarmGenerator.pane.fence.warped	Warped	Original Translation
 resourcePack.editor.toolRail.FarmGenerator.pane.irrigation	Add Irrigation	"Original Translation
 zh_CN: 添加灌溉
 zh_TW: 新增灌溉系統"
@@ -43934,6 +44025,16 @@ zh_TW: 重複工具"
 resourcePack.editor.toolRail.RepeaterTool.tooltip	Tool for repeating the contents of a Selection.	"Original Translation
 zh_CN: 用于重复选择内容的工具。
 zh_TW: 用於重複「選取範圍」內容的工具。"
+resourcePack.editor.toolRail.Terrain.Elevation.mode.title	Elevation %s	Original Translation
+resourcePack.editor.toolRail.Terrain.Elevation.tooltip	Raise or Lower terrain based on Intensity and Falloff values.%sUse %s to cycle through Terrain modes.	Original Translation
+resourcePack.editor.toolRail.Terrain.ElevationBrushRadius	Radius	Original Translation
+resourcePack.editor.toolRail.Terrain.ElevationBrushRadius.tooltip	Radius of the raise / lower area.	Original Translation
+resourcePack.editor.toolRail.Terrain.ElevationFalloff	Falloff	Original Translation
+resourcePack.editor.toolRail.Terrain.ElevationFalloff.tooltip	Falloff determines the range from the center that more blocks are affected when raising or lowering terrain.	Original Translation
+resourcePack.editor.toolRail.Terrain.ElevationIntensity	Intensity	Original Translation
+resourcePack.editor.toolRail.Terrain.ElevationIntensity.tooltip	Rate at which blocks are affected when raising or lowering terrain.	Original Translation
+resourcePack.editor.toolRail.Terrain.ElevationSampleLayers	Layers	Original Translation
+resourcePack.editor.toolRail.Terrain.ElevationSampleLayers.tooltip	Sample Range to use when raising or lowering terrain.	Original Translation
 resourcePack.editor.toolRail.Terrain.Flatten.mode.title	Flatten %s	"Original Translation
 zh_CN: 平整 %s
 zh_TW: 平坦化 %s"
@@ -43976,6 +44077,10 @@ zh_TW: 覆蓋地板方塊"
 resourcePack.editor.toolRail.Terrain.FloorBlockOverride.tooltip	Overwrite floor block with the currently selected block type.	"Original Translation
 zh_CN: 使用当前所选方块类型覆盖地板方块。
 zh_TW: 使用目前選取的方塊類型覆蓋地板方塊。"
+resourcePack.editor.toolRail.Terrain.Lower.mode.title	Lower %s	Original Translation
+resourcePack.editor.toolRail.Terrain.Lower.tooltip	Lower terrain by removing blocks over time.	Original Translation
+resourcePack.editor.toolRail.Terrain.Mode.SubMode.Elevation.title	Elevation Mode	Original Translation
+resourcePack.editor.toolRail.Terrain.Mode.SubMode.Elevation.tooltip	Select between the different modes of Elevation.	Original Translation
 resourcePack.editor.toolRail.Terrain.Mode.SubMode.Flatten.title	Flatten Mode	"Original Translation
 zh_CN: 平整模式
 zh_TW: 平坦模式"
@@ -43988,6 +44093,8 @@ zh_TW: 地形模式"
 resourcePack.editor.toolRail.Terrain.Mode.tooltip	Select between the different modes of the Terrain tool.	"Original Translation
 zh_CN: 在不同地形工具模式之间进行选择。
 zh_TW: 在不同的地形工具模式之間選取。"
+resourcePack.editor.toolRail.Terrain.Raise.mode.title	Raise %s	Original Translation
+resourcePack.editor.toolRail.Terrain.Raise.tooltip	Raise terrain by adding blocks over time.	Original Translation
 resourcePack.editor.toolRail.Terrain.Roughen.mode.title	Roughen %s	"Original Translation
 zh_CN: 粗糙 %s
 zh_TW: 粗糙化 %s"
@@ -44021,6 +44128,16 @@ zh_TW: 切換地形模式"
 resourcePack.editor.toolRail.Terrain.keyBinding.switch.tooltip	Switch between the different Terrain tool modes.	"Original Translation
 zh_CN: 在不同地形工具模式之间进行切换。
 zh_TW: 切換不同的地形工具模式。"
+resourcePack.editor.toolRail.Terrain.keybinding.FlattenBoth.switch.title	Switch to Flatten Both	Original Translation
+resourcePack.editor.toolRail.Terrain.keybinding.FlattenBoth.switch.title.tooltip	Switch to Flatten Both when using Flatten in the Terrain tool.	Original Translation
+resourcePack.editor.toolRail.Terrain.keybinding.FlattenDown.switch.title	Switch to Flatten Down	Original Translation
+resourcePack.editor.toolRail.Terrain.keybinding.FlattenDown.switch.title.tooltip	Switch to Flatten Down when using Flatten in the Terrain tool.	Original Translation
+resourcePack.editor.toolRail.Terrain.keybinding.FlattenUp.switch.title	Switch to Flatten Up	Original Translation
+resourcePack.editor.toolRail.Terrain.keybinding.FlattenUp.switch.title.tooltip	Switch to Flatten Up when using Flatten in the Terrain tool.	Original Translation
+resourcePack.editor.toolRail.Terrain.keybinding.Lower.switch.title	Switch to Lower	Original Translation
+resourcePack.editor.toolRail.Terrain.keybinding.Lower.switch.title.tooltip	Switch to Lower when using Elevation in the Terrain tool.	Original Translation
+resourcePack.editor.toolRail.Terrain.keybinding.Raise.switch.title	Switch to Raise	Original Translation
+resourcePack.editor.toolRail.Terrain.keybinding.Raise.switch.title.tooltip	Switch to Raise when using Elevation in the Terrain tool.	Original Translation
 resourcePack.editor.toolRail.Terrain.keybinding.toggleTool.title	Terrain	"Original Translation
 zh_CN: 地形
 zh_TW: 地形"
@@ -44075,6 +44192,27 @@ zh_TW: 維度"
 resourcePack.editor.toolRail.blockInspectorTool.dimension.tooltip	The Dimension the block is located.	"Original Translation
 zh_CN: 方块的位置维度。
 zh_TW: 方塊所在的維度。"
+resourcePack.editor.toolRail.blockInspectorTool.jigsawProperties.jointType	Joint Type	Original Translation
+resourcePack.editor.toolRail.blockInspectorTool.jigsawProperties.jointType.aligned	Aligned	Original Translation
+resourcePack.editor.toolRail.blockInspectorTool.jigsawProperties.jointType.rollable	Rollable	Original Translation
+resourcePack.editor.toolRail.blockInspectorTool.jigsawProperties.jointType.tooltip	Change the joint type used by the Jigsaw block.  The Rollable joint type will select a random rotation when placing the target structure.  The Aligned joint type ensures that the white bars on the Jigsaw blocks are always aligned when placed.  Joint type is only valid when the Jigsaw is facing up or down.	Original Translation
+resourcePack.editor.toolRail.blockInspectorTool.jigsawProperties.name	Name	Original Translation
+resourcePack.editor.toolRail.blockInspectorTool.jigsawProperties.name.tooltip	The name of the block.	Original Translation
+resourcePack.editor.toolRail.blockInspectorTool.jigsawProperties.placementPriority	Placement Priority	Original Translation
+resourcePack.editor.toolRail.blockInspectorTool.jigsawProperties.placementPriority.tooltip	When a structure has two or more connecting Jigsaws, the one with a higher placement priority is placed.	Original Translation
+resourcePack.editor.toolRail.blockInspectorTool.jigsawProperties.saveJigsaw	Save Jigsaw	Original Translation
+resourcePack.editor.toolRail.blockInspectorTool.jigsawProperties.selectionPriority	Selection Priority	Original Translation
+resourcePack.editor.toolRail.blockInspectorTool.jigsawProperties.selectionPriority.tooltip	When two or more jigsaws attempt to generate a structure in the same place, the one with the higher selection priority is placed.	Original Translation
+resourcePack.editor.toolRail.blockInspectorTool.jigsawProperties.swap	Swap	Original Translation
+resourcePack.editor.toolRail.blockInspectorTool.jigsawProperties.swap.tooltip	Select the block that the Jigsaw blocks swaps to during generations.	Original Translation
+resourcePack.editor.toolRail.blockInspectorTool.jigsawProperties.targetName	Target Name	Original Translation
+resourcePack.editor.toolRail.blockInspectorTool.jigsawProperties.targetName.tooltip	The Target Name is used when generating Jigsaws to find connections with the same name.	Original Translation
+resourcePack.editor.toolRail.blockInspectorTool.jigsawProperties.targetPool	Target Pool	Original Translation
+resourcePack.editor.toolRail.blockInspectorTool.jigsawProperties.targetPool.tooltip	The name of the Jigsaw Pool that is used when generating a structure.	Original Translation
+resourcePack.editor.toolRail.blockInspectorTool.jigsawProperties.title	Jigsaw Properties	Original Translation
+resourcePack.editor.toolRail.blockInspectorTool.jigsawProperties.tooltip	The properties that appear in the Jigsaw block UI screen.	Original Translation
+resourcePack.editor.toolRail.blockInspectorTool.jigsawProperties.turnsInto	Turns Into	Original Translation
+resourcePack.editor.toolRail.blockInspectorTool.jigsawProperties.turnsInto.tooltip	The block that the Jigsaw block will become when placed in the world.	Original Translation
 resourcePack.editor.toolRail.blockInspectorTool.keyBinding.toggleTool.title	Block Inspector	"Original Translation
 zh_CN: 方块检查器
 zh_TW: 方塊檢查器"
@@ -44294,7 +44432,7 @@ zh_TW: 選擇點與點之間線段的計算方式。"
 resourcePack.editor.toolRail.line.pane.globallineweight.title	Global Weight	"Original Translation
 zh_CN: 全局权重
 zh_TW: 全域粗細"
-resourcePack.editor.toolRail.line.pane.point.thicknessHorizontalWeight.tooltip	Adjusts the horizontal weight from the selected Point	"Original Translation
+resourcePack.editor.toolRail.line.pane.point.thicknessHorizontalWeight.tooltip	Adjusts the horizontal weight from the selected Point.	"Original Translation
 zh_CN: 调整所选点的水平权重
 zh_TW: 調整選取點的水平粗細。"
 resourcePack.editor.toolRail.line.pane.point.thicknessVerticalWeight.tooltip	Adjusts the vertical weight from the selected Point.	"Original Translation
