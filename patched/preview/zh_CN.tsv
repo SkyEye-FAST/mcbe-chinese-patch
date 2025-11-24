@@ -1780,7 +1780,7 @@ zh_CN: [OBFUSCATED]
 zh_TW: [混淆]"	"[OBFUSCATED]"
 "chat.renamed"	"You have been temporarily renamed to '%s' on this server"	"Original Translation
 zh_CN: 你已暂时在此服务器上重命名为 '%s'
-zh_TW: 您在此伺服器上已暫時更名為「%s」"	""
+zh_TW: 您在此伺服器上已暫時更名為「%s」"	"你已暂时在此服务器上重命名为“%s”"
 "chat.settings"	"Chat Settings"	"Original Translation
 zh_CN: 聊天设置
 zh_TW: 交談設定"	"聊天设置"
@@ -1921,7 +1921,7 @@ zh_CN: 客户端调试器已关闭
 zh_TW: 用戶端偵錯程式已關閉"	"客户端调试器已关闭"
 "clientscript.success.debuggerConnect"	"Client debugger connected to host %s on port %s"	"Original Translation
 zh_CN: 客户端调试器已连接到端口 %s 上的主机 %s
-zh_TW: 連接到連接埠 %s 上的主機 %s 的用戶端偵錯程式"	""
+zh_TW: 連接到連接埠 %s 上的主機 %s 的用戶端偵錯程式"	"客户端调试器已连接到端口%2$s上的主机%1$s"
 "clientscript.success.debuggerListen"	"Client debugger listening on port %s"	"Original Translation
 zh_CN: 客户端调试器监听端口 %s
 zh_TW: 連接埠 %s 的用戶端偵錯程式"	""

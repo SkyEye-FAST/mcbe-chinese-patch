@@ -1774,7 +1774,7 @@ zh_CN: [OBFUSCATED]
 zh_TW: [混淆]"	"[OBFUSCATED]"
 "chat.renamed"	"You have been temporarily renamed to '%s' on this server"	"Original Translation
 zh_CN: 你已暂时在此服务器上重命名为 '%s'
-zh_TW: 您在此伺服器上已暫時更名為「%s」"	""
+zh_TW: 您在此伺服器上已暫時更名為「%s」"	"你已暂时在此服务器上重命名为“%s”"
 "chat.settings"	"Chat Settings"	"Original Translation
 zh_CN: 聊天设置
 zh_TW: 交談設定"	"聊天设置"
@@ -1882,7 +1882,7 @@ zh_CN: 添加一个 10 名用户的 Realm
 zh_TW: 新增 10 名玩家的 Realm"	"添加10名玩家的Realm"
 "classroomSettings.uriResource.header.description"	"Create a new button on the Game menu that links to an assessment tool, website, or other resource for your world."	"Original Translation
 zh_CN: 在游戏菜单上创建一个新按钮，为您的世界添加一个通往评估工具、网站或其他资源的链接。
-zh_TW: 在 [遊戲] 功能表上建立新按鈕，連結至適用於您的世界的評估工具、網站或其他資源。"	""
+zh_TW: 在 [遊戲] 功能表上建立新按鈕，連結至適用於您的世界的評估工具、網站或其他資源。"	"在游戏菜单上显示一个按钮，链接至适用于你的世界的评估工具、网站或其他资源。"
 "classroomSettings.uriResource.header.title"	"Resource Link"	"Original Translation
 zh_CN: 资源链接
 zh_TW: 資源連結"	"资源链接"
@@ -1894,16 +1894,16 @@ zh_CN: 资源按钮名称
 zh_TW: 資源按鈕名稱"	"资源按钮名称"
 "classroomSettings.uriResource.uri.placeHolder"	"Required to enable button"	"Original Translation
 zh_CN: 需启用按钮
-zh_TW: 啟用按鈕的必要條件"	""
+zh_TW: 啟用按鈕的必要條件"	"需启用按钮"
 "classroomSettings.uriResource.uri.title"	"Resource Button URL"	"Original Translation
 zh_CN: 资源按钮 URL
 zh_TW: 資源按鈕 URL"	"资源按钮URL"
 "classroomSettings.uriResource.uri.warning.emptyUri"	"Don't forget to add a URL to enable your button."	"Original Translation
 zh_CN: 不要忘记添加一个 URL 来启用您的按钮。
-zh_TW: 別忘了新增一個 URL 來啟用按鈕。"	""
+zh_TW: 別忘了新增一個 URL 來啟用按鈕。"	"不要忘记添加一个网址来启用你的按钮。"
 "classroomSettings.uriResource.uri.warning.invalidUri"	"Only URLs beginning with ""http"" or ""https"" are supported."	"Original Translation
 zh_CN: 仅支持以“http”或“https”开头的网址。
-zh_TW: 僅支援以 http 或 https 開頭的 URL。"	""
+zh_TW: 僅支援以 http 或 https 開頭的 URL。"	"仅支持以“http”或“https”开头的网址。"
 "client.version.1.0"	"Ender Update (%s)"	"Original Translation
 zh_CN: 末影人更新 (%s)
 zh_TW: 終界更新 (%s)"	"末影更新（%s）"
@@ -1939,7 +1939,7 @@ zh_CN: 客户端调试器已关闭
 zh_TW: 用戶端偵錯程式已關閉"	"客户端调试器已关闭"
 "clientscript.success.debuggerConnect"	"Client debugger connected to host %s on port %s"	"Original Translation
 zh_CN: 客户端调试器已连接到端口 %s 上的主机 %s
-zh_TW: 連接到連接埠 %s 上的主機 %s 的用戶端偵錯程式"	""
+zh_TW: 連接到連接埠 %s 上的主機 %s 的用戶端偵錯程式"	"客户端调试器已连接到端口%2$s上的主机%1$s"
 "clientscript.success.debuggerListen"	"Client debugger listening on port %s"	"Original Translation
 zh_CN: 客户端调试器监听端口 %s
 zh_TW: 連接埠 %s 的用戶端偵錯程式"	""
