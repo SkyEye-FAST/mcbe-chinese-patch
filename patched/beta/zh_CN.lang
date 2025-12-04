@@ -616,6 +616,7 @@ client.version.1.5=水域更新（%s）
 client.version.generic=%s更新
 clientscript.description=脚本调试器命令。
 clientscript.error.debuggerFailed=无法启动客户端调试器
+clientscript.error.unknownCommandMode=提供的命令模式未知
 clientscript.success.debuggerClosed=客户端调试器已关闭
 clientscript.success.debuggerConnect=客户端调试器已连接到端口%2$s上的主机%1$s
 codeScreen.button.changeEditor=更改编辑器
