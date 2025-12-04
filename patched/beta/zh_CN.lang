@@ -4545,7 +4545,6 @@ resourcePack.editor.goToMark.pane.location=位置
 resourcePack.editor.toolMode.keyBinding.devConsole=打开开发者控制台
 tile.flower_pot.name=花盆
 tile.frame.name=物品展示框
-tile.glow_frame.name=荧光物品展示框
 tile.kelp.name=海带
 tile.pale_oak_hanging_sign.name=悬挂式苍白橡木告示牌
 tile.pale_oak_standing_sign.name=苍白橡木告示牌
