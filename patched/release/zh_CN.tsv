@@ -6262,7 +6262,7 @@ zh_CN: 初始地图
 zh_TW: 起始地圖"	""
 "createWorldScreen.tileDrops"	"Tile Drops"	"Original Translation
 zh_CN: 方块掉落
-zh_TW: 磚塊掉落"	""
+zh_TW: 磚塊掉落"	"方块掉落"
 "createWorldScreen.tntexplodes"	"TNT Explodes"	"Original Translation
 zh_CN: TNT 爆炸
 zh_TW: 炸藥會爆炸"	"TNT爆炸"
@@ -13033,7 +13033,7 @@ zh_CN: 方块被破坏时会掉落战利品
 zh_TW: 方塊損壞時會掉落物品"	""
 "hbui.CreateNewWorld.advanced.tileDropsTitle"	"Tile drops"	"Original Translation
 zh_CN: 方块掉落
-zh_TW: 磚塊掉落物品"	""
+zh_TW: 磚塊掉落物品"	"方块掉落"
 "hbui.CreateNewWorld.advanced.title"	"Advanced settings"	"Original Translation
 zh_CN: 高级设置
 zh_TW: 進階設定"	""
@@ -49185,13 +49185,13 @@ zh_CN: 金合欢木栅栏门
 zh_TW: 相思木柵欄門"	"金合欢木栅栏门"
 "tile.acacia_hanging_sign.name"	"Acacia Hanging Sign"	"Original Translation
 zh_CN: 金合欢悬挂告示牌
-zh_TW: 懸掛式相思木告示牌"	""
+zh_TW: 懸掛式相思木告示牌"	"悬挂式金合欢木告示牌"
 "tile.acacia_pressure_plate.name"	"Acacia Pressure Plate"	"Original Translation
 zh_CN: 金合欢木压力板
 zh_TW: 相思木壓板"	"金合欢木压力板"
 "tile.acacia_shelf.name"	"Acacia Shelf"	"Original Translation
 zh_CN: 金合欢木架
-zh_TW: 相思木架子"	""
+zh_TW: 相思木架子"	"金合欢木展示架"
 "tile.acacia_stairs.name"	"Acacia Stairs"	"Original Translation
 zh_CN: 金合欢木楼梯
 zh_TW: 相思木階梯"	"金合欢木楼梯"
@@ -49260,7 +49260,7 @@ zh_CN: 竹制围墙大门
 zh_TW: 竹子柵欄門"	"竹栅栏门"
 "tile.bamboo_hanging_sign.name"	"Bamboo Hanging Sign"	"Original Translation
 zh_CN: 竹制悬挂告示牌
-zh_TW: 懸掛式竹告示牌"	""
+zh_TW: 懸掛式竹告示牌"	"悬挂式竹告示牌"
 "tile.bamboo_mosaic.name"	"Bamboo Mosaic"	"Original Translation
 zh_CN: 竹制马赛克
 zh_TW: 竹子馬賽克"	"竹马赛克"
@@ -49278,10 +49278,10 @@ zh_CN: 竹制压力板
 zh_TW: 竹子壓板"	"竹压力板"
 "tile.bamboo_sapling.name"	"Bamboo Sapling"	"Original Translation
 zh_CN: 竹苗
-zh_TW: 竹子樹苗"	""
+zh_TW: 竹子樹苗"	"竹笋"
 "tile.bamboo_shelf.name"	"Bamboo Shelf"	"Original Translation
 zh_CN: 竹架
-zh_TW: 竹架子"	""
+zh_TW: 竹架子"	"竹展示架"
 "tile.bamboo_slab.name"	"Bamboo Slab"	"Original Translation
 zh_CN: 竹制台阶
 zh_TW: 竹板"	"竹台阶"
@@ -49290,7 +49290,7 @@ zh_CN: 竹制楼梯
 zh_TW: 竹子階梯"	"竹楼梯"
 "tile.bamboo_standing_sign.name"	"Bamboo Sign"	"Original Translation
 zh_CN: 竹制告示牌
-zh_TW: 竹子告示牌"	""
+zh_TW: 竹子告示牌"	"竹告示牌"
 "tile.bamboo_trapdoor.name"	"Bamboo Trapdoor"	"Original Translation
 zh_CN: 竹制活板门
 zh_TW: 竹子地板門"	"竹活板门"
@@ -49371,13 +49371,13 @@ zh_CN: 白桦木栅栏门
 zh_TW: 樺木柵欄門"	"白桦木栅栏门"
 "tile.birch_hanging_sign.name"	"Birch Hanging Sign"	"Original Translation
 zh_CN: 白桦木悬挂告示牌
-zh_TW: 懸掛式樺木告示牌"	""
+zh_TW: 懸掛式樺木告示牌"	"悬挂式白桦木告示牌"
 "tile.birch_pressure_plate.name"	"Birch Pressure Plate"	"Original Translation
 zh_CN: 白桦木压力板
 zh_TW: 樺木壓板"	"白桦木压力板"
 "tile.birch_shelf.name"	"Birch Shelf"	"Original Translation
 zh_CN: 桦树木架
-zh_TW: 樺木架子"	""
+zh_TW: 樺木架子"	"白桦木展示架"
 "tile.birch_stairs.name"	"Birch Stairs"	"Original Translation
 zh_CN: 白桦木楼梯
 zh_TW: 樺木階梯"	"白桦木楼梯"
@@ -49587,7 +49587,7 @@ zh_CN: 樱花木栅栏门
 zh_TW: 櫻花木柵欄門"	"樱花木栅栏门"
 "tile.cherry_hanging_sign.name"	"Cherry Hanging Sign"	"Original Translation
 zh_CN: 樱花木悬挂告示牌
-zh_TW: 懸掛式櫻花木告示牌"	""
+zh_TW: 懸掛式櫻花木告示牌"	"悬挂式樱花木告示牌"
 "tile.cherry_leaves.name"	"Cherry Leaves"	"Original Translation
 zh_CN: 樱花树叶
 zh_TW: 櫻花樹葉"	"樱花树叶"
@@ -49605,7 +49605,7 @@ zh_CN: 樱花树苗
 zh_TW: 櫻花樹苗"	"樱花树苗"
 "tile.cherry_shelf.name"	"Cherry Shelf"	"Original Translation
 zh_CN: 樱桃木架
-zh_TW: 櫻木架子"	""
+zh_TW: 櫻木架子"	"樱花木展示架"
 "tile.cherry_slab.name"	"Cherry Slab"	"Original Translation
 zh_CN: 樱花木台阶
 zh_TW: 櫻花木板"	"樱花木台阶"
@@ -49848,7 +49848,7 @@ zh_CN: 潮涌核心
 zh_TW: 海靈核心"	"潮涌核心"
 "tile.copper_bars.name"	"Copper Bars"	"Original Translation
 zh_CN: 铜条
-zh_TW: 銅欄杆"	""
+zh_TW: 銅欄杆"	"铜栏杆"
 "tile.copper_block.name"	"Block of Copper"	"Original Translation
 zh_CN: 铜方块
 zh_TW: 銅方塊"	"铜块"
@@ -49857,7 +49857,7 @@ zh_CN: 铜灯泡
 zh_TW: 銅燈泡"	"铜灯"
 "tile.copper_chain.name"	"Copper Chain"	"Original Translation
 zh_CN: 铜链
-zh_TW: 銅鎖鏈"	""
+zh_TW: 銅鎖鏈"	"铜链"
 "tile.copper_chest.name"	"Copper Chest"	"Original Translation
 zh_CN: 铜宝箱
 zh_TW: 銅箱子"	"铜箱子"
@@ -49866,19 +49866,19 @@ zh_CN: 铜门
 zh_TW: 銅門"	"铜门"
 "tile.copper_golem_statue.name"	"Copper Golem Statue"	"Original Translation
 zh_CN: 铜傀儡雕像
-zh_TW: 銅魔像雕像"	""
+zh_TW: 銅魔像雕像"	"铜傀儡像"
 "tile.copper_grate.name"	"Copper Grate"	"Original Translation
 zh_CN: 铜格栅
 zh_TW: 銅雕花格"	"铜格栅"
 "tile.copper_lantern.name"	"Copper Lantern"	"Original Translation
 zh_CN: 铜提灯
-zh_TW: 銅燈籠"	""
+zh_TW: 銅燈籠"	"铜灯笼"
 "tile.copper_ore.name"	"Copper Ore"	"Original Translation
 zh_CN: 铜矿石
 zh_TW: 銅礦石"	"铜矿石"
 "tile.copper_torch.name"	"Copper Torch"	"Original Translation
 zh_CN: 铜火把
-zh_TW: 銅火把"	""
+zh_TW: 銅火把"	"铜火把"
 "tile.copper_trapdoor.name"	"Copper Trapdoor"	"Original Translation
 zh_CN: 铜活板门
 zh_TW: 銅製地板門"	"铜活板门"
@@ -50013,7 +50013,7 @@ zh_CN: 绯红菌
 zh_TW: 緋紅蕈菇"	"绯红菌"
 "tile.crimson_hanging_sign.name"	"Crimson Hanging Sign"	"Original Translation
 zh_CN: 绯红木悬挂告示牌
-zh_TW: 懸掛式緋紅蕈木告示牌"	""
+zh_TW: 懸掛式緋紅蕈木告示牌"	"悬挂式绯红木告示牌"
 "tile.crimson_hyphae.name"	"Crimson Hyphae"	"Original Translation
 zh_CN: 绯红菌核
 zh_TW: 緋紅菌絲體"	"绯红菌核"
@@ -50031,7 +50031,7 @@ zh_CN: 绯红菌索
 zh_TW: 緋紅蕈根"	"绯红菌索"
 "tile.crimson_shelf.name"	"Crimson Shelf"	"Original Translation
 zh_CN: 绯红架子
-zh_TW: 緋紅架子"	""
+zh_TW: 緋紅架子"	"绯红木展示架"
 "tile.crimson_slab.name"	"Crimson Slab"	"Original Translation
 zh_CN: 绯红木台阶
 zh_TW: 緋紅蕈木半磚"	"绯红木台阶"
@@ -50079,13 +50079,13 @@ zh_CN: 深色橡木栅栏门
 zh_TW: 黑橡木柵欄門"	"深色橡木栅栏门"
 "tile.dark_oak_hanging_sign.name"	"Dark Oak Hanging Sign"	"Original Translation
 zh_CN: 深色橡木悬挂告示牌
-zh_TW: 懸掛式黑橡木告示牌"	""
+zh_TW: 懸掛式黑橡木告示牌"	"悬挂式深色橡木告示牌"
 "tile.dark_oak_pressure_plate.name"	"Dark Oak Pressure Plate"	"Original Translation
 zh_CN: 深色橡木压力板
 zh_TW: 黑橡木壓板"	"深色橡木压力板"
 "tile.dark_oak_shelf.name"	"Dark Oak Shelf"	"Original Translation
 zh_CN: 深色橡木架
-zh_TW: 黑橡木架子"	""
+zh_TW: 黑橡木架子"	"深色橡木展示架"
 "tile.dark_oak_stairs.name"	"Dark Oak Stairs"	"Original Translation
 zh_CN: 深色橡木楼梯
 zh_TW: 黑橡木階梯"	"深色橡木楼梯"
@@ -51060,13 +51060,13 @@ zh_CN: 丛林木栅栏门
 zh_TW: 叢林木柵欄門"	"丛林木栅栏门"
 "tile.jungle_hanging_sign.name"	"Jungle Hanging Sign"	"Original Translation
 zh_CN: 丛林悬挂告示牌
-zh_TW: 懸掛式叢林木告示牌"	""
+zh_TW: 懸掛式叢林木告示牌"	"悬挂式丛林木告示牌"
 "tile.jungle_pressure_plate.name"	"Jungle Pressure Plate"	"Original Translation
 zh_CN: 丛林木压力板
 zh_TW: 叢林壓板"	"丛林木压力板"
 "tile.jungle_shelf.name"	"Jungle Shelf"	"Original Translation
 zh_CN: 丛林架子
-zh_TW: 叢林架子"	""
+zh_TW: 叢林架子"	"丛林木展示架"
 "tile.jungle_stairs.name"	"Jungle Stairs"	"Original Translation
 zh_CN: 丛林木楼梯
 zh_TW: 叢林階梯"	"丛林木楼梯"
@@ -51216,7 +51216,7 @@ zh_CN: 红树木栅栏大门
 zh_TW: 紅樹林柵欄門"	"红树木栅栏门"
 "tile.mangrove_hanging_sign.name"	"Mangrove Hanging Sign"	"Original Translation
 zh_CN: 红树木悬挂告示牌
-zh_TW: 懸掛式紅樹林木告示牌"	""
+zh_TW: 懸掛式紅樹林木告示牌"	"悬挂式红树木告示牌"
 "tile.mangrove_leaves.name"	"Mangrove Leaves"	"Original Translation
 zh_CN: 红树木树叶
 zh_TW: 紅樹林樹葉"	"红树树叶"
@@ -51237,7 +51237,7 @@ zh_CN: 红树木根
 zh_TW: 紅樹林根"	"红树根"
 "tile.mangrove_shelf.name"	"Mangrove Shelf"	"Original Translation
 zh_CN: 红树木架
-zh_TW: 紅樹林架子"	""
+zh_TW: 紅樹林架子"	"红树木展示架"
 "tile.mangrove_slab.name"	"Mangrove Slab"	"Original Translation
 zh_CN: 红树木台阶
 zh_TW: 紅樹林木半磚"	"红树木台阶"
@@ -51246,7 +51246,7 @@ zh_CN: 红树木楼梯
 zh_TW: 紅樹林階梯"	"红树木楼梯"
 "tile.mangrove_standing_sign.name"	"Mangrove Sign"	"Original Translation
 zh_CN: 红树木告示牌
-zh_TW: 紅樹林告示牌"	""
+zh_TW: 紅樹林告示牌"	"红树木告示牌"
 "tile.mangrove_trapdoor.name"	"Mangrove Trapdoor"	"Original Translation
 zh_CN: 红树木活板门
 zh_TW: 紅樹林地板門"	"红树木活板门"
@@ -51381,10 +51381,10 @@ zh_CN: 音符盒
 zh_TW: 音階盒"	"音符盒"
 "tile.oak_hanging_sign.name"	"Oak Hanging Sign"	"Original Translation
 zh_CN: 橡木悬挂告示牌
-zh_TW: 懸掛式橡木告示牌"	""
+zh_TW: 懸掛式橡木告示牌"	"悬挂式橡木告示牌"
 "tile.oak_shelf.name"	"Oak Shelf"	"Original Translation
 zh_CN: 橡树木架
-zh_TW: 橡木架子"	""
+zh_TW: 橡木架子"	"橡木展示架"
 "tile.oak_stairs.name"	"Oak Stairs"	"Original Translation
 zh_CN: 橡木楼梯
 zh_TW: 橡木階梯"	"橡木楼梯"
@@ -52506,7 +52506,7 @@ zh_CN: 遮光玻璃
 zh_TW: 遮光玻璃"	"遮光玻璃"
 "tile.tnt.name"	"TNT"	"Original Translation
 zh_CN: TNT
-zh_TW: 炸藥"	""
+zh_TW: 炸藥"	"TNT"
 "tile.torch.name"	"Torch"	"Original Translation
 zh_CN: 火把
 zh_TW: 火把"	"火把"
@@ -52575,10 +52575,10 @@ zh_CN: 红石火把
 zh_TW: 紅石火把"	"红石火把"
 "tile.unpowered_comparator.name"	"Redstone Comparator"	"Original Translation
 zh_CN: 红石比较器
-zh_TW: 紅石比較器"	""
+zh_TW: 紅石比較器"	"红石比较器"
 "tile.unpowered_repeater.name"	"Redstone Repeater"	"Original Translation
 zh_CN: 红石中继器
-zh_TW: 紅石中繼器"	""
+zh_TW: 紅石中繼器"	"红石中继器"
 "tile.vault.name"	"Vault"	"Original Translation
 zh_CN: 宝库
 zh_TW: 保險庫"	"宝库"
