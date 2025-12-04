@@ -1933,7 +1933,7 @@ zh_CN: 无法启动客户端调试器
 zh_TW: 無法啟動用戶端偵錯程式"	"无法启动客户端调试器"
 "clientscript.error.unknownCommandMode"	"Unknown command mode provided"	"Original Translation
 zh_CN: 提供的命令模式未知
-zh_TW: 已提供未知的命令模式"	""
+zh_TW: 已提供未知的命令模式"	"提供的命令模式未知"
 "clientscript.success.debuggerClosed"	"Client debugger closed"	"Original Translation
 zh_CN: 客户端调试器已关闭
 zh_TW: 用戶端偵錯程式已關閉"	"客户端调试器已关闭"
@@ -2116,7 +2116,7 @@ zh_CN: 项目不可用
 zh_TW: 專案無法使用"	"项目不可用"
 "codeScreen.tynkerDeprecated.try"	"Try MakeCode"	"Original Translation
 zh_CN: 尝试 MakeCode
-zh_TW: 嘗試 MakeCode"	""
+zh_TW: 嘗試 MakeCode"	"尝试MakeCode"
 "color.aqua"	"Aqua"	"Original Translation
 zh_CN: 水绿色
 zh_TW: 水藍色"	"天蓝色"
@@ -52575,10 +52575,10 @@ zh_CN: 红石火把
 zh_TW: 紅石火把"	"红石火把"
 "tile.unpowered_comparator.name"	"Redstone Comparator"	"Original Translation
 zh_CN: 红石比较器
-zh_TW: 紅石比較器"	"未激活的红石比较器"
+zh_TW: 紅石比較器"	"红石比较器"
 "tile.unpowered_repeater.name"	"Redstone Repeater"	"Original Translation
 zh_CN: 红石中继器
-zh_TW: 紅石中繼器"	"未激活的红石中继器"
+zh_TW: 紅石中繼器"	"红石中继器"
 "tile.vault.name"	"Vault"	"Original Translation
 zh_CN: 宝库
 zh_TW: 保險庫"	"宝库"

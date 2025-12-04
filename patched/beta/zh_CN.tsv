@@ -1944,7 +1944,7 @@ zh_CN: 无法启动客户端调试器
 zh_TW: 無法啟動用戶端偵錯程式"	"无法启动客户端调试器"
 "clientscript.error.unknownCommandMode"	"Unknown command mode provided"	"Original Translation
 zh_CN: 提供的命令模式未知
-zh_TW: 已提供未知的命令模式"	""
+zh_TW: 已提供未知的命令模式"	"提供的命令模式未知"
 "clientscript.success.debuggerClosed"	"Client debugger closed"	"Original Translation
 zh_CN: 客户端调试器已关闭
 zh_TW: 用戶端偵錯程式已關閉"	"客户端调试器已关闭"
