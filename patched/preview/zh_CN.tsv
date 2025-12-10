@@ -484,7 +484,7 @@ zh_CN: 正在登录至 Xbox Live
 zh_TW: 正在登入 X box Live"	"正在登录至Xbox Live"
 "accessibility.slider.tts.percentValue"	"%s percent"	"Original Translation
 zh_CN: %s%
-zh_TW: 百分之 %s"	"%s%"
+zh_TW: 百分之 %s"	"百分之 %s"
 "accessibility.slider.tts.title"	"Slider"	"Original Translation
 zh_CN: 滑块
 zh_TW: 滑桿"	"滑块"
@@ -529,7 +529,7 @@ zh_CN: 愿望清单
 zh_TW: 願望清單"	"愿望清单"
 "accessibility.tab.tts.title"	"Tab"	"Original Translation
 zh_CN: 标签
-zh_TW: 標籤"	"选项卡"
+zh_TW: 標籤"	"标签页"
 "accessibility.text.CurrencyExceptions"	"PLN"	"Original Translation
 zh_CN: PLN
 zh_TW: PLN"	"PLN"

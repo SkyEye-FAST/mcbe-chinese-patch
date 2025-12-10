@@ -292,7 +292,7 @@ zh_CN: 许可
 zh_TW: 權限"	"權限"
 "accessibility.pause.profile"	"Choose Profile"	"Original Translation
 zh_CN: 选择个人资料
-zh_TW: 選擇設定檔"	"選擇個人資料"
+zh_TW: 選擇設定檔"	"選擇設定檔"
 "accessibility.play.editRealm"	"Edit Realm"	"Original Translation
 zh_CN: 编辑 Realm
 zh_TW: 編輯 Realm"	"編輯 Realm"
@@ -421,121 +421,121 @@ zh_CN: 库屏幕
 zh_TW: 資料庫畫面"	""
 "accessibility.screenName.modalDialog"	"Popup dialog"	"Original Translation
 zh_CN: 弹出对话框
-zh_TW: 彈出式對話"	""
+zh_TW: 彈出式對話"	"彈出式對話方塊"
 "accessibility.screenName.myServers"	"My Servers Screen"	"Original Translation
 zh_CN: 我的服务器界面
-zh_TW: 我的伺服器畫面"	""
+zh_TW: 我的伺服器畫面"	"我的伺服器畫面"
 "accessibility.screenName.myTemplates"	"My Templates Screen"	"Original Translation
 zh_CN: 我的模板屏幕
-zh_TW: 我的範本畫面"	""
+zh_TW: 我的範本畫面"	"我的範本畫面"
 "accessibility.screenName.myWorlds"	"My Worlds Screen"	"Original Translation
 zh_CN: 我的世界屏幕
-zh_TW: 我的世界畫面"	""
+zh_TW: 我的世界畫面"	"我的世界畫面"
 "accessibility.screenName.patchNotes"	"Patch Notes Screen"	"Original Translation
 zh_CN: 补丁说明屏幕
-zh_TW: 修補說明畫面"	""
+zh_TW: 修補說明畫面"	"修補說明畫面"
 "accessibility.screenName.pause"	"Game menu"	"Original Translation
 zh_CN: 游戏菜单
-zh_TW: 遊戲目錄"	""
+zh_TW: 遊戲目錄"	"遊戲選單"
 "accessibility.screenName.permissions"	"Permissions Screen"	"Original Translation
 zh_CN: 权限屏幕
-zh_TW: 權限畫面"	""
+zh_TW: 權限畫面"	"權限畫面"
 "accessibility.screenName.play"	"Play Screen"	"Original Translation
 zh_CN: 课程屏幕
-zh_TW: 遊戲畫面"	""
+zh_TW: 遊戲畫面"	"遊玩畫面"
 "accessibility.screenName.profile"	"Profile Screen"	"Original Translation
 zh_CN: 个人资料屏幕
-zh_TW: 設定檔畫面"	""
+zh_TW: 設定檔畫面"	"設定檔畫面"
 "accessibility.screenName.realmInviteLinkSettings"	"Realm Invite Link Settings Screen"	"Original Translation
 zh_CN: Realm 邀请链接设置屏幕
-zh_TW: Realm 邀請連結設定畫面"	""
+zh_TW: Realm 邀請連結設定畫面"	"Realm 邀請連結設定畫面"
 "accessibility.screenName.realmSettings"	"Realm Settings Screen"	"Original Translation
 zh_CN: Realm 设置屏幕
-zh_TW: Realm 設定畫面"	""
+zh_TW: Realm 設定畫面"	"Realm 設定畫面"
 "accessibility.screenName.settings"	"Game Settings Screen"	"Original Translation
 zh_CN: 课程设置屏幕
-zh_TW: 遊戲設定畫面"	""
+zh_TW: 遊戲設定畫面"	"遊戲設定畫面"
 "accessibility.screenName.skinPicker"	"Choose Skin Screen"	"Original Translation
 zh_CN: 外观选择屏幕
-zh_TW: 選擇外觀畫面"	""
+zh_TW: 選擇外觀畫面"	"選擇外觀畫面"
 "accessibility.screenName.start"	"Main Menu"	"Original Translation
 zh_CN: 主菜单
-zh_TW: 主選單"	""
+zh_TW: 主選單"	"主選單"
 "accessibility.scrollbar.tts.title"	"Scroll Bar"	"Original Translation
 zh_CN: 滚动条
-zh_TW: 捲軸"	""
+zh_TW: 捲軸"	"捲軸"
 "accessibility.search.sort_menu.A_to_Z.tts.title"	"'A' to 'Z'"	"Original Translation
 zh_CN: 'A' 到 'Z'
-zh_TW: A 到 Z"	""
+zh_TW: A 到 Z"	"A 到 Z"
 "accessibility.search.sort_menu.Z_to_A.tts.title"	"'Z' to 'A'"	"Original Translation
 zh_CN: 'Z' 到 'A'
-zh_TW: Z 到 A"	""
+zh_TW: Z 到 A"	"Z 到 A"
 "accessibility.sectionName"	"Section %s:"	"Original Translation
 zh_CN: 第 %s 部分：
-zh_TW: 段落 %s："	""
+zh_TW: 段落 %s："	"段落 %s："
 "accessibility.settings.chooseSeed"	"Choose Seed"	"Original Translation
 zh_CN: 选择种子
-zh_TW: 選擇種子"	""
+zh_TW: 選擇種子"	"選擇種子"
 "accessibility.settings.reset"	"reset"	"Original Translation
 zh_CN: 重置
-zh_TW: 重置"	""
+zh_TW: 重置"	"重設"
 "accessibility.signin.xbl"	"Signing into X box live"	"Original Translation
 zh_CN: 正在登录至 Xbox Live
-zh_TW: 正在登入 X box Live"	""
+zh_TW: 正在登入 X box Live"	"正在登入 X box Live"
 "accessibility.slider.tts.percentValue"	"%s percent"	"Original Translation
 zh_CN: %s%
-zh_TW: 百分之 %s"	""
+zh_TW: 百分之 %s"	"百分之 %s"
 "accessibility.slider.tts.title"	"Slider"	"Original Translation
 zh_CN: 滑块
-zh_TW: 滑桿"	""
+zh_TW: 滑桿"	"滑桿"
 "accessibility.start.buttonHelper"	"%s : %s"	"Original Translation
 zh_CN: %s：%s
-zh_TW: %s : %s"	""
+zh_TW: %s : %s"	"%s：%s"
 "accessibility.start.feedback"	"Submit Feedback Link to Website"	"Original Translation
 zh_CN: 提交反馈链接到网站
-zh_TW: 提交「意見反饋連結」到「網站」"	""
+zh_TW: 提交「意見反饋連結」到「網站」"	"提交「意見反饋連結」到「網站」"
 "accessibility.start.new"	"New"	"Original Translation
 zh_CN: 新
-zh_TW: 新"	""
+zh_TW: 新"	"新"
 "accessibility.start.skinPicker"	"Choose Skin"	"Original Translation
 zh_CN: 选择皮肤
-zh_TW: 選擇外觀"	""
+zh_TW: 選擇外觀"	"選擇外觀"
 "accessibility.state.checked"	": checked"	"Original Translation
 zh_CN: ：选中
-zh_TW: ：已勾選"	""
+zh_TW: ：已勾選"	": 已選取"
 "accessibility.state.off"	": off"	"Original Translation
 zh_CN: ：关闭
-zh_TW: ：關閉"	""
+zh_TW: ：關閉"	"：關閉"
 "accessibility.state.on"	": on"	"Original Translation
 zh_CN: ：打开
-zh_TW: ：開啟"	""
+zh_TW: ：開啟"	"：開啟"
 "accessibility.state.selected"	": selected"	"Original Translation
 zh_CN: ：已选择
-zh_TW: ：已選取"	""
+zh_TW: ：已選取"	"：已選擇"
 "accessibility.state.unchecked"	": unchecked"	"Original Translation
 zh_CN: ：取消选中
-zh_TW: ：已取消勾選"	""
+zh_TW: ：已取消勾選"	"：未選取"
 "accessibility.state.unselected"	": unselected"	"Original Translation
 zh_CN: ：未选择
-zh_TW: ：已取消選取"	""
+zh_TW: ：已取消選取"	"：未選擇"
 "accessibility.store.offerDescription.share"	"Share"	"Original Translation
 zh_CN: 分享
-zh_TW: 分享"	""
+zh_TW: 分享"	"分享"
 "accessibility.store.tag"	"Tag"	"Original Translation
 zh_CN: 标记
-zh_TW: 標籤"	""
+zh_TW: 標籤"	"標籤"
 "accessibility.store.wishlist.button"	"Wish List"	"Original Translation
 zh_CN: 愿望清单
-zh_TW: 願望清單"	""
+zh_TW: 願望清單"	"願望清單"
 "accessibility.tab.tts.title"	"Tab"	"Original Translation
 zh_CN: 标签
 zh_TW: 標籤"	""
 "accessibility.text.CurrencyExceptions"	"PLN"	"Original Translation
 zh_CN: PLN
-zh_TW: PLN"	""
+zh_TW: PLN"	"PLN"
 "accessibility.text.PLN"	"Polish Zloty:Groszy:."	"Original Translation
 zh_CN: Polish Zloty:Groszy:.
-zh_TW: Polish Zloty:Groszy:."	""
+zh_TW: Polish Zloty:Groszy:."	"Polish Zloty:Groszy:."
 "accessibility.text.ampersand"	"And"	"Original Translation
 zh_CN: & 符号
 zh_TW: & 符號"	""
@@ -547,115 +547,115 @@ zh_CN: 星号
 zh_TW: 星號"	""
 "accessibility.text.atSign"	"At"	"Original Translation
 zh_CN: @ 符号
-zh_TW: 小老鼠"	""
+zh_TW: 小老鼠"	"小老鼠"
 "accessibility.text.backwardSlash"	"Back Slash"	"Original Translation
 zh_CN: 反斜杠
-zh_TW: 反斜線"	""
+zh_TW: 反斜線"	"反斜線"
 "accessibility.text.caret"	"Caret"	"Original Translation
 zh_CN: 脱字号
-zh_TW: 連接號"	""
+zh_TW: 連接號"	"插入號"
 "accessibility.text.colon"	"Colon"	"Original Translation
 zh_CN: 冒号
-zh_TW: 冒號"	""
+zh_TW: 冒號"	"冒號"
 "accessibility.text.comma"	"Comma"	"Original Translation
 zh_CN: 逗号
-zh_TW: 逗號"	""
+zh_TW: 逗號"	"逗號"
 "accessibility.text.dollarSign"	"Dollar"	"Original Translation
 zh_CN: 美元符号
-zh_TW: 金錢符號"	""
+zh_TW: 金錢符號"	"金錢符號"
 "accessibility.text.equals"	"Equals"	"Original Translation
 zh_CN: 等号
-zh_TW: 等號"	""
+zh_TW: 等號"	"等號"
 "accessibility.text.exclamationPoint"	"Exclamation Point"	"Original Translation
 zh_CN: 感叹号
-zh_TW: 驚嘆號"	""
+zh_TW: 驚嘆號"	"驚嘆號"
 "accessibility.text.forwardSlash"	"Slash"	"Original Translation
 zh_CN: 斜杠
-zh_TW: 斜線"	""
+zh_TW: 斜線"	"斜線"
 "accessibility.text.graveAccent"	"Grave Accent"	"Original Translation
 zh_CN: 重音符
-zh_TW: 重音符"	""
+zh_TW: 重音符"	"重音符"
 "accessibility.text.greaterThan"	"Greater Than"	"Original Translation
 zh_CN: 大于
-zh_TW: 大於"	""
+zh_TW: 大於"	"大於"
 "accessibility.text.hashTag"	"Hash Tag"	"Original Translation
 zh_CN: 井号
-zh_TW: 井號"	""
+zh_TW: 井號"	"井號"
 "accessibility.text.hyphen"	"Hyphen"	"Original Translation
 zh_CN: 连字符
-zh_TW: 連字號"	""
+zh_TW: 連字號"	"連字號"
 "accessibility.text.leftBrace"	"Left Brace"	"Original Translation
 zh_CN: 左花括号
-zh_TW: 左大括弧"	""
+zh_TW: 左大括弧"	"左大括弧"
 "accessibility.text.leftBracket"	"Left Bracket"	"Original Translation
 zh_CN: 左括号
-zh_TW: 左括弧"	""
+zh_TW: 左括弧"	"左中括弧"
 "accessibility.text.leftParenthesis"	"Left Parenthesis"	"Original Translation
 zh_CN: 左圆括号
-zh_TW: 左括號"	""
+zh_TW: 左括號"	"左括弧"
 "accessibility.text.lessThan"	"Less Than"	"Original Translation
 zh_CN: 小于
-zh_TW: 小於"	""
+zh_TW: 小於"	"小於"
 "accessibility.text.percent"	"Percent"	"Original Translation
 zh_CN: 百分号
-zh_TW: 百分比符號"	""
+zh_TW: 百分比符號"	"百分比符號"
 "accessibility.text.period"	"Period"	"Original Translation
 zh_CN: 句号
-zh_TW: 句號"	""
+zh_TW: 句號"	"句號"
 "accessibility.text.period.url"	"Dot"	"Original Translation
 zh_CN: 点
-zh_TW: 點"	""
+zh_TW: 點"	"點"
 "accessibility.text.plus"	"Plus"	"Original Translation
 zh_CN: 加号
-zh_TW: 加號"	""
+zh_TW: 加號"	"加號"
 "accessibility.text.questionMark"	"Question Mark"	"Original Translation
 zh_CN: 问号
-zh_TW: 問號"	""
+zh_TW: 問號"	"問號"
 "accessibility.text.quotationMark"	"Quotation Mark"	"Original Translation
 zh_CN: 引号
-zh_TW: 引號"	""
+zh_TW: 引號"	"引號"
 "accessibility.text.rightBrace"	"Right Brace"	"Original Translation
 zh_CN: 右花括号
-zh_TW: 右大括弧"	""
+zh_TW: 右大括弧"	"右大括弧"
 "accessibility.text.rightBracket"	"Right Bracket"	"Original Translation
 zh_CN: 右括号
-zh_TW: 右括弧"	""
+zh_TW: 右括弧"	"右中括弧"
 "accessibility.text.rightParenthesis"	"Right Parenthesis"	"Original Translation
 zh_CN: 右圆括号
-zh_TW: 右括號"	""
+zh_TW: 右括號"	"右括弧"
 "accessibility.text.semiColon"	"Semi Colon"	"Original Translation
 zh_CN: 分号
-zh_TW: 分號"	""
+zh_TW: 分號"	"分號"
 "accessibility.text.space"	"Space"	"Original Translation
 zh_CN: 空格
-zh_TW: 太空"	""
+zh_TW: 太空"	"空格"
 "accessibility.text.tilde"	"Tilde"	"Original Translation
 zh_CN: 波形符
-zh_TW: 波狀符號"	""
+zh_TW: 波狀符號"	"波浪號"
 "accessibility.text.underScore"	"Under Score"	"Original Translation
 zh_CN: 下划线
-zh_TW: 底線"	""
+zh_TW: 底線"	"底線"
 "accessibility.text.unsupported"	"Unknown Character"	"Original Translation
 zh_CN: 未识别字符
-zh_TW: 未知符號"	""
+zh_TW: 未知符號"	"未知字元"
 "accessibility.text.verticalBar"	"Vertical Bar"	"Original Translation
 zh_CN: 竖线
-zh_TW: 直線"	""
+zh_TW: 直線"	"直線"
 "accessibility.textbox.editing"	"Editing"	"Original Translation
 zh_CN: 编辑
-zh_TW: 編輯"	""
+zh_TW: 編輯"	"編輯"
 "accessibility.textbox.tts.title"	"Textbox"	"Original Translation
 zh_CN: 文本框
-zh_TW: 文字方塊"	""
+zh_TW: 文字方塊"	"文字方塊"
 "accessibility.toast"	"Notification"	"Original Translation
 zh_CN: 通知
-zh_TW: 通知"	""
+zh_TW: 通知"	"通知"
 "accessibility.toggle.tts.title"	"Toggle"	"Original Translation
 zh_CN: 切换
-zh_TW: 切換"	""
+zh_TW: 切換"	"切換"
 "accessibility.worldTemplates.help"	"Help"	"Original Translation
 zh_CN: 帮助
-zh_TW: 幫助"	""
+zh_TW: 幫助"	"說明"
 "account.toast.copied.body"	"Account data has been copied to your clipboard."	"Original Translation
 zh_CN: 账户数据已复制到你的剪贴板。
 zh_TW: 已將帳戶資料複製到你的剪貼簿。"	""
@@ -664,28 +664,28 @@ zh_CN: 已复制数据到剪贴板
 zh_TW: 已將資料複製到剪貼簿"	""
 "accounts.manage"	"Manage Account"	"Original Translation
 zh_CN: 管理帐户
-zh_TW: 管理帳戶"	""
+zh_TW: 管理帳戶"	"管理帳號"
 "accounts.name"	"Name: %s (%s)"	"Original Translation
 zh_CN: 姓名：%s (%s)
-zh_TW: 名稱：%s (%s)"	""
+zh_TW: 名稱：%s (%s)"	"名稱：%s (%s)"
 "accounts.signOut"	"Sign Out"	"Original Translation
 zh_CN: 注销
-zh_TW: 登出"	""
+zh_TW: 登出"	"登出"
 "accounts.signOut.fail.body.line1"	"We were unable to sign you out at this time. Please try again later. This will not prevent you from signing in with another account."	"Original Translation
 zh_CN: 我们暂时无法让您注销。请稍后再试。但这不会阻止您使用其他账户登录。
-zh_TW: 目前無法登出，請稍後再試。目前的登入不會妨礙您使用另一個帳號登入。"	""
+zh_TW: 目前無法登出，請稍後再試。目前的登入不會妨礙您使用另一個帳號登入。"	"目前無法登出，請稍後再試。目前的登入不會妨礙您使用另一個帳號登入。"
 "accounts.signOut.fail.body.line2"	"Error code: %s"	"Original Translation
 zh_CN: 错误代码：%s
-zh_TW: 錯誤代碼：%s"	""
+zh_TW: 錯誤代碼：%s"	"錯誤代碼：%s"
 "accounts.signOut.fail.hyperLink.text"	"Learn more"	"Original Translation
 zh_CN: 了解更多
-zh_TW: 深入了解"	""
+zh_TW: 深入了解"	"深入了解"
 "accounts.signOut.fail.hyperLink.uri"	"https://aka.ms/mcedu-login"	"Original Translation
 zh_CN: https://aka.ms/mcedu-login
-zh_TW: https://aka.ms/mcedu-login"	""
+zh_TW: https://aka.ms/mcedu-login"	"https://aka.ms/mcedu-login"
 "accounts.signOut.fail.title"	"Sign-out failed"	"Original Translation
 zh_CN: 注销失败
-zh_TW: 登出失敗"	""
+zh_TW: 登出失敗"	"登出失敗"
 "accounts.signOutConfirmation"	"Do you want to sign out and switch accounts?"	"Original Translation
 zh_CN: 是否要注销并切换账户？
 zh_TW: 您是否要登出並切換帳戶？"	""
