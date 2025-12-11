@@ -84,7 +84,6 @@ tile.beacon.primary=主要效果
 tile.beacon.primary.pocket=主要
 tile.beacon.secondary=次要效果
 tile.beacon.secondary.pocket=次要
-tile.bed.noSleep=你僅可於夜晚或者雷暴時入睡
 tile.bed.notSafe=你現時無法休息，周圍有怪物遊蕩
 tile.bed.obstructed=牀受到阻擋
 tile.bed.occupied=牀已被佔用
