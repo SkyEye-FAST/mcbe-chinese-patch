@@ -1693,10 +1693,10 @@ zh_CN: 建筑最低高度是 %s 个方块
 zh_TW: 建築物的最小高度為 %s 個方塊"	"建筑最低高度是%s个方块"
 "build_info.toast.copied.body"	"Build information has been copied to your clipboard."	"Original Translation
 zh_CN: 建造信息已复制到你的剪贴板。
-zh_TW: 已將版本資訊複製到你的剪貼簿。"	""
+zh_TW: 已將版本資訊複製到你的剪貼簿。"	"构建信息已复制到你的剪贴板。"
 "build_info.toast.copied.title"	"Copied data to clipboard"	"Original Translation
 zh_CN: 已复制数据到剪贴板
-zh_TW: 已將資料複製到剪貼簿"	""
+zh_TW: 已將資料複製到剪貼簿"	"已复制数据到剪贴板"
 "cauldronScreen.header"	"Cauldron"	"Original Translation
 zh_CN: 炼药锅
 zh_TW: 鍋釜"	"炼药锅"
@@ -34571,10 +34571,10 @@ zh_CN: 打开水下泡泡的高级效果
 zh_TW: 開啟水下泡泡的進階效果"	""
 "options.buildInfo.buttonLabel"	"Copy text"	"Original Translation
 zh_CN: 复制文本
-zh_TW: 複製文字"	""
+zh_TW: 複製文字"	"复制文本"
 "options.buildInfo.notification"	"Copied data to clipboard"	"Original Translation
 zh_CN: 已复制数据到剪贴板
-zh_TW: 已將資料複製到剪貼簿"	""
+zh_TW: 已將資料複製到剪貼簿"	"已复制数据到剪贴板"
 "options.builddate.format"	"Build Date: %s"	"Original Translation
 zh_CN: 创建日期：%s
 zh_TW: 組建日期：%s"	""
@@ -35563,7 +35563,7 @@ zh_CN: 多分支部署
 zh_TW: 多重分支部署"	""
 "options.dev_showBuildInfo"	"Show build info"	"Original Translation
 zh_CN: 显示版本信息
-zh_TW: 顯示建造資訊"	""
+zh_TW: 顯示建造資訊"	"显示构建信息"
 "options.dev_showChunkMap"	"Show chunk map"	"Original Translation
 zh_CN: 显示区块地图
 zh_TW: 呈現區塊地圖"	""
