@@ -9316,7 +9316,7 @@ zh_CN: 骡
 zh_TW: 騾"	"骡"
 "entity.npc.name"	"Non Player Character"	"Original Translation
 zh_CN: 非玩家角色
-zh_TW: 非玩家角色"	""
+zh_TW: 非玩家角色"	"非玩家角色"
 "entity.ocelot.name"	"Ocelot"	"Original Translation
 zh_CN: 豹猫
 zh_TW: 豹貓"	"豹猫"
@@ -29476,61 +29476,61 @@ zh_CN: 指南针
 zh_TW: 羅盤"	"指南针"
 "item.compound.aluminumoxide.formula"	"Al₂O₃"	"Original Translation
 zh_CN: Al₂O₃
-zh_TW: Al₂O₃"	""
+zh_TW: Al₂O₃"	"Al₂O₃"
 "item.compound.aluminumoxide.name"	"Aluminum Oxide"	"Original Translation
 zh_CN: 氧化铝
 zh_TW: 氧化鋁"	"氧化铝"
 "item.compound.ammonia.formula"	"NH₃"	"Original Translation
 zh_CN: NH₃
-zh_TW: NH₃"	""
+zh_TW: NH₃"	"NH₃"
 "item.compound.ammonia.name"	"Ammonia"	"Original Translation
 zh_CN: 氨
 zh_TW: 氨"	"氨"
 "item.compound.bariumsulfate.formula"	"BaSO₄"	"Original Translation
 zh_CN: BaSO₄
-zh_TW: BaSO₄"	""
+zh_TW: BaSO₄"	"BaSO₄"
 "item.compound.bariumsulfate.name"	"Barium Sulfate"	"Original Translation
 zh_CN: 硫酸钡
 zh_TW: 硫酸鋇"	"硫酸钡"
 "item.compound.benzene.formula"	"C₆H₆"	"Original Translation
 zh_CN: C₆H₆
-zh_TW: C₆H₆"	""
+zh_TW: C₆H₆"	"C₆H₆"
 "item.compound.benzene.name"	"Benzene"	"Original Translation
 zh_CN: 苯
 zh_TW: 苯"	"苯"
 "item.compound.borontrioxide.formula"	"B₂O₃"	"Original Translation
 zh_CN: B₂O₃
-zh_TW: B₂O₃"	""
+zh_TW: B₂O₃"	"B₂O₃"
 "item.compound.borontrioxide.name"	"Boron Trioxide"	"Original Translation
 zh_CN: 三氧化二硼
 zh_TW: 三氧化二硼"	"三氧化二硼"
 "item.compound.calciumbromide.formula"	"CaBr₂"	"Original Translation
 zh_CN: CaBr₂
-zh_TW: CaBr₂"	""
+zh_TW: CaBr₂"	"CaBr₂"
 "item.compound.calciumbromide.name"	"Calcium Bromide"	"Original Translation
 zh_CN: 溴化钙
 zh_TW: 溴化鈣"	"溴化钙"
 "item.compound.calciumchloride.formula"	"CaCl₂"	"Original Translation
 zh_CN: CaCl₂
-zh_TW: CaCl₂"	""
+zh_TW: CaCl₂"	"C418 - ward"
 "item.compound.calciumchloride.name"	"Calcium Chloride"	"Original Translation
 zh_CN: 氯化钙
 zh_TW: 氯化鈣"	"氯化钙"
 "item.compound.ceriumchloride.formula"	"CeCl₃"	"Original Translation
 zh_CN: CeCl₃
-zh_TW: CeCl₃"	""
+zh_TW: CeCl₃"	"CeCl₃"
 "item.compound.ceriumchloride.name"	"Cerium Chloride"	"Original Translation
 zh_CN: 氯化铈
 zh_TW: 三氯化鈰"	"氯化铈"
 "item.compound.charcoal.formula"	"C₇H₄O"	"Original Translation
 zh_CN: C₇H₄O
-zh_TW: C₇H₄O"	""
+zh_TW: C₇H₄O"	"C₇H₄O"
 "item.compound.charcoal.name"	"Charcoal"	"Original Translation
 zh_CN: 木炭
 zh_TW: 木炭"	"木炭"
 "item.compound.crudeoil.formula"	"C₉H₂₀"	"Original Translation
 zh_CN: C₉H₂₀
-zh_TW: C₉H₂₀"	""
+zh_TW: C₉H₂₀"	"C₉H₂₀"
 "item.compound.crudeoil.name"	"Crude Oil"	"Original Translation
 zh_CN: 原油
 zh_TW: 原油"	"原油"
@@ -29539,157 +29539,157 @@ zh_CN: 废物
 zh_TW: 垃圾"	"废物"
 "item.compound.glue.formula"	"C₅H₅NO₂"	"Original Translation
 zh_CN: C₅H₅NO₂
-zh_TW: C₅H₅NO₂"	""
+zh_TW: C₅H₅NO₂"	"C₅H₅NO₂"
 "item.compound.glue.name"	"Glue"	"Original Translation
 zh_CN: 黏合剂
 zh_TW: 黏合劑"	"黏合剂"
 "item.compound.hydrogenperoxide.formula"	"H₂O₂"	"Original Translation
 zh_CN: H₂O₂
-zh_TW: H₂O₂"	""
+zh_TW: H₂O₂"	"H₂O₂"
 "item.compound.hydrogenperoxide.name"	"Hydrogen Peroxide"	"Original Translation
 zh_CN: 过氧化氢
 zh_TW: 過氧化氫"	"过氧化氢"
 "item.compound.hypochlorite.formula"	"ClO"	"Original Translation
 zh_CN: ClO
-zh_TW: ClO"	""
+zh_TW: ClO"	"ClO"
 "item.compound.hypochlorite.name"	"Hypochlorite"	"Original Translation
 zh_CN: 次氯酸盐
 zh_TW: 次氯酸鹽"	"次氯酸盐"
 "item.compound.ink.formula"	"FeSO₄"	"Original Translation
 zh_CN: FeSO₄
-zh_TW: FeSO₄"	""
+zh_TW: FeSO₄"	"FeSO₄"
 "item.compound.ironsulfide.formula"	"FeS"	"Original Translation
 zh_CN: FeS
-zh_TW: FeS"	""
+zh_TW: FeS"	"FeS"
 "item.compound.ironsulfide.name"	"Iron Sulfide"	"Original Translation
 zh_CN: 硫化亚铁
 zh_TW: 硫化亞鐵"	"硫化亚铁"
 "item.compound.latex.formula"	"C₅H₈"	"Original Translation
 zh_CN: C₅H₈
-zh_TW: C₅H₈"	""
+zh_TW: C₅H₈"	"C₅H₈"
 "item.compound.latex.name"	"Latex"	"Original Translation
 zh_CN: 乳液
 zh_TW: 乳膠"	"乳胶"
 "item.compound.lithiumhydride.formula"	"LiH"	"Original Translation
 zh_CN: LiH
-zh_TW: LiH"	""
+zh_TW: LiH"	"LiH"
 "item.compound.lithiumhydride.name"	"Lithium Hydride"	"Original Translation
 zh_CN: 氢化锂
 zh_TW: 氫化鋰"	"氢化锂"
 "item.compound.luminol.formula"	"C₈H₇N₃O₂"	"Original Translation
 zh_CN: C₈H₇N₃O₂
-zh_TW: C₈H₇N₃O₂"	""
+zh_TW: C₈H₇N₃O₂"	"C₈H₇N₃O₂"
 "item.compound.luminol.name"	"Luminol"	"Original Translation
 zh_CN: 鲁米诺
 zh_TW: 魯米諾"	"鲁米诺"
 "item.compound.magnesiumnitrate.formula"	"Mg(NO₃)₂"	"Original Translation
 zh_CN: Mg(NO₃)₂
-zh_TW: Mg(NO₃)₂"	""
+zh_TW: Mg(NO₃)₂"	"Mg(NO₃)₂"
 "item.compound.magnesiumnitrate.name"	"Magnesium Nitrate"	"Original Translation
 zh_CN: 硝酸镁
 zh_TW: 硝酸鎂"	"硝酸镁"
 "item.compound.magnesiumoxide.formula"	"MgO"	"Original Translation
 zh_CN: MgO
-zh_TW: MgO"	""
+zh_TW: MgO"	"MgO"
 "item.compound.magnesiumoxide.name"	"Magnesium Oxide"	"Original Translation
 zh_CN: 氧化镁
 zh_TW: 氧化鎂"	"氧化镁"
 "item.compound.magnesiumsalts.formula"	"MgSO₄"	"Original Translation
 zh_CN: MgSO₄
-zh_TW: MgSO₄"	""
+zh_TW: MgSO₄"	"MgSO₄"
 "item.compound.magnesiumsalts.name"	"Magnesium Salts"	"Original Translation
 zh_CN: 镁盐
 zh_TW: 硫酸鎂"	"镁盐"
 "item.compound.mercuricchloride.formula"	"HgCl₂"	"Original Translation
 zh_CN: HgCl₂
-zh_TW: HgCl₂"	""
+zh_TW: HgCl₂"	"HgCl₂"
 "item.compound.mercuricchloride.name"	"Mercuric Chloride"	"Original Translation
 zh_CN: 氯化汞
 zh_TW: 氯化汞"	"氯化汞"
 "item.compound.polyethylene.formula"	"(C₂H₄)₅"	"Original Translation
 zh_CN: (C₂H₄)₅
-zh_TW: (C₂H₄)₅"	""
+zh_TW: (C₂H₄)₅"	"(C₂H₄)₅"
 "item.compound.polyethylene.name"	"Polyethylene"	"Original Translation
 zh_CN: 聚乙烯
 zh_TW: 聚乙烯"	"聚乙烯"
 "item.compound.potassiumchloride.formula"	"KCl"	"Original Translation
 zh_CN: KCl
-zh_TW: KCl"	""
+zh_TW: KCl"	"KCl"
 "item.compound.potassiumchloride.name"	"Potassium Chloride"	"Original Translation
 zh_CN: 氯化钾
 zh_TW: 氯化鉀"	"氯化钾"
 "item.compound.potassiumiodide.formula"	"KI"	"Original Translation
 zh_CN: KI
-zh_TW: KI"	""
+zh_TW: KI"	"KI"
 "item.compound.potassiumiodide.name"	"Potassium Iodide"	"Original Translation
 zh_CN: 碘化钾
 zh_TW: 碘化鉀"	"碘化钾"
 "item.compound.salt.formula"	"NaCl"	"Original Translation
 zh_CN: NaCl
-zh_TW: NaCl"	""
+zh_TW: NaCl"	"NaCl"
 "item.compound.salt.name"	"Salt"	"Original Translation
 zh_CN: 盐
 zh_TW: 鹽"	"盐"
 "item.compound.soap.formula"	"C₁₈H₃₅NaO₂"	"Original Translation
 zh_CN: C₁₈H₃₅NaO₂
-zh_TW: C₁₈H₃₅NaO₂"	""
+zh_TW: C₁₈H₃₅NaO₂"	"C₁₈H₃₅NaO₂"
 "item.compound.soap.name"	"Soap"	"Original Translation
 zh_CN: 肥皂
 zh_TW: 肥皂"	"肥皂"
 "item.compound.sodiumacetate.formula"	"C₂H₃NaO₂"	"Original Translation
 zh_CN: C₂H₃NaO₂
-zh_TW: C₂H₃NaO₂"	""
+zh_TW: C₂H₃NaO₂"	"C₂H₃NaO₂"
 "item.compound.sodiumacetate.name"	"Sodium Acetate"	"Original Translation
 zh_CN: 乙酸钠
 zh_TW: 乙酸鈉"	"乙酸钠"
 "item.compound.sodiumfluoride.formula"	"NaF"	"Original Translation
 zh_CN: NaF
-zh_TW: NaF"	""
+zh_TW: NaF"	"NaF"
 "item.compound.sodiumfluoride.name"	"Sodium Fluoride"	"Original Translation
 zh_CN: 氟化钠
 zh_TW: 氟化鈉"	"氟化钠"
 "item.compound.sodiumhydride.formula"	"NaH"	"Original Translation
 zh_CN: NaH
-zh_TW: NaH"	""
+zh_TW: NaH"	"NaH"
 "item.compound.sodiumhydride.name"	"Sodium Hydride"	"Original Translation
 zh_CN: 氢化钠
 zh_TW: 氫化鈉"	"氢化钠"
 "item.compound.sodiumhydroxide.formula"	"NaOH"	"Original Translation
 zh_CN: NaOH
-zh_TW: NaOH"	""
+zh_TW: NaOH"	"NaOH"
 "item.compound.sodiumhydroxide.name"	"Lye"	"Original Translation
 zh_CN: 碱
 zh_TW: 氫氧化鈉"	"碱"
 "item.compound.sodiumhypochlorite.formula"	"NaClO"	"Original Translation
 zh_CN: NaClO
-zh_TW: NaClO"	""
+zh_TW: NaClO"	"NaClO"
 "item.compound.sodiumhypochlorite.name"	"Sodium Hypochlorite"	"Original Translation
 zh_CN: 次氯酸钠
 zh_TW: 次氯酸鈉"	"次氯酸钠"
 "item.compound.sodiumoxide.formula"	"Na₂O"	"Original Translation
 zh_CN: Na₂O
-zh_TW: Na₂O"	""
+zh_TW: Na₂O"	"Na₂O"
 "item.compound.sodiumoxide.name"	"Sodium Oxide"	"Original Translation
 zh_CN: 氧化钠
 zh_TW: 氧化鈉"	"氧化钠"
 "item.compound.sugar.formula"	"C₆H₁₂O₆"	"Original Translation
 zh_CN: C₆H₁₂O₆
-zh_TW: C₆H₁₂O₆"	""
+zh_TW: C₆H₁₂O₆"	"C₆H₁₂O₆"
 "item.compound.sulfate.formula"	"SO₄"	"Original Translation
 zh_CN: SO₄
-zh_TW: SO₄"	""
+zh_TW: SO₄"	"SO₄"
 "item.compound.sulfate.name"	"Sulfate"	"Original Translation
 zh_CN: 硫酸盐
 zh_TW: 硫酸鹽"	"硫酸盐"
 "item.compound.tungstenchloride.formula"	"WCl₆"	"Original Translation
 zh_CN: WCl₆
-zh_TW: WCl₆"	""
+zh_TW: WCl₆"	"WCl₆"
 "item.compound.tungstenchloride.name"	"Tungsten Chloride"	"Original Translation
 zh_CN: 六氯化钨
 zh_TW: 六氯化鎢"	"六氯化钨"
 "item.compound.water.formula"	"H₂O"	"Original Translation
 zh_CN: H₂O
-zh_TW: H₂O"	""
+zh_TW: H₂O"	"H₂O"
 "item.compound.water.name"	"Water"	"Original Translation
 zh_CN: 水
 zh_TW: 水"	"水"
@@ -29734,7 +29734,7 @@ zh_CN: 铜锄
 zh_TW: 銅鋤頭"	"铜锄"
 "item.copper_horse_armor.name"	"Copper Horse Armor"	"Original Translation
 zh_CN: 铜马铠
-zh_TW: 銅製馬鎧"	""
+zh_TW: 銅製馬鎧"	"铜马铠"
 "item.copper_ingot.name"	"Copper Ingot"	"Original Translation
 zh_CN: 铜锭
 zh_TW: 銅錠塊"	"铜锭"
@@ -30661,67 +30661,67 @@ zh_CN: 音乐唱片
 zh_TW: 唱片"	"音乐唱片"
 "item.record_11.desc"	"C418 - 11"	"Original Translation
 zh_CN: C418 - 11
-zh_TW: C418 - 11"	""
+zh_TW: C418 - 11"	"C418 - 11"
 "item.record_13.desc"	"C418 - 13"	"Original Translation
 zh_CN: C418 - 13
-zh_TW: C418 - 13"	""
+zh_TW: C418 - 13"	"C418 - 13"
 "item.record_5.desc"	"Samuel Åberg - 5"	"Original Translation
 zh_CN: 塞缪尔·阿伯格 - 5
-zh_TW: 塞繆爾阿伯格 - 5"	""
+zh_TW: 塞繆爾阿伯格 - 5"	"Samuel Åberg - 5"
 "item.record_blocks.desc"	"C418 - blocks"	"Original Translation
 zh_CN: C418 - blocks
-zh_TW: C418 - blocks"	""
+zh_TW: C418 - blocks"	"C418 - blocks"
 "item.record_cat.desc"	"C418 - cat"	"Original Translation
 zh_CN: C418 - cat
-zh_TW: C418 - cat"	""
+zh_TW: C418 - cat"	"C418 - cat"
 "item.record_chirp.desc"	"C418 - chirp"	"Original Translation
 zh_CN: C418 - chirp
-zh_TW: C418 - chirp"	""
+zh_TW: C418 - chirp"	"C418 - chirp"
 "item.record_creator.desc"	"Lena Raine - Creator"	"Original Translation
 zh_CN: 莉娜·雷恩 - 创作者
-zh_TW: 莉娜雷恩 - 創作者"	""
+zh_TW: 莉娜雷恩 - 創作者"	"Lena Raine - Creator"
 "item.record_creator_music_box.desc"	"Lena Raine - Creator (Music Box)"	"Original Translation
 zh_CN: 莉娜·雷恩 - 创作者（音乐盒）
 zh_TW: 莉娜雷恩 - 創作者 (音樂盒)"	"Lena Raine - Creator（八音盒）"
 "item.record_far.desc"	"C418 - far"	"Original Translation
 zh_CN: C418 - far
-zh_TW: C418 - far"	""
+zh_TW: C418 - far"	"C418 - far"
 "item.record_lava_chicken.desc"	"Hyper Potions - Lava Chicken"	"Original Translation
 zh_CN: Hyper Potions - 熔岩鸡
-zh_TW: 超級藥水 - 熔岩雞"	""
+zh_TW: 超級藥水 - 熔岩雞"	"Hyper Potions - Lava Chicken"
 "item.record_mall.desc"	"C418 - mall"	"Original Translation
 zh_CN: C418 - mall
-zh_TW: C418 - mall"	""
+zh_TW: C418 - mall"	"C418 - mall"
 "item.record_mellohi.desc"	"C418 - mellohi"	"Original Translation
 zh_CN: C418 - mellohi
-zh_TW: C418 - mellohi"	""
+zh_TW: C418 - mellohi"	"C418 - mellohi"
 "item.record_otherside.desc"	"Lena Raine - otherside"	"Original Translation
 zh_CN: 莉娜·雷恩 - otherside
-zh_TW: 莉娜雷恩 - otherside"	""
+zh_TW: 莉娜雷恩 - otherside"	"Lena Raine - otherside"
 "item.record_pigstep.desc"	"Lena Raine - Pigstep"	"Original Translation
 zh_CN: 莉娜·雷恩 - Pigstep
-zh_TW: 莉娜雷恩 - Pigstep"	""
+zh_TW: 莉娜雷恩 - Pigstep"	"Lena Raine - Pigstep"
 "item.record_precipice.desc"	"Aaron Cherof - Precipice"	"Original Translation
 zh_CN: 亚伦·切罗夫 - 峭壁
-zh_TW: 亞倫切羅夫 - 懸崖峭壁"	""
+zh_TW: 亞倫切羅夫 - 懸崖峭壁"	"Aaron Cherof - Precipice"
 "item.record_relic.desc"	"Aaron Cherof - Relic"	"Original Translation
 zh_CN: 亚伦·切罗夫 - Relic
-zh_TW: Aaron Cherof - Relic"	""
+zh_TW: Aaron Cherof - Relic"	"Aaron Cherof - Relic"
 "item.record_stal.desc"	"C418 - stal"	"Original Translation
 zh_CN: C418 - stal
-zh_TW: C418 - stal"	""
+zh_TW: C418 - stal"	"C418 - stal"
 "item.record_strad.desc"	"C418 - strad"	"Original Translation
 zh_CN: C418 - strad
-zh_TW: C418 - strad"	""
+zh_TW: C418 - strad"	"C418 - strad"
 "item.record_tears.desc"	"Amos Roddy - Tears"	"Original Translation
 zh_CN: Amos Roddy - 泪水
-zh_TW: Amos Roddy - 流淚"	""
+zh_TW: Amos Roddy - 流淚"	"Amos Roddy - Tears"
 "item.record_wait.desc"	"C418 - wait"	"Original Translation
 zh_CN: C418 - wait
-zh_TW: C418 - wait"	""
+zh_TW: C418 - wait"	"C418 - wait"
 "item.record_ward.desc"	"C418 - ward"	"Original Translation
 zh_CN: C418 - ward
-zh_TW: C418 - ward"	""
+zh_TW: C418 - ward"	"C418 - ward"
 "item.recovery_compass.name"	"Recovery Compass"	"Original Translation
 zh_CN: 追溯指针
 zh_TW: 復生羅盤"	"追溯指针"
@@ -50298,7 +50298,7 @@ zh_CN: 铍
 zh_TW: 鈹"	"铍"
 "tile.element.bh.name"	"Bohrium"	"Original Translation
 zh_CN: Bohrium
-zh_TW: Bohrium"	"Bh"
+zh_TW: Bohrium"	"𬭛"
 "tile.element.bi.name"	"Bismuth"	"Original Translation
 zh_CN: 铋
 zh_TW: 鉍"	"铋"
@@ -50331,7 +50331,7 @@ zh_CN: 锔
 zh_TW: 鋦"	"锔"
 "tile.element.cn.name"	"Copernicium"	"Original Translation
 zh_CN: 鎶
-zh_TW: 鎶"	"Cn"
+zh_TW: 鎶"	"鿔"
 "tile.element.co.name"	"Cobalt"	"Original Translation
 zh_CN: 钴
 zh_TW: 鈷"	"钴"
@@ -50346,10 +50346,10 @@ zh_CN: 铜
 zh_TW: 銅"	"铜"
 "tile.element.db.name"	"Dubnium"	"Original Translation
 zh_CN: Dubnium
-zh_TW: Dubnium"	"Db"
+zh_TW: Dubnium"	"𬭊"
 "tile.element.ds.name"	"Darmstadtium"	"Original Translation
 zh_CN: 鐽
-zh_TW: 鐽"	"Ds"
+zh_TW: 鐽"	"𫟼"
 "tile.element.dy.name"	"Dysprosium"	"Original Translation
 zh_CN: 镝
 zh_TW: 鏑"	"镝"
@@ -50370,7 +50370,7 @@ zh_CN: 铁
 zh_TW: 鐵"	"铁"
 "tile.element.fl.name"	"Flerovium"	"Original Translation
 zh_CN: 鈇
-zh_TW: 鈇"	"Fl"
+zh_TW: 鈇"	"𫓧"
 "tile.element.fm.name"	"Fermium"	"Original Translation
 zh_CN: 镄
 zh_TW: 鐨"	"镄"
@@ -50433,7 +50433,7 @@ zh_CN: 镥
 zh_TW: 鎦"	"镥"
 "tile.element.lv.name"	"Livermorium"	"Original Translation
 zh_CN: 鉝
-zh_TW: 鉝"	"Lv"
+zh_TW: 鉝"	"𫟷"
 "tile.element.mc.name"	"Moscovium"	"Original Translation
 zh_CN: 镆
 zh_TW: 鏌"	"镆"
@@ -50451,7 +50451,7 @@ zh_CN: 钼
 zh_TW: 鉬"	"钼"
 "tile.element.mt.name"	"Meitnerium"	"Original Translation
 zh_CN: 䥑
-zh_TW: 䥑"	"Mt"
+zh_TW: 䥑"	"鿏"
 "tile.element.n.name"	"Nitrogen"	"Original Translation
 zh_CN: 氮
 zh_TW: 氮"	"氮"
@@ -50469,7 +50469,7 @@ zh_CN: 氖
 zh_TW: 氖"	"氖"
 "tile.element.nh.name"	"Nihonium"	"Original Translation
 zh_CN: 鉨
-zh_TW: 鉨"	"Nh"
+zh_TW: 鉨"	"鿭"
 "tile.element.ni.name"	"Nickel"	"Original Translation
 zh_CN: 镍
 zh_TW: 鎳"	"镍"
@@ -50484,7 +50484,7 @@ zh_CN: 氧
 zh_TW: 氧"	"氧"
 "tile.element.og.name"	"Oganesson"	"Original Translation
 zh_CN: Oganesson
-zh_TW: Oganesson"	"Og"
+zh_TW: Oganesson"	"鿫"
 "tile.element.os.name"	"Osmium"	"Original Translation
 zh_CN: 锇
 zh_TW: 鋨"	"锇"
@@ -50526,10 +50526,10 @@ zh_CN: 铼
 zh_TW: 錸"	"铼"
 "tile.element.rf.name"	"Rutherfordium"	"Original Translation
 zh_CN: 鑪
-zh_TW: 鑪"	"Rf"
+zh_TW: 鑪"	"𬬻"
 "tile.element.rg.name"	"Roentgenium"	"Original Translation
 zh_CN: 錀
-zh_TW: 錀"	"Rg"
+zh_TW: 錀"	"𬬭"
 "tile.element.rh.name"	"Rhodium"	"Original Translation
 zh_CN: 铑
 zh_TW: 銠"	"铑"
@@ -50553,7 +50553,7 @@ zh_CN: 硒
 zh_TW: 硒"	"硒"
 "tile.element.sg.name"	"Seaborgium"	"Original Translation
 zh_CN: Seaborgium
-zh_TW: Seaborgium"	"Sg"
+zh_TW: Seaborgium"	"𬭳"
 "tile.element.si.name"	"Silicon"	"Original Translation
 zh_CN: 硅
 zh_TW: 矽"	"硅"
@@ -50592,7 +50592,7 @@ zh_CN: 铥
 zh_TW: 銩"	"铥"
 "tile.element.ts.name"	"Tennessine"	"Original Translation
 zh_CN: Tennessine
-zh_TW: Tennessine"	"Ts"
+zh_TW: Tennessine"	"鿬"
 "tile.element.u.name"	"Uranium"	"Original Translation
 zh_CN: 铀
 zh_TW: 鈾"	"铀"

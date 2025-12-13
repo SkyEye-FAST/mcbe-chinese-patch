@@ -9016,7 +9016,7 @@ zh_TW: 深海漫遊"	"深海探索者"
 "enchantment.waterWorker"	"Aqua Affinity"	"Original Translation
 zh_CN: 水下速掘
 zh_TW: 水中速掘"	"水下速掘"
-"entity.agent.name"	"Agent"	"Original Translation"	""
+"entity.agent.name"	"Agent"	"Original Translation"	"智能体"
 "entity.allay.name"	"Allay"	"Original Translation
 zh_CN: 悦灵
 zh_TW: 亞萊"	"悦灵"
@@ -9062,7 +9062,7 @@ zh_TW: 風彈"	"风弹"
 "entity.camel.name"	"Camel"	"Original Translation
 zh_CN: 骆驼
 zh_TW: 駱駝"	"骆驼"
-"entity.camel_husk.name"	"Camel Husk"	"Original Translation"	""
+"entity.camel_husk.name"	"Camel Husk"	"Original Translation"	"骆驼尸壳"
 "entity.cat.name"	"Cat"	"Original Translation
 zh_CN: 猫
 zh_TW: 小貓"	"猫"
@@ -9231,21 +9231,21 @@ zh_TW: 移動方塊"	"移动的方块"
 "entity.mule.name"	"Mule"	"Original Translation
 zh_CN: 骡
 zh_TW: 騾"	"骡"
-"entity.nautilus.name"	"Nautilus"	"Original Translation"	""
+"entity.nautilus.name"	"Nautilus"	"Original Translation"	"鹦鹉螺"
 "entity.npc.name"	"NPC"	"Original Translation
 zh_CN: 非玩家角色
-zh_TW: 非玩家角色"	""
+zh_TW: 非玩家角色"	"NPC"
 "entity.ocelot.name"	"Ocelot"	"Original Translation
 zh_CN: 豹猫
 zh_TW: 豹貓"	"豹猫"
-"entity.ominous_item_spawner.name"	"Ominous Item Spawner"	"Original Translation"	""
+"entity.ominous_item_spawner.name"	"Ominous Item Spawner"	"Original Translation"	"不祥之物生成器"
 "entity.painting.name"	"Painting"	"Original Translation
 zh_CN: 画
 zh_TW: 圖畫"	"画"
 "entity.panda.name"	"Panda"	"Original Translation
 zh_CN: 熊猫
 zh_TW: 熊貓"	"熊猫"
-"entity.parched.name"	"Parched"	"Original Translation"	""
+"entity.parched.name"	"Parched"	"Original Translation"	"焦骸"
 "entity.parrot.name"	"Parrot"	"Original Translation
 zh_CN: 鹦鹉
 zh_TW: 鸚鵡"	"鹦鹉"
@@ -9264,7 +9264,7 @@ zh_TW: 豬布林野獸"	"猪灵蛮兵"
 "entity.pillager.name"	"Pillager"	"Original Translation
 zh_CN: 掠夺者
 zh_TW: 劫掠者"	"掠夺者"
-"entity.player.name"	"Player"	"Original Translation"	""
+"entity.player.name"	"Player"	"Original Translation"	"玩家"
 "entity.polar_bear.name"	"Polar Bear"	"Original Translation
 zh_CN: 北极熊
 zh_TW: 北極熊"	"北极熊"
@@ -9451,7 +9451,7 @@ zh_TW: 殭屍"	"僵尸"
 "entity.zombie_horse.name"	"Zombie Horse"	"Original Translation
 zh_CN: 僵尸马
 zh_TW: 殭屍馬"	"僵尸马"
-"entity.zombie_nautilus.name"	"Zombie Nautilus"	"Original Translation"	""
+"entity.zombie_nautilus.name"	"Zombie Nautilus"	"Original Translation"	"僵尸鹦鹉螺"
 "entity.zombie_pigman.name"	"Zombified Piglin"	"Original Translation
 zh_CN: 僵尸猪灵
 zh_TW: 殭屍豬布林"	"僵尸猪灵"
@@ -29836,61 +29836,61 @@ zh_CN: 指南针
 zh_TW: 羅盤"	"指南针"
 "item.compound.aluminumoxide.formula"	"Al₂O₃"	"Original Translation
 zh_CN: Al₂O₃
-zh_TW: Al₂O₃"	""
+zh_TW: Al₂O₃"	"Al₂O₃"
 "item.compound.aluminumoxide.name"	"Aluminum Oxide"	"Original Translation
 zh_CN: 氧化铝
 zh_TW: 氧化鋁"	"氧化铝"
 "item.compound.ammonia.formula"	"NH₃"	"Original Translation
 zh_CN: NH₃
-zh_TW: NH₃"	""
+zh_TW: NH₃"	"NH₃"
 "item.compound.ammonia.name"	"Ammonia"	"Original Translation
 zh_CN: 氨
 zh_TW: 氨"	"氨"
 "item.compound.bariumsulfate.formula"	"BaSO₄"	"Original Translation
 zh_CN: BaSO₄
-zh_TW: BaSO₄"	""
+zh_TW: BaSO₄"	"BaSO₄"
 "item.compound.bariumsulfate.name"	"Barium Sulfate"	"Original Translation
 zh_CN: 硫酸钡
 zh_TW: 硫酸鋇"	"硫酸钡"
 "item.compound.benzene.formula"	"C₆H₆"	"Original Translation
 zh_CN: C₆H₆
-zh_TW: C₆H₆"	""
+zh_TW: C₆H₆"	"C₆H₆"
 "item.compound.benzene.name"	"Benzene"	"Original Translation
 zh_CN: 苯
 zh_TW: 苯"	"苯"
 "item.compound.borontrioxide.formula"	"B₂O₃"	"Original Translation
 zh_CN: B₂O₃
-zh_TW: B₂O₃"	""
+zh_TW: B₂O₃"	"B₂O₃"
 "item.compound.borontrioxide.name"	"Boron Trioxide"	"Original Translation
 zh_CN: 三氧化二硼
 zh_TW: 三氧化二硼"	"三氧化二硼"
 "item.compound.calciumbromide.formula"	"CaBr₂"	"Original Translation
 zh_CN: CaBr₂
-zh_TW: CaBr₂"	""
+zh_TW: CaBr₂"	"CaBr₂"
 "item.compound.calciumbromide.name"	"Calcium Bromide"	"Original Translation
 zh_CN: 溴化钙
 zh_TW: 溴化鈣"	"溴化钙"
 "item.compound.calciumchloride.formula"	"CaCl₂"	"Original Translation
 zh_CN: CaCl₂
-zh_TW: CaCl₂"	""
+zh_TW: CaCl₂"	"C418 - ward"
 "item.compound.calciumchloride.name"	"Calcium Chloride"	"Original Translation
 zh_CN: 氯化钙
 zh_TW: 氯化鈣"	"氯化钙"
 "item.compound.ceriumchloride.formula"	"CeCl₃"	"Original Translation
 zh_CN: CeCl₃
-zh_TW: CeCl₃"	""
+zh_TW: CeCl₃"	"CeCl₃"
 "item.compound.ceriumchloride.name"	"Cerium Chloride"	"Original Translation
 zh_CN: 氯化铈
 zh_TW: 三氯化鈰"	"氯化铈"
 "item.compound.charcoal.formula"	"C₇H₄O"	"Original Translation
 zh_CN: C₇H₄O
-zh_TW: C₇H₄O"	""
+zh_TW: C₇H₄O"	"C₇H₄O"
 "item.compound.charcoal.name"	"Charcoal"	"Original Translation
 zh_CN: 木炭
 zh_TW: 木炭"	"木炭"
 "item.compound.crudeoil.formula"	"C₉H₂₀"	"Original Translation
 zh_CN: C₉H₂₀
-zh_TW: C₉H₂₀"	""
+zh_TW: C₉H₂₀"	"C₉H₂₀"
 "item.compound.crudeoil.name"	"Crude Oil"	"Original Translation
 zh_CN: 原油
 zh_TW: 原油"	"原油"
@@ -29899,157 +29899,157 @@ zh_CN: 废物
 zh_TW: 垃圾"	"废物"
 "item.compound.glue.formula"	"C₅H₅NO₂"	"Original Translation
 zh_CN: C₅H₅NO₂
-zh_TW: C₅H₅NO₂"	""
+zh_TW: C₅H₅NO₂"	"C₅H₅NO₂"
 "item.compound.glue.name"	"Glue"	"Original Translation
 zh_CN: 黏合剂
 zh_TW: 黏合劑"	"黏合剂"
 "item.compound.hydrogenperoxide.formula"	"H₂O₂"	"Original Translation
 zh_CN: H₂O₂
-zh_TW: H₂O₂"	""
+zh_TW: H₂O₂"	"H₂O₂"
 "item.compound.hydrogenperoxide.name"	"Hydrogen Peroxide"	"Original Translation
 zh_CN: 过氧化氢
 zh_TW: 過氧化氫"	"过氧化氢"
 "item.compound.hypochlorite.formula"	"ClO"	"Original Translation
 zh_CN: ClO
-zh_TW: ClO"	""
+zh_TW: ClO"	"ClO"
 "item.compound.hypochlorite.name"	"Hypochlorite"	"Original Translation
 zh_CN: 次氯酸盐
 zh_TW: 次氯酸鹽"	"次氯酸盐"
 "item.compound.ink.formula"	"FeSO₄"	"Original Translation
 zh_CN: FeSO₄
-zh_TW: FeSO₄"	""
+zh_TW: FeSO₄"	"FeSO₄"
 "item.compound.ironsulfide.formula"	"FeS"	"Original Translation
 zh_CN: FeS
-zh_TW: FeS"	""
+zh_TW: FeS"	"FeS"
 "item.compound.ironsulfide.name"	"Iron Sulfide"	"Original Translation
 zh_CN: 硫化亚铁
 zh_TW: 硫化亞鐵"	"硫化亚铁"
 "item.compound.latex.formula"	"C₅H₈"	"Original Translation
 zh_CN: C₅H₈
-zh_TW: C₅H₈"	""
+zh_TW: C₅H₈"	"C₅H₈"
 "item.compound.latex.name"	"Latex"	"Original Translation
 zh_CN: 乳液
 zh_TW: 乳膠"	"乳胶"
 "item.compound.lithiumhydride.formula"	"LiH"	"Original Translation
 zh_CN: LiH
-zh_TW: LiH"	""
+zh_TW: LiH"	"LiH"
 "item.compound.lithiumhydride.name"	"Lithium Hydride"	"Original Translation
 zh_CN: 氢化锂
 zh_TW: 氫化鋰"	"氢化锂"
 "item.compound.luminol.formula"	"C₈H₇N₃O₂"	"Original Translation
 zh_CN: C₈H₇N₃O₂
-zh_TW: C₈H₇N₃O₂"	""
+zh_TW: C₈H₇N₃O₂"	"C₈H₇N₃O₂"
 "item.compound.luminol.name"	"Luminol"	"Original Translation
 zh_CN: 鲁米诺
 zh_TW: 魯米諾"	"鲁米诺"
 "item.compound.magnesiumnitrate.formula"	"Mg(NO₃)₂"	"Original Translation
 zh_CN: Mg(NO₃)₂
-zh_TW: Mg(NO₃)₂"	""
+zh_TW: Mg(NO₃)₂"	"Mg(NO₃)₂"
 "item.compound.magnesiumnitrate.name"	"Magnesium Nitrate"	"Original Translation
 zh_CN: 硝酸镁
 zh_TW: 硝酸鎂"	"硝酸镁"
 "item.compound.magnesiumoxide.formula"	"MgO"	"Original Translation
 zh_CN: MgO
-zh_TW: MgO"	""
+zh_TW: MgO"	"MgO"
 "item.compound.magnesiumoxide.name"	"Magnesium Oxide"	"Original Translation
 zh_CN: 氧化镁
 zh_TW: 氧化鎂"	"氧化镁"
 "item.compound.magnesiumsalts.formula"	"MgSO₄"	"Original Translation
 zh_CN: MgSO₄
-zh_TW: MgSO₄"	""
+zh_TW: MgSO₄"	"MgSO₄"
 "item.compound.magnesiumsalts.name"	"Magnesium Salts"	"Original Translation
 zh_CN: 镁盐
 zh_TW: 硫酸鎂"	"镁盐"
 "item.compound.mercuricchloride.formula"	"HgCl₂"	"Original Translation
 zh_CN: HgCl₂
-zh_TW: HgCl₂"	""
+zh_TW: HgCl₂"	"HgCl₂"
 "item.compound.mercuricchloride.name"	"Mercuric Chloride"	"Original Translation
 zh_CN: 氯化汞
 zh_TW: 氯化汞"	"氯化汞"
 "item.compound.polyethylene.formula"	"(C₂H₄)₅"	"Original Translation
 zh_CN: (C₂H₄)₅
-zh_TW: (C₂H₄)₅"	""
+zh_TW: (C₂H₄)₅"	"(C₂H₄)₅"
 "item.compound.polyethylene.name"	"Polyethylene"	"Original Translation
 zh_CN: 聚乙烯
 zh_TW: 聚乙烯"	"聚乙烯"
 "item.compound.potassiumchloride.formula"	"KCl"	"Original Translation
 zh_CN: KCl
-zh_TW: KCl"	""
+zh_TW: KCl"	"KCl"
 "item.compound.potassiumchloride.name"	"Potassium Chloride"	"Original Translation
 zh_CN: 氯化钾
 zh_TW: 氯化鉀"	"氯化钾"
 "item.compound.potassiumiodide.formula"	"KI"	"Original Translation
 zh_CN: KI
-zh_TW: KI"	""
+zh_TW: KI"	"KI"
 "item.compound.potassiumiodide.name"	"Potassium Iodide"	"Original Translation
 zh_CN: 碘化钾
 zh_TW: 碘化鉀"	"碘化钾"
 "item.compound.salt.formula"	"NaCl"	"Original Translation
 zh_CN: NaCl
-zh_TW: NaCl"	""
+zh_TW: NaCl"	"NaCl"
 "item.compound.salt.name"	"Salt"	"Original Translation
 zh_CN: 盐
 zh_TW: 鹽"	"盐"
 "item.compound.soap.formula"	"C₁₈H₃₅NaO₂"	"Original Translation
 zh_CN: C₁₈H₃₅NaO₂
-zh_TW: C₁₈H₃₅NaO₂"	""
+zh_TW: C₁₈H₃₅NaO₂"	"C₁₈H₃₅NaO₂"
 "item.compound.soap.name"	"Soap"	"Original Translation
 zh_CN: 肥皂
 zh_TW: 肥皂"	"肥皂"
 "item.compound.sodiumacetate.formula"	"C₂H₃NaO₂"	"Original Translation
 zh_CN: C₂H₃NaO₂
-zh_TW: C₂H₃NaO₂"	""
+zh_TW: C₂H₃NaO₂"	"C₂H₃NaO₂"
 "item.compound.sodiumacetate.name"	"Sodium Acetate"	"Original Translation
 zh_CN: 乙酸钠
 zh_TW: 乙酸鈉"	"乙酸钠"
 "item.compound.sodiumfluoride.formula"	"NaF"	"Original Translation
 zh_CN: NaF
-zh_TW: NaF"	""
+zh_TW: NaF"	"NaF"
 "item.compound.sodiumfluoride.name"	"Sodium Fluoride"	"Original Translation
 zh_CN: 氟化钠
 zh_TW: 氟化鈉"	"氟化钠"
 "item.compound.sodiumhydride.formula"	"NaH"	"Original Translation
 zh_CN: NaH
-zh_TW: NaH"	""
+zh_TW: NaH"	"NaH"
 "item.compound.sodiumhydride.name"	"Sodium Hydride"	"Original Translation
 zh_CN: 氢化钠
 zh_TW: 氫化鈉"	"氢化钠"
 "item.compound.sodiumhydroxide.formula"	"NaOH"	"Original Translation
 zh_CN: NaOH
-zh_TW: NaOH"	""
+zh_TW: NaOH"	"NaOH"
 "item.compound.sodiumhydroxide.name"	"Lye"	"Original Translation
 zh_CN: 碱
 zh_TW: 氫氧化鈉"	"碱"
 "item.compound.sodiumhypochlorite.formula"	"NaClO"	"Original Translation
 zh_CN: NaClO
-zh_TW: NaClO"	""
+zh_TW: NaClO"	"NaClO"
 "item.compound.sodiumhypochlorite.name"	"Sodium Hypochlorite"	"Original Translation
 zh_CN: 次氯酸钠
 zh_TW: 次氯酸鈉"	"次氯酸钠"
 "item.compound.sodiumoxide.formula"	"Na₂O"	"Original Translation
 zh_CN: Na₂O
-zh_TW: Na₂O"	""
+zh_TW: Na₂O"	"Na₂O"
 "item.compound.sodiumoxide.name"	"Sodium Oxide"	"Original Translation
 zh_CN: 氧化钠
 zh_TW: 氧化鈉"	"氧化钠"
 "item.compound.sugar.formula"	"C₆H₁₂O₆"	"Original Translation
 zh_CN: C₆H₁₂O₆
-zh_TW: C₆H₁₂O₆"	""
+zh_TW: C₆H₁₂O₆"	"C₆H₁₂O₆"
 "item.compound.sulfate.formula"	"SO₄"	"Original Translation
 zh_CN: SO₄
-zh_TW: SO₄"	""
+zh_TW: SO₄"	"SO₄"
 "item.compound.sulfate.name"	"Sulfate"	"Original Translation
 zh_CN: 硫酸盐
 zh_TW: 硫酸鹽"	"硫酸盐"
 "item.compound.tungstenchloride.formula"	"WCl₆"	"Original Translation
 zh_CN: WCl₆
-zh_TW: WCl₆"	""
+zh_TW: WCl₆"	"WCl₆"
 "item.compound.tungstenchloride.name"	"Tungsten Chloride"	"Original Translation
 zh_CN: 六氯化钨
 zh_TW: 六氯化鎢"	"六氯化钨"
 "item.compound.water.formula"	"H₂O"	"Original Translation
 zh_CN: H₂O
-zh_TW: H₂O"	""
+zh_TW: H₂O"	"H₂O"
 "item.compound.water.name"	"Water"	"Original Translation
 zh_CN: 水
 zh_TW: 水"	"水"
@@ -30094,14 +30094,14 @@ zh_CN: 铜锄
 zh_TW: 銅鋤頭"	"铜锄"
 "item.copper_horse_armor.name"	"Copper Horse Armor"	"Original Translation
 zh_CN: 铜马铠
-zh_TW: 銅製馬鎧"	""
+zh_TW: 銅製馬鎧"	"铜马铠"
 "item.copper_ingot.name"	"Copper Ingot"	"Original Translation
 zh_CN: 铜锭
 zh_TW: 銅錠"	"铜锭"
 "item.copper_leggings.name"	"Copper Leggings"	"Original Translation
 zh_CN: 铜护腿
 zh_TW: 銅製護腿"	"铜护腿"
-"item.copper_nautilus_armor.name"	"Copper Nautilus Armor"	"Original Translation"	""
+"item.copper_nautilus_armor.name"	"Copper Nautilus Armor"	"Original Translation"	"铜鹦鹉螺铠"
 "item.copper_nugget.name"	"Copper Nugget"	"Original Translation
 zh_CN: 铜粒
 zh_TW: 銅粒"	"铜粒"
@@ -30111,7 +30111,7 @@ zh_TW: 銅鎬"	"铜镐"
 "item.copper_shovel.name"	"Copper Shovel"	"Original Translation
 zh_CN: 铜锹
 zh_TW: 銅鏟"	"铜锹"
-"item.copper_spear.name"	"Copper Spear"	"Original Translation"	""
+"item.copper_spear.name"	"Copper Spear"	"Original Translation"	"铜矛"
 "item.copper_sword.name"	"Copper Sword"	"Original Translation
 zh_CN: 铜剑
 zh_TW: 銅劍"	"铜剑"
@@ -30172,14 +30172,14 @@ zh_TW: 鑽石鋤"	"钻石锄"
 "item.diamond_leggings.name"	"Diamond Leggings"	"Original Translation
 zh_CN: 钻石护腿
 zh_TW: 鑽石護腿"	"钻石护腿"
-"item.diamond_nautilus_armor.name"	"Diamond Nautilus Armor"	"Original Translation"	""
+"item.diamond_nautilus_armor.name"	"Diamond Nautilus Armor"	"Original Translation"	"钻石鹦鹉螺铠"
 "item.diamond_pickaxe.name"	"Diamond Pickaxe"	"Original Translation
 zh_CN: 钻石镐
 zh_TW: 鑽石鎬"	"钻石镐"
 "item.diamond_shovel.name"	"Diamond Shovel"	"Original Translation
 zh_CN: 钻石锹
 zh_TW: 鑽石鏟"	"钻石锹"
-"item.diamond_spear.name"	"Diamond Spear"	"Original Translation"	""
+"item.diamond_spear.name"	"Diamond Spear"	"Original Translation"	"钻石矛"
 "item.diamond_sword.name"	"Diamond Sword"	"Original Translation
 zh_CN: 钻石剑
 zh_TW: 鑽石劍"	"钻石剑"
@@ -30531,14 +30531,14 @@ zh_TW: 黃金鋤"	"金锄"
 "item.golden_leggings.name"	"Golden Leggings"	"Original Translation
 zh_CN: 金护腿
 zh_TW: 黃金護腿"	"金护腿"
-"item.golden_nautilus_armor.name"	"Golden Nautilus Armor"	"Original Translation"	""
+"item.golden_nautilus_armor.name"	"Golden Nautilus Armor"	"Original Translation"	"金鹦鹉螺铠"
 "item.golden_pickaxe.name"	"Golden Pickaxe"	"Original Translation
 zh_CN: 金镐
 zh_TW: 黃金鎬"	"金镐"
 "item.golden_shovel.name"	"Golden Shovel"	"Original Translation
 zh_CN: 金锹
 zh_TW: 黃金鏟"	"金锹"
-"item.golden_spear.name"	"Golden Spear"	"Original Translation"	""
+"item.golden_spear.name"	"Golden Spear"	"Original Translation"	"金矛"
 "item.golden_sword.name"	"Golden Sword"	"Original Translation
 zh_CN: 金剑
 zh_TW: 黃金劍"	"金剑"
@@ -30586,7 +30586,7 @@ zh_CN: 钻石马铠
 zh_TW: 鑽石馬鎧"	"钻石马铠"
 "item.horsearmorgold.name"	"Golden Horse Armor"	"Original Translation
 zh_CN: 黄金马铠
-zh_TW: 黃金馬鎧"	""
+zh_TW: 黃金馬鎧"	"金马铠"
 "item.horsearmoriron.name"	"Iron Horse Armor"	"Original Translation
 zh_CN: 铁马铠
 zh_TW: 鐵馬鎧"	"铁马铠"
@@ -30626,7 +30626,7 @@ zh_TW: 鐵錠"	"铁锭"
 "item.iron_leggings.name"	"Iron Leggings"	"Original Translation
 zh_CN: 铁护腿
 zh_TW: 鐵護腿"	"铁护腿"
-"item.iron_nautilus_armor.name"	"Iron Nautilus Armor"	"Original Translation"	""
+"item.iron_nautilus_armor.name"	"Iron Nautilus Armor"	"Original Translation"	"铁鹦鹉螺铠"
 "item.iron_nugget.name"	"Iron Nugget"	"Original Translation
 zh_CN: 铁粒
 zh_TW: 鐵粒"	"铁粒"
@@ -30636,7 +30636,7 @@ zh_TW: 鐵鎬"	"铁镐"
 "item.iron_shovel.name"	"Iron Shovel"	"Original Translation
 zh_CN: 铁锹
 zh_TW: 鐵鏟"	"铁锹"
-"item.iron_spear.name"	"Iron Spear"	"Original Translation"	""
+"item.iron_spear.name"	"Iron Spear"	"Original Translation"	"铁矛"
 "item.iron_sword.name"	"Iron Sword"	"Original Translation
 zh_CN: 铁剑
 zh_TW: 鐵劍"	"铁剑"
@@ -30880,14 +30880,14 @@ zh_TW: 獄髓頭盔"	"下界合金头盔"
 "item.netherite_hoe.name"	"Netherite Hoe"	"Original Translation
 zh_CN: 下界合金锄头
 zh_TW: 獄髓鋤"	"下界合金锄"
-"item.netherite_horse_armor.name"	"Netherite Horse Armor"	"Original Translation"	""
+"item.netherite_horse_armor.name"	"Netherite Horse Armor"	"Original Translation"	"下界合金马铠"
 "item.netherite_ingot.name"	"Netherite Ingot"	"Original Translation
 zh_CN: 下界合金锭
 zh_TW: 獄髓錠"	"下界合金锭"
 "item.netherite_leggings.name"	"Netherite Leggings"	"Original Translation
 zh_CN: 下界合金护腿
 zh_TW: 獄髓護腿"	"下界合金护腿"
-"item.netherite_nautilus_armor.name"	"Netherite Nautilus Armor"	"Original Translation"	""
+"item.netherite_nautilus_armor.name"	"Netherite Nautilus Armor"	"Original Translation"	"下界合金鹦鹉螺铠"
 "item.netherite_pickaxe.name"	"Netherite Pickaxe"	"Original Translation
 zh_CN: 下界合金镐
 zh_TW: 獄髓鎬"	"下界合金镐"
@@ -30897,7 +30897,7 @@ zh_TW: 獄髓碎片"	"下界合金碎片"
 "item.netherite_shovel.name"	"Netherite Shovel"	"Original Translation
 zh_CN: 下界合金锹
 zh_TW: 獄髓鏟"	"下界合金锹"
-"item.netherite_spear.name"	"Netherite Spear"	"Original Translation"	""
+"item.netherite_spear.name"	"Netherite Spear"	"Original Translation"	"下界合金矛"
 "item.netherite_sword.name"	"Netherite Sword"	"Original Translation
 zh_CN: 下界合金剑
 zh_TW: 獄髓劍"	"下界合金剑"
@@ -31032,67 +31032,67 @@ zh_CN: 音乐唱片
 zh_TW: 唱片"	"音乐唱片"
 "item.record_11.desc"	"C418 - 11"	"Original Translation
 zh_CN: C418 - 11
-zh_TW: C418 - 11"	""
+zh_TW: C418 - 11"	"C418 - 11"
 "item.record_13.desc"	"C418 - 13"	"Original Translation
 zh_CN: C418 - 13
-zh_TW: C418 - 13"	""
+zh_TW: C418 - 13"	"C418 - 13"
 "item.record_5.desc"	"Samuel Åberg - 5"	"Original Translation
 zh_CN: 塞缪尔·阿伯格 - 5
-zh_TW: 塞繆爾阿伯格 - 5"	""
+zh_TW: 塞繆爾阿伯格 - 5"	"Samuel Åberg - 5"
 "item.record_blocks.desc"	"C418 - blocks"	"Original Translation
 zh_CN: C418 - blocks
-zh_TW: C418 - blocks"	""
+zh_TW: C418 - blocks"	"C418 - blocks"
 "item.record_cat.desc"	"C418 - cat"	"Original Translation
 zh_CN: C418 - cat
-zh_TW: C418 - cat"	""
+zh_TW: C418 - cat"	"C418 - cat"
 "item.record_chirp.desc"	"C418 - chirp"	"Original Translation
 zh_CN: C418 - chirp
-zh_TW: C418 - chirp"	""
+zh_TW: C418 - chirp"	"C418 - chirp"
 "item.record_creator.desc"	"Lena Raine - Creator"	"Original Translation
 zh_CN: 莉娜·雷恩 - 创作者
-zh_TW: 莉娜雷恩 - 創作者"	""
+zh_TW: 莉娜雷恩 - 創作者"	"Lena Raine - Creator"
 "item.record_creator_music_box.desc"	"Lena Raine - Creator (Music Box)"	"Original Translation
 zh_CN: 莉娜·雷恩 - 创作者（音乐盒）
 zh_TW: 莉娜雷恩 - 創作者 (音樂盒)"	"Lena Raine - Creator（八音盒）"
 "item.record_far.desc"	"C418 - far"	"Original Translation
 zh_CN: C418 - far
-zh_TW: C418 - far"	""
+zh_TW: C418 - far"	"C418 - far"
 "item.record_lava_chicken.desc"	"Hyper Potions - Lava Chicken"	"Original Translation
 zh_CN: Hyper Potions - 熔岩鸡
-zh_TW: 超級藥水 - 熔岩雞"	""
+zh_TW: 超級藥水 - 熔岩雞"	"Hyper Potions - Lava Chicken"
 "item.record_mall.desc"	"C418 - mall"	"Original Translation
 zh_CN: C418 - mall
-zh_TW: C418 - mall"	""
+zh_TW: C418 - mall"	"C418 - mall"
 "item.record_mellohi.desc"	"C418 - mellohi"	"Original Translation
 zh_CN: C418 - mellohi
-zh_TW: C418 - mellohi"	""
+zh_TW: C418 - mellohi"	"C418 - mellohi"
 "item.record_otherside.desc"	"Lena Raine - otherside"	"Original Translation
 zh_CN: 莉娜·雷恩 - otherside
-zh_TW: 莉娜雷恩 - otherside"	""
+zh_TW: 莉娜雷恩 - otherside"	"Lena Raine - otherside"
 "item.record_pigstep.desc"	"Lena Raine - Pigstep"	"Original Translation
 zh_CN: 莉娜·雷恩 - Pigstep
-zh_TW: 莉娜雷恩 - Pigstep"	""
+zh_TW: 莉娜雷恩 - Pigstep"	"Lena Raine - Pigstep"
 "item.record_precipice.desc"	"Aaron Cherof - Precipice"	"Original Translation
 zh_CN: 亚伦·切罗夫 - 峭壁
-zh_TW: 亞倫切羅夫 - 懸崖峭壁"	""
+zh_TW: 亞倫切羅夫 - 懸崖峭壁"	"Aaron Cherof - Precipice"
 "item.record_relic.desc"	"Aaron Cherof - Relic"	"Original Translation
 zh_CN: 亚伦·切罗夫 - Relic
-zh_TW: Aaron Cherof - Relic"	""
+zh_TW: Aaron Cherof - Relic"	"Aaron Cherof - Relic"
 "item.record_stal.desc"	"C418 - stal"	"Original Translation
 zh_CN: C418 - stal
-zh_TW: C418 - stal"	""
+zh_TW: C418 - stal"	"C418 - stal"
 "item.record_strad.desc"	"C418 - strad"	"Original Translation
 zh_CN: C418 - strad
-zh_TW: C418 - strad"	""
+zh_TW: C418 - strad"	"C418 - strad"
 "item.record_tears.desc"	"Amos Roddy - Tears"	"Original Translation
 zh_CN: Amos Roddy - 泪水
-zh_TW: Amos Roddy - 流淚"	""
+zh_TW: Amos Roddy - 流淚"	"Amos Roddy - Tears"
 "item.record_wait.desc"	"C418 - wait"	"Original Translation
 zh_CN: C418 - wait
-zh_TW: C418 - wait"	""
+zh_TW: C418 - wait"	"C418 - wait"
 "item.record_ward.desc"	"C418 - ward"	"Original Translation
 zh_CN: C418 - ward
-zh_TW: C418 - ward"	""
+zh_TW: C418 - ward"	"C418 - ward"
 "item.recovery_compass.name"	"Recovery Compass"	"Original Translation
 zh_CN: 追溯指针
 zh_TW: 復生羅盤"	"追溯指针"
@@ -31315,7 +31315,7 @@ zh_TW: 旋風使者生成蛋"	"旋风人刷怪蛋"
 "item.spawn_egg.entity.camel.name"	"Camel Spawn Egg"	"Original Translation
 zh_CN: 骆驼刷怪蛋
 zh_TW: 駱駝生成蛋"	"骆驼刷怪蛋"
-"item.spawn_egg.entity.camel_husk.name"	"Camel Husk Spawn Egg"	"Original Translation"	""
+"item.spawn_egg.entity.camel_husk.name"	"Camel Husk Spawn Egg"	"Original Translation"	"骆驼尸壳刷怪蛋"
 "item.spawn_egg.entity.cat.name"	"Cat Spawn Egg"	"Original Translation
 zh_CN: 猫刷怪蛋
 zh_TW: 貓咪生成蛋"	"猫刷怪蛋"
@@ -31409,7 +31409,7 @@ zh_TW: 哞菇生成蛋"	"哞菇刷怪蛋"
 "item.spawn_egg.entity.mule.name"	"Mule Spawn Egg"	"Original Translation
 zh_CN: 骡子刷怪蛋
 zh_TW: 騾生成蛋"	"骡刷怪蛋"
-"item.spawn_egg.entity.nautilus.name"	"Nautilus Spawn Egg"	"Original Translation"	""
+"item.spawn_egg.entity.nautilus.name"	"Nautilus Spawn Egg"	"Original Translation"	"鹦鹉螺刷怪蛋"
 "item.spawn_egg.entity.npc.failed"	"You need Creative + Operator to spawn an NPC"	"Original Translation
 zh_CN: 你需要创造模式 + 操作员权限来生成 NPC
 zh_TW: 你需要創造 + 操作員來生成一個 NPC"	"你需要创造模式+管理员权限才能生成NPC"
@@ -31422,7 +31422,7 @@ zh_TW: 豹貓生成蛋"	"豹猫刷怪蛋"
 "item.spawn_egg.entity.panda.name"	"Panda Spawn Egg"	"Original Translation
 zh_CN: 熊猫刷怪蛋
 zh_TW: 熊貓生成蛋"	"熊猫刷怪蛋"
-"item.spawn_egg.entity.parched.name"	"Parched Spawn Egg"	"Original Translation"	""
+"item.spawn_egg.entity.parched.name"	"Parched Spawn Egg"	"Original Translation"	"焦骸刷怪蛋"
 "item.spawn_egg.entity.parrot.name"	"Parrot Spawn Egg"	"Original Translation
 zh_CN: 鹦鹉刷怪蛋
 zh_TW: 鸚鵡生成蛋"	"鹦鹉刷怪蛋"
@@ -31546,7 +31546,7 @@ zh_TW: 殭屍生成蛋"	"僵尸刷怪蛋"
 "item.spawn_egg.entity.zombie_horse.name"	"Zombie Horse Spawn Egg"	"Original Translation
 zh_CN: 僵尸马刷怪蛋
 zh_TW: 殭屍馬生成蛋"	"僵尸马刷怪蛋"
-"item.spawn_egg.entity.zombie_nautilus.name"	"Zombie Nautilus Spawn Egg"	"Original Translation"	""
+"item.spawn_egg.entity.zombie_nautilus.name"	"Zombie Nautilus Spawn Egg"	"Original Translation"	"僵尸鹦鹉螺刷怪蛋"
 "item.spawn_egg.entity.zombie_pigman.name"	"Zombified Piglin Spawn Egg"	"Original Translation
 zh_CN: 僵尸猪灵刷怪蛋
 zh_TW: 殭屍豬布林生成蛋"	"僵尸猪灵刷怪蛋"
@@ -31595,7 +31595,7 @@ zh_TW: 石鎬"	"石镐"
 "item.stone_shovel.name"	"Stone Shovel"	"Original Translation
 zh_CN: 石锹
 zh_TW: 石鏟"	"石锹"
-"item.stone_spear.name"	"Stone Spear"	"Original Translation"	""
+"item.stone_spear.name"	"Stone Spear"	"Original Translation"	"石矛"
 "item.stone_sword.name"	"Stone Sword"	"Original Translation
 zh_CN: 石剑
 zh_TW: 石劍"	"石剑"
@@ -31896,7 +31896,7 @@ zh_TW: 木鎬"	"木镐"
 "item.wooden_shovel.name"	"Wooden Shovel"	"Original Translation
 zh_CN: 木锹
 zh_TW: 木鏟"	"木锹"
-"item.wooden_spear.name"	"Wooden Spear"	"Original Translation"	""
+"item.wooden_spear.name"	"Wooden Spear"	"Original Translation"	"木矛"
 "item.wooden_sword.name"	"Wooden Sword"	"Original Translation
 zh_CN: 木剑
 zh_TW: 木劍"	"木剑"
@@ -42201,7 +42201,7 @@ zh_CN: 创建拼图池并预览生成的拼图结构。
 zh_TW: 建立結構池，並預覽拼圖結構的生成效果。"	""
 "resourcePack.editor.jigsaw.menuItem.title"	"Jigsaws"	"Original Translation
 zh_CN: 拼图
-zh_TW: 拼圖"	""
+zh_TW: 拼圖"	"拼图"
 "resourcePack.editor.jigsaw.menuItem.tooltip"	"Create pools and preview the generation of Jigsaw Structures."	"Original Translation
 zh_CN: 创建拼图池并预览生成的拼图结构。
 zh_TW: 建立結構池，並預覽拼圖結構的生成效果。"	""
@@ -50283,7 +50283,7 @@ zh_TW: 蛋糕與黑色蠟燭"	"插上黑色蜡烛的蛋糕"
 "tile.blackstone.name"	"Blackstone"	"Original Translation
 zh_CN: 黑石
 zh_TW: 黑石"	"黑石"
-"tile.blackstone_double_slab.name"	"Blackstone Double Slab"	"Original Translation"	""
+"tile.blackstone_double_slab.name"	"Blackstone Double Slab"	"Original Translation"	"黑石双层台阶"
 "tile.blackstone_slab.name"	"Blackstone Slab"	"Original Translation
 zh_CN: 黑石台阶
 zh_TW: 黑石板"	"黑石台阶"
@@ -50314,7 +50314,7 @@ zh_TW: 書架"	"书架"
 "tile.border_block.name"	"Border"	"Original Translation
 zh_CN: 边界方块
 zh_TW: 邊界"	"边界方块"
-"tile.brain_coral_wall_fan.name"	"Brain Coral Wall Fan"	"Original Translation"	""
+"tile.brain_coral_wall_fan.name"	"Brain Coral Wall Fan"	"Original Translation"	"墙上的脑纹珊瑚扇"
 "tile.brick_block.name"	"Bricks"	"Original Translation
 zh_CN: 砖
 zh_TW: 磚"	"红砖块"
@@ -50339,8 +50339,8 @@ zh_TW: 蘑菇"	"蘑菇"
 "tile.brown_mushroom_block.stem.name"	"Mushroom Stem"	"Original Translation
 zh_CN: 蘑菇柄
 zh_TW: 蘑菇莖"	"蘑菇柄"
-"tile.bubble_column.name"	"Bubble Column"	"Original Translation"	""
-"tile.bubble_coral_wall_fan.name"	"Bubble Coral Wall Fan"	"Original Translation"	""
+"tile.bubble_column.name"	"Bubble Column"	"Original Translation"	"气泡柱"
+"tile.bubble_coral_wall_fan.name"	"Bubble Coral Wall Fan"	"Original Translation"	"墙上的气泡珊瑚扇"
 "tile.budding_amethyst.name"	"Budding Amethyst"	"Original Translation
 zh_CN: 紫水晶母岩
 zh_TW: 紫水晶芽床"	"紫水晶母岩"
@@ -50452,7 +50452,7 @@ zh_TW: 鎖鏈"	"锁链"
 "tile.chain_command_block.name"	"Chain Command Block"	"Original Translation
 zh_CN: 连锁型命令方块
 zh_TW: 鎖鏈指令方塊"	"连锁型命令方块"
-"tile.chalkboard.name"	"Chalkboard"	"Original Translation"	""
+"tile.chalkboard.name"	"Chalkboard"	"Original Translation"	"黑板"
 "tile.chalkboard.oneByOne.name"	"Slate"	"Original Translation
 zh_CN: 石板
 zh_TW: 石板"	"小黑板"
@@ -50468,7 +50468,7 @@ zh_TW: 加熱方塊"	"加热块"
 "tile.cherry_button.name"	"Cherry Button"	"Original Translation
 zh_CN: 樱花木按钮
 zh_TW: 櫻花木按鈕"	"樱花木按钮"
-"tile.cherry_door.name"	"Cherry Door"	"Original Translation"	""
+"tile.cherry_door.name"	"Cherry Door"	"Original Translation"	"樱花木门"
 "tile.cherry_double_slab.name"	"Cherry Double Slab"	"Original Translation
 zh_CN: 樱花木双台阶
 zh_TW: 櫻花木雙板"	"樱花木双层台阶"
@@ -50505,11 +50505,11 @@ zh_TW: 櫻花木板"	"樱花木台阶"
 "tile.cherry_stairs.name"	"Cherry Stairs"	"Original Translation
 zh_CN: 樱花木楼梯
 zh_TW: 櫻花木階梯"	"樱花木楼梯"
-"tile.cherry_standing_sign.name"	"Cherry Sign"	"Original Translation"	""
+"tile.cherry_standing_sign.name"	"Cherry Sign"	"Original Translation"	"樱花木告示牌"
 "tile.cherry_trapdoor.name"	"Cherry Trapdoor"	"Original Translation
 zh_CN: 樱花木活板门
 zh_TW: 櫻花木地板門"	"樱花木活板门"
-"tile.cherry_wall_sign.name"	"Cherry Wall Sign"	"Original Translation"	""
+"tile.cherry_wall_sign.name"	"Cherry Wall Sign"	"Original Translation"	"墙上的樱花木告示牌"
 "tile.cherry_wood.name"	"Cherry Wood"	"Original Translation
 zh_CN: 樱花木
 zh_TW: 櫻花樹木塊"	"樱花木"
@@ -50969,7 +50969,7 @@ zh_TW: 黑橡木柵欄"	"深色橡木栅栏"
 "tile.dark_oak_button.name"	"Dark Oak Button"	"Original Translation
 zh_CN: 深色橡木按钮
 zh_TW: 黑橡木按鈕"	"深色橡木按钮"
-"tile.dark_oak_door.name"	"Dark Oak Door"	"Original Translation"	""
+"tile.dark_oak_door.name"	"Dark Oak Door"	"Original Translation"	"深色橡木门"
 "tile.dark_oak_fence_gate.name"	"Dark Oak Fence Gate"	"Original Translation
 zh_CN: 深色橡木栅栏门
 zh_TW: 黑橡木柵欄門"	"深色橡木栅栏门"
@@ -50994,16 +50994,16 @@ zh_TW: 暗海磷石階梯"	"暗海晶石楼梯"
 "tile.darkoak_standing_sign.name"	"Dark Oak Sign"	"Original Translation
 zh_CN: 深色橡木告示牌
 zh_TW: 黑橡木告示牌"	"深色橡木告示牌"
-"tile.darkoak_wall_sign.name"	"Dark Oak Wall Sign"	"Original Translation"	""
+"tile.darkoak_wall_sign.name"	"Dark Oak Wall Sign"	"Original Translation"	"墙上的深色橡木告示牌"
 "tile.daylight_detector.name"	"Daylight Detector"	"Original Translation
 zh_CN: 阳光探测器
 zh_TW: 日光偵測器"	"阳光探测器"
-"tile.daylight_detector_inverted.name"	"Daylight Detector Inverted"	"Original Translation"	""
-"tile.dead_brain_coral_wall_fan.name"	"Dead Brain Coral Wall Fan"	"Original Translation"	""
-"tile.dead_bubble_coral_wall_fan.name"	"Dead Bubble Coral Wall Fan"	"Original Translation"	""
-"tile.dead_fire_coral_wall_fan.name"	"Dead Fire Coral Wall Fan"	"Original Translation"	""
-"tile.dead_horn_coral_wall_fan.name"	"Dead Horn Coral Wall Fan"	"Original Translation"	""
-"tile.dead_tube_coral_wall_fan.name"	"Dead Tube Coral Wall Fan"	"Original Translation"	""
+"tile.daylight_detector_inverted.name"	"Daylight Detector Inverted"	"Original Translation"	"反向阳光探测器"
+"tile.dead_brain_coral_wall_fan.name"	"Dead Brain Coral Wall Fan"	"Original Translation"	"墙上的失活脑纹珊瑚扇"
+"tile.dead_bubble_coral_wall_fan.name"	"Dead Bubble Coral Wall Fan"	"Original Translation"	"墙上的失活气泡珊瑚扇"
+"tile.dead_fire_coral_wall_fan.name"	"Dead Fire Coral Wall Fan"	"Original Translation"	"墙上的失活火珊瑚扇"
+"tile.dead_horn_coral_wall_fan.name"	"Dead Horn Coral Wall Fan"	"Original Translation"	"墙上的失活鹿角珊瑚扇"
+"tile.dead_tube_coral_wall_fan.name"	"Dead Tube Coral Wall Fan"	"Original Translation"	"墙上的失活管珊瑚扇"
 "tile.deadbush.name"	"Dead Bush"	"Original Translation
 zh_CN: 枯萎的灌木
 zh_TW: 枯灌木叢"	"枯萎的灌木"
@@ -51100,7 +51100,7 @@ zh_TW: 發射器"	"发射器"
 "tile.doorWood.name"	"Wooden Door"	"Original Translation
 zh_CN: 木门
 zh_TW: 木門"	"木门"
-"tile.double_cut_copper_slab.name"	"Cut Copper Double Slab"	"Original Translation"	""
+"tile.double_cut_copper_slab.name"	"Cut Copper Double Slab"	"Original Translation"	"切制铜双层台阶"
 "tile.double_plant.fern.name"	"Large Fern"	"Original Translation
 zh_CN: 大型蕨
 zh_TW: 大型蕨類"	"大型蕨"
@@ -51149,35 +51149,35 @@ zh_TW: 石板"	"石头双层台阶"
 "tile.double_stone_slab.wood.name"	"Wooden Slab"	"Original Translation
 zh_CN: 木台阶
 zh_TW: 木板"	"石化橡木双层台阶"
-"tile.double_stone_slab2.mossy_cobblestone.name"	"Mossy Cobblestone Double Slab"	"Original Translation"	""
-"tile.double_stone_slab2.prismarine.bricks.name"	"Prismarine Brick Double Slab"	"Original Translation"	""
-"tile.double_stone_slab2.prismarine.dark.name"	"Dark Prismarine Double Slab"	"Original Translation"	""
-"tile.double_stone_slab2.prismarine.rough.name"	"Prismarine DoubleSlab"	"Original Translation"	""
-"tile.double_stone_slab2.purpur.name"	"Purpur Double Slab"	"Original Translation"	""
-"tile.double_stone_slab2.red_nether_brick.name"	"Red Nether Brick Double Slab"	"Original Translation"	""
+"tile.double_stone_slab2.mossy_cobblestone.name"	"Mossy Cobblestone Double Slab"	"Original Translation"	"苔石双层台阶"
+"tile.double_stone_slab2.prismarine.bricks.name"	"Prismarine Brick Double Slab"	"Original Translation"	"海晶石砖双层台阶"
+"tile.double_stone_slab2.prismarine.dark.name"	"Dark Prismarine Double Slab"	"Original Translation"	"暗海晶石双层台阶"
+"tile.double_stone_slab2.prismarine.rough.name"	"Prismarine DoubleSlab"	"Original Translation"	"海晶石双层台阶"
+"tile.double_stone_slab2.purpur.name"	"Purpur Double Slab"	"Original Translation"	"紫珀双层台阶"
+"tile.double_stone_slab2.red_nether_brick.name"	"Red Nether Brick Double Slab"	"Original Translation"	"红色下界砖双层台阶"
 "tile.double_stone_slab2.red_sandstone.name"	"Red Sandstone Slab"	"Original Translation
 zh_CN: 红砂岩台阶
 zh_TW: 紅砂岩半磚"	"红砂岩双层台阶"
-"tile.double_stone_slab2.sandstone.smooth.name"	"Smooth Sandstone Double Slab"	"Original Translation"	""
-"tile.double_stone_slab3.andesite.name"	"Andesite Double Slab"	"Original Translation"	""
-"tile.double_stone_slab3.andesite.smooth.name"	"Polished Andesite Double Slab"	"Original Translation"	""
-"tile.double_stone_slab3.diorite.name"	"Diorite Double Slab"	"Original Translation"	""
-"tile.double_stone_slab3.diorite.smooth.name"	"Polished Diorite Double Slab"	"Original Translation"	""
-"tile.double_stone_slab3.end_brick.name"	"End Stone Brick Double Slab"	"Original Translation"	""
-"tile.double_stone_slab3.granite.name"	"Granite Double Slab"	"Original Translation"	""
-"tile.double_stone_slab3.granite.smooth.name"	"Polished Granite Double Slab"	"Original Translation"	""
-"tile.double_stone_slab3.red_sandstone.smooth.name"	"Smooth Red Sandstone Double Slab"	"Original Translation"	""
-"tile.double_stone_slab4.cut_red_sandstone.name"	"Cut Red Sandstone Double Slab"	"Original Translation"	""
-"tile.double_stone_slab4.cut_sandstone.name"	"Cut Sandstone Double Slab"	"Original Translation"	""
-"tile.double_stone_slab4.mossy_stone_brick.name"	"Mossy Stone Brick Double Slab"	"Original Translation"	""
-"tile.double_stone_slab4.smooth_quartz.name"	"Smooth Quartz Double Slab"	"Original Translation"	""
-"tile.double_stone_slab4.stone.name"	"Stone Double Slab"	"Original Translation"	""
-"tile.double_wooden_slab.acacia.name"	"Acacia Double Slab"	"Original Translation"	""
-"tile.double_wooden_slab.big_oak.name"	"Dark Oak Double Slab"	"Original Translation"	""
-"tile.double_wooden_slab.birch.name"	"Birch Double Slab"	"Original Translation"	""
-"tile.double_wooden_slab.jungle.name"	"Jungle Double Slab"	"Original Translation"	""
-"tile.double_wooden_slab.oak.name"	"Oak Double Slab"	"Original Translation"	""
-"tile.double_wooden_slab.spruce.name"	"Spruce Double Slab"	"Original Translation"	""
+"tile.double_stone_slab2.sandstone.smooth.name"	"Smooth Sandstone Double Slab"	"Original Translation"	"平滑砂岩双层台阶"
+"tile.double_stone_slab3.andesite.name"	"Andesite Double Slab"	"Original Translation"	"安山岩双层台阶"
+"tile.double_stone_slab3.andesite.smooth.name"	"Polished Andesite Double Slab"	"Original Translation"	"磨制安山岩双层台阶"
+"tile.double_stone_slab3.diorite.name"	"Diorite Double Slab"	"Original Translation"	"闪长岩双层台阶"
+"tile.double_stone_slab3.diorite.smooth.name"	"Polished Diorite Double Slab"	"Original Translation"	"磨制闪长岩双层台阶"
+"tile.double_stone_slab3.end_brick.name"	"End Stone Brick Double Slab"	"Original Translation"	"末地石砖双层台阶"
+"tile.double_stone_slab3.granite.name"	"Granite Double Slab"	"Original Translation"	"花岗岩双层台阶"
+"tile.double_stone_slab3.granite.smooth.name"	"Polished Granite Double Slab"	"Original Translation"	"磨制花岗岩双层台阶"
+"tile.double_stone_slab3.red_sandstone.smooth.name"	"Smooth Red Sandstone Double Slab"	"Original Translation"	"平滑红砂岩双层台阶"
+"tile.double_stone_slab4.cut_red_sandstone.name"	"Cut Red Sandstone Double Slab"	"Original Translation"	"切制红砂岩双层台阶"
+"tile.double_stone_slab4.cut_sandstone.name"	"Cut Sandstone Double Slab"	"Original Translation"	"切制砂岩双层台阶"
+"tile.double_stone_slab4.mossy_stone_brick.name"	"Mossy Stone Brick Double Slab"	"Original Translation"	"苔石砖双层台阶"
+"tile.double_stone_slab4.smooth_quartz.name"	"Smooth Quartz Double Slab"	"Original Translation"	"平滑石英双层台阶"
+"tile.double_stone_slab4.stone.name"	"Stone Double Slab"	"Original Translation"	"石头双层台阶"
+"tile.double_wooden_slab.acacia.name"	"Acacia Double Slab"	"Original Translation"	"金合欢木双层台阶"
+"tile.double_wooden_slab.big_oak.name"	"Dark Oak Double Slab"	"Original Translation"	"深色橡木双层台阶"
+"tile.double_wooden_slab.birch.name"	"Birch Double Slab"	"Original Translation"	"白桦木双层台阶"
+"tile.double_wooden_slab.jungle.name"	"Jungle Double Slab"	"Original Translation"	"丛林木双层台阶"
+"tile.double_wooden_slab.oak.name"	"Oak Double Slab"	"Original Translation"	"橡木双层台阶"
+"tile.double_wooden_slab.spruce.name"	"Spruce Double Slab"	"Original Translation"	"云杉木双层台阶"
 "tile.dragon_egg.name"	"Dragon Egg"	"Original Translation
 zh_CN: 龙蛋
 zh_TW: 龍蛋"	"龙蛋"
@@ -51228,7 +51228,7 @@ zh_CN: 铍
 zh_TW: 鈹"	"铍"
 "tile.element.bh.name"	"Bohrium"	"Original Translation
 zh_CN: Bohrium
-zh_TW: Bohrium"	"Bh"
+zh_TW: Bohrium"	"𬭛"
 "tile.element.bi.name"	"Bismuth"	"Original Translation
 zh_CN: 铋
 zh_TW: 鉍"	"铋"
@@ -51261,7 +51261,7 @@ zh_CN: 锔
 zh_TW: 鋦"	"锔"
 "tile.element.cn.name"	"Copernicium"	"Original Translation
 zh_CN: 鎶
-zh_TW: 鎶"	"Cn"
+zh_TW: 鎶"	"鿔"
 "tile.element.co.name"	"Cobalt"	"Original Translation
 zh_CN: 钴
 zh_TW: 鈷"	"钴"
@@ -51276,10 +51276,10 @@ zh_CN: 铜
 zh_TW: 銅"	"铜"
 "tile.element.db.name"	"Dubnium"	"Original Translation
 zh_CN: Dubnium
-zh_TW: Dubnium"	"Db"
+zh_TW: Dubnium"	"𬭊"
 "tile.element.ds.name"	"Darmstadtium"	"Original Translation
 zh_CN: 鐽
-zh_TW: 鐽"	"Ds"
+zh_TW: 鐽"	"𫟼"
 "tile.element.dy.name"	"Dysprosium"	"Original Translation
 zh_CN: 镝
 zh_TW: 鏑"	"镝"
@@ -51300,7 +51300,7 @@ zh_CN: 铁
 zh_TW: 鐵"	"铁"
 "tile.element.fl.name"	"Flerovium"	"Original Translation
 zh_CN: 鈇
-zh_TW: 鈇"	"Fl"
+zh_TW: 鈇"	"𫓧"
 "tile.element.fm.name"	"Fermium"	"Original Translation
 zh_CN: 镄
 zh_TW: 鐨"	"镄"
@@ -51363,7 +51363,7 @@ zh_CN: 镥
 zh_TW: 鎦"	"镥"
 "tile.element.lv.name"	"Livermorium"	"Original Translation
 zh_CN: 鉝
-zh_TW: 鉝"	"Lv"
+zh_TW: 鉝"	"𫟷"
 "tile.element.mc.name"	"Moscovium"	"Original Translation
 zh_CN: 镆
 zh_TW: 鏌"	"镆"
@@ -51381,7 +51381,7 @@ zh_CN: 钼
 zh_TW: 鉬"	"钼"
 "tile.element.mt.name"	"Meitnerium"	"Original Translation
 zh_CN: 䥑
-zh_TW: 䥑"	"Mt"
+zh_TW: 䥑"	"鿏"
 "tile.element.n.name"	"Nitrogen"	"Original Translation
 zh_CN: 氮
 zh_TW: 氮"	"氮"
@@ -51399,7 +51399,7 @@ zh_CN: 氖
 zh_TW: 氖"	"氖"
 "tile.element.nh.name"	"Nihonium"	"Original Translation
 zh_CN: 鉨
-zh_TW: 鉨"	"Nh"
+zh_TW: 鉨"	"鿭"
 "tile.element.ni.name"	"Nickel"	"Original Translation
 zh_CN: 镍
 zh_TW: 鎳"	"镍"
@@ -51414,7 +51414,7 @@ zh_CN: 氧
 zh_TW: 氧"	"氧"
 "tile.element.og.name"	"Oganesson"	"Original Translation
 zh_CN: Oganesson
-zh_TW: Oganesson"	"Og"
+zh_TW: Oganesson"	"鿫"
 "tile.element.os.name"	"Osmium"	"Original Translation
 zh_CN: 锇
 zh_TW: 鋨"	"锇"
@@ -51456,10 +51456,10 @@ zh_CN: 铼
 zh_TW: 錸"	"铼"
 "tile.element.rf.name"	"Rutherfordium"	"Original Translation
 zh_CN: 鑪
-zh_TW: 鑪"	"Rf"
+zh_TW: 鑪"	"𬬻"
 "tile.element.rg.name"	"Roentgenium"	"Original Translation
 zh_CN: 錀
-zh_TW: 錀"	"Rg"
+zh_TW: 錀"	"𬬭"
 "tile.element.rh.name"	"Rhodium"	"Original Translation
 zh_CN: 铑
 zh_TW: 銠"	"铑"
@@ -51483,7 +51483,7 @@ zh_CN: 硒
 zh_TW: 硒"	"硒"
 "tile.element.sg.name"	"Seaborgium"	"Original Translation
 zh_CN: Seaborgium
-zh_TW: Seaborgium"	"Sg"
+zh_TW: Seaborgium"	"𬭳"
 "tile.element.si.name"	"Silicon"	"Original Translation
 zh_CN: 硅
 zh_TW: 矽"	"硅"
@@ -51522,7 +51522,7 @@ zh_CN: 铥
 zh_TW: 銩"	"铥"
 "tile.element.ts.name"	"Tennessine"	"Original Translation
 zh_CN: Tennessine
-zh_TW: Tennessine"	"Ts"
+zh_TW: Tennessine"	"鿬"
 "tile.element.u.name"	"Uranium"	"Original Translation
 zh_CN: 铀
 zh_TW: 鈾"	"铀"
@@ -51568,8 +51568,8 @@ zh_TW: 終界石磚階梯"	"末地石砖楼梯"
 "tile.end_bricks.name"	"End Stone Bricks"	"Original Translation
 zh_CN: 末地石砖
 zh_TW: 終界石磚"	"末地石砖"
-"tile.end_gateway.name"	"End Gateway"	"Original Translation"	""
-"tile.end_portal.name"	"End Portal"	"Original Translation"	""
+"tile.end_gateway.name"	"End Gateway"	"Original Translation"	"末地折跃门"
+"tile.end_portal.name"	"End Portal"	"Original Translation"	"末地传送门"
 "tile.end_portal_frame.name"	"End Portal Frame"	"Original Translation
 zh_CN: 末地传送门框架
 zh_TW: 終界傳送門框架"	"末地传送门框架"
@@ -51627,7 +51627,7 @@ zh_TW: 外露的切製銅半磚"	"斑驳的切制铜台阶"
 "tile.exposed_cut_copper_stairs.name"	"Exposed Cut Copper Stairs"	"Original Translation
 zh_CN: 斑驳切制铜楼梯
 zh_TW: 外露的切製銅階梯"	"斑驳的切制铜楼梯"
-"tile.exposed_double_cut_copper_slab.name"	"Exposed Cut Copper Double Slab"	"Original Translation"	""
+"tile.exposed_double_cut_copper_slab.name"	"Exposed Cut Copper Double Slab"	"Original Translation"	"斑驳的切制铜双层台阶"
 "tile.exposed_lightning_rod.name"	"Exposed Lightning Rod"	"Original Translation
 zh_CN: 斑驳避雷针
 zh_TW: 外露避雷針"	"斑驳的避雷针"
@@ -51643,7 +51643,7 @@ zh_TW: 橡木柵欄門"	"橡木栅栏门"
 "tile.fire.name"	"Fire"	"Original Translation
 zh_CN: 火
 zh_TW: 火"	"火"
-"tile.fire_coral_wall_fan.name"	"Fire Coral Wall Fan"	"Original Translation"	""
+"tile.fire_coral_wall_fan.name"	"Fire Coral Wall Fan"	"Original Translation"	"墙上的火珊瑚扇"
 "tile.firefly_bush.name"	"Firefly Bush"	"Original Translation
 zh_CN: 萤火虫灌木
 zh_TW: 螢火蟲灌木叢"	"萤火虫灌木丛"
@@ -51781,11 +51781,11 @@ zh_CN: 黄色带釉陶瓦
 zh_TW: 黃色釉陶"	"黄色带釉陶瓦"
 "tile.glow_frame.name"	"Glow Frame"	"Original Translation
 zh_CN: 荧光物品展示框
-zh_TW: 發光物品框架"	""
+zh_TW: 發光物品框架"	"荧光物品展示框"
 "tile.glow_lichen.name"	"Glow Lichen"	"Original Translation
 zh_CN: 发光地衣
 zh_TW: 發光地衣"	"发光地衣"
-"tile.glowingobsidian.name"	"Glowing Obsidian"	"Original Translation"	""
+"tile.glowingobsidian.name"	"Glowing Obsidian"	"Original Translation"	"发光的黑曜石"
 "tile.glowstone.name"	"Glowstone"	"Original Translation
 zh_CN: 荧石
 zh_TW: 螢光石"	"荧石"
@@ -53553,7 +53553,7 @@ zh_TW: 蒼翠蛙光體"	"青翠蛙明灯"
 zh_CN: 藤蔓
 zh_TW: 藤蔓"	"藤蔓"
 "tile.wall_banner.name"	"Wall Banner"	"Original Translation"	"墙上的旗帜"
-"tile.wall_sign.name"	"Wall Sign"	"Original Translation"	"墙上的橡木告示牌"
+"tile.wall_sign.name"	"Wall Sign"	"Original Translation"	"墙上的告示牌"
 "tile.warped_button.name"	"Warped Button"	"Original Translation
 zh_CN: 诡异木按钮
 zh_TW: 扭曲蕈木按鈕"	"诡异木按钮"
@@ -53910,7 +53910,7 @@ zh_TW: 剝皮杉木塊"	"去皮云杉木"
 "tile.wooden_button.name"	"Oak Button"	"Original Translation
 zh_CN: 橡木按钮
 zh_TW: 橡木按鈕"	"橡木按钮"
-"tile.wooden_door.name"	"Wooden Door"	"Original Translation"	"橡木门"
+"tile.wooden_door.name"	"Wooden Door"	"Original Translation"	"木门"
 "tile.wooden_pressure_plate.name"	"Oak Pressure Plate"	"Original Translation
 zh_CN: 橡木压力板
 zh_TW: 橡木壓力板"	"橡木压力板"
