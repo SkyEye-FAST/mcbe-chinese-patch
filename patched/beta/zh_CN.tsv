@@ -1360,7 +1360,7 @@ zh_CN: 管理 iCloud
 zh_TW: 管理 iCloud"	"管理iCloud"
 "apple.iCloudNoSpace.message"	"You do not have enough iCloud space free to save your worlds properly. They might not be here next time you play Minecraft. Free up space on your iCloud account to make sure all of your worlds get saved."	"Original Translation
 zh_CN: 你的 iCloud 可用空间不足，无法妥当保存世界。下次你玩《我的世界》时，它们可能不存在了。请释放 iCloud 账户上的空间，确保所有世界保存完好。
-zh_TW: 你的 iCloud 可用空間不足，無法將世界妥善儲存下來，下回玩 Minecraft 的時候恐怕不復存在。請在 iCloud 帳戶下釋出空間，確保你所有的世界都會儲存下來。"	"你的iCloud可用空间不足，无法妥当保存世界。下次你玩Minecraft时，它们可能会消失。请在iCloud账户上腾出一些空间，确保所有世界都会保存下来。"
+zh_TW: 你的 iCloud 可用空間不足，無法將世界妥善儲存下來，下回玩 Minecraft 的時候恐怕不復存在。請在 iCloud 帳戶下釋出空間，確保你所有的世界都會儲存下來。"	"你的iCloud可用空间不足，无法妥当保存世界。下次你玩Minecraft时，它们可能会消失。请在iCloud账户上释放一些空间，确保所有世界都会保存下来。"
 "apple.iCloudSignInRequired.message"	"You need to be signed in to iCloud to play Minecraft. Go to your Apple TV settings and turn on iCloud."	"Original Translation
 zh_CN: 您必须登录 iCloud 才能玩《我的世界》。请转到 Apple TV 设置并打开 iCloud。
 zh_TW: 您需要登入 iCloud，才能玩 Minecraft。請前往 Apple TV 設定並開啟 iCloud。"	"你必须登录iCloud才能游玩Minecraft。请转到Apple TV设置并开启iCloud。"
@@ -1836,7 +1836,7 @@ zh_CN: 大小：%s
 zh_TW: 大小：%s"	"大小：%s"
 "chat.settings.fontSize.disabled"	"Size: Available with %s"	"Original Translation
 zh_CN: 大小：%s 时可用
-zh_TW: 大小：於 %s 提供"	"字号：字体为%s时可用"
+zh_TW: 大小：於 %s 提供"	"大小：为%s时可用"
 "chat.settings.lineSpacing"	"Line Spacing"	"Original Translation
 zh_CN: 行间距
 zh_TW: 行距"	"行间距"
