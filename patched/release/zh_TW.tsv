@@ -727,7 +727,7 @@ zh_CN: 夺取烈焰人的棒子
 zh_TW: 從烈焰使者手中獲得烈焰棒"	""
 "achievement.bookcase"	"Librarian"	"Original Translation
 zh_CN: 图书管理员
-zh_TW: 圖書館員"	""
+zh_TW: 圖書館員"	"圖書管理員"
 "achievement.bookcase.desc"	"Build some bookshelves to improve your enchantment table"	"Original Translation
 zh_CN: 建造一些书架来强化你的附魔台
 zh_TW: 在周圍放置書架，增強您的附魔台等級"	""
@@ -9103,13 +9103,13 @@ zh_CN: 水下速掘
 zh_TW: 水中速掘"	""
 "entity.allay.name"	"Allay"	"Original Translation
 zh_CN: 悦灵
-zh_TW: 亞萊"	""
+zh_TW: 亞萊"	"悅靈"
 "entity.area_effect_cloud.name"	"Area Effect Cloud"	"Original Translation
 zh_CN: 区域效果云雾
-zh_TW: 區域效果雲"	""
+zh_TW: 區域效果雲"	"藥水效果雲"
 "entity.armadillo.name"	"Armadillo"	"Original Translation
 zh_CN: 犰狳
-zh_TW: 犰狳"	""
+zh_TW: 犰狳"	"犰狳"
 "entity.armor_stand.name"	"Armor Stand"	"Original Translation
 zh_CN: 盔甲架
 zh_TW: 護甲座"	"盔甲座"
@@ -9118,43 +9118,43 @@ zh_CN: 箭
 zh_TW: 箭"	"箭矢"
 "entity.axolotl.name"	"Axolotl"	"Original Translation
 zh_CN: 美西螈
-zh_TW: 墨西哥鈍口螈"	""
+zh_TW: 墨西哥鈍口螈"	"六角恐龍"
 "entity.balloon.name"	"Balloon"	"Original Translation
 zh_CN: 气球
 zh_TW: 氣球"	""
 "entity.bat.name"	"Bat"	"Original Translation
 zh_CN: 蝙蝠
-zh_TW: 蝙蝠"	""
+zh_TW: 蝙蝠"	"蝙蝠"
 "entity.bee.name"	"Bee"	"Original Translation
 zh_CN: 蜜蜂
-zh_TW: 蜜蜂"	""
+zh_TW: 蜜蜂"	"蜜蜂"
 "entity.blaze.name"	"Blaze"	"Original Translation
 zh_CN: 烈焰人
-zh_TW: 烈焰使者"	""
+zh_TW: 烈焰使者"	"烈焰使者"
 "entity.boat.name"	"Boat"	"Original Translation
 zh_CN: 船
-zh_TW: 小船"	""
+zh_TW: 小船"	"船"
 "entity.bogged.name"	"Bogged"	"Original Translation
 zh_CN: 沼骸
-zh_TW: 沼澤骷髏"	""
+zh_TW: 沼澤骷髏"	"沼骸"
 "entity.breeze.name"	"Breeze"	"Original Translation
 zh_CN: 旋风人
-zh_TW: 微風"	""
+zh_TW: 微風"	"旋風使者"
 "entity.breeze_wind_charge_projectile.name"	"Wind Charge"	"Original Translation
 zh_CN: 风弹
 zh_TW: 風彈"	"風彈"
 "entity.camel.name"	"Camel"	"Original Translation
 zh_CN: 骆驼
-zh_TW: 駱駝"	""
+zh_TW: 駱駝"	"駱駝"
 "entity.cat.name"	"Cat"	"Original Translation
 zh_CN: 猫
-zh_TW: 小貓"	""
+zh_TW: 小貓"	"貓"
 "entity.cave_spider.name"	"Cave Spider"	"Original Translation
 zh_CN: 洞穴蜘蛛
-zh_TW: 洞穴蜘蛛"	""
+zh_TW: 洞穴蜘蛛"	"洞穴蜘蛛"
 "entity.chest_boat.name"	"Boat with Chest"	"Original Translation
 zh_CN: 运输船
-zh_TW: 附箱子的船"	""
+zh_TW: 附箱子的船"	"儲物箱船"
 "entity.chest_minecart.name"	"Minecart with Chest"	"Original Translation
 zh_CN: 运输矿车
 zh_TW: 運輸礦車"	"儲物箱礦車"
@@ -9163,253 +9163,253 @@ zh_CN: 带宝箱的的竹筏
 zh_TW: 附箱子的木筏"	""
 "entity.chicken.name"	"Chicken"	"Original Translation
 zh_CN: 鸡
-zh_TW: 雞"	""
+zh_TW: 雞"	"雞"
 "entity.cod.name"	"Cod"	"Original Translation
 zh_CN: 鳕鱼
-zh_TW: 鱈魚"	""
+zh_TW: 鱈魚"	"鱈魚"
 "entity.command_block_minecart.name"	"Minecart with Command Block"	"Original Translation
 zh_CN: 命令方块矿车
 zh_TW: 指令方塊礦車"	"指令方塊礦車"
 "entity.copper_golem.name"	"Copper Golem"	"Original Translation
 zh_CN: 铜傀儡
-zh_TW: 銅魔像"	""
+zh_TW: 銅魔像"	"銅魔像"
 "entity.cow.name"	"Cow"	"Original Translation
 zh_CN: 牛
-zh_TW: 乳牛"	""
+zh_TW: 乳牛"	"牛"
 "entity.creaking.name"	"Creaking"	"Original Translation
 zh_CN: 嘎枝
-zh_TW: 闇樹生物"	""
+zh_TW: 闇樹生物"	"嘎枝"
 "entity.creeper.name"	"Creeper"	"Original Translation
 zh_CN: 苦力怕
-zh_TW: 苦力怕"	""
+zh_TW: 苦力怕"	"苦力怕"
 "entity.dolphin.name"	"Dolphin"	"Original Translation
 zh_CN: 海豚
-zh_TW: 海豚"	""
+zh_TW: 海豚"	"海豚"
 "entity.donkey.name"	"Donkey"	"Original Translation
 zh_CN: 驴
-zh_TW: 驢"	""
+zh_TW: 驢"	"驢子"
 "entity.dragon_fireball.name"	"Dragon Fireball"	"Original Translation
 zh_CN: 末影龙火球
-zh_TW: 終界龍火球"	""
+zh_TW: 終界龍火球"	"龍炎彈"
 "entity.drowned.name"	"Drowned"	"Original Translation
 zh_CN: 溺尸
-zh_TW: 水鬼"	""
+zh_TW: 水鬼"	"沉屍"
 "entity.egg.name"	"Egg"	"Original Translation
 zh_CN: 鸡蛋
 zh_TW: 蛋"	"雞蛋"
 "entity.elder_guardian.name"	"Elder Guardian"	"Original Translation
 zh_CN: 远古守卫者
-zh_TW: 遠古深海守衛"	""
+zh_TW: 遠古深海守衛"	"遠古深海守衛"
 "entity.ender_crystal.name"	"Ender Crystal"	"Original Translation
 zh_CN: 末影水晶
 zh_TW: 終界水晶"	""
 "entity.ender_dragon.name"	"Ender Dragon"	"Original Translation
 zh_CN: 末影龙
-zh_TW: 終界龍"	""
+zh_TW: 終界龍"	"終界龍"
 "entity.ender_pearl.name"	"Ender Pearl"	"Original Translation
 zh_CN: 末影珍珠
 zh_TW: 終界珍珠"	"終界珍珠"
 "entity.enderman.name"	"Enderman"	"Original Translation
 zh_CN: 末影人
-zh_TW: 終界使者"	""
+zh_TW: 終界使者"	"終界使者"
 "entity.endermite.name"	"Endermite"	"Original Translation
 zh_CN: 末影螨
-zh_TW: 終界蟎"	""
+zh_TW: 終界蟎"	"終界蟎"
 "entity.evocation_fang.name"	"Evoker Fang"	"Original Translation
 zh_CN: 唤魔者尖牙
 zh_TW: 喚魔者毒牙"	""
 "entity.evocation_illager.name"	"Evoker"	"Original Translation
 zh_CN: 唤魔者
-zh_TW: 喚魔者"	""
+zh_TW: 喚魔者"	"喚魔者"
 "entity.eye_of_ender_signal.name"	"Eye of Ender"	"Original Translation
 zh_CN: 末影之眼
 zh_TW: 終界之眼"	"終界之眼"
 "entity.falling_block.name"	"Falling Block"	"Original Translation
 zh_CN: 下落的方块
-zh_TW: 掉落的方塊"	""
+zh_TW: 掉落的方塊"	"掉落的方塊"
 "entity.fireball.name"	"Fireball"	"Original Translation
 zh_CN: 火球
-zh_TW: 火球"	""
+zh_TW: 火球"	"火球"
 "entity.fireworks_rocket.name"	"Firework Rocket"	"Original Translation
 zh_CN: 焰火火箭
 zh_TW: 煙火火箭"	"煙火"
 "entity.fish.clownfish.name"	"Clownfish"	"Original Translation
 zh_CN: 海葵鱼
-zh_TW: 小丑魚"	""
+zh_TW: 小丑魚"	"小丑魚"
 "entity.fishing_hook.name"	"Fishing Hook"	"Original Translation
 zh_CN: 鱼钩
 zh_TW: 魚鉤"	""
 "entity.fox.name"	"Fox"	"Original Translation
 zh_CN: 狐狸
-zh_TW: 狐狸"	""
+zh_TW: 狐狸"	"狐狸"
 "entity.frog.name"	"Frog"	"Original Translation
 zh_CN: 青蛙
-zh_TW: 青蛙"	""
+zh_TW: 青蛙"	"青蛙"
 "entity.furnace_minecart.name"	"Minecart with Furnace"	"Original Translation
 zh_CN: 动力矿车
 zh_TW: 熔爐礦車"	"熔爐礦車"
 "entity.ghast.name"	"Ghast"	"Original Translation
 zh_CN: 恶魂
-zh_TW: 地獄幽靈"	""
+zh_TW: 地獄幽靈"	"地獄幽靈"
 "entity.glow_squid.name"	"Glow Squid"	"Original Translation
 zh_CN: 发光鱿鱼
-zh_TW: 發光烏賊"	""
+zh_TW: 發光烏賊"	"螢光魷魚"
 "entity.goat.name"	"Goat"	"Original Translation
 zh_CN: 山羊
-zh_TW: 山羊"	""
+zh_TW: 山羊"	"山羊"
 "entity.guardian.name"	"Guardian"	"Original Translation
 zh_CN: 守卫者
-zh_TW: 深海守衛"	""
+zh_TW: 深海守衛"	"深海守衛"
 "entity.happy_ghast.name"	"Happy Ghast"	"Original Translation
 zh_CN: 善念恶魂
-zh_TW: 快樂地獄幽靈"	""
+zh_TW: 快樂地獄幽靈"	"快樂幽靈"
 "entity.hoglin.name"	"Hoglin"	"Original Translation
 zh_CN: 疣猪兽
-zh_TW: 疣豬獸"	""
+zh_TW: 疣豬獸"	"豬布獸"
 "entity.hopper_minecart.name"	"Minecart with Hopper"	"Original Translation
 zh_CN: 漏斗矿车
 zh_TW: 漏斗礦車"	"漏斗礦車"
 "entity.horse.name"	"Horse"	"Original Translation
 zh_CN: 马
-zh_TW: 馬"	""
+zh_TW: 馬"	"馬"
 "entity.husk.name"	"Husk"	"Original Translation
 zh_CN: 尸壳
-zh_TW: 屍殼"	""
+zh_TW: 屍殼"	"屍殼"
 "entity.ice_bomb.name"	"Ice Bomb"	"Original Translation
 zh_CN: 冰弹
 zh_TW: 冰炸彈"	""
 "entity.iron_golem.name"	"Iron Golem"	"Original Translation
 zh_CN: 铁傀儡
-zh_TW: 鐵魔像"	""
+zh_TW: 鐵魔像"	"鐵魔像"
 "entity.item.name"	"Item"	"Original Translation
 zh_CN: 物品
-zh_TW: 物品"	""
+zh_TW: 物品"	"物品"
 "entity.leash_knot.name"	"Leash Knot"	"Original Translation
 zh_CN: 拴绳结
-zh_TW: 拴繩結"	""
+zh_TW: 拴繩結"	"拴繩結"
 "entity.lightning_bolt.name"	"Lightning Bolt"	"Original Translation
 zh_CN: 闪电
-zh_TW: 閃電"	""
+zh_TW: 閃電"	"閃電電流"
 "entity.lingering_potion.name"	"Lingering Potion"	"Original Translation
 zh_CN: 滞留药水
 zh_TW: 滯留藥水"	"滯留藥水"
 "entity.llama.name"	"Llama"	"Original Translation
 zh_CN: 羊驼
-zh_TW: 羊駝"	""
+zh_TW: 羊駝"	"駱馬"
 "entity.llama_spit.name"	"Llama Spit"	"Original Translation
 zh_CN: 羊驼口水
-zh_TW: 羊駝唾沫"	""
+zh_TW: 羊駝唾沫"	"駱馬唾液"
 "entity.magma_cube.name"	"Magma Cube"	"Original Translation
 zh_CN: 岩浆怪
-zh_TW: 熔岩怪"	""
+zh_TW: 熔岩怪"	"岩漿立方怪"
 "entity.minecart.name"	"Minecart"	"Original Translation
 zh_CN: 矿车
-zh_TW: 礦車"	""
+zh_TW: 礦車"	"礦車"
 "entity.mooshroom.name"	"Mooshroom"	"Original Translation
 zh_CN: 哞菇
-zh_TW: 哞菇"	""
+zh_TW: 哞菇"	"哞菇"
 "entity.moving_block.name"	"Moving Block"	"Original Translation
 zh_CN: 移动中的方块
 zh_TW: 移動方塊"	""
 "entity.mule.name"	"Mule"	"Original Translation
 zh_CN: 骡
-zh_TW: 騾"	""
+zh_TW: 騾"	"騾子"
 "entity.npc.name"	"Non Player Character"	"Original Translation
 zh_CN: 非玩家角色
 zh_TW: 非玩家角色"	""
 "entity.ocelot.name"	"Ocelot"	"Original Translation
 zh_CN: 豹猫
-zh_TW: 豹貓"	""
+zh_TW: 豹貓"	"山貓"
 "entity.painting.name"	"Painting"	"Original Translation
 zh_CN: 画
 zh_TW: 圖畫"	"繪畫"
 "entity.panda.name"	"Panda"	"Original Translation
 zh_CN: 熊猫
-zh_TW: 熊貓"	""
+zh_TW: 熊貓"	"貓熊"
 "entity.parrot.name"	"Parrot"	"Original Translation
 zh_CN: 鹦鹉
-zh_TW: 鸚鵡"	""
+zh_TW: 鸚鵡"	"鸚鵡"
 "entity.phantom.name"	"Phantom"	"Original Translation
 zh_CN: 幻翼
-zh_TW: 幻影"	""
+zh_TW: 幻影"	"夜魅"
 "entity.pig.name"	"Pig"	"Original Translation
 zh_CN: 猪
-zh_TW: 豬"	""
+zh_TW: 豬"	"豬"
 "entity.piglin.name"	"Piglin"	"Original Translation
 zh_CN: 猪灵
-zh_TW: 豬布林"	""
+zh_TW: 豬布林"	"豬布林"
 "entity.piglin_brute.name"	"Piglin Brute"	"Original Translation
 zh_CN: 猪灵蛮兵
-zh_TW: 豬布林野獸"	""
+zh_TW: 豬布林野獸"	"豬布林蠻兵"
 "entity.pillager.name"	"Pillager"	"Original Translation
 zh_CN: 掠夺者
-zh_TW: 劫掠者"	""
+zh_TW: 劫掠者"	"掠奪者"
 "entity.polar_bear.name"	"Polar Bear"	"Original Translation
 zh_CN: 北极熊
-zh_TW: 北極熊"	""
+zh_TW: 北極熊"	"北極熊"
 "entity.pufferfish.name"	"Pufferfish"	"Original Translation
 zh_CN: 河豚
 zh_TW: 河豚"	"河豚"
 "entity.rabbit.name"	"Rabbit"	"Original Translation
 zh_CN: 兔子
-zh_TW: 兔子"	""
+zh_TW: 兔子"	"兔子"
 "entity.ravager.name"	"Ravager"	"Original Translation
 zh_CN: 劫掠兽
-zh_TW: 劫毀獸"	""
+zh_TW: 劫毀獸"	"劫毀獸"
 "entity.salmon.name"	"Salmon"	"Original Translation
 zh_CN: 鲑鱼
-zh_TW: 鮭魚"	""
+zh_TW: 鮭魚"	"鮭魚"
 "entity.sheep.name"	"Sheep"	"Original Translation
 zh_CN: 羊
-zh_TW: 綿羊"	""
+zh_TW: 綿羊"	"綿羊"
 "entity.shulker.name"	"Shulker"	"Original Translation
 zh_CN: 潜影贝
-zh_TW: 界伏蚌"	""
+zh_TW: 界伏蚌"	"界伏蚌"
 "entity.shulker_bullet.name"	"Shulker Bullet"	"Original Translation
 zh_CN: 潜影贝子弹
-zh_TW: 界伏蚌子彈"	""
+zh_TW: 界伏蚌子彈"	"界伏彈"
 "entity.silverfish.name"	"Silverfish"	"Original Translation
 zh_CN: 蠹虫
-zh_TW: 蠹魚"	""
+zh_TW: 蠹魚"	"蠹魚"
 "entity.skeleton.name"	"Skeleton"	"Original Translation
 zh_CN: 骷髅
-zh_TW: 骷髏"	""
+zh_TW: 骷髏"	"骷髏"
 "entity.skeleton_horse.name"	"Skeleton Horse"	"Original Translation
 zh_CN: 骷髅马
-zh_TW: 骷髏馬"	""
+zh_TW: 骷髏馬"	"骷髏馬"
 "entity.slime.name"	"Slime"	"Original Translation
 zh_CN: 史莱姆
-zh_TW: 史萊姆"	""
+zh_TW: 史萊姆"	"史萊姆"
 "entity.small_fireball.name"	"Small Fireball"	"Original Translation
 zh_CN: 小火球
-zh_TW: 小火球"	""
+zh_TW: 小火球"	"小火球"
 "entity.sniffer.name"	"Sniffer"	"Original Translation
 zh_CN: 嗅探兽
-zh_TW: 嗅探者"	""
+zh_TW: 嗅探者"	"嗅探獸"
 "entity.snow_golem.name"	"Snow Golem"	"Original Translation
 zh_CN: 雪傀儡
-zh_TW: 雪魔像"	""
+zh_TW: 雪魔像"	"雪人"
 "entity.snowball.name"	"Snowball"	"Original Translation
 zh_CN: 雪球
 zh_TW: 雪球"	"雪球"
 "entity.spider.name"	"Spider"	"Original Translation
 zh_CN: 蜘蛛
-zh_TW: 蜘蛛"	""
+zh_TW: 蜘蛛"	"蜘蛛"
 "entity.splash_potion.name"	"Potion"	"Original Translation
 zh_CN: 药水
 zh_TW: 藥水"	"藥水"
 "entity.squid.name"	"Squid"	"Original Translation
 zh_CN: 鱿鱼
-zh_TW: 烏賊"	""
+zh_TW: 烏賊"	"魷魚"
 "entity.stray.name"	"Stray"	"Original Translation
 zh_CN: 流浪者
-zh_TW: 迷途骷髏"	""
+zh_TW: 迷途骷髏"	"流髑"
 "entity.strider.name"	"Strider"	"Original Translation
 zh_CN: 炽足兽
-zh_TW: 熾足獸"	""
+zh_TW: 熾足獸"	"熾足獸"
 "entity.tadpole.name"	"Tadpole"	"Original Translation
 zh_CN: 蝌蚪
-zh_TW: 蝌蚪"	""
+zh_TW: 蝌蚪"	"蝌蚪"
 "entity.thrown_trident.name"	"Trident"	"Original Translation
 zh_CN: 三叉戟
 zh_TW: 三叉戟"	"三叉戟"
@@ -9421,7 +9421,7 @@ zh_CN: TNT 矿车
 zh_TW: 炸藥礦車"	"TNT 礦車"
 "entity.trader_llama.name"	"Trader Llama"	"Original Translation
 zh_CN: 行商羊驼
-zh_TW: 商販羊駝"	""
+zh_TW: 商販羊駝"	"商駝"
 "entity.tripod_camera.name"	"Tripod Camera"	"Original Translation
 zh_CN: 三脚架摄像机
 zh_TW: 三腳架相機"	""
@@ -9430,49 +9430,49 @@ zh_CN: 热带鱼
 zh_TW: 熱帶魚"	"熱帶魚"
 "entity.turtle.name"	"Turtle"	"Original Translation
 zh_CN: 海龟
-zh_TW: 海龜"	""
+zh_TW: 海龜"	"海龜"
 "entity.unknown.name"	"Unknown"	"Original Translation
 zh_CN: 未知
 zh_TW: 未知"	""
 "entity.vex.name"	"Vex"	"Original Translation
 zh_CN: 恼鬼
-zh_TW: 維克絲"	""
+zh_TW: 維克絲"	"惱鬼"
 "entity.villager.armor"	"Armorer"	"Original Translation
 zh_CN: 盔甲匠
-zh_TW: 製甲師"	""
+zh_TW: 製甲師"	"製甲師"
 "entity.villager.butcher"	"Butcher"	"Original Translation
 zh_CN: 屠夫
-zh_TW: 肉販"	""
+zh_TW: 肉販"	"屠夫"
 "entity.villager.cartographer"	"Cartographer"	"Original Translation
 zh_CN: 制图师
-zh_TW: 製圖師"	""
+zh_TW: 製圖師"	"製圖師"
 "entity.villager.cleric"	"Cleric"	"Original Translation
 zh_CN: 牧师
-zh_TW: 神職人員"	""
+zh_TW: 神職人員"	"神職人員"
 "entity.villager.farmer"	"Farmer"	"Original Translation
 zh_CN: 农民
-zh_TW: 農夫"	""
+zh_TW: 農夫"	"農夫"
 "entity.villager.fisherman"	"Fisherman"	"Original Translation
 zh_CN: 渔夫
-zh_TW: 漁夫"	""
+zh_TW: 漁夫"	"漁夫"
 "entity.villager.fletcher"	"Fletcher"	"Original Translation
 zh_CN: 制箭师
-zh_TW: 製箭師"	""
+zh_TW: 製箭師"	"製箭師"
 "entity.villager.leather"	"Leatherworker"	"Original Translation
 zh_CN: 皮匠
-zh_TW: 皮匠"	""
+zh_TW: 皮匠"	"皮匠"
 "entity.villager.librarian"	"Librarian"	"Original Translation
 zh_CN: 图书管理员
 zh_TW: 圖書館員"	""
 "entity.villager.mason"	"Mason"	"Original Translation
 zh_CN: 石匠
-zh_TW: 石匠"	""
+zh_TW: 石匠"	"石匠"
 "entity.villager.name"	"Villager"	"Original Translation
 zh_CN: 村民
-zh_TW: 村民"	""
+zh_TW: 村民"	"村民"
 "entity.villager.shepherd"	"Shepherd"	"Original Translation
 zh_CN: 牧羊人
-zh_TW: 牧羊人"	""
+zh_TW: 牧羊人"	"牧羊人"
 "entity.villager.tool"	"Tool Smith"	"Original Translation
 zh_CN: 工具匠
 zh_TW: 工具鍛工"	""
@@ -9487,55 +9487,55 @@ zh_CN: 村民
 zh_TW: 村民"	""
 "entity.vindicator.name"	"Vindicator"	"Original Translation
 zh_CN: 卫道士
-zh_TW: 衛道士"	""
+zh_TW: 衛道士"	"衛道士"
 "entity.wandering_trader.name"	"Wandering Trader"	"Original Translation
 zh_CN: 流浪商人
-zh_TW: 流浪商人"	""
+zh_TW: 流浪商人"	"流浪商人"
 "entity.warden.name"	"Warden"	"Original Translation
 zh_CN: 监守者
-zh_TW: 循聲守衛"	""
+zh_TW: 循聲守衛"	"伏守者"
 "entity.wind_charge_projectile.name"	"Wind Charge"	"Original Translation
 zh_CN: 风弹
 zh_TW: 風彈"	"風彈"
 "entity.witch.name"	"Witch"	"Original Translation
 zh_CN: 女巫
-zh_TW: 女巫"	""
+zh_TW: 女巫"	"女巫"
 "entity.wither.name"	"Wither"	"Original Translation
 zh_CN: 凋灵
-zh_TW: 凋靈"	""
+zh_TW: 凋靈"	"凋零怪"
 "entity.wither_skeleton.name"	"Wither Skeleton"	"Original Translation
 zh_CN: 凋灵骷髅
-zh_TW: 凋靈骷髏"	""
+zh_TW: 凋靈骷髏"	"凋零骷髏"
 "entity.wither_skull.name"	"Wither Skull"	"Original Translation
 zh_CN: 凋灵头颅
-zh_TW: 凋靈骷髏頭顱"	""
+zh_TW: 凋靈骷髏頭顱"	"凋零頭顱"
 "entity.wither_skull_dangerous.name"	"Wither Skull"	"Original Translation
 zh_CN: 凋灵头颅
 zh_TW: 凋靈骷髏頭顱"	""
 "entity.wolf.name"	"Wolf"	"Original Translation
 zh_CN: 狼
-zh_TW: 狼"	""
+zh_TW: 狼"	"狼"
 "entity.xp_bottle.name"	"Bottle o' Enchanting"	"Original Translation
 zh_CN: 附魔之瓶
 zh_TW: 拋出的經驗瓶"	"經驗瓶"
 "entity.xp_orb.name"	"Experience Orb"	"Original Translation
 zh_CN: 经验球
-zh_TW: 經驗球"	""
+zh_TW: 經驗球"	"經驗球"
 "entity.zoglin.name"	"Zoglin"	"Original Translation
 zh_CN: 僵尸疣猪兽
-zh_TW: 殭屍疣豬獸"	""
+zh_TW: 殭屍疣豬獸"	"豬屍獸"
 "entity.zombie.name"	"Zombie"	"Original Translation
 zh_CN: 僵尸
-zh_TW: 殭屍"	""
+zh_TW: 殭屍"	"殭屍"
 "entity.zombie_horse.name"	"Zombie Horse"	"Original Translation
 zh_CN: 僵尸马
-zh_TW: 殭屍馬"	""
+zh_TW: 殭屍馬"	"殭屍馬"
 "entity.zombie_pigman.name"	"Zombified Piglin"	"Original Translation
 zh_CN: 僵尸猪灵
-zh_TW: 殭屍豬布林"	""
+zh_TW: 殭屍豬布林"	"殭屍化豬布林"
 "entity.zombie_villager.name"	"Zombie Villager"	"Original Translation
 zh_CN: 僵尸村民
-zh_TW: 殭屍村民"	""
+zh_TW: 殭屍村民"	"殭屍村民"
 "entity.zombie_villager_v2.name"	"Zombie Villager"	"Original Translation
 zh_CN: 怪人村民
 zh_TW: 殭屍村民"	""
@@ -24352,7 +24352,7 @@ zh_CN: 您还可以将雕刻过的南瓜戴在头上。这不会给予您任何 
 zh_TW: 您也可以把雕刻過的南瓜戴在頭上。這麼做雖然不會增加任何 :armor:，卻能讓終界使者不會因為您盯著它們瞧而發飆。"	""
 "howtoplay.armorStand"	"Armor Stand"	"Original Translation
 zh_CN: 盔甲架
-zh_TW: 護甲座"	""
+zh_TW: 護甲座"	"盔甲座"
 "howtoplay.armorStand.header.1"	"Outfitting"	"Original Translation
 zh_CN: 装备
 zh_TW: 放置護甲"	""
@@ -25078,7 +25078,7 @@ zh_CN: 世界中的所有末影箱都互相关联。您可从任一末影箱内�
 zh_TW: 世界中所有終界箱都連在一起，放在這種箱子裡的物品，也可以在其他終界箱中取用。不過，每個玩家在終界箱裡看到的物品都會不同。這能讓玩家在世界中任何終界箱存放物品並在其他地點的終界箱取得存放物。"	""
 "howtoplay.eyeOfEnder"	"Eye of Ender"	"Original Translation
 zh_CN: 末影之眼
-zh_TW: 終界之眼"	""
+zh_TW: 終界之眼"	"終界之眼"
 "howtoplay.eyeOfEnder.text.1"	"Eyes of Ender are mysteriously connected to the End and will behave strangely when used."	"Original Translation
 zh_CN: 末影之眼与末地神秘相连，在使用时表现得非常奇怪。
 zh_TW: 終界之眼與終界有著神秘未知的關聯，使用時會發生奇怪的效果。"	""
@@ -25120,7 +25120,7 @@ zh_CN: 焰火
 zh_TW: 煙火"	""
 "howtoplay.fireworks.header.1"	"Firework Rocket"	"Original Translation
 zh_CN: 焰火火箭
-zh_TW: 煙火火箭"	""
+zh_TW: 煙火火箭"	"煙火"
 "howtoplay.fireworks.header.2"	"Firework Stars"	"Original Translation
 zh_CN: 焰火之星
 zh_TW: 煙火星"	""
@@ -26419,7 +26419,7 @@ zh_CN: 弩
 zh_TW: 十字弓"	"弩"
 "howtoplay.weapons.header.4"	"Trident"	"Original Translation
 zh_CN: 三叉戟
-zh_TW: 三叉戟"	""
+zh_TW: 三叉戟"	"三叉戟"
 "howtoplay.weapons.header.5"	"Enchanted Weapons"	"Original Translation
 zh_CN: 附魔武器
 zh_TW: 附魔武器"	""
@@ -30553,7 +30553,7 @@ zh_CN: 氧化铜门
 zh_TW: 氧化銅門"	"氧化的銅門"
 "item.painting.name"	"Painting"	"Original Translation
 zh_CN: 画
-zh_TW: 圖畫"	""
+zh_TW: 圖畫"	"繪畫"
 "item.pale_oak_door.name"	"Pale Oak Door"	"Original Translation
 zh_CN: 苍白橡木门
 zh_TW: 蒼白橡木門"	"蒼白橡木門"
@@ -31378,10 +31378,10 @@ zh_CN: 黄色
 zh_TW: 黃色"	""
 "item.tropicalSchoolAnemone.name"	"Anemone"	"Original Translation
 zh_CN: 海葵鱼
-zh_TW: 小丑魚"	""
+zh_TW: 小丑魚"	"海葵魚"
 "item.tropicalSchoolBlackTang.name"	"Black Tang"	"Original Translation
 zh_CN: 黑刺尾鲷
-zh_TW: 黑面粗皮鯛"	""
+zh_TW: 黑面粗皮鯛"	"長鼻高鰭刺尾魚"
 "item.tropicalSchoolBlueDory.name"	"Blue Dory"	"Original Translation
 zh_CN: 拟刺尾鲷
 zh_TW: 擬刺尾鯛"	""
@@ -31396,49 +31396,49 @@ zh_CN: 海葵鱼
 zh_TW: 小丑魚"	""
 "item.tropicalSchoolCottonCandyBetta.name"	"Cotton Candy Betta"	"Original Translation
 zh_CN: 五彩搏鱼
-zh_TW: 棉花糖鬥魚"	""
+zh_TW: 棉花糖鬥魚"	"五彩搏魚"
 "item.tropicalSchoolDottyback.name"	"Dottyback"	"Original Translation
 zh_CN: 拟雀鲷
-zh_TW: 擬雀鯛"	""
+zh_TW: 擬雀鯛"	"紅黃繡雀鯛"
 "item.tropicalSchoolEmperorRedSnapper.name"	"Emperor Red Snapper"	"Original Translation
 zh_CN: 川纹笛鲷
-zh_TW: 川紋笛鯛"	""
+zh_TW: 川紋笛鯛"	"川紋笛鯛"
 "item.tropicalSchoolGoatfish.name"	"Goatfish"	"Original Translation
 zh_CN: 拟羊鱼
-zh_TW: 秋姑魚"	""
+zh_TW: 秋姑魚"	"鬚鯛"
 "item.tropicalSchoolMoorishIdol.name"	"Moorish Idol"	"Original Translation
 zh_CN: 镰鱼
-zh_TW: 馬夫魚"	""
+zh_TW: 馬夫魚"	"角蝶魚"
 "item.tropicalSchoolOrnateButterfly.name"	"Ornate Butterfly"	"Original Translation
 zh_CN: 华丽蝴蝶鱼
 zh_TW: 紅獅子魚"	""
 "item.tropicalSchoolParrotfish.name"	"Parrotfish"	"Original Translation
 zh_CN: 鹦嘴鱼
-zh_TW: 鸚嘴魚"	""
+zh_TW: 鸚嘴魚"	"鸚哥魚"
 "item.tropicalSchoolQueenAngelFish.name"	"Queen Angel Fish"	"Original Translation
 zh_CN: 额斑刺蝶鱼
 zh_TW: 皇后神仙魚"	""
 "item.tropicalSchoolRedCichlid.name"	"Red Cichlid"	"Original Translation
 zh_CN: 红慈鲷
-zh_TW: 紅鯛"	""
+zh_TW: 紅鯛"	"赤慈鯛"
 "item.tropicalSchoolRedLippedBlenny.name"	"Red Lipped Blenny"	"Original Translation
 zh_CN: 红唇鳚鱼
-zh_TW: 紅色唇指魚"	""
+zh_TW: 紅色唇指魚"	"紅唇真蛇䲁"
 "item.tropicalSchoolRedSnapper.name"	"Red Snapper"	"Original Translation
 zh_CN: 红边笛鲷
-zh_TW: 紅鯛魚"	""
+zh_TW: 紅鯛魚"	"西大西洋笛鯛"
 "item.tropicalSchoolThreadfin.name"	"Threadfin"	"Original Translation
 zh_CN: 马鲅
-zh_TW: 午仔魚"	""
+zh_TW: 午仔魚"	"馬鮁"
 "item.tropicalSchoolTomatoClown.name"	"Tomato Clown"	"Original Translation
 zh_CN: 白条双锯鱼
 zh_TW: 白條小丑魚"	""
 "item.tropicalSchoolTriggerfish.name"	"Triggerfish"	"Original Translation
 zh_CN: 鳞鲀
-zh_TW: 剝皮魚"	""
+zh_TW: 剝皮魚"	"鱗魨"
 "item.tropicalSchoolYellowTang.name"	"Yellow Tang"	"Original Translation
 zh_CN: 黄刺尾鲷
-zh_TW: 黃面粗皮鯛"	""
+zh_TW: 黃面粗皮鯛"	"黃高鰭刺尾魚"
 "item.tropicalSchoolYellowtailParrot.name"	"Yellowtail Parrot"	"Original Translation
 zh_CN: 黄尾鹦嘴鱼
 zh_TW: 黃尾鸚嘴魚"	""
@@ -31957,7 +31957,7 @@ zh_CN: 告示牌
 zh_TW: 牌子"	""
 "joincode.icon_text.16"	"Potion"	"Original Translation
 zh_CN: 药水
-zh_TW: 藥水"	""
+zh_TW: 藥水"	"藥水"
 "joincode.icon_text.17"	"Map"	"Original Translation
 zh_CN: 地图
 zh_TW: 地圖"	""
@@ -34579,7 +34579,7 @@ zh_CN: 名称
 zh_TW: 名稱"	""
 "npcscreen.npc"	"NPC"	"Original Translation
 zh_CN: NPC
-zh_TW: NPC"	""
+zh_TW: NPC"	"NPC"
 "npcscreen.requiresop"	"OP Required"	"Original Translation
 zh_CN: 所需的操作
 zh_TW: 須有管理員權限"	""
@@ -38094,7 +38094,7 @@ zh_CN: 努尔
 zh_TW: 諾爾"	""
 "persona.player_name.title"	"Player"	"Original Translation
 zh_CN: 玩家
-zh_TW: 玩家"	""
+zh_TW: 玩家"	"玩家"
 "persona.preview.emote"	"Play Emote"	"Original Translation
 zh_CN: 播放表情
 zh_TW: 播放表情符號"	""

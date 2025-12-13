@@ -6035,7 +6035,7 @@ zh_CN: 极限模式
 zh_TW: 硬核模式"	"极限模式"
 "createWorldScreen.keepInventory"	"Keep Inventory"	"Original Translation
 zh_CN: 保留物品栏
-zh_TW: 保留物品欄"	"死亡后保留物品栏"
+zh_TW: 保留物品欄"	"保留物品栏"
 "createWorldScreen.levelName"	"Name"	"Original Translation
 zh_CN: 名称
 zh_TW: 名稱"	"名称"
@@ -7817,7 +7817,7 @@ zh_CN: 《我的世界》黄绿色
 zh_TW: Minecraft 淡黃綠色"	""
 "dr.color.minecraft_magenta"	"Minecraft Magenta"	"Original Translation
 zh_CN: 《我的世界》品红色
-zh_TW: Minecraft 洋紅色"	"品红色"
+zh_TW: Minecraft 洋紅色"	"Minecraft品红色"
 "dr.color.minecraft_orange"	"Minecraft Orange"	"Original Translation
 zh_CN: 《我的世界》橙色
 zh_TW: Minecraft 橙色"	""
@@ -9345,7 +9345,7 @@ zh_CN: 行商羊驼
 zh_TW: 商販駱馬"	"行商羊驼"
 "entity.tripod_camera.name"	"Tripod Camera"	"Original Translation
 zh_CN: 三脚架摄像机
-zh_TW: 三腳架相機"	"摄像机"
+zh_TW: 三腳架相機"	"脚架摄像机"
 "entity.tropicalfish.name"	"Tropical Fish"	"Original Translation
 zh_CN: 热带鱼
 zh_TW: 熱帶魚"	"热带鱼"
@@ -9438,7 +9438,7 @@ zh_CN: 狼
 zh_TW: 狼"	"狼"
 "entity.xp_bottle.name"	"Bottle o' Enchanting"	"Original Translation
 zh_CN: 附魔之瓶
-zh_TW: 經驗瓶"	"掷出的附魔之瓶"
+zh_TW: 經驗瓶"	"附魔之瓶"
 "entity.xp_orb.name"	"Experience Orb"	"Original Translation
 zh_CN: 经验球
 zh_TW: 經驗球"	"经验球"
@@ -27316,10 +27316,10 @@ zh_CN: 箭
 zh_TW: 箭"	"箭"
 "item.axolotlAdultBodySingle.name"	"Adult %1$s Axolotl"	"Original Translation
 zh_CN: 成年 %1$s 美西螈
-zh_TW: 成年 %1$s 鈍口螈"	"美西螈桶§o§7\n成年\n%1$s"
+zh_TW: 成年 %1$s 鈍口螈"	"成年%1$s美西螈桶"
 "item.axolotlBabyBodySingle.name"	"Baby %1$s Axolotl"	"Original Translation
 zh_CN: 幼年 %1$s 美西螈
-zh_TW: 幼年 %1$s 鈍口螈"	"美西螈桶§o§7\n幼年\n%1$s"
+zh_TW: 幼年 %1$s 鈍口螈"	"幼年%1$s美西螈桶"
 "item.axolotlColorBlue.name"	"Blue"	"Original Translation
 zh_CN: 蓝色
 zh_TW: 藍色"	"蓝色"
@@ -29680,7 +29680,7 @@ zh_CN: 美西螈桶
 zh_TW: 鈍口螈桶"	"美西螈桶"
 "item.bucketCustomFish.name"	"Bucket of"	"Original Translation
 zh_CN: 桶装
-zh_TW: 桶"	"§f"
+zh_TW: 桶"	""
 "item.bucketFish.name"	"Bucket of Cod"	"Original Translation
 zh_CN: 桶装鳕鱼
 zh_TW: 鱈魚桶"	"鳕鱼桶"
