@@ -5735,6 +5735,7 @@ tile.unpowered_repeater.name=未激活的红石中继器
 tile.warped_hanging_sign.name=悬挂式诡异木告示牌
 
 ## resource_packs/oreui/texts/en_US.lang
+hbui.Achievements.inProgressEmptyTitle=这里什么也没有！
 hbui.CreateNewWorld.advanced.tileDropsTitle=方块掉落
 hbui.CreateNewWorld.cheats.educationTitle=教育版功能
 hbui.CreateNewWorld.scriptingCoding.codeBuilderTitle=代码构建器
