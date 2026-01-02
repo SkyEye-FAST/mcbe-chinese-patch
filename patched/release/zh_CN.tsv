@@ -11002,7 +11002,7 @@ zh_CN: 目前没有进行中的成就。
 zh_TW: 目前沒有進行中的成就。"	""
 "hbui.Achievements.inProgressEmptyTitle"	"Nothing on your plate... right now!"	"Original Translation
 zh_CN: 目前没有任何待处理的...成就！
-zh_TW: 目前你沒有需要做的事...！"	""
+zh_TW: 目前你沒有需要做的事...！"	"这里什么也没有！"
 "hbui.Achievements.loading"	"Fetching achievements..."	"Original Translation
 zh_CN: 正在获取成就...
 zh_TW: 正在擷取成就…"	""
