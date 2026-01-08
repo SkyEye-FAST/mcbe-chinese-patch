@@ -1196,6 +1196,7 @@ zh_TW: 修剪"
 action.interact.sit	Sit	"Original Translation
 zh_CN: 坐
 zh_TW: 坐"
+action.interact.spawn_egg_baby	Spawn Baby	Original Translation
 action.interact.stand	Stand	"Original Translation
 zh_CN: 站
 zh_TW: 站"
@@ -5762,9 +5763,13 @@ zh_TW: 進階"
 createWorldScreen.alwaysDay	Always Day	"Original Translation
 zh_CN: 终为白日
 zh_TW: 永為白晝"
+createWorldScreen.alwaysDay.description	Night never comes, it is always noon	Original Translation
+createWorldScreen.alwaysDay.name	Always day	Original Translation
 createWorldScreen.bonusChest	Bonus Chest	"Original Translation
 zh_CN: 奖励箱
 zh_TW: 獎勵箱"
+createWorldScreen.bonusChest.description	Spawn close to a chest with items to get you started	Original Translation
+createWorldScreen.bonusChest.name	Bonus chest	Original Translation
 createWorldScreen.cheatSettings	Cheats	"Original Translation
 zh_CN: 作弊
 zh_TW: 作弊"
@@ -5801,6 +5806,8 @@ zh_TW: 是否刪除世界的玩家資料？"
 createWorldScreen.commandblocksenabled	Command Blocks Enabled	"Original Translation
 zh_CN: 命令方块已开启
 zh_TW: 指令方塊已啟用"
+createWorldScreen.commandblocksenabled.description	These are special programmable blocks	Original Translation
+createWorldScreen.commandblocksenabled.name	Command blocks enabled	Original Translation
 createWorldScreen.create	Create	"Original Translation
 zh_CN: 创建
 zh_TW: 建立"
@@ -5810,6 +5817,8 @@ zh_TW: 在 Realms 伺服器上建立"
 createWorldScreen.daylightcycle	Do Daylight Cycle	"Original Translation
 zh_CN: 开启昼夜更替
 zh_TW: 執行日夜交替"
+createWorldScreen.daylightcycle.description	Turn off to freeze the day/night cycle in its current phase	Original Translation
+createWorldScreen.daylightcycle.name	Normal Day/Night Cycle	Original Translation
 createWorldScreen.defaultName	My World	"Original Translation
 zh_CN: 我的世界
 zh_TW: 我的世界"
@@ -5873,9 +5882,13 @@ zh_TW: 上傳並遊玩"
 createWorldScreen.educationtoggle	Education Edition	"Original Translation
 zh_CN: Education Edition
 zh_TW: Education Edition"
+createWorldScreen.educationtoggle.description	Try out your world with Education edition’s toolset	Original Translation
+createWorldScreen.educationtoggle.name	Education edition	Original Translation
 createWorldScreen.entitiesdroploot	Entities Drop Loot	"Original Translation
 zh_CN: 实体掉落战利品
 zh_TW: 實體掉落拾取"
+createWorldScreen.entitiesdroploot.description	Non-mob entities, like paintings, drop items when destroyed	Original Translation
+createWorldScreen.entitiesdroploot.name	Entities drop loot	Original Translation
 createWorldScreen.experimentalCreatorCameraFeatures	Experimental Creator Camera Features	"Original Translation
 zh_CN: 创建者照相机的实验性功能
 zh_TW: 創作者攝影機的實驗性功能"
@@ -5906,6 +5919,8 @@ zh_TW: 重新調整村民交易的平衡性"
 createWorldScreen.experimentalVillagerTradesRebalanceDescription	Contains updated trades for villagers for the purpose of rebalancing	"Original Translation
 zh_CN: 包含为村民更新的贸易，以便重新平衡
 zh_TW: 包含村民交易更新，旨在重新調整平衡性"
+createWorldScreen.experimentalY2026Drop1	Drop 1 of 2026	Original Translation
+createWorldScreen.experimentalY2026Drop1Description	Make lots of tiny friends with a whole cast of cute new baby mobs	Original Translation
 createWorldScreen.experimentalgameplay	Experiments	"Original Translation
 zh_CN: 实验性游戏内容
 zh_TW: 實驗性內容"
@@ -5915,7 +5930,10 @@ zh_TW: §7試玩正在開發的功能。世界創建後無法關閉。"
 createWorldScreen.fireSpreads	Fire Spreads	"Original Translation
 zh_CN: 火焰蔓延
 zh_TW: 火會蔓延"
+createWorldScreen.fireSpreads.description	Might want to build with stone	Original Translation
+createWorldScreen.fireSpreads.name	Fire spreads	Original Translation
 createWorldScreen.flatWorld	Flat world	Original Translation
+createWorldScreen.flatWorld.description	A flat world to build up or mine down into	Original Translation
 createWorldScreen.game.settings	Game Settings	"Original Translation
 zh_CN: 游戏设置
 zh_TW: 遊戲設定"
@@ -5934,9 +5952,18 @@ zh_TW: 無限資源。無損傷。飛行。即使稍後切換為生存模式也�
 createWorldScreen.gameMode.default	Default Game Mode	"Original Translation
 zh_CN: 默认游戏模式
 zh_TW: 預設遊戲模式"
+createWorldScreen.gameMode.default.description	Select a game mode for players entering your world	Original Translation
+createWorldScreen.gameMode.default.name	Default game mode	Original Translation
+createWorldScreen.gameMode.description.adventure	Explore special worlds and play by the rules of their creator.	Original Translation
+createWorldScreen.gameMode.description.creative	Create, build, and explore without limits. You can fly, have endless materials, and can’t be hurt by monsters.	Original Translation
+createWorldScreen.gameMode.description.serverDefault	Whatever the default game mode is… that's what you get.	Original Translation
+createWorldScreen.gameMode.description.spectator	Fly around and observe without interacting with the world or being seen.	Original Translation
+createWorldScreen.gameMode.description.survival	Explore a mysterious world where you build, collect, craft, and fight monsters.	Original Translation
 createWorldScreen.gameMode.personal	Personal Game Mode	"Original Translation
 zh_CN: 个人游戏模式
 zh_TW: 個人遊戲模式"
+createWorldScreen.gameMode.personal.description	Select your preferred game mode	Original Translation
+createWorldScreen.gameMode.personal.name	Personal game mode	Original Translation
 createWorldScreen.gameMode.serverDefault	Default	"Original Translation
 zh_CN: 默认
 zh_TW: 預設"
@@ -5979,42 +6006,63 @@ zh_TW: 要重設 Realm 嗎？"
 createWorldScreen.immediaterespawn	Immediate Respawn	"Original Translation
 zh_CN: 立即重生
 zh_TW: 立即生成"
+createWorldScreen.immediaterespawn.description	Skip “You died!” menu and respawn immediately	Original Translation
+createWorldScreen.immediaterespawn.name	Immediate respawn	Original Translation
 createWorldScreen.isHardcore	Hardcore mode	"Original Translation
 zh_CN: 极限模式
 zh_TW: 硬核模式"
+createWorldScreen.isHardcore.description	You can’t respawn if you die. Good luck! You’ll need it.	Original Translation
 createWorldScreen.keepInventory	Keep Inventory	"Original Translation
 zh_CN: 保留物品栏
 zh_TW: 保留物品欄"
+createWorldScreen.keepInventory.description	Keep all items in the inventory when you die	Original Translation
+createWorldScreen.keepInventory.name	Keep inventory	Original Translation
 createWorldScreen.levelName	Name	"Original Translation
 zh_CN: 名称
 zh_TW: 名稱"
 createWorldScreen.levelSeed	Seed	"Original Translation
 zh_CN: 种子
 zh_TW: 種子"
+createWorldScreen.levelSeed.copy	Copy seed	Original Translation
+createWorldScreen.levelSeed.description	A mysterious series of numbers used to create your world	Original Translation
+createWorldScreen.levelSeed.notification	Copied to clipboard	Original Translation
 createWorldScreen.locatorBar	Locator bar	"Original Translation
 zh_CN: 定位栏
 zh_TW: 定位列"
+createWorldScreen.locatorBar.description	Shows the direction of nearby players in the world	Original Translation
 createWorldScreen.mobLoot	Mob Loot	"Original Translation
 zh_CN: 生物战利品
 zh_TW: 生物戰利品"
+createWorldScreen.mobLoot.description	Mobs drop items when killed	Original Translation
+createWorldScreen.mobLoot.name	Mob loot	Original Translation
 createWorldScreen.mobSpawn	Mob Spawning	"Original Translation
 zh_CN: 生物生成
 zh_TW: 生物重生"
+createWorldScreen.mobSpawn.description	Turn off to prevent mobs from spawning	Original Translation
+createWorldScreen.mobSpawn.name	Mob spawn normally	Original Translation
 createWorldScreen.mobgriefing	Mob Griefing	"Original Translation
 zh_CN: 生物破坏
 zh_TW: 生物惡意破壞"
+createWorldScreen.mobgriefing.description	Mobs can break blocks and interfere with the environment	Original Translation
+createWorldScreen.mobgriefing.name	Mob griefing	Original Translation
 createWorldScreen.multiplayer.settings	Multiplayer Settings	"Original Translation
 zh_CN: 多人游戏设置
 zh_TW: 多人遊戲設定"
 createWorldScreen.naturalregeneration	Natural Regeneration	"Original Translation
 zh_CN: 自然生命恢复
 zh_TW: 自然再生"
+createWorldScreen.naturalregeneration.description	Gain or lose health based on your hunger	Original Translation
+createWorldScreen.naturalregeneration.name	Natural regeneration	Original Translation
 createWorldScreen.playerSleep	Beds Work	"Original Translation
 zh_CN: 床有效
 zh_TW: 床舖有效"
+createWorldScreen.playerSleep.description	Sleeping in bed at night will skip to morning	Original Translation
+createWorldScreen.playerSleep.name	Skip night by sleeping	Original Translation
 createWorldScreen.playerSleepPercentage	Players needed to skip night	"Original Translation
 zh_CN: 需要跳过夜晚的玩家
 zh_TW: 跳過夜晚所需的玩家人數"
+createWorldScreen.playerSleepPercentage.description	Percentage of players that must be in bed to skip to morning	Original Translation
+createWorldScreen.playerSleepPercentage.name	Required sleeping players	Original Translation
 createWorldScreen.playerSleepPercentageDescription	How many players must be in bed to skip the night?	"Original Translation
 zh_CN: 必须有多少名玩家躺在床上才能跳过夜晚？
 zh_TW: 需要多少玩家在床舖上才能跳過夜晚？"
@@ -6030,21 +6078,31 @@ zh_TW: 正在重設 Realm..."
 createWorldScreen.pvp	Friendly Fire	"Original Translation
 zh_CN: 友军伤害
 zh_TW: 友方誤傷"
+createWorldScreen.pvp.description	Players can hurt each other	Original Translation
+createWorldScreen.pvp.name	Friendly fire	Original Translation
 createWorldScreen.randomtickspeed	Random Tick Speed	"Original Translation
 zh_CN: 随机刻速度
 zh_TW: 隨機刻速度"
+createWorldScreen.randomtickspeed.description	Changes the speed of the world and everything in it (max 4096)	Original Translation
+createWorldScreen.randomtickspeed.name	Tick Speed	Original Translation
 createWorldScreen.randomtickspeed.reset	Reset Random Tick Speed	"Original Translation
 zh_CN: 重置随机刻速度
 zh_TW: 重設隨機刻速度"
 createWorldScreen.recipesUnlock	Recipes Unlock	"Original Translation
 zh_CN: 配方解锁
 zh_TW: 配方解鎖"
+createWorldScreen.recipesUnlock.description	Collect materials to automatically unlock recipes	Original Translation
+createWorldScreen.recipesUnlock.name	Recipes unlocking	Original Translation
 createWorldScreen.respawnRadius	Respawn Radius	"Original Translation
 zh_CN: 重生半径
 zh_TW: 重生半徑"
+createWorldScreen.respawnRadius.description	Randomly respawn somewhere within this many blocks of where you died (max 128)	Original Translation
+createWorldScreen.respawnRadius.name	Respawn radius in blocks	Original Translation
 createWorldScreen.respawnblocksexplode	Respawn Blocks Explode	"Original Translation
 zh_CN: 重生方块爆炸
 zh_TW: 起始方塊爆炸"
+createWorldScreen.respawnblocksexplode.description	Respawn anchors and beds can explode if poorly placed	Original Translation
+createWorldScreen.respawnblocksexplode.name	Respawn blocks explode	Original Translation
 createWorldScreen.seed.desc	Enter a seed to generate the same terrain again. Leave blank for a random world.	"Original Translation
 zh_CN: 输入种子再次生成相同的地形。为随机世界留下空白。
 zh_TW: 輸入種子，再度產生相同的地形。留白會隨機挑選世界。"
@@ -6058,27 +6116,39 @@ zh_TW: %s 個區塊"
 createWorldScreen.showCoordinates	Show Coordinates	"Original Translation
 zh_CN: 显示坐标
 zh_TW: 顯示座標"
+createWorldScreen.showCoordinates.description	Display your current position at all times	Original Translation
+createWorldScreen.showCoordinates.name	Show coordinates	Original Translation
 createWorldScreen.showDaysPlayed	Show Days Played	"Original Translation
 zh_CN: 显示游玩的天数
 zh_TW: 顯示遊玩天數"
+createWorldScreen.showDaysPlayed.description	Number of in-game days that have passed	Original Translation
+createWorldScreen.showDaysPlayed.name	Show days played	Original Translation
 createWorldScreen.showbordereffect	Show Border Effect	"Original Translation
 zh_CN: 显示边框效果
 zh_TW: 顯示邊界效果"
 createWorldScreen.startWithMap	Starting Map	"Original Translation
 zh_CN: 初始地图
 zh_TW: 起始地圖"
+createWorldScreen.startWithMap.description	Spawn with a blank map to explore your world	Original Translation
+createWorldScreen.startWithMap.name	Starting map	Original Translation
 createWorldScreen.tileDrops	Tile Drops	"Original Translation
 zh_CN: 方块掉落
 zh_TW: 磚塊掉落"
+createWorldScreen.tileDrops.description	Blocks drop in the spot or tile where they’re broken. When off, blocks are simply destroyed.	Original Translation
+createWorldScreen.tileDrops.name	Tile drops	Original Translation
 createWorldScreen.tntexplodes	TNT Explodes	"Original Translation
 zh_CN: TNT 爆炸
 zh_TW: TNT 會爆炸"
+createWorldScreen.tntexplodes.description	Red box goes boom	Original Translation
+createWorldScreen.tntexplodes.name	TNT explodes	Original Translation
 createWorldScreen.trustPlayers	Trust Players	"Original Translation
 zh_CN: 信任玩家
 zh_TW: 信任玩家"
 createWorldScreen.weathercycle	Weather Cycle	"Original Translation
 zh_CN: 天气更替
 zh_TW: 天氣循環"
+createWorldScreen.weathercycle.description	Like rain, snow, and thunderstorms	Original Translation
+createWorldScreen.weathercycle.name	Normal weather cycle	Original Translation
 createWorldScreen.worldManagement	World Management	"Original Translation
 zh_CN: 世界管理
 zh_TW: 世界管理"
@@ -7974,6 +8044,8 @@ zh_TW: 這是目前的角色"
 dr.label.current_skin	This is your current Skin	"Original Translation
 zh_CN: 这是您当前的皮肤
 zh_TW: 這是目前的外觀"
+dr.label.failed_to_load_appearance	Failed to load appearance	Original Translation
+dr.label.loading_appearance	Loading appearance	Original Translation
 dr.left_arm	Left Arm	"Original Translation
 zh_CN: 左臂
 zh_TW: 左臂"
@@ -8196,39 +8268,6 @@ zh_TW: 天頂貢獻將取代地平線貢獻的相對高度。"
 editor.agfx.atmosphericScattering.horizonBlendStops.tooltip	How the atmosphere is divided up.	"Original Translation
 zh_CN: 大气分层方式。
 zh_TW: 大氣層如何劃分。"
-editor.agfx.atmosphericScattering.lighting.ambient.tooltip	Ambient controls how surfaces are lit when there are no other sensible light sources available.	"Original Translation
-zh_CN: 环境光用于控制无其他可察觉的光源时，物体表面的光照方式。
-zh_TW: 環境光控制在缺乏其他可偵測光源時，表面的照明方式。"
-editor.agfx.atmosphericScattering.lighting.directionalLights.flash.tooltip	Flash allows for the changing the color of the End light flash.	"Original Translation
-zh_CN: 闪烁允许更改末地光闪烁的颜色。
-zh_TW: 閃光效果允許變更終末光效閃光的顏色。"
-editor.agfx.atmosphericScattering.lighting.directionalLights.orbital.color.tooltip	The RGB color that the sun/moon contributes to direct surface lighting: supports RGB array or HEX string.	"Original Translation
-zh_CN: 太阳/月亮对直接地表光照所贡献的 RGB 颜色：支持 RGB 数组或 HEX 字符串。
-zh_TW: 太陽/月亮對直接表面照明貢獻的 RGB 色彩：支援 RGB 陣列或 HEX 字串。"
-editor.agfx.atmosphericScattering.lighting.directionalLights.orbital.illuminance.tooltip	How bright the surface is: measured in lux (lx).	"Original Translation
-zh_CN: 表面亮度：单位为勒克丝 (lx)。
-zh_TW: 表面有多亮：以勒克斯 (lx) 為單位測量。"
-editor.agfx.atmosphericScattering.lighting.directionalLights.orbital.moon.tooltip	The settings to configure the light properties of the moon.	"Original Translation
-zh_CN: 用于配置月亮光源属性的设置。
-zh_TW: 設定月亮光照屬性的設定。"
-editor.agfx.atmosphericScattering.lighting.directionalLights.orbital.orbitalOffset.tooltip	The rotational offset of the sun and moon from their standard orbital axis: measured in degrees.	"Original Translation
-zh_CN: 太阳和月亮绕标准轨道轴的旋转偏移量：单位为度。
-zh_TW: 太陽和月亮相對於其標準軌道軸的旋轉偏移量：以度為單位測量。"
-editor.agfx.atmosphericScattering.lighting.directionalLights.orbital.sun.tooltip	The settings to configure the light properties of the sun.	"Original Translation
-zh_CN: 用于配置太阳光源属性的设置。
-zh_TW: 設定太陽光照屬性的設定。"
-editor.agfx.atmosphericScattering.lighting.directionalLights.orbital.tooltip	Orbital contains properties pertaining to the sun and the moon.	"Original Translation
-zh_CN: 轨道包含与太阳和月亮有关的属性。
-zh_TW: 「軌道」包含與太陽和月亮相關的屬性。"
-editor.agfx.atmosphericScattering.lighting.directionalLights.tooltip	The Directional Lights is where you configure the properties of the celestial bodies in Minecraft. Directional Lights are split into 2 sections: Orbital and Flash.	"Original Translation
-zh_CN: 方向性光源可用于配置 Minecraft 中天体的属性。方向性光源分为 2 个部分：轨道和闪烁。
-zh_TW: 「定向光源」是您設定 Minecraft 中天體屬性的地方。定向光源分為兩部分：軌道和閃光。"
-editor.agfx.atmosphericScattering.lighting.emissive.tooltip	Emissive allows for control over the desaturation of emissve light sources.	"Original Translation
-zh_CN: 自发光允许控制自发光光源的去饱和度。
-zh_TW: 「自發光」允許控制自發光源的去飽和度。"
-editor.agfx.atmosphericScattering.lighting.sky.tooltip	Sky allows for control of properties of the sky's contribution as a light source.	"Original Translation
-zh_CN: 天空光允许控制天空作为光源的贡献属性。
-zh_TW: 天空效果讓您能夠控制天空作為光源時的屬性貢獻。"
 editor.agfx.atmosphericScattering.moonMieStrength.tooltip	The strength of the moon's Mie scattering.	"Original Translation
 zh_CN: 月亮米氏散射的强度。
 zh_TW: 月亮米氏散射的強度。"
@@ -8276,6 +8315,19 @@ editor.agfx.cubemap.lighting.atmosScatteringEnabled.tooltip	True if atmospheric 
 editor.agfx.cubemap.lighting.dirLightContribution.tooltip	The amount of directional light.	Original Translation
 editor.agfx.cubemap.lighting.skyLightContribution.tooltip	The amount of sky ambient light.	Original Translation
 editor.agfx.cubemap.lighting.volScatteringEnabled.tooltip	True if volumetric scattering should be applied. Recommended when skybox contains clouds.	Original Translation
+editor.agfx.lighting.ambient.color.tooltip	The RGB color that the ambient light contributes to direct surface lighting: supports RGB array or HEX string.	Original Translation
+editor.agfx.lighting.ambient.illuminance.tooltip	How bright the surface is: measured in lux (lx).	Original Translation
+editor.agfx.lighting.ambient.tooltip	Ambient controls how surfaces are lit when there are no other sensible light sources available.	Original Translation
+editor.agfx.lighting.directionalLights.flash.tooltip	Flash allows for the changing the color of the End light flash.	Original Translation
+editor.agfx.lighting.directionalLights.orbital.color.tooltip	The RGB color that the sun/moon contributes to direct surface lighting: supports RGB array or HEX string.	Original Translation
+editor.agfx.lighting.directionalLights.orbital.illuminance.tooltip	How bright the surface is: measured in lux (lx).	Original Translation
+editor.agfx.lighting.directionalLights.orbital.moon.tooltip	The settings to configure the light properties of the moon.	Original Translation
+editor.agfx.lighting.directionalLights.orbital.orbitalOffset.tooltip	The rotational offset of the sun and moon from their standard orbital axis: measured in degrees.	Original Translation
+editor.agfx.lighting.directionalLights.orbital.sun.tooltip	The settings to configure the light properties of the sun.	Original Translation
+editor.agfx.lighting.directionalLights.orbital.tooltip	Orbital contains properties pertaining to the sun and the moon.	Original Translation
+editor.agfx.lighting.directionalLights.tooltip	The Directional Lights is where you configure the properties of the celestial bodies in Minecraft. Directional Lights are split into 2 sections: Orbital and Flash.	Original Translation
+editor.agfx.lighting.emissive.tooltip	Emissive allows for control over the desaturation of emissve light sources.	Original Translation
+editor.agfx.lighting.sky.tooltip	Sky allows for control of properties of the sky's contribution as a light source.	Original Translation
 editor.agfx.pbrfallback.Items.tooltip	PBR fallbacks for Items.	"Original Translation
 zh_CN: 用于物品的 PBR 回退。
 zh_TW: 物品的 PBR 後備設定。"
@@ -8606,6 +8658,7 @@ zh_TW: 發生錯誤。請再試一次或聯絡你的 IT 管理員。"
 edu.servers_screen.generic_error_title	Server Error	"Original Translation
 zh_CN: 服务器错误
 zh_TW: 伺服器錯誤"
+edu.servers_screen.new	NEW	Original Translation
 edu.servers_screen.play	PLAY	"Original Translation
 zh_CN: 开始探索
 zh_TW: 播放"
@@ -10635,7 +10688,7 @@ zh_TW: 成就詳細資訊畫面"
 hbui.AchievementDetailsRoute.viewReward	View reward	"Original Translation
 zh_CN: 查看奖励
 zh_TW: 查看獎勵"
-hbui.AchievementDisabledModal.behaviorPacks	A behavior pack is activated	"Original Translation
+hbui.AchievementDisabledModal.behaviorPacks	An external behavior pack was activated	"Original Translation
 zh_CN: 行为包已激活
 zh_TW: 已啟用行為套件"
 hbui.AchievementDisabledModal.cheatsEnabled	Cheats are enabled	"Original Translation
@@ -14349,12 +14402,19 @@ zh_TW: 重設世界失敗"
 hbui.EditRealmWorld.ErrorModals.select	Select	"Original Translation
 zh_CN: 选择
 zh_TW: 選取"
+hbui.EditRealmWorld.ProfanityWarning.continue	Continue	Original Translation
+hbui.EditRealmWorld.ProfanityWarning.message	A pack you have applied contains a name and/or description that does not comply with our community standards. Some players may not be able to see the name and/or description.	Original Translation
+hbui.EditRealmWorld.ProfanityWarning.messageItem.description	Description: %1$s	Original Translation
+hbui.EditRealmWorld.ProfanityWarning.messageItem.name	Name: %1$s	Original Translation
+hbui.EditRealmWorld.ProfanityWarning.messageItem.title	Other players will see “%1$s” as	Original Translation
+hbui.EditRealmWorld.ProfanityWarning.title	Profanity warning	Original Translation
 hbui.EditRealmWorld.banner.closed	Closed	"Original Translation
 zh_CN: 已关闭
 zh_TW: 已關閉"
 hbui.EditRealmWorld.banner.expired	Expired	"Original Translation
 zh_CN: 已过期
 zh_TW: 已過期"
+hbui.EditRealmWorld.general.fileChangesApplied	Settings changes are applied when the world is running on the server	Original Translation
 hbui.EditRealmWorld.general.fileDetails	Size: %1$s - Last save: %2$s	"Original Translation
 zh_CN: 大小：%1$s - 上次保存时间：%2$s
 zh_TW: 尺寸：%1$s - 上次儲存時間：%2$s"
@@ -14370,6 +14430,7 @@ zh_TW: 重設世界"
 hbui.EditRealmWorld.general.resettingModal	Resetting world	"Original Translation
 zh_CN: 正在重置世界
 zh_TW: 正在重設世界"
+hbui.EditRealmWorld.general.saveChangesModal.message	Saved changes are applied when the world is running on the server.	Original Translation
 hbui.EditRealmWorld.optOutButton	Go back to old design	"Original Translation
 zh_CN: 返回旧设计
 zh_TW: 回到舊設計"
@@ -16234,7 +16295,7 @@ zh_TW: 發生錯誤"
 hbui.ExportWorld.error.incorrectWorldID.title	You can not export a world that does not exist	"Original Translation
 zh_CN: 您不能导出不存在的世界
 zh_TW: 您不能匯出不存在的世界"
-hbui.ExportWorld.error.unknownError.title	Something went wrong. Please try again later	"Original Translation
+hbui.ExportWorld.error.unknownError.title	Something went wrong. Please try again later.	"Original Translation
 zh_CN: 发生错误。请稍后再试
 zh_TW: 發生問題，請稍後再試。"
 hbui.FirstTimeSignInRoute.createAccountPrompt	Don't have a Microsoft account? Create one now - for free!	"Original Translation
@@ -17386,6 +17447,8 @@ zh_TW: 選取"
 hbui.NewPlayerPathRoute.Mode.survivalTitle	Survival	"Original Translation
 zh_CN: 生存
 zh_TW: 生存"
+hbui.NewPlayerPathRoute.Mode.survivalTutorialDescription	Take on a mysterious and enchanting world with in-game guidance and support.	Original Translation
+hbui.NewPlayerPathRoute.Mode.survivalTutorialTitle	Tutorial	Original Translation
 hbui.NewPlayerPathRoute.Mode.title	Game Mode	"Original Translation
 zh_CN: 游戏模式
 zh_TW: 遊戲模式"
@@ -17488,6 +17551,11 @@ zh_TW: 準備好遊玩"
 hbui.NewPlayerPathRoute.TouchControlSelectionRoute.skip	Skip	"Original Translation
 zh_CN: 跳过
 zh_TW: 略過"
+hbui.NewPlayerPathRoute.Tutorial.body.paragraph1	We’re in the early stages of creating this feature and would love your feedback.	Original Translation
+hbui.NewPlayerPathRoute.Tutorial.body.paragraph2	Fill out the survey below to help us make Minecraft even more fun and engaging for new players!	Original Translation
+hbui.NewPlayerPathRoute.Tutorial.footer.proceedButton	Play Survival	Original Translation
+hbui.NewPlayerPathRoute.Tutorial.footer.surveyButton	Answer survey	Original Translation
+hbui.NewPlayerPathRoute.Tutorial.title	Help design tutorial world	Original Translation
 hbui.NoInternetModal.button	Close	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"
@@ -17810,6 +17878,10 @@ zh_TW: 搜尋玩家"
 hbui.PartyInviteListGroup.titleWithLength	%1$s (%2$s)	"Original Translation
 zh_CN: %1$s (%2$s)
 zh_TW: %1$s (%2$s)"
+hbui.PartyJoinLANWorldModal.cancel	Go back	Original Translation
+hbui.PartyJoinLANWorldModal.confirm	Join world	Original Translation
+hbui.PartyJoinLANWorldModal.message	This world is only available to LAN players. Your party will not be able to join automatically.	Original Translation
+hbui.PartyJoinLANWorldModal.title	Your party cannot join this world	Original Translation
 hbui.PartyRemovePlayerModal.cancel	Back	Original Translation
 hbui.PartyRemovePlayerModal.checkboxTitle	Block %1$s from your party?	Original Translation
 hbui.PartyRemovePlayerModal.confirm	Remove	Original Translation
@@ -17862,7 +17934,7 @@ zh_CN: 已收到邀请 (%1$s)
 zh_TW: 收到的邀請 (%1$s)"
 hbui.PartyUnsupportedWorldModal.cancel	Go back	Original Translation
 hbui.PartyUnsupportedWorldModal.confirm	Leave party	Original Translation
-hbui.PartyUnsupportedWorldModal.message	Realms and Servers are not enabled for parties.	Original Translation
+hbui.PartyUnsupportedWorldModal.message	Realms, Servers, and some other types of worlds are not enabled for parties.	Original Translation
 hbui.PartyUnsupportedWorldModal.title	You cannot come here with your party yet	Original Translation
 hbui.PartyWorldCapacityModal.cancel	Go back	Original Translation
 hbui.PartyWorldCapacityModal.confirm	Join world	Original Translation
@@ -18105,7 +18177,7 @@ zh_TW: 告訴我們您對這個新設計的意見！"
 hbui.PlayScreen.designPreviewTitle	Welcome to a design preview!	"Original Translation
 zh_CN: 欢迎观看设计预览！
 zh_TW: 歡迎使用設計預覽！"
-hbui.PlayScreen.errorOnLoadingText	Something went wrong. Please try again later	"Original Translation
+hbui.PlayScreen.errorOnLoadingText	Something went wrong. Please try again later.	"Original Translation
 zh_CN: 发生错误。请稍后再试
 zh_TW: 發生問題，請稍後再試。"
 hbui.PlayScreen.errorOnLoadingTitle	%1$s couldn't load	"Original Translation
@@ -18153,19 +18225,19 @@ zh_TW: LAN 世界已顯示"
 hbui.PlayScreen.friendsDrawerShortcut	Press %1$s to open or close friends	"Original Translation
 zh_CN: 按 %1$s 打开或关闭好友列表
 zh_TW: 按 %1$s 以開啟或關閉好友"
-hbui.PlayScreen.genericError.realmDetails.description	Something went wrong. Please try again later	"Original Translation
+hbui.PlayScreen.genericError.realmDetails.description	Something went wrong. Please try again later.	"Original Translation
 zh_CN: 发生错误。请稍后再试
 zh_TW: 發生問題，請稍後再試。"
 hbui.PlayScreen.genericError.realmDetails.title	Realm couldn't load	"Original Translation
 zh_CN: Realm 无法加载
 zh_TW: 無法載入 Realm"
-hbui.PlayScreen.genericError.realms.description	Something went wrong. Please try again later	"Original Translation
+hbui.PlayScreen.genericError.realms.description	Something went wrong. Please try again later.	"Original Translation
 zh_CN: 发生错误。请稍后再试
 zh_TW: 發生問題，請稍後再試。"
 hbui.PlayScreen.genericError.realms.title	Realms couldn't load	"Original Translation
 zh_CN: Realms 无法加载
 zh_TW: 無法載入 Realms"
-hbui.PlayScreen.genericError.servers.description	Something went wrong. Please try again later	"Original Translation
+hbui.PlayScreen.genericError.servers.description	Something went wrong. Please try again later.	"Original Translation
 zh_CN: 发生错误。请稍后再试
 zh_TW: 發生問題，請稍後再試。"
 hbui.PlayScreen.genericError.servers.title	Servers couldn't load	"Original Translation
@@ -18671,7 +18743,7 @@ zh_TW: %1$s 個人遊玩"
 hbui.PlayScreen.serverTab.ServerDescription.personPlaying	%1$s person playing	"Original Translation
 zh_CN: %1$s 人在玩
 zh_TW: %1$s 個人遊玩"
-hbui.PlayScreen.serverTab.ServerDescription.title	Server description	"Original Translation
+hbui.PlayScreen.serverTab.ServerDescription.title	Description	"Original Translation
 zh_CN: 服务器描述
 zh_TW: 伺服器說明"
 hbui.PlayScreen.serverTab.ServerDescription.unavailablePing	Unavailable ping	"Original Translation
@@ -20135,12 +20207,14 @@ zh_TW: 載入中..."
 hbui.Realms.LoadingModals.loadingRealmsStories	Loading Realms Stories...	"Original Translation
 zh_CN: 正在加载 Realms Stories...
 zh_TW: 正在載入 Realms Stories..."
+hbui.Realms.RealmsHub.Banner.RealmsClosed	Realm is temporarily closed. Re-open in Realm Settings.	Original Translation
 hbui.Realms.RealmsHub.RealmHub	Realm Hub	"Original Translation
 zh_CN: Realm Hub
 zh_TW: Realm Hub"
 hbui.Realms.RealmsHub.RealmHubHeader	%1$s Hub	"Original Translation
 zh_CN: %1$s Hub
 zh_TW: %1$s Hub"
+hbui.Realms.RealmsHub.RealmNav.AdminLog	Admin log	Original Translation
 hbui.Realms.RealmsHub.RealmNav.Community	Community	"Original Translation
 zh_CN: 社区
 zh_TW: 社群"
@@ -20183,6 +20257,60 @@ hbui.Realms.RealmsHub.Settings.RealmsInfo.RealmDescription.hint	Let your Realm m
 hbui.Realms.RealmsHub.Settings.RealmsInfo.RealmDescription.placeholder	Add description here	Original Translation
 hbui.Realms.RealmsHub.Settings.RealmsInfo.RealmDescription.title	Realm description	Original Translation
 hbui.Realms.RealmsHub.Settings.RealmsInfo.RealmName.title	Realm name	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.CloseModal.body.p1	Closing the Realm will prevent play. You can open it again at any time. Anyone currently playing will be disconnected.	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.CloseModal.body.p2	Do you want to close the Realm?	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.CloseModal.cancel	Cancel	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.CloseModal.closeRealm	Close Realm	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.CloseModal.title	Close Realm?	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.CloseRealm.Button.Close	Temporarily close Realm	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.CloseRealm.Button.Open	Open Realm	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.CloseRealm.Description.p1	You can temporarily close your Realm, preventing play while you make adjustments. Open it back up when you’re ready.	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.CloseRealm.Description.p2	This does not cancel your Realms Subscription.	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.CloseRealm.Title	Need to make changes without disruption?	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.Dropdown.Desciption	Changes to server region will be applied on next restart of the server.	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.Dropdown.Tag	This will require the Realm to restart	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.Dropdown.Title	Server region preference	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.Header	Server settings	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.enumeration	%1$s of %2$s	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.group	Group	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.lowPing.body.p1	While hosting in this region it’s likely you’ll experience lag due to a slow connection.	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.lowPing.body.p2	Other players on this Realm may have a better experience, depending on their connection strength and physical location.	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.lowPing.close	Close	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.lowPing.doNotShowAgain	Don’t show this message again	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.lowPing.title	Slow connection	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.ownerWarning	These settings apply to all members of this Realm.	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.playerWarning	These settings are set by the owner and apply to all members of this Realm.	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.AustraliaEast	New South Wales, Australia	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.AustraliaSoutheast	Victoria, Australia	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.BrazilSouth	Brazil	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.CanadaCentral	Toronto	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.CentralIndia	India	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.CentralUs	Iowa, USA	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.EastAsia	Hong Kong	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.EastUs	Virginia, USA	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.EastUs2	North Carolina, USA	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.FranceCentral	France	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.JapanEast	Eastern Japan	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.JapanWest	Western Japan	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.KoreaCentral	South Korea	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.MexicoCentral	Mexico City	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.NorthCentralUs	Illinois, USA	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.NorthEurope	Ireland	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.SouthAfricaNorth	South Africa	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.SouthCentralUs	Texas, USA	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.SoutheastAsia	Singapore	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.SwedenCentral	Sweden	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.UAENorth	United Arab Emirates (UAE)	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.UKSouth	Southern England	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.WestCentralUS	Utah, USA	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.WestEurope	Netherlands	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.WestUs	California, USA	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.WestUs2	Washington, USA	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.firstToJoin	Automatic (first to join session)	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.owner	Automatic (Realm owner connection)	Original Translation
+hbui.Realms.RealmsHub.Settings.Server.preferredRegions.ownerSelected	Automatic,	Original Translation
+hbui.Realms.RealmsHub.Settings.enumeration	%1$s of %2$s	Original Translation
+hbui.Realms.RealmsHub.Settings.select	Select	Original Translation
 hbui.Realms.RealmsHub.SlotsScreen.Active	Active	Original Translation
 hbui.Realms.RealmsHub.SlotsScreen.AddWorld	Add world	Original Translation
 hbui.Realms.RealmsHub.SlotsScreen.GameMode.adventure	Adventure	Original Translation
@@ -20192,6 +20320,27 @@ hbui.Realms.RealmsHub.SlotsScreen.GameMode.spectator	Spectator	Original Translat
 hbui.Realms.RealmsHub.SlotsScreen.GameMode.survival	Survival	Original Translation
 hbui.Realms.RealmsHub.SlotsScreen.GameMode.unknown	Unknown	Original Translation
 hbui.Realms.RealmsHub.SlotsScreen.fileDetails	%1$s %2$s	Original Translation
+hbui.Realms.RealmsHub.adminLog.invite_accepted	%1$s accepted invitation	Original Translation
+hbui.Realms.RealmsHub.adminLog.invite_link_added	%1$s added invite link	Original Translation
+hbui.Realms.RealmsHub.adminLog.invite_link_changed	%1$s changed invite link	Original Translation
+hbui.Realms.RealmsHub.adminLog.invite_link_removed	%1$s removed invite link	Original Translation
+hbui.Realms.RealmsHub.adminLog.invite_link_used	%1$s joined via invite link	Original Translation
+hbui.Realms.RealmsHub.adminLog.member_banned	%1$s banned %2$s	Original Translation
+hbui.Realms.RealmsHub.adminLog.member_invited	%1$s added %2$s	Original Translation
+hbui.Realms.RealmsHub.adminLog.member_permission_changed	%1$s changed %2$s to %3$s	Original Translation
+hbui.Realms.RealmsHub.adminLog.member_removed	%1$s removed %2$s	Original Translation
+hbui.Realms.RealmsHub.adminLog.member_role_changed	%1$s changed %2$s to %3$s	Original Translation
+hbui.Realms.RealmsHub.adminLog.pack_added	%1$s activated %2$s on %3$s	Original Translation
+hbui.Realms.RealmsHub.adminLog.pack_removed	%1$s deactivated %2$s on %3$s	Original Translation
+hbui.Realms.RealmsHub.adminLog.realms_events_changed	%1$s changed Realm events to %2$s	Original Translation
+hbui.Realms.RealmsHub.adminLog.server_region_preference_changed	%1$s changed server region preference	Original Translation
+hbui.Realms.RealmsHub.adminLog.slot_changed	%1$s switched %2$s with %3$s	Original Translation
+hbui.Realms.RealmsHub.adminLog.slot_renamed	%1$s renamed %2$s to %3$s	Original Translation
+hbui.Realms.RealmsHub.adminLog.slot_replaced	%1$s replaced %2$s with %3$s	Original Translation
+hbui.Realms.RealmsHub.adminLog.slot_reset	%1$s reset %2$s to %3$s	Original Translation
+hbui.Realms.RealmsHub.adminLog.stories_opt_in_required_changed	%1$s changed require opt in to timeline to %2$s	Original Translation
+hbui.Realms.RealmsHub.emptyText	Community, world, and settings changes are captured here. Records are stored for 30 days.	Original Translation
+hbui.Realms.RealmsHub.emptyTitle	No records yet	Original Translation
 hbui.Realms.RealmsRolesAndPermissions.Action.addRemoveMembers	Add and remove Realm members	"Original Translation
 zh_CN: 添加和移除 Realm 成员
 zh_TW: 新增與移除 Realm 成員"
@@ -20933,28 +21082,20 @@ zh_TW: 建立 Beta Realm"
 hbui.RealmsPreviews.create.titleAndButtonLabel.preview	Create Preview Realm	"Original Translation
 zh_CN: 创建 Preview Realm
 zh_TW: 建立 Preview Realm"
+hbui.RealmsPurchaseCompleteRoute.Body.body1	You can invite friends to your Realm and start playing now or you can invite them later.	Original Translation
+hbui.RealmsPurchaseCompleteRoute.Body.body2	Manage your Realm and invite more players in Realm settings, accessed from the Options button on the Realms tab.	Original Translation
+hbui.RealmsPurchaseCompleteRoute.Body.title	Play on Realm now?	Original Translation
+hbui.RealmsPurchaseCompleteRoute.Footer.enumeration	%1$s of %2$s	Original Translation
+hbui.RealmsPurchaseCompleteRoute.Footer.goBack	Go back	Original Translation
+hbui.RealmsPurchaseCompleteRoute.Footer.playSolo	Play solo	Original Translation
+hbui.RealmsPurchaseCompleteRoute.Footer.playWithFriends	Play with friends	Original Translation
+hbui.RealmsPurchaseCompleteRoute.header	Your Realm Is Ready	Original Translation
 hbui.RealmsPurchaseSubscriptionRoute.ErrorModals.close	Close	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"
 hbui.RealmsPurchaseSubscriptionRoute.ErrorModals.select	Select	"Original Translation
 zh_CN: 选择
 zh_TW: 選取"
-hbui.RealmsPurchaseSubscriptionRoute.PurchaseCompleteModal.body1	You can invite friends to your Realm now, or you can invite them later.	"Original Translation
-zh_CN: 您现在可以邀请好友加入你的 Realm，或者稍后邀请他们。
-zh_TW: 您現在可以邀請好友到您的 Realm，否則您可以稍後再邀請好友。"
-hbui.RealmsPurchaseSubscriptionRoute.PurchaseCompleteModal.body2	Manage your Realm and invite more players in Realm settings, accessed from the Options button on the Realms tab.	"Original Translation
-zh_CN: 通过 Realms 选项卡中的“选项”按钮在 Realm 设置中管理你的 Realm，并邀请更多玩家。
-zh_TW: 管理你的 Realm，並在 Realms 索引標籤上的「選項」按鈕中邀請更多的玩家。"
-hbui.RealmsPurchaseSubscriptionRoute.PurchaseCompleteModal.enumeration	%1$s of %2$s	Original Translation
-hbui.RealmsPurchaseSubscriptionRoute.PurchaseCompleteModal.playSolo	Play solo	"Original Translation
-zh_CN: 独自探索
-zh_TW: 自己一個人玩"
-hbui.RealmsPurchaseSubscriptionRoute.PurchaseCompleteModal.playWithFriends	Play with friends	"Original Translation
-zh_CN: 与好友一起玩
-zh_TW: 跟朋友一起玩"
-hbui.RealmsPurchaseSubscriptionRoute.PurchaseCompleteModal.title	Invite friends?	"Original Translation
-zh_CN: 邀请好友？
-zh_TW: 邀請好友？"
 hbui.RealmsPurchaseSubscriptionRoute.ReconciliationModals.Body.create	You are attempting to renew a Realm but a prior purchase was found for creating a Realm. Would you like to apply that purchase now?	"Original Translation
 zh_CN: 你正在尝试续订 Realm，但我们发现你此前有创建 Realm 的购买记录。是否要现在应用此购买？
 zh_TW: 你正在嘗試續訂 Realm，但我們找到你先前購買的可用於建立 Realm 的內容。是否要立即套用該次購買內容？"
@@ -21632,6 +21773,7 @@ zh_TW: 您 Realm 中的螢幕畫面和討論都會在此顯示。按下「撰寫
 hbui.RealmsStories.feed.emptyStoryFeedTitle	No Story Feed Posts.	"Original Translation
 zh_CN: 没有故事源帖子。
 zh_TW: 沒有故事摘要貼文。"
+hbui.RealmsStories.feed.enumeration	%1$s of %2$s	Original Translation
 hbui.RealmsStories.feed.fullImage	%1$s Story full image	"Original Translation
 zh_CN: %1$s 故事完整图像
 zh_TW: %1$s 限時動態完整圖像"
@@ -21650,6 +21792,8 @@ zh_TW: 分屏玩家無法點讚、評論或新增故事"
 hbui.RealmsStories.feed.inRealm	Playing on Realm	"Original Translation
 zh_CN: 正在 Realm 上游玩
 zh_TW: 在 Realm 上遊玩"
+hbui.RealmsStories.feed.moderateFeed	Moderate Feed	Original Translation
+hbui.RealmsStories.feed.moderation.enumeration	%1$s of %2$s. %3$s notifications	Original Translation
 hbui.RealmsStories.feed.newHoursLogged	%1$s new hours logged	"Original Translation
 zh_CN: 新记录了 %1$s 小时
 zh_TW: %1$s 記錄的新小時數"
@@ -22064,6 +22208,7 @@ zh_TW: 所有成員"
 hbui.RealmsStories.members.enumeration	%1$s of %2$s	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
 zh_TW: %1$s/%2$s"
+hbui.RealmsStories.members.filter	Filter	Original Translation
 hbui.RealmsStories.members.filter.title	Filter members of the Realm	"Original Translation
 zh_CN: 筛选 Realm 成员
 zh_TW: 篩選 Realm 的成員"
@@ -22088,15 +22233,19 @@ zh_TW: 成員"
 hbui.RealmsStories.members.noMembersFound	No members found	"Original Translation
 zh_CN: 未找到成员
 zh_TW: 未找到成員"
+hbui.RealmsStories.members.offline	Offline	Original Translation
+hbui.RealmsStories.members.online	Online	Original Translation
 hbui.RealmsStories.members.onlineMembers	Online members	"Original Translation
 zh_CN: 在线成员
 zh_TW: 線上成員"
 hbui.RealmsStories.members.operator	Operator	"Original Translation
 zh_CN: 管理员
 zh_TW: 操作者"
+hbui.RealmsStories.members.pendingInvites	Pending invites	Original Translation
 hbui.RealmsStories.members.permission.member	Member (%1$s)	Original Translation
 hbui.RealmsStories.members.permission.operator	Operator (%1$s)	Original Translation
 hbui.RealmsStories.members.permission.visitor	Visitor (%1$s)	Original Translation
+hbui.RealmsStories.members.playingOnRealm	Playing on the Realm	Original Translation
 hbui.RealmsStories.members.realmMembers	Realm members	"Original Translation
 zh_CN: Realm 成员
 zh_TW: Realm 成員"
@@ -22134,6 +22283,7 @@ zh_TW: 螢幕"
 hbui.RealmsStories.members.section	Section	"Original Translation
 zh_CN: Section
 zh_TW: 區段"
+hbui.RealmsStories.members.showAll	Show all	Original Translation
 hbui.RealmsStories.members.sort.title	Sorting members of the Realm	"Original Translation
 zh_CN: 正在对 Realm 成员排序
 zh_TW: 分類 Realm 的成員"
@@ -22984,6 +23134,10 @@ hbui.SetWorldThumbnailRoute.successSnackbarMessage	%1$s thumbnail updated	"Origi
 zh_CN: %1$s 缩略图已更新
 zh_TW: %1$s 縮圖已更新"
 hbui.Settings.button.narration.role	Button	Original Translation
+hbui.Settings.feedbackPanel.buttonLabel	Give feedback	Original Translation
+hbui.Settings.feedbackPanel.description	We would love to hear what you think of this new design. Keep in mind that it's still work in progress and some functionality might be missing	Original Translation
+hbui.Settings.feedbackPanel.narration.role	Button	Original Translation
+hbui.Settings.feedbackPanel.title	Welcome to design preview!	Original Translation
 hbui.Settings.inputBindingButton.captureMode.narration	Select input to bind for %1$s	Original Translation
 hbui.Settings.inputBindingButton.inputLegend	Change mapping	Original Translation
 hbui.Settings.inputBindingButton.inputUpdated.narration	%1$s is now bound to %2$s	Original Translation
@@ -23006,6 +23160,8 @@ zh_TW: 所選語言不支援文字轉語音輸出。"
 hbui.Settings.modals.ttsNotSupported.title	Language not supported	"Original Translation
 zh_CN: 不支持的语言
 zh_TW: 不支援的語言"
+hbui.Settings.notFound.description	The link you followed may be broken, or the settings screen may have been removed in a recent update. Screen name: %1$s	Original Translation
+hbui.Settings.notFound.title	Setting screen could not be found	Original Translation
 hbui.Settings.settingsButton.narration.role	Button	"Original Translation
 zh_CN: 按钮
 zh_TW: 按鈕"
@@ -23015,6 +23171,8 @@ zh_TW: 群組"
 hbui.Settings.settingsGroup.narration.sectionEnumeration	%1$s of %2$s	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
 zh_TW: %1$s/%2$s"
+hbui.Settings.sideMenu.inputLegend	Select	Original Translation
+hbui.Settings.sideMenu.loadingTitle	Loading %1$s settings	Original Translation
 hbui.Settings.title	Settings	"Original Translation
 zh_CN: 设置
 zh_TW: 設定"
@@ -32346,7 +32504,7 @@ zh_TW: %s：找不到所需的屬性「%s」"
 jsonValidationError.typeError	%s: Invalid type for property. Expected %s got %s	"Original Translation
 zh_CN: %s：无效的属性类型。应为 %s，但为 %s
 zh_TW: %s：屬性類型無效 (應為「%s」，但結果為「%s」)"
-key.attack	Attack/Destroy	"Original Translation
+key.attack	Attack / Destroy	"Original Translation
 zh_CN: 攻击/摧毁
 zh_TW: 攻擊/破壞"
 key.back	Walk Backwards	"Original Translation
@@ -32470,7 +32628,7 @@ zh_TW: 開啟通知"
 key.inventory	Inventory	"Original Translation
 zh_CN: 物品栏
 zh_TW: 物品欄"
-key.jump	Jump/Fly Up	"Original Translation
+key.jump	Jump / Fly Up	"Original Translation
 zh_CN: 跳跃/向上飞
 zh_TW: 跳躍/往上飛"
 key.left	Strafe Left	"Original Translation
@@ -32590,7 +32748,7 @@ zh_TW: 切換滑鼠模式"
 key.smoothCamera	Toggle Cinematic Camera	"Original Translation
 zh_CN: 切换电影视角
 zh_TW: 切換視角平滑移動"
-key.sneak	Sneak/Fly Down	"Original Translation
+key.sneak	Sneak / Fly Down	"Original Translation
 zh_CN: 潜行/向下飞
 zh_TW: 潛行/往下飛"
 key.spectatorOutlines	Highlight Players (Spectators)	"Original Translation
@@ -32620,7 +32778,7 @@ zh_TW: 切換視角"
 key.toggleRenderer	Toggle Renderer	"Original Translation
 zh_CN: 切换渲染器
 zh_TW: 切換渲染器"
-key.use	Use Item/Place Block	"Original Translation
+key.use	Use Item / Place Block	"Original Translation
 zh_CN: 使用物品/放置方块
 zh_TW: 使用物品/放置方塊"
 key.viewToast	View	"Original Translation
@@ -33358,19 +33516,13 @@ zh_TW: 按下 :_gamepad_face_button_down: 以開啟協助工具設定。"
 menu.accessibility.access.button	Open accessibility settings	"Original Translation
 zh_CN: 打开辅助功能设置
 zh_TW: 開啟協助工具設定"
-menu.accessibility.access.nogamepad	Select the Accessibility Tab to open the Accessibility Settings.	"Original Translation
-zh_CN: 选择”辅助功能“选项卡以打开”辅助功能设置“。
-zh_TW: 選取「協助工具」分頁以開啟協助工具設定。"
 menu.accessibility.access.noicon	Select [A] to open the Accessibility Settings.	"Original Translation
 zh_CN: 选择 [A] 打开”辅助功能设置“。
 zh_TW: 選擇 [A] 以開啟協助工具設定。"
-menu.accessibility.generalMessage	We have moved the accessibility settings.	"Original Translation
-zh_CN: 我们移动了辅助功能设置。
-zh_TW: 我們已移動協助工具設定的位置。"
-menu.accessibility.tab.description	Options and tools to help you get the best Minecraft experience, whoever you are	"Original Translation
+menu.accessibility.tab.description	Minecraft is for everyone, including you	"Original Translation
 zh_CN: 无论你是谁，这里都有各种选项与工具，助你获得最佳的 Minecraft 游戏体验
 zh_TW: 無論你是誰，這裡的選項與工具都能協助你獲得最佳《Minecraft》體驗"
-menu.accessibility.tab.gameplay.description	Tweak accessibility options for in-game visuals and camera movements	"Original Translation
+menu.accessibility.tab.gameplay.description	Change accessibility options for in-game visuals and camera movements	"Original Translation
 zh_CN: 调整游戏中视觉效果和摄像头移动的辅助功能选项
 zh_TW: 調整遊戲內視覺效果與攝影機移動的協助工具選項"
 menu.accessibility.tab.gameplay.title	Gameplay	"Original Translation
@@ -33379,20 +33531,19 @@ zh_TW: 遊戲玩法"
 menu.accessibility.tab.title	Accessibility	"Original Translation
 zh_CN: 辅助功能
 zh_TW: 協助工具"
-menu.accessibility.tab.tts.description	Customise the text to speech feature, which reads aloud on-screen text	"Original Translation
+menu.accessibility.tab.tts.description	Adjust how you hear on-screen text	"Original Translation
 zh_CN: 自定义文字转语音输出功能，该功能可朗读屏幕上的文本
 zh_TW: 自訂文字轉語音功能，此功能會朗讀畫面上的文字"
 menu.accessibility.tab.tts.title	Text to Speech	"Original Translation
 zh_CN: 文字转语音输出
 zh_TW: 文字轉語音輸出"
-menu.accessibility.tab.ui.description	Customise the game’s UI to reduce distractions and maximise clarity	"Original Translation
+menu.accessibility.tab.ui.description	Set the game’s UI to fit your playing style	"Original Translation
 zh_CN: 自定义游戏用户界面，以减少干扰并最大限度提高清晰度
 zh_TW: 自訂遊戲的 UI，以減少干擾並最大化清晰度"
 menu.accessibility.tab.ui.title	User Interface	"Original Translation
 zh_CN: 用户界面
 zh_TW: 使用者介面"
 menu.account.access	Press :_gamepad_face_button_down: to open the Account Settings.	Original Translation
-menu.account.access.nogamepad	Select the Account Tab to open the Account Settings.	Original Translation
 menu.account.access.noicon	Select [A] to open the Account Settings.	Original Translation
 menu.account.changeGamertag.buttonLabel	Change	Original Translation
 menu.account.changeGamertag.title	Change Gamertag	Original Translation
@@ -33406,7 +33557,6 @@ menu.account.clearSignInData.title	Clear Account Sign-in Data	Original Translati
 menu.account.deleteMicrosoftAccount.buttonLabel	Delete	Original Translation
 menu.account.deleteMicrosoftAccount.title	Delete Microsoft account	Original Translation
 menu.account.gamertag.title	Gamertag	Original Translation
-menu.account.generalMessage	Account settings.	Original Translation
 menu.account.manageAccount.buttonLabel	Manage	Original Translation
 menu.account.manageAccount.title	Manage Account	Original Translation
 menu.account.managePlaystationAuthorization.buttonLabel	Manage	Original Translation
@@ -33416,7 +33566,7 @@ menu.account.privacyAndSafety.title	Privacy & online safety	Original Translation
 menu.account.realmMembershipInvites.buttonLabel	Manage	Original Translation
 menu.account.realmMembershipInvites.title	Manage Realms membership invites	Original Translation
 menu.account.signIn.buttonLabel	Sign In	Original Translation
-menu.account.signIn.title	Sign in for Free!	Original Translation
+menu.account.signIn.title	Sign in for free	Original Translation
 menu.account.signOutOfMicrosoft.buttonLabel	Sign Out	Original Translation
 menu.account.signOutOfMicrosoft.popup.acceptLabel	Sign Out	Original Translation
 menu.account.signOutOfMicrosoft.popup.cancelLabel	Go Back	Original Translation
@@ -33433,16 +33583,10 @@ zh_TW: 成就"
 menu.audio.access	Press :_gamepad_face_button_down: to open the Audio Settings.	"Original Translation
 zh_CN: 按 :_gamepad_face_button_down: 打开”音频设置“。
 zh_TW: 按下 :_gamepad_face_button_down: 來開啟音訊設定。"
-menu.audio.access.nogamepad	Select the Audio Tab to open the Audio Settings.	"Original Translation
-zh_CN: 选择”音频“选项卡以打开”音频设置“。
-zh_TW: 選取「音訊」分頁以開啟音訊設定。"
 menu.audio.access.noicon	Select [A] to open the Audio Settings.	"Original Translation
 zh_CN: 选择 [A] 以打开”音频设置“。
 zh_TW: 選擇 [A] 來開啟音訊設定。"
-menu.audio.generalMessage	Audio settings.	"Original Translation
-zh_CN: 音频设置。
-zh_TW: 音訊設定。"
-menu.audio.tab.description	Adjust the volume of each aspect of the game to create your perfect soundscape	"Original Translation
+menu.audio.tab.description	Adjust volume settings for music and sound effects	"Original Translation
 zh_CN: 调整游戏中各个方面的音量，打造你理想的音景
 zh_TW: 調整遊戲各方面的音量，建立完美的音效"
 menu.audio.tab.title	Audio	"Original Translation
@@ -33510,30 +33654,31 @@ zh_CN: 游戏菜单
 zh_TW: 遊戲目錄"
 menu.game.access	Press :_gamepad_face_button_down: to open the Game Settings.	Original Translation
 menu.game.access.button	Open game settings	Original Translation
-menu.game.access.nogamepad	Select the Game Tab to open the Game Settings.	Original Translation
 menu.game.access.noicon	Select [A] to open the Game Settings.	Original Translation
-menu.game.generalMessage	We have moved the game settings.	Original Translation
+menu.game.tab.cheats.description	Sometimes you need to bend the rules	Original Translation
 menu.game.tab.cheats.title	Cheats	Original Translation
+menu.game.tab.description	Change world settings and style of play	Original Translation
+menu.game.tab.experiments.addonCreators.title	Add-On Creators	Original Translation
+menu.game.tab.experiments.description	Try out new features and in-game experiments. But heads up! These can’t be turned off after world creation.	Original Translation
+menu.game.tab.experiments.gameplay.title	Gameplay	Original Translation
+menu.game.tab.experiments.graphics.title	Graphics	Original Translation
+menu.game.tab.experiments.internal.title	Internal Tests	Original Translation
 menu.game.tab.experiments.title	Experiments	Original Translation
 menu.game.tab.title	Game	Original Translation
+menu.game.tab.worldOptions.description	Make the world yours	Original Translation
 menu.game.tab.worldOptions.title	World Options	Original Translation
-menu.game.tab.worldPreferences.title	World Preferences	Original Translation
+menu.game.tab.worldPreferences.description	Settings for worlds created by you	Original Translation
+menu.game.tab.worldPreferences.title	World Setup	Original Translation
 menu.general.access	Press :_gamepad_face_button_down: to open the General Settings.	"Original Translation
 zh_CN: 按 :_gamepad_face_button_down: 打开”常规设置“。
 zh_TW: 按下 :_gamepad_face_button_down: 開啟一般設定。"
 menu.general.access.button	Open general settings	"Original Translation
 zh_CN: 打开“常规设置”
 zh_TW: 開啟一般設定"
-menu.general.access.nogamepad	Select the General Tab to open the General Settings.	"Original Translation
-zh_CN: 选择”常规“选项卡以打开”常规设置“。
-zh_TW: 選取「一般」分頁以開啟一般設定。"
 menu.general.access.noicon	Select [A] to open the Accessibility Settings.	"Original Translation
 zh_CN: 选择 [A] 打开”辅助功能设置“。
 zh_TW: 選擇 [A] 以開啟協助工具設定。"
-menu.general.generalMessage	We have moved the general settings.	"Original Translation
-zh_CN: 我们移动了常规设置。
-zh_TW: 我們已移動一般設定。"
-menu.general.tab.description	Network and powersaving settings, plus access to game credits and licenses. If you can’t find what you’re looking for anywhere else, try here	"Original Translation
+menu.general.tab.description	A bunch of stuff, from network settings to game credits	"Original Translation
 zh_CN: 网络和省电模式设置，以及对游戏积分和许可证的访问。如果你在其他任何地方都找不到所要查找的内容，请尝试这里
 zh_TW: 此處包含網路與省電設定，並可查看遊戲製作人員名單及授權。如果你在其他地方找不到你要的設定，來這裡找就對了"
 menu.general.tab.miscellaneous.description	We didn’t know where else to put these settings	"Original Translation
@@ -33542,7 +33687,7 @@ zh_TW: 我們不知道該把這些設定放在哪裡"
 menu.general.tab.miscellaneous.title	Miscellaneous	"Original Translation
 zh_CN: 其他
 zh_TW: 其他"
-menu.general.tab.network.description	These options touch the online experience on a technical and social level	"Original Translation
+menu.general.tab.network.description	Adjust the online experience on a technical and social level	"Original Translation
 zh_CN: 这些选项在技术和社会层面触及了在线体验
 zh_TW: 這些選項會從技術和社交層面影響你的線上體驗"
 menu.general.tab.network.title	Network Settings	"Original Translation
@@ -33589,28 +33734,20 @@ zh_CN: 收件箱
 zh_TW: 收件匣"
 menu.keyboardAndMouse.access	Press :_gamepad_face_button_down: to open the Keyboard & Mouse Settings.	Original Translation
 menu.keyboardAndMouse.access.button	Open keyboard & mouse settings	Original Translation
-menu.keyboardAndMouse.access.nogamepad	Select the Keyboard & Mouse Tab to open the Keyboard & Mouse Settings.	Original Translation
 menu.keyboardAndMouse.access.noicon	Select [A] to open the Keyboard & Mouse Settings.	Original Translation
-menu.keyboardAndMouse.generalMessage	We have moved the keyboard & mouse settings.	Original Translation
-menu.keyboardAndMouse.tab.description	Input options, sensitivity settings and button mapping for keyboard & mouse	Original Translation
-menu.keyboardAndMouse.tab.mappings.chord.description	The following keys are used with ‘CTRL + ALT’	Original Translation
+menu.keyboardAndMouse.tab.description	Adjust input and mapping options	Original Translation
+menu.keyboardAndMouse.tab.mappings.chord.description	Keys that are used with ‘CTRL + ALT’	Original Translation
 menu.keyboardAndMouse.tab.mappings.chord.title	Chords	Original Translation
 menu.keyboardAndMouse.tab.mappings.description	Remap any and all keyboard & mouse buttons to play your way	Original Translation
-menu.keyboardAndMouse.tab.mappings.macro.description	Command Macros allow you to assign a keyboard input that will run the command when pressing Alt and the bound key.	Original Translation
+menu.keyboardAndMouse.tab.mappings.macro.description	Assign a keyboard input that will run a command when pressing ALT and the bound key	Original Translation
 menu.keyboardAndMouse.tab.mappings.macro.placeholder	Command to run	Original Translation
 menu.keyboardAndMouse.tab.mappings.macro.title	Macros	Original Translation
 menu.keyboardAndMouse.tab.mappings.title	Keyboard & Mouse Mappings	Original Translation
 menu.keyboardAndMouse.tab.title	Keyboard & Mouse	Original Translation
 menu.language.access	Press :_gamepad_face_button_down: to open the Language Settings.	Original Translation
-menu.language.access.nogamepad	Select the Language Tab to open the Language Settings.	"Original Translation
-zh_CN: 选择“语言”选项卡以打开“语言设置”。
-zh_TW: 選取「語言」分頁以開啟語言設定。"
 menu.language.access.noicon	Select [A] to open the Language Settings.	"Original Translation
 zh_CN: 选择 [A] 以打开”语言设置“。
 zh_TW: 選取 [A] 開啟語言設定。"
-menu.language.generalMessage	Language settings.	"Original Translation
-zh_CN: 语言设置。
-zh_TW: 語言設定。"
 menu.language.tab.description	Select your preferred language for Minecraft	"Original Translation
 zh_CN: 选择你的 Minecraft 首选语言
 zh_TW: 為 Minecraft 選取你偏好的語言"
@@ -33635,6 +33772,21 @@ zh_TW: +%s"
 menu.multiplayer	Multiplayer	"Original Translation
 zh_CN: 多人游戏
 zh_TW: 多人遊戲"
+menu.multiplayer.access	Press :_gamepad_face_button_down: to open the Multiplayer Settings.	Original Translation
+menu.multiplayer.access.button	Open multiplayer settings	Original Translation
+menu.multiplayer.access.nogamepad	Select the Multiplayer Tab to open the Multiplayer Settings.	Original Translation
+menu.multiplayer.access.noicon	Select [A] to open the Multiplayer Settings.	Original Translation
+menu.multiplayer.broadcast.description	Select who can join your multiplayer world	Original Translation
+menu.multiplayer.broadcast.name	Microsoft account privacy	Original Translation
+menu.multiplayer.generalMessage	We have moved the multiplayer settings.	Original Translation
+menu.multiplayer.name	Enable Multiplayer	Original Translation
+menu.multiplayer.nintendo.broadcast.name	Nintendo Account Settings	Original Translation
+menu.multiplayer.serverVisible.description	Play with people who are on the same wi-fi or local area network as you. No online subscription required	Original Translation
+menu.multiplayer.serverVisible.name	Enable LAN play	Original Translation
+menu.multiplayer.sony.broadcast.name	Settings for PlayStation™Network	Original Translation
+menu.multiplayer.tab.description	Enjoy Minecraft with friends	Original Translation
+menu.multiplayer.tab.title	Multiplayer	Original Translation
+menu.multiplayer.toggle.description	Allows other players to join your world	Original Translation
 menu.online	Minecraft Realms	"Original Translation
 zh_CN: Minecraft Realms
 zh_TW: Minecraft Realms"
@@ -33761,15 +33913,12 @@ zh_TW: 進入試玩版模式並探索、收集和合成 - 全部免費，限時�
 menu.video.access	Press :_gamepad_face_button_down: to open the Video Settings.	"Original Translation
 zh_CN: 按 :_gamepad_face_button_down: 打开”视频设置“。
 zh_TW: 按下 :_gamepad_face_button_down: 開啟視訊設定。"
-menu.video.access.nogamepad	Select the Video Tab to open the Video Settings.	"Original Translation
-zh_CN: 选择“视频”选项卡以打开“视频设置”。
-zh_TW: 選取「視訊」分頁以開啟視訊設定。"
 menu.video.access.noicon	Select [A] to open the Video Settings.	"Original Translation
 zh_CN: 选择 [A] 打开”视频设置“。
 zh_TW: 選擇 [A] 開啟視訊設定。"
 menu.video.gamma	Display brightness	Original Translation
 menu.video.gamma.action	Adjust	Original Translation
-menu.video.gamma.description	Calibrate brightness and gamma to make Minecraft easier to see	Original Translation
+menu.video.gamma.description	Make Minecraft brighter and easier to see	Original Translation
 menu.video.generalMessage	Video settings.	"Original Translation
 zh_CN: 视频设置。
 zh_TW: 視訊設定。"
@@ -33780,10 +33929,10 @@ menu.video.group.customization.description	Build, stream, or take screenshots wi
 menu.video.group.performance	Graphics, performance and layout	Original Translation
 menu.video.group.performance.description	Control how Minecraft looks and runs	Original Translation
 menu.video.mode	Mode	Original Translation
-menu.video.mode.description	Adjust the quality of your game visuals	Original Translation
+menu.video.mode.description	Select the quality of your game visuals	Original Translation
 menu.video.mode_switch	In-game graphics mode switching.	Original Translation
-menu.video.mode_switch.description	Change graphics mode during play, may affect performance. Turn off in Main Menu settings if frame rate drops.	Original Translation
-menu.video.tab.description	Graphics options and visual quality settings to allow the game to look its best.	"Original Translation
+menu.video.mode_switch.description	Change graphics mode during play. Turn off in Main Menu settings if frame rate drops.	Original Translation
+menu.video.tab.description	Adjust graphics and visual quality	"Original Translation
 zh_CN: 控制 Minecraft 的外观和运行
 zh_TW: 控制 Minecraft 的外觀與執行方式"
 menu.video.tab.title	Video	"Original Translation
@@ -34413,13 +34562,13 @@ zh_TW: 顯示舒適度選擇畫面"
 options.accessibility	Accessibility	"Original Translation
 zh_CN: 可访问性
 zh_TW: 協助工具"
-options.accessibility.resetSettings	Reset to default settings	"Original Translation
+options.accessibility.resetSettings	Reset to default	"Original Translation
 zh_CN: 重置为默认设置
 zh_TW: 重設為預設設定"
 options.accessibility.resetSettings.buttonLabel	Reset	"Original Translation
 zh_CN: 重置
 zh_TW: 重設"
-options.accessibility.resetSettings.description	Return all accessibility settings and sliders to their initial values	"Original Translation
+options.accessibility.resetSettings.description	Return all accessibility settings and sliders to their original values	"Original Translation
 zh_CN: 将所有辅助功能设置和滑块都恢复到其初始值
 zh_TW: 將所有協助工具設定與滑桿還原為初始值"
 options.accessibility.title	Accessibility Settings	"Original Translation
@@ -34449,7 +34598,7 @@ zh_TW: 若您開始以這些設定玩遊戲，即無法在此世界中再贏得�
 options.actionBarTextBackgroundOpacity	Action Bar Background Opacity	"Original Translation
 zh_CN: 操作栏背景不透明度
 zh_TW: 動作列背景不透明度"
-options.actionBarTextBackgroundOpacity.description	Controls backgrounds of action bar hints (often used by Marketplace content)	"Original Translation
+options.actionBarTextBackgroundOpacity.description	How much you can see-through the action bar	"Original Translation
 zh_CN: 控制操作栏提示的背景（通常用于市场内容）
 zh_TW: 控制動作列提示的背景 (常使用於市集)"
 options.activateExperimentalGameplay	Activate Experimental Gameplay?	"Original Translation
@@ -34527,13 +34676,13 @@ zh_TW: 署名"
 options.attribution.buttonLabel	View	"Original Translation
 zh_CN: 查看
 zh_TW: 檢視"
-options.attribution.description	View a list of our technology partners and systems used in the making of Minecraft	"Original Translation
+options.attribution.description	Technology partners and systems	"Original Translation
 zh_CN: 查看用于制作《Minecraft》的技术合作伙伴和系统列表
 zh_TW: 檢視 Minecraft 製作過程中所使用的技術合作夥伴與系統清單"
 options.autoUpdateEnabled	Auto Update Unlocked Packs	"Original Translation
 zh_CN: 自动更新已解锁的包
 zh_TW: 自動更新已解鎖套件"
-options.autoUpdateEnabled.description	Turns on automatic content pack updates. Newly released versions of your packs will be downloaded as soon as they are available	"Original Translation
+options.autoUpdateEnabled.description	Newly released versions of your packs will be downloaded as soon as they’re available	"Original Translation
 zh_CN: 打开自动内容包更新。当你的内容包有新版本发布时，即可立即下载
 zh_TW: 開啟內容套件自動更新。你的內容套件一有新版本發布，就會立刻下載"
 options.autoUpdateEnabled.name	Automatically update content packs	"Original Translation
@@ -34554,7 +34703,7 @@ zh_TW: 僅使用 Wi-Fi"
 options.autojump	Auto Jump	"Original Translation
 zh_CN: 自动跳跃
 zh_TW: 自動跳躍"
-options.autojump.description	Automatically jump up single blocks when moving forward	Original Translation
+options.autojump.description	Jump up single blocks when moving forward	Original Translation
 options.autojump.name	Auto jump	Original Translation
 options.blockAlternatives	Alternate Blocks	"Original Translation
 zh_CN: 替选方块
@@ -34566,7 +34715,7 @@ options.bloomStrengthSlider.description	Control how vividly lights glow	Original
 options.bubbleparticles	Fancy Bubbles	"Original Translation
 zh_CN: 华丽气泡
 zh_TW: 花式泡泡"
-options.bubbleparticles.description	Turns on advanced effects for underwater bubbles	"Original Translation
+options.bubbleparticles.description	Bubbles with style	"Original Translation
 zh_CN: 打开水下泡泡的高级效果
 zh_TW: 開啟水下泡泡的進階效果"
 options.buildInfo.buttonLabel	Copy text	"Original Translation
@@ -34665,7 +34814,7 @@ zh_TW: 控制聊天訊息的背景"
 options.classic_box_selection	Outline Selection	"Original Translation
 zh_CN: 轮廓选择
 zh_TW: 選擇外框"
-options.classic_box_selection.description	Adds a colored border to blocks you’re looking at, to make it easier to see which block is currently targeted	"Original Translation
+options.classic_box_selection.description	Makes it easier to see which block you’re looking at	"Original Translation
 zh_CN: 为正在查看的方块添加彩色边框，以便更容易看到当前的目标方块
 zh_TW: 為你注視的方塊新增彩色邊框，使其更容易看見目前鎖定的方塊是哪一個"
 options.clearhotbar	Clear Hotbar	"Original Translation
@@ -34888,7 +35037,7 @@ zh_TW: 製作群"
 options.credits.buttonLabel	View	"Original Translation
 zh_CN: 查看
 zh_TW: 檢視"
-options.credits.description	Find out who made the game!	"Original Translation
+options.credits.description	All the people who helped make this game	"Original Translation
 zh_CN: 了解谁制作了这款游戏！
 zh_TW: 看看是誰製作了這款遊戲！"
 options.crossPlatformMultiplayerDisabled	Content active in this world cannot be used in cross-platform multiplayer.	"Original Translation
@@ -34926,7 +35075,7 @@ options.damageBobbing.description	The amount of camera shake caused by being hur
 options.darknessEffectModifier	Darkness effect strength	"Original Translation
 zh_CN: 黑暗效果强度
 zh_TW: 黑暗效果強度"
-options.darknessEffectModifier.description	Adjust how dark the screen can become when affected by darkness. Caused by some hostile mobs and environmental hazards	"Original Translation
+options.darknessEffectModifier.description	How dark the screen gets when affected by some hostile mobs and environmental hazards	"Original Translation
 zh_CN: 调整受黑暗效果影响时屏幕的暗度（该效果由部分敌对生物和环境危害引发）
 zh_TW: 調整受黑暗效果影響時，螢幕能變得多暗，此效果由某些敵對生物與環境危害造成"
 options.darknessEffectModifier.message	Adjust how dark the screen can get during the Darkness effect (caused by mobs and other sources)	"Original Translation
@@ -35681,6 +35830,11 @@ zh_TW: 零售"
 options.difficulty	Difficulty	"Original Translation
 zh_CN: 难度
 zh_TW: 難易度"
+options.difficulty.description	Select your preferred level of challenge	Original Translation
+options.difficulty.description.easy	Hostile mobs spawn but deal less damage. Hunger bar depletes and drains health down to 5 hearts.	Original Translation
+options.difficulty.description.hard	Hostile mobs spawn and deal more damage. Hunger bar depletes and can drain all health.	Original Translation
+options.difficulty.description.normal	Hostile mobs spawn and deal standard damage. Hunger bar depletes and drains health down to half a heart.	Original Translation
+options.difficulty.description.peaceful	No hostile mobs and only some neutral mobs spawn. Hunger bar doesn’t deplete and health replenishes over time.	Original Translation
 options.difficulty.easy	Easy	"Original Translation
 zh_CN: 简单
 zh_TW: 簡單"
@@ -35750,7 +35904,7 @@ zh_TW: Minecraft 目前未處於編輯器模式。"
 options.enableAutoPlatformTextToSpeech	Text To Speech with Device Settings	"Original Translation
 zh_CN: 设备设置文本转语音输出
 zh_TW: 使用裝置設定將文字轉語音輸出"
-options.enableAutoPlatformTextToSpeech.description	Use your device’s text-to-speech functionality instead of Minecraft’s	"Original Translation
+options.enableAutoPlatformTextToSpeech.description	Use your device for text to speech	"Original Translation
 zh_CN: 使用设备的而不是 Minecraft 的文本转语音输出功能
 zh_TW: 使用你裝置的文字轉語音功能，而非《Minecraft》內建的功能"
 options.enableChatTextToSpeech	Text To Speech For Chat	"Original Translation
@@ -35775,10 +35929,7 @@ zh_TW: 啟用會淡出玩家鏡頭附近生物的效果"
 options.enableEcoMode	Lower Framerate When Controller Is Disconnected	"Original Translation
 zh_CN: 当控制器断开连接时降低帧率
 zh_TW: 控制器中斷連線時降低影格率"
-options.enableEcoMode.description	An experimental power-saving setting which will lower power consumption while the game runs idle	"Original Translation
-zh_CN: 实验性省电模式设置，可在游戏空闲运行时降低功耗
-zh_TW: 實驗性的省電設定，可在遊戲閒置時降低功耗"
-options.enableEcoMode.name	Enter sleep mode when no inputs detected	"Original Translation
+options.enableEcoMode.name	Lower framerate when controller is disconnected	"Original Translation
 zh_CN: 在未检测到任何输入时进入睡眠模式
 zh_TW: 偵測到無任何輸入時進入休眠模式"
 options.enableEducation	Enable Education Edition?	"Original Translation
@@ -35794,14 +35945,14 @@ options.enableGameplaySubtitles	Closed Captions	Original Translation
 options.enableNewTouchControlSchemes	Enable New Touch Control Schemes	"Original Translation
 zh_CN: 启用新的触控方案
 zh_TW: 啟用新的觸控控制模式"
-options.enableOpenChatMessage	Chat Instructions on Join	"Original Translation
+options.enableOpenChatMessage	Chat instructions on join	"Original Translation
 zh_CN: 启用开放聊天消息
 zh_TW: 啟用開啟聊天視窗訊息"
 options.enableOpenChatMessage.description	Get a reminder on how to open chat when you join a world	Original Translation
 options.enableUITextToSpeech	Text To Speech For UI	"Original Translation
 zh_CN: UI 文本转语音输出
 zh_TW: UI 文字轉語音輸出"
-options.enableUITextToSpeech.description	Hear menu options and other non-gameplay user interface elements with text to speech	"Original Translation
+options.enableUITextToSpeech.description	Hear menu options and other UI elements	"Original Translation
 zh_CN: 使用文字转语音输出功能，听取菜单选项和其他非游戏玩家界面元素
 zh_TW: 透過文字轉語音聽取選單選項與其他非遊戲玩法的使用者介面元素"
 options.entityShadows	Entity Shadows	"Original Translation
@@ -35862,7 +36013,7 @@ zh_TW: 本地儲存位置"
 options.filterProfanity	Filter Profanity	"Original Translation
 zh_CN: 不雅词汇过滤器
 zh_TW: 篩選不雅字詞"
-options.filterProfanity.description	Turns on profanity filtering. When active, this will filter out inappropriate language from text chat that would otherwise be visible	"Original Translation
+options.filterProfanity.description	Filter out inappropriate language	"Original Translation
 zh_CN: 打开脏话过滤功能。启用后，这将从文本聊天中过滤掉不当语言，否则这些语言会显示出来
 zh_TW: 開啟不雅言詞篩選。啟用時，將會篩選掉文字聊天中原本可見的不當用語"
 options.filterProfanity.name	Filter profanity	"Original Translation
@@ -35880,7 +36031,7 @@ zh_TW: 字體授權"
 options.font_license.buttonLabel	Open	"Original Translation
 zh_CN: 打开
 zh_TW: 開啟"
-options.font_license.description	A license for the use of third-party fonts in Minecraft	"Original Translation
+options.font_license.description	A license for third-party fonts	"Original Translation
 zh_CN: 在《Minecraft》中使用第三方字体的许可证
 zh_TW: 在 Minecraft 中使用第三方字型的授權"
 options.font_license.name	Font license	"Original Translation
@@ -35895,7 +36046,7 @@ zh_TW: 強制使用 Unicode 字符"
 options.fov	FOV	"Original Translation
 zh_CN: 视野
 zh_TW: 視野"
-options.fov.description	Adjust the viewing angle of the in-game camera	"Original Translation
+options.fov.description	Viewing angle of the in-game camera	"Original Translation
 zh_CN: 调整游戏内摄像机的视角。这将会影响你的周边视野范围
 zh_TW: 調整遊戲內攝影機的視角。這會影響您的周邊視野範圍"
 options.fov.format	%s°	"Original Translation
@@ -35916,6 +36067,7 @@ options.fov.toggle.name	Field of view can be altered by gameplay	Original Transl
 options.framePacing	Frame pacing	"Original Translation
 zh_CN: 帧同步
 zh_TW: 影格同步"
+options.framePacing.description	Turn this on for a smoother, more stable experience. This may cap your game at a lower frame rate.	Original Translation
 options.framePacing.tooltip	Turn this on for a smoother, more stable experience. This may cap your game at a lower frame rate.	"Original Translation
 zh_CN: 启用此选项可以获得更流畅、更稳定的体验。但可能会将游戏帧率限制在较低水平。
 zh_TW: 開啟此選項可獲得更流暢、更穩定的體驗。這可能會將您的遊戲影格率上限設在較低的值。"
@@ -35928,7 +36080,7 @@ zh_TW: 無限"
 options.fullKeyboardGameplay	Full Keyboard Gameplay	"Original Translation
 zh_CN: 全键盘玩法
 zh_TW: 全鍵盤遊戲"
-options.fullKeyboardGameplay.description	Maps mouse input onto the keyboard, for keyboard-only input while playing	Original Translation
+options.fullKeyboardGameplay.description	Maps mouse input onto the keyboard	Original Translation
 options.fullKeyboardGameplay.name	Full keyboard mode	Original Translation
 options.fullKeyboardLayout	Full Keyboard Layout	"Original Translation
 zh_CN: 全键盘布局
@@ -35967,7 +36119,7 @@ zh_TW: 一般設定"
 options.glintSpeed	Glint speed	"Original Translation
 zh_CN: 闪光速度
 zh_TW: 閃爍速度"
-options.glintSpeed.description	Adjust how fast enchanted items can sparkle	"Original Translation
+options.glintSpeed.description	How fast enchanted items sparkle	"Original Translation
 zh_CN: 调整附魔物品闪烁的速度
 zh_TW: 調整附魔物品的閃亮光澤等級"
 options.glintSpeed.message	Adjust how fast the visual glint shimmers across enchanted items	"Original Translation
@@ -35976,7 +36128,7 @@ zh_TW: 調整附魔物品視覺閃光的閃爍速度"
 options.glintStrength	Glint strength	"Original Translation
 zh_CN: 闪光强度
 zh_TW: 閃爍強度"
-options.glintStrength.description	Adjust the level of shiny glint for enchanted items	"Original Translation
+options.glintStrength.description	Shiny glint for enchanted items	"Original Translation
 zh_CN: 调整附魔物品的闪光亮度等级
 zh_TW: 調整附魔物品上視覺光澤的透明度"
 options.glintStrength.message	Adjust how transparent the visual glint is on enchanted items	"Original Translation
@@ -36024,7 +36176,7 @@ zh_TW: 真的要啟用絢麗視覺效果？"
 options.graphicsMode.rayTraced	Ray Traced	"Original Translation
 zh_CN: 光线追踪
 zh_TW: 光線追蹤"
-options.graphicsMode.rayTraced.description	Advanced realtime lighting and reflections	Original Translation
+options.graphicsMode.rayTraced.description	Advanced real-time lighting and reflections	Original Translation
 options.graphicsMode.simple	Simple	"Original Translation
 zh_CN: 简约
 zh_TW: 簡單"
@@ -36096,6 +36248,7 @@ zh_TW: 多人遊戲"
 options.group.realms	Invited to Realms Alpha?	"Original Translation
 zh_CN: 邀请至 Realms Alpha？
 zh_TW: 邀請至 Realms Alpha？"
+options.group.server	Server	Original Translation
 options.gui.accessibility.scaling	Extra Large New UI	"Original Translation
 zh_CN: 超大的新 UI
 zh_TW: 超大型全新 UI"
@@ -36105,7 +36258,7 @@ zh_TW: 啟用超大版本的新 UI 選單作為附加的輔助功能選項。這
 options.guiAccessibilityScaling	Extra large UI	"Original Translation
 zh_CN: 超大用户界面
 zh_TW: 超大 UI"
-options.guiAccessibilityScaling.description	Make the updated menus bigger. Some parts might look a bit glitchy	"Original Translation
+options.guiAccessibilityScaling.description	Increase the size of the UI for clarity and easy reading	"Original Translation
 zh_CN: 打开超大版用户界面以提高清晰度。此设置可能导致部分菜单屏幕显示异常
 zh_TW: 開啟超大版本的 UI 以提高清晰度。這可能會在某些選單畫面中造成視覺錯誤"
 options.guiAccessibilityScaling.name	Extra large new UI	Original Translation
@@ -36136,7 +36289,7 @@ zh_TW: 普通"
 options.guiScale.optionName	GUI Scale Modifier	"Original Translation
 zh_CN: GUI 标度修正
 zh_TW: GUI 比例修改器"
-options.guiScale.optionName.description	Adjust the size of the HUD and other User Interface elements	"Original Translation
+options.guiScale.optionName.description	Select the size of the HUD and other UI elements to make them easier to use on different devices	"Original Translation
 zh_CN: 选择 HUD 和其他用户界面元素的大小，使它们在不同的屏幕和设备上更清晰、更易于使用
 zh_TW: 選擇 HUD 與其他使用者介面元素的大小，使其在不同螢幕和裝置上更清晰、更易於使用"
 options.guiScale.optionName.name	UI scale modifier	Original Translation
@@ -36152,7 +36305,7 @@ zh_TW: 説明中心"
 options.helpCenter.buttonLabel	Open	"Original Translation
 zh_CN: 打开
 zh_TW: 開啟"
-options.helpCenter.description	Visit our online help directory and find answers for all of your burning support queries	"Original Translation
+options.helpCenter.description	Get answers to all of your burning support queries	"Original Translation
 zh_CN: 访问我们的在线帮助目录，找到所有紧急支持查询的答案
 zh_TW: 前往我們的線上說明目錄，為你所有迫切的支援問題尋找答案"
 options.hidden	Hidden	"Original Translation
@@ -36173,19 +36326,19 @@ zh_TW: 隱藏 GUI"
 options.hidehand	Hide Hand	"Original Translation
 zh_CN: 隐藏手
 zh_TW: 隱藏指針"
-options.hidehand.description	Hides your hands from first-person view, as well as any items you might be holding	"Original Translation
+options.hidehand.description	Hide your hand in first-person view	"Original Translation
 zh_CN: 在第一人称视角隐藏你的双手，以及可能拿着的任何物品
 zh_TW: 在第一人稱視角中隱藏您的手，以及您可能持有的任何物品"
 options.hidehud	Hide HUD	"Original Translation
 zh_CN: 隐藏 HUD
 zh_TW: 隱藏 HUD"
-options.hidehud.description	Hide your Heads-Up Display - the health, hunger, and item bars	"Original Translation
+options.hidehud.description	Hide your Heads Up Display, including health, hunger, and item bars	"Original Translation
 zh_CN: 隐藏整个平视显示器
 zh_TW: 隱藏整個 HUD 介面"
 options.hidepaperdoll	Hide Paper Doll	"Original Translation
 zh_CN: 隐藏纸娃娃
 zh_TW: 隱藏紙娃娃"
-options.hidepaperdoll.description	Hides your character preview from the HUD	"Original Translation
+options.hidepaperdoll.description	Hide your character preview when swimming, sneaking, flying, or riding	"Original Translation
 zh_CN: 在平视显示器 (HUD) 中隐藏角色预览
 zh_TW: 從 HUD 介面中隱藏您的角色預覽"
 options.hidetooltips	Hide Controller Hints	"Original Translation
@@ -36229,7 +36382,7 @@ zh_TW: 減少您的輸入和您在螢幕上看到內容之間的延遲。此設�
 options.ingamePlayerNames	In-game Player Names	"Original Translation
 zh_CN: 游戏内玩家昵称
 zh_TW: 玩家遊戲名稱"
-options.ingamePlayerNames.description	Display the profile names of players in the world, visible above their heads when playing split-screen	"Original Translation
+options.ingamePlayerNames.description	Display names above other players' heads	"Original Translation
 zh_CN: 显示世界中其他玩家的用户名，悬浮于其头顶可见
 zh_TW: 顯示世界中其他玩家的使用者名稱 (於角色頭頂上方)"
 options.ingamePlayerNames.name	Show player names	Original Translation
@@ -36248,7 +36401,7 @@ zh_TW: 觸控"
 options.interfaceOpacity	HUD Opacity	"Original Translation
 zh_CN: HUD 不透明度
 zh_TW: HUD 不透明度"
-options.interfaceOpacity.description	Adjust how much you can see through the Heads-Up Display	"Original Translation
+options.interfaceOpacity.description	How much you can see-through the Heads Up Display	"Original Translation
 zh_CN: 调整平视显示器可以看到的范围
 zh_TW: 調整 HUD 介面的不透明度"
 options.invertMouse	Invert Mouse	"Original Translation
@@ -36257,7 +36410,7 @@ zh_TW: 滑鼠反向"
 options.invertYAxis	Invert Y-Axis	"Original Translation
 zh_CN: 反转Y轴
 zh_TW: Y 軸反向"
-options.invertYAxis.description	Reverses up and down when looking around. A less common option for keyboard and mouse users, but you do you	Original Translation
+options.invertYAxis.description	Reverses up and down when looking around	Original Translation
 options.invertYAxis.name	Invert camera Y-axis	Original Translation
 options.joystickMoveVisible	Joystick Always Visible	"Original Translation
 zh_CN: 摇杆始终可见
@@ -36278,7 +36431,7 @@ options.key.reset.buttonLabel	Reset	Original Translation
 options.keyboardAndMouse	Keyboard & Mouse	"Original Translation
 zh_CN: 键盘和鼠标
 zh_TW: 鍵盤和滑鼠"
-options.keyboardAndMouse.resetMappings	Reset mapping to default	Original Translation
+options.keyboardAndMouse.resetMappings	Reset to default mapping	Original Translation
 options.keyboardAndMouse.resetMappings.buttonLabel	Reset	Original Translation
 options.keyboardAndMouse.resetMappings.description	Restore all keyboard & mouse button mappings to their original values	Original Translation
 options.keyboardAndMouse.resetSettings	Reset settings to default	Original Translation
@@ -36323,7 +36476,7 @@ zh_TW: 授權內容"
 options.licensed_content.buttonLabel	Open	"Original Translation
 zh_CN: 打开
 zh_TW: 開啟"
-options.licensed_content.description	A list of all the licensed content available in Minecraft, across our entire range of content packs	"Original Translation
+options.licensed_content.description	All licensed content available in Minecraft	"Original Translation
 zh_CN: 《Minecraft》中可用的所有授权内容的列表，其中涵盖我们的整个内容包范围
 zh_TW: Minecraft 中所有可用授權內容的清單，涵蓋我們所有的內容套件系列"
 options.licensed_content.name	Licensed content	"Original Translation
@@ -36335,6 +36488,12 @@ zh_TW: 授權"
 options.loadWorldAnyway	Load World Anyway	"Original Translation
 zh_CN: 继续加载世界
 zh_TW: 無論如何還是載入世界"
+options.lockedTemplateOptions	Discard the creator's settings?	Original Translation
+options.lockedTemplateOptions.cancel	Keep creator settings	Original Translation
+options.lockedTemplateOptions.initiate	Unlock creator settings	Original Translation
+options.lockedTemplateOptions.message	The experience that the creator of this template wants you to have might be broken if you unlock these settings. You might not be able to return to that intended experience if you continue.	Original Translation
+options.lockedTemplateOptions.ok	Unlock all settings	Original Translation
+options.lockedTemplateOptions.warning	Template world options are locked to the values set by this template's creator. Unlock to change them.	Original Translation
 options.makeBackup	Make a backup copy of my world	"Original Translation
 zh_CN: 制作我的世界的备份副本
 zh_TW: 製作我的世界備份副本"
@@ -36347,7 +36506,7 @@ zh_TW: 若要管理隱私權設定，請使用任何網路瀏覽器造訪 https:
 options.maxFramerate	Framerate Limit	"Original Translation
 zh_CN: 帧率限制
 zh_TW: 畫面幀率上限"
-options.maxFramerate.description	Cap the game’s maximum frames per second to maintain a steady frame rate or prevent overheating your device	Original Translation
+options.maxFramerate.description	Set a limit for maximum frames per second to keep a steady frame rate or prevent overheating your device	Original Translation
 options.maxFramerate.tooltip	Lower the game's maximum framerate to improve battery life and device health. Actual framerate may fall below the set limit.	"Original Translation
 zh_CN: 降低游戏的最大帧率以延长电池寿命和改善设备健康。实际帧率可能会低于设定限值。
 zh_TW: 降低遊戲的最大影格率，以延長電池續航力和裝置健康。實際影格率可能會低於設定的限制。"
@@ -36381,7 +36540,7 @@ zh_TW: 右衣袖"
 options.msaa	Anti-Aliasing	"Original Translation
 zh_CN: 抗锯齿
 zh_TW: 消除鋸齒"
-options.msaa.description	How smooth do you like your blocks? Higher values may affect performance	Original Translation
+options.msaa.description	Not a trick question. How smooth do you like your blocks?	Original Translation
 options.multiplayer.title	Multiplayer Settings...	"Original Translation
 zh_CN: 多人游戏设置…
 zh_TW: 多人遊戲設定..."
@@ -36427,7 +36586,7 @@ zh_TW: 切換到新 UI"
 options.notificationDuration.Chat	Chat message duration	"Original Translation
 zh_CN: 聊天消息持续时间
 zh_TW: 聊天訊息持續時間"
-options.notificationDuration.Chat.description	Choose how long messages in the chat remain visible	"Original Translation
+options.notificationDuration.Chat.description	Select how long messages in the chat remain visible	"Original Translation
 zh_CN: 选择聊天中消息保持可见的时间
 zh_TW: 選擇聊天室中訊息的顯示時間"
 options.notificationDuration.ChatDuration	Choose how long messages in chat remain visible	"Original Translation
@@ -36436,7 +36595,7 @@ zh_TW: 選擇聊天中的訊息保持可見的時間長度"
 options.notificationDuration.Toast	Toast notification duration	"Original Translation
 zh_CN: 吐司通知持续时间
 zh_TW: 彈出通知持續時間"
-options.notificationDuration.Toast.description	Choose how long notifications like game invites and marketplace offers remain visible	"Original Translation
+options.notificationDuration.Toast.description	Select how long notifications like game invites and marketplace offers remain visible	"Original Translation
 zh_CN: 选择游戏邀请和市场优惠等最新资讯保持可见的时间
 zh_TW: 選擇遊戲邀請和市集優惠等通知的顯示時間"
 options.notificationDuration.ToastMessage	Choose how long messages like game invites and Marketplace offers are visible	"Original Translation
@@ -36472,10 +36631,7 @@ zh_TW: 開啟"
 options.onlyTrustedSkinsAllowed	Only Allow Trusted Skins	"Original Translation
 zh_CN: 仅允许受信任的皮肤
 zh_TW: 僅允許受信任的外觀"
-options.onlyTrustedSkinsAllowed.description	Allows trusted skins created by Mojang and our partners to be used/viewed in the game, but excludes any others	"Original Translation
-zh_CN: 允许在游戏中使用/查看由 Mojang 和我们的合作伙伴创作的受信任皮肤，但不包括任何其他皮肤
-zh_TW: 允許在遊戲中使用/檢視由 Mojang 和我們的合作夥伴所建立的受信任外觀，但會排除任何其他外觀"
-options.onlyTrustedSkinsAllowed.name	Only add/see trusted skins	"Original Translation
+options.onlyTrustedSkinsAllowed.name	Only allow trusted skins	"Original Translation
 zh_CN: 仅添加/查看受信任的皮肤
 zh_TW: 僅新增/查看受信任的外觀"
 options.openFeedbackPage	Get Support	"Original Translation
@@ -36630,6 +36786,7 @@ zh_TW: 視訊品質設定..."
 options.qualityVideoTitle	Video Quality Settings	"Original Translation
 zh_CN: 视频质量设置
 zh_TW: 視訊品質設定"
+options.randomTick.reset.buttonLabel	Reset	Original Translation
 options.raytracing	Ray Tracing	"Original Translation
 zh_CN: 光线追踪
 zh_TW: 光線追蹤"
@@ -36745,13 +36902,13 @@ zh_TW: 重新啟動教學"
 options.restartTutorial.buttonLabel	Restart	"Original Translation
 zh_CN: 重新启动
 zh_TW: 重新啟動"
-options.restartTutorial.description	Restarts the tutorial so that you can experience it again. Just in case you missed something	"Original Translation
+options.restartTutorial.description	Restarts the tutorial in case you missed something	"Original Translation
 zh_CN: 重新启动教程，以便可以再次进行体验。以防万一错过某些内容
 zh_TW: 重新開始教學，好讓你能再次體驗。以防你錯過了什麼"
 options.safeZone	Safe Area	"Original Translation
 zh_CN: 安全区
 zh_TW: 安全區"
-options.safeZone.description	Adjust the sliders until the four corners fit the edge of your screen.	"Original Translation
+options.safeZone.description	Make sure the game looks great in your device’s screen	"Original Translation
 zh_CN: 调整滑动条，直到四个角与您的屏幕相适应。
 zh_TW: 調整滑桿，至您的畫面顯出全部四個角落為止。"
 options.safeZone.title	Change Screen Safe Area	"Original Translation
@@ -36769,7 +36926,7 @@ zh_TW: 飽和"
 options.screenAnimations	Screen Animations	"Original Translation
 zh_CN: 屏幕动画
 zh_TW: 螢幕動畫"
-options.screenAnimations.description	Turns on HUD animations, which could impact game performance	"Original Translation
+options.screenAnimations.description	Subtle HUD animations to help transition from one screen to another	"Original Translation
 zh_CN: 打开 HUD 动画，这可能会影响游戏性能
 zh_TW: 開啟 HUD 動畫，這可能會影響遊戲效能"
 options.screenPositionX	Horizontal Screen Position	"Original Translation
@@ -36781,13 +36938,13 @@ zh_TW: 垂直螢幕位置"
 options.screenShake	Camera Shake	"Original Translation
 zh_CN: 摄像机摇晃
 zh_TW: 相機晃動"
-options.screenShake.description	Turns on a shaking animation, such as when taking damage in first person mode	"Original Translation
+options.screenShake.description	Set up camera shake using macros or chat	"Original Translation
 zh_CN: 打开一个抖动动画，例如在第一人称模式下受到伤害时
 zh_TW: 開啟晃動動畫，例如在第一人稱模式下受到傷害時的畫面晃動"
 options.sensitivity	Camera Sensitivity	"Original Translation
 zh_CN: 相机灵敏度
 zh_TW: 相機靈敏度"
-options.sensitivity.description	Adjust the speed of the camera when looking around with the mouse	Original Translation
+options.sensitivity.description	Speed and sensitivity of the camera when looking around with the mouse	Original Translation
 options.sensitivity.max	HYPERSPEED!!!	"Original Translation
 zh_CN: 超高速！！！
 zh_TW: 超高速！"
@@ -36871,7 +37028,7 @@ options.smoothRotationSpeed.name	Camera sensitivity (keyboard)	Original Translat
 options.smooth_lighting	Smooth Lighting	"Original Translation
 zh_CN: 平滑光照
 zh_TW: 柔和光源"
-options.smooth_lighting.description	Enable smoother light transitions for more natural looking shadows and brightness	Original Translation
+options.smooth_lighting.description	Better transitions for natural looking shadows and brightness	Original Translation
 options.sneakOption	Sneak	"Original Translation
 zh_CN: 潜行
 zh_TW: 潛行"
@@ -36899,7 +37056,7 @@ zh_TW: 社交"
 options.sound	Sound Volume	"Original Translation
 zh_CN: 音量
 zh_TW: 音量"
-options.sound.resetSettings	Reset to default volume	"Original Translation
+options.sound.resetSettings	Reset to default	"Original Translation
 zh_CN: 重置为默认音量
 zh_TW: 將音量重設為預設值"
 options.sound.resetSettings.buttonLabel	Reset	"Original Translation
@@ -36948,7 +37105,7 @@ zh_TW: 將搖桿推到最大時自動奔跑。"
 options.spyglassdampen	Spyglass Damping	"Original Translation
 zh_CN: 望远镜移动速度
 zh_TW: 望遠鏡阻尼"
-options.spyglassdampen.description	Adjust the speed of the camera when using a spyglass	Original Translation
+options.spyglassdampen.description	Speed of the camera when using a spyglass	Original Translation
 options.spyglassdampen.name	Spyglass damping	Original Translation
 options.stacksplittingtriggertime	Stack Splitting Time(ms)	"Original Translation
 zh_CN: 堆栈拆分时间 (ms)
@@ -37076,12 +37233,12 @@ zh_TW: 地形陰影"
 options.texelAA	Texel Anti-Aliasing	"Original Translation
 zh_CN: 纹素抗锯齿
 zh_TW: 材質消除鋸齒"
-options.texelAA.description	How smooth do you like your blocks? Higher values may affect performance	Original Translation
+options.texelAA.description	Not a trick question. How smooth do you like your blocks?	Original Translation
 options.texelAA.name	Texel Anti-Aliasing	Original Translation
 options.thirdperson	Camera Perspective	"Original Translation
 zh_CN: 摄像机视角
 zh_TW: 攝影機視角"
-options.thirdperson.description	Choose the placement of the game camera	"Original Translation
+options.thirdperson.description	Select the in-game camera’s point of view	"Original Translation
 zh_CN: 选择游戏摄像机的位置
 zh_TW: 選擇遊戲攝影機的位置"
 options.thirdperson.firstperson	First Person	"Original Translation
@@ -37102,7 +37259,7 @@ zh_TW: 技術清單"
 options.tinkeringList.buttonLabel	Open	"Original Translation
 zh_CN: 打开
 zh_TW: 開啟"
-options.tinkeringList.description	Technical information used in the development of Minecraft, with no relevance to players. But feel free to have a look anyway if you really want	"Original Translation
+options.tinkeringList.description	Technical info that’s not relevant for players. Feel free to have a look if you’re curious!	"Original Translation
 zh_CN: 《Minecraft》开发中使用的技术信息，与玩家无关。但如果确实想要了解的话，随时可以查看
 zh_TW: Minecraft 開發過程中使用的技術資訊，與玩家無關。但如果你真的想看，還是隨意看看吧"
 options.title	Options	"Original Translation
@@ -37117,7 +37274,7 @@ zh_TW: 潛行"
 options.toggleclouds	Render Clouds	"Original Translation
 zh_CN: 渲染云
 zh_TW: 產生雲朵"
-options.toggleclouds.description	Turns on clouds in the sky. Yes, that’s it	"Original Translation
+options.toggleclouds.description	Happy little clouds in the sky	"Original Translation
 zh_CN: 打开天空中的云朵。是的，就是这样
 zh_TW: 開啟天空中的雲朵。是，就是這樣"
 options.topButtonScale	Top Button Size	Original Translation
@@ -37167,7 +37324,7 @@ zh_TW: 3. 在你死亡後，你可以觀看，但無法與這個世界互動。"
 options.tutorial	Tutorial	"Original Translation
 zh_CN: 教程
 zh_TW: 教學課程"
-options.tutorial.description	Turns on in-game tips, to help teach you the basic principles of Minecraft as you play	"Original Translation
+options.tutorial.description	Get in-game tips to learn the basics of Minecraft	"Original Translation
 zh_CN: 打开游戏内提示，帮助你在游玩时了解《Minecraft》的基本概念
 zh_TW: 開啟遊戲內提示，在你遊玩時引導你學習 Minecraft 的基本原則"
 options.tutorialHint	Hints to get going with the basics of Minecraft	"Original Translation
@@ -37182,7 +37339,7 @@ zh_TW: UI 設定檔"
 options.uiprofile.classic	Classic	"Original Translation
 zh_CN: 经典
 zh_TW: 傳統"
-options.uiprofile.description	Choose between Classic and Pocket (mobile) interface layouts	Original Translation
+options.uiprofile.description	Select Pocket (mobile) or Classic interface layouts	Original Translation
 options.uiprofile.pocket	Pocket	"Original Translation
 zh_CN: 携带版
 zh_TW: Pocket"
@@ -37228,7 +37385,7 @@ zh_TW: 升級"
 options.upscalingMode	Upscaling mode	"Original Translation
 zh_CN: 上采样模式
 zh_TW: 放大模式"
-options.upscalingMode.description	Select the technique to use for upscaling	Original Translation
+options.upscalingMode.description	Select your preferred technique for upscaling	Original Translation
 options.upscalingModeOptions.bilinear	Bilinear	"Original Translation
 zh_CN: 双线性
 zh_TW: 雙線性"
@@ -37276,7 +37433,7 @@ zh_TW: 視訊設定"
 options.viewBobbing	View Bobbing	"Original Translation
 zh_CN: 视角摇晃
 zh_TW: 走路晃動"
-options.viewBobbing.description	Turns on a gentle bobbing animation when walking in first person mode	"Original Translation
+options.viewBobbing.description	Camera bobs when walking	"Original Translation
 zh_CN: 在第一人称模式下行走时，打开柔和的摆动动画
 zh_TW: 以第一人稱模式行走時，會開啟柔和的晃動動畫動作"
 options.viewSubscriptions	Subscriptions	"Original Translation
@@ -37363,7 +37520,7 @@ zh_TW: 顯示"
 options.volumetricFogQuality	Volumetric Fog Quality	"Original Translation
 zh_CN: 体积雾质量
 zh_TW: 體積霧品質"
-options.volumetricFogQuality.description	Adjust level of detail for more immersive fog	Original Translation
+options.volumetricFogQuality.description	Light shaft resolution for more immersive fog	Original Translation
 options.volumetricFogQuality.high	High	"Original Translation
 zh_CN: 高
 zh_TW: 高"
@@ -37403,7 +37560,7 @@ zh_TW: 應只在主動連接至已知並安全的應用程式時，才停用此�
 options.websocketsEnabled	Websockets Enabled	"Original Translation
 zh_CN: 已启用 Websocket
 zh_TW: 已啟用 Websockets"
-options.websocketsEnabled.description	Turns on the ability to connect to a WebSockets server for the setup of external scripts and other automated features	"Original Translation
+options.websocketsEnabled.description	Connect to a WebSockets server for the setup of external scripts and other automated features	"Original Translation
 zh_CN: 打开连接到 WebSockets 服务器的功能，可用于设置外部脚本和其他自动化功能
 zh_TW: 開啟連線至 WebSockets 伺服器的功能，以設定外部指令碼和其他自動化功能"
 options.websocketsEnabled.name	Enable WebSockets	"Original Translation
@@ -37436,12 +37593,15 @@ zh_TW: 已登出 Microsoft 帳戶"
 options.xboxliveBroadcast.friendsOfFriends	Friends of Friends	"Original Translation
 zh_CN: 好友的好友
 zh_TW: 好友的好友"
+options.xboxliveBroadcast.friendsOfFriends.description	Anyone you’ve added as a Minecraft friend, as well as their Minecraft friends, can join your world	Original Translation
 options.xboxliveBroadcast.friendsOnly	Friends Only	"Original Translation
 zh_CN: 仅好友
 zh_TW: 僅限好友"
+options.xboxliveBroadcast.friendsOnly.description	Anyone you’ve added as a Minecraft friend can join your world	Original Translation
 options.xboxliveBroadcast.inviteOnly	Invite Only	"Original Translation
 zh_CN: 仅邀请
 zh_TW: 僅限邀請"
+options.xboxliveBroadcast.inviteOnly.description	All players need a direct invite to join your world	Original Translation
 options.xboxliveBroadcastSettings	Microsoft account Settings	"Original Translation
 zh_CN: Microsoft 账号设置
 zh_TW: Microsoft 帳戶設定"
@@ -39092,6 +39252,7 @@ zh_TW: 正在儲存世界"
 progressScreen.title.applyingPacks	Loading resource packs	"Original Translation
 zh_CN: 正在加载资源包
 zh_TW: 正在載入資源包"
+progressScreen.title.connectingCOM	Connecting to online experience	Original Translation
 progressScreen.title.connectingExternal	Connecting to external server	"Original Translation
 zh_CN: 正在连接外部服务器
 zh_TW: 正在連線到外部伺服器"
@@ -40928,6 +41089,32 @@ zh_TW: 形狀設定"
 resourcePack.editor.BrushPaintControl.shapeSettings.tooltip	Settings that change the properties of the Brush shape.	"Original Translation
 zh_CN: 更改画笔形状属性的设置。
 zh_TW: 變更「筆刷」形狀屬性的設定。"
+resourcePack.editor.CinematicTool.dialog.cancel	Cancel	Original Translation
+resourcePack.editor.CinematicTool.dialog.deleteConfirm	Are you sure you want to delete the selected control points?	Original Translation
+resourcePack.editor.CinematicTool.dialog.deleteSingle	Are you sure you want to delete this control point?	Original Translation
+resourcePack.editor.CinematicTool.dialog.yes	Yes	Original Translation
+resourcePack.editor.CinematicTool.pane.addPoint.tooltip	Add new control point	Original Translation
+resourcePack.editor.CinematicTool.pane.controlPoints	Control Points	Original Translation
+resourcePack.editor.CinematicTool.pane.deletePoint	Delete Control Point	Original Translation
+resourcePack.editor.CinematicTool.pane.deleteSelected.tooltip	Delete selected control points	Original Translation
+resourcePack.editor.CinematicTool.pane.easingType	Easing Type	Original Translation
+resourcePack.editor.CinematicTool.pane.exportCode	Export Code	Original Translation
+resourcePack.editor.CinematicTool.pane.moveToPoint	Move Camera to Point	Original Translation
+resourcePack.editor.CinematicTool.pane.playAnimation	Play Animation	Original Translation
+resourcePack.editor.CinematicTool.pane.pointDetails.title	Point Details	Original Translation
+resourcePack.editor.CinematicTool.pane.pointName	Point Name	Original Translation
+resourcePack.editor.CinematicTool.pane.position	Position	Original Translation
+resourcePack.editor.CinematicTool.pane.rotation	Rotation (degrees)	Original Translation
+resourcePack.editor.CinematicTool.pane.selectAll.tooltip	Select or deselect all control points	Original Translation
+resourcePack.editor.CinematicTool.pane.splineType	Spline Type	Original Translation
+resourcePack.editor.CinematicTool.pane.splineType.catmullRom	Catmull-Rom	Original Translation
+resourcePack.editor.CinematicTool.pane.splineType.linear	Linear	Original Translation
+resourcePack.editor.CinematicTool.pane.stopAnimation	Stop Animation	Original Translation
+resourcePack.editor.CinematicTool.pane.time	Time (seconds)	Original Translation
+resourcePack.editor.CinematicTool.pane.totalDuration	Total Duration (seconds)	Original Translation
+resourcePack.editor.CinematicTool.pane.updateLocation	Update to Current Location	Original Translation
+resourcePack.editor.CinematicTool.title	Cinematic Tool	Original Translation
+resourcePack.editor.CinematicTool.tooltip	Create and edit camera animations	Original Translation
 resourcePack.editor.ClipboardPreviewControl.keyBinding.moveOriginBack.title	Move Origin Back	"Original Translation
 zh_CN: 向后移动原点
 zh_TW: 向後移動原點"
@@ -42086,6 +42273,7 @@ resourcePack.editor.goToMark.pane.locationPane.heading	Stored Locations	Original
 resourcePack.editor.goToMark.pane.locationPane.inputName	New Name	"Original Translation
 zh_CN: 新名称
 zh_TW: 新名稱"
+resourcePack.editor.goToMark.pane.locationPane.listHeader	World Locations	Original Translation
 resourcePack.editor.goToMark.pane.locationPane.markColor	Location Mark Color	"Original Translation
 zh_CN: 位置标记颜色
 zh_TW: 位置標記顏色"
@@ -42257,7 +42445,7 @@ zh_TW: 建立新的拼圖收藏集。"
 resourcePack.editor.jigsaw.pane.registryDeletion.tooltip	Delete this Jigsaw Collection.	"Original Translation
 zh_CN: 删除此拼图集合。
 zh_TW: 刪除此拼圖收藏集。"
-resourcePack.editor.jigsaw.pane.registryDropdown.heading	Jigsaw Collection:	"Original Translation
+resourcePack.editor.jigsaw.pane.registryDropdown.heading	Jigsaw Collection	"Original Translation
 zh_CN: 拼图集合：
 zh_TW: 拼圖收藏集："
 resourcePack.editor.jigsaw.pane.registryDropdown.tooltip	A collection of Jigsaw Pools that are used for Jigsaw Structure generation.	"Original Translation
@@ -43396,6 +43584,8 @@ zh_TW: 選取模式"
 resourcePack.editor.selectionTool.modeSelection.tooltip	Choose the mode that you want to use to make a Selection.	"Original Translation
 zh_CN: 选择要用来创建选区的模式。
 zh_TW: 選擇您想要用來建立選取範圍的模式。"
+resourcePack.editor.selectionTool.modeSelection.useSimpleSelection.title	2-Point Selection	Original Translation
+resourcePack.editor.selectionTool.modeSelection.useSimpleSelection.tooltip	Changes how SHIFT + left mouse click works when defining selections. 2-Point Selection defines the opposite corners to make a volume. 3-Point Selection first defines the opposite X & Z corners, then the Y is defined to make a volume.	Original Translation
 resourcePack.editor.selectionTool.projectThroughLiquid	Project through liquid	"Original Translation
 zh_CN: 通过液体投射
 zh_TW: 藉由液體投射"
@@ -45687,6 +45877,8 @@ zh_TW: 獎勵箱："
 selectWorld.cheats	Activate Cheats	"Original Translation
 zh_CN: 激活作弊
 zh_TW: 啟用作弊"
+selectWorld.cheats.description	Get access to Minecraft’s built-in cheat system	Original Translation
+selectWorld.cheats.name	Activate cheats	Original Translation
 selectWorld.conversion	Must be converted!	"Original Translation
 zh_CN: 必须进行转换！
 zh_TW: 必須被轉換！"
@@ -45747,6 +45939,7 @@ zh_TW: 空"
 selectWorld.enterName	World Name	"Original Translation
 zh_CN: 世界名称
 zh_TW: 世界名稱"
+selectWorld.enterName.name	World name	Original Translation
 selectWorld.enterSeed	Seed for the World Generator	"Original Translation
 zh_CN: 世界生成器的种子
 zh_TW: 世界產生器種子"
@@ -46159,67 +46352,67 @@ zh_TW: 穿戴於腿部時："
 soundCategory.ambient	Environmental audio	"Original Translation
 zh_CN: 环境音频
 zh_TW: 環境音效"
-soundCategory.ambient.description	The volume of ambient sounds made by the environment	"Original Translation
+soundCategory.ambient.description	Ambient sounds made by the environment	"Original Translation
 zh_CN: 环境产生的环境声音的音量
 zh_TW: 環境發出的環境聲音的音量"
 soundCategory.block	Blocks	"Original Translation
 zh_CN: 方块
 zh_TW: 方塊"
-soundCategory.block.description	The volume of sounds when placing or removing blocks	"Original Translation
+soundCategory.block.description	Sounds when placing or removing blocks	"Original Translation
 zh_CN: 放置或移除方块时的声音音量
 zh_TW: 放置或移除方塊時的音量"
 soundCategory.hostile	Hostile mobs	"Original Translation
 zh_CN: 敌对生物
 zh_TW: 敵對生物"
-soundCategory.hostile.description	The volume of sounds made by nearby enemies	"Original Translation
+soundCategory.hostile.description	Like zombies and skeletons	"Original Translation
 zh_CN: 附近敌人发出的声音音量
 zh_TW: 附近敵人發出的聲音的音量"
 soundCategory.main	Global	"Original Translation
 zh_CN: 全局
 zh_TW: 整體音量"
-soundCategory.main.description	The overall volume of the game	"Original Translation
+soundCategory.main.description	Overall volume of the game	"Original Translation
 zh_CN: 游戏的整体音量
 zh_TW: 遊戲的整體音量"
 soundCategory.music	Music	"Original Translation
 zh_CN: 音乐
 zh_TW: 音樂"
-soundCategory.music.description	The volume of the background music	"Original Translation
+soundCategory.music.description	Background music	"Original Translation
 zh_CN: 背景音乐的音量
 zh_TW: 背景音樂的音量"
 soundCategory.neutral	Friendly mobs	"Original Translation
 zh_CN: 友好生物
 zh_TW: 友善生物"
-soundCategory.neutral.description	The volume of sounds made by mobs like animals and villagers	"Original Translation
+soundCategory.neutral.description	Like animals and villagers	"Original Translation
 zh_CN: 动物和村民等生物发出的声音音量
 zh_TW: 動物和村民等生物發出的聲音的音量"
 soundCategory.player	Other players	"Original Translation
 zh_CN: 其他玩家
 zh_TW: 其他玩家"
-soundCategory.player.description	The volume of sounds made by other nearby players	"Original Translation
+soundCategory.player.description	Sounds made by other nearby players	"Original Translation
 zh_CN: 附近其他玩家发出的声音音量
 zh_TW: 附近其他玩家發出的聲音的音量"
 soundCategory.record	Musical blocks	"Original Translation
 zh_CN: 音乐方块
 zh_TW: 音樂方塊"
-soundCategory.record.description	The volume of sounds made by jukebox and note blocks	"Original Translation
+soundCategory.record.description	Like jukeboxes and note blocks	"Original Translation
 zh_CN: 唱片机和音符方块发出的声音音量
 zh_TW: 唱片機和音符塊發出的聲音的音量"
 soundCategory.sound	Sound effects	"Original Translation
 zh_CN: 音效
 zh_TW: 音效"
-soundCategory.sound.description	The volume of sounds that aren’t otherwise covered below, such as your footsteps and most UI sounds	"Original Translation
+soundCategory.sound.description	Sounds that aren’t covered below, like your footsteps and most UI sounds	"Original Translation
 zh_CN: 以下未涉及的声音音量，如你的脚步声和大多数 UI 声音
 zh_TW: 未在下方提及的聲音的音量，例如你的腳步聲和大部分使用者介面聲音"
 soundCategory.texttospeech	Text to speech	"Original Translation
 zh_CN: 文本转语音
 zh_TW: 文字轉語音輸出"
-soundCategory.texttospeech.description	The volume of the game’s text to speech voice	"Original Translation
+soundCategory.texttospeech.description	The game’s text to speech voice	"Original Translation
 zh_CN: 游戏文本转语音的音量
 zh_TW: 遊戲文字轉語音的音量"
 soundCategory.weather	Weather	"Original Translation
 zh_CN: 天气
 zh_TW: 天氣"
-soundCategory.weather.description	The volume of weather sounds, like rain and wind	"Original Translation
+soundCategory.weather.description	Weather sounds like rain and wind	"Original Translation
 zh_CN: 雨、风等天气的声音音量
 zh_TW: 雨和風等天氣聲音的音量"
 splitscreen.joinPrompt	Join as Player %s	"Original Translation
@@ -48611,6 +48804,8 @@ zh_TW: 此動作將從 Realm 的使用中欄位刪除你目前的世界，並且
 store.uploadWorldTitle	Replace World?	"Original Translation
 zh_CN: 替换世界吗？
 zh_TW: 是否要取代世界？"
+store.vibrantvisuals.enabled.automatically.failed	Graphics Mode Setting not changed to Vibrant Visuals	Original Translation
+store.vibrantvisuals.enabled.automatically.success	Changed Graphic Mode - Vibrant Visuals enabled	Original Translation
 store.view_achievement	View achievement	"Original Translation
 zh_CN: 查看成就
 zh_TW: 檢視成就"
