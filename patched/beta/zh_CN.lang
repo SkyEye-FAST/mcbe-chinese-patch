@@ -2810,7 +2810,6 @@ midgameTips.25=铁傀儡有时候会把鲜花送给小村民！
 midgameTips.50=当你直接向上挖的时候，在你的脚边放一个火把，破坏任何可能掉到你身上的沙子或砂砾。
 midgameTips.51=对蜂箱或蜂巢使用剪刀以获得蜜脾，使用瓶子获取蜂蜜。
 options.attribution=著作权说明
-options.attribution.buttonLabel=查看
 options.buildInfo.buttonLabel=复制文本
 options.buildInfo.notification=已复制数据到剪贴板
 options.codeBuilder=代码构建器
