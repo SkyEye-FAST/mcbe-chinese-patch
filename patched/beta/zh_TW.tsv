@@ -650,6 +650,8 @@ zh_TW: 文字方塊"	"文字方塊"
 "accessibility.toast"	"Notification"	"Original Translation
 zh_CN: 通知
 zh_TW: 通知"	"通知"
+"accessibility.toast.button"	"Press %s to %s"	"Original Translation"	""
+"accessibility.toast.notification.ButtonTtsTouch"	"Double tap the button at the top of the screen to %s"	"Original Translation"	""
 "accessibility.toggle.tts.title"	"Toggle"	"Original Translation
 zh_CN: 切换
 zh_TW: 切換"	"切換"
@@ -2355,6 +2357,7 @@ zh_TW: 開啟允許清單"	""
 "commands.allowlist.list"	"There are %1$d (out of %2$d seen) allowlisted players:"	"Original Translation
 zh_CN: 现有 %1$d 名（可看到的共 %2$d 名）在允许列表中的玩家：
 zh_TW: 共有 %1$d 位允許清單玩家 (全體玩家共 %2$d 位)："	""
+"commands.allowlist.noOnlineAuth"	"Using an allowlist without online authentication can be dangerous and is not allowed."	"Original Translation"	""
 "commands.allowlist.reloaded"	"Allowlist reloaded from file."	"Original Translation
 zh_CN: 已从文件重新读取允许列表。
 zh_TW: 允許清單已自檔案重新載入。"	""
@@ -5971,8 +5974,8 @@ zh_TW: 重新調整村民交易的平衡性"	""
 "createWorldScreen.experimentalVillagerTradesRebalanceDescription"	"Contains updated trades for villagers for the purpose of rebalancing"	"Original Translation
 zh_CN: 包含为村民更新的贸易，以便重新平衡
 zh_TW: 包含村民交易更新，旨在重新調整平衡性"	""
-"createWorldScreen.experimentalY2026Drop1"	"Drop 1 of 2026"	"Original Translation"	""
-"createWorldScreen.experimentalY2026Drop1Description"	"Make lots of tiny friends with a whole cast of cute new baby mobs"	"Original Translation"	""
+"createWorldScreen.experimentalVoxelShapeFeatures"	"Experimental Voxel Shape Features"	"Original Translation"	""
+"createWorldScreen.experimentalVoxelShapeFeaturesDescription"	"Enables the use of voxel shapes for some vanilla and custom blocks"	"Original Translation"	""
 "createWorldScreen.experimentalgameplay"	"Experiments"	"Original Translation
 zh_CN: 实验性游戏内容
 zh_TW: 實驗性內容"	""
@@ -8686,30 +8689,32 @@ zh_TW: 此伺服器已停用，因此你無法加入。"	""
 "edu.servers_screen.disabled.title"	"Disabled Server"	"Original Translation
 zh_CN: 禁用的服务器
 zh_TW: 已停用的伺服器"	""
-"edu.servers_screen.error_add_server_forbidden_text"	"Server not available for your tenant."	"Original Translation
-zh_CN: 服务器对你的租户不可用。
-zh_TW: 您的帳號無法使用此伺服器。"	""
-"edu.servers_screen.error_join_server_feature_disabled_body"	"Your Minecraft Education servers have been disabled. Please contact your IT administrator."	"Original Translation"	""
-"edu.servers_screen.error_join_server_feature_disabled_title"	"Servers disabled"	"Original Translation"	""
-"edu.servers_screen.error_join_server_forbidden_text"	"Incorrect Passcode. Sorry, but you need to enter the correct passcode to access this server."	"Original Translation
-zh_CN: 密码错误。抱歉，但你需要输入正确的密码才能访问此服务器。
-zh_TW: 密碼錯誤。抱歉，您需要輸入正確的密碼才能進入這個伺服器。"	""
-"edu.servers_screen.error_join_server_forbidden_title"	"Can't join"	"Original Translation
-zh_CN: 无法加入
-zh_TW: 無法加入"	""
-"edu.servers_screen.error_join_server_unexpectedly_disabled_body"	"This Minecraft Education server has been disabled. It will be removed until re-enabled. For information, please contact your IT administrator."	"Original Translation"	""
+"edu.servers_screen.error_add_server_forbidden_body"	"You don't have access to the server ID you entered. Try double checking that you entered the correct server ID or contacting your IT administrator."	"Original Translation"	""
+"edu.servers_screen.error_add_server_forbidden_title"	"Insufficient permissions"	"Original Translation"	""
+"edu.servers_screen.error_add_server_not_found_body"	"The server you tried to add could not be found. It may not exist or may have been removed. Try double checking that you entered the correct server ID or contacting your IT administrator."	"Original Translation"	""
+"edu.servers_screen.error_add_server_not_found_title"	"Server not found"	"Original Translation"	""
+"edu.servers_screen.error_add_server_unknown_error_body"	"Oops! Something went wrong while adding the server. Please try again. If the problem persists, please contact your IT administrator."	"Original Translation"	""
+"edu.servers_screen.error_add_server_unknown_error_title"	"Add server error"	"Original Translation"	""
+"edu.servers_screen.error_join_server_feature_disabled_body"	"Your Minecraft Education servers have been disabled. For more information, please contact your IT administrator."	"Original Translation"	""
+"edu.servers_screen.error_join_server_feature_disabled_title"	"Dedicated servers disabled"	"Original Translation"	""
+"edu.servers_screen.error_join_server_incorrect_passcode_body"	"The passcode you entered is incorrect. Please try again."	"Original Translation"	""
+"edu.servers_screen.error_join_server_incorrect_passcode_title"	"Incorrect passcode"	"Original Translation"	""
+"edu.servers_screen.error_join_server_removed_body"	"This Minecraft Education server has been permanently removed. For more information, please contact your IT administrator."	"Original Translation"	""
+"edu.servers_screen.error_join_server_removed_title"	"Server removed"	"Original Translation"	""
+"edu.servers_screen.error_join_server_unavailable_body"	"The server became unavailable while attempting to join. For more information, please contact your IT administrator."	"Original Translation"	""
+"edu.servers_screen.error_join_server_unavailable_title"	"Server unavailable"	"Original Translation"	""
+"edu.servers_screen.error_join_server_unexpectedly_disabled_body"	"This Minecraft Education server has been disabled. For more information, please contact your IT administrator."	"Original Translation"	""
 "edu.servers_screen.error_join_server_unexpectedly_disabled_title"	"Server disabled"	"Original Translation"	""
-"edu.servers_screen.error_load_server_feature_disabled_banner"	"Your Minecraft Education servers have been disabled. Please contact your IT administrator or try again later."	"Original Translation"	""
-"edu.servers_screen.error_load_server_service_unavailable_banner"	"We’re sorry. We’re having some trouble retrieving information about your Minecraft Education servers. Please try again later."	"Original Translation"	""
-"edu.servers_screen.generic_error_code"	"Error code:"	"Original Translation
-zh_CN: 错误代码：
-zh_TW: 錯誤代碼："	""
-"edu.servers_screen.generic_error_text"	"Something went wrong. Please try again or contact your IT administrator."	"Original Translation
-zh_CN: 出错了。请重试或联系你的 IT 管理员。
-zh_TW: 發生錯誤。請再試一次或聯絡你的 IT 管理員。"	""
-"edu.servers_screen.generic_error_title"	"Server Error"	"Original Translation
-zh_CN: 服务器错误
-zh_TW: 伺服器錯誤"	""
+"edu.servers_screen.error_join_server_unknown_error_body"	"Oops! Something went wrong while joining the server. Please try again. If the problem persists, please contact your IT administrator."	"Original Translation"	""
+"edu.servers_screen.error_join_server_unknown_error_title"	"Join server error"	"Original Translation"	""
+"edu.servers_screen.error_load_server_feature_disabled_body"	"Your Minecraft Education servers have been disabled. For more information, please contact your IT administrator."	"Original Translation"	""
+"edu.servers_screen.error_load_server_feature_disabled_title"	"Dedicated servers disabled"	"Original Translation"	""
+"edu.servers_screen.error_load_server_unknown_error_body"	"Oops! Something went wrong while fetching your servers. Please try again. If the problem persists, please contact your IT administrator."	"Original Translation"	""
+"edu.servers_screen.error_load_server_unknown_error_title"	"Fetch servers error"	"Original Translation"	""
+"edu.servers_screen.generic_error_expired_body"	"We can't fetch your servers right now. Please try again later. If the problem persists, try restarting the app, or signing out and signing in again."	"Original Translation"	""
+"edu.servers_screen.generic_error_expired_title"	"Session expired"	"Original Translation"	""
+"edu.servers_screen.generic_error_unavailable_body"	"We're unable to connect to the service. Please check your internet connection and try again. If the problem persists, contact your IT administrator."	"Original Translation"	""
+"edu.servers_screen.generic_error_unavailable_title"	"Service unavailable"	"Original Translation"	""
 "edu.servers_screen.new"	"NEW"	"Original Translation"	""
 "edu.servers_screen.play"	"PLAY"	"Original Translation
 zh_CN: 开始探索
@@ -11323,7 +11328,7 @@ zh_TW: 解鎖"	""
 zh_CN: 返回
 zh_TW: 返回"	""
 "hbui.BackButton.narration.backButton"	"Back button"	"Original Translation
-zh_CN: 返回键
+zh_CN: 返回按钮
 zh_TW: 返回按鈕"	""
 "hbui.BackButton.narrationComponentType"	"Button"	"Original Translation
 zh_CN: 按钮
@@ -11518,10 +11523,10 @@ zh_TW: 開啟"	""
 zh_CN: 已选择
 zh_TW: 已選取"	""
 "hbui.BaseDropdown.stateCollapsed"	"Collapsed"	"Original Translation
-zh_CN: 已折叠
+zh_CN: 崩溃的
 zh_TW: 已摺疊"	""
 "hbui.BaseDropdown.stateExpanded"	"Expanded"	"Original Translation
-zh_CN: 已扩展
+zh_CN: 扩展的
 zh_TW: 已展開"	""
 "hbui.BaseDropdown.toggleElementType"	"Option"	"Original Translation
 zh_CN: 选项
@@ -11563,10 +11568,10 @@ zh_TW: 開關"	""
 zh_CN: 禁用
 zh_TW: 停用"	""
 "hbui.BaseSwitch.off"	"Off"	"Original Translation
-zh_CN: 关
+zh_CN: 关闭
 zh_TW: 關閉"	""
 "hbui.BaseSwitch.on"	"On"	"Original Translation
-zh_CN: 开
+zh_CN: 打开
 zh_TW: 開啟"	""
 "hbui.BaseSwitch.toggle"	"Toggle"	"Original Translation
 zh_CN: 切换
@@ -14462,6 +14467,13 @@ zh_TW: 選取"	""
 "hbui.EditRealmWorld.ProfanityWarning.messageItem.name"	"Name: %1$s"	"Original Translation"	""
 "hbui.EditRealmWorld.ProfanityWarning.messageItem.title"	"Other players will see “%1$s” as"	"Original Translation"	""
 "hbui.EditRealmWorld.ProfanityWarning.title"	"Profanity warning"	"Original Translation"	""
+"hbui.EditRealmWorld.SaveErrorModal.messageAllChangesFailed"	"The changes to your Realm may not have saved correctly. Check your internet connection and try again."	"Original Translation"	""
+"hbui.EditRealmWorld.SaveErrorModal.messagePacksFailed"	"Your packs failed to load to Realms. Please check your internet connection and try again."	"Original Translation"	""
+"hbui.EditRealmWorld.SaveErrorModal.messagePartialFailure"	"Some of the changes to your Realm may not have saved correctly."	"Original Translation"	""
+"hbui.EditRealmWorld.SaveErrorModal.messageSettingsNetwork"	"Your settings failed to save to Realms, please check your internet connection and try again."	"Original Translation"	""
+"hbui.EditRealmWorld.SaveErrorModal.messageSettingsProfanity"	"Your settings failed to save to Realms, your world name contains words that others may find offensive. Please try again."	"Original Translation"	""
+"hbui.EditRealmWorld.SaveErrorModal.ok"	"OK"	"Original Translation"	""
+"hbui.EditRealmWorld.SaveErrorModal.title"	"Realm save interrupted"	"Original Translation"	""
 "hbui.EditRealmWorld.banner.closed"	"Closed"	"Original Translation
 zh_CN: 已关闭
 zh_TW: 已關閉"	""
@@ -16488,6 +16500,7 @@ zh_TW: 最愛 (%1$s/%2$s)"	""
 "hbui.FriendList.friends"	"Friends (%1$s/%2$s)"	"Original Translation
 zh_CN: 好友 (%1$s/%2$s)
 zh_TW: 好友 (%1$s/%2$s)"	""
+"hbui.FriendList.joinableFriends"	"Joinable friends (%1$s)"	"Original Translation"	""
 "hbui.FriendList.mutualFriendsFriendsNumberMultiple"	"%1$s friends"	"Original Translation
 zh_CN: %1$s 位好友
 zh_TW: %1$s 位好友"	""
@@ -16500,6 +16513,9 @@ zh_TW: 最愛的好友"	""
 "hbui.FriendList.narration.friends"	"Friends"	"Original Translation
 zh_CN: 好友
 zh_TW: 好友"	""
+"hbui.FriendList.narration.joinableFriends"	"Joinable friends"	"Original Translation"	""
+"hbui.FriendList.narration.joinableFriendsNumberMultiple"	"%s joinable friends online"	"Original Translation"	""
+"hbui.FriendList.narration.joinableFriendsNumberSingular"	"%s joinable friend online"	"Original Translation"	""
 "hbui.FriendList.narration.offline"	"Offline Friends"	"Original Translation
 zh_CN: 离线好友
 zh_TW: 離線好友"	""
@@ -16644,9 +16660,6 @@ zh_TW: 按鈕"	""
 "hbui.GetMoreButton.inputLegend"	"Discover"	"Original Translation
 zh_CN: 发现
 zh_TW: 探索"	""
-"hbui.GuidedCreateWorldRoute.title"	"Guided World Creation"	"Original Translation
-zh_CN: 引导式世界创建
-zh_TW: 引導式世界建構"	""
 "hbui.HasMarketplacePassModal.body"	"Realms Plus includes Marketplace Pass content. We suggest that you cancel your Marketplace Pass subscription after signing up for Realms Plus."	"Original Translation
 zh_CN: Realms Plus 包含 Marketplace Pass 内容。我们建议您在注册 Realms Plus 后取消订阅 Marketplace Pass。
 zh_TW: Realms Plus 包含 Marketplace Pass 內容。建議您在註冊您的 Realms Plus 後，取消您的 Marketplace Pass 訂閱。"	""
@@ -17144,6 +17157,8 @@ zh_TW: 您嘗試加入的 Realm 已關閉。"	""
 "hbui.JoinRealmsServerError.realmExpired"	"The Realm you tried to join has expired."	"Original Translation
 zh_CN: 你尝试加入的 Realm 已过期。
 zh_TW: 您嘗試加入的 Realm 已過期。"	""
+"hbui.JoinRealmsServerError.realmSuspended.message"	"You cannot use this Realm because of a restriction placed on the owner of this Realm."	"Original Translation"	""
+"hbui.JoinRealmsServerError.realmSuspended.title"	"Can't join Realm"	"Original Translation"	""
 "hbui.JoinRealmsServerError.unassignedDevVersion.body1"	"A non-retail Realm world must be manually assigned a game version to use."	"Original Translation
 zh_CN: 非零售 Realm 世界必须手动分配一个游戏版本才能使用。
 zh_TW: 非正式版的 Realm 世界必須手動指派要使用的遊戲版本。"	""
@@ -17421,9 +17436,8 @@ zh_TW: 好友"	""
 "hbui.NavigationBarLayout.FriendsButton.inputLegend"	"Friends"	"Original Translation
 zh_CN: 好友
 zh_TW: 好友"	""
-"hbui.NavigationBarLayout.FriendsButton.narration"	"Friends Button"	"Original Translation
-zh_CN: 好友按钮
-zh_TW: 好友按鈕"	""
+"hbui.NavigationBarLayout.FriendsButton.narration.friends"	"Friends Button"	"Original Translation"	""
+"hbui.NavigationBarLayout.FriendsButton.narration.social"	"Social Button"	"Original Translation"	""
 "hbui.NavigationBarLayout.FriendsButton.social"	"Social"	"Original Translation
 zh_CN: 社交
 zh_TW: 社交"	""
@@ -17620,6 +17634,10 @@ zh_TW: 您已離線。請檢查您的網際網路連線以存取線上功能。"
 "hbui.NoInternetModal.title"	"No internet"	"Original Translation
 zh_CN: 无法访问互联网
 zh_TW: 無網際網路"	""
+"hbui.NotFollowingPartyModal.doNotShowAgain"	"Don't show me this message again"	"Original Translation"	""
+"hbui.NotFollowingPartyModal.goBack"	"Go back"	"Original Translation"	""
+"hbui.NotFollowingPartyModal.message"	"You are not following your party into the experience. You can rejoin your party from the social menu whenever you want."	"Original Translation"	""
+"hbui.NotFollowingPartyModal.title"	"Not following party"	"Original Translation"	""
 "hbui.Notifications.achievementsDisabled"	"You can’t earn achievements."	"Original Translation
 zh_CN: 你无法获得成就。
 zh_TW: 您無法獲得成就。"	""
@@ -17911,10 +17929,6 @@ zh_TW: 往後跳至第 %1$s 頁"	""
 "hbui.Pagination.unselected"	"Not selected"	"Original Translation
 zh_CN: 未选择
 zh_TW: 未選擇"	""
-"hbui.PartyDeclineTravelModal.cancel"	"Move with party"	"Original Translation"	""
-"hbui.PartyDeclineTravelModal.confirm"	"Decline move"	"Original Translation"	""
-"hbui.PartyDeclineTravelModal.message"	"Your party is moving to a new world. If you decline now, you can join the world later in the Social Menu."	"Original Translation"	""
-"hbui.PartyDeclineTravelModal.title"	"Decline move?"	"Original Translation"	""
 "hbui.PartyInviteListGroup.friendsTitle"	"Friends"	"Original Translation
 zh_CN: 好友
 zh_TW: 好友"	""
@@ -17989,7 +18003,7 @@ zh_CN: 已收到邀请 (%1$s)
 zh_TW: 收到的邀請 (%1$s)"	""
 "hbui.PartyUnsupportedWorldModal.cancel"	"Go back"	"Original Translation"	""
 "hbui.PartyUnsupportedWorldModal.confirm"	"Leave party"	"Original Translation"	""
-"hbui.PartyUnsupportedWorldModal.message"	"Realms, Servers, and some other types of worlds are not enabled for parties."	"Original Translation"	""
+"hbui.PartyUnsupportedWorldModal.message"	"Some types of worlds are not enabled for parties yet."	"Original Translation"	""
 "hbui.PartyUnsupportedWorldModal.title"	"You cannot come here with your party yet"	"Original Translation"	""
 "hbui.PartyWorldCapacityModal.cancel"	"Go back"	"Original Translation"	""
 "hbui.PartyWorldCapacityModal.confirm"	"Join world"	"Original Translation"	""
@@ -19624,6 +19638,8 @@ zh_TW: 在 Minecraft 中新增我為好友吧！"	""
 "hbui.PlayerOptionsModal.signOut"	"Sign out"	"Original Translation
 zh_CN: 注销
 zh_TW: 登出"	""
+"hbui.PlayerOptionsModal.unblock"	"Unblock"	"Original Translation"	""
+"hbui.PlayerOptionsModal.unmute"	"Unmute"	"Original Translation"	""
 "hbui.PlayerOptionsModal.viewXboxProfile"	"View Xbox profile"	"Original Translation
 zh_CN: 查看 Xbox 档案
 zh_TW: 檢視 Xbox 設定檔"	""
@@ -20241,6 +20257,7 @@ zh_TW: 此邀請已失效。"	""
 "hbui.Realms.InviteExpiredModals.ok"	"Ok"	"Original Translation
 zh_CN: 好的
 zh_TW: 確定"	""
+"hbui.Realms.JoinRealmModals.fetchRealmInProgress"	"Fetching Realm"	"Original Translation"	""
 "hbui.Realms.LoadingModals.activatingSlot"	"Switching Slot..."	"Original Translation
 zh_CN: 正在切换栏位...
 zh_TW: 切換空位…"	""
@@ -21570,6 +21587,7 @@ zh_TW: 按下以存取玩家個人檔案"	""
 "hbui.RealmsStories.RealmPlayerListItem.viewProfile"	"View player profile"	"Original Translation
 zh_CN: 查看玩家档案
 zh_TW: 檢視玩家設定檔"	""
+"hbui.RealmsStories.RealmsHubPlayerListItem.invited"	"Invited"	"Original Translation"	""
 "hbui.RealmsStories.ReportFeedItem.buttonLegend"	"Select"	"Original Translation
 zh_CN: 选择
 zh_TW: 選取"	""
@@ -22101,6 +22119,8 @@ zh_TW: 是否要刪除動態？"	""
 "hbui.RealmsStories.feedPost.options.enumeration"	"%1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
 zh_TW: %1$s/%2$s"	""
+"hbui.RealmsStories.feedPost.options.failed.admin.notifyMessage"	"Unable to notify administrators. Please check your internet connection and try again."	"Original Translation"	""
+"hbui.RealmsStories.feedPost.options.failed.admin.notifyTitle"	"Failed to notify administrators"	"Original Translation"	""
 "hbui.RealmsStories.feedPost.options.failed.close"	"Close"	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"	""
@@ -22134,6 +22154,13 @@ zh_TW: 向 Xbox Enforcement 回報失敗"	""
 "hbui.RealmsStories.feedPost.options.notify"	"Notify Realm owner"	"Original Translation
 zh_CN: 通知 Realm 所有者
 zh_TW: 通知 Realm 擁有者"	""
+"hbui.RealmsStories.feedPost.options.notify.admin"	"Notify administrators"	"Original Translation"	""
+"hbui.RealmsStories.feedPost.options.notify.admin.message"	"The administrators will be notified about this story. Are you sure you want to send the notification?"	"Original Translation"	""
+"hbui.RealmsStories.feedPost.options.notify.admin.message.comment"	"The administrators will be notified about this comment. Are you sure you want to send the notification?"	"Original Translation"	""
+"hbui.RealmsStories.feedPost.options.notify.admin.message.comment.narration"	"Textblock. The administrators will be notified about this comment. Are you sure you want to send the notification?"	"Original Translation"	""
+"hbui.RealmsStories.feedPost.options.notify.admin.message.narration"	"Textblock. The administrators will be notified about this story. Are you sure you want to send the notification?"	"Original Translation"	""
+"hbui.RealmsStories.feedPost.options.notify.admin.title"	"Notify administrators?"	"Original Translation"	""
+"hbui.RealmsStories.feedPost.options.notify.admin.toast"	"Administrators notified"	"Original Translation"	""
 "hbui.RealmsStories.feedPost.options.notify.cancel"	"Go back"	"Original Translation
 zh_CN: 返回
 zh_TW: 返回"	""
@@ -22257,6 +22284,7 @@ zh_TW: 按讚貼文"	""
 "hbui.RealmsStories.members"	"Members"	"Original Translation
 zh_CN: 成员
 zh_TW: 成員"	""
+"hbui.RealmsStories.members.admin"	"Administrators"	"Original Translation"	""
 "hbui.RealmsStories.members.allMembers"	"All members"	"Original Translation
 zh_CN: 所有成员
 zh_TW: 所有成員"	""
@@ -22297,9 +22325,7 @@ zh_TW: 線上成員"	""
 zh_CN: 管理员
 zh_TW: 操作者"	""
 "hbui.RealmsStories.members.pendingInvites"	"Pending invites"	"Original Translation"	""
-"hbui.RealmsStories.members.permission.member"	"Member (%1$s)"	"Original Translation"	""
-"hbui.RealmsStories.members.permission.operator"	"Operator (%1$s)"	"Original Translation"	""
-"hbui.RealmsStories.members.permission.visitor"	"Visitor (%1$s)"	"Original Translation"	""
+"hbui.RealmsStories.members.player"	"Players"	"Original Translation"	""
 "hbui.RealmsStories.members.playingOnRealm"	"Playing on the Realm"	"Original Translation"	""
 "hbui.RealmsStories.members.realmMembers"	"Realm members"	"Original Translation
 zh_CN: Realm 成员
@@ -22311,6 +22337,9 @@ zh_TW: Realm 擁有者"	""
 "hbui.RealmsStories.members.recentlyPlayed"	"Recently played"	"Original Translation
 zh_CN: 最近玩过的
 zh_TW: 最近玩過的"	""
+"hbui.RealmsStories.members.role.admin"	"Administrators (%1$s)"	"Original Translation"	""
+"hbui.RealmsStories.members.role.owner"	"Owner"	"Original Translation"	""
+"hbui.RealmsStories.members.role.player"	"Players (%1$s)"	"Original Translation"	""
 "hbui.RealmsStories.members.search"	"Search members of the Realm"	"Original Translation
 zh_CN: 搜索 Realm 成员
 zh_TW: 搜尋 Realm 的成員"	""
@@ -22339,6 +22368,7 @@ zh_TW: 螢幕"	""
 zh_CN: Section
 zh_TW: 區段"	""
 "hbui.RealmsStories.members.showAll"	"Show all"	"Original Translation"	""
+"hbui.RealmsStories.members.sort"	"Sort"	"Original Translation"	""
 "hbui.RealmsStories.members.sort.title"	"Sorting members of the Realm"	"Original Translation
 zh_CN: 正在对 Realm 成员排序
 zh_TW: 分類 Realm 的成員"	""
@@ -23129,7 +23159,7 @@ zh_TW: 選擇要在展示相簿中顯示的螢幕擷取畫面。"	""
 zh_CN: %1$s 的展示相册
 zh_TW: %1$s 的展示相簿"	""
 "hbui.ScrollView.loadingState"	"Loading"	"Original Translation
-zh_CN: 正在加载
+zh_CN: 正在载入
 zh_TW: 載入中"	""
 "hbui.ScrollView.narrationScrollViewComponentType"	"Content"	"Original Translation
 zh_CN: 内容
@@ -23423,6 +23453,7 @@ zh_TW: 封鎖"	""
 "hbui.SocialDrawer.PlayerOptionsMenu.editGameplayPermissions"	"Edit gameplay permissions"	"Original Translation
 zh_CN: 编辑游戏设置权限
 zh_TW: 編輯遊戲權限"	""
+"hbui.SocialDrawer.PlayerOptionsMenu.full"	"Full"	"Original Translation"	""
 "hbui.SocialDrawer.PlayerOptionsMenu.inviteToGame"	"Invite to game"	"Original Translation
 zh_CN: 邀请加入游戏
 zh_TW: 邀請加入遊戲"	""
@@ -23462,10 +23493,13 @@ zh_TW: 傳送訊息"	""
 "hbui.SocialDrawer.PlayerOptionsMenu.title"	"Options for %1$s"	"Original Translation
 zh_CN: %1$s 的选项
 zh_TW: %1$s 的選項"	""
+"hbui.SocialDrawer.PlayerOptionsMenu.unableToJoin"	"Unable to join"	"Original Translation"	""
+"hbui.SocialDrawer.PlayerOptionsMenu.unblock"	"Unblock"	"Original Translation"	""
 "hbui.SocialDrawer.PlayerOptionsMenu.unmute"	"Unmute"	"Original Translation
 zh_CN: 取消静音
 zh_TW: 取消靜音"	""
 "hbui.SocialDrawer.backButton"	"Back"	"Original Translation"	""
+"hbui.SocialDrawer.goToChat"	"Go to Chat"	"Original Translation"	""
 "hbui.SocialDrawer.narration.title"	"Social Drawer"	"Original Translation
 zh_CN: 社交抽屉
 zh_TW: 社交抽屜"	""
@@ -23485,6 +23519,7 @@ zh_TW: 世界"	""
 "hbui.SocialDrawerChat.PartyChat.label"	"Party chat"	"Original Translation"	""
 "hbui.SocialDrawerChat.PartyChat.notAvailable"	"Messages are not currently available for parties."	"Original Translation"	""
 "hbui.SocialDrawerChat.PartyChat.title"	"Party"	"Original Translation"	""
+"hbui.SocialDrawerChat.goToSocial"	"Go to Social"	"Original Translation"	""
 "hbui.SocialDrawerChat.narration.chatChannels"	"Chat channels"	"Original Translation"	""
 "hbui.SocialDrawerHeader.close"	"Close"	"Original Translation
 zh_CN: 关闭
@@ -24243,13 +24278,13 @@ zh_TW: 時間線"	""
 zh_CN: 返回
 zh_TW: 返回"	""
 "hbui.TitleBar.Buttons.Back.narration"	"Back button"	"Original Translation
-zh_CN: 返回键
+zh_CN: 返回按钮
 zh_TW: 返回按鈕"	""
 "hbui.TitleBar.Buttons.Close.inputLegend"	"Close"	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"	""
 "hbui.TitleBar.Buttons.Close.narration"	"Close button"	"Original Translation
-zh_CN: 关闭键
+zh_CN: 关闭按钮
 zh_TW: 關閉按鈕"	""
 "hbui.Toggle.count"	"%1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
@@ -24600,6 +24635,7 @@ zh_TW: 生存"	""
 "hbui.WorldTag.unknown"	"Unknown"	"Original Translation
 zh_CN: 未知
 zh_TW: 未知"	""
+"hbui.gameplay.DeathScreen.enumeration"	"%1$s of %2$s"	"Original Translation"	""
 "hbui.gameplay.DeathScreen.exitWorldButton"	"Exit world"	"Original Translation
 zh_CN: 退出世界
 zh_TW: 退出世界"	""
@@ -32764,6 +32800,7 @@ zh_TW: 往左"	""
 "key.moveRight"	"Move Right"	"Original Translation
 zh_CN: 向右移动
 zh_TW: 往右"	""
+"key.openToast"	"Open"	"Original Translation"	""
 "key.pause"	"Pause"	"Original Translation
 zh_CN: 暂停
 zh_TW: 暫停"	""
@@ -32836,9 +32873,6 @@ zh_TW: 切換渲染器"	""
 "key.use"	"Use Item / Place Block"	"Original Translation
 zh_CN: 使用物品/放置方块
 zh_TW: 使用物品/放置方塊"	""
-"key.viewToast"	"View"	"Original Translation
-zh_CN: 查看
-zh_TW: 檢視"	""
 "keyboard.keyName.0"	"0"	"Original Translation
 zh_CN: 0
 zh_TW: 0"	""
@@ -33600,7 +33634,7 @@ zh_CN: 用户界面
 zh_TW: 使用者介面"	""
 "menu.account.access"	"Press :_gamepad_face_button_down: to open the Account Settings."	"Original Translation"	""
 "menu.account.access.noicon"	"Select [A] to open the Account Settings."	"Original Translation"	""
-"menu.account.changeGamertag.buttonLabel"	"Change"	"Original Translation"	""
+"menu.account.changeGamertag.buttonLabel"	"Open"	"Original Translation"	""
 "menu.account.changeGamertag.title"	"Change Gamertag"	"Original Translation"	""
 "menu.account.changeName.title"	"Name"	"Original Translation"	""
 "menu.account.clearSignInData.buttonLabel"	"Clear data"	"Original Translation"	""
@@ -33612,11 +33646,11 @@ zh_TW: 使用者介面"	""
 "menu.account.deleteMicrosoftAccount.buttonLabel"	"Delete"	"Original Translation"	""
 "menu.account.deleteMicrosoftAccount.title"	"Delete Microsoft account"	"Original Translation"	""
 "menu.account.gamertag.title"	"Gamertag"	"Original Translation"	""
-"menu.account.manageAccount.buttonLabel"	"Manage"	"Original Translation"	""
+"menu.account.manageAccount.buttonLabel"	"Open"	"Original Translation"	""
 "menu.account.manageAccount.title"	"Manage Account"	"Original Translation"	""
 "menu.account.managePlaystationAuthorization.buttonLabel"	"Manage"	"Original Translation"	""
 "menu.account.managePlaystationAuthorization.title"	"Manage PlayStation™Network Authorisation"	"Original Translation"	""
-"menu.account.privacyAndSafety.buttonLabel"	"View"	"Original Translation"	""
+"menu.account.privacyAndSafety.buttonLabel"	"Open"	"Original Translation"	""
 "menu.account.privacyAndSafety.title"	"Privacy & online safety"	"Original Translation"	""
 "menu.account.realmMembershipInvites.buttonLabel"	"Manage"	"Original Translation"	""
 "menu.account.realmMembershipInvites.title"	"Manage Realms membership invites"	"Original Translation"	""
@@ -33848,9 +33882,6 @@ zh_TW: Minecraft Realms"	""
 "menu.onlinefriends"	"Friends (%s)"	"Original Translation
 zh_CN: 好友 (%s)
 zh_TW: 好友 (%s)"	""
-"menu.onlinefriends.tts.msg"	"Friends"	"Original Translation
-zh_CN: 朋友
-zh_TW: 好友"	""
 "menu.openMainMenu"	"Open main menu"	"Original Translation
 zh_CN: 打开主菜单
 zh_TW: 開啟主功能表"	""
@@ -33993,6 +34024,8 @@ zh_TW: 控制 Minecraft 的外觀與執行方式"	""
 "menu.video.tab.title"	"Video"	"Original Translation
 zh_CN: 图形、性能和布局
 zh_TW: 畫面、效能與版面配置"	""
+"menu.video.texture_streaming"	"Texture streaming"	"Original Translation"	""
+"menu.video.texture_streaming.description"	"Load textures only when needed to reduce memory usage. Requires game restart."	"Original Translation"	""
 "menu.worldtemplates"	"World Templates"	"Original Translation
 zh_CN: 世界模板
 zh_TW: 世界範本"	""
@@ -34728,7 +34761,7 @@ zh_TW: 大氣"	""
 "options.attribution"	"Attribution"	"Original Translation
 zh_CN: 署名
 zh_TW: 署名"	""
-"options.attribution.buttonLabel"	"View"	"Original Translation
+"options.attribution.buttonLabel"	"Open"	"Original Translation
 zh_CN: 查看
 zh_TW: 檢視"	""
 "options.attribution.description"	"Technology partners and systems"	"Original Translation
@@ -35044,9 +35077,12 @@ zh_TW: 刪除擷取內容"	""
 "options.creator.diagnosticsHeading"	"Script Diagnostics Settings"	"Original Translation
 zh_CN: 脚本诊断设置
 zh_TW: 指令碼診斷設定"	""
+"options.creator.editor.collectNetworkMetrics"	"Collect Network Metrics"	"Original Translation"	""
+"options.creator.editor.heading"	"Editor Settings"	"Original Translation"	""
 "options.creator.serverboundClientDiagnosticsEnabled"	"Enable Client Diagnostics"	"Original Translation
 zh_CN: 启用客户端诊断
 zh_TW: 啟用用戶端診斷"	""
+"options.creator.serverboundClientDiagnosticsEnabled.tooltip"	"Requires restart for client memory statistics"	"Original Translation"	""
 "options.creator.watchdogHangFormat"	"%s Seconds"	"Original Translation
 zh_CN: %s 秒
 zh_TW: %s 秒"	""
@@ -35929,7 +35965,7 @@ zh_TW: 方向鍵大小"	""
 "options.dwellbeforedragtime"	"Dwell Time Before Dragging(ms)"	"Original Translation
 zh_CN: 拖动前的停留时间 (ms)
 zh_TW: 拖動前的停留時間(ms)"	""
-"options.ecoMode"	"Experimental Power-Saving Features"	"Original Translation
+"options.ecoMode"	"Power-Saving Features"	"Original Translation
 zh_CN: 实验节能功能
 zh_TW: 實驗性節能功能"	""
 "options.edgeHighlightEnable"	"Edge Highlight"	"Original Translation
@@ -36083,7 +36119,7 @@ zh_TW: 正式發行前小眾測試偵錯"	""
 "options.font_license"	"Font License"	"Original Translation
 zh_CN: 字体证书
 zh_TW: 字體授權"	""
-"options.font_license.buttonLabel"	"Open"	"Original Translation
+"options.font_license.buttonLabel"	"View"	"Original Translation
 zh_CN: 打开
 zh_TW: 開啟"	""
 "options.font_license.description"	"A license for third-party fonts"	"Original Translation
@@ -37311,7 +37347,7 @@ zh_TW: 搖桿不透明度"	""
 "options.tinkeringList"	"Tinkering list"	"Original Translation
 zh_CN: 改造列表
 zh_TW: 技術清單"	""
-"options.tinkeringList.buttonLabel"	"Open"	"Original Translation
+"options.tinkeringList.buttonLabel"	"View"	"Original Translation
 zh_CN: 打开
 zh_TW: 開啟"	""
 "options.tinkeringList.description"	"Technical info that’s not relevant for players. Feel free to have a look if you’re curious!"	"Original Translation
@@ -37771,6 +37807,11 @@ zh_TW: 套件資訊清單中的所需「%s」元素為空白；預設為「%s」
 "packupgradewarning.required_manifest_property_missing"	"Missing '%s' element in pack manifest; Defaulting to '%s'."	"Original Translation
 zh_CN: 包清单中缺少 '%s' 元素；默认为 '%s'。
 zh_TW: 套件資訊清單中欠缺「%s」元素；預設為「%s」。"	""
+"parties.chat.joinedParty"	"You joined the party"	"Original Translation"	""
+"parties.chat.leaderChanged"	"%s is now the party leader"	"Original Translation"	""
+"parties.chat.memberJoined"	"%s joined the party"	"Original Translation"	""
+"parties.chat.memberLeft"	"%s left the party"	"Original Translation"	""
+"parties.chat.startedParty"	"You started the party"	"Original Translation"	""
 "parties.chat.unavailable"	"Not in a party or party chat not available"	"Original Translation"	""
 "parties.toast.acceptInviteFailed"	"Failed to accept invite"	"Original Translation
 zh_CN: 接受邀请失败
@@ -40881,6 +40922,7 @@ zh_TW: 新配方解鎖！"	""
 "recipeToast.newUnlock.tts"	"new recipes unlocked"	"Original Translation
 zh_CN: 新配方已解锁
 zh_TW: 解鎖新配方"	""
+"reconnectOnResumeScreen.title"	"Reconnecting you to your game"	"Original Translation"	""
 "record.nowPlaying"	"Now playing: %s"	"Original Translation
 zh_CN: 正在播放：%s
 zh_TW: 正在播放：%s"	""
@@ -42243,6 +42285,8 @@ zh_TW: 在 24 小時制、12 小時制和 Minecraft 時鐘之間切換。"	""
 "resourcePack.editor.exportProject.initialPlaySettings.customStartTime"	"Custom Start Time"	"Original Translation
 zh_CN: 自定义开始时间
 zh_TW: 自訂起始時間"	""
+"resourcePack.editor.exportProject.initialPlaySettings.keepPlayerData"	"Keep Player Data"	"Original Translation"	""
+"resourcePack.editor.exportProject.initialPlaySettings.keepPlayerData.tooltip"	"On export, include the player data for any player that had previously played in that world."	"Original Translation"	""
 "resourcePack.editor.exportProject.initialPlaySettings.spawnPosition"	"World Spawn Point"	"Original Translation
 zh_CN: 世界出生点
 zh_TW: 世界重生點"	""
@@ -43754,8 +43798,18 @@ zh_TW: 任意形狀"	""
 "resourcePack.editor.selectionTool.settingsPane.title"	"Selection"	"Original Translation
 zh_CN: 选择
 zh_TW: 選擇"	""
+"resourcePack.editor.selectionTool.toast.delete.noSelection"	"Please create a selection before using Delete."	"Original Translation"	""
+"resourcePack.editor.selectionTool.toast.fill.noSelection"	"Please create a selection before using Fill."	"Original Translation"	""
+"resourcePack.editor.selectionTool.toast.hollow.noChanges"	"Selection has no interior blocks to hollow."	"Original Translation"	""
+"resourcePack.editor.selectionTool.toast.hollow.noSelection"	"Please create a selection before using Hollow."	"Original Translation"	""
 "resourcePack.editor.selectionTool.toast.noSelection.description"	"Please create a selection before generating a manifest."	"Original Translation"	""
 "resourcePack.editor.selectionTool.toast.noSelection.title"	"No Selection"	"Original Translation"	""
+"resourcePack.editor.selectionTool.toast.removeAir.noBlocksRemaining"	"Selection contains only air blocks."	"Original Translation"	""
+"resourcePack.editor.selectionTool.toast.removeAir.noChanges"	"There were no air blocks to remove."	"Original Translation"	""
+"resourcePack.editor.selectionTool.toast.removeAir.noSelection"	"Please create a selection before using Remove Air."	"Original Translation"	""
+"resourcePack.editor.selectionTool.toast.trimSelection.noBlocksRemaining"	"Selection contains only air blocks."	"Original Translation"	""
+"resourcePack.editor.selectionTool.toast.trimSelection.noChanges"	"Selection is already as compact as possible."	"Original Translation"	""
+"resourcePack.editor.selectionTool.toast.trimSelection.noSelection"	"Please create a selection before using Trim Selection."	"Original Translation"	""
 "resourcePack.editor.selectionTool.toolRail.description"	"Left mouse click and drag to create a Selection; CTRL + D to Deselect."	"Original Translation
 zh_CN: 鼠标左键点击并拖动以创建选区；按 CTRL + D 取消选择。
 zh_TW: 按下滑鼠左鍵並拖曳以建立選取範圍；按 CTRL + D 取消選取。"	""
@@ -44746,6 +44800,8 @@ zh_TW: 向上移動已選取項目"	""
 "resourcePack.editor.toolRail.line.keyBinding.moveUp.tooltip"	"Move the selected Control Point(s) up."	"Original Translation
 zh_CN: 向上移动所选的控制点。
 zh_TW: 將選取的控制點向上移動。"	""
+"resourcePack.editor.toolRail.line.keyBinding.select.title"	"Make Selection"	"Original Translation"	""
+"resourcePack.editor.toolRail.line.keyBinding.select.tooltip"	"Add a selection volume to the world."	"Original Translation"	""
 "resourcePack.editor.toolRail.line.keyBinding.toggleAll.title"	"Select All"	"Original Translation
 zh_CN: 全选
 zh_TW: 全選"	""
