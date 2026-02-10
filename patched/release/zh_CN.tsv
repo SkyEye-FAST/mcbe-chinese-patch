@@ -3304,10 +3304,10 @@ zh_CN: 未知的命令：%s。请检查命令是否存在，以及您对它是�
 zh_TW: 不明的指令：%s。請確認該指令是否存在，以及您是否具備使用該指令的權限。"	""
 "commands.generic.usage"	"Usage: %1$s"	"Original Translation
 zh_CN: 用法：%1$s
-zh_TW: 用法：%1$s"	""
+zh_TW: 用法：%1$s"	"用法：%1$s"
 "commands.generic.usage.noparam"	"Usage:"	"Original Translation
 zh_CN: 使用：
-zh_TW: 用法："	""
+zh_TW: 用法："	"用法："
 "commands.generic.version.mismatch"	"The requested version doesn't exist for this command"	"Original Translation
 zh_CN: 该指令不存在请求的版本
 zh_TW: 此指令無此要求的版本存在"	""
@@ -26125,7 +26125,7 @@ zh_CN: 锻造模板
 zh_TW: 鍛造範本"	""
 "howtoplay.smithing_table.header.2"	"Armor Trims"	"Original Translation
 zh_CN: 纹饰盔甲
-zh_TW: 紋飾護甲"	""
+zh_TW: 紋飾護甲"	"盔甲纹饰"
 "howtoplay.smithing_table.text.1"	"Want to get the most out of your equipment? You'll need a Smithing Table."	"Original Translation
 zh_CN: 想要充分利用设备？你需要一张锻造台。
 zh_TW: 想要發揮裝備的最大威力？你需要一張鍛造台。"	""
@@ -29512,7 +29512,7 @@ zh_CN: 溴化钙
 zh_TW: 溴化鈣"	"溴化钙"
 "item.compound.calciumchloride.formula"	"CaCl₂"	"Original Translation
 zh_CN: CaCl₂
-zh_TW: CaCl₂"	"C418 - ward"
+zh_TW: CaCl₂"	"CaCl₂"
 "item.compound.calciumchloride.name"	"Calcium Chloride"	"Original Translation
 zh_CN: 氯化钙
 zh_TW: 氯化鈣"	"氯化钙"
@@ -42783,25 +42783,25 @@ zh_CN: 世界设置
 zh_TW: 世界設定"	""
 "resourcePack.editor.playtest.AdvancedSettings.title"	"Advanced Settings"	"Original Translation
 zh_CN: 高级设置
-zh_TW: 進階設定"	""
+zh_TW: 進階設定"	"高级设置"
 "resourcePack.editor.playtest.AdvancedSettings.tooltip"	"These are settings that allows for further customization of the world. These settings do not require Cheats to be enabled."	"Original Translation
 zh_CN: 这些设置允许进一步自定义世界，不需要启用作弊。
 zh_TW: 這些設定可以讓您進一步自訂世界。這些設定不需要啟用作弊模式。"	""
 "resourcePack.editor.playtest.Dialog.DaylightCycle"	"Daylight Cycle"	"Original Translation
 zh_CN: 昼夜更替
-zh_TW: 日夜循環"	""
+zh_TW: 日夜循環"	"昼夜更替"
 "resourcePack.editor.playtest.Dialog.DaylightCycle.tooltip"	"Determines if Daylight Cycle is enabled or locked to a specific time."	"Original Translation
 zh_CN: 确定是启用昼夜更替还是锁定到特定时间。
 zh_TW: 決定是否啟用日夜循環，或是鎖定在特定時間。"	""
 "resourcePack.editor.playtest.Dialog.Difficulty"	"Difficulty"	"Original Translation
 zh_CN: 难度
-zh_TW: 難易度"	""
+zh_TW: 難易度"	"难度"
 "resourcePack.editor.playtest.Dialog.Difficulty.tooltip"	"The Difficulty used during the playtest."	"Original Translation
 zh_CN: 游戏测试期间使用的难度。
 zh_TW: 遊戲測試期間使用的難度。"	""
 "resourcePack.editor.playtest.Dialog.GameMode"	"Game Mode"	"Original Translation
 zh_CN: 游戏模式
-zh_TW: 遊戲模式"	""
+zh_TW: 遊戲模式"	"游戏模式"
 "resourcePack.editor.playtest.Dialog.GameMode.tooltip"	"The Game Mode used during the playtest."	"Original Translation
 zh_CN: 游戏测试期间使用的游戏模式。
 zh_TW: 遊戲測試期間使用的遊戲模式。"	""
@@ -42822,7 +42822,7 @@ zh_CN: 在工具模式下，在当前位置开始游戏测试。
 zh_TW: 在工具模式下，於目前位置開始遊戲測試。"	""
 "resourcePack.editor.playtest.Dialog.ShowCoordinates"	"Show Coordinates"	"Original Translation
 zh_CN: 显示坐标
-zh_TW: 顯示座標"	""
+zh_TW: 顯示座標"	"显示坐标"
 "resourcePack.editor.playtest.Dialog.ShowCoordinates.tooltip"	"Displays the world coordinates on the players' screen of their current position."	"Original Translation
 zh_CN: 在玩家的屏幕上显示当前位置的世界坐标。
 zh_TW: 顯示玩家目前位置的世界座標。"	""
@@ -42840,13 +42840,13 @@ zh_CN: 测试设置
 zh_TW: 測試設定"	""
 "resourcePack.editor.playtest.Dialog.Weather"	"Weather"	"Original Translation
 zh_CN: 天气
-zh_TW: 天氣"	""
+zh_TW: 天氣"	"天气"
 "resourcePack.editor.playtest.Dialog.Weather.tooltip"	"Determines the weather of the world."	"Original Translation
 zh_CN: 确定世界的天气。
 zh_TW: 決定世界的天氣。"	""
 "resourcePack.editor.playtest.Dialog.WeatherCycle"	"Weather Cycle"	"Original Translation
 zh_CN: 天气更替
-zh_TW: 天氣循環"	""
+zh_TW: 天氣循環"	"天气更替"
 "resourcePack.editor.playtest.Dialog.WeatherCycle.tooltip"	"Determines if weather cycle is on or if it is locked to a specific weather type."	"Original Translation
 zh_CN: 确定是启用天气更替，还是锁定到特定天气类型。
 zh_TW: 決定天氣循環在啟用或鎖定為特定的天氣類型。"	""
@@ -47292,19 +47292,19 @@ zh_CN: 流派：
 zh_TW: 類型："	""
 "store.offerDescription.languages"	"Languages:"	"Original Translation
 zh_CN: 语言：
-zh_TW: 語言："	""
+zh_TW: 語言："	"语言："
 "store.offerDescription.playerCountNote"	"Note: Players indicates the number of players the creator intends for an optimal experience."	"Original Translation
 zh_CN: 注意：用户指的是创建者希望获得最佳体验的用户数量。
 zh_TW: 注意：玩家代表建立者預期可獲得最佳體驗的玩家數量。"	""
 "store.offerDescription.players"	"Players:"	"Original Translation
 zh_CN: 用户：
-zh_TW: 玩家："	""
+zh_TW: 玩家："	"玩家："
 "store.offerDescription.showLess"	"Show Less"	"Original Translation
 zh_CN: 收起
-zh_TW: 收起"	""
+zh_TW: 收起"	"收起"
 "store.offerDescription.showMore"	"Show More"	"Original Translation
 zh_CN: 展开
-zh_TW: 顯示更多"	""
+zh_TW: 顯示更多"	"展示更多"
 "store.offerDescription.tags"	"Tags:"	"Original Translation
 zh_CN: 标签：
 zh_TW: 標籤："	""
@@ -47727,10 +47727,10 @@ zh_CN: Realms 测试版
 zh_TW: Realms Beta 版"	""
 "store.realmsPlus"	"Realms Plus"	"Original Translation
 zh_CN: Realms Plus
-zh_TW: Realms Plus"	""
+zh_TW: Realms Plus"	"Realms Plus"
 "store.realmsPlus.buyNow"	"SUBSCRIBE NOW"	"Original Translation
 zh_CN: 立即订阅
-zh_TW: 立即訂閱"	""
+zh_TW: 立即訂閱"	"立即订阅"
 "store.realmsPlus.buyNow.buttonText"	"BUY FOR %s"	"Original Translation
 zh_CN: 为%s购买
 zh_TW: 以 %s 購買"	""
@@ -47739,10 +47739,10 @@ zh_CN: 开始你的 Realms Plus 定期服务
 zh_TW: 開始你的 Realms Plus 訂閱"	""
 "store.realmsPlus.buyNow.viewPrivacyPolicy"	"PRIVACY POLICY"	"Original Translation
 zh_CN: 隐私政策
-zh_TW: 隱私政策"	""
+zh_TW: 隱私政策"	"隐私政策"
 "store.realmsPlus.buyNow.viewTerms"	"TERMS & CONDITIONS"	"Original Translation
 zh_CN: 条款和条件
-zh_TW: 合約條款"	""
+zh_TW: 合約條款"	"条款和条件"
 "store.realmsPlus.buyNowPerMonth"	"Subscribe Now %s/month"	"Original Translation
 zh_CN: 立即订阅 %s/月
 zh_TW: 立即訂閱 %s/月"	""
@@ -47817,7 +47817,7 @@ zh_CN: 错误：未发现优惠
 zh_TW: 錯誤，沒有任何優惠"	""
 "store.realmsPlus.faq"	"FAQ"	"Original Translation
 zh_CN: 常见问题解答
-zh_TW: 常見問題"	""
+zh_TW: 常見問題"	"常见问题解答"
 "store.realmsPlus.faq.answer1"	"Realms Plus is a subscription to a personal server supporting up to 10 simultaneous players, along with unlimited access to a catalog of premium add-ons, worlds, texture packs, skin packs, and mash-ups for one low monthly price."	"Original Translation
 zh_CN: Realms Plus 是一项私人服务器的定期服务，支持多达 10 名玩家同时游玩，每月只需支付较少的费用，即可无限制地访问一个包含优质追加内容、世界、材质包、皮肤包和混搭包的目录。
 zh_TW: Realms Plus 是個人伺服器的訂閱內容，支援同時 10 名玩家連線，並且能夠以低廉的月費，無限制存取 150 種以上精心設計的 Minecraft 世界、材質套件、外觀套件和混搭套件。"	""
@@ -48213,7 +48213,7 @@ zh_CN: A 到 Z
 zh_TW: A 到 Z"	""
 "store.search.sort_menu.A_to_Z.tts.title"	"'A' to 'Z'"	"Original Translation
 zh_CN: 'A' 到 'Z'
-zh_TW: A 到 Z"	""
+zh_TW: A 到 Z"	"“A”到“Z”"
 "store.search.sort_menu.Default"	"Relevance"	"Original Translation
 zh_CN: 相关性
 zh_TW: 相關度"	""
@@ -48243,7 +48243,7 @@ zh_CN: Z 到 A
 zh_TW: Z 到 A"	""
 "store.search.sort_menu.Z_to_A.tts.title"	"'Z' to 'A'"	"Original Translation
 zh_CN: 'Z' 到 'A'
-zh_TW: Z 到 A"	""
+zh_TW: Z 到 A"	"“Z”到“A”"
 "store.search.sort_menu.notInstalled"	"Not Installed"	"Original Translation
 zh_CN: 未安装
 zh_TW: 尚未安裝"	""
@@ -48660,22 +48660,22 @@ zh_CN: 红石保存模式
 zh_TW: 紅石儲存模式"	""
 "structure_block.reset"	"Reset"	"Original Translation
 zh_CN: 重置
-zh_TW: 重置"	""
+zh_TW: 重置"	"重置"
 "structure_block.rotation"	"Rotation"	"Original Translation
 zh_CN: 旋转
-zh_TW: 旋轉"	""
+zh_TW: 旋轉"	"旋转"
 "structure_block.rotation.180"	"180"	"Original Translation
 zh_CN: 180
-zh_TW: 180"	""
+zh_TW: 180"	"180"
 "structure_block.rotation.270"	"270"	"Original Translation
 zh_CN: 270
-zh_TW: 270"	""
+zh_TW: 270"	"270"
 "structure_block.rotation.90"	"90"	"Original Translation
 zh_CN: 90
-zh_TW: 90"	""
+zh_TW: 90"	"90"
 "structure_block.rotation.none"	"No Rotation"	"Original Translation
 zh_CN: 不旋转
-zh_TW: 不旋轉"	""
+zh_TW: 不旋轉"	"不旋转"
 "structure_block.save"	"Save"	"Original Translation
 zh_CN: 保存
 zh_TW: 儲存"	""
@@ -48786,28 +48786,28 @@ zh_CN: 冒险
 zh_TW: 冒險"	""
 "tag.ages_0_3"	"0-3"	"Original Translation
 zh_CN: 0-3
-zh_TW: 0-3 歲"	""
+zh_TW: 0-3 歲"	"0-3"
 "tag.ages_13_16"	"13-16"	"Original Translation
 zh_CN: 13-16
-zh_TW: 13-16 歲"	""
+zh_TW: 13-16 歲"	"13-16"
 "tag.ages_16_18"	"16-18"	"Original Translation
 zh_CN: 16-18
-zh_TW: 16-18 歲"	""
+zh_TW: 16-18 歲"	"16-18"
 "tag.ages_18_plus"	"18+"	"Original Translation
 zh_CN: 18+
-zh_TW: 18 歲以上"	""
+zh_TW: 18 歲以上"	"18+"
 "tag.ages_4_5"	"4-5"	"Original Translation
 zh_CN: 4-5
-zh_TW: 4-5 歲"	""
+zh_TW: 4-5 歲"	"4-5"
 "tag.ages_6_8"	"6-8"	"Original Translation
 zh_CN: 6-8
-zh_TW: 6-8 歲"	""
+zh_TW: 6-8 歲"	"6-8"
 "tag.ages_9_12"	"9-12"	"Original Translation
 zh_CN: 9-12
-zh_TW: 9-12 歲"	""
+zh_TW: 9-12 歲"	"9-12"
 "tag.all_ages"	"All ages"	"Original Translation
 zh_CN: 所有年龄段
-zh_TW: 全年齡"	""
+zh_TW: 全年齡"	"全年龄"
 "tag.animals"	"Animals"	"Original Translation
 zh_CN: 动物
 zh_TW: 動物"	""
@@ -48840,7 +48840,7 @@ zh_CN: 生物学
 zh_TW: 生物學"	""
 "tag.biome"	"Biome"	"Original Translation
 zh_CN: 生物群系
-zh_TW: 生態域"	""
+zh_TW: 生態域"	"生物群系"
 "tag.biomes_and_worlds"	"Biomes & Worlds"	"Original Translation
 zh_CN: 生物群系和世界
 zh_TW: 生態域和世界"	""
@@ -48915,7 +48915,7 @@ zh_CN: 通信
 zh_TW: 溝通"	""
 "tag.computer_science"	"Computer Science"	"Original Translation
 zh_CN: 计算机科学
-zh_TW: 電腦科學"	""
+zh_TW: 電腦科學"	"计算机科学"
 "tag.computing_in_minecraft"	"Computing in Minecraft"	"Original Translation
 zh_CN: 在 Minecraft 中计算
 zh_TW: 在 Minecraft 中計算"	""
@@ -48930,7 +48930,7 @@ zh_CN: 创意写作
 zh_TW: 創意編寫"	""
 "tag.creativity"	"Creativity"	"Original Translation
 zh_CN: 创造力
-zh_TW: 創造力"	""
+zh_TW: 創造力"	"创造力"
 "tag.critical_thinking"	"Critical Thinking"	"Original Translation
 zh_CN: 批判性思维
 zh_TW: 批判性思維"	""
@@ -48942,7 +48942,7 @@ zh_CN: 除法
 zh_TW: 科目"	""
 "tag.earth_day"	"Earth Day"	"Original Translation
 zh_CN: 地球日
-zh_TW: 地球日"	""
+zh_TW: 地球日"	"地球日"
 "tag.ecology"	"Ecology"	"Original Translation
 zh_CN: 生态
 zh_TW: 生態學"	""
@@ -48954,7 +48954,7 @@ zh_CN: 能源
 zh_TW: 能源"	""
 "tag.environment"	"Environment"	"Original Translation
 zh_CN: 环境
-zh_TW: 環境"	""
+zh_TW: 環境"	"环境"
 "tag.equity_and_inclusion"	"Equity and Inclusion"	"Original Translation
 zh_CN: 公平与包容
 zh_TW: 公平與包容"	""
@@ -48969,25 +48969,25 @@ zh_CN: 精选编程
 zh_TW: 精選編碼"	""
 "tag.fractions"	"Fractions"	"Original Translation
 zh_CN: 分数
-zh_TW: 分數"	""
+zh_TW: 分數"	"分数"
 "tag.functions"	"Functions"	"Original Translation
 zh_CN: 功能
 zh_TW: 功能"	""
 "tag.game_design"	"Game Design"	"Original Translation
 zh_CN: 课程设计
-zh_TW: 遊戲設計"	""
+zh_TW: 遊戲設計"	"游戏设计"
 "tag.geography"	"Geography"	"Original Translation
 zh_CN: 地理
-zh_TW: 地理"	""
+zh_TW: 地理"	"地理"
 "tag.geology"	"Geology"	"Original Translation
 zh_CN: 地质
 zh_TW: 地質學"	""
 "tag.history_and_culture"	"History & Culture"	"Original Translation
 zh_CN: 历史与文化
-zh_TW: 歷史與文化"	""
+zh_TW: 歷史與文化"	"历史与文化"
 "tag.hour_of_code"	"Hour of Code"	"Original Translation
 zh_CN: 编程一小时
-zh_TW: 一小時程式設計"	""
+zh_TW: 一小時程式設計"	"编程一小时"
 "tag.how_to_play"	"How to Play"	"Original Translation
 zh_CN: 游戏指南
 zh_TW: 遊戲說明"	""
@@ -48996,19 +48996,19 @@ zh_CN: 中级
 zh_TW: 中級"	""
 "tag.javascript"	"JavaScript"	"Original Translation
 zh_CN: Javascript
-zh_TW: JavaScript"	""
+zh_TW: JavaScript"	"JavaScript"
 "tag.kensukes_kingdom"	"Kensuke's Kingdom"	"Original Translation
 zh_CN: 岛王
 zh_TW: 健介的王國"	""
 "tag.language_arts"	"Language Arts"	"Original Translation
 zh_CN: 语言艺术学科
-zh_TW: 語言藝術"	""
+zh_TW: 語言藝術"	"语言艺术"
 "tag.leadership"	"Leadership"	"Original Translation
 zh_CN: 领导力
 zh_TW: 領導力"	""
 "tag.lesson"	"Lesson"	"Original Translation
 zh_CN: 课程
-zh_TW: 課程"	""
+zh_TW: 課程"	"课程"
 "tag.literature"	"Literature"	"Original Translation
 zh_CN: 文学
 zh_TW: 文學"	""
@@ -49017,28 +49017,28 @@ zh_CN: 循环
 zh_TW: 迴圈"	""
 "tag.makecode"	"MakeCode"	"Original Translation
 zh_CN: MakeCode
-zh_TW: 製作代碼"	""
+zh_TW: 製作代碼"	"MakeCode"
 "tag.math"	"Math"	"Original Translation
 zh_CN: 数学
-zh_TW: 數學"	""
+zh_TW: 數學"	"数学"
 "tag.multiplayer"	"Multiplayer"	"Original Translation
 zh_CN: 多人游戏
-zh_TW: 多人遊戲"	""
+zh_TW: 多人遊戲"	"多人"
 "tag.multiplication"	"Multiplication"	"Original Translation
 zh_CN: 乘法
 zh_TW: 乘法"	""
 "tag.museum"	"Museum"	"Original Translation
 zh_CN: 博物馆
-zh_TW: 博物館"	""
+zh_TW: 博物館"	"博物馆"
 "tag.music"	"Music"	"Original Translation
 zh_CN: 音乐
-zh_TW: 音樂"	""
+zh_TW: 音樂"	"音乐"
 "tag.mythology"	"Mythology"	"Original Translation
 zh_CN: 神话
 zh_TW: 神話"	""
 "tag.ocean"	"Ocean"	"Original Translation
 zh_CN: 海洋
-zh_TW: 海洋"	""
+zh_TW: 海洋"	"海洋"
 "tag.operators"	"Operators"	"Original Translation
 zh_CN: 运算符
 zh_TW: 營運商"	""
@@ -49047,16 +49047,16 @@ zh_CN: 俄勒冈小道
 zh_TW: 奧勒岡之旅"	""
 "tag.pattern"	"Pattern"	"Original Translation
 zh_CN: 图案
-zh_TW: 模式"	""
+zh_TW: 模式"	"图案"
 "tag.personal_narrative"	"Personal Narrative"	"Original Translation
 zh_CN: 个人叙事
 zh_TW: 個人敘事"	""
 "tag.physics"	"Physics"	"Original Translation
 zh_CN: 物理
-zh_TW: 物理"	""
+zh_TW: 物理"	"物理"
 "tag.pixel_art"	"Pixel Art"	"Original Translation
 zh_CN: 像素艺术
-zh_TW: 像素藝術"	""
+zh_TW: 像素藝術"	"像素艺术"
 "tag.pop_culture"	"Pop Culture"	"Original Translation
 zh_CN: 流行文化
 zh_TW: 流行文化"	""
@@ -49071,7 +49071,7 @@ zh_CN: 专题学习
 zh_TW: 專案式學習"	""
 "tag.python"	"Python"	"Original Translation
 zh_CN: Python
-zh_TW: Python"	""
+zh_TW: Python"	"Python"
 "tag.python101"	"Python 101"	"Original Translation
 zh_CN: Python 入门
 zh_TW: Python 101"	""
@@ -49083,13 +49083,13 @@ zh_CN: 鲁宾逊漂流记
 zh_TW: 魯濱遜漂流記"	""
 "tag.science"	"Science"	"Original Translation
 zh_CN: 科学
-zh_TW: 科學"	""
+zh_TW: 科學"	"科学"
 "tag.seasonal"	"Seasonal"	"Original Translation
 zh_CN: 季节性
 zh_TW: 季節性"	""
 "tag.single_player"	"Single Player"	"Original Translation
 zh_CN: 单人
-zh_TW: 單人遊戲"	""
+zh_TW: 單人遊戲"	"单人"
 "tag.social_emotional_learning"	"Social Emotional Learning"	"Original Translation
 zh_CN: 社会情感学习
 zh_TW: 社交情感學習"	""
@@ -49098,25 +49098,25 @@ zh_CN: 空格
 zh_TW: 太空"	""
 "tag.special_education"	"Special Education"	"Original Translation
 zh_CN: 特殊教育
-zh_TW: 特殊教育"	""
+zh_TW: 特殊教育"	"特殊教育"
 "tag.spelling"	"Spelling"	"Original Translation
 zh_CN: 拼写
-zh_TW: 拼字"	""
+zh_TW: 拼字"	"拼写"
 "tag.story"	"Story"	"Original Translation
 zh_CN: 故事
-zh_TW: 故事"	""
+zh_TW: 故事"	"故事"
 "tag.subtraction"	"Subtraction"	"Original Translation
 zh_CN: 减法
 zh_TW: 減法"	""
 "tag.survival"	"Survival"	"Original Translation
 zh_CN: 生存
-zh_TW: 生存"	""
+zh_TW: 生存"	"生存"
 "tag.swiss_family_robinson"	"Swiss Family Robinson"	"Original Translation
 zh_CN: 海角乐园
 zh_TW: 海角一樂園"	""
 "tag.technology"	"Technology"	"Original Translation
 zh_CN: 技术
-zh_TW: 科技"	""
+zh_TW: 科技"	"科技"
 "tag.toybox"	"Toybox"	"Original Translation
 zh_CN: 玩具盒
 zh_TW: 玩具箱"	""
@@ -53028,85 +53028,85 @@ zh_CN: 花
 zh_TW: 花朵"	"花"
 "tipped_arrow.effect.awkward"	"Tipped Arrow"	"Original Translation
 zh_CN: 药箭
-zh_TW: 藥水箭"	""
+zh_TW: 藥水箭"	"药箭"
 "tipped_arrow.effect.damageBoost"	"Arrow of Strength"	"Original Translation
 zh_CN: 力量之箭
-zh_TW: 力量箭"	""
+zh_TW: 力量箭"	"力量之箭"
 "tipped_arrow.effect.empty"	"Tipped Arrow"	"Original Translation
 zh_CN: 药箭
-zh_TW: 藥水箭"	""
+zh_TW: 藥水箭"	"药箭"
 "tipped_arrow.effect.fireResistance"	"Arrow of Fire Resistance"	"Original Translation
 zh_CN: 抗火箭
-zh_TW: 抗火箭"	""
+zh_TW: 抗火箭"	"抗火之箭"
 "tipped_arrow.effect.harm"	"Arrow of Harming"	"Original Translation
 zh_CN: 伤害之箭
-zh_TW: 傷害箭"	""
+zh_TW: 傷害箭"	"伤害之箭"
 "tipped_arrow.effect.heal"	"Arrow of Healing"	"Original Translation
 zh_CN: 治疗之箭
-zh_TW: 治療箭"	""
+zh_TW: 治療箭"	"治疗之箭"
 "tipped_arrow.effect.infested"	"Arrow of Infestation"	"Original Translation
 zh_CN: 寄生之箭
-zh_TW: 蛀蝕之箭"	""
+zh_TW: 蛀蝕之箭"	"虫蚀之箭"
 "tipped_arrow.effect.invisibility"	"Arrow of Invisibility"	"Original Translation
 zh_CN: 隐身箭
-zh_TW: 隱形箭"	""
+zh_TW: 隱形箭"	"隐身之箭"
 "tipped_arrow.effect.jump"	"Arrow of Leaping"	"Original Translation
 zh_CN: 跳跃箭
-zh_TW: 跳躍箭"	""
+zh_TW: 跳躍箭"	"跳跃之箭"
 "tipped_arrow.effect.levitation"	"Arrow of Levitation"	"Original Translation
 zh_CN: 飘浮箭
-zh_TW: 漂浮箭"	""
+zh_TW: 漂浮箭"	"飘浮之箭"
 "tipped_arrow.effect.luck"	"Arrow of Luck"	"Original Translation
 zh_CN: 幸运箭
-zh_TW: 運氣箭"	""
+zh_TW: 運氣箭"	"幸运之箭"
 "tipped_arrow.effect.moveSlowdown"	"Arrow of Slowness"	"Original Translation
 zh_CN: 缓慢之箭
-zh_TW: 緩慢箭"	""
+zh_TW: 緩慢箭"	"迟缓之箭"
 "tipped_arrow.effect.moveSpeed"	"Arrow of Swiftness"	"Original Translation
 zh_CN: 迅捷之箭
-zh_TW: 迅捷箭"	""
+zh_TW: 迅捷箭"	"迅捷之箭"
 "tipped_arrow.effect.mundane"	"Tipped Arrow"	"Original Translation
 zh_CN: 药箭
-zh_TW: 藥水箭"	""
+zh_TW: 藥水箭"	"药箭"
 "tipped_arrow.effect.nightVision"	"Arrow of Night Vision"	"Original Translation
 zh_CN: 夜视箭
-zh_TW: 夜視箭"	""
+zh_TW: 夜視箭"	"夜视之箭"
 "tipped_arrow.effect.oozing"	"Arrow of Oozing"	"Original Translation
 zh_CN: 渗浆之箭
-zh_TW: 滲液之箭"	""
+zh_TW: 滲液之箭"	"渗浆之箭"
 "tipped_arrow.effect.poison"	"Arrow of Poison"	"Original Translation
 zh_CN: 剧毒箭
-zh_TW: 劇毒之箭"	""
+zh_TW: 劇毒之箭"	"剧毒之箭"
 "tipped_arrow.effect.regeneration"	"Arrow of Regeneration"	"Original Translation
 zh_CN: 再生之箭
-zh_TW: 再生箭"	""
+zh_TW: 再生箭"	"再生之箭"
 "tipped_arrow.effect.slowFalling"	"Arrow of Slow Falling"	"Original Translation
 zh_CN: 缓降之箭
-zh_TW: 慢速掉落箭矢"	""
+zh_TW: 慢速掉落箭矢"	"缓降之箭"
 "tipped_arrow.effect.thick"	"Tipped Arrow"	"Original Translation
 zh_CN: 药箭
-zh_TW: 藥水箭"	""
+zh_TW: 藥水箭"	"药箭"
 "tipped_arrow.effect.turtleMaster"	"Arrow of the Turtle Master"	"Original Translation
 zh_CN: 神龟之箭
-zh_TW: 海龜大師之箭"	""
+zh_TW: 海龜大師之箭"	"神龟之箭"
 "tipped_arrow.effect.water"	"Arrow of Splashing"	"Original Translation
 zh_CN: 喷溅之箭
-zh_TW: 噴濺箭"	""
+zh_TW: 噴濺箭"	"喷溅之箭"
 "tipped_arrow.effect.waterBreathing"	"Arrow of Water Breathing"	"Original Translation
 zh_CN: 水肺之箭
-zh_TW: 水下呼吸箭"	""
+zh_TW: 水下呼吸箭"	"水肺之箭"
 "tipped_arrow.effect.weakness"	"Arrow of Weakness"	"Original Translation
 zh_CN: 虚弱之箭
-zh_TW: 虛弱箭"	""
+zh_TW: 虛弱箭"	"虚弱之箭"
 "tipped_arrow.effect.weaving"	"Arrow of Weaving"	"Original Translation
 zh_CN: 盘丝之箭
-zh_TW: 編織之箭"	""
+zh_TW: 編織之箭"	"盘丝之箭"
 "tipped_arrow.effect.windCharged"	"Arrow of Wind Charging"	"Original Translation
 zh_CN: 蓄风之箭
-zh_TW: 風能充能之箭"	""
+zh_TW: 風能充能之箭"	"蓄风之箭"
 "tipped_arrow.effect.wither"	"Arrow of Decay"	"Original Translation
 zh_CN: 衰变之箭
-zh_TW: 腐朽箭"	""
+zh_TW: 腐朽箭"	"衰变之箭"
 "tips.creative.1"	"Bored of gravity? Jump twice to fly!"	"Original Translation
 zh_CN: 厌倦了受重力影响？那就跳跃两次开始飞行吧！
 zh_TW: 厭倦了引力？跳兩次就飛起來！"	""
@@ -53346,31 +53346,31 @@ zh_CN: 不够 %s
 zh_TW: %s不足"	""
 "trade.question"	"?"	"Original Translation
 zh_CN: ？
-zh_TW: ？"	""
+zh_TW: ？"	"？"
 "trade.trade"	"Trade"	"Original Translation
 zh_CN: 交易
-zh_TW: 交易"	""
+zh_TW: 交易"	"交易"
 "translation.test.args"	"%s %s"	"Original Translation
 zh_CN: %s %s
-zh_TW: %s %s"	""
+zh_TW: %s %s"	"%s %s"
 "translation.test.complex"	"Prefix, %s%2$s again %s and %1$s lastly %s and also %1$s again!"	"Original Translation
 zh_CN: 前缀，%s%2$s，然后是 %s 和 %1$s，最后是 %s，还有 %1$s！
-zh_TW: 前期修正，%s%2$s 再次 %s 和 %1$s 最後 %s 和 %1$s 再次 ！"	""
+zh_TW: 前期修正，%s%2$s 再次 %s 和 %1$s 最後 %s 和 %1$s 再次 ！"	"前缀，%s%2$s 然后是 %s 和 %1$s 最后是 %s 还有 %1$s！"
 "translation.test.escape"	"%%s %%%s %%%%s %%%%%s"	"Original Translation
 zh_CN: %%s %%%s %%%%s %%%%%s
-zh_TW: %%s %%%s %%%%s %%%%%s"	""
+zh_TW: %%s %%%s %%%%s %%%%%s"	"%%s %%%s %%%%s %%%%%s"
 "translation.test.invalid"	"hi %"	"Original Translation
 zh_CN: % 你好
-zh_TW: % 您好"	""
+zh_TW: % 您好"	"% 你好"
 "translation.test.invalid2"	"hi %  s"	"Original Translation
 zh_CN: %s 你好
-zh_TW: % 您好"	""
+zh_TW: % 您好"	"%  s 你好"
 "translation.test.none"	"Hello, world!"	"Original Translation
 zh_CN: 你好，世界！
-zh_TW: 世界，您好！"	""
+zh_TW: 世界，您好！"	"你好，世界！"
 "translation.test.world"	"world"	"Original Translation
 zh_CN: 世界
-zh_TW: 世界"	""
+zh_TW: 世界"	"世界"
 "travel.toast"	"Travel to new World"	"Original Translation
 zh_CN: 前往新世界
 zh_TW: 前往新世界"	""
@@ -53379,7 +53379,7 @@ zh_CN: 在市场购买皮肤、材质和世界！
 zh_TW: 在市集中購買外觀、材質和世界！"	""
 "trial.collection.1.title"	"1000 Minecoins"	"Original Translation
 zh_CN: 1000 个 Minecoin
-zh_TW: 1000 個 Minecoin"	""
+zh_TW: 1000 個 Minecoin"	"1000枚Minecoin"
 "trial.collection.10.description"	"Make your worlds simple, colorful and vibrant!"	"Original Translation
 zh_CN: 让您的世界变得简洁、多彩、生机勃勃！
 zh_TW: 使您的世界簡潔、多彩又鮮活！"	""
@@ -53496,7 +53496,7 @@ zh_CN: 首先要收集一些木头和泥土来建造临时房屋，以帮助您�
 zh_TW: 一開始請先收集一些木頭和泥土以打造一個家，讓您可以平安度過第一夜！接下來該怎麼玩，全部由您決定。"	""
 "trial.survival.mode.title"	"SURVIVAL"	"Original Translation
 zh_CN: 生存
-zh_TW: 生存"	""
+zh_TW: 生存"	"生存"
 "trial.survival.remainingTime"	"%d Minutes Remaining"	"Original Translation
 zh_CN: 剩余%d分钟
 zh_TW: 剩下 %d 分鐘"	""
@@ -53508,16 +53508,16 @@ zh_CN: 除了获得带有创造模式、多人游戏等等的完整 Minecraft �
 zh_TW: 除了有創造模式、多人遊戲等完整的 Minecraft 體驗之外，您還可以獲得「成就」和「玩家分數」，這兩種代表您在 Minecraft 中的進度，並可向 Microsoft 帳戶好友展示您的成就。取得完整版遊戲即可開始賺取！"	""
 "trial.tabbed_upsell.achievements.title"	"ACHIEVEMENTS"	"Original Translation
 zh_CN: 成就
-zh_TW: 成就"	""
+zh_TW: 成就"	"成就"
 "trial.tabbed_upsell.addon.description"	"Want to make wolves act like bunnies? Turn all the trees into cotton candy? You can alter everything in the full Minecraft experience with add-ons! Plus get access to Multiplayer, Creative mode, achievements and more! Buy Minecraft now for full access!"	"Original Translation
 zh_CN: 想让狼表现得像兔子一样吗？把所有的树都变成棉花糖？你可以在完整的 Minecraft 游戏体验中使用附加内容改变一切！此外，你还可以访问多人游戏、创造模式、成就等等！立即购买 Minecraft 获得完整访问权限！
 zh_TW: 想要讓惡狼表現得像兔子嗎？想要將所有的樹木變成棉花糖？使用附加內容，您就可以改變完整 Minecraft 體驗中的一切！另外您還可以存取多人遊戲、創造模式、成就及更多！現在就購買 Minecraft 以取得完整存取權！"	""
 "trial.tabbed_upsell.addon.title"	"ADD-ONS"	"Original Translation
 zh_CN: 附加内容
-zh_TW: 附加內容"	""
+zh_TW: 附加內容"	"附加包"
 "trial.tabbed_upsell.button"	"Buy Minecraft!"	"Original Translation
 zh_CN: 购买《我的世界》！
-zh_TW: 購買 Minecraft！"	""
+zh_TW: 購買 Minecraft！"	"购买Minecraft！"
 "trial.tabbed_upsell.buttonAlternate"	"Unlock Minecraft Full Game"	"Original Translation
 zh_CN: 解锁《我的世界》完整游戏
 zh_TW: 解除 Minecraft 完整遊戲鎖定"	""
@@ -53526,19 +53526,19 @@ zh_CN: 购买《我的世界》并获得创造模式！访问整个物品栏—�
 zh_TW: 購買 Minecraft 並取得創造模式！存取完整的物品欄，您唯一的限制是自己的想像力！飛過您的世界、以所有的一切打造出您自己的夢幻之家，或使用無限的炸藥把山炸掉！"	""
 "trial.tabbed_upsell.creative.title"	"CREATIVE"	"Original Translation
 zh_CN: 创造
-zh_TW: 創造"	""
+zh_TW: 創造"	"创造"
 "trial.tabbed_upsell.minecraft.description"	"Endlessly explore your own unique worlds and construct anything you can imagine - from the simplest of homes to the grandest of castles! Play Creative mode to build wonders with unlimited resources. Or mine in Survival mode, crafting weapons and armor to fend off dangerous mobs and survive the nights. Plus, play with friends online! Unlock the full game today!"	"Original Translation
 zh_CN: 无限探索您自己的独特世界，建造您能想象到的一切——从最简单的住宅，到最宏伟的城堡！您可以在创造模式中利用无限资源建造奇迹，也可以在生存模式中进行挖掘，合成武器和盔甲，抵御各种危险生物并在夜晚幸存下来。另外还可以在线与好友一起畅玩！立即解锁完整游戏！
 zh_TW: 您可無止境探索自己的世界，並打造任何您想像中的建築，從最簡單的住家，到最雄偉的城堡都可以！您可以玩創造模式，以無限資源打造奇蹟。或者也可以在生存模式中挖掘礦物、合成武器和護甲來抵抗危險的生物，並在夜間生存下來。此外，您還可以在線上與好友一起玩遊戲！現在就解鎖完整遊戲！"	""
 "trial.tabbed_upsell.minecraft.title"	"MINECRAFT"	"Original Translation
 zh_CN: 《我的世界》
-zh_TW: MINECRAFT"	""
+zh_TW: MINECRAFT"	"MINECRAFT"
 "trial.tabbed_upsell.multiplayer.description"	"The full Minecraft experience lets you enjoy Creative mode, achievements and Multiplayer with your friends across Minecraft devices! Play with friends on console, PC and mobile to create, explore and survive together. Unlock the full Minecraft experience today!"	"Original Translation
 zh_CN: 完整的 Minecraft 游戏体验能够让你享受创造模式、成就以及与你的好友在多种 Minecraft 设备上进行多人游戏！与主机、电脑和移动端上的好友一起创造、探索和生存。立即解锁完整的 Minecraft 体验！
 zh_TW: 完整的 Minecraft 體驗可讓您玩創造模式、成就，並與您的好友在各種 Minecraft 裝置中玩多人遊戲！與好友一起在主機、PC 和行動裝置一起玩遊戲，一起創造、探索和生存。現在就解鎖完整的 Minecraft 體驗！"	""
 "trial.tabbed_upsell.multiplayer.title"	"MULTIPLAYER"	"Original Translation
 zh_CN: 多人游戏
-zh_TW: 多人遊戲"	""
+zh_TW: 多人遊戲"	"多人游戏"
 "trial.tabbed_upsell.navRight"	"Navigate Tab Right"	"Original Translation
 zh_CN: 导航标签右
 zh_TW: 瀏覽右標籤"	""
@@ -53550,19 +53550,19 @@ zh_CN: 解锁完整的《我的世界》游戏体验，获得访问种子的权�
 zh_TW: 解鎖完整 Minecraft 體驗並存取種子！種子可協祝您探索新生態域 - 在冰原、攀爬極限山丘或橫渡沙漠時存活下來。使用獨特的範本開始，或探索隨機的新世界！現在就購買 Minecraft 以存取種子、創造模式、多人遊戲及更多！"	""
 "trial.tabbed_upsell.seeds.title"	"SEEDS"	"Original Translation
 zh_CN: 种子
-zh_TW: 種子"	""
+zh_TW: 種子"	"种子"
 "trial.tabbed_upsell.server.description"	"Servers offer some of the most creative ways to enjoy Minecraft! Play great mini-games, meet the Minecraft community and make new friends. Unlock the full Minecraft experience to try Servers today!"	"Original Translation
 zh_CN: 服务器提供了一些享受《我的世界》的最有创意的方式！玩精彩的小游戏，邂逅《我的世界》社区并结识新的好友。立即解锁完整的《我的世界》游戏体验以尝试服务器！
 zh_TW: 伺服器提供最有創意的 Minecraft 遊戲方式！您可以玩有趣的小遊戲、認識 Minecraft 社群並結交新朋友。現在就解鎖完整的 Minecraft 體驗並試試伺服器！"	""
 "trial.tabbed_upsell.server.title"	"SERVERS"	"Original Translation
 zh_CN: 服务器
-zh_TW: 伺服器"	""
+zh_TW: 伺服器"	"服务器"
 "trial.tabbed_upsell.store.description"	"Get access to Minecraft Marketplace, our in-game store. Switch up your look with new skins, change your world, or explore incredible new maps from the best community creators! Get the full game today!"	"Original Translation
 zh_CN: 访问我们的游戏内商店——《我的世界》市场。用新的皮肤让自己焕然一新，更改您的世界，或者探索来自最佳的社区创建者的超赞新地图！立即获取完整游戏！
 zh_TW: 存取我們的遊戲商店 Minecraft 市集。換用自己角色的新外觀、變更世界，或探索由最佳社群作者創作的新奇有趣新地圖！現在就取得完整的遊戲。"	""
 "trial.tabbed_upsell.store.title"	"STORE"	"Original Translation
 zh_CN: 商店
-zh_TW: 商店"	""
+zh_TW: 商店"	"商店"
 "trial.tabbed_upsell.title"	"Unlock Full Game"	"Original Translation
 zh_CN: 解锁完整游戏
 zh_TW: 解除完整版遊戲鎖定"	""
@@ -53619,7 +53619,7 @@ zh_CN: Microsoft 账户
 zh_TW: Microsoft 帳戶"	""
 "trial.tour.marketplace"	"TOUR THE MARKETPLACE"	"Original Translation
 zh_CN: 游览市场
-zh_TW: 瀏覽市集"	""
+zh_TW: 瀏覽市集"	"游览市场"
 "trial.upsell.cb.description.worldsDontTransferToFullGame.line1"	"Explore, craft, build, and have fun! In this trial world, you will have 90 minutes of play time. Uncover a bug? Report it at bugs.mojang.com! Other questions? Check out our FAQ."	"Original Translation
 zh_CN: 探索、制作、建造并享受乐趣！在此试用版的世界中，您会拥有 90 分钟的游戏时间。发现错误？访问 bugs.mojang.com 进行报告！其他问题？查看我们的常见问题解答。
 zh_TW: 探索、合成、建造和暢玩！在此試用版中，您將有 90 分鐘的遊玩時間。解鎖完整遊戲以繼續隨心所欲遊玩！"	""
@@ -53694,103 +53694,103 @@ zh_CN: 哪个试用版世界？
 zh_TW: 要選擇哪個教學用世界？"	""
 "trim_material.amethyst.name"	"Amethyst Material"	"Original Translation
 zh_CN: 紫水晶材料
-zh_TW: 紫水晶材料"	""
+zh_TW: 紫水晶材料"	"紫水晶质"
 "trim_material.copper.name"	"Copper Material"	"Original Translation
 zh_CN: 铜材料
-zh_TW: 銅材料"	""
+zh_TW: 銅材料"	"铜质"
 "trim_material.diamond.name"	"Diamond Material"	"Original Translation
 zh_CN: 钻石材料
-zh_TW: 鑽石材料"	""
+zh_TW: 鑽石材料"	"钻石质"
 "trim_material.emerald.name"	"Emerald Material"	"Original Translation
 zh_CN: 绿宝石材料
-zh_TW: 翡翠材料"	""
+zh_TW: 翡翠材料"	"绿宝石质"
 "trim_material.gold.name"	"Gold Material"	"Original Translation
 zh_CN: 黄金材料
-zh_TW: 黃金材料"	""
+zh_TW: 黃金材料"	"金质"
 "trim_material.iron.name"	"Iron Material"	"Original Translation
 zh_CN: 铁材料
-zh_TW: 鐵材料"	""
+zh_TW: 鐵材料"	"铁质"
 "trim_material.lapis.name"	"Lapis Material"	"Original Translation
 zh_CN: 青金石材料
-zh_TW: 青金石材料"	""
+zh_TW: 青金石材料"	"青金石质"
 "trim_material.netherite.name"	"Netherite Material"	"Original Translation
 zh_CN: 下界合金材料
-zh_TW: 獄髓材料"	""
+zh_TW: 獄髓材料"	"下界合金质"
 "trim_material.quartz.name"	"Quartz Material"	"Original Translation
 zh_CN: 石英材料
-zh_TW: 石英材料"	""
+zh_TW: 石英材料"	"石英质"
 "trim_material.redstone.name"	"Redstone Material"	"Original Translation
 zh_CN: 红石材料
-zh_TW: 紅石材料"	""
+zh_TW: 紅石材料"	"红石质"
 "trim_material.resin.name"	"Resin Material"	"Original Translation
 zh_CN: 树脂材料
-zh_TW: 樹脂材料"	""
+zh_TW: 樹脂材料"	"树脂质"
 "trim_pattern.bolt.name"	"Bolt Armor Trim"	"Original Translation
 zh_CN: 镶铆盔甲纹饰
-zh_TW: 閃電紋飾護甲"	""
+zh_TW: 閃電紋飾護甲"	"镶铆盔甲纹饰"
 "trim_pattern.coast.name"	"Coast Armor Trim"	"Original Translation
 zh_CN: 海岸纹饰盔甲
-zh_TW: 海岸紋飾護甲"	""
+zh_TW: 海岸紋飾護甲"	"海岸盔甲纹饰"
 "trim_pattern.dune.name"	"Dune Armor Trim"	"Original Translation
 zh_CN: 沙丘纹饰盔甲
-zh_TW: 沙丘紋飾護甲"	""
+zh_TW: 沙丘紋飾護甲"	"沙丘盔甲纹饰"
 "trim_pattern.eye.name"	"Eye Armor Trim"	"Original Translation
 zh_CN: 眼眸盔甲纹饰
-zh_TW: 眼睛紋飾護甲"	""
+zh_TW: 眼睛紋飾護甲"	"眼眸盔甲纹饰"
 "trim_pattern.flow.name"	"Flow Armor Trim"	"Original Translation
 zh_CN: 涡流盔甲纹饰
-zh_TW: 流動紋飾護甲"	""
+zh_TW: 流動紋飾護甲"	"涡流盔甲纹饰"
 "trim_pattern.host.name"	"Host Armor Trim"	"Original Translation
 zh_CN: 主导盔甲纹饰
-zh_TW: 主宰紋飾護甲"	""
+zh_TW: 主宰紋飾護甲"	"雇主盔甲纹饰"
 "trim_pattern.raiser.name"	"Raiser Armor Trim"	"Original Translation
 zh_CN: 崛起盔甲纹饰
-zh_TW: 飼養者紋飾護甲"	""
+zh_TW: 飼養者紋飾護甲"	"牧民盔甲纹饰"
 "trim_pattern.rib.name"	"Rib Armor Trim"	"Original Translation
 zh_CN: 肋骨纹饰盔甲
-zh_TW: 肋骨紋飾護甲"	""
+zh_TW: 肋骨紋飾護甲"	"肋骨盔甲纹饰"
 "trim_pattern.sentry.name"	"Sentry Armor Trim"	"Original Translation
 zh_CN: 哨兵纹饰盔甲
-zh_TW: 哨兵紋飾護甲"	""
+zh_TW: 哨兵紋飾護甲"	"哨兵盔甲纹饰"
 "trim_pattern.shaper.name"	"Shaper Armor Trim"	"Original Translation
 zh_CN: 塑形盔甲纹饰
-zh_TW: 塑形者紋飾護甲"	""
+zh_TW: 塑形者紋飾護甲"	"塑造盔甲纹饰"
 "trim_pattern.silence.name"	"Silence Armor Trim"	"Original Translation
 zh_CN: 潜声盔甲纹饰
-zh_TW: 寂靜紋飾護甲"	""
+zh_TW: 寂靜紋飾護甲"	"幽静盔甲纹饰"
 "trim_pattern.snout.name"	"Snout Armor Trim"	"Original Translation
 zh_CN: 猪鼻纹饰盔甲
-zh_TW: 鼻子紋飾護甲"	""
+zh_TW: 鼻子紋飾護甲"	"猪鼻盔甲纹饰"
 "trim_pattern.spire.name"	"Spire Armor Trim"	"Original Translation
 zh_CN: 尖顶纹饰盔甲
-zh_TW: 尖頂紋飾護甲"	""
+zh_TW: 尖頂紋飾護甲"	"尖塔盔甲纹饰"
 "trim_pattern.tide.name"	"Tide Armor Trim"	"Original Translation
 zh_CN: 潮汐纹饰盔甲
-zh_TW: 潮汐紋飾護甲"	""
+zh_TW: 潮汐紋飾護甲"	"潮汐盔甲纹饰"
 "trim_pattern.vex.name"	"Vex Armor Trim"	"Original Translation
 zh_CN: 恼鬼纹饰盔甲
-zh_TW: 維克絲紋飾護甲"	""
+zh_TW: 維克絲紋飾護甲"	"恼鬼盔甲纹饰"
 "trim_pattern.ward.name"	"Ward Armor Trim"	"Original Translation
 zh_CN: 监守纹饰盔甲
-zh_TW: 守衛紋飾護甲"	""
+zh_TW: 守衛紋飾護甲"	"监守盔甲纹饰"
 "trim_pattern.wayfinder.name"	"Wayfinder Armor Trim"	"Original Translation
 zh_CN: 寻路盔甲纹饰
-zh_TW: 尋路者紋飾護甲"	""
+zh_TW: 尋路者紋飾護甲"	"向导盔甲纹饰"
 "trim_pattern.wild.name"	"Wild Armor Trim"	"Original Translation
 zh_CN: 荒野纹饰盔甲
-zh_TW: 狂野紋飾護甲"	""
+zh_TW: 狂野紋飾護甲"	"荒野盔甲纹饰"
 "tutorial.edu.menuTitle"	"Learn to Play"	"Original Translation
 zh_CN: 玩法学习
-zh_TW: 了解遊戲方式"	""
+zh_TW: 了解遊戲方式"	"玩法学习"
 "tutorial.edu.title"	"Tutorials"	"Original Translation
 zh_CN: 教程
-zh_TW: 教學課程"	""
+zh_TW: 教學課程"	"教程"
 "typeface.mojangles"	"Mojangles"	"Original Translation
 zh_CN: Mojangles
-zh_TW: Mojangles"	""
+zh_TW: Mojangles"	"Mojangles"
 "typeface.notoSans"	"Noto Sans"	"Original Translation
 zh_CN: 思源黑体
-zh_TW: 思源黑體"	""
+zh_TW: 思源黑體"	"思源黑体"
 "uiPackError.invalidChildNames"	"%s: Child controls must have unique names: %sIn the future this will be an error and this file won't load."	"Original Translation
 zh_CN: %s: 子空间必须具有唯一的名称：%s在未来这将是一个错误，无法加载此文件。
 zh_TW: %s：子控件必須為特有名稱：%s之後這會成為錯誤且這個檔案會無法載入。"	""
@@ -53841,10 +53841,10 @@ zh_CN: 版本已过期
 zh_TW: 版本過舊"	""
 "updateScreen.update"	"Update"	"Original Translation
 zh_CN: 更新
-zh_TW: 更新"	""
+zh_TW: 更新"	"更新"
 "updateScreen.updateRequired"	"Update Required"	"Original Translation
 zh_CN: 需要更新
-zh_TW: 必須更新"	""
+zh_TW: 必須更新"	"需要更新"
 "userData.recovered.text"	"Successfully recovered your corrupted user settings."	"Original Translation
 zh_CN: 已成功恢复损坏的用户设置。
 zh_TW: 成功還原損毀的使用者設定。"	""
@@ -53865,10 +53865,10 @@ zh_CN: 更改用户
 zh_TW: 變更使用者"	""
 "utility.pdfFile"	"PDF File"	"Original Translation
 zh_CN: PDF 文件
-zh_TW: PDF 檔"	""
+zh_TW: PDF 檔"	"PDF文件"
 "utility.zipFile"	"Zip File"	"Original Translation
 zh_CN: Zip 文件
-zh_TW: Zip 檔"	""
+zh_TW: Zip 檔"	"zip文件"
 "verification.nolicense.description"	"We're having trouble verifying that you own Minecraft on this device. Make sure you have downloaded and installed Minecraft from the store. Or simply reconnect to the internet and try again."	"Original Translation
 zh_CN: 我们在确认您在这个设备上拥有《我的世界》时遇到了困难。请确保您已经从商店下载并安装了《我的世界》。或者直接重新连接到互联网并再试一次。
 zh_TW: 我們無法驗證您在此裝置中擁有 Minecraft。確認您已從商店下載並安裝 Minecraft。或者重新連接至網際網路並再試一次。"	""
@@ -54015,10 +54015,10 @@ zh_CN: Microsoft 账号购买！
 zh_TW: Microsoft 帳戶購買項目！"	""
 "xblLogin.LoginMessage"	"Connecting..."	"Original Translation
 zh_CN: 正在查找服务器...
-zh_TW: 正在連線…"	""
+zh_TW: 正在連線…"	"正在连接…"
 "xblLogin.LoginMessageTitle"	"Microsoft account"	"Original Translation
 zh_CN: Microsoft 账户
-zh_TW: Microsoft 帳戶"	""
+zh_TW: Microsoft 帳戶"	"Microsoft账户"
 "xbox.connection.error"	"Disconnected from Microsoft account"	"Original Translation
 zh_CN: 已从 Microsoft 账号断开连接
 zh_TW: 已中斷與 Microsoft 帳戶的連線"	""
@@ -54036,7 +54036,7 @@ zh_CN: 无法登录至%s沙盒。请更改沙盒并重新启动《我的世界�
 zh_TW: 無法登入 %s 沙箱。請變更沙箱並重新開始 Minecraft，或使用其他帳戶登入。重新開始後沙箱將為 %s。"	""
 "xbox.dev_wrongSandboxSigninFailed.title"	"Something Went Wrong"	"Original Translation
 zh_CN: 出错了
-zh_TW: 有地方出錯"	""
+zh_TW: 有地方出錯"	"出错了"
 "xbox.disconectionscreen.accessDenied"	"You must be friends with someone in this game in order to join."	"Original Translation
 zh_CN: 您必须与本游戏中某人是好友才能加入。
 zh_TW: 您必須是遊戲成員的好友才能加入此遊戲。"	""
@@ -54051,16 +54051,16 @@ zh_CN: 我们无法将你登录到你的 Microsoft 账号。访问 Realms、个�
 zh_TW: 無法將你登入 Microsoft 帳號。對 Realms、設定檔和市集物品的存取將受到限制。請稍後再試。"	""
 "xbox.failedsignin.error"	"Error Code:"	"Original Translation
 zh_CN: 错误代码：
-zh_TW: 錯誤代碼:"	""
+zh_TW: 錯誤代碼:"	"错误代码："
 "xbox.failedsignin.moreInfo"	"More Info"	"Original Translation
 zh_CN: 更多信息
-zh_TW: 更多資訊"	""
+zh_TW: 更多資訊"	"更多信息"
 "xbox.notnow"	"Not Now"	"Original Translation
 zh_CN: 稍后再说
-zh_TW: 先不要"	""
+zh_TW: 先不要"	"稍后再说"
 "xbox.profile.addFriend"	"Add Friend"	"Original Translation
 zh_CN: 添加好友
-zh_TW: 新增好友"	""
+zh_TW: 新增好友"	"添加好友"
 "xbox.profile.addFriend.success"	"Success! %s was added to your friend list."	"Original Translation
 zh_CN: 成功！%s 已被添加到您的好友列表。
 zh_TW: 成功！%s 已新增至您的好友名單。"	""
@@ -54075,7 +54075,7 @@ zh_CN: 尝试打开玩家档案时出现问题。错误代码：%d
 zh_TW: 嘗試開啟玩家個人資料時發生問題。錯誤代碼：%d"	""
 "xbox.profile.favorite"	"Favorite"	"Original Translation
 zh_CN: 收藏
-zh_TW: 最愛"	""
+zh_TW: 最愛"	"收藏"
 "xbox.profile.favoriteHelperText"	"Favorite friends go first on your friends list. You'll see when they go online or start broadcasting."	"Original Translation
 zh_CN: 收藏的好友会出现在好友列表的最前面。无论他们何时上线或开始直播，您都会看见他们。
 zh_TW: 您的最愛好友會優先顯示在您的好友名單上。您可以看到他們什麼時候上線或開始廣播。"	""
@@ -54102,7 +54102,7 @@ zh_CN: 滥发信息或广告
 zh_TW: 垃圾郵件或廣告"	""
 "xbox.report.area.chat"	"Chat message"	"Original Translation
 zh_CN: 聊天消息
-zh_TW: 聊天訊息"	""
+zh_TW: 聊天訊息"	"聊天消息"
 "xbox.report.area.gameplay"	"Gameplay"	"Original Translation
 zh_CN: 游戏
 zh_TW: 遊戲玩法"	""
@@ -54114,7 +54114,7 @@ zh_CN: 玩家皮肤
 zh_TW: 玩家外觀"	""
 "xbox.report.cheating"	"Cheating"	"Original Translation
 zh_CN: 作弊
-zh_TW: 作弊"	""
+zh_TW: 作弊"	"作弊"
 "xbox.report.childSexualExploitationGrooming"	"Child Sexual Exploitation Grooming"	"Original Translation
 zh_CN: 儿童性剥削与儿童诱骗
 zh_TW: 兒童性剝削誘拐"	""
@@ -54252,7 +54252,7 @@ zh_CN: 登出您的 Microsoft 账户
 zh_TW: 登出 Microsoft 帳號"	""
 "xbox.signin"	"Sign In"	"Original Translation
 zh_CN: 登录
-zh_TW: 登入"	""
+zh_TW: 登入"	"登录"
 "xbox.signin.beta.blocked"	"Signing in with a Microsoft account is not available on the beta at this time."	"Original Translation
 zh_CN: 目前在试用版中暂不支持用 Microsoft 账号登录。
 zh_TW: 目前在測試版中無法使用 Microsoft 帳戶登入。"	""
@@ -54321,7 +54321,7 @@ zh_CN: 欢迎使用！
 zh_TW: 歡迎！"	""
 "xbox.signinFirst"	"Sign In First"	"Original Translation
 zh_CN: 请先登录
-zh_TW: 請先登入"	""
+zh_TW: 請先登入"	"请先登录"
 "xbox.signinFree"	"Sign In For Free"	"Original Translation
 zh_CN: 免费注册
 zh_TW: 登入以享免費"	""
