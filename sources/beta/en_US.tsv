@@ -5551,12 +5551,14 @@ zh_TW: 您需要製造用的石材！"
 crafting.noRecipesWorkbench	You need to collect blocks to craft!	"Original Translation
 zh_CN: 你需要收集制造用的方块！
 zh_TW: 您需要收集製造用的方塊！"
+craftingScreen.tab.allRecipes	All recipes	Original Translation
 craftingScreen.tab.armor	Armor	"Original Translation
 zh_CN: 盔甲
 zh_TW: 護甲"
 craftingScreen.tab.construction	Construction	"Original Translation
 zh_CN: 建筑
 zh_TW: 建築"
+craftingScreen.tab.craftableRecipes	Craftable recipes	Original Translation
 craftingScreen.tab.equipment	Equipment	"Original Translation
 zh_CN: 装备
 zh_TW: 用品"
@@ -6018,6 +6020,7 @@ createWorldScreen.gameMode.personal	Personal Game Mode	"Original Translation
 zh_CN: 个人游戏模式
 zh_TW: 個人遊戲模式"
 createWorldScreen.gameMode.personal.description	Select your preferred game mode	Original Translation
+createWorldScreen.gameMode.personal.disabled	Enable cheats to select a preferred game mode	Original Translation
 createWorldScreen.gameMode.personal.name	Personal game mode	Original Translation
 createWorldScreen.gameMode.serverDefault	Default	"Original Translation
 zh_CN: 默认
@@ -11561,7 +11564,7 @@ hbui.BackButton.back	Back	"Original Translation
 zh_CN: 返回
 zh_TW: 返回"
 hbui.BackButton.narration.backButton	Back button	"Original Translation
-zh_CN: 返回键
+zh_CN: 返回按钮
 zh_TW: 返回按鈕"
 hbui.BackButton.narrationComponentType	Button	"Original Translation
 zh_CN: 按钮
@@ -11756,10 +11759,10 @@ hbui.BaseDropdown.selected	Selected	"Original Translation
 zh_CN: 已选择
 zh_TW: 已選取"
 hbui.BaseDropdown.stateCollapsed	Collapsed	"Original Translation
-zh_CN: 已折叠
+zh_CN: 崩溃的
 zh_TW: 已摺疊"
 hbui.BaseDropdown.stateExpanded	Expanded	"Original Translation
-zh_CN: 已扩展
+zh_CN: 扩展的
 zh_TW: 已展開"
 hbui.BaseDropdown.toggleElementType	Option	"Original Translation
 zh_CN: 选项
@@ -11801,10 +11804,10 @@ hbui.BaseSwitch.narrationDisabled	Disable	"Original Translation
 zh_CN: 禁用
 zh_TW: 停用"
 hbui.BaseSwitch.off	Off	"Original Translation
-zh_CN: 关
+zh_CN: 关闭
 zh_TW: 關閉"
 hbui.BaseSwitch.on	On	"Original Translation
-zh_CN: 开
+zh_CN: 打开
 zh_TW: 開啟"
 hbui.BaseSwitch.toggle	Toggle	"Original Translation
 zh_CN: 切换
@@ -15988,6 +15991,15 @@ zh_TW: 沒有結果"
 hbui.EditorListSearchField.search	Search	"Original Translation
 zh_CN: 搜索
 zh_TW: 搜尋"
+hbui.EditorListViewControl.filter.label	Filter	Original Translation
+hbui.EditorListViewControl.filter.placeholder	Text to filter	Original Translation
+hbui.EditorListViewControl.filter.tags	Filtered Tags	Original Translation
+hbui.EditorListViewControl.filter.tags.button	Filter Tags	Original Translation
+hbui.EditorListViewControl.filter.tags.close	Close Tag Filter	Original Translation
+hbui.EditorListViewControl.filter.toggle	Toggle Filter	Original Translation
+hbui.EditorListViewControl.itemCount.label	%s items	Original Translation
+hbui.EditorListViewControl.menu.button	Menu Button	Original Translation
+hbui.EditorListViewControl.sort.label	Sort	Original Translation
 hbui.EditorLogPanel.autoScroll	Auto Scroll	"Original Translation
 zh_CN: 自动滚动
 zh_TW: 自動捲動"
@@ -16142,12 +16154,17 @@ hbui.EditorPlayScreen.projectsTitle	Minecraft editor projects	Original Translati
 hbui.EditorPlayScreen.serverTab.addServer	Add Server	Original Translation
 hbui.EditorPlayScreen.serverTab.savedServers	Saved servers (%1$s)	Original Translation
 hbui.EditorPlayScreen.serversTitle	Minecraft editor servers	Original Translation
+hbui.EditorPlayServersScreen.addAndLaunchButton	Add and Launch	Original Translation
+hbui.EditorPlayServersScreen.narration.settings	Settings Button	Original Translation
 hbui.EditorRemotePane.count	%1$s of %2$s	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
 zh_TW: %1$s/%2$s"
 hbui.EditorRemotePane.listItem	List Item	"Original Translation
 zh_CN: 列表项
 zh_TW: 清單項目"
+hbui.EditorRemotePane.listPane.sortType.atoz	A to Z	Original Translation
+hbui.EditorRemotePane.listPane.sortType.default	Default	Original Translation
+hbui.EditorRemotePane.listPane.sortType.ztoa	Z to A	Original Translation
 hbui.EditorRemotePane.narration	Panel	"Original Translation
 zh_CN: 面板
 zh_TW: 面板"
@@ -16183,9 +16200,6 @@ zh_TW: 中"
 hbui.EditorStructurePanel.actionBarIconSmall	Small	"Original Translation
 zh_CN: 小
 zh_TW: 小"
-hbui.EditorStructurePanel.actionBarItemsCount	items	"Original Translation
-zh_CN: 项目
-zh_TW: 物品"
 hbui.EditorStructurePanel.actionBarSortOptionAtoz	A-z	"Original Translation
 zh_CN: A-z
 zh_TW: A-z"
@@ -16327,9 +16341,6 @@ zh_TW: 篩選"
 hbui.EditorStructurePanel.filterLabel	Filter:	"Original Translation
 zh_CN: 筛选：
 zh_TW: 篩選："
-hbui.EditorStructurePanel.filterTagsButton	Filter Tags	"Original Translation
-zh_CN: 筛选标签
-zh_TW: 篩選標籤"
 hbui.EditorStructurePanel.gridViewIconTooltip	Grid View	"Original Translation
 zh_CN: 网格视图
 zh_TW: 格線檢視"
@@ -16351,9 +16362,6 @@ zh_TW: 從選取範圍新建"
 hbui.EditorStructurePanel.noSelectedStructureMsg	You haven't selected any structure yet.	"Original Translation
 zh_CN: 你尚未选择任何结构。
 zh_TW: 你尚未選取任何結構。"
-hbui.EditorStructurePanel.placeholderTextToFilter	Text to filter	"Original Translation
-zh_CN: 要筛选的文本
-zh_TW: 要篩選的文字"
 hbui.EditorStructurePanel.removeTags	Remove Tags	"Original Translation
 zh_CN: 移除标签
 zh_TW: 移除標籤"
@@ -16363,9 +16371,6 @@ zh_TW: 從所有擁有該標籤的選定項目中移除標籤。"
 hbui.EditorStructurePanel.selectStructureMsg	Please select the structures whose tags you want to edit.	"Original Translation
 zh_CN: 请选择想要编辑标签的结构。
 zh_TW: 請選取要編輯標籤的結構。"
-hbui.EditorStructurePanel.sortLabel	Sort	"Original Translation
-zh_CN: 排序
-zh_TW: 排序"
 hbui.EditorStructurePanel.structureContentSectionHeader	Structure Content	"Original Translation
 zh_CN: 结构内容
 zh_TW: 結構內容"
@@ -16378,9 +16383,6 @@ zh_TW: 標籤"
 hbui.EditorStructurePanel.toggleButton	Toggle Button	"Original Translation
 zh_CN: 切换按钮
 zh_TW: 切換按鈕"
-hbui.EditorStructurePanel.toggleFilter	Toggle Filter	"Original Translation
-zh_CN: 切换筛选
-zh_TW: 切換篩選"
 hbui.EditorStructurePanel.totalBlocksLabel	Total Blocks	"Original Translation
 zh_CN: 区块总数
 zh_TW: 總方塊數"
@@ -17213,16 +17215,16 @@ zh_TW: 開始"
 hbui.InboxMessageDetailsRoute.inbox	Inbox	"Original Translation
 zh_CN: 收件箱
 zh_TW: 收件匣"
-hbui.InboxMessageDetailsRoute.invitationNote0	You were invited to join %1$s's Realm.	"Original Translation
+hbui.InboxMessageDetailsRoute.invitationNote0	%1$s invited you to join a Realm named %2$s.	"Original Translation
 zh_CN: 您已受邀加入%1$s的 Realm。
 zh_TW: 你已受邀加入 %1$s 的 Realm。"
-hbui.InboxMessageDetailsRoute.invitationNote1	A Realm is a personal server accessible to you and your friends from any device with Minecraft Bedrock Edition	"Original Translation
+hbui.InboxMessageDetailsRoute.invitationNote1	A Realm is a personal server accessible to you and your friends from any device with Minecraft Bedrock Edition.	"Original Translation
 zh_CN: Realm 是一台个人服务器，可供你和你的好友通过安装 Minecraft 基岩版的任意设备进行访问
 zh_TW: Realm 是能讓你與你朋友在任何裝置上連線 Minecraft：基岩版的個人伺服器"
-hbui.InboxMessageDetailsRoute.invitationNote2	Realms are always online even when the owner is not	"Original Translation
+hbui.InboxMessageDetailsRoute.invitationNote2	Realms are always online even when the owner is not.	"Original Translation
 zh_CN: 即使服务器所有者下线，Realms 也会保持在线状态
 zh_TW: 即使擁有者離線，Realms 也會始終上線"
-hbui.InboxMessageDetailsRoute.invitationNote3	Play together or asynchronously and share your experiences with other members of the Realm in the Realms feed	"Original Translation
+hbui.InboxMessageDetailsRoute.invitationNote3	Play together or asynchronously and share your experiences with other members of the Realm in the Realms feed.	"Original Translation
 zh_CN: 你可以选择多人游玩或单人游玩，在“Realms 动态”中将你的经历与 Realm 中的其他成员分享
 zh_TW: 可以一起即時遊玩，也能非同步進行，並在 Realms 的動態消息中與其他成員分享你的遊戲體驗"
 hbui.InboxMessageDetailsRoute.invitationNote4	Realms is a multiplayer experience and requires the proper settings on your Microsoft account: multiplayer and Clubs.	"Original Translation
@@ -17249,7 +17251,7 @@ zh_TW: Realms 邀請"
 hbui.InboxMessageDetailsRoute.realms	Realms	"Original Translation
 zh_CN: Realms
 zh_TW: Realms"
-hbui.InboxMessageDetailsRoute.realmsInvitationRejectedMessage	You rejected %1$s's Realm invite.	"Original Translation
+hbui.InboxMessageDetailsRoute.realmsInvitationRejectedMessage	You rejected the invite from %1$s to a Realm named %2$s.	"Original Translation
 zh_CN: 您拒绝了%1$s的 Realm 邀请。
 zh_TW: 你已拒絕 %1$s 的 Realm 邀請。"
 hbui.InboxMessageDetailsRoute.reject	Reject	"Original Translation
@@ -19081,6 +19083,7 @@ zh_TW: 選項"
 hbui.PlayScreen.realmsTab.lastPlayed	Last played	"Original Translation
 zh_CN: 上次游玩
 zh_TW: 上次遊玩"
+hbui.PlayScreen.realmsTab.lastPlayed.hub	Last played: %1$s	Original Translation
 hbui.PlayScreen.realmsTab.leaveRealm	Leave Realm	"Original Translation
 zh_CN: 离开 Realm
 zh_TW: 離開 Realm"
@@ -19093,9 +19096,15 @@ zh_TW: 離開 Realm 中"
 hbui.PlayScreen.realmsTab.narration.buttonSiblings	%1$s of %2$s	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
 zh_TW: %1$s/%2$s"
+hbui.PlayScreen.realmsTab.narration.playersOnline	%1$s of %2$s players online	Original Translation
 hbui.PlayScreen.realmsTab.narration.realmInformation	Realm information	"Original Translation
 zh_CN: Realm 信息
 zh_TW: Realm 資訊"
+hbui.PlayScreen.realmsTab.narration.realmInformation.about	About %1$s	Original Translation
+hbui.PlayScreen.realmsTab.narration.realmInformation.group	group	Original Translation
+hbui.PlayScreen.realmsTab.narration.realmInformation.hint	Navigate down for more information on the Realm	Original Translation
+hbui.PlayScreen.realmsTab.narration.realmInformation.panel	%1$s information	Original Translation
+hbui.PlayScreen.realmsTab.narration.realmInformation.role	Description	Original Translation
 hbui.PlayScreen.realmsTab.narration.realmInformation.storiesUnreadBadgeCount.multiple	%1$s new posts	"Original Translation
 zh_CN: %1$s 个新帖子
 zh_TW: %1$s 則新貼文"
@@ -19123,6 +19132,8 @@ zh_TW: 重新開啟"
 hbui.PlayScreen.realmsTab.realmsDescription	Realms description	"Original Translation
 zh_CN: Realms 描述
 zh_TW: Realms 說明"
+hbui.PlayScreen.realmsTab.realmsDescription.default	Some default description goes here when there is no description present	Original Translation
+hbui.PlayScreen.realmsTab.realmsDescription.heading	About this Realm	Original Translation
 hbui.PlayScreen.realmsTab.realmsLeaveRealmErrorModal.closeAction	Close	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"
@@ -20813,7 +20824,7 @@ hbui.Realms.RealmsHub.Banner.RealmsClosed	Realm is temporarily closed. Re-open i
 zh_CN: Realm 已暂时关闭。在 Realm 设置中重新打开。
 zh_TW: Realm 暫時關閉。請於 Realm 設定中重新開啟。"
 hbui.Realms.RealmsHub.Narration.VerticalMenu	Vertical menu	Original Translation
-hbui.Realms.RealmsHub.RealmHub	Realm Hub	"Original Translation
+hbui.Realms.RealmsHub.RealmHub	Realms Hub	"Original Translation
 zh_CN: Realm Hub
 zh_TW: Realm Hub"
 hbui.Realms.RealmsHub.RealmHubHeader	%1$s Hub	"Original Translation
@@ -21049,6 +21060,13 @@ zh_TW: 自動 (Realm擁有者連線)"
 hbui.Realms.RealmsHub.Settings.Server.preferredRegions.ownerSelected	Automatic,	"Original Translation
 zh_CN: 自动，
 zh_TW: 自動，"
+hbui.Realms.RealmsHub.Settings.Subscriptions.Button.LearnMore	Learn more	Original Translation
+hbui.Realms.RealmsHub.Settings.Subscriptions.Button.ManageSub	Manage subscription	Original Translation
+hbui.Realms.RealmsHub.Settings.Subscriptions.Button.Select	Select	Original Translation
+hbui.Realms.RealmsHub.Settings.Subscriptions.PlatformWarning	You started your subscription in the %1$s. You can only extend your subscription there.	Original Translation
+hbui.Realms.RealmsHub.Settings.Subscriptions.PlayerCount	Player count	Original Translation
+hbui.Realms.RealmsHub.Settings.Subscriptions.TimeRemaining.title	Time remaining	Original Translation
+hbui.Realms.RealmsHub.Settings.Subscriptions.TimeRemaining.value	%1$sd	Original Translation
 hbui.Realms.RealmsHub.Settings.enumeration	%1$s of %2$s	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
 zh_TW: %1$s/%2$s"
@@ -21056,6 +21074,7 @@ hbui.Realms.RealmsHub.Settings.group	Group	Original Translation
 hbui.Realms.RealmsHub.Settings.select	Select	"Original Translation
 zh_CN: 选择
 zh_TW: 選取"
+hbui.Realms.RealmsHub.Settings.textBlock.role	Text Block	Original Translation
 hbui.Realms.RealmsHub.Settings.warnings.ApplyToAll	These settings apply to all members of this Realm.	Original Translation
 hbui.Realms.RealmsHub.Settings.warnings.ApplyToYou	These settings only apply to you, for this Realm.	Original Translation
 hbui.Realms.RealmsHub.Settings.warnings.SetByOwner	These settings are set by the owner and apply to all members of this Realm.	Original Translation
@@ -23970,7 +23989,7 @@ hbui.ScreenshotShowcaseRoute.header	%1$s's Showcase Gallery	"Original Translatio
 zh_CN: %1$s 的展示相册
 zh_TW: %1$s 的展示相簿"
 hbui.ScrollView.loadingState	Loading	"Original Translation
-zh_CN: 正在加载
+zh_CN: 正在载入
 zh_TW: 載入中"
 hbui.ScrollView.narrationScrollViewComponentType	Content	"Original Translation
 zh_CN: 内容
@@ -24086,6 +24105,7 @@ zh_TW: 你點擊的連結可能已失效，或設定畫面在近期更新中被�
 hbui.Settings.notFound.title	Setting screen could not be found	"Original Translation
 zh_CN: 未找到设置界面
 zh_TW: 找不到設定畫面"
+hbui.Settings.settingsButton.narration.disabled	Disabled	Original Translation
 hbui.Settings.settingsButton.narration.role	Button	"Original Translation
 zh_CN: 按钮
 zh_TW: 按鈕"
@@ -24583,12 +24603,6 @@ zh_TW: 範本無法使用"
 hbui.StartFromTemplateRoute.MarketplacePass.description	Go further with world templates for Marketplace Pass subscribers.	"Original Translation
 zh_CN: 进一步探索 Marketplace Pass 订阅用户的世界模板。
 zh_TW: 對於 Marketplace Pass 定期服務的使用者，我們提供更多世界範本。"
-hbui.StartFromTemplateRoute.MarketplacePass.imageNarration	Marketplace pass	"Original Translation
-zh_CN: Marketplace pass
-zh_TW: Marketplace Pass"
-hbui.StartFromTemplateRoute.MarketplacePass.imageRole	Image	"Original Translation
-zh_CN: 图像
-zh_TW: 圖像"
 hbui.StartFromTemplateRoute.MarketplacePass.noInternetMessage	Please check your internet connection to browse Marketplace.	"Original Translation
 zh_CN: 请检查您的互联网连接以浏览市场。
 zh_TW: 請檢查網際網路連線以瀏覽市集。"
@@ -25181,13 +25195,13 @@ hbui.TitleBar.Buttons.Back.inputLegend	Back	"Original Translation
 zh_CN: 返回
 zh_TW: 返回"
 hbui.TitleBar.Buttons.Back.narration	Back button	"Original Translation
-zh_CN: 返回键
+zh_CN: 返回按钮
 zh_TW: 返回按鈕"
 hbui.TitleBar.Buttons.Close.inputLegend	Close	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"
 hbui.TitleBar.Buttons.Close.narration	Close button	"Original Translation
-zh_CN: 关闭键
+zh_CN: 关闭按钮
 zh_TW: 關閉按鈕"
 hbui.Toggle.count	%1$s of %2$s	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
@@ -25525,6 +25539,8 @@ zh_TW: 已滿"
 hbui.WorldTag.hardcore	Hardcore	"Original Translation
 zh_CN: 极限
 zh_TW: 極限"
+hbui.WorldTag.hardcorePluralDays	Hardcore (%1$s days)	Original Translation
+hbui.WorldTag.hardcoreSingularDay	Hardcore (1 day)	Original Translation
 hbui.WorldTag.lan	LAN	"Original Translation
 zh_CN: LAN
 zh_TW: LAN"
@@ -33569,6 +33585,7 @@ zh_TW: 循環固定物品欄"
 key.declineToast	Decline	"Original Translation
 zh_CN: 拒绝
 zh_TW: 拒絕"
+key.describeBlock	Describe	Original Translation
 key.drop	Drop Item	"Original Translation
 zh_CN: 丢弃物品
 zh_TW: 丟棄物品"
@@ -34626,6 +34643,10 @@ zh_TW: 選擇您的起始角色"
 menu.classroom_settings.caps	CLASSROOM SETTINGS	"Original Translation
 zh_CN: 教室设置
 zh_TW: 課堂設定"
+menu.controller.tab.description	Input options, sensitivity settings and button mapping for controllers	Original Translation
+menu.controller.tab.mappings.description	Remap any and all controller buttons to play your way	Original Translation
+menu.controller.tab.mappings.title	Button mapping	Original Translation
+menu.controller.tab.title	Controller	Original Translation
 menu.convertingLevel	Expanding world	"Original Translation
 zh_CN: 正在扩张世界
 zh_TW: 拓展世界"
@@ -35821,6 +35842,7 @@ zh_TW: 為你注視的方塊新增彩色邊框，使其更容易看見目前鎖�
 options.clearhotbar	Clear Hotbar	"Original Translation
 zh_CN: 清除热键
 zh_TW: 清除快捷欄"
+options.clearhotbar.description	Turns on the option to remove all items from your hotbar while in the inventory menu	Original Translation
 options.cloudQuality	Cloud range	"Original Translation
 zh_CN: 云
 zh_TW: 雲朵"
@@ -35911,6 +35933,14 @@ zh_TW: 請按下「CTRL + ALT」使用以下鑰匙"
 options.controller	Controller	"Original Translation
 zh_CN: 控制器
 zh_TW: 控制器"
+options.controller.resetMappings	Reset mapping to default	Original Translation
+options.controller.resetMappings.buttonLabel	Reset	Original Translation
+options.controller.resetMappings.description	Restore all controller button mappings to their original values	Original Translation
+options.controller.resetSettings	Reset settings to default	Original Translation
+options.controller.resetSettings.buttonLabel	Reset	Original Translation
+options.controller.resetSettings.description	Restore all the above controller options to their original values	Original Translation
+options.controller.sensitivity.description	Adjust the speed of the camera when looking around	Original Translation
+options.controller.sensitivity.name	Camera Sensitivity	Original Translation
 options.controllerLayout	Controller Layout	"Original Translation
 zh_CN: 控制器布局
 zh_TW: 控制器配置"
@@ -37111,6 +37141,7 @@ options.fullscreen.description	Minecraft, in full screen	Original Translation
 options.gamepadcursorsensitivity	Controller Cursor Sensitivity	"Original Translation
 zh_CN: 控制器光标灵敏度
 zh_TW: 控制器游標靈敏度"
+options.gamepadcursorsensitivity.description	Adjust the speed of the cursor in menus	Original Translation
 options.gamertag	Gamertag:	"Original Translation
 zh_CN: 玩家代号：
 zh_TW: 玩家代號："
@@ -37339,6 +37370,7 @@ zh_TW: 防止終界中的環境效果造成天空閃爍"
 options.hidegamepadcursor	Hide Controller Cursor	"Original Translation
 zh_CN: 隐藏控制器光标
 zh_TW: 隱藏控制器游標"
+options.hidegamepadcursor.description	Removes the cursor for in-game menus	Original Translation
 options.hidegui	Hide GUI	"Original Translation
 zh_CN: 隐藏GUI
 zh_TW: 隱藏 GUI"
@@ -37363,6 +37395,7 @@ zh_TW: 從 HUD 介面中隱藏您的角色預覽"
 options.hidetooltips	Hide Controller Hints	"Original Translation
 zh_CN: 隐藏控制器提示
 zh_TW: 隱藏控制器提示"
+options.hidetooltips.description	Removes button prompts from the on-screen UI	Original Translation
 options.hold	Hold	"Original Translation
 zh_CN: 保留
 zh_TW: 保留"
@@ -38257,18 +38290,22 @@ zh_TW: 超級華麗水紋"
 options.swapGamepadAB	A/B Button Swap	"Original Translation
 zh_CN: A/B 键切换
 zh_TW: A/B 按鈕交換"
+options.swapGamepadAB.description	Reverses the functions of the A and B buttons	Original Translation
 options.swapGamepadAB.tts	A/B Button Swap	"Original Translation
 zh_CN: A/B 键切换
 zh_TW: A/B 按鈕交換"
 options.swapGamepadXY	X/Y Button Swap	"Original Translation
 zh_CN: X/Y 键切换
 zh_TW: X/Y 按鈕交換"
+options.swapGamepadXY.description	Reverses the functions of the X and Y buttons	Original Translation
 options.swapGamepadXY.tts	X/Y Button Swap	"Original Translation
 zh_CN: X/Y 键切换
 zh_TW: X/Y 按鈕交換"
 options.swapJumpAndSneak	Swap Jump and Sneak	"Original Translation
 zh_CN: 交换跳跃和潜行
 zh_TW: 切換跳躍和偷瞄"
+options.swapJumpAndSneak.description	Some players like to swap these buttons	Original Translation
+options.swapJumpAndSneak.name	Swap jump and sneak	Original Translation
 options.termsAndConditions	Terms and Conditions	"Original Translation
 zh_CN: 条款和条件
 zh_TW: 條款與條件"
@@ -38327,7 +38364,9 @@ zh_CN: 打开天空中的云朵。是的，就是这样
 zh_TW: 開啟天空中的雲朵。是，就是這樣"
 options.topButtonScale	Top Button Size	Original Translation
 options.topButtonScale.big	Big	Original Translation
+options.topButtonScale.description	Select a size for top row buttons on the HUD	Original Translation
 options.topButtonScale.medium	Medium	Original Translation
+options.topButtonScale.name	Top button size	Original Translation
 options.topButtonScale.small	Small	Original Translation
 options.touch	Touch	"Original Translation
 zh_CN: 轻触
@@ -38466,6 +38505,8 @@ options.useXBLRemoteConnect.description	Use Remote Connect for Microsoft account
 options.usetouchpad	Split Controls	"Original Translation
 zh_CN: 分离控制
 zh_TW: 分離控制"
+options.usetouchpad.description	Adds a crosshair to the HUD for better accuracy	Original Translation
+options.usetouchpad.name	Split controls	Original Translation
 options.usetouchscreen	Play with Touch	"Original Translation
 zh_CN: 以轻触方式游戏
 zh_TW: 以輕觸方式遊戲"
@@ -40037,6 +40078,8 @@ zh_TW: 重試"
 progressScreen.dialog.button.wait	Wait	"Original Translation
 zh_CN: 等待
 zh_TW: 等候"
+progressScreen.dialog.message.partyNotEligible	Your party does not have permission to play content exclusive to this world.	Original Translation
+progressScreen.dialog.message.partyPartiallyEligible	Some party members don't have permission to play content exclusive to this world. If you choose to join this world, they won't be able to join you.	Original Translation
 progressScreen.dialog.message.resourcePack.noRayTracingSupport.optional	Some optional resource packs applied to this world include ray tracing. Your device is not compatible with advanced lighting and texture features so you will see the world without these advanced effects.	"Original Translation
 zh_CN: 应用于该世界的一些可选资源包包括光线追踪。您的设备与高级照明和纹理功能不兼容，因此您将看到没有这些高级效果的世界。
 zh_TW: 這個世界套用了一些可選的資源包，其中包含光線追蹤。你的裝置不支援進階光影和材質功能，所以你會看到沒有這些進階效果的世界。"
@@ -40076,6 +40119,8 @@ zh_TW: 世界沒有完全同步，或已經毀壞。請嘗試使用良好的主�
 progressScreen.dialog.message.worldCorrupted	The world has been corrupted. Please report this at bugs.mojang.com	"Original Translation
 zh_CN: 该世界已损坏。请在 bugs.mojang.com 上报告
 zh_TW: 世界已經毀損。請至 bugs.mojang.com 回報此問題"
+progressScreen.dialog.title.exclusiveContent	Exclusive content	Original Translation
+progressScreen.dialog.title.partyEligibilityCheck	Checking Party Eligibility	Original Translation
 progressScreen.dialog.title.resourcePack	Download Resource Packs?	"Original Translation
 zh_CN: 下载资源包？
 zh_TW: 是否下載資源包？"
@@ -40121,7 +40166,7 @@ zh_TW: 正在生成世界"
 progressScreen.label.mobileData	Mobile Data	"Original Translation
 zh_CN: 移动数据
 zh_TW: 行動數據"
-progressScreen.label.serverRegion	Server region:	"Original Translation
+progressScreen.label.serverRegion	Server region: %s	"Original Translation
 zh_CN: 服务器区域：
 zh_TW: 伺服器區域："
 progressScreen.loading	Loading...	"Original Translation
@@ -42666,12 +42711,15 @@ zh_TW: 擠出軸"
 resourcePack.editor.brushShape.common.settings.axis.tooltip	The axis that the brush is rotated along.	"Original Translation
 zh_CN: 画笔沿其旋转的轴。
 zh_TW: 筆刷旋轉時所依循的軸向。"
+resourcePack.editor.brushShape.common.settings.extra	Extra Settings	Original Translation
 resourcePack.editor.brushShape.common.settings.height	Height	"Original Translation
 zh_CN: 高度
 zh_TW: 高度"
 resourcePack.editor.brushShape.common.settings.height.tooltip	The height of non-circular shaped brushes.	"Original Translation
 zh_CN: 非圆形画笔的高度。
 zh_TW: 非圓形筆刷的高度。"
+resourcePack.editor.brushShape.common.settings.hollow	Hollow	Original Translation
+resourcePack.editor.brushShape.common.settings.hollow.tooltip	Removes interior blocks to leave a shell.	Original Translation
 resourcePack.editor.brushShape.common.settings.length	Length	"Original Translation
 zh_CN: 长度
 zh_TW: 時長"
@@ -42687,6 +42735,8 @@ zh_TW: 圓形筆刷的大小。"
 resourcePack.editor.brushShape.common.settings.rotation	Rotation	"Original Translation
 zh_CN: 旋转
 zh_TW: 旋轉"
+resourcePack.editor.brushShape.common.settings.thickness	Thickness	Original Translation
+resourcePack.editor.brushShape.common.settings.thickness.tooltip	Sets the thickness of the shell.	Original Translation
 resourcePack.editor.brushShape.common.settings.uniform	Uniform	"Original Translation
 zh_CN: 轴向同化
 zh_TW: 一致化"
@@ -43629,7 +43679,10 @@ zh_TW: 返回編輯器"
 resourcePack.editor.jigsaw.misc.return.tooltip	Close the Jigsaw preview and return to the main Editor view.	"Original Translation
 zh_CN: 关闭拼图预览并返回主编辑器视图。
 zh_TW: 關閉拼圖預覽並返回主編輯器檢視畫面。"
-resourcePack.editor.jigsaw.pane.edit.heading	Edit	"Original Translation
+resourcePack.editor.jigsaw.pane.collectionTree.addPiece.title	Add a Piece	Original Translation
+resourcePack.editor.jigsaw.pane.collectionTree.addPool.title	Add a Pool	Original Translation
+resourcePack.editor.jigsaw.pane.collectionTree.poolPrefix	Pool: %s	Original Translation
+resourcePack.editor.jigsaw.pane.edit.heading	Jigsaw Editor	"Original Translation
 zh_CN: 编辑
 zh_TW: 編輯"
 resourcePack.editor.jigsaw.pane.edit.tooltip	Settings that allow for the editing of Jigsaw Pools.	"Original Translation
@@ -43648,6 +43701,8 @@ zh_TW: 深度"
 resourcePack.editor.jigsaw.pane.generate.depth.tooltip	The maximum number of recursions used for the depth of the Jigsaw Structure.	"Original Translation
 zh_CN: 用于拼图结构深度的最大递归次数。
 zh_TW: 用於拼圖結構深度的最大遞迴次數。"
+resourcePack.editor.jigsaw.pane.generate.highlightPools.title	Highlight Pools	Original Translation
+resourcePack.editor.jigsaw.pane.generate.highlightPools.tooltip	Highlights each Jigsaw Pool with a different color in the preview.	Original Translation
 resourcePack.editor.jigsaw.pane.generate.horizontalSize.title	Size	"Original Translation
 zh_CN: 尺寸
 zh_TW: 大小"
@@ -43666,7 +43721,7 @@ zh_TW: 重複使用種子碼"
 resourcePack.editor.jigsaw.pane.generate.seed.tooltip	When checked, the Jigsaw Structure generates the same way every time.	"Original Translation
 zh_CN: 选中后，拼图结构每次都以相同方式生成。
 zh_TW: 勾選此項後，拼圖結構每次都會以相同的方式生成。"
-resourcePack.editor.jigsaw.pane.generate.startPool.title	Starting Jigsaw Pool	"Original Translation
+resourcePack.editor.jigsaw.pane.generate.startPool.title	Starting Pool	"Original Translation
 zh_CN: 起始拼图池
 zh_TW: 起始拼圖結構池"
 resourcePack.editor.jigsaw.pane.generate.startPool.tooltip	The first Jigsaw Pool to use when generating a Jigsaw Structure.	"Original Translation
@@ -43678,7 +43733,7 @@ zh_TW: 起始目標"
 resourcePack.editor.jigsaw.pane.generate.startTarget.tooltip	The name of the Jigsaw block target from the Starting Pool to be used first. This field is optional.	"Original Translation
 zh_CN: 要第一次使用的起始池中拼图方块目标的名称。此字段为可选。
 zh_TW: 生成時來自起始池之第一個使用的拼圖方塊目標名稱。此為選填欄位。"
-resourcePack.editor.jigsaw.pane.generate.subpane.title	Depth	"Original Translation
+resourcePack.editor.jigsaw.pane.generate.subpane.title	Generate	"Original Translation
 zh_CN: 深度
 zh_TW: 深度"
 resourcePack.editor.jigsaw.pane.generatingJigsaw	Generating Jigsaw preview...	"Original Translation
@@ -43693,7 +43748,7 @@ zh_TW: 新增組件，以便將更多結構加入結構池。"
 resourcePack.editor.jigsaw.pane.poolSubpane.delete.tooltip	Deletes the piece from the Jigsaw Pool.	"Original Translation
 zh_CN: 从拼图池中删除该碎片。
 zh_TW: 從拼圖結構池中刪除此組件。"
-resourcePack.editor.jigsaw.pane.poolSubpane.structure.title	Structure:	"Original Translation
+resourcePack.editor.jigsaw.pane.poolSubpane.structure.title	Structure	"Original Translation
 zh_CN: 结构：
 zh_TW: 結構："
 resourcePack.editor.jigsaw.pane.poolSubpane.structure.tooltip	A list of structures that can be used in a Jigsaw Pool.  Structures must contain at least one Jigsaw block to be appear in the list.	"Original Translation
@@ -43705,7 +43760,7 @@ zh_TW: 拼圖結構池組件"
 resourcePack.editor.jigsaw.pane.poolSubpane.tooltip	The pieces of a pool that can be added and edited to make a Jigsaw Structure.	"Original Translation
 zh_CN: 在制作拼图结构时可添加和编辑的池碎片。
 zh_TW: 可用於新增和編輯以製作拼圖結構的結構池組件。"
-resourcePack.editor.jigsaw.pane.poolSubpane.weight.title	Weight:	"Original Translation
+resourcePack.editor.jigsaw.pane.poolSubpane.weight.title	Weight	"Original Translation
 zh_CN: 权重：
 zh_TW: 粗細："
 resourcePack.editor.jigsaw.pane.poolSubpane.weight.tooltip	The probability of choosing the piece from the pool.	"Original Translation
@@ -43723,7 +43778,7 @@ zh_TW: 建立新的拼圖收藏集。"
 resourcePack.editor.jigsaw.pane.registryDeletion.tooltip	Delete this Jigsaw Collection.	"Original Translation
 zh_CN: 删除此拼图集合。
 zh_TW: 刪除此拼圖收藏集。"
-resourcePack.editor.jigsaw.pane.registryDropdown.heading	Jigsaw Collection	"Original Translation
+resourcePack.editor.jigsaw.pane.registryDropdown.heading	Collection	"Original Translation
 zh_CN: 拼图集合
 zh_TW: 拼圖收藏集"
 resourcePack.editor.jigsaw.pane.registryDropdown.tooltip	A collection of Jigsaw Pools that are used for Jigsaw Structure generation.	"Original Translation
@@ -43765,6 +43820,7 @@ zh_TW: 拼圖"
 resourcePack.editor.jigsaw.pane.tooltip	Create pools and preview the generation of Jigsaw Structures.	"Original Translation
 zh_CN: 创建拼图池并预览生成的拼图结构。
 zh_TW: 建立結構池，並預覽拼圖結構的生成效果。"
+resourcePack.editor.jigsaw.save.fileOpenError	Unable to fully save the jigsaw collection due to a jigsaw file being open in another program	Original Translation
 resourcePack.editor.locate.actionBar.tooltip	Open the Locate Biome tool.	"Original Translation
 zh_CN: 打开定位生物群系工具。
 zh_TW: 開啟尋找生態域工具。"
