@@ -3642,7 +3642,6 @@ tile.standing_banner.white.name=旗幟
 tile.standing_banner.yellow.name=黃色旗幟
 tile.standing_sign.name=告示牌
 tile.sticky_piston.name=黏性活塞
-tile.sticky_piston_arm_collision.name=黏性活塞頭
 tile.stone.andesite.name=安山岩
 tile.stone.andesiteSmooth.name=拋光安山岩
 tile.stone.diorite.name=閃長岩
