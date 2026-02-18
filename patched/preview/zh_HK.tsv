@@ -1137,9 +1137,10 @@ zh_TW: 修剪"	""
 "action.interact.moostew"	"Milk Stew"	"Original Translation
 zh_CN: 煮奶
 zh_TW: 擠哞菇"	""
-"action.interact.mount"	":horse_ride: Mount"	"Original Translation
+"action.interact.mount"	"Mount"	"Original Translation
 zh_CN: 骑乘
 zh_TW: 騎上"	""
+"action.interact.mount.touch"	":horse_ride: Mount"	"Original Translation"	""
 "action.interact.name"	"Name"	"Original Translation
 zh_CN: 名称
 zh_TW: 名稱"	""
@@ -1174,18 +1175,22 @@ zh_TW: 修復狼鎧"	""
 "action.interact.retrieve"	"Retrieve"	"Original Translation
 zh_CN: 回收
 zh_TW: 擷取"	""
-"action.interact.ride.boat"	":boat_ride: Board"	"Original Translation
+"action.interact.ride.boat"	"Board"	"Original Translation
 zh_CN: 上船
 zh_TW: 上船"	""
-"action.interact.ride.horse"	":horse_ride: Ride"	"Original Translation
+"action.interact.ride.boat.touch"	":boat_ride: Board"	"Original Translation"	""
+"action.interact.ride.horse"	"Ride"	"Original Translation
 zh_CN: 乘坐
 zh_TW: 乘坐"	""
-"action.interact.ride.minecart"	":boat_ride: Ride"	"Original Translation
+"action.interact.ride.horse.touch"	":horse_ride: Ride"	"Original Translation"	""
+"action.interact.ride.minecart"	"Ride"	"Original Translation
 zh_CN: 乘坐
 zh_TW: 乘坐"	""
-"action.interact.ride.strider"	":horse_ride: Ride"	"Original Translation
+"action.interact.ride.minecart.touch"	":boat_ride: Ride"	"Original Translation"	""
+"action.interact.ride.strider"	"Ride"	"Original Translation
 zh_CN: 乘坐
 zh_TW: 乘坐"	""
+"action.interact.ride.strider.touch"	":horse_ride: Ride"	"Original Translation"	""
 "action.interact.saddle"	"Saddle"	"Original Translation
 zh_CN: 上鞍
 zh_TW: 鞍"	"鞍"
@@ -5913,6 +5918,8 @@ zh_TW: 為創作者提供的渲染龍功能"	""
 "createWorldScreen.experimentalDeferredTechnicalPreviewDescription"	"Enable the deferred rendering pipeline. Requires a PBR-enabled resource pack and compatible hardware."	"Original Translation
 zh_CN: 启用延迟渲染管道。需要支持 PBR 的资源包和兼容的硬件。
 zh_TW: 啟用延遲的渲染管線。需要已啟用 PBR 的資源包和相容的硬體。"	""
+"createWorldScreen.experimentalFurnaceRecipeBook"	"Furnace Recipe Book"	"Original Translation"	""
+"createWorldScreen.experimentalFurnaceRecipeBookDescription"	"Add a recipe book in the furnace screen, similar to the one in the crafting table"	"Original Translation"	""
 "createWorldScreen.experimentalGameTest"	"Beta APIs"	"Original Translation
 zh_CN: 测试版 API
 zh_TW: 測試版 API"	""
@@ -6183,6 +6190,7 @@ zh_TW: 新的世界"	""
 "createWorldUpsell.price.realm"	"%1$s/Month"	"Original Translation
 zh_CN: %1$s/月
 zh_TW: 每月 %1$s"	""
+"createWorldUpsell.price.realm.30days"	"%1$s/30 days"	"Original Translation"	""
 "createWorldUpsell.price.world"	"Free"	"Original Translation
 zh_CN: 免费
 zh_TW: 免費"	""
@@ -10014,6 +10022,13 @@ zh_TW: 輸入"	""
 "furnaceScreen.result"	"Result"	"Original Translation
 zh_CN: 结果
 zh_TW: 結果"	""
+"furnaceScreen.tab.blocks"	"Blocks"	"Original Translation"	""
+"furnaceScreen.tab.food"	"Food"	"Original Translation"	""
+"furnaceScreen.tab.inventory"	"Inventory"	"Original Translation"	""
+"furnaceScreen.tab.items"	"Items"	"Original Translation"	""
+"furnaceScreen.tab.search"	"All"	"Original Translation"	""
+"furnaceScreen.tab.search.filterFurnace"	"Smeltable"	"Original Translation"	""
+"furnaceScreen.tab.search.filterSmoker"	"Smokable"	"Original Translation"	""
 "gameArgument.featureUnsupported"	"This version of Minecraft doesn't support this feature"	"Original Translation
 zh_CN: 该版本的《我的世界》不支持此功能
 zh_TW: 此 Minecraft 版本不支援此功能"	""
@@ -13408,6 +13423,7 @@ zh_TW: 等等！"	""
 "hbui.CreateNewWorld.behaviorPacksRemoveModal.dontAddPackLabel"	"Don’t add pack"	"Original Translation
 zh_CN: 不添加包
 zh_TW: 不新增套件"	""
+"hbui.CreateNewWorld.behaviorPacksRemoveModal.downloadContinueLabel"	"Download and continue"	"Original Translation"	""
 "hbui.CreateNewWorld.behaviorPacksRemoveModal.messageActivate"	"This world may not look or behave in the same way as non-modified worlds. You should save a copy of your world before continuing."	"Original Translation
 zh_CN: 这个世界的景象和行为方式可能与未修改的世界有所不同。在继续之前，您可能需要保存您的世界的副本。
 zh_TW: 這個世界的外觀或行為模式可能與未修改的世界不同。你應該在繼續遊戲之前另存你的世界。"	""
@@ -14080,13 +14096,13 @@ zh_TW: 套件 %1$s 將下載到你的裝置。"	""
 "hbui.CreateNewWorld.packDownloadModal.confirmationBodyActivate"	"""%1$s"" needs to be downloaded before it can be activated."	"Original Translation
 zh_CN: “%1$s”需要下载才能激活。
 zh_TW: 必須先下載「%1$s」，才能啟動它。"	""
-"hbui.CreateNewWorld.packDownloadModal.confirmationBodyAvailableSize"	"Available space: %1$s."	"Original Translation
+"hbui.CreateNewWorld.packDownloadModal.confirmationBodyAvailableSize"	"Available space: %1$s"	"Original Translation
 zh_CN: 可用空间：%1$s。
 zh_TW: 可用空間：%1$s。"	""
 "hbui.CreateNewWorld.packDownloadModal.confirmationBodyMultiple"	"The packs %1$s will be downloaded to your device."	"Original Translation
 zh_CN: %1$s包将下载到您的设备上。
 zh_TW: 套件 %1$s 將下載到你的裝置。"	""
-"hbui.CreateNewWorld.packDownloadModal.confirmationBodyPackSize"	"Total size: %1$s."	"Original Translation
+"hbui.CreateNewWorld.packDownloadModal.confirmationBodyPackSize"	"Total size: %1$s"	"Original Translation
 zh_CN: 总大小：%1$s。
 zh_TW: 總大小：%1$s。"	""
 "hbui.CreateNewWorld.packDownloadModal.confirmationCancelButton"	"Cancel"	"Original Translation
@@ -14557,7 +14573,7 @@ zh_TW: 資源包"	""
 "hbui.CreateNewWorldSideMenu.scriptingCodingTabLabel"	"Coding & Scripting"	"Original Translation
 zh_CN: 编码和脚本
 zh_TW: 程式設計和指令碼"	""
-"hbui.CreatePartyRoute.createPartyHeader"	"Create party"	"Original Translation
+"hbui.CreatePartyRoute.createPartyHeader"	"Create party (Beta)"	"Original Translation
 zh_CN: 创建派对
 zh_TW: 建立派對"	""
 "hbui.CreatePartyRoute.errorStateMessage"	"Please try again later."	"Original Translation
@@ -14910,7 +14926,7 @@ zh_TW: 取消"	""
 zh_CN: 移动到右侧以进行更多操作
 zh_TW: 向右移動以查看更多可用操作"	""
 "hbui.EditWorld.exportWorldFlow.clearPlayerDataDescription"	"This will erase all players data completely, including chest contents, inventories, and locations."	"Original Translation
-zh_CN: 这将完全删除所有玩家的数据，包括宝箱内容、物品栏和位置。
+zh_CN: 这将完全删除所有玩家的数据，包括箱子内容、物品栏和位置。
 zh_TW: 這會完全刪除所有玩家的資料，包括儲物箱內容、物品欄和位置。"	""
 "hbui.EditWorld.exportWorldFlow.clearPlayerDataDescription.alreadyInHardcoreMode"	"Erasing the data is not available on a world with hardcore mode enabled."	"Original Translation
 zh_CN: 在启用了硬核模式的世界中，擦除数据不可用。
@@ -17697,6 +17713,7 @@ zh_TW: 管理展示相簿"	""
 "hbui.ManageShowcaseRoute.resetFeaturedImage"	"Reset to default"	"Original Translation
 zh_CN: 重置为默认设置
 zh_TW: 重設為預設值"	""
+"hbui.MarketplacePackDownloadStates.checkingStorage.title"	"Checking available space"	"Original Translation"	""
 "hbui.MarketplacePassInfoBanner.learnMoreLinkText"	"Learn More"	"Original Translation
 zh_CN: 了解更多
 zh_TW: 深入了解"	""
@@ -20160,7 +20177,7 @@ zh_TW: 啟用遊戲世界中大部分可使用的物件"	""
 zh_CN: 摧毁世界元素并收集方块
 zh_TW: 摧毀世界元素並收集方塊"	""
 "hbui.PlayerPermissionsRoute.Details.ability.description.openContainers"	"View, add to, and take from chests"	"Original Translation
-zh_CN: 查看宝箱，添加至宝箱，并从宝箱中获取奖励
+zh_CN: 查看箱子，添加至箱子，并从箱子中获取奖励
 zh_TW: 檢視、新增至，並從儲物箱中取得"	""
 "hbui.PlayerPermissionsRoute.Details.ability.description.operatorCommands"	"Access advanced server options"	"Original Translation
 zh_CN: 访问高级服务器选项
@@ -20769,6 +20786,10 @@ zh_TW: 載入中..."	""
 "hbui.Realms.LoadingModals.loadingRealmsStories"	"Loading Realms Stories..."	"Original Translation
 zh_CN: 正在加载 Realms Stories...
 zh_TW: 正在載入 Realms Stories..."	""
+"hbui.Realms.Modals.RealmRestartRequired.restart"	"Restart now"	"Original Translation"	""
+"hbui.Realms.Modals.RealmRestartRequired.restartWarning"	"Some of the changes you made require the Realm to restart. Anyone currently playing will be temporarily disconnected."	"Original Translation"	""
+"hbui.Realms.Modals.RealmRestartRequired.title"	"Realm restart required"	"Original Translation"	""
+"hbui.Realms.Modals.RealmRestartRequired.undo"	"Undo change"	"Original Translation"	""
 "hbui.Realms.RealmsHub.Banner.RealmsClosed"	"Realm is temporarily closed. Re-open in Realm Settings."	"Original Translation
 zh_CN: Realm 已暂时关闭。在 Realm 设置中重新打开。
 zh_TW: Realm 暫時關閉。請於 Realm 設定中重新開啟。"	""
@@ -20853,6 +20874,7 @@ zh_TW: Realm 描述"	""
 zh_CN: Realm 名称
 zh_TW: Realm 名稱"	""
 "hbui.Realms.RealmsHub.Settings.RestartTag"	"This will require the Realm to restart"	"Original Translation"	""
+"hbui.Realms.RealmsHub.Settings.Saving"	"Saving"	"Original Translation"	""
 "hbui.Realms.RealmsHub.Settings.Server.CloseModal.body.p1"	"Closing the Realm will prevent play. You can open it again at any time. Anyone currently playing will be disconnected."	"Original Translation
 zh_CN: 关闭 Realm 会阻止游戏。你可以随时重新打开它。当前游玩的所有玩家都会断开连接。
 zh_TW: 關閉 Realm 將導致無法遊玩。你隨時可以重新開啟。目前正在遊玩的玩家將會中斷連線。"	""
@@ -21602,6 +21624,7 @@ zh_TW: Realms Core 方案：每月 %1$s。新增無限會員，能同時與其�
 "hbui.RealmsPDPScreen.FAQ.Cost.description3"	"Realms Plus plan: %1$s per month. Add infinite members, play online with 10 other players at the same time. Plus, enjoy a catalog of curated premium content for free."	"Original Translation
 zh_CN: Realms Plus 方案：每月仅需 %1$s。添加成员数无限制，可同时与 10 名其他玩家进行在线游戏。此外，还能免费享受一个包含精选优质内容的目录。
 zh_TW: Realms Plus 方案：每月 %1$s。可新增無限成員，並與另外 10 名玩家同時線上遊玩。此外，還能免費享用精選優質內容目錄。"	""
+"hbui.RealmsPDPScreen.FAQ.Cost.description3.30days"	"Realms Plus plan: %1$s per 30 days. Add infinite members, play online with 10 other players at the same time. Plus, enjoy a catalog of curated premium content for free."	"Original Translation"	""
 "hbui.RealmsPDPScreen.FAQ.Cost.title"	"How much does a Realm cost?"	"Original Translation
 zh_CN: Realm 的费用是多少？
 zh_TW: 訂閱 Realms 要多少錢？"	""
@@ -21809,6 +21832,8 @@ zh_TW: 垂直面板。群組。每月核心 %1$s"	""
 "hbui.RealmsPlanPickerScreen.planRealmsPlusCardNarration"	"Vertical panel. Group. Plus %1$s per month"	"Original Translation
 zh_CN: 垂直面板。分组。Plus %1$s/月
 zh_TW: 垂直面板。群組。每月 Plus %1$s"	""
+"hbui.RealmsPlanPickerScreen.planRealmsPlusCardNarration.30days"	"Vertical panel. Group. Plus %1$s per 30 days"	"Original Translation"	""
+"hbui.RealmsPlanPickerScreen.price30Days"	"30 days"	"Original Translation"	""
 "hbui.RealmsPlanPickerScreen.priceCore"	"Core"	"Original Translation
 zh_CN: 核心
 zh_TW: 核心"	""
@@ -21968,15 +21993,19 @@ zh_TW: 文字方塊"	""
 "hbui.RealmsPurchaseSubscriptionRoute.banner.subheading"	"%1$s/month"	"Original Translation
 zh_CN: %1$s/月
 zh_TW: 每月 %1$s"	""
+"hbui.RealmsPurchaseSubscriptionRoute.banner.subheading.30days"	"%1$s/30 days"	"Original Translation"	""
 "hbui.RealmsPurchaseSubscriptionRoute.banner.subheading.narration"	"%1$s monthly fee"	"Original Translation
 zh_CN: %1$s 月费
 zh_TW: %1$s 月費"	""
+"hbui.RealmsPurchaseSubscriptionRoute.banner.subheading.narration.30days"	"%1$s fee every 30 days"	"Original Translation"	""
 "hbui.RealmsPurchaseSubscriptionRoute.banner.subheading.trial"	"Free 30-day trial, then %1$s/month"	"Original Translation
 zh_CN: 免费试用 30 天，然后 %1$s/月
 zh_TW: 免費試用 30 天，之後每月 %1$s"	""
+"hbui.RealmsPurchaseSubscriptionRoute.banner.subheading.trial.30days"	"Free 30-day trial, then %1$s/30 days"	"Original Translation"	""
 "hbui.RealmsPurchaseSubscriptionRoute.banner.subheading.trial.narration"	"Free 30-day trial, then %1$s monthly fee"	"Original Translation
 zh_CN: 免费试用 30 天，之后按 %1$s 月费收费
 zh_TW: 免費試用 30 天，之後每月 %1$s 費用"	""
+"hbui.RealmsPurchaseSubscriptionRoute.banner.subheading.trial.narration.30days"	"Free 30-day trial, then %1$s fee every 30 days"	"Original Translation"	""
 "hbui.RealmsPurchaseSubscriptionRoute.checkboxLabel"	"I agree"	"Original Translation
 zh_CN: 同意
 zh_TW: 我同意"	""
@@ -22097,9 +22126,11 @@ zh_TW: 免費試玩 Realms Plus"	""
 "hbui.RealmsPurchaseSubscriptionRoute.heroButton.create"	"Create for %1$s per month"	"Original Translation
 zh_CN: 以每月 %1$s 创建
 zh_TW: 以每月 %1$s 建立"	""
+"hbui.RealmsPurchaseSubscriptionRoute.heroButton.create.30days"	"Create for %1$s per 30 days"	"Original Translation"	""
 "hbui.RealmsPurchaseSubscriptionRoute.heroButton.renew"	"Renew for %1$s per month"	"Original Translation
 zh_CN: 以每月 %1$s 更新
 zh_TW: 以每月 %1$s 續訂"	""
+"hbui.RealmsPurchaseSubscriptionRoute.heroButton.renew.30days"	"Renew for %1$s per 30 days"	"Original Translation"	""
 "hbui.RealmsPurchaseSubscriptionRoute.heroButton.trial"	"Start free trial"	"Original Translation
 zh_CN: 开始免费体验
 zh_TW: 開始免費試用"	""
@@ -22750,7 +22781,7 @@ zh_TW: %1$s 已開始繪製世界地圖"	""
 zh_CN: %1$s 发现了一个蘑菇田
 zh_TW: %1$s 發現了一處蘑菇田"	""
 "hbui.RealmsStories.feedEvent.medium.FirstNetherFortressFound"	"%1$s discovered a Nether Fortress"	"Original Translation
-zh_CN: %1$s 发现了一个地狱要塞
+zh_CN: %1$s 发现了一个下界要塞
 zh_TW: %1$s 發現了一座地獄要塞"	""
 "hbui.RealmsStories.feedEvent.medium.FirstNetherPortalLit"	"%1$s created a portal to the Nether"	"Original Translation
 zh_CN: %1$s 创造了一个通往下界的传送门
@@ -24160,18 +24191,6 @@ zh_TW: 歡迎來到市集！"	""
 "hbui.SignInMarketplaceRoute.signInPrompt"	"Sign in or sign up for free to save your purchases to your account so they're always with you."	"Original Translation
 zh_CN: 登录或免费注册以将购买物品保存到您的账号中，方便随时使用。
 zh_TW: 登入或免費註冊後即可將所購內容儲存至你的帳號，讓你隨時隨地都能享受這些內容。"	""
-"hbui.SignInPlayOnServerRoute.laterButton"	"Maybe later"	"Original Translation
-zh_CN: 过一会吧
-zh_TW: 稍後再說"	""
-"hbui.SignInPlayOnServerRoute.signInButton"	"Sign in now"	"Original Translation
-zh_CN: 立即登录
-zh_TW: 立即登入"	""
-"hbui.SignInPlayOnServerRoute.signInHeader"	"Play on featured servers"	"Original Translation
-zh_CN: 在特色服务器上玩
-zh_TW: 在特色伺服器上遊玩"	""
-"hbui.SignInPlayOnServerRoute.signInPrompt"	"Sign in or sign up for free to play on featured servers."	"Original Translation
-zh_CN: 登录或免费注册以在推荐服务器上游玩。
-zh_TW: 登入或免費註冊，在精選伺服器上遊玩。"	""
 "hbui.SignInWorldsFriendsServersRoute.createAccountPrompt"	"Don't have a Microsoft account? Create one now - for free!"	"Original Translation
 zh_CN: 没有 Microsoft 帐户？立即免费创建一个！
 zh_TW: 還沒有 Microsoft 帳號嗎？立即免費建立帳號吧！"	""
@@ -24323,6 +24342,7 @@ zh_TW: %1$s 的選項"	""
 "hbui.SocialDrawer.partyTabLabel"	"Party"	"Original Translation
 zh_CN: 派对
 zh_TW: 派對"	""
+"hbui.SocialDrawer.partyTabLabel.beta"	"Party (Beta)"	"Original Translation"	""
 "hbui.SocialDrawer.peopleTabLabel"	"People"	"Original Translation
 zh_CN: 玩家
 zh_TW: 玩家"	""
@@ -34782,6 +34802,7 @@ zh_TW: 試玩"	""
 "menu.preview"	"Preview"	"Original Translation
 zh_CN: 预览版
 zh_TW: 預覽"	""
+"menu.preview.tab.title"	"Preview"	"Original Translation"	""
 "menu.profile"	"Profile"	"Original Translation
 zh_CN: 档案
 zh_TW: 設定檔"	""
@@ -35495,6 +35516,7 @@ zh_TW: 材質"	""
 "offer.navigationTab.worlds"	"Worlds"	"Original Translation
 zh_CN: 世界
 zh_TW: 世界"	""
+"offer.preview.open"	"Open"	"Original Translation"	""
 "onlinePlay.Back"	"Back"	"Original Translation
 zh_CN: 返回
 zh_TW: 返回"	""
@@ -36940,6 +36962,7 @@ zh_TW: 啟用《Education Edition》化學功能。教育版遊戲可能破壞�
 zh_CN: 会启用 Education Edition 化学功能。其在您创建了世界之后将无法关闭。请注意，这些功能在具有中高内存的桌面设备上表现最好。
 zh_TW: 啟用《Education Edition》化學功能。如果您的世界已經建立，就無法停用此功能。請注意，這些功能在使用有中高記憶體的桌上型裝置，才能獲得最佳體驗。"	""
 "options.enableGameplaySubtitles"	"Closed Captions"	"Original Translation"	""
+"options.enableGameplaySubtitles.description"	"Subtitles for all the sounds in Minecraft"	"Original Translation"	""
 "options.enableNewTouchControlSchemes"	"Enable New Touch Control Schemes"	"Original Translation
 zh_CN: 启用新的触控方案
 zh_TW: 啟用新的觸控控制模式"	""
@@ -38507,6 +38530,7 @@ zh_TW: 管理"	""
 "options.viewSubscriptions.button.pricePerMonth"	"%s/month"	"Original Translation
 zh_CN: %s/月
 zh_TW: %s/月"	""
+"options.viewSubscriptions.button.pricePerMonth.30days"	"%s/30 days"	"Original Translation"	""
 "options.viewSubscriptions.buyAnAdditionalRealm"	"Buy An Additional Realm"	"Original Translation
 zh_CN: 购买一个额外的 Realm
 zh_TW: 購買額外的 Realm"	""
@@ -40623,6 +40647,7 @@ zh_TW: 以每月 %s 續訂"	""
 "realmsCreateScreen.subscription.trial"	"Create For Free!%s(%s/month after first 30 days)"	"Original Translation
 zh_CN: 免费创建！%s（30 天后 %s/每月）
 zh_TW: 免費建立！%s (頭 30 天後每月 %s)"	""
+"realmsCreateScreen.subscription.trial.30days"	"Create For Free!%s(%s/30 days after first 30 days)"	"Original Translation"	""
 "realmsCreateScreen.tenUsers"	"10 Players"	"Original Translation
 zh_CN: 10 名玩家
 zh_TW: 10 位玩家"	""
@@ -40874,33 +40899,15 @@ zh_TW: 未啟用。按一下以檢視自動存檔。"	""
 "realmsSettingsScreen.backupInProgress"	"Replacing Realm world with backup"	"Original Translation
 zh_CN: 正在用备份替换 Realm 世界
 zh_TW: 使用備份置換 Realm 世界失敗"	""
-"realmsSettingsScreen.backupInfo"	"You can restore the world on your Realm with a backup found in this list."	"Original Translation
-zh_CN: 您可以用该列表中的一项备份来替换您 Realm 上的世界。
-zh_TW: 您可以使用此清單中找到的備份還原您 Realm 的世界。"	""
 "realmsSettingsScreen.backupModalText"	"By replacing your Realm with this backup, you will erase all recent progress from your Realm. The Realm will restart and all active players will need to reconnect."	"Original Translation
 zh_CN: 通过用该备份替换你的 Realm，你会删除你 Realm 的所有最新进展。Realm 将会重启，并且所有活跃玩家将需要重新连接。
 zh_TW: 使用此備份置換你的 Realm，你將清除自己 Realm 中所有最近的進度。Realm 將重新啟動，且所有加入的玩家都將必須重新連線。"	""
-"realmsSettingsScreen.backupReplaced"	"World has been replaced with the selected backup."	"Original Translation
-zh_CN: 已用所选备份替换世界。
-zh_TW: 世界已使用所選備份置換。"	""
-"realmsSettingsScreen.backupReplacedFailed"	"Replacing the world with the selected backup failed."	"Original Translation
-zh_CN: 用所选备份替换世界失败。
-zh_TW: 使用所選備份置換世界失敗。"	""
-"realmsSettingsScreen.backupReplacedTimeout"	"Replacing the world with the selected backup timed out."	"Original Translation
-zh_CN: 用所选备份替换世界已超时。
-zh_TW: 使用所選備份置換世界逾時。"	""
 "realmsSettingsScreen.backupRestoreHeader"	"Replacing World"	"Original Translation
 zh_CN: 正在替换世界
 zh_TW: 置換世界"	""
-"realmsSettingsScreen.backupSection"	"Backups"	"Original Translation
-zh_CN: 备份
-zh_TW: 備份"	""
 "realmsSettingsScreen.backupVersion"	"Version: %s"	"Original Translation
 zh_CN: 版本：%s
 zh_TW: 版本：%s"	""
-"realmsSettingsScreen.backupVersionUnknown"	"Version: Unknown"	"Original Translation
-zh_CN: 版本：未知
-zh_TW: 版本：未知"	""
 "realmsSettingsScreen.berwickStoreDisplayName"	"PlayStation®Store"	"Original Translation
 zh_CN: PlayStation®Store
 zh_TW: PlayStation®Store"	""
@@ -41592,7 +41599,8 @@ zh_TW: 這可能會需要一些時間"	""
 "realmsSettingsScreen.saveToRealmStorage"	"Save to Realm storage (%s)"	"Original Translation
 zh_CN: 保存至 Realm 存储 (%s)
 zh_TW: 儲存至 Realm 儲存空間 (%s)"	""
-"realmsSettingsScreen.savedWorldSuccessful"	"%1$s saved"	"Original Translation
+"realmsSettingsScreen.savedWorldFailed"	"Settings failed to update"	"Original Translation"	""
+"realmsSettingsScreen.savedWorldSuccessful"	"Settings updated"	"Original Translation
 zh_CN: %1$s 已保存
 zh_TW: %1$s 已儲存"	""
 "realmsSettingsScreen.savesLoadingFailed"	"Something went wrong. Please try again later."	"Original Translation
@@ -41822,6 +41830,7 @@ zh_TW: 新 Realm"	""
 "realmsWorld.newRealmTrial"	"Start Your Free 30 Day Trial%s(%s/mo after the first month)"	"Original Translation
 zh_CN: 开始 30 天免费试玩儿%s（第一月后，每月%s）
 zh_TW: 開始免費 30 天試用%s(首月後每月 %s)"	""
+"realmsWorld.newRealmTrial.30days"	"Start Your Free 30 Day Trial%s(%s/30 days after the first 30 days)"	"Original Translation"	""
 "realmsWorld.notAvailable"	"Your device does not support Minecraft Realms."	"Original Translation
 zh_CN: 你的设备不支持 Minecraft Realms。
 zh_TW: 你的裝置不支援 Minecraft Realms。"	""
@@ -43054,7 +43063,7 @@ zh_TW: 睡眠跳過夜晚"	""
 zh_CN: 确定晚上在床上睡觉是否会跳到早上。
 zh_TW: 決定夜晚在床上睡覺時是否會直接跳到早上。"	""
 "resourcePack.editor.exportProject.advancedSettings.bonusChest"	"Bonus Chest"	"Original Translation
-zh_CN: 奖励箱
+zh_CN: 奖励箱子
 zh_TW: 獎勵箱"	""
 "resourcePack.editor.exportProject.advancedSettings.bonusChest.tooltip"	"A Bonus Chest spawns near World Spawn. The chest spawns once the first time the world is played by anyone."	"Original Translation
 zh_CN: 世界生成位置附近会生成一个奖励箱子。每当有玩家第一次进入世界游玩时就会生成奖励箱子。
@@ -45557,7 +45566,7 @@ zh_TW: 相思木"	""
 zh_CN: 竹子
 zh_TW: 竹子"	"竹"
 "resourcePack.editor.toolRail.FarmGenerator.pane.fence.birch"	"Birch"	"Original Translation
-zh_CN: 桦树
+zh_CN: 白桦树
 zh_TW: 樺木"	""
 "resourcePack.editor.toolRail.FarmGenerator.pane.fence.cherry"	"Cherry"	"Original Translation
 zh_CN: 樱花
@@ -45575,7 +45584,7 @@ zh_TW: 橡木"	""
 zh_CN: 云杉
 zh_TW: 杉木"	""
 "resourcePack.editor.toolRail.FarmGenerator.pane.fence.tooltip"	"The wood type of the fence that surrounds the farm."	"Original Translation
-zh_CN: 围绕农场的栅栏的木材类型。
+zh_CN: 围绕农场的栅栏的木块类型。
 zh_TW: 農場周圍柵欄的木塊種類。"	""
 "resourcePack.editor.toolRail.FarmGenerator.pane.fence.warped"	"Warped"	"Original Translation
 zh_CN: 诡异
@@ -46788,7 +46797,7 @@ zh_TW: 用於變更方塊屬性的控制項。"	""
 zh_CN: Shift + 左键点击方块将执行次要工作台操作。
 zh_TW: Shift + 在方塊上按一下左鍵即可執行次要工作台行動。"	""
 "resourcePack.editor.toolRail.workbenchTool.stripWood"	"Strip/unstrip wood"	"Original Translation
-zh_CN: 给木材去皮/取消去皮
+zh_CN: 给木块去皮/取消去皮
 zh_TW: 剝皮 / 未剝皮木塊"	""
 "resourcePack.editor.toolRail.workbenchTool.title"	"Workbench"	"Original Translation
 zh_CN: 工作台
@@ -48949,6 +48958,7 @@ zh_TW: 合約條款"	""
 "store.csb.buyNowPerMonth"	"Purchase for %s/month"	"Original Translation
 zh_CN: 购买价格为 %s /月
 zh_TW: 以 %s /月進行購買"	""
+"store.csb.buyNowPerMonth.30days"	"Purchase for %s/30 days"	"Original Translation"	""
 "store.csb.buyNowTrialPerMonth"	"Start Trial"	"Original Translation
 zh_CN: 开始试用
 zh_TW: 啟動試用版"	""
@@ -49168,6 +49178,7 @@ zh_TW: 獨家優惠"	""
 "store.csb.upsell.price"	"%s/Month"	"Original Translation
 zh_CN: %s/月
 zh_TW: %s/月"	""
+"store.csb.upsell.price.30days"	"%s/30 days"	"Original Translation"	""
 "store.csb.upsell.realmsPlus"	"§dREALMS PLUS"	"Original Translation
 zh_CN: §dREALMS PLUS
 zh_TW: §dREALMS PLUS"	""
@@ -49927,6 +49938,7 @@ zh_TW: 合約條款"	""
 "store.realmsPlus.buyNowPerMonth"	"Subscribe Now %s/month"	"Original Translation
 zh_CN: 立即订阅 %s/月
 zh_TW: 立即訂閱 %s/月"	""
+"store.realmsPlus.buyNowPerMonth.30days"	"Subscribe Now %s/30 days"	"Original Translation"	""
 "store.realmsPlus.buyNowTrialPerMonth"	"Start Trial"	"Original Translation
 zh_CN: 开始试用
 zh_TW: 啟動試用版"	""
@@ -50014,6 +50026,7 @@ zh_TW: Realms Plus 目前可在任何能安裝 Minecraft：基岩版的平台上
 "store.realmsPlus.faq.answer5.contentSub"	"%s per month. Add infinite members, play online with 10 other players at the same time. Plus, enjoy a catalog of premium Marketplace content for free."	"Original Translation
 zh_CN: 每月仅需 %s。添加成员数无限制，可同时与 10 名其他玩家进行在线游戏。此外，还能免费享受一个包含优质市场内容的目录。
 zh_TW: 每月 %s。可新增無限名成員，同時與另外 10 名玩家線上同樂。此外，還能免費暢享優質的市集內容目錄。"	""
+"store.realmsPlus.faq.answer5.contentSub.30days"	"%s per 30 days. Add infinite members, play online with 10 other players at the same time. Plus, enjoy a catalog of premium Marketplace content for free."	"Original Translation"	""
 "store.realmsPlus.faq.answer6"	"New packs are added to Realms Plus monthly."	"Original Translation
 zh_CN: 每月都会有新的包添加到 Realms Plus。
 zh_TW: Realms Plus 每個月都會新增套件。"	""
@@ -50074,6 +50087,7 @@ zh_TW: 訂閱包含："	""
 "store.realmsPlus.landing.headerTrial"	"Free 30 Day Trial, then %s/month"	"Original Translation
 zh_CN: 免费试用 30 天，之后按 %s/月价格收费
 zh_TW: 免費試用 30 天，之後 %s/月"	""
+"store.realmsPlus.landing.headerTrial.30days"	"Free 30 Day Trial, then %s/30 days"	"Original Translation"	""
 "store.realmsPlus.landing.info1.line1"	"Your own personal Realm server: a persistent world always online for you and your friends!"	"Original Translation
 zh_CN: 你的个人 Realm 服务器：一个永远为你和好友准备的在线世界！
 zh_TW: 您的專屬個人 Realm 伺服器：一個持續存在的世界，隨時在線上供您和好友使用！"	""
@@ -50107,6 +50121,7 @@ zh_TW: 透過 Realms Stories 進行社交活動"	""
 "store.realmsPlus.landing.info2.subscribe"	"Subscribe now for %s/month"	"Original Translation
 zh_CN: 立即以 %s/月的价格订阅
 zh_TW: 立即訂閱，每月只要 %s"	""
+"store.realmsPlus.landing.info2.subscribe.30days"	"Subscribe now for %s/30 days"	"Original Translation"	""
 "store.realmsPlus.landing.info3.para1"	"Realms are available in Minecraft %s for all Realms subscribers for free! This is a new Realm that gives you the chance to try new features before their release."	"Original Translation
 zh_CN: Realms 在 Minecraft %s 中免费提供给所有 Realms 订阅用户！这是一个新的 Realm，让你有机会在新功能发布之前进行试用。
 zh_TW: Realms 可在 Minecraft 中使用 %s 免費提供給所有 Realms 訂閱者！這是新的 Realm 資料庫，能讓你有機會在新功能發佈前先試用看看。"	""
@@ -50149,9 +50164,11 @@ zh_TW: %s 的 Realm"	""
 "store.realmsPlus.recurring.offerTrial.contentSub"	"Realms Plus is an ongoing subscription with a recurring subscription fee which is charged automatically every month until the subscription is cancelled.%sYour Realm and catalog of premium content included in Marketplace Pass will be immediately available. Up to 10 players can play at one time, and they get access to the worlds in your Realm for free! Your first 30 days will be free, and you'll be billed %s/month afterwards. You can cancel your subscription to stop future charges by accessing subscriptions settings."	"Original Translation
 zh_CN: Realms Plus 是一项持续性的订阅服务，每月会自动收取续订费，直到订阅取消为止。%s你的 Realm 以及 Marketplace Pass 中包含的优质内容目录将立即可用。多达 10 名玩家可以同时游玩，并且他们可以免费访问你的 Realm 内的世界！前 30 天是免费的，之后将按 %s/月的价格收费。你可以访问订阅服务设置来取消订阅服务，避免未来出现收费的情况。
 zh_TW: Realms Plus 是需要定期訂閱費的持續訂閱服務，每個月會自動收取費用，直到取消訂閱為止。%s你能立即使用 Realm 和包含在 Marketplace Pass 中的優質內容目錄。一次最多可支援 10 名玩家同時遊玩，他們可以免費進入你 Realm 中的世界！訂閱後的前 30 天為免費，之後你將支付費用 %s/月。你可以透過存取訂閱設定來取消訂閱，以停止支付未來的費用。"	""
+"store.realmsPlus.recurring.offerTrial.contentSub.30days"	"Realms Plus is an ongoing subscription with a recurring subscription fee which is charged automatically every 30 days until the subscription is cancelled.%sYour Realm and catalog of premium content included in Marketplace Pass will be immediately available. Up to 10 players can play at one time, and they get access to the worlds in your Realm for free! Your first 30 days will be free, and you'll be billed %s/30 days afterwards. You can cancel your subscription to stop future charges by accessing subscriptions settings."	"Original Translation"	""
 "store.realmsPlus.recurring.withoutTrial.contentSub"	"Realms Plus is an ongoing subscription with a recurring subscription fee which is charged automatically every month until the subscription is cancelled.%sYour Realm and catalog of premium content included in Marketplace Pass will be immediately available. Up to 10 players can play at one time, and they get access to the worlds in your Realm for free! You'll be billed %s/month and you can cancel your subscription to stop future charges by accessing subscriptions settings."	"Original Translation
 zh_CN: Realms Plus 是一项持续性的订阅服务，每月会自动收取续订费，直到订阅取消为止。%s你的 Realm 以及 Marketplace Pass 中包含的优质内容目录将立即可用。多达 10 名玩家可以同时游玩，并且他们可以免费访问你的 Realm 内的世界！订阅服务费用为 %s/月，你可以访问订阅服务设置来取消订阅服务，避免未来出现收费的情况。
 zh_TW: Realms Plus 是需要定期訂閱費的持續訂閱服務，每個月會自動收取費用，直到取消訂閱為止。%s你能立即使用 Realm 和包含在 Marketplace Pass 中的優質內容目錄。一次最多可支援 10 名玩家同時遊玩，他們可以免費進入你 Realm 中的世界！你將支付費用 %s/月，且可以透過存取訂閱設定來取消訂閱，以停止支付未來的費用。"	""
+"store.realmsPlus.recurring.withoutTrial.contentSub.30days"	"Realms Plus is an ongoing subscription with a recurring subscription fee which is charged automatically every 30 days until the subscription is cancelled.%sYour Realm and catalog of premium content included in Marketplace Pass will be immediately available. Up to 10 players can play at one time, and they get access to the worlds in your Realm for free! You'll be billed %s/30 days and you can cancel your subscription to stop future charges by accessing subscriptions settings."	"Original Translation"	""
 "store.realmsPlus.signInToSubscribe"	"Sign in to subscribe to Realms plus"	"Original Translation
 zh_CN: 登录以订阅 Realms Plus
 zh_TW: 登入以訂閱 Realms Plus"	""
@@ -54042,7 +54059,7 @@ zh_CN: 红树木楼梯
 zh_TW: 紅樹林階梯"	"紅樹木樓梯"
 "tile.mangrove_standing_sign.name"	"Mangrove Sign"	"Original Translation
 zh_CN: 红树木告示牌
-zh_TW: 紅樹林告示牌"	""
+zh_TW: 紅樹林木告示牌"	""
 "tile.mangrove_trapdoor.name"	"Mangrove Trapdoor"	"Original Translation
 zh_CN: 红树木活板门
 zh_TW: 紅樹林地板門"	"紅樹木地板門"
@@ -54284,7 +54301,7 @@ zh_CN: 苍白橡木栅栏大门
 zh_TW: 蒼白橡木柵欄門"	"蒼白橡木閘門"
 "tile.pale_oak_hanging_sign.name"	"Pale Oak Hanging Sign"	"Original Translation
 zh_CN: 苍白橡木悬挂告示牌
-zh_TW: 蒼白橡木掛牌"	""
+zh_TW: 懸掛式蒼白橡木告示牌"	""
 "tile.pale_oak_leaves.name"	"Pale Oak Leaves"	"Original Translation
 zh_CN: 苍白橡木树叶
 zh_TW: 蒼白橡木樹葉"	"蒼白橡木樹葉"
@@ -55080,7 +55097,7 @@ zh_TW: 牌子"	""
 "tile.sticky_piston.name"	"Sticky Piston"	"Original Translation
 zh_CN: 黏性活塞
 zh_TW: 黏性活塞"	"黏性活塞"
-"tile.sticky_piston_arm_collision.name"	"Sticky Sticky Piston Arm Collision"	"Original Translation"	""
+"tile.sticky_piston_arm_collision.name"	"Sticky Piston Arm Collision"	"Original Translation"	""
 "tile.stone.andesite.name"	"Andesite"	"Original Translation
 zh_CN: 安山岩
 zh_TW: 安山岩"	"安山巖"
@@ -55423,7 +55440,7 @@ zh_TW: 扭曲蕈木柵欄門"	"迷離菌木閘門"
 zh_CN: 诡异真菌
 zh_TW: 扭曲蕈菇"	"迷離菌菇"
 "tile.warped_hanging_sign.name"	"Warped Hanging Sign"	"Original Translation
-zh_CN: 诡异悬挂告示牌
+zh_CN: 诡异木悬挂告示牌
 zh_TW: 懸掛式扭曲蕈木告示牌"	""
 "tile.warped_hyphae.name"	"Warped Hyphae"	"Original Translation
 zh_CN: 诡异菌丝
