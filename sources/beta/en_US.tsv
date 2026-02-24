@@ -14703,7 +14703,7 @@ hbui.DropdownItem.disabled	Disabled	"Original Translation
 zh_CN: 已禁用
 zh_TW: 已停用"
 hbui.DropdownItem.elementType	item	"Original Translation
-zh_CN: 项目
+zh_CN: 物品
 zh_TW: 物品"
 hbui.DropdownItem.narrationComponentType	Option	"Original Translation
 zh_CN: 选项
@@ -14715,7 +14715,7 @@ hbui.DropdownItem.selected	selected	"Original Translation
 zh_CN: 已选择
 zh_TW: 已選取"
 hbui.DropdownItem.unselected	not selected	"Original Translation
-zh_CN: 未当选
+zh_CN: 未选择
 zh_TW: 未選擇"
 hbui.EditRealmWorld.ConfirmModals.cancel	Cancel	"Original Translation
 zh_CN: 取消
@@ -14777,13 +14777,14 @@ zh_TW: 其他玩家看到的「%1$s」會是"
 hbui.EditRealmWorld.ProfanityWarning.title	Profanity warning	"Original Translation
 zh_CN: 猥亵语言警告
 zh_TW: 不雅用語警告"
-hbui.EditRealmWorld.SaveErrorModal.messageAllChangesFailed	The changes to your Realm may not have saved correctly. Check your internet connection and try again.	Original Translation
+hbui.EditRealmWorld.SaveErrorModal.learnMore	Learn more	Original Translation
+hbui.EditRealmWorld.SaveErrorModal.messagePackUploadFailed	"There was an issue uploading ""%1$s"". Remove it to save your changes."	Original Translation
 hbui.EditRealmWorld.SaveErrorModal.messagePacksFailed	Your packs failed to load to Realms. Please check your internet connection and try again.	Original Translation
-hbui.EditRealmWorld.SaveErrorModal.messagePartialFailure	Some of the changes to your Realm may not have saved correctly.	Original Translation
-hbui.EditRealmWorld.SaveErrorModal.messageSettingsNetwork	Your settings failed to save to Realms, please check your internet connection and try again.	Original Translation
-hbui.EditRealmWorld.SaveErrorModal.messageSettingsProfanity	Your settings failed to save to Realms, your world name contains words that others may find offensive. Please try again.	Original Translation
+hbui.EditRealmWorld.SaveErrorModal.messageSettingsNetwork	Check your internet connection and try again.	Original Translation
+hbui.EditRealmWorld.SaveErrorModal.messageSettingsProfanity	Your world name contains words that others may find offensive. Fix the issue and try again.	Original Translation
+hbui.EditRealmWorld.SaveErrorModal.messageSettingsService	Your changes could not be saved. Please try again later.	Original Translation
 hbui.EditRealmWorld.SaveErrorModal.ok	OK	Original Translation
-hbui.EditRealmWorld.SaveErrorModal.title	Realm save interrupted	Original Translation
+hbui.EditRealmWorld.SaveErrorModal.title	There was a problem	Original Translation
 hbui.EditRealmWorld.banner.closed	Closed	"Original Translation
 zh_CN: 已关闭
 zh_TW: 已關閉"
@@ -17492,6 +17493,11 @@ zh_TW: 啟用訊息徽章警告"
 hbui.InboxSettingsRoute.title	Inbox Settings	"Original Translation
 zh_CN: 收件箱设置
 zh_TW: 收件匣設定"
+hbui.InvitePartyToRealmsModal.cancel	Go back	Original Translation
+hbui.InvitePartyToRealmsModal.confirm	Invite and Play	Original Translation
+hbui.InvitePartyToRealmsModal.membershipWarning	By accepting in this Realm, these players will become Realm members, even after the party is disbanded.	Original Translation
+hbui.InvitePartyToRealmsModal.message	Would you like to add these players to be members of your Realm:	Original Translation
+hbui.InvitePartyToRealmsModal.title	Invite party to Realm?	Original Translation
 hbui.InviteToPartyRoute.inviteToPartyHeader	Invite to party	"Original Translation
 zh_CN: 邀请加入组队
 zh_TW: 邀請加入派對"
@@ -19149,7 +19155,6 @@ zh_TW: 重新開啟"
 hbui.PlayScreen.realmsTab.realmsDescription	Realms description	"Original Translation
 zh_CN: Realms 描述
 zh_TW: Realms 說明"
-hbui.PlayScreen.realmsTab.realmsDescription.default	Some default description goes here when there is no description present	Original Translation
 hbui.PlayScreen.realmsTab.realmsDescription.heading	About this Realm	Original Translation
 hbui.PlayScreen.realmsTab.realmsLeaveRealmErrorModal.closeAction	Close	"Original Translation
 zh_CN: 关闭
@@ -20845,7 +20850,7 @@ hbui.Realms.RealmsHub.Banner.RealmsClosed	Realm is temporarily closed. Re-open i
 zh_CN: Realm 已暂时关闭。在 Realm 设置中重新打开。
 zh_TW: Realm 暫時關閉。請於 Realm 設定中重新開啟。"
 hbui.Realms.RealmsHub.Narration.VerticalMenu	Vertical menu	Original Translation
-hbui.Realms.RealmsHub.RealmHub	Realms Hub	"Original Translation
+hbui.Realms.RealmsHub.RealmHub	Realm Hub	"Original Translation
 zh_CN: Realm Hub
 zh_TW: Realm Hub"
 hbui.Realms.RealmsHub.RealmHubHeader	%1$s Hub	"Original Translation
@@ -21087,6 +21092,7 @@ hbui.Realms.RealmsHub.Settings.Subscriptions.Button.ManageSub	Manage subscriptio
 hbui.Realms.RealmsHub.Settings.Subscriptions.Button.Select	Select	Original Translation
 hbui.Realms.RealmsHub.Settings.Subscriptions.PlatformWarning	You started your subscription in the %1$s. You can only extend your subscription there.	Original Translation
 hbui.Realms.RealmsHub.Settings.Subscriptions.PlayerCount	Player count	Original Translation
+hbui.Realms.RealmsHub.Settings.Subscriptions.PlayerCount.value	Owner +%1$s	Original Translation
 hbui.Realms.RealmsHub.Settings.Subscriptions.TimeRemaining.title	Time remaining	Original Translation
 hbui.Realms.RealmsHub.Settings.Subscriptions.TimeRemaining.value	%1$sd	Original Translation
 hbui.Realms.RealmsHub.Settings.enumeration	%1$s of %2$s	"Original Translation
@@ -21201,6 +21207,13 @@ zh_TW: 社群、世界與設定的變動皆記錄在此。紀錄將保留 30 天
 hbui.Realms.RealmsHub.emptyTitle	No records yet	"Original Translation
 zh_CN: 暂无记录
 zh_TW: 尚無紀錄"
+hbui.Realms.RealmsHub.enumeration	%1$s of %2$s	Original Translation
+hbui.Realms.RealmsHub.members.block.success	%1$s blocked from the Realm	Original Translation
+hbui.Realms.RealmsHub.members.options.block	Block from Realm	Original Translation
+hbui.Realms.RealmsHub.members.options.header	Player Options	Original Translation
+hbui.Realms.RealmsHub.members.options.permissions	Edit Realm Role	Original Translation
+hbui.Realms.RealmsHub.members.options.remove	Remove from Realm	Original Translation
+hbui.Realms.RealmsHub.members.remove.success	%1$s removed from the Realm	Original Translation
 hbui.Realms.RealmsRolesAndPermissions.Action.addRemoveMembers	Add and remove Realm members	"Original Translation
 zh_CN: 添加和移除 Realm 成员
 zh_TW: 新增與移除 Realm 成員"
@@ -21984,9 +21997,6 @@ zh_TW: 你的 Realm 已準備就緒"
 hbui.RealmsPurchaseSubscriptionRoute.ErrorModals.close	Close	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"
-hbui.RealmsPurchaseSubscriptionRoute.ErrorModals.select	Select	"Original Translation
-zh_CN: 选择
-zh_TW: 選取"
 hbui.RealmsPurchaseSubscriptionRoute.ReconciliationModals.Body.create	You are attempting to renew a Realm but a prior purchase was found for creating a Realm. Would you like to apply that purchase now?	"Original Translation
 zh_CN: 你正在尝试续订 Realm，但我们发现你此前有创建 Realm 的购买记录。是否要现在应用此购买？
 zh_TW: 你正在嘗試續訂 Realm，但我們找到你先前購買的可用於建立 Realm 的內容。是否要立即套用該次購買內容？"
@@ -22084,6 +22094,9 @@ zh_TW: 確定"
 hbui.RealmsPurchaseSubscriptionRoute.errorModals.checkRealmsPaymentServiceFailed.title	Payment service	"Original Translation
 zh_CN: 支付服务
 zh_TW: 付款服務"
+hbui.RealmsPurchaseSubscriptionRoute.errorModals.failedFetchAfterPurchase.body	Your purchase was successful, find your new Realm on the Realms tab.	Original Translation
+hbui.RealmsPurchaseSubscriptionRoute.errorModals.failedFetchAfterPurchase.ok	Ok	Original Translation
+hbui.RealmsPurchaseSubscriptionRoute.errorModals.failedFetchAfterPurchase.title	Purchase success	Original Translation
 hbui.RealmsPurchaseSubscriptionRoute.errorModals.fulfillmentFailed.body	Your purchase succeeded, but we couldn’t create your Realm right now. We will create your Realm as soon as possible. Check back later on this device. If this problem happens for more than a day, please contact Mojang Support.	"Original Translation
 zh_CN: 你的购买成功了，但我们现在无法创建你的 Realm。我们将尽快创建你的 Realm。请稍后在此设备上再次查看。如果此问题持续存在超过一天，请联系 Mojang 支持。
 zh_TW: 您已成功購買，但此刻尚無法為您建立 Realm，我們會盡快為您建立 Realm。請稍後返回本裝置查看。若該問題持續超過一天，請聯絡 Mojang 客服。"
@@ -22162,6 +22175,7 @@ zh_TW: 返回"
 hbui.RealmsPurchaseSubscriptionRoute.errorModals.purchaseFailed.title	Something went wrong	"Original Translation
 zh_CN: 出错了
 zh_TW: 發生錯誤"
+hbui.RealmsPurchaseSubscriptionRoute.errorModals.select	Select	Original Translation
 hbui.RealmsPurchaseSubscriptionRoute.header.core	Create a Realms Core Server	"Original Translation
 zh_CN: 创建一个 Realms Core 服务器
 zh_TW: 建立 Realms Core 伺服器"
@@ -22401,10 +22415,15 @@ zh_TW: 所有 Realm 成員都同意在時間線上分享他們的行動。"
 hbui.RealmsStories.OptedOutMembers.screen	%1$s Screen	"Original Translation
 zh_CN: %1$s屏幕
 zh_TW: %1$s 畫面"
+hbui.RealmsStories.RealmPlayerListItem.block.confirm	Block	Original Translation
+hbui.RealmsStories.RealmPlayerListItem.block.message	Do you want to revoke access for %1$s? This will prevent them from being invited or joining from an invite link while they are blocked. You can undo this at any time.	Original Translation
+hbui.RealmsStories.RealmPlayerListItem.block.title	Block %1$s from Realm?	Original Translation
 hbui.RealmsStories.RealmPlayerListItem.button	Button	"Original Translation
 zh_CN: 按钮
 zh_TW: 按鈕"
-hbui.RealmsStories.RealmPlayerListItem.edit	Edit	"Original Translation
+hbui.RealmsStories.RealmPlayerListItem.cancel	Cancel	Original Translation
+hbui.RealmsStories.RealmPlayerListItem.cancel.description	This will take you back to the previous screen	Original Translation
+hbui.RealmsStories.RealmPlayerListItem.edit	Options	"Original Translation
 zh_CN: 编辑
 zh_TW: 編輯"
 hbui.RealmsStories.RealmPlayerListItem.edit.narration	Edit role	"Original Translation
@@ -22425,6 +22444,9 @@ zh_TW: 角色資訊"
 hbui.RealmsStories.RealmPlayerListItem.info.narrationHint	View information about this member's Realm role	"Original Translation
 zh_CN: 查看此成员的 Realm 角色的信息
 zh_TW: 檢視此成員的 Realm 角色資訊"
+hbui.RealmsStories.RealmPlayerListItem.remove.confirm	Remove	Original Translation
+hbui.RealmsStories.RealmPlayerListItem.remove.message	Are you sure you want to remove %1$s from this Realm? They will need a new invite to rejoin.	Original Translation
+hbui.RealmsStories.RealmPlayerListItem.remove.title	Remove %1$s from Realm?	Original Translation
 hbui.RealmsStories.RealmPlayerListItem.viewProfile	View player profile	"Original Translation
 zh_CN: 查看玩家档案
 zh_TW: 檢視玩家設定檔"
@@ -23482,12 +23504,20 @@ zh_TW: 已選擇的最大訊息數"
 hbui.ReportPlayerRoute.chatSelectionPanel.description	Select messages to report	"Original Translation
 zh_CN: 选择要举报的消息
 zh_TW: 選擇要檢舉的訊息"
+hbui.ReportPlayerRoute.chatSelectionPanel.gameChatDescription	Select chat messages to report	Original Translation
+hbui.ReportPlayerRoute.chatSelectionPanel.gameChatTitle	Report Chat Messages	Original Translation
 hbui.ReportPlayerRoute.chatSelectionPanel.limitReached	Maximum amount of messages selected	"Original Translation
 zh_CN: 选择的最大消息数
 zh_TW: 已選擇的最大訊息數"
+hbui.ReportPlayerRoute.chatSelectionPanel.partyChatDescription	Select party chat messages to report	Original Translation
+hbui.ReportPlayerRoute.chatSelectionPanel.partyChatTitle	Report Party Chat Messages	Original Translation
 hbui.ReportPlayerRoute.chatSelectionPanel.title	Report Chat Messages	"Original Translation
 zh_CN: 举报聊天消息
 zh_TW: 檢舉聊天訊息"
+hbui.ReportPlayerRoute.chatTypeSelector.description	Choose which chat to report messages from	Original Translation
+hbui.ReportPlayerRoute.chatTypeSelector.gameChat	Chat	Original Translation
+hbui.ReportPlayerRoute.chatTypeSelector.partyChat	Party Chat	Original Translation
+hbui.ReportPlayerRoute.chatTypeSelector.title	Select Chat Type	Original Translation
 hbui.ReportPlayerRoute.cheating	Cheating	"Original Translation
 zh_CN: 作弊
 zh_TW: 作弊"
@@ -33605,7 +33635,7 @@ zh_TW: 循環固定物品欄"
 key.declineToast	Decline	"Original Translation
 zh_CN: 拒绝
 zh_TW: 拒絕"
-key.describeBlock	Describe	Original Translation
+key.describeBlock	Identify	Original Translation
 key.drop	Drop Item	"Original Translation
 zh_CN: 丢弃物品
 zh_TW: 丟棄物品"
@@ -34589,6 +34619,7 @@ menu.account.clearSignInData.popup.cancelLabel	Go Back	Original Translation
 menu.account.clearSignInData.popup.description	Are you sure you want to do this?	Original Translation
 menu.account.clearSignInData.popup.title	Clear Account Sign-in Data	Original Translation
 menu.account.clearSignInData.title	Clear Account Sign-in Data	Original Translation
+menu.account.copyInfo.buttonLabel	Copy text	Original Translation
 menu.account.deleteMicrosoftAccount.buttonLabel	Delete	Original Translation
 menu.account.deleteMicrosoftAccount.title	Delete Microsoft account	Original Translation
 menu.account.gamertag.title	Gamertag	Original Translation
@@ -41762,7 +41793,7 @@ zh_TW: 版本"
 realmsSettingsScreen.viewSubscriptionsButton	View Subscriptions	"Original Translation
 zh_CN: 查看订阅
 zh_TW: 檢視訂閱"
-realmsSettingsScreen.windowsStoreDisplayName	Windows Store	"Original Translation
+realmsSettingsScreen.windowsStoreDisplayName	Microsoft Store	"Original Translation
 zh_CN: Windows 应用商店
 zh_TW: Windows 市集"
 realmsSettingsScreen.worldSectionTitle	World	"Original Translation
@@ -42213,6 +42244,9 @@ zh_TW: 確定要刪除所選控制點嗎？"
 resourcePack.editor.CinematicTool.dialog.deleteSingle	Are you sure you want to delete this control point?	"Original Translation
 zh_CN: 是否确定要删除此控制点？
 zh_TW: 確定要刪除此控制點嗎？"
+resourcePack.editor.CinematicTool.dialog.importJSON.field	Paste JSON	Original Translation
+resourcePack.editor.CinematicTool.dialog.importJSON.import	Import	Original Translation
+resourcePack.editor.CinematicTool.dialog.importJSON.title	Import Cinematic JSON	Original Translation
 resourcePack.editor.CinematicTool.dialog.yes	Yes	"Original Translation
 zh_CN: 是
 zh_TW: 是"
@@ -42222,6 +42256,13 @@ zh_TW: 刪除所選控制點"
 resourcePack.editor.CinematicTool.keyBinding.deletePoint.tooltip	Delete the currently selected control point	"Original Translation
 zh_CN: 删除当前已选择的控制点
 zh_TW: 刪除目前選中的控制點"
+resourcePack.editor.CinematicTool.log.addedPoint	Added control point: %1	Original Translation
+resourcePack.editor.CinematicTool.log.deletedBulk	Deleted %1 control points	Original Translation
+resourcePack.editor.CinematicTool.log.deletedSingle	Deleted control point: %1	Original Translation
+resourcePack.editor.CinematicTool.log.exportedJSON	Cinematic data has been copied to clipboard as JSON.	Original Translation
+resourcePack.editor.CinematicTool.log.importInvalidJSON	Invalid cinematic JSON: no control points found.	Original Translation
+resourcePack.editor.CinematicTool.log.importParseError	Failed to parse JSON: %1	Original Translation
+resourcePack.editor.CinematicTool.log.importedJSON	Imported %1 control points from JSON.	Original Translation
 resourcePack.editor.CinematicTool.pane.addPoint.tooltip	Add a new control point.	"Original Translation
 zh_CN: 添加一个新的控制点。
 zh_TW: 新增控制點。"
@@ -42243,15 +42284,21 @@ zh_TW: 緩動類型"
 resourcePack.editor.CinematicTool.pane.easingType.tooltip	The type of easing used when moving to the selected control point.	"Original Translation
 zh_CN: 移动至所选控制点时采用的缓动类型。
 zh_TW: 移動至所選控制點時使用的緩動類型。"
-resourcePack.editor.CinematicTool.pane.exportCode	Export Code	"Original Translation
+resourcePack.editor.CinematicTool.pane.exportCode	Copy Code	"Original Translation
 zh_CN: 导出代码
 zh_TW: 匯出程式碼"
+resourcePack.editor.CinematicTool.pane.exportCode.tooltip	Copy script data to clipboard.	Original Translation
+resourcePack.editor.CinematicTool.pane.exportJSON	Copy JSON	Original Translation
+resourcePack.editor.CinematicTool.pane.exportJSON.tooltip	Copy camera spline JSON data to clipboard.	Original Translation
+resourcePack.editor.CinematicTool.pane.importJSON	Import JSON	Original Translation
+resourcePack.editor.CinematicTool.pane.importJSON.tooltip	Copy JSON data to import a camera spline.	Original Translation
 resourcePack.editor.CinematicTool.pane.moveToPoint	Move Camera to Point	"Original Translation
 zh_CN: 移动镜头至控制点
 zh_TW: 移動鏡頭至控制點"
 resourcePack.editor.CinematicTool.pane.playAnimation	Preview Cinematic	"Original Translation
 zh_CN: 预览版过场动画
 zh_TW: 預覽過場動畫"
+resourcePack.editor.CinematicTool.pane.playAnimation.tooltip	Watch a preview of the cinematic in the Editor.	Original Translation
 resourcePack.editor.CinematicTool.pane.pointDetails.title	Point Details	"Original Translation
 zh_CN: 控制点详情
 zh_TW: 點詳細資料"
@@ -42270,6 +42317,8 @@ zh_TW: 位置"
 resourcePack.editor.CinematicTool.pane.position.tooltip	Position of the selected control point in the world.	"Original Translation
 zh_CN: 所选控制点在世界中位置。
 zh_TW: 所選控制點在世界中的位置。"
+resourcePack.editor.CinematicTool.pane.redistributeEvenly	Redistribute Evenly	Original Translation
+resourcePack.editor.CinematicTool.pane.redistributeEvenly.tooltip	Evenly split the timestamps based on the Total Duration and number of Points.	Original Translation
 resourcePack.editor.CinematicTool.pane.rotation	Rotation	"Original Translation
 zh_CN: 旋转
 zh_TW: 旋轉"
@@ -42279,6 +42328,8 @@ zh_TW: 鏡頭抵達所選控制點時的旋轉角度。"
 resourcePack.editor.CinematicTool.pane.selectAll.tooltip	Select or deselect all control points.	"Original Translation
 zh_CN: 选择或取消选择所有控制点。
 zh_TW: 全選或取消全選控制點。"
+resourcePack.editor.CinematicTool.pane.showSpeedDots	Show Speed Dots	Original Translation
+resourcePack.editor.CinematicTool.pane.showSpeedDots.tooltip	Displays dots along the spline to visually show the speed of the camera movement.	Original Translation
 resourcePack.editor.CinematicTool.pane.splineType	Spline Type	"Original Translation
 zh_CN: 样条类型
 zh_TW: 曲線類型"
@@ -42309,7 +42360,7 @@ zh_TW: 過場動畫總持續時間 (秒)。"
 resourcePack.editor.CinematicTool.pane.updateLocation	Update to Current Position	"Original Translation
 zh_CN: 更新至当前位置
 zh_TW: 更新至目前位置"
-resourcePack.editor.CinematicTool.title	Cinematic Tool	"Original Translation
+resourcePack.editor.CinematicTool.title	Cinematic	"Original Translation
 zh_CN: 影视化工具
 zh_TW: 運鏡工具"
 resourcePack.editor.CinematicTool.tooltip	Create and edit a spline for a camera to move along to make a cut scene.	"Original Translation
@@ -42681,6 +42732,7 @@ zh_TW: 發生錯誤..."
 resourcePack.editor.blockInspector.toolRail.description	Left click on a block to view and edit its properties.	"Original Translation
 zh_CN: 左键点击方块以查看并编辑其属性。
 zh_TW: 在方塊上按下滑鼠左鍵以檢視並編輯其屬性。"
+resourcePack.editor.blockOperation.noChanges	No changes were made - the selection already contains the target block.	Original Translation
 resourcePack.editor.blockPalette.addSearchItem	Use Found Block	"Original Translation
 zh_CN: 使用找到的方块
 zh_TW: 使用找到方塊"
@@ -42721,14 +42773,15 @@ resourcePack.editor.brushShape.common.settings.axis.tooltip	The axis that the br
 zh_CN: 画笔沿其旋转的轴。
 zh_TW: 筆刷旋轉時所依循的軸向。"
 resourcePack.editor.brushShape.common.settings.extra	Extra Settings	Original Translation
+resourcePack.editor.brushShape.common.settings.extra.tooltip	Additional settings to customize how the Primitive is placed in the world.	Original Translation
 resourcePack.editor.brushShape.common.settings.height	Height	"Original Translation
 zh_CN: 高度
 zh_TW: 高度"
-resourcePack.editor.brushShape.common.settings.height.tooltip	The height of non-circular shaped brushes.	"Original Translation
+resourcePack.editor.brushShape.common.settings.height.tooltip	The height of the non-circular shapes.	"Original Translation
 zh_CN: 非圆形画笔的高度。
 zh_TW: 非圓形筆刷的高度。"
 resourcePack.editor.brushShape.common.settings.hollow	Hollow	Original Translation
-resourcePack.editor.brushShape.common.settings.hollow.tooltip	Removes interior blocks to leave a shell.	Original Translation
+resourcePack.editor.brushShape.common.settings.hollow.tooltip	Removes interior blocks to create a hollow shape.	Original Translation
 resourcePack.editor.brushShape.common.settings.length	Length	"Original Translation
 zh_CN: 长度
 zh_TW: 時長"
@@ -42744,12 +42797,13 @@ zh_TW: 圓形筆刷的大小。"
 resourcePack.editor.brushShape.common.settings.rotation	Rotation	"Original Translation
 zh_CN: 旋转
 zh_TW: 旋轉"
+resourcePack.editor.brushShape.common.settings.rotation.tooltip	Adust the rotation of the shape.	Original Translation
 resourcePack.editor.brushShape.common.settings.thickness	Thickness	Original Translation
-resourcePack.editor.brushShape.common.settings.thickness.tooltip	Sets the thickness of the shell.	Original Translation
+resourcePack.editor.brushShape.common.settings.thickness.tooltip	Set the thickness of the wall.	Original Translation
 resourcePack.editor.brushShape.common.settings.uniform	Uniform	"Original Translation
 zh_CN: 轴向同化
 zh_TW: 一致化"
-resourcePack.editor.brushShape.common.settings.uniform.tooltip	Changes the size of the brush uniformly across all axes.	"Original Translation
+resourcePack.editor.brushShape.common.settings.uniform.tooltip	Change the size uniformly across all axes.	"Original Translation
 zh_CN: 统一更改画笔在所有轴上的大小。
 zh_TW: 讓筆刷在所有軸向上一致地變更大小。"
 resourcePack.editor.brushShape.common.settings.xAxis	X Axis	"Original Translation
@@ -42761,7 +42815,7 @@ zh_TW: -X 軸"
 resourcePack.editor.brushShape.common.settings.xrot	Roll (X)	"Original Translation
 zh_CN: 翻滚 (X)
 zh_TW: 滾動 (X 軸)"
-resourcePack.editor.brushShape.common.settings.xrot.tooltip	Adjust the Roll of the brush shape.	"Original Translation
+resourcePack.editor.brushShape.common.settings.xrot.tooltip	Adjust the Roll of the shape.	"Original Translation
 zh_CN: 调整画笔形状的翻滚。
 zh_TW: 調整筆刷形狀的滾動角度。"
 resourcePack.editor.brushShape.common.settings.yAxis	Y Axis	"Original Translation
@@ -42773,7 +42827,7 @@ zh_TW: -Y 軸"
 resourcePack.editor.brushShape.common.settings.yrot	Yaw (Y)	"Original Translation
 zh_CN: 偏航 (Y)
 zh_TW: 水平旋轉 (Y 軸)"
-resourcePack.editor.brushShape.common.settings.yrot.tooltip	Adjust the Yaw of the brush shape.	"Original Translation
+resourcePack.editor.brushShape.common.settings.yrot.tooltip	Adjust the Yaw of the shape.	"Original Translation
 zh_CN: 调整画笔形状的偏航。
 zh_TW: 調整筆刷形狀的水平旋轉角度。"
 resourcePack.editor.brushShape.common.settings.zAxis	Z Axis	"Original Translation
@@ -42785,7 +42839,7 @@ zh_TW: -Z 軸"
 resourcePack.editor.brushShape.common.settings.zrot	Pitch (Z)	"Original Translation
 zh_CN: 俯仰 (Z)
 zh_TW: 垂直旋轉 (Z 軸)"
-resourcePack.editor.brushShape.common.settings.zrot.tooltip	Adjust the Pitch of the brush shape.	"Original Translation
+resourcePack.editor.brushShape.common.settings.zrot.tooltip	Adjust the Pitch of the shape.	"Original Translation
 zh_CN: 调整画笔形状的俯仰。
 zh_TW: 調整筆刷形狀的垂直旋轉角度。"
 resourcePack.editor.brushShape.cone.name	Cone	"Original Translation
@@ -42794,13 +42848,13 @@ zh_TW: 光錐"
 resourcePack.editor.brushShape.cone.settings.depth	Depth Radius	"Original Translation
 zh_CN: 深度半径
 zh_TW: 深度半徑"
-resourcePack.editor.brushShape.cone.settings.depth.tooltip	The depth of circular shaped brushes.	"Original Translation
+resourcePack.editor.brushShape.cone.settings.depth.tooltip	The depth of the circular shapes.	"Original Translation
 zh_CN: 圆形画笔的深度。
 zh_TW: 圓形筆刷的深度。"
 resourcePack.editor.brushShape.cone.settings.width	Width Radius	"Original Translation
 zh_CN: 宽度半径
 zh_TW: 寬度半徑"
-resourcePack.editor.brushShape.cone.settings.width.tooltip	The width of circular shaped brushes.	"Original Translation
+resourcePack.editor.brushShape.cone.settings.width.tooltip	The width of the circular shapes.	"Original Translation
 zh_CN: 圆形画笔的宽度。
 zh_TW: 圓形筆刷的寬度。"
 resourcePack.editor.brushShape.cuboid.name	Cuboid	"Original Translation
@@ -42809,19 +42863,19 @@ zh_TW: 方塊"
 resourcePack.editor.brushShape.cuboid.settings.depth	Depth	"Original Translation
 zh_CN: 深度
 zh_TW: 深度"
-resourcePack.editor.brushShape.cuboid.settings.depth.tooltip	The depth of non-circular shaped brushes.	"Original Translation
+resourcePack.editor.brushShape.cuboid.settings.depth.tooltip	The depth of the non-circular shapes.	"Original Translation
 zh_CN: 非圆形画笔的深度。
 zh_TW: 非圓形筆刷的深度。"
 resourcePack.editor.brushShape.cuboid.settings.height	Height	"Original Translation
 zh_CN: 高度
 zh_TW: 高度"
-resourcePack.editor.brushShape.cuboid.settings.height.tooltip	The height of non-circular shaped brushes.	"Original Translation
+resourcePack.editor.brushShape.cuboid.settings.height.tooltip	The height of the non-circular shapes.	"Original Translation
 zh_CN: 非圆形画笔的高度。
 zh_TW: 非圓形筆刷的高度。"
 resourcePack.editor.brushShape.cuboid.settings.width	Width	"Original Translation
 zh_CN: 宽度
 zh_TW: 寬度"
-resourcePack.editor.brushShape.cuboid.settings.width.tooltip	The width of non-circular shaped brushes.	"Original Translation
+resourcePack.editor.brushShape.cuboid.settings.width.tooltip	The width of the non-circular shapes.	"Original Translation
 zh_CN: 非圆形画笔的宽度。
 zh_TW: 非圓形筆刷的寬度。"
 resourcePack.editor.brushShape.cylinder.name	Cylinder	"Original Translation
@@ -42830,13 +42884,13 @@ zh_TW: 圓柱形"
 resourcePack.editor.brushShape.cylinder.settings.depth_radius	Depth Radius	"Original Translation
 zh_CN: 深度半径
 zh_TW: 深度半徑"
-resourcePack.editor.brushShape.cylinder.settings.depth_radius.tooltip	The depth of circular shaped brushes.	"Original Translation
+resourcePack.editor.brushShape.cylinder.settings.depth_radius.tooltip	The depth of the circular shapes.	"Original Translation
 zh_CN: 圆形画笔的深度。
 zh_TW: 圓形筆刷的深度。"
 resourcePack.editor.brushShape.cylinder.settings.width_radius	Width Radius	"Original Translation
 zh_CN: 宽度半径
 zh_TW: 寬度半徑"
-resourcePack.editor.brushShape.cylinder.settings.width_radius.tooltip	The width of circular shaped brushes.	"Original Translation
+resourcePack.editor.brushShape.cylinder.settings.width_radius.tooltip	The width of the circular shapes.	"Original Translation
 zh_CN: 圆形画笔的宽度。
 zh_TW: 圓形筆刷的寬度。"
 resourcePack.editor.brushShape.ellipsoid.name	Ellipsoid	"Original Translation
@@ -42845,19 +42899,19 @@ zh_TW: 橢圓體"
 resourcePack.editor.brushShape.ellipsoid.settings.depth_radius	Depth Radius	"Original Translation
 zh_CN: 深度半径
 zh_TW: 深度半徑"
-resourcePack.editor.brushShape.ellipsoid.settings.depth_radius.tooltip	The depth of circular shaped brushes.	"Original Translation
+resourcePack.editor.brushShape.ellipsoid.settings.depth_radius.tooltip	The depth of the circular shapes.	"Original Translation
 zh_CN: 圆形画笔的深度。
 zh_TW: 圓形筆刷的深度。"
 resourcePack.editor.brushShape.ellipsoid.settings.height_radius	Height Radius	"Original Translation
 zh_CN: 高度半径
 zh_TW: 高度半徑"
-resourcePack.editor.brushShape.ellipsoid.settings.height_radius.tooltip	The height of circular shaped brushes.	"Original Translation
+resourcePack.editor.brushShape.ellipsoid.settings.height_radius.tooltip	The height of the circular shapes.	"Original Translation
 zh_CN: 圆形画笔的高度。
 zh_TW: 圓形筆刷的深度。"
 resourcePack.editor.brushShape.ellipsoid.settings.width_radius	Width Radius	"Original Translation
 zh_CN: 宽度半径
 zh_TW: 寬度半徑"
-resourcePack.editor.brushShape.ellipsoid.settings.width_radius.tooltip	The width of circular shaped brushes.	"Original Translation
+resourcePack.editor.brushShape.ellipsoid.settings.width_radius.tooltip	The width of the circular shapes.	"Original Translation
 zh_CN: 圆形画笔的宽度。
 zh_TW: 圓形筆刷的寬度。"
 resourcePack.editor.brushShape.pyramid.name	Pyramid	"Original Translation
@@ -42866,19 +42920,19 @@ zh_TW: 金字塔"
 resourcePack.editor.brushShape.pyramid.settings.depth	Depth	"Original Translation
 zh_CN: 深度
 zh_TW: 深度"
-resourcePack.editor.brushShape.pyramid.settings.depth.tooltip	The depth of non-circular shaped brushes.	"Original Translation
+resourcePack.editor.brushShape.pyramid.settings.depth.tooltip	The depth of the non-circular shapes.	"Original Translation
 zh_CN: 非圆形画笔的深度。
 zh_TW: 非圓形筆刷的深度。"
 resourcePack.editor.brushShape.pyramid.settings.height	Height	"Original Translation
 zh_CN: 高度
 zh_TW: 高度"
-resourcePack.editor.brushShape.pyramid.settings.height.tooltip	The height of non-circular shaped brushes.	"Original Translation
+resourcePack.editor.brushShape.pyramid.settings.height.tooltip	The height of the non-circular shapes.	"Original Translation
 zh_CN: 非圆形画笔的高度。
 zh_TW: 非圓形筆刷的高度。"
 resourcePack.editor.brushShape.pyramid.settings.width	Width	"Original Translation
 zh_CN: 宽度
 zh_TW: 寬度"
-resourcePack.editor.brushShape.pyramid.settings.width.tooltip	The width of non-circular shaped brushes.	"Original Translation
+resourcePack.editor.brushShape.pyramid.settings.width.tooltip	The width of the non-circular shapes.	"Original Translation
 zh_CN: 非圆形画笔的宽度。
 zh_TW: 非圓形筆刷的寬度。"
 resourcePack.editor.brushShape.singleBlock.name	Single Block	"Original Translation
@@ -42890,6 +42944,11 @@ zh_TW: 星星"
 resourcePack.editor.brushShape.star.settings.includeVertical	Include Vertical	"Original Translation
 zh_CN: 包含垂直
 zh_TW: 包含垂直"
+resourcePack.editor.brushShapeCube.name	Cube	Original Translation
+resourcePack.editor.brushShapeCube.settings	Cube Settings	Original Translation
+resourcePack.editor.brushShapeSphere.name	Sphere	Original Translation
+resourcePack.editor.brushShapeSphere.settings	Sphere Settings	Original Translation
+resourcePack.editor.brushShapeTool.name	Brush Shape Tool	Original Translation
 resourcePack.editor.chunkManagement.operationModal.completed	Completed	"Original Translation
 zh_CN: 已完成
 zh_TW: 已完成"
@@ -43745,6 +43804,9 @@ zh_TW: 生成時來自起始池之第一個使用的拼圖方塊目標名稱。�
 resourcePack.editor.jigsaw.pane.generate.subpane.title	Generate	"Original Translation
 zh_CN: 深度
 zh_TW: 深度"
+resourcePack.editor.jigsaw.pane.generate.warning.allPoolsEmpty	Cannot generate Jigsaw. All Jigsaw Pools are empty. Please add at least one element to a pool.	Original Translation
+resourcePack.editor.jigsaw.pane.generate.warning.noTemplatePools	Cannot generate Jigsaw. Please create at least one Jigsaw Pool first.	Original Translation
+resourcePack.editor.jigsaw.pane.generate.warning.startingPoolAllEmpty	Cannot generate Jigsaw. All elements in the starting pool are empty. Please add at least one non-empty element.	Original Translation
 resourcePack.editor.jigsaw.pane.generatingJigsaw	Generating Jigsaw preview...	"Original Translation
 zh_CN: 生成拼图预览...
 zh_TW: 正在產生拼圖預覽..."
@@ -43784,12 +43846,14 @@ zh_TW: 輸入新拼圖收藏集名稱："
 resourcePack.editor.jigsaw.pane.registryCreation.tooltip	Create a new Jigsaw Collection.	"Original Translation
 zh_CN: 创建一个新的拼图集合。
 zh_TW: 建立新的拼圖收藏集。"
+resourcePack.editor.jigsaw.pane.registryDeletion.confirmation	Are you sure you want to delete the Jigsaw Collection?  This can't be undone.	Original Translation
 resourcePack.editor.jigsaw.pane.registryDeletion.tooltip	Delete this Jigsaw Collection.	"Original Translation
 zh_CN: 删除此拼图集合。
 zh_TW: 刪除此拼圖收藏集。"
 resourcePack.editor.jigsaw.pane.registryDropdown.heading	Collection	"Original Translation
 zh_CN: 拼图集合
 zh_TW: 拼圖收藏集"
+resourcePack.editor.jigsaw.pane.registryDropdown.newCollection	New Collection...	Original Translation
 resourcePack.editor.jigsaw.pane.registryDropdown.tooltip	A collection of Jigsaw Pools that are used for Jigsaw Structure generation.	"Original Translation
 zh_CN: 一系列拼图池，可用于生成拼图结构。
 zh_TW: 包含多個用於生成拼圖結構之結構池的收藏集。"
@@ -44913,10 +44977,10 @@ zh_TW: 建立選取範圍"
 resourcePack.editor.selectionTool.keyBinding.select.tooltip	Add a selection volume to the world.	"Original Translation
 zh_CN: 添加一个选区到世界。
 zh_TW: 在世界中新增選取範圍體。"
-resourcePack.editor.selectionTool.keyBinding.selectMultiple.title	Make Additional Selection	"Original Translation
+resourcePack.editor.selectionTool.keyBinding.selectMultiple.title	Adjust Selection Size	"Original Translation
 zh_CN: 创建其他选区
 zh_TW: 建立額外選取範圍"
-resourcePack.editor.selectionTool.keyBinding.selectMultiple.tooltip	Add and additional selection volume to the world.	"Original Translation
+resourcePack.editor.selectionTool.keyBinding.selectMultiple.tooltip	Adjust the selection volume size in the world.	"Original Translation
 zh_CN: 添加一个其他选区到世界。
 zh_TW: 在世界中新增額外的選取範圍體。"
 resourcePack.editor.selectionTool.keyBinding.shrinkBack.title	Shrink Selection Back	"Original Translation
@@ -46161,7 +46225,7 @@ zh_TW: 正在淹沒世界"
 resourcePack.editor.toolRail.floodTool.pane.applyFlood.title	Apply Flood	"Original Translation
 zh_CN: 应用灌注
 zh_TW: 套用淹沒"
-resourcePack.editor.toolRail.floodTool.pane.description	Flood Tool for raising/lowering the liquid level.	"Original Translation
+resourcePack.editor.toolRail.floodTool.pane.description	Flood tool for raising/lowering the liquid level.	"Original Translation
 zh_CN: 用于控制液面升降的灌注工具。
 zh_TW: 用來調升/調低液面高度的淹沒工具。"
 resourcePack.editor.toolRail.floodTool.pane.fluidType.lava	Lava	"Original Translation
@@ -46179,7 +46243,7 @@ zh_TW: 忽略方塊限制"
 resourcePack.editor.toolRail.floodTool.pane.ignoreBlockLimit.tooltip	Allow flooding operations that exceed the block limit of 120,000 blocks.	"Original Translation
 zh_CN: 允许执行超过 120,000 个方块上限的灌注操作。
 zh_TW: 允許超過 120,000 格方塊限制的淹沒操作。"
-resourcePack.editor.toolRail.floodTool.pane.title	Flood Tool	"Original Translation
+resourcePack.editor.toolRail.floodTool.pane.title	Flood	"Original Translation
 zh_CN: 灌注工具
 zh_TW: 淹沒工具"
 resourcePack.editor.toolRail.floodTool.progress.friendlyCalculatingDrainMessage	Draining the area. Where will the nautilus go...	"Original Translation
@@ -46197,10 +46261,10 @@ zh_TW: 區域內降下漫天火雨..."
 resourcePack.editor.toolRail.floodTool.progress.friendlyFloodingWaterMessage	Storm clouds flooding the area...	"Original Translation
 zh_CN: 风暴云正在肆虐该区域...
 zh_TW: 雷暴雲正淹沒此區域..."
-resourcePack.editor.toolRail.floodTool.title	Flood Tool	"Original Translation
+resourcePack.editor.toolRail.floodTool.title	Flood	"Original Translation
 zh_CN: 灌注工具
 zh_TW: 淹沒工具"
-resourcePack.editor.toolRail.floodTool.tooltip	Flood Tool for raising/lowering the liquid level.	"Original Translation
+resourcePack.editor.toolRail.floodTool.tooltip	Flood tool for raising/lowering the liquid level.	"Original Translation
 zh_CN: 用于控制液面升降的灌注工具。
 zh_TW: 用來調升/調低液面高度的淹沒工具。"
 resourcePack.editor.toolRail.line.keyBinding.addToSelection.title	Add to Selection (volume)	"Original Translation
@@ -46466,6 +46530,39 @@ zh_TW: 線條"
 resourcePack.editor.toolRail.line.tooltip	Line is a tool used to create lines of blocks.	"Original Translation
 zh_CN: 线条是用于创建整行方块的工具。
 zh_TW: 線條是用來建立方塊條的工具。"
+resourcePack.editor.toolRail.primitiveTool.description	Create large primitive geometric shapes out of blocks in the world.	Original Translation
+resourcePack.editor.toolRail.primitiveTool.keyBinding.cancelPlacement.title	Cancel Placement	Original Translation
+resourcePack.editor.toolRail.primitiveTool.keyBinding.cancelPlacement.tooltip	Cancel anchored placement.	Original Translation
+resourcePack.editor.toolRail.primitiveTool.keyBinding.nudgeBack.title	Nudge Back	Original Translation
+resourcePack.editor.toolRail.primitiveTool.keyBinding.nudgeBack.tooltip	Move primitive origin back.	Original Translation
+resourcePack.editor.toolRail.primitiveTool.keyBinding.nudgeDown.title	Nudge Down	Original Translation
+resourcePack.editor.toolRail.primitiveTool.keyBinding.nudgeDown.tooltip	Move primitive origin down.	Original Translation
+resourcePack.editor.toolRail.primitiveTool.keyBinding.nudgeForward.title	Nudge Forward	Original Translation
+resourcePack.editor.toolRail.primitiveTool.keyBinding.nudgeForward.tooltip	Move primitive origin forward.	Original Translation
+resourcePack.editor.toolRail.primitiveTool.keyBinding.nudgeLeft.title	Nudge Left	Original Translation
+resourcePack.editor.toolRail.primitiveTool.keyBinding.nudgeLeft.tooltip	Move primitive origin left.	Original Translation
+resourcePack.editor.toolRail.primitiveTool.keyBinding.nudgeRight.title	Nudge Right	Original Translation
+resourcePack.editor.toolRail.primitiveTool.keyBinding.nudgeRight.tooltip	Move primitive origin right.	Original Translation
+resourcePack.editor.toolRail.primitiveTool.keyBinding.nudgeUp.title	Nudge Up	Original Translation
+resourcePack.editor.toolRail.primitiveTool.keyBinding.nudgeUp.tooltip	Move primitive origin up	Original Translation
+resourcePack.editor.toolRail.primitiveTool.keyBinding.placePrimitive.title	Place Primitive	Original Translation
+resourcePack.editor.toolRail.primitiveTool.keyBinding.placePrimitive.tooltip	Place the anchored primitive.	Original Translation
+resourcePack.editor.toolRail.primitiveTool.progress.calculatingPositions	Calculating primitive position...	Original Translation
+resourcePack.editor.toolRail.primitiveTool.progress.cancel	Cancel	Original Translation
+resourcePack.editor.toolRail.primitiveTool.progress.placingBlocks	Placing blocks in world...	Original Translation
+resourcePack.editor.toolRail.primitiveTool.progress.title	Placing Primitive	Original Translation
+resourcePack.editor.toolRail.primitiveTool.settings.blockFilterMode	Block Filter Mode	Original Translation
+resourcePack.editor.toolRail.primitiveTool.settings.blockFilters	Block Filters	Original Translation
+resourcePack.editor.toolRail.primitiveTool.settings.blockFilters.tooltip	Settings that determine which blocks are included/ignored when placing the blocks in the world.	Original Translation
+resourcePack.editor.toolRail.primitiveTool.settings.cursorOffset	Cursor Offset	Original Translation
+resourcePack.editor.toolRail.primitiveTool.settings.cursorOffset.tooltip	The offset from the cursor used when placing the Primitive preview in the world.	Original Translation
+resourcePack.editor.toolRail.primitiveTool.settings.placeFill	Place Fill	Original Translation
+resourcePack.editor.toolRail.primitiveTool.settings.placeFill.tooltip	Fill the Primitive shape with the current hotbar block.	Original Translation
+resourcePack.editor.toolRail.primitiveTool.settings.shape	Shape	Original Translation
+resourcePack.editor.toolRail.primitiveTool.settings.shape.tooltip	Select the shape of the Primitive.	Original Translation
+resourcePack.editor.toolRail.primitiveTool.title	Primitives	Original Translation
+resourcePack.editor.toolRail.primitiveTool.tooltip	Primitive	Original Translation
+resourcePack.editor.toolRail.primitiveTool.tooltipDescription	Place large primitive geometric shapes like cuboids, ellipsoids, cylinders, cones, and pyramids.	Original Translation
 resourcePack.editor.toolRail.rulerTool.axisLock.none	None	"Original Translation
 zh_CN: 无
 zh_TW: 無"
@@ -50965,6 +51062,12 @@ subtitles.block.cake.add_candle	Cake squishes	Original Translation
 subtitles.block.campfire.crackle	Campfire crackles	Original Translation
 subtitles.block.candle.crackle	Candle crackles	Original Translation
 subtitles.block.candle.extinguish	Candle extinguishes	Original Translation
+subtitles.block.cauldron.add_dye	Cauldron water gets dyed	Original Translation
+subtitles.block.cauldron.clean_armor	Leather armor gets cleaned	Original Translation
+subtitles.block.cauldron.clean_banner	Banner gets cleaned	Original Translation
+subtitles.block.cauldron.dye_armor	Leather armor gets dyed	Original Translation
+subtitles.block.cauldron.fill_potion	Potion pours into Cauldron	Original Translation
+subtitles.block.cauldron.take_potion	Potion taken from Cauldron	Original Translation
 subtitles.block.chest.close	Chest closes	Original Translation
 subtitles.block.chest.locked	Chest locked	Original Translation
 subtitles.block.chest.open	Chest opens	Original Translation
@@ -51053,6 +51156,12 @@ subtitles.block.sculk_catalyst.bloom	Sculk Catalyst blooms	Original Translation
 subtitles.block.sculk_sensor.clicking	Sculk Sensor clicks	Original Translation
 subtitles.block.sculk_sensor.clicking_stop	Sculk Sensor stops clicking	Original Translation
 subtitles.block.sculk_shrieker.shriek	Sculk Shrieker shrieks	Original Translation
+subtitles.block.shelf.activate	Shelf activates	Original Translation
+subtitles.block.shelf.deactivate	Shelf deactivates	Original Translation
+subtitles.block.shelf.multi_swap	Items swap	Original Translation
+subtitles.block.shelf.place_item	Item placed	Original Translation
+subtitles.block.shelf.single_swap	Item swaps	Original Translation
+subtitles.block.shelf.take_item	Item taken	Original Translation
 subtitles.block.shulker_box.close	Shulker box closes	Original Translation
 subtitles.block.shulker_box.open	Shulker box opens	Original Translation
 subtitles.block.sign.waxed_interact_fail	Sign wobbles	Original Translation
@@ -51186,6 +51295,7 @@ subtitles.entity.camel_husk.dash_ready	Camel Husk recovers	Original Translation
 subtitles.entity.camel_husk.death	Camel Husk dies	Original Translation
 subtitles.entity.camel_husk.eat	Camel Husk eats	Original Translation
 subtitles.entity.camel_husk.hurt	Camel Husk hurts	Original Translation
+subtitles.entity.camel_husk.saddle	Saddle equips	Original Translation
 subtitles.entity.camel_husk.sit	Camel Husk sits down	Original Translation
 subtitles.entity.camel_husk.stand	Camel Husk stands up	Original Translation
 subtitles.entity.cat.ambient	Cat meows	Original Translation
@@ -51210,6 +51320,7 @@ subtitles.entity.copper_golem.no_item_get	Copper Golem is picking up item	Origin
 subtitles.entity.copper_golem.no_item_no_get	Copper Golem can't pick up item	Original Translation
 subtitles.entity.copper_golem.spawn	Copper Golem appears	Original Translation
 subtitles.entity.copper_golem.spin	Copper Golem's head spins	Original Translation
+subtitles.entity.copper_golem_become_statue	Copper Golem is petrified	Original Translation
 subtitles.entity.copper_golem_oxidized.death	Copper Golem dies	Original Translation
 subtitles.entity.copper_golem_oxidized.hurt	Copper Golem hurts	Original Translation
 subtitles.entity.copper_golem_oxidized.spin	Copper Golem's head spins	Original Translation
@@ -51443,12 +51554,15 @@ subtitles.entity.mule.jump	Mule jumps	Original Translation
 subtitles.entity.nautilus.ambient	Nautilus clacks	Original Translation
 subtitles.entity.nautilus.ambient_land	Nautilus clacks	Original Translation
 subtitles.entity.nautilus.dash	Nautilus jets	Original Translation
+subtitles.entity.nautilus.dash_land	Nautilus jets	Original Translation
 subtitles.entity.nautilus.dash_ready	Nautilus recovers	Original Translation
+subtitles.entity.nautilus.dash_ready_land	Nautilus recovers	Original Translation
 subtitles.entity.nautilus.death	Nautilus dies	Original Translation
 subtitles.entity.nautilus.death_land	Nautilus dies	Original Translation
 subtitles.entity.nautilus.eat	Nautilus eats	Original Translation
 subtitles.entity.nautilus.hurt	Nautilus hurts	Original Translation
 subtitles.entity.nautilus.hurt_land	Nautilus hurts	Original Translation
+subtitles.entity.nautilus.swim	Nautilus swims	Original Translation
 subtitles.entity.painting.break	Painting broken	Original Translation
 subtitles.entity.painting.place	Painting placed	Original Translation
 subtitles.entity.panda.aggressive_ambient	Panda huffs	Original Translation
@@ -51473,6 +51587,7 @@ subtitles.entity.parrot.hurts	Parrot hurts	Original Translation
 subtitles.entity.parrot.imitate.blaze	Parrot breathes	Original Translation
 subtitles.entity.parrot.imitate.bogged	Parrot rattles	Original Translation
 subtitles.entity.parrot.imitate.breeze	Parrot whirs	Original Translation
+subtitles.entity.parrot.imitate.camel_husk	Parrot grumphs	Original Translation
 subtitles.entity.parrot.imitate.creaking	Parrot creaks	Original Translation
 subtitles.entity.parrot.imitate.creeper	Parrot hisses	Original Translation
 subtitles.entity.parrot.imitate.drowned	Parrot gurgles	Original Translation
@@ -51486,6 +51601,7 @@ subtitles.entity.parrot.imitate.hoglin	Parrot growls	Original Translation
 subtitles.entity.parrot.imitate.husk	Parrot groans	Original Translation
 subtitles.entity.parrot.imitate.illusioner	Parrot murmurs	Original Translation
 subtitles.entity.parrot.imitate.magma_cube	Parrot squishes	Original Translation
+subtitles.entity.parrot.imitate.parched	Parrot crackles	Original Translation
 subtitles.entity.parrot.imitate.phantom	Parrot screeches	Original Translation
 subtitles.entity.parrot.imitate.piglin	Parrot snorts	Original Translation
 subtitles.entity.parrot.imitate.piglin_brute	Parrot snorts	Original Translation
@@ -51505,6 +51621,8 @@ subtitles.entity.parrot.imitate.wither	Parrot angers	Original Translation
 subtitles.entity.parrot.imitate.wither_skeleton	Parrot rattles	Original Translation
 subtitles.entity.parrot.imitate.zoglin	Parrot growls	Original Translation
 subtitles.entity.parrot.imitate.zombie	Parrot groans	Original Translation
+subtitles.entity.parrot.imitate.zombie_horse	Parrot groans	Original Translation
+subtitles.entity.parrot.imitate.zombie_nautilus	Parrot gargles	Original Translation
 subtitles.entity.parrot.imitate.zombie_villager	Parrot groans	Original Translation
 subtitles.entity.phantom.ambient	Phantom screeches	Original Translation
 subtitles.entity.phantom.bite	Phantom bites	Original Translation
@@ -51762,7 +51880,10 @@ subtitles.entity.zombie_horse.death	Zombie Horse dies	Original Translation
 subtitles.entity.zombie_horse.hurt	Zombie Horse hurts	Original Translation
 subtitles.entity.zombie_nautilus.ambient	Zombie Nautilus burbles	Original Translation
 subtitles.entity.zombie_nautilus.ambient_land	Zombie Nautilus burbles	Original Translation
+subtitles.entity.zombie_nautilus.dash	Zombie Nautilus jets	Original Translation
+subtitles.entity.zombie_nautilus.dash_land	Zombie Nautilus jets	Original Translation
 subtitles.entity.zombie_nautilus.dash_ready	Zombie Nautilus recovers	Original Translation
+subtitles.entity.zombie_nautilus.dash_ready_land	Zombie Nautilus recovers	Original Translation
 subtitles.entity.zombie_nautilus.death	Zombie Nautilus dies	Original Translation
 subtitles.entity.zombie_nautilus.death_land	Zombie Nautilus dies	Original Translation
 subtitles.entity.zombie_nautilus.hurt	Zombie Nautilus hurts	Original Translation
@@ -51788,9 +51909,11 @@ subtitles.item.armor.equip_elytra	Elytra rustle	Original Translation
 subtitles.item.armor.equip_gold	Gold armor clinks	Original Translation
 subtitles.item.armor.equip_iron	Iron armor clanks	Original Translation
 subtitles.item.armor.equip_leather	Leather armor rustles	Original Translation
+subtitles.item.armor.equip_nautilus	Nautilus Armor equips	Original Translation
 subtitles.item.armor.equip_netherite	Netherite armor clanks	Original Translation
 subtitles.item.armor.equip_turtle	Turtle Shell thunks	Original Translation
 subtitles.item.armor.equip_wolf	Wolf Armor is fastened	Original Translation
+subtitles.item.armor.unequip_nautilus	Nautilus Armor unequips	Original Translation
 subtitles.item.armor.unequip_wolf	Wolf Armor snips away	Original Translation
 subtitles.item.axe.scrape	Axe scrapes	Original Translation
 subtitles.item.axe.strip	Axe strips	Original Translation
@@ -51839,6 +51962,7 @@ subtitles.item.lodestone_compass.lock	Lodestone Compass locks onto Lodestone	Ori
 subtitles.item.mace.smash_air	Mace smashes	Original Translation
 subtitles.item.mace.smash_ground	Mace smashes	Original Translation
 subtitles.item.nautilus_saddle_equip	Saddle equips	Original Translation
+subtitles.item.nautilus_saddle_underwater_equip	Saddle equips	Original Translation
 subtitles.item.nether_wart.plant	Crop planted	Original Translation
 subtitles.item.ominous_bottle.dispose	Bottle breaks	Original Translation
 subtitles.item.saddle.unequip	Saddle snips away	Original Translation
@@ -51846,8 +51970,14 @@ subtitles.item.shears.shear	Shears click	Original Translation
 subtitles.item.shears.snip	Shears snip	Original Translation
 subtitles.item.shield.block	Shield blocks	Original Translation
 subtitles.item.shovel.flatten	Shovel flattens	Original Translation
+subtitles.item.spear.attack	Spear jabs	Original Translation
 subtitles.item.spear.hit	Spear hits	Original Translation
+subtitles.item.spear.lunge	Spear lunges	Original Translation
 subtitles.item.spear.use	Charges with Spear	Original Translation
+subtitles.item.spear_wood.attack	Spear jabs	Original Translation
+subtitles.item.spear_wood.hit	Spear hits	Original Translation
+subtitles.item.spear_wood.lunge	Spear lunges	Original Translation
+subtitles.item.spear_wood.use	Charges with Spear	Original Translation
 subtitles.item.spyglass.stop_using	Spyglass retracts	Original Translation
 subtitles.item.spyglass.use	Spyglass expands	Original Translation
 subtitles.item.totem.use	Totem activates	Original Translation
@@ -51857,6 +51987,7 @@ subtitles.item.trident.return	Trident returns	Original Translation
 subtitles.item.trident.riptide	Trident zooms	Original Translation
 subtitles.item.trident.throw	Trident clangs	Original Translation
 subtitles.item.trident.thunder	Trident thunder cracks	Original Translation
+subtitles.item.underwater_saddle.equip	Saddle equips	Original Translation
 subtitles.item.wolf_armor.break	Wolf Armor breaks	Original Translation
 subtitles.item.wolf_armor.crack	Wolf Armor cracks	Original Translation
 subtitles.item.wolf_armor.damage	Wolf Armor takes damage	Original Translation
