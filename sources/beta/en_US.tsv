@@ -1725,6 +1725,97 @@ zh_TW: 找到錯誤？請至 bugs.mojang.com 告訴我們"
 beta.loading.9	If your friends can't join your world, it may be because they aren't also on the beta.	"Original Translation
 zh_CN: 如果您的好友无法加入您的世界，那可能是因为他们玩的不是测试版。
 zh_TW: 如果你的好友無法加入你的世界，可能是因為他們並非同樣使用測試版。"
+biome.bamboo_jungle.name	Bamboo Jungle	Original Translation
+biome.bamboo_jungle_hills.name	Bamboo Jungle Hills	Original Translation
+biome.basalt_deltas.name	Basalt Deltas	Original Translation
+biome.beach.name	Beach	Original Translation
+biome.birch_forest.name	Birch Forest	Original Translation
+biome.birch_forest_hills.name	Birch Forest Hills	Original Translation
+biome.birch_forest_hills_mutated.name	Birch Forest Hills Mutated	Original Translation
+biome.birch_forest_mutated.name	Birch Forest Mutated	Original Translation
+biome.cherry_grove.name	Cherry Grove	Original Translation
+biome.cold_beach.name	Cold Beach	Original Translation
+biome.cold_ocean.name	Cold Ocean	Original Translation
+biome.cold_taiga.name	Cold Taiga	Original Translation
+biome.cold_taiga_hills.name	Cold Taiga Hills	Original Translation
+biome.cold_taiga_mutated.name	Cold Taiga Mutated	Original Translation
+biome.crimson_forest.name	Crimson Forest	Original Translation
+biome.deep_cold_ocean.name	Deep Cold Ocean	Original Translation
+biome.deep_dark.name	Deep Dark	Original Translation
+biome.deep_frozen_ocean.name	Deep Frozen Ocean	Original Translation
+biome.deep_lukewarm_ocean.name	Deep Lukewarm Ocean	Original Translation
+biome.deep_ocean.name	Deep Ocean	Original Translation
+biome.deep_warm_ocean.name	Deep Warm Ocean	Original Translation
+biome.desert.name	Desert	Original Translation
+biome.desert_hills.name	Desert Hills	Original Translation
+biome.desert_mutated.name	Desert Mutated	Original Translation
+biome.dripstone_caves.name	Dripstone Caves	Original Translation
+biome.extreme_hills.name	Extreme Hills	Original Translation
+biome.extreme_hills_edge.name	Extreme Hills Edge	Original Translation
+biome.extreme_hills_mutated.name	Extreme Hills Mutated	Original Translation
+biome.extreme_hills_plus_trees.name	Extreme Hills Plus Trees	Original Translation
+biome.extreme_hills_plus_trees_mutated.name	Extreme Hills Plus Trees Mutated	Original Translation
+biome.flower_forest.name	Flower Forest	Original Translation
+biome.forest.name	Forest	Original Translation
+biome.forest_hills.name	Forest Hills	Original Translation
+biome.frozen_ocean.name	Frozen Ocean	Original Translation
+biome.frozen_peaks.name	Frozen Peaks	Original Translation
+biome.frozen_river.name	Frozen River	Original Translation
+biome.grove.name	Grove	Original Translation
+biome.hell.name	Nether	Original Translation
+biome.ice_mountains.name	Ice Mountains	Original Translation
+biome.ice_plains.name	Ice Plains	Original Translation
+biome.ice_plains_spikes.name	Ice Plains Spikes	Original Translation
+biome.jagged_peaks.name	Jagged Peaks	Original Translation
+biome.jungle.name	Jungle	Original Translation
+biome.jungle_edge.name	Jungle Edge	Original Translation
+biome.jungle_edge_mutated.name	Jungle Edge Mutated	Original Translation
+biome.jungle_hills.name	Jungle Hills	Original Translation
+biome.jungle_mutated.name	Jungle Mutated	Original Translation
+biome.legacy_frozen_ocean.name	Legacy Frozen Ocean	Original Translation
+biome.lukewarm_ocean.name	Lukewarm Ocean	Original Translation
+biome.lush_caves.name	Lush Caves	Original Translation
+biome.mangrove_swamp.name	Mangrove Swamp	Original Translation
+biome.meadow.name	Meadow	Original Translation
+biome.mega_spruce_taiga.name	Mega Spruce Taiga	Original Translation
+biome.mega_spruce_taiga_mutated.name	Mega Spruce Taiga Mutated	Original Translation
+biome.mega_taiga.name	Mega Taiga	Original Translation
+biome.mega_taiga_hills.name	Mega Taiga Hills	Original Translation
+biome.mega_taiga_mutated.name	Mega Taiga Mutated	Original Translation
+biome.mesa.name	Mesa	Original Translation
+biome.mesa_bryce.name	Mesa Bryce	Original Translation
+biome.mesa_mutated.name	Mesa Mutated	Original Translation
+biome.mesa_plateau.name	Mesa Plateau	Original Translation
+biome.mesa_plateau_mutated.name	Mesa Plateau Mutated	Original Translation
+biome.mesa_plateau_stone.name	Mesa Plateau Stone	Original Translation
+biome.mesa_plateau_stone_mutated.name	Mesa Plateau Stone Mutated	Original Translation
+biome.mushroom_island.name	Mushroom Island	Original Translation
+biome.mushroom_island_shore.name	Mushroom Island Shore	Original Translation
+biome.ocean.name	Ocean	Original Translation
+biome.pale_garden.name	Pale Garden	Original Translation
+biome.plains.name	Plains	Original Translation
+biome.redwood_taiga_hills_mutated.name	Redwood Taiga Hills Mutated	Original Translation
+biome.redwood_taiga_mutated.name	Redwood Taiga Mutated	Original Translation
+biome.river.name	River	Original Translation
+biome.roofed_forest.name	Roofed Forest	Original Translation
+biome.roofed_forest_mutated.name	Roofed Forest Mutated	Original Translation
+biome.savanna.name	Savanna	Original Translation
+biome.savanna_mutated.name	Savanna Mutated	Original Translation
+biome.savanna_plateau.name	Savanna Plateau	Original Translation
+biome.savanna_plateau_mutated.name	Savanna Plateau Mutated	Original Translation
+biome.snowy_slopes.name	Snowy Slopes	Original Translation
+biome.soulsand_valley.name	Soulsand Valley	Original Translation
+biome.stone_beach.name	Stone Beach	Original Translation
+biome.stony_peaks.name	Stony Peaks	Original Translation
+biome.sunflower_plains.name	Sunflower Plains	Original Translation
+biome.swampland.name	Swampland	Original Translation
+biome.swampland_mutated.name	Swampland Mutated	Original Translation
+biome.taiga.name	Taiga	Original Translation
+biome.taiga_hills.name	Taiga Hills	Original Translation
+biome.taiga_mutated.name	Taiga Mutated	Original Translation
+biome.the_end.name	The End	Original Translation
+biome.warm_ocean.name	Warm Ocean	Original Translation
+biome.warped_forest.name	Warped Forest	Original Translation
 book.byAuthor	by	"Original Translation
 zh_CN: 作者
 zh_TW: 作者"
@@ -11268,9 +11359,6 @@ zh_TW: 獎勵鎖定"
 hbui.AchievementDetailsRoute.narration.rewardUnlocked	reward unlocked	"Original Translation
 zh_CN: 奖励已解锁
 zh_TW: 獎勵解鎖"
-hbui.AchievementDetailsRoute.narration.title	Achievement details	"Original Translation
-zh_CN: 成就详情
-zh_TW: 成就詳細資訊"
 hbui.AchievementDetailsRoute.reward	Reward	"Original Translation
 zh_CN: 奖励
 zh_TW: 獎勵"
@@ -12387,9 +12475,6 @@ zh_TW: 訂閱類型：%1$s"
 hbui.ChooseRealmRoute.typeOfWorld	Type of world: %1$s	"Original Translation
 zh_CN: 世界类型：%1$s
 zh_TW: 世界類型：%1$s"
-hbui.ChooseSlotRoute.backHint	This will take you back to the previous screen	"Original Translation
-zh_CN: 这将带你返回上一个界面
-zh_TW: 這樣做會讓您返回上一個畫面"
 hbui.ChooseSlotRoute.chooseSlotHeader	2. Choose a slot [%s]	"Original Translation
 zh_CN: 2. 选择栏位 [%s]
 zh_TW: 2. 選擇一個欄位 [%s]"
@@ -14308,7 +14393,7 @@ zh_TW: 你需要此資格才能線上遊玩"
 hbui.CreateNewWorld.multiplayer.nintendoSubscriptionPromotionButtonLabel	More information	"Original Translation
 zh_CN: 更多信息
 zh_TW: 更多資訊"
-hbui.CreateNewWorld.multiplayer.nintendoSubscriptionPromotionTitle	You don't have a Nintendo Online Services membership	"Original Translation
+hbui.CreateNewWorld.multiplayer.nintendoSubscriptionPromotionTitle	You don't have a Nintendo Switch Online membership	"Original Translation
 zh_CN: 您没有 Nintendo Online Services 会员资格
 zh_TW: 你沒有 Nintendo Online Services 會員資格"
 hbui.CreateNewWorld.multiplayer.playStationPlusSubscriptionPromotionBody	You need it to play online	"Original Translation
@@ -14857,7 +14942,7 @@ zh_TW: 一律解鎖"
 hbui.CreateNewWorld.upsellModal.back	Back	"Original Translation
 zh_CN: 返回
 zh_TW: 返回"
-hbui.CreateNewWorld.upsellModal.bodyNintendo	You require a Nintendo Switch Online subscription to play on any cross-play multiplayer game.	"Original Translation
+hbui.CreateNewWorld.upsellModal.bodyNintendo	You require a Nintendo Switch Online membership to play on any cross-play multiplayer game.	"Original Translation
 zh_CN: 您需要 Nintendo Switch Online 订阅服务才能进行任何跨平台多人游戏。
 zh_TW: 你需要 Nintendo Switch Online 定期服務才能跨平台遊玩多人遊戲。"
 hbui.CreateNewWorld.upsellModal.bodyPlaystation	Online features unavailable.	"Original Translation
@@ -15000,7 +15085,7 @@ zh_CN: 选择
 zh_TW: 選取"
 hbui.DropdownItem.selected	selected	"Original Translation
 zh_CN: 已选择
-zh_TW: 已選擇"
+zh_TW: 已選取"
 hbui.DropdownItem.unselected	not selected	"Original Translation
 zh_CN: 未选择
 zh_TW: 未選擇"
@@ -15297,15 +15382,9 @@ zh_TW: 匯出"
 hbui.EditWorld.exportWorldFlow.exportWorldLabel	Export world	"Original Translation
 zh_CN: 导出世界
 zh_TW: 匯出世界"
-hbui.EditWorld.exportWorldFlow.exportWorldNarration	Export World screen	"Original Translation
-zh_CN: 导出世界屏幕
-zh_TW: 匯出世界畫面"
 hbui.EditWorld.exportWorldFlow.exportWorldTemplateLabel	Exportation settings	"Original Translation
 zh_CN: 导出设置
 zh_TW: 匯出設定"
-hbui.EditWorld.exportWorldFlow.exportWorldTemplateNarration	Export screen	"Original Translation
-zh_CN: 导出屏幕
-zh_TW: 匯出畫面"
 hbui.EditWorld.exportWorldFlow.exportationSettingsGroup	Group	"Original Translation
 zh_CN: 组
 zh_TW: 群組"
@@ -16618,9 +16697,6 @@ zh_TW: 起源"
 hbui.EditorStructurePanel.details.replaceClipboardLabel	Copy to Clipboard	"Original Translation
 zh_CN: 复制到剪贴板
 zh_TW: 複製到剪貼簿"
-hbui.EditorStructurePanel.details.saveLabel	Save	"Original Translation
-zh_CN: 保存
-zh_TW: 儲存"
 hbui.EditorStructurePanel.details.sizeLabel	Size	"Original Translation
 zh_CN: 大小
 zh_TW: 大小"
@@ -18779,6 +18855,11 @@ zh_TW: 可加入的隊伍 (%1$s)"
 hbui.PartyTab.leaveParty	Leave party	"Original Translation
 zh_CN: 离开派对
 zh_TW: 離開隊伍"
+hbui.PartyTab.narration.buttonRole	Button	Original Translation
+hbui.PartyTab.narration.enumeration	%1$s of %2$s	Original Translation
+hbui.PartyTab.narration.inviteToParty	Invite to party	Original Translation
+hbui.PartyTab.narration.leaveParty	Leave party	Original Translation
+hbui.PartyTab.narration.leavePartyHint	Press to leave the current party	Original Translation
 hbui.PartyTab.openParty	Open party (%1$s / 15)	"Original Translation
 zh_CN: 开放派对 (%1$s/15)
 zh_TW: 公開隊伍 (%1$s / 15)"
@@ -19810,15 +19891,9 @@ zh_TW: %1$s/%2$s"
 hbui.PlayScreen.serverTab.serverForm.deleteServerButton	Delete server	"Original Translation
 zh_CN: 删除服务器
 zh_TW: 刪除伺服器"
-hbui.PlayScreen.serverTab.serverForm.editServerNarration	Edit server screen	"Original Translation
-zh_CN: 编辑服务器屏幕
-zh_TW: 編輯伺服器畫面"
 hbui.PlayScreen.serverTab.serverForm.editServerTitle	Edit server	"Original Translation
 zh_CN: 编辑服务器
 zh_TW: 編輯伺服器"
-hbui.PlayScreen.serverTab.serverForm.newServerNarration	Add a new server screen	"Original Translation
-zh_CN: 添加新服务器屏幕
-zh_TW: 新增一個新的伺服器畫面"
 hbui.PlayScreen.serverTab.serverForm.newServerTitle	Add a new server	"Original Translation
 zh_CN: 添加新服务器
 zh_TW: 新增一個新伺服器"
@@ -20901,7 +20976,7 @@ zh_TW: 你沒有權限，無法檢視此個人資料。"
 hbui.ProfileRoute.needPermissionErrorTitle	You need permission!	"Original Translation
 zh_CN: 您需要许可！
 zh_TW: 您需要得到許可！"
-hbui.ProfileRoute.nintendoAccount	Nintendo account	"Original Translation
+hbui.ProfileRoute.nintendoAccount	Nintendo Account	"Original Translation
 zh_CN: Nintendo 账号
 zh_TW: 任天堂帳戶"
 hbui.ProfileRoute.noInternetErrorMessage	You're not connected to the internet right now. Reconnect to access the profile.	"Original Translation
@@ -21243,12 +21318,6 @@ zh_TW: 關閉 Realm？"
 hbui.Realms.RealmsHub.Settings.Server.CloseRealm.Button.Close	Temporarily close Realm	"Original Translation
 zh_CN: 暂时关闭 Realm
 zh_TW: 暫時關閉 Realm"
-hbui.Realms.RealmsHub.Settings.Server.CloseRealm.Description.p1	You can temporarily close your Realm, preventing play while you make adjustments. Open it back up when you’re ready.	"Original Translation
-zh_CN: 你可以暂时关闭你的 Realm，调整期间将禁止游玩。调整完毕后可重新开启。
-zh_TW: 你可以暫時關閉 Realm，在調整期間停止遊玩。準備就緒後再重新開啟。"
-hbui.Realms.RealmsHub.Settings.Server.CloseRealm.Description.p2	This does not cancel your Realms Subscription.	"Original Translation
-zh_CN: 此操作不会取消你的 Realms 订阅。
-zh_TW: 這不會取消你的 Realms 訂閱。"
 hbui.Realms.RealmsHub.Settings.Server.CloseRealm.Title	Need to make changes without disruption?	"Original Translation
 zh_CN: 需要在没有干扰的情况下做出更改吗？
 zh_TW: 需要不受干擾地調整設定嗎？"
@@ -21503,9 +21572,10 @@ zh_TW: 尚無紀錄"
 hbui.Realms.RealmsHub.enumeration	%1$s of %2$s	Original Translation
 hbui.Realms.RealmsHub.members.block.success	%1$s blocked from the Realm	Original Translation
 hbui.Realms.RealmsHub.members.options.block	Block from Realm	Original Translation
-hbui.Realms.RealmsHub.members.options.header	Player Options	Original Translation
-hbui.Realms.RealmsHub.members.options.permissions	Edit Role	Original Translation
+hbui.Realms.RealmsHub.members.options.header	Player options	Original Translation
 hbui.Realms.RealmsHub.members.options.remove	Remove from Realm	Original Translation
+hbui.Realms.RealmsHub.members.options.roleEdit	Edit role	Original Translation
+hbui.Realms.RealmsHub.members.options.roleInfo	Role info	Original Translation
 hbui.Realms.RealmsHub.members.remove.success	%1$s removed from the Realm	Original Translation
 hbui.Realms.RealmsRolesAndPermissions.Action.addRemoveMembers	Add and remove Realm members	"Original Translation
 zh_CN: 添加和移除 Realm 成员
@@ -39740,6 +39810,7 @@ zh_TW: %s 的玩家"
 pauseScreen.quit	Save & Quit	"Original Translation
 zh_CN: 保存并退出
 zh_TW: 儲存並退出"
+pauseScreen.realmsHub	Realm Hub	Original Translation
 pauseScreen.realmsStories	Realms Stories	"Original Translation
 zh_CN: Realms 故事
 zh_TW: Realms Stories"
@@ -42686,18 +42757,21 @@ zh_TW: 已滿"
 recipeBook.setting.off	Off	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"
+recipeToast.newUnlock.descriptionBlastFurnace	View in blast furnace	Original Translation
 recipeToast.newUnlock.descriptionCartographyTable	View in cartography table	"Original Translation
 zh_CN: 在制图台查看
 zh_TW: 在製圖台中查看"
-recipeToast.newUnlock.descriptionCraftingTable	View in crafting table	"Original Translation
+recipeToast.newUnlock.descriptionCraftingTable	View in crafting table :crafting_table:	"Original Translation
 zh_CN: 在工作台查看
 zh_TW: 在精製台中檢視"
+recipeToast.newUnlock.descriptionFurnace	View in furnace :furnace:	Original Translation
 recipeToast.newUnlock.descriptionRecipeBook	Check your recipe book	"Original Translation
 zh_CN: 检查配方书
 zh_TW: 檢查您的配方書"
 recipeToast.newUnlock.descriptionSmithingTable	View in smithing table	"Original Translation
 zh_CN: 在锻造台查看
 zh_TW: 在鍛造台中檢視"
+recipeToast.newUnlock.descriptionSmoker	View in smoker	Original Translation
 recipeToast.newUnlock.descriptionStonecutterTable	View in stonecutter	"Original Translation
 zh_CN: 在切石机查看
 zh_TW: 在切石機中檢視"
@@ -44595,6 +44669,7 @@ resourcePack.editor.jigsaw.pane.registryCreation.tooltip	Create a new Jigsaw Col
 zh_CN: 创建一个新的拼图集合。
 zh_TW: 建立新的拼圖收藏集。"
 resourcePack.editor.jigsaw.pane.registryDeletion.confirmation	Are you sure you want to delete the Jigsaw Collection?  This can't be undone.	Original Translation
+resourcePack.editor.jigsaw.pane.registryDeletion.deleteCollection	Delete Collection	Original Translation
 resourcePack.editor.jigsaw.pane.registryDeletion.tooltip	Delete this Jigsaw Collection.	"Original Translation
 zh_CN: 删除此拼图集合。
 zh_TW: 刪除此拼圖收藏集。"
@@ -47289,6 +47364,7 @@ zh_TW: 線條是用來建立方塊條的工具。"
 resourcePack.editor.toolRail.primitiveTool.description	Create large primitive geometric shapes out of blocks in the world.	Original Translation
 resourcePack.editor.toolRail.primitiveTool.error.commitFailed	Failed to place shape.	Original Translation
 resourcePack.editor.toolRail.primitiveTool.error.discardFailed	Failed to discard shape transaction.	Original Translation
+resourcePack.editor.toolRail.primitiveTool.error.maxBlockLimitExceeded	Shape exceeds maximum block limit. Please reduce the dimensions.	Original Translation
 resourcePack.editor.toolRail.primitiveTool.keyBinding.cancelPlacement.title	Cancel Placement	Original Translation
 resourcePack.editor.toolRail.primitiveTool.keyBinding.cancelPlacement.tooltip	Cancel anchored placement.	Original Translation
 resourcePack.editor.toolRail.primitiveTool.keyBinding.nudgeBack.title	Nudge Back	Original Translation
@@ -47314,7 +47390,7 @@ resourcePack.editor.toolRail.primitiveTool.settings.blockFilters	Block Filters	O
 resourcePack.editor.toolRail.primitiveTool.settings.blockFilters.tooltip	Settings that determine which blocks are included/ignored when placing the blocks in the world.	Original Translation
 resourcePack.editor.toolRail.primitiveTool.settings.cursorOffset	Cursor Offset	Original Translation
 resourcePack.editor.toolRail.primitiveTool.settings.cursorOffset.tooltip	The offset from the cursor used when placing the Primitive preview in the world.	Original Translation
-resourcePack.editor.toolRail.primitiveTool.settings.placeFill	Place Fill	Original Translation
+resourcePack.editor.toolRail.primitiveTool.settings.placeFill	Place Blocks	Original Translation
 resourcePack.editor.toolRail.primitiveTool.settings.placeFill.tooltip	Fill the Primitive shape with the current hotbar block.	Original Translation
 resourcePack.editor.toolRail.primitiveTool.settings.shape	Shape	Original Translation
 resourcePack.editor.toolRail.primitiveTool.settings.shape.tooltip	Select the shape of the Primitive.	Original Translation
@@ -47774,6 +47850,11 @@ zh_TW: 更新絢麗視覺設定以符合目前位置的生態域。"
 resourcePack.editor.vibrantVisuals.biome.title	Vibrant Visuals Settings per Biome	"Original Translation
 zh_CN: 生物群系灵动视效设置
 zh_TW: 各生態域的絢麗視覺設定"
+resourcePack.editor.vibrantVisuals.exportPackDialog.cancel.title	Cancel	Original Translation
+resourcePack.editor.vibrantVisuals.exportPackDialog.confirm.title	Export	Original Translation
+resourcePack.editor.vibrantVisuals.exportPackDialog.packName.title	Pack Name	Original Translation
+resourcePack.editor.vibrantVisuals.exportPackDialog.packName.tooltip	Enter the name of the resource pack to export all configurations to.	Original Translation
+resourcePack.editor.vibrantVisuals.exportPackDialog.title	Export All Configs to Pack	Original Translation
 resourcePack.editor.vibrantVisuals.newDialogPane.namespaceDropdown.title	Namespace	"Original Translation
 zh_CN: 命名空间
 zh_TW: 命名空間"
