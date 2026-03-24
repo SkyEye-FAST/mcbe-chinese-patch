@@ -2425,10 +2425,10 @@ zh_CN: 目标玩家的摄像头类型不支持瞄准辅助：%s
 zh_TW: 目標玩家的攝影機類型不支援瞄準輔助：%s"	""
 "commands.allowlist.add.failed"	"Could not add %1$s to the allowlist"	"Original Translation
 zh_CN: 无法将 %1$s 添加到允许列表中
-zh_TW: 無法將 %1$s 加到允許清單"	""
+zh_TW: 無法將 %1$s 加到允許清單"	"无法将%1$s加入允许列表"
 "commands.allowlist.add.success"	"Added %1$s to the allowlist"	"Original Translation
 zh_CN: 已将 %1$s 加入允许列表
-zh_TW: 將 %1$s 加入允許清單"	""
+zh_TW: 將 %1$s 加入允許清單"	"已将%1$s加入允许列表"
 "commands.allowlist.description"	"Manages the server allowlist."	"Original Translation
 zh_CN: 管理服务器允许列表。
 zh_TW: 管理伺服器允許清單。"	"管理服务器允许列表。"
