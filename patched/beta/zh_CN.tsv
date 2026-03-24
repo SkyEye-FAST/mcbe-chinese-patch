@@ -2475,7 +2475,7 @@ zh_CN: 已将 %1$s 加入允许列表
 zh_TW: 將 %1$s 加入允許清單"	""
 "commands.allowlist.description"	"Manages the server allowlist."	"Original Translation
 zh_CN: 管理服务器允许列表。
-zh_TW: 管理伺服器允許清單。"	""
+zh_TW: 管理伺服器允許清單。"	"管理服务器允许列表。"
 "commands.allowlist.disabled"	"Turned off the allowlist"	"Original Translation
 zh_CN: 允许列表已关闭
 zh_TW: 關閉允許清單"	"允许列表已关闭"
@@ -2488,13 +2488,13 @@ zh_TW: 共有 %1$d 位允許清單玩家 (全體玩家共 %2$d 位)："	""
 "commands.allowlist.noOnlineAuth"	"Using an allowlist without online authentication can be dangerous and is not allowed."	"Original Translation"	""
 "commands.allowlist.reloaded"	"Allowlist reloaded from file."	"Original Translation
 zh_CN: 已从文件重新读取允许列表。
-zh_TW: 允許清單已自檔案重新載入。"	""
+zh_TW: 允許清單已自檔案重新載入。"	"已从文件重新读取允许列表。"
 "commands.allowlist.remove.failed"	"Could not remove %1$s from the allowlist"	"Original Translation
 zh_CN: 无法从允许列表中移除 %1$s
 zh_TW: 無法從允許清單移除 %1$s"	""
 "commands.allowlist.remove.success"	"Removed %1$s from the allowlist"	"Original Translation
 zh_CN: 已将 %1$s 移出允许列表
-zh_TW: 將 %1$s 從允許清單中移除"	""
+zh_TW: 將 %1$s 從允許清單中移除"	"已将%1$s移出允许列表"
 "commands.always.day"	"Day-Night cycle %1$s"	"Original Translation
 zh_CN: 昼夜更替 %1$s
 zh_TW: 日夜交替 %1$s"	""
