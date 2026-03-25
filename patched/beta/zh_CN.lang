@@ -2957,7 +2957,6 @@ realmsCreateScreen.prepare.store.title=需要购买历史记录
 realmsCreateScreen.purchaseConfirmation.cancel=取消
 realmsCreateScreen.purchaseConfirmation.continue=确认购买
 realmsCreateScreen.purchaseConfirmation.create.message=确定要创建Realm吗？
-realmsCreateScreen.purchaseConfirmation.extend.message=确定要延期Realm吗？
 realmsCreateScreen.purchaseConfirmation.renew.message=确定要续订Realm吗？
 realmsCreateScreen.purchaseConfirmation.title=购买Realm？
 realmsCreateScreen.purchasePrefix.create=创建
