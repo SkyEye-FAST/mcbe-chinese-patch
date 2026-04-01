@@ -1151,6 +1151,7 @@ zh_TW: 餵養"	""
 "action.interact.fishing"	"Fish"	"Original Translation
 zh_CN: 钓鱼
 zh_TW: 釣魚"	"漁"
+"action.interact.give_sulfur_cube"	"Give Block"	"Original Translation"	""
 "action.interact.leash"	"Leash"	"Original Translation
 zh_CN: 拴住
 zh_TW: 栓住"	""
@@ -1247,6 +1248,7 @@ zh_TW: 生成幼年生物"	""
 "action.interact.stand"	"Stand"	"Original Translation
 zh_CN: 站
 zh_TW: 站"	"立"
+"action.interact.take_sulfur_cube"	"Remove Block"	"Original Translation"	""
 "action.interact.takepicture"	"Take Picture"	"Original Translation
 zh_CN: 拍照
 zh_TW: 拍照"	""
@@ -6141,6 +6143,8 @@ zh_TW: 即將推出的創作者功能"	""
 "createWorldScreen.experimentalCreatorFeaturesDescription"	"Includes actor properties and adjustable fog parameters"	"Original Translation
 zh_CN: 包括演员属性和可调整的雾参数
 zh_TW: 包括 Actor 屬性和可調整的霧參數"	""
+"createWorldScreen.experimentalCustomProjectiles"	"Experimental Custom Projectile Features"	"Original Translation"	""
+"createWorldScreen.experimentalCustomProjectilesDescription"	"Enables custom projectile improvements"	"Original Translation"	""
 "createWorldScreen.experimentalDeferredTechnicalPreview"	"Render Dragon Features for Creators"	"Original Translation
 zh_CN: 为创建者提供的渲染龙功能
 zh_TW: 為創作者提供的渲染龍功能"	""
@@ -6171,6 +6175,8 @@ zh_TW: 實驗性體素形狀功能"	""
 "createWorldScreen.experimentalVoxelShapeFeaturesDescription"	"Enables the use of voxel shapes for some vanilla and custom blocks"	"Original Translation
 zh_CN: 允许将体素形状功能应用于部分原版及自定义方块
 zh_TW: 啟用部分原版與自訂方塊的體素形狀功能"	""
+"createWorldScreen.experimentalY2026Drop2"	"Drop 2 of 2026"	"Original Translation"	""
+"createWorldScreen.experimentalY2026Drop2Description"	"Explore a new underground biome where you can find a bouncy friend to play with"	"Original Translation"	""
 "createWorldScreen.experimentalgameplay"	"Experiments"	"Original Translation
 zh_CN: 实验性游戏内容
 zh_TW: 實驗性內容"	""
@@ -10159,6 +10165,7 @@ zh_TW: 迷途骷髏"	"流髑"
 "entity.strider.name"	"Strider"	"Original Translation
 zh_CN: 炽足兽
 zh_TW: 熾足獸"	"熾足獸"
+"entity.sulfur_cube.name"	"Sulfur Cube"	"Original Translation"	""
 "entity.tadpole.name"	"Tadpole"	"Original Translation
 zh_CN: 蝌蚪
 zh_TW: 蝌蚪"	"蝌蚪"
@@ -12526,6 +12533,9 @@ zh_TW: 退格鍵"	""
 "hbui.ButtonIcon.Keyboard.9"	"TAB"	"Original Translation
 zh_CN: TAB
 zh_TW: TAB 鍵"	""
+"hbui.CannotFollowPartyToRealmModal.goBack"	"Go back"	"Original Translation"	""
+"hbui.CannotFollowPartyToRealmModal.message"	"The party leader joined a Realm you are not a member of. To join the Realm, you must be sent an invite or open an invite link."	"Original Translation"	""
+"hbui.CannotFollowPartyToRealmModal.title"	"Unable to join"	"Original Translation"	""
 "hbui.Card.narrationComponentTypeButton"	"Button"	"Original Translation
 zh_CN: 按钮
 zh_TW: 按鈕"	""
@@ -18155,24 +18165,10 @@ zh_TW: 啟用訊息徽章警告"	""
 "hbui.InboxSettingsRoute.title"	"Inbox Settings"	"Original Translation
 zh_CN: 收件箱设置
 zh_TW: 收件匣設定"	""
-"hbui.InvitePartyToRealmsModal.cancel"	"Go back"	"Original Translation
-zh_CN: 返回
-zh_TW: 返回"	""
-"hbui.InvitePartyToRealmsModal.confirm"	"Invite and Play"	"Original Translation
-zh_CN: 邀请并游玩
-zh_TW: 邀請並遊玩"	""
-"hbui.InvitePartyToRealmsModal.membershipWarning"	"By accepting in this Realm, these players will become Realm members, even after the party is disbanded."	"Original Translation
-zh_CN: 通过接受加入此 Realm，这些玩家将成为 Realm 成员，即使队伍解散后亦是如此。
-zh_TW: 在此 Realm 中接受後，這些玩家將成為 Realm 成員，即使在隊伍解散之後也是如此。"	""
-"hbui.InvitePartyToRealmsModal.message"	"Would you like to add these players to be members of your Realm:"	"Original Translation
-zh_CN: 是否希望添加这些玩家成为你的 Realm 成员：
-zh_TW: 您是否要將這些玩家新增為 Realm 的成員："	""
-"hbui.InvitePartyToRealmsModal.title"	"Invite party to Realm?"	"Original Translation
-zh_CN: 邀请队伍加入 Realm？
-zh_TW: 是否邀請隊伍至 Realm？"	""
-"hbui.InviteToPartyRoute.inviteToPartyHeader"	"Invite to party"	"Original Translation
-zh_CN: 邀请加入组队
-zh_TW: 邀請加入派對"	""
+"hbui.InvitePartyMembersToRealmModal.goBack"	"Go back"	"Original Translation"	""
+"hbui.InvitePartyMembersToRealmModal.invite"	"Invite"	"Original Translation"	""
+"hbui.InvitePartyMembersToRealmModal.invitePlayersMessage"	"Would you like to invite these players to be members of your Realm?"	"Original Translation"	""
+"hbui.InvitePartyMembersToRealmModal.title"	"Invite party to Realms?"	"Original Translation"	""
 "hbui.JoinPartyDestinationHeader.join"	"Join"	"Original Translation
 zh_CN: 加入
 zh_TW: 加入"	""
@@ -21854,7 +21850,6 @@ zh_TW: 管理訂閱"	""
 "hbui.Realms.RealmsHub.Settings.Subscriptions.Button.Select"	"Select"	"Original Translation
 zh_CN: 选择
 zh_TW: 選取"	""
-"hbui.Realms.RealmsHub.Settings.Subscriptions.ManageModal.bodyNX"	"To manage your Realms subscription you will need to access the Nintendo eShop from the home menu of your Nintendo Switch™, select your icon in the top right corner, and navigate to ""Your Subscriptions""."	"Original Translation"	""
 "hbui.Realms.RealmsHub.Settings.Subscriptions.ManageModal.bodyPS4"	"To manage your Realms subscription you will need to access your settings on your PlayStation®4 console and navigate through Account Management, Account Information and to the Services List."	"Original Translation"	""
 "hbui.Realms.RealmsHub.Settings.Subscriptions.ManageModal.bodyPS5"	"To manage your Realms subscription you will need to access your settings on your PlayStation®5 console and navigate through Account Management, Account Information and to the Services List."	"Original Translation"	""
 "hbui.Realms.RealmsHub.Settings.Subscriptions.ManageModal.ok"	"Ok"	"Original Translation"	""
@@ -21964,6 +21959,7 @@ zh_TW: %1$s %2$s"	""
 "hbui.Realms.RealmsHub.World.ResettingWorld"	"Resetting world"	"Original Translation
 zh_CN: 正在重置世界
 zh_TW: 正在重設世界"	""
+"hbui.Realms.RealmsHub.adminLog.backup_restored"	"%1$s restored %2$s from a save"	"Original Translation"	""
 "hbui.Realms.RealmsHub.adminLog.invite_accepted"	"%1$s accepted invitation"	"Original Translation
 zh_CN: %1$s 已接受邀请
 zh_TW: %1$s 已接受邀請"	""
@@ -21994,15 +21990,25 @@ zh_TW: %1$s 已移除 %2$s"	""
 "hbui.Realms.RealmsHub.adminLog.member_role_changed"	"%1$s changed %2$s to %3$s"	"Original Translation
 zh_CN: %1$s 已将 %2$s 更改为 %3$s
 zh_TW: %1$s 已將 %2$s 變更為 %3$s"	""
+"hbui.Realms.RealmsHub.adminLog.packNameEmpty"	"unknown pack"	"Original Translation"	""
 "hbui.Realms.RealmsHub.adminLog.pack_added"	"%1$s activated %2$s on %3$s"	"Original Translation
 zh_CN: %1$s 已在 %3$s 激活 %2$s
 zh_TW: %1$s 已在 %3$s 啟用 %2$s"	""
 "hbui.Realms.RealmsHub.adminLog.pack_removed"	"%1$s deactivated %2$s on %3$s"	"Original Translation
 zh_CN: %1$s 已在 %3$s 关闭 %2$s
 zh_TW: %1$s 已在 %3$s 停用 %2$s"	""
+"hbui.Realms.RealmsHub.adminLog.permission.empty"	"unknown permission level"	"Original Translation"	""
+"hbui.Realms.RealmsHub.adminLog.permission.member"	"member"	"Original Translation"	""
+"hbui.Realms.RealmsHub.adminLog.permission.operator"	"operator"	"Original Translation"	""
+"hbui.Realms.RealmsHub.adminLog.permission.visitor"	"visitor"	"Original Translation"	""
+"hbui.Realms.RealmsHub.adminLog.playerNameEmpty"	"unknown player"	"Original Translation"	""
 "hbui.Realms.RealmsHub.adminLog.realms_events_changed"	"%1$s changed Realm events to %2$s"	"Original Translation
 zh_CN: %1$s 已经 Realm 更改为 %2$s
 zh_TW: %1$s 已將 Realm 事件變更為 %2$s"	""
+"hbui.Realms.RealmsHub.adminLog.roleName.admin"	"administrator"	"Original Translation"	""
+"hbui.Realms.RealmsHub.adminLog.roleName.empty"	"unknown role level"	"Original Translation"	""
+"hbui.Realms.RealmsHub.adminLog.roleName.mod"	"moderator"	"Original Translation"	""
+"hbui.Realms.RealmsHub.adminLog.roleName.player"	"player"	"Original Translation"	""
 "hbui.Realms.RealmsHub.adminLog.server_region_preference_changed"	"%1$s changed server region preference"	"Original Translation
 zh_CN: %1$s 已更改服务器区域偏好
 zh_TW: %1$s 已變更伺服器區域偏好"	""
@@ -22021,6 +22027,7 @@ zh_TW: %1$s 已將 %2$s 重設為 %3$s"	""
 "hbui.Realms.RealmsHub.adminLog.stories_opt_in_required_changed"	"%1$s changed require opt in to timeline to %2$s"	"Original Translation
 zh_CN: %1$s 已将要求加入时间线更改为 %2$s
 zh_TW: %1$s 已將「要求加入時間軸」變更為 %2$s"	""
+"hbui.Realms.RealmsHub.adminLog.worldNameEmpty"	"world"	"Original Translation"	""
 "hbui.Realms.RealmsHub.emptyText"	"Community, world, and settings changes are captured here. Records are stored for 30 days."	"Original Translation
 zh_CN: 社区、世界和设置更改均记录在此。记录保留 30 天。
 zh_TW: 社群、世界與設定的變動皆記錄在此。紀錄將保留 30 天。"	""
@@ -25092,9 +25099,8 @@ zh_TW: 找不到設定畫面"	""
 "hbui.Settings.settingsButton.narration.disabled"	"Disabled"	"Original Translation
 zh_CN: 已禁用
 zh_TW: 已停用"	""
-"hbui.Settings.settingsButton.narration.role"	"Button"	"Original Translation
-zh_CN: 按钮
-zh_TW: 按鈕"	""
+"hbui.Settings.settingsButton.narration.role.button"	"Button"	"Original Translation"	""
+"hbui.Settings.settingsButton.narration.role.link"	"External link"	"Original Translation"	""
 "hbui.Settings.settingsGroup.narration.componentTypeSectionHeader"	"Group"	"Original Translation
 zh_CN: 群组
 zh_TW: 群組"	""
@@ -25107,6 +25113,43 @@ zh_TW: 選取"	""
 "hbui.Settings.sideMenu.loadingTitle"	"Loading %1$s settings"	"Original Translation
 zh_CN: 正在加载 %1$s 设置
 zh_TW: 正在載入 %1$s 設定"	""
+"hbui.Settings.storage.behaviorPacks.title"	"Behavior packs"	"Original Translation"	""
+"hbui.Settings.storage.cachedData.title"	"Cached data"	"Original Translation"	""
+"hbui.Settings.storage.emptyList.backButton"	"Go back"	"Original Translation"	""
+"hbui.Settings.storage.emptyList.title"	"No %1$s found"	"Original Translation"	""
+"hbui.Settings.storage.listHeader.delete"	"Delete"	"Original Translation"	""
+"hbui.Settings.storage.listHeader.deleteWithSelectedItems"	"Delete (%1$s)"	"Original Translation"	""
+"hbui.Settings.storage.listHeader.deselectAll"	"Deselect all"	"Original Translation"	""
+"hbui.Settings.storage.listHeader.selectAll"	"Select all"	"Original Translation"	""
+"hbui.Settings.storage.listItem.checkboxInputLegend"	"Toggle"	"Original Translation"	""
+"hbui.Settings.storage.listItem.moreInformationInputLegend"	"More information"	"Original Translation"	""
+"hbui.Settings.storage.listItem.narrationActionsHint"	"Navigate right for more actions"	"Original Translation"	""
+"hbui.Settings.storage.listItem.narrationButtonComponentType"	"Button"	"Original Translation"	""
+"hbui.Settings.storage.listItem.narrationCheckboxChecked"	"Checked"	"Original Translation"	""
+"hbui.Settings.storage.listItem.narrationCheckboxComponentType"	"Checkbox"	"Original Translation"	""
+"hbui.Settings.storage.listItem.narrationCheckboxUnchecked"	"Unchecked"	"Original Translation"	""
+"hbui.Settings.storage.listItem.narrationDate"	"Last saved %1$s"	"Original Translation"	""
+"hbui.Settings.storage.listItem.narrationItemCount"	"%1$s of %2$s"	"Original Translation"	""
+"hbui.Settings.storage.listItem.narrationItemHasErrors"	"The %1$s has errors"	"Original Translation"	""
+"hbui.Settings.storage.listItem.narrationMoreInfoLabel"	"More information"	"Original Translation"	""
+"hbui.Settings.storage.listItem.narrationSize"	"%1$s size %2$s"	"Original Translation"	""
+"hbui.Settings.storage.listItem.narrationVersion"	"Version %1$s"	"Original Translation"	""
+"hbui.Settings.storage.listItem.size"	"%1$sMB"	"Original Translation"	""
+"hbui.Settings.storage.listItem.technicalDetailsLink"	"Technical details"	"Original Translation"	""
+"hbui.Settings.storage.listItem.type.miscellaneous"	"Content"	"Original Translation"	""
+"hbui.Settings.storage.listItem.type.pack"	"Pack"	"Original Translation"	""
+"hbui.Settings.storage.listItem.type.world"	"World"	"Original Translation"	""
+"hbui.Settings.storage.listItem.type.worldTemplate"	"World template"	"Original Translation"	""
+"hbui.Settings.storage.modal.confirmDelete.paragraph1"	"Are you sure you want to delete the selected items? These items will be lost forever (A long time!)"	"Original Translation"	""
+"hbui.Settings.storage.modal.confirmDelete.paragraph2"	"You can redownload content you’ve bought from the Marketplace."	"Original Translation"	""
+"hbui.Settings.storage.modal.confirmDelete.primaryActionLabel"	"Delete"	"Original Translation"	""
+"hbui.Settings.storage.modal.confirmDelete.secondaryActionLabel"	"Cancel"	"Original Translation"	""
+"hbui.Settings.storage.modal.confirmDelete.title.plural"	"Delete %1$s items permanently?"	"Original Translation"	""
+"hbui.Settings.storage.modal.confirmDelete.title.singular"	"Delete %1$s item permanently?"	"Original Translation"	""
+"hbui.Settings.storage.resourcePacks.title"	"Resource packs"	"Original Translation"	""
+"hbui.Settings.storage.unknownType.title"	"Unknown type"	"Original Translation"	""
+"hbui.Settings.storage.worldTemplates.title"	"World templates"	"Original Translation"	""
+"hbui.Settings.storage.worlds.title"	"Worlds"	"Original Translation"	""
 "hbui.Settings.title"	"Settings"	"Original Translation
 zh_CN: 设置
 zh_TW: 設定"	""
@@ -31806,6 +31849,8 @@ zh_TW: 河豚桶"	"河豚桶"
 "item.bucketSalmon.name"	"Bucket of Salmon"	"Original Translation
 zh_CN: 鲑鱼桶
 zh_TW: 鮭魚桶"	"鮭桶"
+"item.bucketSulfurCube.contains"	"Contains:"	"Original Translation"	""
+"item.bucketSulfurCube.name"	"Bucket of Sulfur Cube"	"Original Translation"	""
 "item.bucketTadpole.name"	"Bucket of Tadpole"	"Original Translation
 zh_CN: 蝌蚪桶
 zh_TW: 蝌蚪桶"	"蝌蚪桶"
@@ -33630,6 +33675,7 @@ zh_TW: 迷途骷髏生成蛋"	"孳流髑之卵"
 "item.spawn_egg.entity.strider.name"	"Strider Spawn Egg"	"Original Translation
 zh_CN: 炽足兽生成蛋
 zh_TW: 熾足獸生成蛋"	"孳熾足獸之卵"
+"item.spawn_egg.entity.sulfur_cube.name"	"Sulfur Cube Spawn Egg"	"Original Translation"	""
 "item.spawn_egg.entity.tadpole.name"	"Tadpole Spawn Egg"	"Original Translation
 zh_CN: 蝌蚪生成蛋
 zh_TW: 蝌蚪生成蛋"	"孳蝌蚪之卵"
@@ -35802,6 +35848,7 @@ zh_TW: ©Mojang AB"	""
 "menu.creator.group.scriptDebugger"	"Script debugger settings"	"Original Translation"	""
 "menu.creator.group.scriptDiagnostic"	"Script diagnostics settings"	"Original Translation"	""
 "menu.creator.group.scriptWatchdog"	"Script watchdog settings"	"Original Translation"	""
+"menu.creator.group.textFiltering"	"Text Filtering"	"Original Translation"	""
 "menu.creator.scriptDiagnostic.delete.buttonLabel"	"Delete"	"Original Translation"	""
 "menu.creator.scriptDiagnostic.delete.continue"	"Continue"	"Original Translation"	""
 "menu.creator.scriptDiagnostic.delete.description"	"Delete files generated in the Minecraft log folder"	"Original Translation"	""
@@ -37310,6 +37357,10 @@ zh_TW: 延遲破壞方塊 (僅限創造模式)"	""
 "options.creator"	"Creator"	"Original Translation
 zh_CN: 创建者
 zh_TW: 創作者"	""
+"options.creator.debugTextFiltering"	"Text Filtering"	"Original Translation"	""
+"options.creator.debugTextFilteringDelaySec"	"Text Filtering Delay"	"Original Translation"	""
+"options.creator.debugTextFilteringDelaySecFormat"	"%s Second(s)"	"Original Translation"	""
+"options.creator.debugTextFilteringUseDelaySecOverride"	"Enable Debug Text Filtering Delay Override"	"Original Translation"	""
 "options.creator.debuggerAttachModeConnect"	"Connect"	"Original Translation"	""
 "options.creator.debuggerAttachModeListen"	"Listen"	"Original Translation"	""
 "options.creator.debuggerAutoAttach"	"Attach Debugger on Load"	"Original Translation
@@ -40605,6 +40656,10 @@ zh_TW: 繼續遊戲"	""
 "pauseScreen.betaFeedback"	"Beta Feedback"	"Original Translation
 zh_CN: 测试版反馈
 zh_TW: Beta 版反饋"	""
+"pauseScreen.betaFeedback.dialog.close"	"Close"	"Original Translation"	""
+"pauseScreen.betaFeedback.dialog.continue"	"Go to Feedback site"	"Original Translation"	""
+"pauseScreen.betaFeedback.dialog.message"	"You are about to open the Minecraft feedback site in your browser. Share your thoughts and help us improve the game!"	"Original Translation"	""
+"pauseScreen.betaFeedback.dialog.title"	"Beta Feedback"	"Original Translation"	""
 "pauseScreen.currentWorld"	"Current World"	"Original Translation
 zh_CN: 当前世界
 zh_TW: 目前世界"	""
@@ -50207,9 +50262,6 @@ zh_TW: 天氣音效，例如雨聲與風聲"	""
 "splitscreen.joinPrompt"	"Join as Player %s"	"Original Translation
 zh_CN: 以玩家 %s 身份加入
 zh_TW: 以玩家 %s 身分加入"	""
-"splitscreen.joyconError.toastHeader"	"Can't Connect Joy-Con!"	"Original Translation
-zh_CN: 无法连接 Joy-Con！
-zh_TW: 無法連接 Joy-Con！"	""
 "splitscreen.joyconError.toastMessage"	"You have too many controllers connected while in Local Network Mode to join this game."	"Original Translation
 zh_CN: 你要加入的游戏在本地网络模式已连接太多控制器。
 zh_TW: 您要加入的遊戲在本機網路模式已連接太多控制器。"	""
@@ -53387,6 +53439,19 @@ zh_TW: 鈍口螈噴濺"	"螈擊水"
 "subtitles.entity.axolotl.swim"	"Axolotl swims"	"Original Translation
 zh_CN: 美西螈游泳
 zh_TW: 鈍口螈游泳"	"螈游"
+"subtitles.entity.baby_cat.ambient"	"Kitten meows"	"Original Translation"	""
+"subtitles.entity.baby_cat.death"	"Kitten dies"	"Original Translation"	""
+"subtitles.entity.baby_cat.eat"	"Kitten eats"	"Original Translation"	""
+"subtitles.entity.baby_cat.hurt"	"Kitten hurts"	"Original Translation"	""
+"subtitles.entity.baby_chicken.ambient"	"Chick peeps"	"Original Translation"	""
+"subtitles.entity.baby_chicken.death"	"Chick dies"	"Original Translation"	""
+"subtitles.entity.baby_chicken.hurt"	"Chick hurts"	"Original Translation"	""
+"subtitles.entity.baby_horse.ambient"	"Foal neighs"	"Original Translation"	""
+"subtitles.entity.baby_horse.angry"	"Foal neighs"	"Original Translation"	""
+"subtitles.entity.baby_horse.breathe"	"Foal breathes"	"Original Translation"	""
+"subtitles.entity.baby_horse.death"	"Foal dies"	"Original Translation"	""
+"subtitles.entity.baby_horse.eat"	"Foal eats"	"Original Translation"	""
+"subtitles.entity.baby_horse.hurt"	"Foal hurts"	"Original Translation"	""
 "subtitles.entity.baby_nautilus.ambient"	"Baby Nautilus chitters"	"Original Translation
 zh_CN: 鹦鹉螺宝宝叽喳叫
 zh_TW: 鸚鵡螺寶寶咯咯叫"	"幼鸚鵡螺囀"
@@ -53408,6 +53473,16 @@ zh_TW: 鸚鵡螺寶寶受傷"	"幼鸚鵡螺傷"
 "subtitles.entity.baby_nautilus.hurt_land"	"Baby Nautilus hurts"	"Original Translation
 zh_CN: 鹦鹉螺宝宝造成伤害
 zh_TW: 鸚鵡螺寶寶受傷"	"幼鸚鵡螺傷"
+"subtitles.entity.baby_pig.ambient"	"Baby Pig oinks"	"Original Translation"	""
+"subtitles.entity.baby_pig.death"	"Baby Pig dies"	"Original Translation"	""
+"subtitles.entity.baby_pig.eat"	"Baby Pig eats"	"Original Translation"	""
+"subtitles.entity.baby_pig.hurt"	"Baby Pig hurts"	"Original Translation"	""
+"subtitles.entity.baby_wolf.ambient"	"Puppy yips"	"Original Translation"	""
+"subtitles.entity.baby_wolf.death"	"Puppy dies"	"Original Translation"	""
+"subtitles.entity.baby_wolf.growl"	"Puppy growls"	"Original Translation"	""
+"subtitles.entity.baby_wolf.hurt"	"Puppy hurts"	"Original Translation"	""
+"subtitles.entity.baby_wolf.pant"	"Puppy pants"	"Original Translation"	""
+"subtitles.entity.baby_wolf.whine"	"Puppy whines"	"Original Translation"	""
 "subtitles.entity.bat.ambient"	"Bat screeches"	"Original Translation
 zh_CN: 蝙蝠尖叫
 zh_TW: 蝙蝠尖叫"	"蟙䘃叫"
@@ -55472,6 +55547,7 @@ zh_TW: 撈起鈍口螈"	"螈儲"
 "subtitles.item.bucket.fill_fish"	"Fish captured"	"Original Translation
 zh_CN: 捕获的鱼
 zh_TW: 撈起魚"	"獲魚"
+"subtitles.item.bucket.fill_sulfur_cube"	"Sulfur Cube scooped"	"Original Translation"	""
 "subtitles.item.bucket.fill_tadpole"	"Tadpole captured"	"Original Translation
 zh_CN: 捕获的蝌蚪
 zh_TW: 撈起蝌蚪"	"獲蝌蚪"
@@ -56273,6 +56349,7 @@ zh_TW: 儲物箱"	"箱"
 "tile.chiseled_bookshelf.name"	"Chiseled Bookshelf"	"Original Translation
 zh_CN: 錾制书架
 zh_TW: 鑿刻書櫃"	"雕書櫥"
+"tile.chiseled_cinnabar.name"	"Chiseled Cinnabar"	"Original Translation"	""
 "tile.chiseled_copper.name"	"Chiseled Copper"	"Original Translation
 zh_CN: 錾制铜
 zh_TW: 鑿刻銅塊"	"雕銅塊"
@@ -56288,6 +56365,7 @@ zh_TW: 鑿刻拋光黑石"	"雕鎣墨石"
 "tile.chiseled_resin_bricks.name"	"Chiseled Resin Bricks"	"Original Translation
 zh_CN: 錾制树脂砖块
 zh_TW: 雕刻樹脂磚"	"雕樹香磚"
+"tile.chiseled_sulfur.name"	"Chiseled Sulfur"	"Original Translation"	""
 "tile.chiseled_tuff.name"	"Chiseled Tuff"	"Original Translation
 zh_CN: 錾制凝灰岩
 zh_TW: 鑿刻凝灰岩"	"雕積塊石"
@@ -56300,6 +56378,16 @@ zh_TW: 歌萊花"	"頌緲花"
 "tile.chorus_plant.name"	"Chorus Plant"	"Original Translation
 zh_CN: 紫颂植株
 zh_TW: 歌萊枝"	"頌緲枝"
+"tile.cinnabar.name"	"Cinnabar"	"Original Translation"	""
+"tile.cinnabar_brick_double_slab.name"	"Cinnabar Brick Double Slab"	"Original Translation"	""
+"tile.cinnabar_brick_slab.name"	"Cinnabar Brick Slab"	"Original Translation"	""
+"tile.cinnabar_brick_stairs.name"	"Cinnabar Brick Stairs"	"Original Translation"	""
+"tile.cinnabar_brick_wall.name"	"Cinnabar Brick Wall"	"Original Translation"	""
+"tile.cinnabar_bricks.name"	"Cinnabar Bricks"	"Original Translation"	""
+"tile.cinnabar_double_slab.name"	"Cinnabar Double Slab"	"Original Translation"	""
+"tile.cinnabar_slab.name"	"Cinnabar Slab"	"Original Translation"	""
+"tile.cinnabar_stairs.name"	"Cinnabar Stairs"	"Original Translation"	""
+"tile.cinnabar_wall.name"	"Cinnabar Wall"	"Original Translation"	""
 "tile.clay.name"	"Clay"	"Original Translation
 zh_CN: 黏土
 zh_TW: 黏土"	"埴塊"
@@ -58433,6 +58521,11 @@ zh_TW: 拋光黑石階梯"	"鎣墨石階"
 "tile.polished_blackstone_wall.name"	"Polished Blackstone Wall"	"Original Translation
 zh_CN: 磨制黑石墙
 zh_TW: 拋光黑石牆"	"鎣墨石垣"
+"tile.polished_cinnabar.name"	"Polished Cinnabar"	"Original Translation"	""
+"tile.polished_cinnabar_double_slab.name"	"Polished Cinnabar Double Slab"	"Original Translation"	""
+"tile.polished_cinnabar_slab.name"	"Polished Cinnabar Slab"	"Original Translation"	""
+"tile.polished_cinnabar_stairs.name"	"Polished Cinnabar Stairs"	"Original Translation"	""
+"tile.polished_cinnabar_wall.name"	"Polished Cinnabar Wall"	"Original Translation"	""
 "tile.polished_deepslate.name"	"Polished Deepslate"	"Original Translation
 zh_CN: 磨制深板岩
 zh_TW: 拋光深板岩"	"鎣板石"
@@ -58454,6 +58547,11 @@ zh_TW: 拋光閃長岩階梯"	"鎣閃綠石階"
 "tile.polished_granite_stairs.name"	"Polished Granite Stairs"	"Original Translation
 zh_CN: 磨制花岗岩楼梯
 zh_TW: 拋光花崗岩階梯"	"鎣花崗石階"
+"tile.polished_sulfur.name"	"Polished Sulfur"	"Original Translation"	""
+"tile.polished_sulfur_double_slab.name"	"Polished Sulfur Double Slab"	"Original Translation"	""
+"tile.polished_sulfur_slab.name"	"Polished Sulfur Slab"	"Original Translation"	""
+"tile.polished_sulfur_stairs.name"	"Polished Sulfur Stairs"	"Original Translation"	""
+"tile.polished_sulfur_wall.name"	"Polished Sulfur Wall"	"Original Translation"	""
 "tile.polished_tuff.name"	"Polished Tuff"	"Original Translation
 zh_CN: 磨制凝灰岩
 zh_TW: 拋光凝灰岩"	"鎣積塊石"
@@ -58475,6 +58573,7 @@ zh_TW: 傳送門"	"結界門"
 "tile.potatoes.name"	"Potatoes"	"Original Translation
 zh_CN: 马铃薯
 zh_TW: 馬鈴薯"	"洋芋"
+"tile.potent_sulfur.name"	"Potent Sulfur"	"Original Translation"	""
 "tile.powder_snow.name"	"Powder Snow"	"Original Translation
 zh_CN: 细雪
 zh_TW: 粉雪"	"齏雪"
@@ -59324,6 +59423,16 @@ zh_TW: 結構方塊"	"結構塊"
 "tile.structure_void.name"	"Structure Void"	"Original Translation
 zh_CN: 结构空位
 zh_TW: 結構空位"	"築闕"
+"tile.sulfur.name"	"Sulfur"	"Original Translation"	""
+"tile.sulfur_brick_double_slab.name"	"Sulfur Brick Double Slab"	"Original Translation"	""
+"tile.sulfur_brick_slab.name"	"Sulfur Brick Slab"	"Original Translation"	""
+"tile.sulfur_brick_stairs.name"	"Sulfur Brick Stairs"	"Original Translation"	""
+"tile.sulfur_brick_wall.name"	"Sulfur Brick Wall"	"Original Translation"	""
+"tile.sulfur_bricks.name"	"Sulfur Bricks"	"Original Translation"	""
+"tile.sulfur_double_slab.name"	"Sulfur Double Slab"	"Original Translation"	""
+"tile.sulfur_slab.name"	"Sulfur Slab"	"Original Translation"	""
+"tile.sulfur_stairs.name"	"Sulfur Stairs"	"Original Translation"	""
+"tile.sulfur_wall.name"	"Sulfur Wall"	"Original Translation"	""
 "tile.suspicious_gravel.name"	"Suspicious Gravel"	"Original Translation
 zh_CN: 可疑砂砾
 zh_TW: 可疑的礫石"	"謎礫"
