@@ -3175,7 +3175,6 @@ storageManager.share.totalPercent=-100%
 storageManager.sync_legacy_worlds.conversion_complete.cancel_button=关闭
 storageManager.sync_legacy_worlds.conversion_complete.title=成功！
 storageManager.sync_legacy_worlds.conversion_explanation.cancel_button=取消
-storageManager.sync_legacy_worlds.conversion_explanation.confirm_button=转换
 storageManager.sync_legacy_worlds.fetch_complete.title=成功！
 storageManager.sync_retailtopreview_worlds.fetch_complete.title=成功！
 storageManager.unknownElements=未知
