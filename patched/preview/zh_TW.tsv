@@ -868,211 +868,211 @@ zh_CN: 乘坐矿车旅行，移动到离出发点至少 1 公里的位置
 zh_TW: 從開始處乘坐礦車至少 1 公里"	"從開始處乘坐礦車至少 1 公里"
 "achievement.openInventory"	"Taking Inventory"	"Original Translation
 zh_CN: 打开物品栏
-zh_TW: 盤點物品欄"	""
+zh_TW: 盤點物品欄"	"盤點庫存"
 "achievement.openInventory.desc"	"Press '%1$s' to open your inventory."	"Original Translation
 zh_CN: 按“%1$s”来打开物品栏。
-zh_TW: 按 [%1$s] 打開物品欄。"	""
+zh_TW: 按 [%1$s] 打開物品欄。"	"按 [%1$s] 打開物品欄。"
 "achievement.overkill"	"Overkill"	"Original Translation
 zh_CN: 赶尽杀绝
-zh_TW: 太殺了"	""
+zh_TW: 太殺了"	"太殺了"
 "achievement.overkill.desc"	"Deal nine hearts of damage in a single hit"	"Original Translation
 zh_CN: 制造一击 9 颗心的伤害
-zh_TW: 一擊製造九顆愛心的傷害"	""
+zh_TW: 一擊製造九顆愛心的傷害"	"一擊製造九顆心的傷害"
 "achievement.overpowered"	"Overpowered"	"Original Translation
 zh_CN: 君临天下
-zh_TW: 太強大"	""
+zh_TW: 太強大"	"太強大"
 "achievement.overpowered.desc"	"Build a Notch apple"	"Original Translation
 zh_CN: 制造一个附魔金苹果
-zh_TW: 造一個附魔金蘋果"	""
+zh_TW: 造一個附魔金蘋果"	"造一個附魔金蘋果"
 "achievement.portal"	"We Need to Go Deeper"	"Original Translation
 zh_CN: 我们需要再深入些
-zh_TW: 我們必須更深入一點"	""
+zh_TW: 我們必須更深入一點"	"我們必須更深入一點"
 "achievement.portal.desc"	"Build a portal to the Nether"	"Original Translation
 zh_CN: 建造一个通往下界的传送门
-zh_TW: 建造一個地獄傳送門"	""
+zh_TW: 建造一個地獄傳送門"	"建造一個地獄傳送門"
 "achievement.potion"	"Local Brewery"	"Original Translation
 zh_CN: 本地酿造厂
-zh_TW: 私人釀坊"	""
+zh_TW: 私人釀坊"	"道地的釀造坊"
 "achievement.potion.desc"	"Brew a potion"	"Original Translation
 zh_CN: 酿造一瓶药水
-zh_TW: 釀造一罐藥水"	""
+zh_TW: 釀造一罐藥水"	"釀造一罐藥水"
 "achievement.requires"	"Requires '%1$s'"	"Original Translation
 zh_CN: 需要“%1$s”
-zh_TW: 需要 '%1$s'"	""
+zh_TW: 需要 '%1$s'"	"需要「%1$s」"
 "achievement.snipeSkeleton"	"Sniper Duel"	"Original Translation
 zh_CN: 狙击手的对决
-zh_TW: 狙擊手對決"	""
+zh_TW: 狙擊手對決"	"狙擊手對決"
 "achievement.snipeSkeleton.desc"	"Kill a skeleton with an arrow from more than 50 meters"	"Original Translation
 zh_CN: 从超过 50 米远的地方用箭杀死一个骷髅。
-zh_TW: 使用弓箭射殺距離 50 公尺外的骷髏"	""
+zh_TW: 使用弓箭射殺距離 50 公尺外的骷髏"	"使用弓箭射殺距離 50 公尺外的骷髏"
 "achievement.spawnWither"	"The Beginning?"	"Original Translation
 zh_CN: 开始了？
-zh_TW: 一切的開端？"	""
+zh_TW: 一切的開端？"	"一切的開端？"
 "achievement.spawnWither.desc"	"Spawn the Wither"	"Original Translation
 zh_CN: 生成凋灵
-zh_TW: 生成凋靈"	""
+zh_TW: 生成凋靈"	"生成凋零怪"
 "achievement.taken"	"Taken!"	"Original Translation
 zh_CN: 已得到！
-zh_TW: 已完成！"	""
+zh_TW: 已完成！"	"已完成！"
 "achievement.theEnd"	"The End?"	"Original Translation
 zh_CN: 结束了？
-zh_TW: 結束了？"	""
+zh_TW: 結束了？"	"結束了？"
 "achievement.theEnd.desc"	"Locate the End"	"Original Translation
 zh_CN: 找到“末地”
-zh_TW: 進入終界"	""
+zh_TW: 進入終界"	"進入終界"
 "achievement.theEnd2"	"The End."	"Original Translation
 zh_CN: 末地
-zh_TW: 終界行。"	""
+zh_TW: 終界行。"	"結束了。"
 "achievement.theEnd2.desc"	"Defeat the Ender Dragon"	"Original Translation
 zh_CN: 击败末影龙
-zh_TW: 擊敗終界龍"	""
+zh_TW: 擊敗終界龍"	"擊敗終界龍"
 "achievement.uninitScore"	"--"	"Original Translation
 zh_CN: --
-zh_TW: --"	""
+zh_TW: --"	"--"
 "achievement.unknown"	"???"	"Original Translation
 zh_CN: ???
-zh_TW: ？？？"	""
+zh_TW: ？？？"	"???"
 "action.hint.exit.boat"	"Tap jump to exit the boat"	"Original Translation
 zh_CN: 点击“跳跃”离开船
-zh_TW: 按一下跳躍離開小船"	""
+zh_TW: 按一下跳躍離開小船"	"按一下跳躍以下船"
 "action.hint.exit.camel"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻触潜行可以下马
-zh_TW: 點擊潛行以取消搭乘"	""
+zh_TW: 點擊潛行以取消搭乘"	"按一下潛行以取消乘坐"
 "action.hint.exit.camel_husk"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
 zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
 "action.hint.exit.chest_boat"	"Tap jump to exit the boat"	"Original Translation
 zh_CN: 点击“跳跃”离开船
-zh_TW: 按一下跳躍離開小船"	""
+zh_TW: 按一下跳躍離開小船"	"按一下跳躍以下船"
 "action.hint.exit.console.boat"	"Press :_input_key.jump: to exit the boat"	"Original Translation
 zh_CN: 按下 :_input_key.jump: 离开船
-zh_TW: 按 :_input_key.jump: 離開小船"	""
+zh_TW: 按 :_input_key.jump: 離開小船"	"按 :_input_key.jump: 以下船"
 "action.hint.exit.console.camel"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按 :_input_key.sneak: 取消乘坐"
 "action.hint.exit.console.camel_husk"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
 zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
 "action.hint.exit.console.chest_boat"	"Press :_input_key.jump: to exit the boat"	"Original Translation
 zh_CN: 按下 :_input_key.jump: 离开船
-zh_TW: 按 :_input_key.jump: 離開小船"	""
+zh_TW: 按 :_input_key.jump: 離開小船"	"按 :_input_key.jump: 以下船"
 "action.hint.exit.console.donkey"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按 :_input_key.sneak: 取消乘坐"
 "action.hint.exit.console.happy_ghast"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按 :_input_key.sneak: 取消乘坐"
 "action.hint.exit.console.horse"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按 :_input_key.sneak: 取消乘坐"
 "action.hint.exit.console.llama"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按 :_input_key.sneak: 取消乘坐"
 "action.hint.exit.console.minecart"	"Press :_input_key.jump: to exit the minecart"	"Original Translation
 zh_CN: 按下 :_input_key.jump: 离开矿车
-zh_TW: 按 :_input_key.jump: 離開礦車"	""
+zh_TW: 按 :_input_key.jump: 離開礦車"	"按 :_input_key.jump: 離開礦車"
 "action.hint.exit.console.mule"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按 :_input_key.sneak: 取消乘坐"
 "action.hint.exit.console.nautilus"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
 zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
 "action.hint.exit.console.pig"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按 :_input_key.sneak: 取消乘坐"
 "action.hint.exit.console.raft"	"Press :_input_key.jump: to exit the raft"	"Original Translation
 zh_CN: 按下 :_input_key.jump: 离开竹筏
-zh_TW: 按 :_input_key.jump: 離開木筏"	""
+zh_TW: 按 :_input_key.jump: 離開木筏"	"按 :_input_key.jump: 以下筏"
 "action.hint.exit.console.skeleton_horse"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按 :_input_key.sneak: 取消乘坐"
 "action.hint.exit.console.strider"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按 :_input_key.sneak: 取消乘坐"
 "action.hint.exit.console.trader_llama"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
-zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
+zh_TW: 按 :_input_key.sneak: 取消乘坐"	"按 :_input_key.sneak: 取消乘坐"
 "action.hint.exit.console.zombie_nautilus"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
 zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
 "action.hint.exit.donkey"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻按潜行可以下马
-zh_TW: 輕觸潛行以取消乘坐"	""
+zh_TW: 輕觸潛行以取消乘坐"	"按一下潛行以取消乘坐"
 "action.hint.exit.happy_ghast"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻触潜行以跃下
-zh_TW: 輕觸潛行以取消乘坐"	""
+zh_TW: 輕觸潛行以取消乘坐"	"按一下潛行以取消乘坐"
 "action.hint.exit.horse"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻按潜行可以下马
-zh_TW: 輕觸潛行以取消乘坐"	""
+zh_TW: 輕觸潛行以取消乘坐"	"按一下潛行以取消乘坐"
 "action.hint.exit.llama"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻按潜行可以下马
-zh_TW: 輕觸潛行以取消乘坐"	""
+zh_TW: 輕觸潛行以取消乘坐"	"按一下潛行以取消乘坐"
 "action.hint.exit.minecart"	"Tap jump to exit the minecart"	"Original Translation
 zh_CN: 点击“跳跃”离开矿车
-zh_TW: 按一下跳躍離開礦車"	""
+zh_TW: 按一下跳躍離開礦車"	"按一下跳躍以離開礦車"
 "action.hint.exit.mule"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻按潜行可以下马
-zh_TW: 輕觸潛行以取消乘坐"	""
+zh_TW: 輕觸潛行以取消乘坐"	"按一下潛行以取消乘坐"
 "action.hint.exit.nautilus"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻触潜行以跃下
 zh_TW: 輕觸潛行以取消乘坐"	""
 "action.hint.exit.pig"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻按潜行可以下马
-zh_TW: 輕觸潛行以取消乘坐"	""
+zh_TW: 輕觸潛行以取消乘坐"	"按一下潛行以取消乘坐"
 "action.hint.exit.raft"	"Tap jump to exit the raft"	"Original Translation
 zh_CN: 点击“跳跃”离开竹筏
-zh_TW: 按一下跳躍離開木筏"	""
+zh_TW: 按一下跳躍離開木筏"	"按一下跳躍以下筏"
 "action.hint.exit.scheme.camel"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下即可下马
-zh_TW: 點擊以取消乘坐"	""
+zh_TW: 點擊以取消乘坐"	"按一下取消乘坐以取消乘坐"
 "action.hint.exit.scheme.camel_husk"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
 zh_TW: 輕碰離開坐騎"	""
 "action.hint.exit.scheme.donkey"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	""
+zh_TW: 點擊取消乘坐以取消乘坐"	"按一下取消乘坐以取消乘坐"
 "action.hint.exit.scheme.happy_ghast"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻触潜行以跃下
-zh_TW: 輕觸潛行以取消乘坐"	""
+zh_TW: 輕觸潛行以取消乘坐"	"按一下潛行以取消乘坐"
 "action.hint.exit.scheme.horse"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	""
+zh_TW: 點擊取消乘坐以取消乘坐"	"按一下取消乘坐以取消乘坐"
 "action.hint.exit.scheme.llama"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	""
+zh_TW: 點擊取消乘坐以取消乘坐"	"按一下取消乘坐以取消乘坐"
 "action.hint.exit.scheme.minecart"	"Tap dismount to exit the minecart"	"Original Translation
 zh_CN: 轻触跃下离开矿车
-zh_TW: 點擊取消乘坐以離開礦車"	""
+zh_TW: 點擊取消乘坐以離開礦車"	"按一下取消乘坐以離開礦車"
 "action.hint.exit.scheme.mule"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	""
+zh_TW: 點擊取消乘坐以取消乘坐"	"按一下取消乘坐以取消乘坐"
 "action.hint.exit.scheme.nautilus"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻触潜行以跃下
 zh_TW: 輕觸潛行以取消乘坐"	""
 "action.hint.exit.scheme.pig"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	""
+zh_TW: 點擊取消乘坐以取消乘坐"	"按一下取消乘坐以取消乘坐"
 "action.hint.exit.scheme.skeleton_horse"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	""
+zh_TW: 點擊取消乘坐以取消乘坐"	"按一下取消乘坐以取消乘坐"
 "action.hint.exit.scheme.strider"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	""
+zh_TW: 點擊取消乘坐以取消乘坐"	"按一下取消乘坐以取消乘坐"
 "action.hint.exit.scheme.trader_llama"	"Tap dismount to dismount"	"Original Translation
 zh_CN: 轻触跃下可以下马
-zh_TW: 點擊取消乘坐以取消乘坐"	""
+zh_TW: 點擊取消乘坐以取消乘坐"	"按一下取消乘坐以取消乘坐"
 "action.hint.exit.scheme.zombie_nautilus"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻触潜行以跃下
 zh_TW: 輕觸潛行以取消乘坐"	""
 "action.hint.exit.skeleton_horse"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻按潜行可以下马
-zh_TW: 輕觸潛行以取消乘坐"	""
+zh_TW: 輕觸潛行以取消乘坐"	"按一下潛行以取消乘坐"
 "action.hint.exit.strider"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻触潜行可以下马
-zh_TW: 點擊潛行以取消搭乘"	""
+zh_TW: 點擊潛行以取消搭乘"	"按一下潛行以取消乘坐"
 "action.hint.exit.trader_llama"	"Tap sneak to dismount"	"Original Translation
 zh_CN: 轻触潜行可以下马
-zh_TW: 輕觸潛行以取消乘坐"	""
+zh_TW: 輕觸潛行以取消乘坐"	"按一下潛行以取消乘坐"
 "action.hint.exit.zombie_horse"	"Press :_input_key.sneak: to dismount"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 跃下
 zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
@@ -1081,202 +1081,202 @@ zh_CN: 轻触潜行以跃下
 zh_TW: 輕觸潛行以取消乘坐"	""
 "action.interact.allay"	"Give item to Allay"	"Original Translation
 zh_CN: 给悦灵物品
-zh_TW: 把物品給亞萊"	""
+zh_TW: 把物品給亞萊"	"把物品給悅靈"
 "action.interact.armorstand.equip"	"Equip"	"Original Translation
 zh_CN: 装备
-zh_TW: 配備"	""
+zh_TW: 配備"	"裝備"
 "action.interact.armorstand.pose"	"Pose"	"Original Translation
 zh_CN: 摆姿势
-zh_TW: 改變姿勢"	""
+zh_TW: 改變姿勢"	"改變姿勢"
 "action.interact.attachchest"	"Attach Chest"	"Original Translation
 zh_CN: 连接箱子
-zh_TW: 裝上儲物箱"	""
+zh_TW: 裝上儲物箱"	"裝上箱子"
 "action.interact.balloon"	"Attach"	"Original Translation
 zh_CN: 连接
-zh_TW: 裝上"	""
+zh_TW: 裝上"	"裝上"
 "action.interact.barter"	"Barter"	"Original Translation
 zh_CN: 交换
-zh_TW: 以物易物"	""
+zh_TW: 以物易物"	"以物易物"
 "action.interact.boost"	"Boost"	"Original Translation
 zh_CN: 提升
-zh_TW: 提升"	""
+zh_TW: 提升"	"加速"
 "action.interact.brush"	"Brush"	"Original Translation
 zh_CN: 画笔
-zh_TW: 刷子"	"刷子"
+zh_TW: 刷子"	"刷拭"
 "action.interact.createMap"	"Create Map"	"Original Translation
 zh_CN: 创建地图
-zh_TW: 創造地圖"	""
+zh_TW: 創造地圖"	"建立地圖"
 "action.interact.creeper"	"Ignite"	"Original Translation
 zh_CN: 点燃
-zh_TW: 點燃"	""
+zh_TW: 點燃"	"點燃"
 "action.interact.cure"	"Cure"	"Original Translation
 zh_CN: 治疗
-zh_TW: 治療"	""
+zh_TW: 治療"	"治療"
 "action.interact.cut"	"Cut"	"Original Translation
 zh_CN: 剪切
-zh_TW: 剪下"	""
+zh_TW: 剪下"	"剪"
 "action.interact.drop_item"	"Drop Item"	"Original Translation
 zh_CN: 掉落物品
 zh_TW: 丟棄物品"	""
 "action.interact.dye"	"Dye"	"Original Translation
 zh_CN: 染色
-zh_TW: 染料"	""
+zh_TW: 染料"	"染色"
 "action.interact.edit"	"Edit"	"Original Translation
 zh_CN: 编辑
-zh_TW: 編輯"	""
+zh_TW: 編輯"	"編輯"
 "action.interact.equipcarpet"	"Equip Carpet"	"Original Translation
 zh_CN: 装备地毯
-zh_TW: 裝備地毯"	""
+zh_TW: 裝備地毯"	"裝備地毯"
 "action.interact.equipharness"	"Equip Harness"	"Original Translation
 zh_CN: 装备挽具
-zh_TW: 裝備挽具"	""
+zh_TW: 裝備挽具"	"裝備帽鞍"
 "action.interact.equiphorsearmor"	"Equip Horse Armor"	"Original Translation
 zh_CN: 装备马铠
-zh_TW: 裝備馬鎧"	""
+zh_TW: 裝備馬鎧"	"裝備馬鎧"
 "action.interact.equipnautilusarmor"	"Equip Nautilus Armor"	"Original Translation
 zh_CN: 装备鹦鹉螺盔甲
 zh_TW: 裝備鸚鵡螺護甲"	""
 "action.interact.equipwolfarmor"	"Equip Wolf Armor"	"Original Translation
 zh_CN: 装备狼铠
-zh_TW: 裝備狼鎧"	""
+zh_TW: 裝備狼鎧"	"裝備狼鎧"
 "action.interact.exit.boat"	"Leave Boat"	"Original Translation
 zh_CN: 下船
-zh_TW: 下船"	""
+zh_TW: 下船"	"下船"
 "action.interact.exit.raft"	"Leave Raft"	"Original Translation
 zh_CN: 离开竹筏
-zh_TW: 離開木筏"	""
+zh_TW: 離開木筏"	"下筏"
 "action.interact.feed"	"Feed"	"Original Translation
 zh_CN: 喂养
-zh_TW: 餵養"	""
+zh_TW: 餵養"	"餵養"
 "action.interact.fishing"	"Fish"	"Original Translation
 zh_CN: 钓鱼
-zh_TW: 釣魚"	""
+zh_TW: 釣魚"	"釣魚"
 "action.interact.give_sulfur_cube"	"Give Block"	"Original Translation
 zh_CN: 给出方块
 zh_TW: 給予方塊"	""
 "action.interact.leash"	"Leash"	"Original Translation
 zh_CN: 拴住
-zh_TW: 栓住"	""
+zh_TW: 栓住"	"拴上"
 "action.interact.milk"	"Milk"	"Original Translation
 zh_CN: 挤奶
-zh_TW: 牛奶"	""
+zh_TW: 牛奶"	"擠奶"
 "action.interact.mooshear"	"Shear"	"Original Translation
 zh_CN: 修剪
-zh_TW: 修剪"	""
+zh_TW: 修剪"	"修剪"
 "action.interact.moostew"	"Milk Stew"	"Original Translation
 zh_CN: 煮奶
-zh_TW: 擠哞菇"	""
+zh_TW: 擠哞菇"	"擠哞菇"
 "action.interact.mount"	"Mount"	"Original Translation
 zh_CN: 骑乘
-zh_TW: 騎乘"	""
+zh_TW: 騎乘"	"騎乘"
 "action.interact.mount.touch"	":horse_ride: Mount"	"Original Translation
 zh_CN: :horse_ride: 骑乘
 zh_TW: :horse_ride: 騎乘"	""
 "action.interact.name"	"Name"	"Original Translation
 zh_CN: 名称
-zh_TW: 名稱"	""
+zh_TW: 名稱"	"命名"
 "action.interact.opencontainer"	"Open"	"Original Translation
 zh_CN: 打开
-zh_TW: 開啟"	""
+zh_TW: 開啟"	"開啟"
 "action.interact.read"	"Read"	"Original Translation
 zh_CN: 阅读
-zh_TW: 閱讀"	""
+zh_TW: 閱讀"	"閱讀"
 "action.interact.removecarpet"	"Remove Carpet"	"Original Translation
 zh_CN: 移除地毯
-zh_TW: 移除地毯"	""
+zh_TW: 移除地毯"	"移除地毯"
 "action.interact.removeharness"	"Remove Harness"	"Original Translation
 zh_CN: 移除挽具
-zh_TW: 移除挽具"	""
+zh_TW: 移除挽具"	"移除帽鞍"
 "action.interact.removehorsearmor"	"Remove Horse Armor"	"Original Translation
 zh_CN: 移除马铠
-zh_TW: 移除馬鎧"	""
+zh_TW: 移除馬鎧"	"移除馬鎧"
 "action.interact.removenautilusarmor"	"Remove Nautilus Armor"	"Original Translation
 zh_CN: 移除鹦鹉螺盔甲
 zh_TW: 卸下鸚鵡螺護甲"	""
 "action.interact.removesaddle"	"Remove Saddle"	"Original Translation
 zh_CN: 移除鞍
-zh_TW: 移除鞍"	""
+zh_TW: 移除鞍"	"卸除鞍"
 "action.interact.removewolfarmor"	"Remove Wolf Armor"	"Original Translation
 zh_CN: 移除狼铠
-zh_TW: 移除狼鎧"	""
+zh_TW: 移除狼鎧"	"移除狼鎧"
 "action.interact.repair"	"Repair"	"Original Translation
 zh_CN: 修复
-zh_TW: 修理"	""
+zh_TW: 修理"	"修復"
 "action.interact.repairwolfarmor"	"Repair Wolf Armor"	"Original Translation
 zh_CN: 修复狼铠
-zh_TW: 修復狼鎧"	""
+zh_TW: 修復狼鎧"	"修復狼鎧"
 "action.interact.retrieve"	"Retrieve"	"Original Translation
 zh_CN: 回收
 zh_TW: 擷取"	""
 "action.interact.ride.boat"	"Board"	"Original Translation
 zh_CN: 上船
-zh_TW: 搭乘"	""
+zh_TW: 搭乘"	"上船"
 "action.interact.ride.boat.touch"	":boat_ride: Board"	"Original Translation
 zh_CN: :boat_ride: 乘坐
 zh_TW: :boat_ride: 搭乘"	""
 "action.interact.ride.horse"	"Ride"	"Original Translation
 zh_CN: 乘坐
-zh_TW: 騎乘"	""
+zh_TW: 騎乘"	"乘坐"
 "action.interact.ride.horse.touch"	":horse_ride: Ride"	"Original Translation
 zh_CN: :horse_ride: 骑乘
 zh_TW: :horse_ride: 騎乘"	""
 "action.interact.ride.minecart"	"Ride"	"Original Translation
 zh_CN: 乘坐
-zh_TW: 騎乘"	""
+zh_TW: 騎乘"	"乘坐"
 "action.interact.ride.minecart.touch"	":boat_ride: Ride"	"Original Translation
 zh_CN: :boat_ride: 乘坐
 zh_TW: :boat_ride: 騎乘"	""
 "action.interact.ride.strider"	"Ride"	"Original Translation
 zh_CN: 乘坐
-zh_TW: 騎乘"	""
+zh_TW: 騎乘"	"乘坐"
 "action.interact.ride.strider.touch"	":horse_ride: Ride"	"Original Translation
 zh_CN: :horse_ride: 骑乘
 zh_TW: :horse_ride: 騎乘"	""
 "action.interact.saddle"	"Saddle"	"Original Translation
 zh_CN: 上鞍
-zh_TW: 鞍"	"鞍"
+zh_TW: 鞍"	"上鞍"
 "action.interact.scrape"	"Scrape"	"Original Translation
 zh_CN: 刮
 zh_TW: 刮"	""
 "action.interact.shear"	"Shear"	"Original Translation
 zh_CN: 修剪
-zh_TW: 修剪"	""
+zh_TW: 修剪"	"修剪"
 "action.interact.sit"	"Sit"	"Original Translation
 zh_CN: 坐
-zh_TW: 坐"	""
+zh_TW: 坐"	"坐"
 "action.interact.spawn_egg_baby"	"Spawn Baby"	"Original Translation
 zh_CN: 生成宝宝
 zh_TW: 生成幼年生物"	""
 "action.interact.stand"	"Stand"	"Original Translation
 zh_CN: 站
-zh_TW: 站"	""
+zh_TW: 站"	"站"
 "action.interact.take_sulfur_cube"	"Remove Block"	"Original Translation
 zh_CN: 移除方块
 zh_TW: 移除方塊"	""
 "action.interact.takepicture"	"Take Picture"	"Original Translation
 zh_CN: 拍照
-zh_TW: 拍照"	""
+zh_TW: 拍照"	"拍照"
 "action.interact.talk"	"Talk"	"Original Translation
 zh_CN: 交谈
-zh_TW: 說話"	""
+zh_TW: 說話"	"說話"
 "action.interact.tame"	"Tame"	"Original Translation
 zh_CN: 驯化
-zh_TW: 馴化"	""
+zh_TW: 馴化"	"馴服"
 "action.interact.trade"	"Trade"	"Original Translation
 zh_CN: 交易
-zh_TW: 交易"	""
+zh_TW: 交易"	"交易"
 "action.interact.unballoon"	"Detach"	"Original Translation
 zh_CN: 分离
-zh_TW: 卸下"	""
+zh_TW: 卸下"	"卸下"
 "action.interact.unleash"	"Unleash"	"Original Translation
 zh_CN: 解开
-zh_TW: 解拴"	""
+zh_TW: 解拴"	"解拴"
 "action.interact.use"	"Use Item"	"Original Translation
 zh_CN: 使用物品
-zh_TW: 使用道具"	""
+zh_TW: 使用道具"	"使用物品"
 "action.interact.wakevillager"	"Wake Villager"	"Original Translation
 zh_CN: 叫醒村民
-zh_TW: 喚醒村民"	""
+zh_TW: 喚醒村民"	"喚醒村民"
 "action.interact.wax_off"	"Wax Off"	"Original Translation
 zh_CN: 脱蜡
 zh_TW: 關閉蠟"	""
@@ -1285,61 +1285,61 @@ zh_CN: 涂蜡
 zh_TW: 開啟蠟"	""
 "action.interact.write"	"Write"	"Original Translation
 zh_CN: 书写
-zh_TW: 寫"	""
+zh_TW: 寫"	"寫"
 "addExternalServerScreen.addServer"	"Add Server"	"Original Translation
 zh_CN: 添加服务器
-zh_TW: 新增伺服器"	""
+zh_TW: 新增伺服器"	"新增伺服器"
 "addExternalServerScreen.addTitle"	"Add External Server"	"Original Translation
 zh_CN: 添加外部服务器
-zh_TW: 新增外部伺服器"	""
+zh_TW: 新增外部伺服器"	"新增外部伺服器"
 "addExternalServerScreen.alreadyAdded"	"This server has already been added"	"Original Translation
 zh_CN: 此服务器已被添加
-zh_TW: 這個伺服器已經被加入了"	""
+zh_TW: 這個伺服器已經被加入了"	"該伺服器已被加入"
 "addExternalServerScreen.editTitle"	"Edit External Server"	"Original Translation
 zh_CN: 编辑外部服务器
-zh_TW: 編輯外部伺服器"	""
+zh_TW: 編輯外部伺服器"	"編輯外部伺服器"
 "addExternalServerScreen.ipPlaceholder"	"Please enter IP or Address"	"Original Translation
 zh_CN: 请输入 IP 或地址
-zh_TW: 請輸入 IP 或位址"	""
+zh_TW: 請輸入 IP 或位址"	"請輸入 IP 或位址"
 "addExternalServerScreen.ipTextBoxLabel"	"Server Address"	"Original Translation
 zh_CN: 服务器地址
-zh_TW: 伺服器位址"	""
+zh_TW: 伺服器位址"	"伺服器位址"
 "addExternalServerScreen.namePlaceholder"	"Please enter server name"	"Original Translation
 zh_CN: 请输入服务器名称
-zh_TW: 請輸入伺服器名稱"	""
+zh_TW: 請輸入伺服器名稱"	"請輸入伺服器名稱"
 "addExternalServerScreen.nameTextBoxLabel"	"Server Name"	"Original Translation
 zh_CN: 服务器名称
-zh_TW: 伺服器名稱"	""
+zh_TW: 伺服器名稱"	"伺服器名稱"
 "addExternalServerScreen.playButtonLabel"	"Play"	"Original Translation
 zh_CN: 游戏
-zh_TW: 遊戲"	""
+zh_TW: 遊戲"	"遊戲"
 "addExternalServerScreen.portTextBoxLabel"	"Port"	"Original Translation
 zh_CN: 端口
-zh_TW: 埠"	""
+zh_TW: 埠"	"埠"
 "addExternalServerScreen.removeButtonLabel"	"Remove"	"Original Translation
 zh_CN: 移除
-zh_TW: 移除"	""
+zh_TW: 移除"	"移除"
 "addExternalServerScreen.removeConfirmation"	"Are you sure you want to remove this server?"	"Original Translation
 zh_CN: 确定要移除此服务器吗？
-zh_TW: 確定要移除這個伺服器嗎？"	""
+zh_TW: 確定要移除這個伺服器嗎？"	"確定要刪除這個伺服器嗎？"
 "addExternalServerScreen.saveButtonLabel"	"Save"	"Original Translation
 zh_CN: 保存
-zh_TW: 儲存"	""
+zh_TW: 儲存"	"儲存"
 "addServer.add"	"Done"	"Original Translation
 zh_CN: 完成
-zh_TW: 完成"	""
+zh_TW: 完成"	"完成"
 "addServer.alreadyAdded"	"This server has already been added"	"Original Translation
 zh_CN: 此服务器已被添加
-zh_TW: 這個伺服器已經被加入了"	""
+zh_TW: 這個伺服器已經被加入了"	"該伺服器已被加入"
 "addServer.enterIp"	"Server Address"	"Original Translation
 zh_CN: 服务器地址
-zh_TW: 伺服器位址"	""
+zh_TW: 伺服器位址"	"伺服器位址"
 "addServer.enterName"	"Server Name"	"Original Translation
 zh_CN: 服务器名称
-zh_TW: 伺服器名稱"	""
+zh_TW: 伺服器名稱"	"伺服器名稱"
 "addServer.hideAddress"	"Hide Address"	"Original Translation
 zh_CN: 隐藏地址
-zh_TW: 隱藏位址"	""
+zh_TW: 隱藏位址"	"隱藏位址"
 "addServer.resourcePack"	"Server Resource Packs"	"Original Translation
 zh_CN: 服务器资源包
 zh_TW: 伺服器資源包"	""
