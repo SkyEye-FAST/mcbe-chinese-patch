@@ -541,7 +541,7 @@ zh_CN: Polish Zloty:Groszy:.
 zh_TW: Polish Zloty:Groszy:."	"波兰兹罗提:Groszy:。"
 "accessibility.text.ampersand"	"And"	"Original Translation
 zh_CN: & 符号
-zh_TW: & 符號"	"&符号"
+zh_TW: & 符號"	"And"
 "accessibility.text.apostrophe"	"Apostrophe"	"Original Translation
 zh_CN: 撇号
 zh_TW: 縮寫符號"	"撇号"
@@ -550,7 +550,7 @@ zh_CN: 星号
 zh_TW: 星號"	"星号"
 "accessibility.text.atSign"	"At"	"Original Translation
 zh_CN: @ 符号
-zh_TW: 小老鼠"	"@符号"
+zh_TW: 小老鼠"	"At"
 "accessibility.text.backwardSlash"	"Back Slash"	"Original Translation
 zh_CN: 反斜杠
 zh_TW: 反斜線"	"反斜杠"
@@ -565,7 +565,7 @@ zh_CN: 逗号
 zh_TW: 逗號"	"逗号"
 "accessibility.text.dollarSign"	"Dollar"	"Original Translation
 zh_CN: 美元符号
-zh_TW: 金錢符號"	"$符号"
+zh_TW: 金錢符號"	"美元符号"
 "accessibility.text.equals"	"Equals"	"Original Translation
 zh_CN: 等号
 zh_TW: 等號"	"等号"
@@ -856,7 +856,7 @@ zh_CN: 攻击树木，直到跳出一个木块
 zh_TW: 持續破壞樹木直到木頭方塊掉出來"	"击打树木直到跳出一个原木方块"
 "achievement.notification.description"	"Achievement unlocked"	"Original Translation
 zh_CN: 成就已解锁
-zh_TW: 已解鎖成就"	"已获得成就"
+zh_TW: 已解鎖成就"	"已解锁成就"
 "achievement.onARail"	"On A Rail"	"Original Translation
 zh_CN: 在铁路上
 zh_TW: 暢行無阻"	"在铁路上"
