@@ -1342,106 +1342,106 @@ zh_CN: 隐藏地址
 zh_TW: 隱藏位址"	"隱藏位址"
 "addServer.resourcePack"	"Server Resource Packs"	"Original Translation
 zh_CN: 服务器资源包
-zh_TW: 伺服器資源包"	""
+zh_TW: 伺服器資源包"	"伺服器資源包"
 "addServer.resourcePack.disabled"	"Disabled"	"Original Translation
 zh_CN: 已禁用
-zh_TW: 停用"	""
+zh_TW: 停用"	"已停用"
 "addServer.resourcePack.enabled"	"Enabled"	"Original Translation
 zh_CN: 启用
-zh_TW: 已啟用"	""
+zh_TW: 已啟用"	"已啟用"
 "addServer.resourcePack.prompt"	"Prompt"	"Original Translation
 zh_CN: 提示
-zh_TW: 提示"	""
+zh_TW: 提示"	"提示"
 "addServer.title"	"Edit Server Info"	"Original Translation
 zh_CN: 编辑服务器信息
-zh_TW: 編輯伺服器資訊"	""
+zh_TW: 編輯伺服器資訊"	"編輯伺服器資訊"
 "advMode.allEntities"	"@e = all entities"	"Original Translation
 zh_CN: @e = 全部实体
-zh_TW: @e = 全部實體"	""
+zh_TW: @e = 全部實體"	"@e = 全部實體"
 "advMode.allPlayers"	"@a = all players"	"Original Translation
 zh_CN: @a = 全部玩家
-zh_TW: @a = 全部玩家"	""
+zh_TW: @a = 全部玩家"	"@a = 全部玩家"
 "advMode.command"	"Command Input"	"Original Translation
 zh_CN: 命令输入
-zh_TW: 指令輸入"	""
+zh_TW: 指令輸入"	"指令輸入"
 "advMode.command.charLimitExceeded"	"Command Input exceeds 500 characters. It is not possible to open the keyboard input on this device type."	"Original Translation
 zh_CN: 命令输入超过 500 个字符。无法在此设备类型上打开键盘输入。
-zh_TW: 輸入指令超過 500 個字元。無法在此裝置類型上開啟鍵盤輸入。"	""
+zh_TW: 輸入指令超過 500 個字元。無法在此裝置類型上開啟鍵盤輸入。"	"指令輸入超過 500 個字元。無法在此裝置類型上開啟鍵盤輸入。"
 "advMode.nearest"	"@n = nearest entity"	"Original Translation
 zh_CN: @n = 最近的实体
-zh_TW: @n =最近的實體"	""
+zh_TW: @n =最近的實體"	"@n = 最近的實體"
 "advMode.nearestPlayer"	"@p = nearest player"	"Original Translation
 zh_CN: @p = 最近的玩家
-zh_TW: @p = 最近的玩家"	""
+zh_TW: @p = 最近的玩家"	"@p = 最近的玩家"
 "advMode.notAllowed"	"Must be an opped player in creative mode"	"Original Translation
 zh_CN: 必须是处于创造模式的管理员
-zh_TW: 必須是創造模式中的伺服器工作人員"	""
+zh_TW: 必須是創造模式中的伺服器工作人員"	"必須是處於創造模式的伺服器管理員"
 "advMode.notEnabled"	"Command blocks are not enabled on this server"	"Original Translation
 zh_CN: 命令方块在此服务器上未启用
-zh_TW: 這個伺服器不允許使用指令方塊"	""
+zh_TW: 這個伺服器不允許使用指令方塊"	"這個伺服器未啟用指令方塊"
 "advMode.previousOutput"	"Previous Output"	"Original Translation
 zh_CN: 上一个输出
-zh_TW: 預覽輸出"	""
+zh_TW: 預覽輸出"	"先前輸出"
 "advMode.randomPlayer"	"@r = random player"	"Original Translation
 zh_CN: @r = 随机玩家
-zh_TW: @r = 隨機玩家"	""
+zh_TW: @r = 隨機玩家"	"@r = 隨機玩家"
 "advMode.self"	"@s = self"	"Original Translation
 zh_CN: @s = 自己
-zh_TW: @s = 自己"	""
+zh_TW: @s = 自己"	"@s = 自己"
 "advMode.setCommand"	"Set Console Command for Block"	"Original Translation
 zh_CN: 设置此方块的控制台指令
-zh_TW: 設定主機區塊指令"	""
+zh_TW: 設定主機區塊指令"	"設定此方塊的控制台指令"
 "advMode.setCommand.success"	"Command set: %s"	"Original Translation
 zh_CN: 成功设置：%s
-zh_TW: 指令設為：%s"	""
+zh_TW: 指令設為：%s"	"指令設為：%s"
 "apple.LocalNetworkPermission.message"	"Minecraft wants to access your local network. This allows you and others on your local network to play together. Declining this permission does not affect online features or gameplay. But will prevent you and others, on the same network, from playing together."	"Original Translation
 zh_CN: 《我的世界》想要访问您的本地网络。这将允许您和本地网络上的其他玩家一起游玩。拒绝此权限不会影响在线功能或游戏本身。但会导致您无法和同一网络中的玩家一起游玩。
-zh_TW: Minecraft 想存取您的本地網路。此操作能讓您與本地網路上的其他人一起遊玩。拒絕授權不會影響線上機能或遊玩遊戲，但會讓您無法與其他人在同一個網路中遊玩遊戲。"	""
+zh_TW: Minecraft 想存取您的本地網路。此操作能讓您與本地網路上的其他人一起遊玩。拒絕授權不會影響線上機能或遊玩遊戲，但會讓您無法與其他人在同一個網路中遊玩遊戲。"	"Minecraft 想存取您的區域網路。此操作能讓您與區域網路上的其他人一起遊玩。拒絕授權不會影響線上功能或遊戲內容，但會讓您無法與其他人在同一個網路中一起遊玩。"
 "apple.iCloudDisabled.button.turnOnICloud"	"Turn on iCloud"	"Original Translation
 zh_CN: 开启 iCloud
-zh_TW: 開啟 iCloud"	""
+zh_TW: 開啟 iCloud"	"開啟 iCloud"
 "apple.iCloudDisabled.message"	"Your worlds are not getting saved properly. They might not be here next time you play Minecraft. Go to your Apple TV settings and turn on iCloud to make sure all of your worlds get saved."	"Original Translation
 zh_CN: 你的世界没有保存妥当。下次你玩《我的世界》时，它们可能不存在了。请前往 Apple TV 设置，开启 iCloud，确保所有世界保存完好。
-zh_TW: 你的世界並未妥善儲存，下回玩 Minecraft 的時候恐怕已經不在。請至 Apple TV 設定開啟 iCloud，確保你所有的世界都會儲存下來。"	""
+zh_TW: 你的世界並未妥善儲存，下回玩 Minecraft 的時候恐怕已經不在。請至 Apple TV 設定開啟 iCloud，確保你所有的世界都會儲存下來。"	"你的世界並未妥善儲存，下回玩 Minecraft 的時候恐怕不復存在。請至 Apple TV 設定開啟 iCloud，確保你所有的世界都會儲存下來。"
 "apple.iCloudDisabled.title"	"Don't Lose Your Worlds!"	"Original Translation
 zh_CN: 别失去你的世界！
-zh_TW: 別丟失你的世界！"	""
+zh_TW: 別丟失你的世界！"	"別丟失你的世界！"
 "apple.iCloudNoInternet.message"	"You need an internet connection to save your worlds properly. They might not be here next time you play Minecraft. Reconnect to the internet to make sure all of your worlds get saved."	"Original Translation
 zh_CN: 你需要互联网连接才能妥当保存世界。下次你玩《我的世界》时，它们可能不存在了。请重新连接到互联网，确保所有世界保存完好。
-zh_TW: 你需要具備網際網路連線，以將世界妥善儲存下來，否則下回玩 Minecraft 的時候恐怕不復存在。請重新連線到網際網路，確保你所有的世界都會儲存下來。"	""
+zh_TW: 你需要具備網際網路連線，以將世界妥善儲存下來，否則下回玩 Minecraft 的時候恐怕不復存在。請重新連線到網際網路，確保你所有的世界都會儲存下來。"	"你需要具備網際網路連線以妥善儲存世界，否則下回玩 Minecraft 的時候恐怕不復存在。請重新連線到網際網路，確保你所有的世界都會儲存下來。"
 "apple.iCloudNoSpace.button.manageICloud"	"Manage iCloud"	"Original Translation
 zh_CN: 管理 iCloud
-zh_TW: 管理 iCloud"	""
+zh_TW: 管理 iCloud"	"管理 iCloud"
 "apple.iCloudNoSpace.message"	"You do not have enough iCloud space free to save your worlds properly. They might not be here next time you play Minecraft. Free up space on your iCloud account to make sure all of your worlds get saved."	"Original Translation
 zh_CN: 你的 iCloud 可用空间不足，无法妥当保存世界。下次你玩《我的世界》时，它们可能不存在了。请释放 iCloud 账户上的空间，确保所有世界保存完好。
-zh_TW: 你的 iCloud 可用空間不足，無法將世界妥善儲存下來，下回玩 Minecraft 的時候恐怕不復存在。請在 iCloud 帳戶下釋出空間，確保你所有的世界都會儲存下來。"	""
+zh_TW: 你的 iCloud 可用空間不足，無法將世界妥善儲存下來，下回玩 Minecraft 的時候恐怕不復存在。請在 iCloud 帳戶下釋出空間，確保你所有的世界都會儲存下來。"	"你的 iCloud 剩餘空間不足，無法將世界妥善儲存下來，下回玩 Minecraft 的時候恐怕不復存在。請在 iCloud 帳戶下釋出空間，確保你所有的世界都會儲存下來。"
 "apple.iCloudSignInRequired.message"	"You need to be signed in to iCloud to play Minecraft. Go to your Apple TV settings and turn on iCloud."	"Original Translation
 zh_CN: 您必须登录 iCloud 才能玩《我的世界》。请转到 Apple TV 设置并打开 iCloud。
-zh_TW: 您需要登入 iCloud，才能玩 Minecraft。請前往 Apple TV 設定並開啟 iCloud。"	""
+zh_TW: 您需要登入 iCloud，才能玩 Minecraft。請前往 Apple TV 設定並開啟 iCloud。"	"您需要登入 iCloud 才能玩 Minecraft。請前往 Apple TV 設定開啟 iCloud。"
 "apple.iCloudSignInRequired.title"	"Sign In"	"Original Translation
 zh_CN: 登录
-zh_TW: 登入"	""
+zh_TW: 登入"	"登入"
 "apple.iCloudUserChanged.message"	"A new iCloud account has signed in. You will need to restart Minecraft to play."	"Original Translation
 zh_CN: 已经登录新的 iCloud 帐户。您将需要重新启动《我的世界》才能进入游戏。
-zh_TW: 已登入新的 iCloud 帳戶。如要進行遊戲，您必須重新啟動 Minecraft。"	""
+zh_TW: 已登入新的 iCloud 帳戶。如要進行遊戲，您必須重新啟動 Minecraft。"	"已登入新的 iCloud 帳號。如要進行遊戲，您必須重新啟動 Minecraft。"
 "attribute.modifier.plus.0"	"+%d %s"	"Original Translation
 zh_CN: +%d %s
-zh_TW: +%d %s"	""
+zh_TW: +%d %s"	"+%d %s"
 "attribute.modifier.plus.1"	"+%d%% %s"	"Original Translation
 zh_CN: +%d%% %s
-zh_TW: +%d%% %s"	""
+zh_TW: +%d%% %s"	"+%d%% %s"
 "attribute.modifier.plus.2"	"+%d%% %s"	"Original Translation
 zh_CN: +%d%% %s
-zh_TW: +%d%% %s"	""
+zh_TW: +%d%% %s"	"+%d%% %s"
 "attribute.modifier.take.0"	"-%d %s"	"Original Translation
 zh_CN: -%d %s
-zh_TW: -%d %s"	""
+zh_TW: -%d %s"	"-%d %s"
 "attribute.modifier.take.1"	"-%d%% %s"	"Original Translation
 zh_CN: -%d%% %s
-zh_TW: -%d%% %s"	""
+zh_TW: -%d%% %s"	"-%d%% %s"
 "attribute.modifier.take.2"	"-%d%% %s"	"Original Translation
 zh_CN: -%d%% %s
-zh_TW: -%d%% %s"	""
+zh_TW: -%d%% %s"	"-%d%% %s"
 "attribute.name.generic.armor"	"Armor"	"Original Translation
 zh_CN: 盔甲
 zh_TW: 護甲"	""
@@ -1450,10 +1450,10 @@ zh_CN: 盔甲韧性
 zh_TW: 護甲韌性"	""
 "attribute.name.generic.attackDamage"	"Attack Damage"	"Original Translation
 zh_CN: 攻击伤害
-zh_TW: 攻擊傷害"	""
+zh_TW: 攻擊傷害"	"攻擊傷害"
 "attribute.name.generic.knockbackResistance"	"Knockback Resistance"	"Original Translation
 zh_CN: 击退抗性
-zh_TW: 擊退抗性"	""
+zh_TW: 擊退抗性"	"抗擊退"
 "attribute.name.generic.maxHealth"	"Max Health"	"Original Translation
 zh_CN: 最大生命值
 zh_TW: 最高生命值"	""

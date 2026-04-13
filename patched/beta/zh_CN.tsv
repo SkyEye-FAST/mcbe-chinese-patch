@@ -1357,10 +1357,10 @@ zh_CN: 编辑服务器信息
 zh_TW: 編輯伺服器資訊"	"编辑服务器信息"
 "advMode.allEntities"	"@e = all entities"	"Original Translation
 zh_CN: @e = 全部实体
-zh_TW: @e = 全部實體"	"@e = 所有实体"
+zh_TW: @e = 全部實體"	"@e = 全部实体"
 "advMode.allPlayers"	"@a = all players"	"Original Translation
 zh_CN: @a = 全部玩家
-zh_TW: @a = 全部玩家"	"@a = 所有玩家"
+zh_TW: @a = 全部玩家"	"@a = 全部玩家"
 "advMode.command"	"Command Input"	"Original Translation
 zh_CN: 命令输入
 zh_TW: 指令輸入"	"命令输入"
