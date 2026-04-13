@@ -425,8 +425,8 @@ addServer.resourcePack.disabled=禁用
 addServer.resourcePack.enabled=启用
 addServer.resourcePack.prompt=提示
 addServer.title=编辑服务器信息
-advMode.allEntities=@e = 所有实体
-advMode.allPlayers=@a = 所有玩家
+advMode.allEntities=@e = 全部实体
+advMode.allPlayers=@a = 全部玩家
 advMode.command=命令输入
 advMode.command.charLimitExceeded=命令输入超过500个字符。无法在此设备类型上打开键盘输入。
 advMode.nearest=@n = 最近的实体

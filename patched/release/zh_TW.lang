@@ -413,6 +413,41 @@ addServer.alreadyAdded=該伺服器已被加入
 addServer.enterIp=伺服器位址
 addServer.enterName=伺服器名稱
 addServer.hideAddress=隱藏位址
+addServer.resourcePack=伺服器資源包
+addServer.resourcePack.disabled=已停用
+addServer.resourcePack.enabled=已啟用
+addServer.resourcePack.prompt=提示
+addServer.title=編輯伺服器資訊
+advMode.allEntities=@e = 全部實體
+advMode.allPlayers=@a = 全部玩家
+advMode.command=指令輸入
+advMode.command.charLimitExceeded=指令輸入超過 500 個字元。無法在此裝置類型上開啟鍵盤輸入。
+advMode.nearest=@n = 最近的實體
+advMode.nearestPlayer=@p = 最近的玩家
+advMode.notAllowed=必須是處於創造模式的伺服器管理員
+advMode.notEnabled=這個伺服器未啟用指令方塊
+advMode.previousOutput=先前輸出
+advMode.randomPlayer=@r = 隨機玩家
+advMode.self=@s = 自己
+advMode.setCommand=設定此方塊的控制台指令
+advMode.setCommand.success=指令設為：%s
+apple.LocalNetworkPermission.message=Minecraft 想存取您的區域網路。此操作能讓您與區域網路上的其他人一起遊玩。拒絕授權不會影響線上功能或遊戲內容，但會讓您無法與其他人在同一個網路中一起遊玩。
+apple.iCloudDisabled.button.turnOnICloud=開啟 iCloud
+apple.iCloudDisabled.message=你的世界並未妥善儲存，下回玩 Minecraft 的時候恐怕不復存在。請至 Apple TV 設定開啟 iCloud，確保你所有的世界都會儲存下來。
+apple.iCloudDisabled.title=別丟失你的世界！
+apple.iCloudNoInternet.message=你需要具備網際網路連線以妥善儲存世界，否則下回玩 Minecraft 的時候恐怕不復存在。請重新連線到網際網路，確保你所有的世界都會儲存下來。
+apple.iCloudNoSpace.button.manageICloud=管理 iCloud
+apple.iCloudNoSpace.message=你的 iCloud 剩餘空間不足，無法將世界妥善儲存下來，下回玩 Minecraft 的時候恐怕不復存在。請在 iCloud 帳戶下釋出空間，確保你所有的世界都會儲存下來。
+apple.iCloudSignInRequired.message=您需要登入 iCloud 才能玩 Minecraft。請前往 Apple TV 設定開啟 iCloud。
+apple.iCloudSignInRequired.title=登入
+apple.iCloudUserChanged.message=已登入新的 iCloud 帳號。如要進行遊戲，您必須重新啟動 Minecraft。
+attribute.modifier.plus.0=+%d %s
+attribute.modifier.plus.1=+%d%% %s
+attribute.modifier.plus.2=+%d%% %s
+attribute.modifier.take.0=-%d %s
+attribute.modifier.take.1=-%d%% %s
+attribute.modifier.take.2=-%d%% %s
+attribute.name.generic.attackDamage=攻擊傷害
 book.signButton=告示牌
 cauldronScreen.header=鍋釜
 chestScreen.header.small=儲物箱
