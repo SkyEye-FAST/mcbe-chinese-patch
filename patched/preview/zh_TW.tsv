@@ -1456,109 +1456,109 @@ zh_CN: 击退抗性
 zh_TW: 擊退抗性"	"抗擊退"
 "attribute.name.generic.maxHealth"	"Max Health"	"Original Translation
 zh_CN: 最大生命值
-zh_TW: 最高生命值"	""
+zh_TW: 最高生命值"	"最高生命值"
 "attribute.name.horse.jumpStrength"	"Horse Jump Strength"	"Original Translation
 zh_CN: 马匹跳跃能力
-zh_TW: 馬匹跳躍力"	""
+zh_TW: 馬匹跳躍力"	"馬跳躍力"
 "attribute.name.minecraft:attack_damage"	"Attack Damage"	"Original Translation
 zh_CN: 攻击伤害
-zh_TW: 攻擊傷害"	""
+zh_TW: 攻擊傷害"	"攻擊傷害"
 "attribute.name.minecraft:follow_range"	"Mob Follow Range"	"Original Translation
 zh_CN: 生物跟随距离
-zh_TW: 生物追蹤範圍"	""
+zh_TW: 生物追蹤範圍"	"生物追蹤範圍"
 "attribute.name.minecraft:knockback_resistance"	"Knockback Resistance"	"Original Translation
 zh_CN: 击退抗性
-zh_TW: 擊退抗性"	""
+zh_TW: 擊退抗性"	"抗擊退"
 "attribute.name.minecraft:movement"	"Speed"	"Original Translation
 zh_CN: 速度
-zh_TW: 速度"	""
+zh_TW: 速度"	"速度"
 "attribute.name.zombie.spawnReinforcements"	"Zombie Reinforcements"	"Original Translation
 zh_CN: 僵尸增援
-zh_TW: 殭屍增援隊"	""
+zh_TW: 殭屍增援隊"	"殭屍增援隊"
 "attribution.goBack"	"Go Back"	"Original Translation
 zh_CN: 返回
-zh_TW: 返回"	""
+zh_TW: 返回"	"返回"
 "attribution.viewAttribution"	"To view attributions, please visit https://minecraft.net/attribution in any web browser."	"Original Translation
 zh_CN: 要查看署名，请在任意网络浏览器中访问 https://minecraft.net/attribution。
-zh_TW: 若要查看署名，請以任何網頁瀏覽器造訪 https://minecraft.net/attribution。"	""
+zh_TW: 若要查看署名，請以任何網頁瀏覽器造訪 https://minecraft.net/attribution。"	"若要檢視著作權資訊，請以任何網頁瀏覽器造訪 https://minecraft.net/attribution。"
 "authentication.adalException"	"We can't connect to the service you need right now. Please check your internet connection and try again."	"Original Translation
 zh_CN: 我们无法连接到您当前所需的服务。请检查您的互联网连接，然后再试一次。
-zh_TW: 我們目前無法連接至您需要的服務。請檢查您的網路連線，或稍後再試一次。"	""
+zh_TW: 我們目前無法連接至您需要的服務。請檢查您的網路連線，或稍後再試一次。"	"我們目前無法連接至您需要的服務。請檢查您的網路連線，稍後再試一次。"
 "authentication.buyMinecraft"	"Go to the App Store"	"Original Translation
 zh_CN: 前往 App Store
-zh_TW: 前往 App Store"	""
+zh_TW: 前往 App Store"	"前往 App Store"
 "authentication.clickToPurchase"	"How to purchase"	"Original Translation
 zh_CN: 如何购买
-zh_TW: 如何購買"	""
+zh_TW: 如何購買"	"如何購買"
 "authentication.demo.body.default"	"Starting the demo experience..."	"Original Translation
 zh_CN: 正在开始演示版本体验……
-zh_TW: 正在啟動示範體驗…"	""
+zh_TW: 正在啟動示範體驗…"	"正在開始體驗課程..."
 "authentication.demo.body.error"	"We're sorry, but this lesson is not currently available."	"Original Translation
 zh_CN: 抱歉，该课程当前不可用。
-zh_TW: 很抱歉，此課程目前暫不提供。"	""
+zh_TW: 很抱歉，此課程目前暫不提供。"	"很抱歉，此課程目前暫不提供。"
 "authentication.demo.title"	"Loading the Demo"	"Original Translation
 zh_CN: 正在加载演示版本
-zh_TW: 載入示範"	""
+zh_TW: 載入示範"	"正在載入體驗課程"
 "authentication.demo.title.error"	"Lesson Not Available"	"Original Translation
 zh_CN: 课程不可用
-zh_TW: 課程無法使用"	""
+zh_TW: 課程無法使用"	"課程無法使用"
 "authentication.edu.leaveGame.body"	"Another device has logged in using your account."	"Original Translation
 zh_CN: 另一个设备已使用您的账户登录。
-zh_TW: 另一部裝置已使用您的帳戶登入。"	""
+zh_TW: 另一部裝置已使用您的帳戶登入。"	"另一部裝置已使用您的帳號登入。"
 "authentication.edu.leaveGame.help"	"Help"	"Original Translation
 zh_CN: 帮助
-zh_TW: 幫助"	""
+zh_TW: 幫助"	"說明"
 "authentication.edu.leaveGame.title"	"You've been logged out"	"Original Translation
 zh_CN: 您已被注销
-zh_TW: 您已經登出"	""
+zh_TW: 您已經登出"	"你已登出"
 "authentication.educationOnly"	"If you are not an education user, go to the app store to download the standard version."	"Original Translation
 zh_CN: 如果您不是教育用户，可以前往应用商店下载标准版本.
-zh_TW: 如果您不是教育版使用者，請前往 App Store 以下載標準版本。"	""
+zh_TW: 如果您不是教育版使用者，請前往 App Store 以下載標準版本。"	"如果您不是教育版使用者，請前往應用程式商店以下載標準版本。"
 "authentication.error.accountType.body"	"Oops! It looks like you signed in with a personal account. This account is not eligible to use Minecraft Education. Please make sure you are signing in with a school or organizational account and try again."	"Original Translation
 zh_CN: 哎呀！看来您使用了个人账户进行登录。此账户不符合使用 Minecraft Education 的条件。请确保您正在使用学校或组织账户登录，随后请重试。
-zh_TW: 哎呀！看起來你使用個人帳戶登入了。此帳戶不符合使用 Minecraft Education 的資格。請確保你正在使用學校或組織帳戶登入，然後重試一次。"	""
+zh_TW: 哎呀！看起來你使用個人帳戶登入了。此帳戶不符合使用 Minecraft Education 的資格。請確保你正在使用學校或組織帳戶登入，然後重試一次。"	"哎呀！看起來你使用了個人帳號登入。此帳號不符合使用 Minecraft Education 的資格。請確保你正在使用學校或組織帳號登入，然後重試一次。"
 "authentication.error.generic.body"	"We were unable to sign you in. Please make sure you are signing in with your school or organizational account and try again."	"Original Translation
 zh_CN: 我们无法将您登录。请确保您正在使用学校或组织账户登录，随后请重试。
-zh_TW: 你無法登入。請確保你正在使用學校或組織帳戶登入，然後重試一次。"	""
+zh_TW: 你無法登入。請確保你正在使用學校或組織帳戶登入，然後重試一次。"	"無法登入。請確保你正在使用學校或組織帳號登入，然後重試一次。"
 "authentication.error.generic.link1"	"Learn more about account eligibility."	"Original Translation
 zh_CN: 了解有关账户资格的信息。
-zh_TW: 了解更多帳戶資格的相關資訊。"	""
+zh_TW: 了解更多帳戶資格的相關資訊。"	"了解更多帳號資格的相關資訊。"
 "authentication.error.generic.link2"	"Try a demo lesson."	"Original Translation
 zh_CN: 尝试演示课程。
-zh_TW: 嘗試體驗課程。"	""
+zh_TW: 嘗試體驗課程。"	"嘗試體驗課程。"
 "authentication.error.generic.title"	"Unable to Sign In"	"Original Translation
 zh_CN: 无法登录
-zh_TW: 無法登入"	""
+zh_TW: 無法登入"	"無法登入"
 "authentication.error.outOfDate.body"	"We're sorry, but this version of Minecraft Education is no longer supported. Please update to the latest version to continue playing."	"Original Translation
 zh_CN: 很抱歉， 此版本的 Minecraft Education 不再受支持。请更新至最新版本以继续探索。
-zh_TW: 很抱歉，已不再支援此版本的 Minecraft Education。請更新至最新版本以繼續遊玩。"	""
+zh_TW: 很抱歉，已不再支援此版本的 Minecraft Education。請更新至最新版本以繼續遊玩。"	"很抱歉，已不再支援此版本的 Minecraft Education。請更新至最新版本以繼續遊玩。"
 "authentication.error.outOfDate.downloadPage"	"Go to Download page"	"Original Translation
 zh_CN: 转至下载页面
-zh_TW: 前往下載頁面"	""
+zh_TW: 前往下載頁面"	"前往下載頁面"
 "authentication.error.outOfDate.title"	"Update Required"	"Original Translation
 zh_CN: 需要更新
-zh_TW: 必須更新"	""
+zh_TW: 必須更新"	"需要更新"
 "authentication.exitingGame"	"Goodbye, come back soon."	"Original Translation
 zh_CN: 再见，请尽快回来。
-zh_TW: 再見，希望很快可以再相見。"	""
+zh_TW: 再見，希望很快可以再相見。"	"再見，希望很快能再相見。"
 "authentication.finalTrialWarning"	"This is your final trial of Minecraft Education.%1%1After this session, your school or organization will need to purchase a license for you to continue to use all the features of Minecraft Education."	"Original Translation
 zh_CN: 这是您对《我的世界》教育版的最后一次试用。%1%1在此会话之后，您的学校或组织将需要购买许可证才能继续使用《我的世界》教育版的所有功能。
-zh_TW: 這是你試用 Minecraft Education 的最後一次機會。%1%1 本次試用結束後，你所在學校或組織需要購買許可證才能繼續使用 Minecraft Education 的所有功能。"	""
+zh_TW: 這是你試用 Minecraft Education 的最後一次機會。%1%1 本次試用結束後，你所在學校或組織需要購買許可證才能繼續使用 Minecraft Education 的所有功能。"	"這是你試用 Minecraft Education 的最後一次機會。%1%1本次試用結束後，你所在學校或組織需要購買許可才能繼續使用 Minecraft Education 的所有功能。"
 "authentication.location"	"For more information:"	"Original Translation
 zh_CN: 如需更多信息：
-zh_TW: 如需更多資訊："	""
+zh_TW: 如需更多資訊："	"如需更多資訊："
 "authentication.loggingin"	"Signing in..."	"Original Translation
 zh_CN: 登录中…
-zh_TW: 正在登入…"	""
+zh_TW: 正在登入…"	"正在登入..."
 "authentication.minecraftInstead"	"App Store"	"Original Translation
 zh_CN: 应用商店
-zh_TW: App Store"	""
+zh_TW: App Store"	"App Store"
 "authentication.oneTrialWarning"	"You have 1 trial of Minecraft Education remaining before your school or organization will need to purchase a license.%1%1Every time you open Minecraft Education, you will use one trial."	"Original Translation
 zh_CN: 在您的学校或组织需要购买许可证之前，您还剩 1 次试用《我的世界》教育版的机会。%1%1每次打开《我的世界》教育版，都会消耗一次试用机会。
-zh_TW: 你還能試用 1 次 Minecraft Education，之後你所在的學校或組織就需要購買許可證。%1%1 每次開啟 Minecraft Education，就會使用一次試用。"	""
+zh_TW: 你還能試用 1 次 Minecraft Education，之後你所在的學校或組織就需要購買許可證。%1%1 每次開啟 Minecraft Education，就會使用一次試用。"	"你還能試用 1 次 Minecraft Education，之後你所在的學校或組織就需要購買許可。%1%1每次開啟 Minecraft Education 都會使用一次試用次數。"
 "authentication.pleaseSignIn"	"Sign in with your school or organizational account to use Minecraft Education."	"Original Translation
 zh_CN: 使用您的学校或组织账户登录以探索 Minecraft Education。
-zh_TW: 使用你的學校或組織帳戶登入以使用 Minecraft Education。"	""
+zh_TW: 使用你的學校或組織帳戶登入以使用 Minecraft Education。"	"使用你的學校或組織帳號登入以使用 Minecraft Education。"
 "authentication.signIn"	"Sign in"	"Original Translation
 zh_CN: 登录
 zh_TW: 登入"	""
