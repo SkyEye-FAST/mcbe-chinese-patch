@@ -11,7 +11,6 @@
 3d_export.title=3D导出
 accessibility.button.back=返回
 accessibility.button.close=关闭
-accessibility.button.creative.layout=配方书视图
 accessibility.button.exit=退出
 accessibility.button.filter=筛选
 accessibility.button.filter.appliedCount=%s已应用
@@ -863,7 +862,6 @@ craftingScreen.tab.construction=建筑
 craftingScreen.tab.equipment=装备
 craftingScreen.tab.items=物品
 craftingScreen.tab.nature=自然
-craftingScreen.tab.search=全部
 craftingScreen.tab.survival=物品栏
 createWorld.customize.custom.baseSize=基准深度大小
 createWorld.customize.custom.biomeDepthOffset=生物群系深度补偿
