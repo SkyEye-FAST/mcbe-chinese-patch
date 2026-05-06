@@ -1097,7 +1097,7 @@
   "resourcePack.editor.realmsPublish.keyBinding.tooltip": "Activate Publish to Realms panel.",
   "resourcePack.editor.realmsPublish.title": "Publish to Realms",
   "resourcePack.editor.realmsPublish.tooltip": "Publish the Project to one of your Realms.",
-  "resourcePack.editor.realmsPublish.noActiveRealmsSubscription": "An active Realms subscription is required to Publish to Realms. You can subscribe to Realms or renew expired subscriptions from the standard Minecraft client or on the minecraft.net website (after signing in to your account).",
+  "resourcePack.editor.realmsPublish.noActiveRealmsSubscription": "An active Realms subscription is required to Publish to Realms. You can subscribe to Realms or renew expired subscriptions from the standard Minecraft client or on minecraft.net (after signing in to your account). A preview Realm can be claimed from the preview game client if you have an active subscription.",
   "resourcePack.editor.realmsPublish.userNotLoggedIn": "An active Realms subscription is required to Publish to Realms. To access any available Realms subscriptions you must be signed in to a Microsoft Account.",
   "resourcePack.editor.realmsPublish.dedicatedServerWarning": "Publish to Realms is unavailable when using a Dedicated Server.",
   "resourcePack.editor.realmsPublish.notSessionHostWarning": "Only the Editor session host can Publish to Realms.",
