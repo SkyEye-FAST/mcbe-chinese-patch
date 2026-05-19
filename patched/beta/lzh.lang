@@ -242,7 +242,6 @@ createWorldScreen.isHardcore=極
 createWorldScreen.keepInventory=亡後留行囊之物
 createWorldScreen.levelName=生界之名
 createWorldScreen.levelSeed=創世之種
-createWorldScreen.locatorBar=尋蹤欄
 createWorldScreen.mobLoot=生靈亡之遺物
 createWorldScreen.mobSpawn=孳生靈
 createWorldScreen.mobgriefing=允生靈之破壞

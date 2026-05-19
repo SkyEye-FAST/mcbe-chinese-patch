@@ -937,7 +937,6 @@ createWorldScreen.isHardcore=极限模式
 createWorldScreen.keepInventory=保留物品栏
 createWorldScreen.levelName=名称
 createWorldScreen.levelSeed=种子
-createWorldScreen.locatorBar=定位栏
 createWorldScreen.playerSleepPercentageFormat=%s%%
 createWorldScreen.randomtickspeed=随机刻速度
 createWorldScreen.showCoordinates=显示坐标
