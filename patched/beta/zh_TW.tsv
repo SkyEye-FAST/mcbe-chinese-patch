@@ -2249,12 +2249,12 @@ zh_TW: 標題"	""
 "chat.type.whisper"	"<%s> whispered to <%s>: %s"	"Original Translation
 zh_CN: <%s>与<%s>低语：%s
 zh_TW: <%s> 悄悄對 <%s> 說：%s"	""
-"chatlogging.description"	"Chat messages may be monitored or reviewed by your school or organization. Be respectful, be helpful, and have fun building!"	"Original Translation
-zh_CN: Chat messages may be monitored or reviewed by your school or organization. Be respectful, be helpful, and have fun building!
-zh_TW: Chat messages may be monitored or reviewed by your school or organization. Be respectful, be helpful, and have fun building!"	""
+"chatlogging.description"	"Chat messages may be monitored or reviewed by your school or organization, or their service providers. Chat is here to help you work together and learn.  Be respectful, be helpful, and have fun building!"	"Original Translation
+zh_CN: 聊天内容可能会被你的学校或所在组织监控或审查。请保持礼貌、乐于助人，并享受建造的乐趣！
+zh_TW: 聊天訊息可能會受到你的學校或組織監控與審查。請保持禮貌、互相協助，並盡情享受建造的樂趣！"	""
 "chatlogging.title"	"Chat Logging"	"Original Translation
-zh_CN: Chat Logging
-zh_TW: Chat Logging"	""
+zh_CN: 聊天记录
+zh_TW: 聊天記錄"	""
 "chestScreen.header.large"	"Large Chest"	"Original Translation
 zh_CN: 大箱子
 zh_TW: 大型儲物箱"	""
@@ -3354,8 +3354,8 @@ zh_TW: 已成功執行 %1$d 個功能項目。"	""
 zh_CN: 设置一名玩家的游戏模式。
 zh_TW: 可設定玩家的遊戲模式。"	""
 "commands.gamemode.fail.editorPlayer"	"Cannot change game mode of editor player(s): %s"	"Original Translation
-zh_CN: Cannot change game mode of editor player(s): %s
-zh_TW: Cannot change game mode of editor player(s): %s"	""
+zh_CN: 无法更改编辑器玩家的游戏模式：%s
+zh_TW: 無法變更編輯器玩家的遊戲模式：%s"	""
 "commands.gamemode.fail.invalid"	"Game mode '%1$s' is invalid"	"Original Translation
 zh_CN: 游戏模式 '%1$s' 无效
 zh_TW: 遊戲模式「'%1$s'」無效"	""
@@ -5289,7 +5289,7 @@ zh_TW: 正在連線到伺服器…"	""
 zh_CN: 无法连接至服务器
 zh_TW: 與伺服器連線失敗"	""
 "connect_gamepad.pressButtonToContinue"	"Please press the A button on your controller to continue"	"Original Translation
-zh_CN: 请在控制器上按“A”按钮继续
+zh_CN: 请在控制器上按“A”键继续
 zh_TW: 請按你控制器上的 A 按鈕以繼續"	""
 "connect_gamepad.warning.controllerRequired"	"Game controller required"	"Original Translation
 zh_CN: 需要游戏控制器
@@ -5481,8 +5481,8 @@ zh_TW: 取消"	""
 zh_CN: 立即删除
 zh_TW: 立即刪除"	""
 "contentlog.delete.done"	"Content logs deleted"	"Original Translation
-zh_CN: Content logs deleted
-zh_TW: Content logs deleted"	""
+zh_CN: 内容日志已删除
+zh_TW: 已刪除內容記錄檔"	""
 "contentlog.delete.progress"	"Deleting Content Logs"	"Original Translation
 zh_CN: 正在删除内容日志
 zh_TW: 正在刪除內容記錄"	""
@@ -6660,20 +6660,20 @@ zh_TW: 需要多少玩家在床舖上才能跳過夜晚？"	""
 zh_CN: %s%%
 zh_TW: %s%%"	""
 "createWorldScreen.playerWaypoints"	"Player waypoints"	"Original Translation
-zh_CN: Player waypoints
-zh_TW: Player waypoints"	""
+zh_CN: 玩家航点
+zh_TW: 玩家路線點"	""
 "createWorldScreen.playerWaypointsEveryone"	"Everyone"	"Original Translation
-zh_CN: Everyone
-zh_TW: Everyone"	""
+zh_CN: 所有人
+zh_TW: 每個人"	""
 "createWorldScreen.playerWaypointsEveryone.description"	"Adds all other players as waypoints to the locator bar"	"Original Translation
-zh_CN: Adds all other players as waypoints to the locator bar
-zh_TW: Adds all other players as waypoints to the locator bar"	""
+zh_CN: 将所有其他玩家作为航点添加到定位栏上
+zh_TW: 將其他所有玩家新增為定位條上的路線點"	""
 "createWorldScreen.playerWaypointsOff"	"Off"	"Original Translation
-zh_CN: Off
-zh_TW: Off"	""
+zh_CN: 关闭
+zh_TW: 關閉"	""
 "createWorldScreen.playerWaypointsOff.description"	"No player waypoints are added to the locator bar"	"Original Translation
-zh_CN: No player waypoints are added to the locator bar
-zh_TW: No player waypoints are added to the locator bar"	""
+zh_CN: 任何玩家的航点均未添加到定位栏上
+zh_TW: 定位條上不會新增玩家路線點"	""
 "createWorldScreen.progress.local"	"Creating new world..."	"Original Translation
 zh_CN: 创造一个新世界......
 zh_TW: 創造新世界......"	""
@@ -6822,8 +6822,8 @@ zh_TW: 新 Realm"	""
 zh_CN: 开始 30 天免费试玩
 zh_TW: 開始 30天免費試玩"	""
 "createWorldUpsell.button.trialText.nx"	"Start 28-day free trial"	"Original Translation
-zh_CN: Start 28-day free trial
-zh_TW: Start 28-day free trial"	""
+zh_CN: 开始 28 天免费试玩
+zh_TW: 開始 28 天免費試用"	""
 "createWorldUpsell.button.world"	"New World"	"Original Translation
 zh_CN: 新的世界
 zh_TW: 新的世界"	""
@@ -7308,8 +7308,8 @@ zh_TW: 石筍刺穿了 %1$s"	""
 zh_CN: %1$s 饿死了
 zh_TW: %1$s 餓死了"	""
 "death.attack.sulfurCube.hot"	"%1$s died because not just the floor is lava"	"Original Translation
-zh_CN: %1$s died because not just the floor is lava
-zh_TW: %1$s died because not just the floor is lava"	""
+zh_CN: %1$s 死了，毕竟这里可不只是熔岩地面这么简单
+zh_TW: %1$s 陣亡了，因為可不只是地板變成熔岩"	""
 "death.attack.sweetBerry"	"%1$s was poked to death by a sweet berry bush"	"Original Translation
 zh_CN: %1$s 被甜浆果灌木丛刺死了
 zh_TW: %1$s 被甜莓灌木叢刺死了"	""
@@ -8232,8 +8232,8 @@ zh_TW: 匯入外觀"	""
 zh_CN: 请导入尺寸为 64x64、64x32 或 128x128 的 .png 文件
 zh_TW: 請匯入尺寸為 64x64、64x32 或 128x128 的 .png 檔"	""
 "dr.classic_skins.invalidCustomSkinFile"	"Something went wrong. This may be due to insufficient storage space. Please check your available storage and try again."	"Original Translation
-zh_CN: Something went wrong. This may be due to insufficient storage space. Please check your available storage and try again.
-zh_TW: Something went wrong. This may be due to insufficient storage space. Please check your available storage and try again."	""
+zh_CN: 出错了。这可能是由于存储空间不足造成的。请检查可用存储空间，然后重试。
+zh_TW: 發生錯誤。這可能是因為儲存空間不足。請檢查可用儲存空間並再試一次。"	""
 "dr.classic_skins.owned"	"Owned"	"Original Translation
 zh_CN: 已拥有
 zh_TW: 已擁有"	""
@@ -8792,6 +8792,7 @@ zh_TW: 已建立新角色"	""
 "dr.notification.persona_delete"	"The Character has been deleted"	"Original Translation
 zh_CN: 该角色已被删除
 zh_TW: 角色已經刪除"	""
+"dr.notification.persona_initalize_failed_start"	"Failed to initialize persona. Proceeding with default skin."	"Original Translation"	""
 "dr.notification.persona_save"	"The Character has been saved"	"Original Translation
 zh_CN: 该角色已被保存
 zh_TW: 角色已經儲存"	""
@@ -9317,7 +9318,7 @@ zh_TW: 選取生態域"	""
 "editor.fillBiomes.toast.regionReassigned"	"Region biome reassigned successfully."	"Original Translation
 zh_CN: 区域生物群系已成功重新分配。
 zh_TW: 區域生態域重新指派成功。"	""
-"editor.fillBiomes.toast.success"	"Biome data assigned successfully. Save and quit to view biome changes."	"Original Translation
+"editor.fillBiomes.toast.success"	"Biome data assigned successfully."	"Original Translation
 zh_CN: 生物群系数据已成功分配。保存并退出以查看生物群系变化。
 zh_TW: 生態域資料指派成功。儲存並退出即可查看生態域變更。"	""
 "editor.fillBiomes.toast.waitingForChunks"	"Waiting for chunks to load..."	"Original Translation
@@ -10704,8 +10705,8 @@ zh_TW: 迷途骷髏"	"流髑"
 zh_CN: 炽足兽
 zh_TW: 熾足獸"	"熾足獸"
 "entity.sulfur_cube.name"	"Sulfur Cube"	"Original Translation
-zh_CN: 硫磺怪
-zh_TW: 硫磺立方體"	""
+zh_CN: 硫方怪
+zh_TW: 硫磺方塊"	""
 "entity.tadpole.name"	"Tadpole"	"Original Translation
 zh_CN: 蝌蚪
 zh_TW: 蝌蚪"	"蝌蚪"
@@ -11145,8 +11146,8 @@ zh_TW: 輸入"	""
 zh_CN: 结果
 zh_TW: 結果"	""
 "furnaceScreen.tab.blocks"	"Blocks"	"Original Translation
-zh_CN: Blocks
-zh_TW: Blocks"	""
+zh_CN: 方块
+zh_TW: 方塊"	""
 "furnaceScreen.tab.food"	"Food"	"Original Translation
 zh_CN: 食物
 zh_TW: 食物"	""
@@ -11154,8 +11155,8 @@ zh_TW: 食物"	""
 zh_CN: 物品栏
 zh_TW: 物品欄"	""
 "furnaceScreen.tab.items"	"Items"	"Original Translation
-zh_CN: Items
-zh_TW: Items"	""
+zh_CN: 物品
+zh_TW: 物品"	""
 "furnaceScreen.tab.search"	"All"	"Original Translation
 zh_CN: 全部
 zh_TW: 全部"	""
@@ -11622,7 +11623,7 @@ zh_TW: 掃描加入我們的直播活動實況"	""
 zh_CN: 需要登录才能加入 Minecraft 中的活动。
 zh_TW: 您必須登入才能參加 Minecraft 中的活動。"	""
 "gathering.info.qr.title.childAccount"	"Online Play Not Allowed"	"Original Translation
-zh_CN: 禁止在线游玩
+zh_CN: 禁止线上游戏
 zh_TW: 不允許線上遊玩"	""
 "gathering.info.qr.title.console"	"Live Event Stream"	"Original Translation
 zh_CN: 现场活动直播
@@ -11753,7 +11754,9 @@ zh_TW: 無法建立該專案的複本，可能是儲存空間不足或其他問�
 "gui.editor.exportProject"	"Export Project"	"Original Translation
 zh_CN: 导出项目
 zh_TW: 匯出專案"	""
-"gui.editor.exportWorldDisabledHint"	"To export the world, enter the Project, go to File -> Export, and select ""Shareable World"" from the dropdown"	"Original Translation"	""
+"gui.editor.exportWorldDisabledHint"	"To export the world, enter the Project, go to File -> Export, and select ""Shareable World"" from the dropdown"	"Original Translation
+zh_CN: 要导出世界，请进入“项目”，转到“文件->导出”，然后从下拉列表中选择“可共享世界”
+zh_TW: 若要匯出世界，請輸入專案，請前往檔案 -> 匯出，並從下拉式選單中選擇「可分享世界」"	""
 "gui.editor.minecraftProject"	"Minecraft Project"	"Original Translation
 zh_CN: 《我的世界》项目
 zh_TW: Minecraft 專案"	""
@@ -13278,6 +13281,7 @@ zh_TW: 更新"	""
 "hbui.ConnectionErrorRoute.client.updateGameMessage"	"You will need to update your game to the latest version to access this world."	"Original Translation
 zh_CN: 你需要将游戏更新到最新版本才能访问此世界。
 zh_TW: 必須將遊戲更新至最新版本，才能進入此世界。"	""
+"hbui.ConnectionErrorRoute.client.updateGameMessageRealms"	"You will need to update your game to the latest version to play on Realms."	"Original Translation"	""
 "hbui.ConnectionErrorRoute.details.codewordDetailsHelp"	"Search help.Minecraft.net with the codeword above for more information."	"Original Translation
 zh_CN: 使用上方的密码搜索 help.Minecraft.net，以获取更多信息。
 zh_TW: 使用上方的代號搜尋 help.Minecraft.net 以獲得更多資訊。"	""
@@ -13317,6 +13321,7 @@ zh_TW: 深入了解"	""
 "hbui.ConnectionErrorRoute.standard.showDetails"	"Show details"	"Original Translation
 zh_CN: 显示详情
 zh_TW: 顯示詳細資訊"	""
+"hbui.ConnectionErrorRoute.standard.tryReconnect"	"Reconnect"	"Original Translation"	""
 "hbui.ControllerSpecificButtonNarration.Gamepad.A.KEYBOARD"	"Press A"	"Original Translation
 zh_CN: 按下 “A”
 zh_TW: 按下 A"	""
@@ -15829,7 +15834,7 @@ zh_TW: 選項"	""
 zh_CN: 已禁用
 zh_TW: 已停用"	""
 "hbui.DropdownItem.elementType"	"item"	"Original Translation
-zh_CN: 物品
+zh_CN: 项目
 zh_TW: 物品"	""
 "hbui.DropdownItem.narrationComponentType"	"Option"	"Original Translation
 zh_CN: 选项
@@ -15839,9 +15844,9 @@ zh_CN: 选择
 zh_TW: 選取"	""
 "hbui.DropdownItem.selected"	"selected"	"Original Translation
 zh_CN: 已选择
-zh_TW: 已選取"	""
+zh_TW: 已選擇"	""
 "hbui.DropdownItem.unselected"	"not selected"	"Original Translation
-zh_CN: 未选择
+zh_CN: 未当选
 zh_TW: 未選擇"	""
 "hbui.EditRealmWorld.ConfirmModals.cancel"	"Cancel"	"Original Translation
 zh_CN: 取消
@@ -16491,6 +16496,15 @@ zh_TW: 全部儲存並關閉"	""
 "hbui.EditorConflictMessagesPopup.unsavedChanges"	"You have unsaved changes.[~*newLine~]You can Save or Restore them all, or Cancel to continue making changes."	"Original Translation
 zh_CN: 你有未保存的更改。[~*newLine~]你可以选择“保存”或“恢复全部”，也可选择“取消”以继续修改。
 zh_TW: 你有未儲存的變更。[~*newLine~]你可以「全部儲存」或「全部復原」，或按一下「取消」以繼續變更。"	""
+"hbui.EditorControlHelp.binding.unset"	"[Unset]"	"Original Translation"	""
+"hbui.EditorControlHelp.globalProjectShortcuts"	"Global Project Shortcuts"	"Original Translation"	""
+"hbui.EditorControlHelp.narration.binding"	"%1$s executes %2$s"	"Original Translation"	""
+"hbui.EditorControlHelp.narration.bindingUnset"	"%1$s has no key assigned"	"Original Translation"	""
+"hbui.EditorControlHelp.narration.openKeyboardSettings"	"Open keyboard settings"	"Original Translation"	""
+"hbui.EditorControlHelp.panelTitle"	"Control Help"	"Original Translation"	""
+"hbui.EditorControlHelp.toolControls.title"	"%s Controls"	"Original Translation"	""
+"hbui.EditorControlHelp.toolPane.empty"	"No tool-specific shortcuts available."	"Original Translation"	""
+"hbui.EditorControlHelp.universalControls.title"	"Universal Controls"	"Original Translation"	""
 "hbui.EditorCrosshairMode.toast.modeSwitch"	"ESC or %1 to go back to Tool Mode"	"Original Translation
 zh_CN: ESC 或%1返回工具模式
 zh_TW: ESC鍵或%1返回工具模式"	""
@@ -17700,6 +17714,11 @@ zh_TW: 切換按鈕"	""
 "hbui.EditorStructurePanel.totalBlocksLabel"	"Total Blocks"	"Original Translation
 zh_CN: 区块总数
 zh_TW: 總方塊數"	""
+"hbui.EditorStructurePanel.updateFromClipboardModal.button.cancel"	"Cancel"	"Original Translation"	""
+"hbui.EditorStructurePanel.updateFromClipboardModal.button.confirm"	"Replace"	"Original Translation"	""
+"hbui.EditorStructurePanel.updateFromClipboardModal.message"	"Are you sure you want to replace ""%1$s"" content with the current clipboard contents?"	"Original Translation"	""
+"hbui.EditorStructurePanel.updateFromClipboardModal.title"	"Update from Clipboard?"	"Original Translation"	""
+"hbui.EditorStructurePanel.updateFromClipboardModal.warning"	"This will overwrite the existing structure data and can't be undone."	"Original Translation"	""
 "hbui.EditorStructurePanel.windowTitle"	"Structures"	"Original Translation
 zh_CN: 建筑
 zh_TW: 結構"	""
@@ -17727,6 +17746,9 @@ zh_TW: 選擇"	""
 "hbui.EditorTab.selected"	"selected"	"Original Translation
 zh_CN: 已选择
 zh_TW: 已選擇"	""
+"hbui.EditorTabContainer.menu"	"Menu"	"Original Translation"	""
+"hbui.EditorTabContainer.nextPage"	"Next Page"	"Original Translation"	""
+"hbui.EditorTabContainer.prevPage"	"Previous Page"	"Original Translation"	""
 "hbui.EditorTagContainer.addNewTag"	"Add new tag..."	"Original Translation
 zh_CN: 添加新标签...
 zh_TW: 新增標籤…"	""
@@ -18288,6 +18310,8 @@ zh_TW: 開啟"	""
 "hbui.FriendRequests.label"	"Friend requests"	"Original Translation
 zh_CN: 好友申请
 zh_TW: 好友邀請"	""
+"hbui.FriendRequests.narration.pendingCountMultiple"	"%1$s requests pending"	"Original Translation"	""
+"hbui.FriendRequests.narration.pendingCountSingular"	"%1$s request pending"	"Original Translation"	""
 "hbui.FriendsDrawer.AddFriendsOnlineSafety.helpButton"	"Learn more"	"Original Translation
 zh_CN: 了解更多
 zh_TW: 深入了解"	""
@@ -18439,7 +18463,7 @@ zh_TW: 邀請"	""
 zh_CN: 第 %1$s 条信息，共 %2$s 条
 zh_TW: 第 %1$s/%2$s 個訊息"	""
 "hbui.InboxListItem.narration.news"	"News"	"Original Translation
-zh_CN: 消息
+zh_CN: 新闻
 zh_TW: 最新消息"	""
 "hbui.InboxListItem.narration.postedBy"	"Posted by %1$s"	"Original Translation
 zh_CN: 发布者：%1$s
@@ -18688,7 +18712,7 @@ zh_TW: 發生未知的錯誤，請稍後再試。"	""
 zh_CN: 以及更多...
 zh_TW: 以及更多……"	""
 "hbui.InboxRoute.news"	"News"	"Original Translation
-zh_CN: 消息
+zh_CN: 新闻
 zh_TW: 最新消息"	""
 "hbui.InboxRoute.purchaseHistory"	"Purchase history"	"Original Translation
 zh_CN: 购买历史记录
@@ -19602,12 +19626,13 @@ zh_TW: 您尚未連線至網際網路。上網後即可讓朋友加入您的多�
 "hbui.Notifications.multiplayerWarnings.multiplayerPrivilegesBlocked"	"You cannot play online multiplayer because of how your Microsoft account is set up. Please ensure your online safety settings allow multiplayer. See instructions for changing these settings at aka.ms/MCMultiplayerHelp."	"Original Translation
 zh_CN: 由于您 Microsoft 账号的设置问题，您无法进行在线多人游戏。请确保您的在线安全设置允许多人游戏。请前往 aka.ms/MCMultiplayerHelp 查看如何更改这些设置。
 zh_TW: 由於你的 Microsoft 帳戶設定方式，你無法遊玩線上多人遊戲。請確保你的線上安全設定允許多人遊戲。請參閱 aka.ms/MCMultiplayerHelp，了解變更這些設定的說明。"	""
-"hbui.Notifications.multiplayerWarnings.multiplayerPrivilegesBlockedOnConsole"	"You cannot play online multiplayer because of how your Microsoft account is set up. Please ensure your online safety settings allow multiplayer and Clubs, and that you have an active Xbox Game Pass subscription. See instructions for changing these settings at aka.ms/MCMultiplayerHelp."	"Original Translation
+"hbui.Notifications.multiplayerWarnings.multiplayerPrivilegesBlockedOnConsole"	"You cannot play online multiplayer because of how your Microsoft account is set up. Please ensure your online safety settings allow multiplayer, and that you have an active Xbox Game Pass subscription. See instructions for changing these settings at aka.ms/MCMultiplayerHelp."	"Original Translation
 zh_CN: 由于你 Microsoft 账号的设置问题，你无法进行在线多人游戏。请确保你的在线安全设置允许多人游戏。请前往 aka.ms/MCMultiplayerHelp 查看如何更改这些设置。
 zh_TW: 由於您的 Microsoft 帳戶設定方式，您無法遊玩線上多人遊戲。請確保您的線上安全設定允許多人遊戲和俱樂部，並擁有啟用中的 Xbox Game Pass 定期服務。請參閱 aka.ms/MCMultiplayerHelp，了解變更這些設定的說明。"	""
 "hbui.Notifications.multiplayerWarnings.nintendoLocalMultiplayerPrivilegesBlockedThirdParty"	"You cannot play local multiplayer because of a parental control restriction. View and manage your multiplayer settings with 'Communicating with others' in the parental controls."	"Original Translation
 zh_CN: 由于家长控制的限制，你无法进行本地多人游戏。使用家长控制中的“与他人交流”查看并管理你的多人游戏设置。
 zh_TW: 由於「家長監護設定」限制，你無法遊玩單機多人遊戲。請在「家長監護設定」中的「與他人交流」來檢視和管理你的多人遊戲設定。"	""
+"hbui.Notifications.multiplayerWarnings.nintendoMultiplayerPrivilegesBlockedOnConsole"	"You need a Nintendo Switch Online membership to play on multiplayer worlds."	"Original Translation"	""
 "hbui.Notifications.multiplayerWarnings.nintendoMultiplayerPrivilegesBlockedThirdParty"	"You cannot play local multiplayer because of a parental control restriction. View and manage your multiplayer settings with 'Communicating with others' in the parental controls."	"Original Translation
 zh_CN: 由于家长控制的限制，你无法进行本地多人游戏。使用家长控制中的“与他人交流”查看并管理你的多人游戏设置。
 zh_TW: 由於「家長監護設定」限制，你無法遊玩單機多人遊戲。請在「家長監護設定」中的「與他人交流」來查看和管理你的多人遊戲設定。"	""
@@ -19617,6 +19642,7 @@ zh_TW: 您目前的外觀無法用於跨平台多人遊戲。"	""
 "hbui.Notifications.multiplayerWarnings.playstationCrossPlatformDisabled"	"Enable cross-platform play in the profile section of the settings menu to play with friends on other platforms."	"Original Translation
 zh_CN: 在设置菜单的文件部分启用跨平台游戏以与其他平台上的朋友一起游戏。
 zh_TW: 在設定選單的設定檔部分中啟用跨平台遊戲，就可與其他平台的好友一起玩遊戲。"	""
+"hbui.Notifications.multiplayerWarnings.playstationMultiplayerPrivilegesBlockedOnConsole"	"Online features unavailable."	"Original Translation"	""
 "hbui.Notifications.multiplayerWarnings.playstationMultiplayerPrivilegesBlockedThirdParty"	"You cannot play local multiplayer because of a parental control restriction. View and manage your multiplayer settings with 'Communicating with others' in the parental controls."	"Original Translation
 zh_CN: 由于家长控制的限制，你无法进行本地多人游戏。使用家长控制中的“与他人交流”查看并管理你的多人游戏设置。
 zh_TW: 由於「家長監護設定」限制，你無法遊玩單機多人遊戲。請在「家長監護設定」中的「與他人交流」來查看和管理你的多人遊戲設定。"	""
@@ -20598,6 +20624,7 @@ zh_TW: 離開 Realm 中"	""
 "hbui.PlayScreen.realmsTab.narration.buttonSiblings"	"%1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
 zh_TW: %1$s/%2$s"	""
+"hbui.PlayScreen.realmsTab.narration.disabled"	"Disabled"	"Original Translation"	""
 "hbui.PlayScreen.realmsTab.narration.playersOnline"	"%1$s of %2$s players online"	"Original Translation
 zh_CN: 在线玩家：%1$s/%2$s
 zh_TW: 線上人數：%1$s / %2$s"	""
@@ -20613,7 +20640,7 @@ zh_TW: 小組"	""
 "hbui.PlayScreen.realmsTab.narration.realmInformation.hint"	"Navigate down for more information on the Realm"	"Original Translation
 zh_CN: 向下滚动可获得更多关于 Realm 的信息
 zh_TW: 向下捲動以查看更多 Realm 資訊"	""
-"hbui.PlayScreen.realmsTab.narration.realmInformation.panel"	"%1$s information"	"Original Translation
+"hbui.PlayScreen.realmsTab.narration.realmInformation.panel"	"About %1$s"	"Original Translation
 zh_CN: %1$s 信息
 zh_TW: %1$s 資訊"	""
 "hbui.PlayScreen.realmsTab.narration.realmInformation.role"	"Description"	"Original Translation
@@ -20670,6 +20697,12 @@ zh_TW: 離開 Realm"	""
 "hbui.PlayScreen.realmsTab.realmsLeaveRealmModal.title"	"Leave the Realm"	"Original Translation
 zh_CN: 离开 Realm
 zh_TW: 離開 Realm"	""
+"hbui.PlayScreen.realmsTab.realmsServerMode.button.hint"	"Press to learn more about the current server mode"	"Original Translation"	""
+"hbui.PlayScreen.realmsTab.realmsServerMode.button.main"	"Play and Editor mode information"	"Original Translation"	""
+"hbui.PlayScreen.realmsTab.realmsServerMode.button.role"	"Button"	"Original Translation"	""
+"hbui.PlayScreen.realmsTab.realmsServerMode.editorOnly"	"Editor only mode"	"Original Translation"	""
+"hbui.PlayScreen.realmsTab.realmsServerMode.playAndEditor"	"Play and Editor mode"	"Original Translation"	""
+"hbui.PlayScreen.realmsTab.realmsServerMode.playOnly"	"Play only mode"	"Original Translation"	""
 "hbui.PlayScreen.realmsTab.realmsStories"	"Stories"	"Original Translation
 zh_CN: 故事
 zh_TW: 故事"	""
@@ -20727,6 +20760,7 @@ zh_TW: 缺少訂閱 ID"	""
 "hbui.PlayScreen.realmsTab.renewRealmsMissingSubscriptionIdModal.tryAgain"	"Try again"	"Original Translation
 zh_CN: 再次尝试
 zh_TW: 再試一次"	""
+"hbui.PlayScreen.realmsTab.select"	"Select"	"Original Translation"	""
 "hbui.PlayScreen.realmsTab.settings"	"Settings"	"Original Translation
 zh_CN: 设置
 zh_TW: 設定"	""
@@ -20877,6 +20911,7 @@ zh_TW: 位址不能為空白"	""
 "hbui.PlayScreen.serverTab.addServerError.closeButton"	"Close"	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"	""
+"hbui.PlayScreen.serverTab.addServerError.duplicateAddressAndPortError"	"A server with this address and port has already been added."	"Original Translation"	""
 "hbui.PlayScreen.serverTab.addServerError.genericError"	"Please try again later. Error code: U-000"	"Original Translation
 zh_CN: 请稍后再试。错误代码：U-000
 zh_TW: 請稍後再試。錯誤代碼：U-000"	""
@@ -20986,7 +21021,7 @@ zh_TW: %1$s 畫面"	""
 zh_CN: 服务器活动
 zh_TW: 伺服器活動"	""
 "hbui.PlayScreen.serverTab.newsTitle"	"News"	"Original Translation
-zh_CN: 消息
+zh_CN: 新闻
 zh_TW: 最新消息"	""
 "hbui.PlayScreen.serverTab.noInternetMessage"	"Please check your internet connection to play on Servers."	"Original Translation
 zh_CN: 请检查您的互联网连接，以在服务器上玩游戏。
@@ -21588,12 +21623,9 @@ zh_TW: 此玩家已加入您的派對"	""
 "hbui.PlayerListItem.narration.playerProfileHint"	"Press to access player profile"	"Original Translation
 zh_CN: 按下以访问玩家档案
 zh_TW: 按下以存取玩家個人檔案"	""
-"hbui.PlayerListItem.narration.receivedRequest"	"This player sent you a request"	"Original Translation
-zh_CN: 该玩家向你发送了请求
-zh_TW: 此玩家向您傳送了請求"	""
-"hbui.PlayerListItem.narration.sentRequest"	"You sent a request to this player"	"Original Translation
-zh_CN: 你向该玩家发送了请求
-zh_TW: 您已向此玩家傳送請求"	""
+"hbui.PlayerListItem.narration.requestAccepted"	"You accepted a request from this player"	"Original Translation"	""
+"hbui.PlayerListItem.narration.requestCanceled"	"You canceled a request you sent to this player"	"Original Translation"	""
+"hbui.PlayerListItem.narration.requestDeleted"	"You deleted a request from this player"	"Original Translation"	""
 "hbui.PlayerListItem.offline"	"Offline"	"Original Translation
 zh_CN: 离线
 zh_TW: 離線"	""
@@ -21957,6 +21989,28 @@ zh_TW: 你沒有存取限時動態的權限。請前往「線上安全」，並�
 "hbui.PostToRealmStoriesRoute.youNeedPermission.title"	"Access denied"	"Original Translation
 zh_CN: 访问被拒绝
 zh_TW: 存取遭拒"	""
+"hbui.PreStartScreen.autoSave.body"	"Autosave"	"Original Translation"	""
+"hbui.PreStartScreen.autoSave.captionLong"	"When you see this icon, we are saving your game. Do not turn off your device while this icon is on screen."	"Original Translation"	""
+"hbui.PreStartScreen.autoSave.continueButton"	"Continue"	"Original Translation"	""
+"hbui.PreStartScreen.autoSave.continueInputLegend"	"Proceed"	"Original Translation"	""
+"hbui.PreStartScreen.screenSize.buttons.enumeration"	"%1$s of %2$s"	"Original Translation"	""
+"hbui.PreStartScreen.screenSize.confirmButton"	"Confirm"	"Original Translation"	""
+"hbui.PreStartScreen.screenSize.confirmInputLegend"	"Confirm"	"Original Translation"	""
+"hbui.PreStartScreen.screenSize.description"	"Make sure the game looks great on your device's screen"	"Original Translation"	""
+"hbui.PreStartScreen.screenSize.resetButton"	"Reset"	"Original Translation"	""
+"hbui.PreStartScreen.screenSize.resetInputLegend"	"Reset"	"Original Translation"	""
+"hbui.PreStartScreen.screenSize.sliderLabel"	"Safe Area"	"Original Translation"	""
+"hbui.PreStartScreen.ttsError.body"	"Something went wrong"	"Original Translation"	""
+"hbui.PreStartScreen.ttsError.captionLong"	"Text to speech couldn't be enabled."	"Original Translation"	""
+"hbui.PreStartScreen.ttsError.okayButton"	"Okay"	"Original Translation"	""
+"hbui.PreStartScreen.ttsError.okayInputLegend"	"Proceed"	"Original Translation"	""
+"hbui.PreStartScreen.ttsSettings.body"	"Turn off screen reader?"	"Original Translation"	""
+"hbui.PreStartScreen.ttsSettings.captionLong"	"We see that you are using a screen reader on your system, so we have activated it in Minecraft for you automatically. Would you like to turn it off?"	"Original Translation"	""
+"hbui.PreStartScreen.ttsSettings.captionWelcome"	"Welcome to Minecraft!"	"Original Translation"	""
+"hbui.PreStartScreen.ttsSettings.leaveOnButton"	"Leave on"	"Original Translation"	""
+"hbui.PreStartScreen.ttsSettings.leaveOnInputLegend"	"Proceed"	"Original Translation"	""
+"hbui.PreStartScreen.ttsSettings.turnOffButton"	"Turn off"	"Original Translation"	""
+"hbui.PreStartScreen.ttsSettings.turnOffInputLegend"	"Turn off"	"Original Translation"	""
 "hbui.PrivacyAndOnlineSafetyModal.buttonAction"	"Open Realms safety website"	"Original Translation
 zh_CN: 打开 Realms 安全网站
 zh_TW: 開啟 Realms 安全性網站"	""
@@ -22212,6 +22266,8 @@ zh_TW: 選取"	""
 "hbui.RadioBox.selected"	"selected"	"Original Translation
 zh_CN: 已选择
 zh_TW: 已選擇"	""
+"hbui.RealmInformation.incompatibleDeviceInfo"	"Editor is available on Windows devices"	"Original Translation"	""
+"hbui.RealmInformation.incompatibleRoleInfo"	"Your role is not compatible with Editor."	"Original Translation"	""
 "hbui.RealmInformation.launchInEditor"	"Launch in Editor"	"Original Translation
 zh_CN: 在编辑器中启动
 zh_TW: 以編輯器啟動"	""
@@ -22425,6 +22481,21 @@ zh_TW: 時間線"	""
 "hbui.Realms.RealmsHub.RealmNav.World"	"World"	"Original Translation
 zh_CN: 世界
 zh_TW: 世界"	""
+"hbui.Realms.RealmsHub.SavesScreen.CancelDownloadConfirmModal.back"	"Back"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.CancelDownloadConfirmModal.confirm"	"Cancel download"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.CancelDownloadConfirmModal.message"	"Download progress will be lost. Do you want to cancel anyways?"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.CancelDownloadConfirmModal.title"	"Cancel download?"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.DeleteConfirmModal.cancel"	"Cancel"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.DeleteConfirmModal.confirm"	"Delete"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.DeleteConfirmModal.message"	"Are you sure you want to delete this save file? This action cannot be undone."	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.DeleteConfirmModal.title"	"Delete confirmation"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.DownloadModal.cancel"	"Cancel"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.DownloadModal.message"	"Downloading save file to your device."	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.DownloadModal.title"	"Downloading"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.InsufficientStorage.cancel"	"Cancel"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.InsufficientStorage.message"	"Saving this world requires %1$s. You will need to delete or overwrite one or more existing saves before proceeding. Make sure to download a copy first if you want to keep your old saves forever."	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.InsufficientStorage.overwrite"	"Overwrite save"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.InsufficientStorage.title"	"Insufficient storage space"	"Original Translation"	""
 "hbui.Realms.RealmsHub.SavesScreen.OptionsMenu.delete"	"Delete"	"Original Translation
 zh_CN: 删除
 zh_TW: 刪除"	""
@@ -22443,6 +22514,18 @@ zh_TW: 儲存至 Realm 儲存空間 (%1$s)"	""
 "hbui.Realms.RealmsHub.SavesScreen.OptionsMenu.title"	"Options"	"Original Translation
 zh_CN: 选项
 zh_TW: 選項"	""
+"hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.cancel"	"Cancel"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.confirm.message.plural"	"Are you sure you want to overwrite the selected %1$s save files? This action cannot be undone."	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.confirm.message.single"	"Are you sure you want to overwrite the selected save file? This action cannot be undone."	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.confirm.overwrite"	"Overwrite"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.confirm.title.plural"	"Overwrite %1$s saves?"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.confirm.title.single"	"Overwrite save?"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.header"	"%1$s storage"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.needed"	"needed"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.overwriteCount.plural"	"Overwrite %1$s saves"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.overwriteCount.single"	"Overwrite %1$s save"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.selected"	"selected"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.successSnackbar"	"Saved to Realm storage"	"Original Translation"	""
 "hbui.Realms.RealmsHub.SavesScreen.RenameModal.cancel"	"Cancel"	"Original Translation
 zh_CN: 取消
 zh_TW: 取消"	""
@@ -22452,12 +22535,21 @@ zh_TW: 確認"	""
 "hbui.Realms.RealmsHub.SavesScreen.RenameModal.title"	"Rename save"	"Original Translation
 zh_CN: 重命名存档
 zh_TW: 重新命名存檔"	""
+"hbui.Realms.RealmsHub.SavesScreen.RestoreConfirmModal.automaticConfirm"	"Replace Realm with save file"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.RestoreConfirmModal.automaticMessage"	"By replacing your Realm with this save file, your current world will be saved as a backup. The Realm will restart and all active players will need to reconnect."	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.RestoreConfirmModal.automaticTitle"	"Replace Realm with Save file"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.RestoreConfirmModal.cancel"	"Cancel"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.RestoreConfirmModal.confirm"	"Restore"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.RestoreConfirmModal.disconnectWarning"	"Anyone playing will be temporarily disconnected."	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.RestoreConfirmModal.manualMessage"	"This will remove your Realm's active world and replace it with the selected save."	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.RestoreConfirmModal.manualTitle"	"Restore from save?"	"Original Translation"	""
 "hbui.Realms.RealmsHub.SavesScreen.SaveListItem.behaviorPacks"	"Behavior packs"	"Original Translation
 zh_CN: 行为包
 zh_TW: 行為套件"	""
 "hbui.Realms.RealmsHub.SavesScreen.SaveListItem.collapseInputLegend"	"Collapse"	"Original Translation
 zh_CN: 折叠
 zh_TW: 收合"	""
+"hbui.Realms.RealmsHub.SavesScreen.SaveListItem.creative"	"Creative"	"Original Translation"	""
 "hbui.Realms.RealmsHub.SavesScreen.SaveListItem.expandInputLegend"	"Expand"	"Original Translation
 zh_CN: 展开
 zh_TW: 展開"	""
@@ -22479,15 +22571,19 @@ zh_TW: 開啟選項功能表"	""
 "hbui.Realms.RealmsHub.SavesScreen.SaveListItem.resourcePacks"	"Resource packs"	"Original Translation
 zh_CN: 资源包
 zh_TW: 資源包"	""
+"hbui.Realms.RealmsHub.SavesScreen.SaveListItem.survival"	"Survival"	"Original Translation"	""
 "hbui.Realms.RealmsHub.SavesScreen.SaveListItem.version"	"Version %1$s"	"Original Translation
 zh_CN: 版本：%1$s
 zh_TW: 版本 %1$s"	""
+"hbui.Realms.RealmsHub.SavesScreen.activeWorldExceedsStorage"	"Active world size exceeds storage limit. Saving will require overwriting one or more existing saves."	"Original Translation"	""
 "hbui.Realms.RealmsHub.SavesScreen.automaticSaves"	"Automatic"	"Original Translation
 zh_CN: 自动
 zh_TW: 自動"	""
 "hbui.Realms.RealmsHub.SavesScreen.automaticSavesDescription"	"Worlds auto-save every 30 minutes during play and at the end of a session; older saves will expire."	"Original Translation
 zh_CN: 在游玩期间每 30 分钟以及游戏结束时，世界会自动存档；旧存档将会过期。
 zh_TW: 遊玩期間每 30 分鐘及遊戲階段結束時，世界就會自動存檔；較舊的存檔將會失效。"	""
+"hbui.Realms.RealmsHub.SavesScreen.defaultWorldName"	"My World"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.full"	"Full"	"Original Translation"	""
 "hbui.Realms.RealmsHub.SavesScreen.learnMore"	"Learn more"	"Original Translation
 zh_CN: 了解更多
 zh_TW: 深入了解"	""
@@ -22503,21 +22599,21 @@ zh_TW: 手動"	""
 "hbui.Realms.RealmsHub.SavesScreen.manualSavesDescription"	"Manual saves count towards the total storage space we allocate for your Realm."	"Original Translation
 zh_CN: 手动存档将计入我们为你分配的 Realm 总存储空间。
 zh_TW: 手動存檔會計入我們為 Realm 配置的總儲存空間。"	""
+"hbui.Realms.RealmsHub.SavesScreen.noSavesFound"	"No saves found"	"Original Translation"	""
+"hbui.Realms.RealmsHub.SavesScreen.realmReplacedSnackbar"	"Realm replaced"	"Original Translation"	""
 "hbui.Realms.RealmsHub.SavesScreen.realmStorage"	"Realm storage"	"Original Translation
 zh_CN: Realm 存储
 zh_TW: Realm 儲存空間"	""
-"hbui.Realms.RealmsHub.SavesScreen.realmStorageInCloud"	"Realm storage is kept in the cloud."	"Original Translation
-zh_CN: Realm 存储在云端。
-zh_TW: Realm 儲存空間保存在雲端。"	""
 "hbui.Realms.RealmsHub.SavesScreen.restoreActiveWorld"	"Restore your Realm's active world using a save from the list."	"Original Translation
 zh_CN: 用列表中的存档恢复你 Realm 的活跃世界。
 zh_TW: 使用清單中的存檔還原 Realm 正在使用的世界。"	""
-"hbui.Realms.RealmsHub.SavesScreen.saveActiveWorld"	"Save active world (%1$s - %2$s)"	"Original Translation
+"hbui.Realms.RealmsHub.SavesScreen.saveActiveWorld"	"Save active world (%1$s)"	"Original Translation
 zh_CN: 保存启用的世界 (%1$s - %2$s)
 zh_TW: 儲存使用中的世界 (%1$s - %2$s)"	""
 "hbui.Realms.RealmsHub.SavesScreen.saveActiveWorldInputLegend"	"Save active world"	"Original Translation
 zh_CN: 保存启用的世界
 zh_TW: 儲存目前世界"	""
+"hbui.Realms.RealmsHub.SavesScreen.saveDownloadedSnackbar"	"Save downloaded"	"Original Translation"	""
 "hbui.Realms.RealmsHub.SavesScreen.savesTabsNarrationTitle"	"Saves"	"Original Translation
 zh_CN: 存档
 zh_TW: 存檔"	""
@@ -24054,9 +24150,9 @@ zh_TW: 返回"	""
 "hbui.RealmsPurchaseSubscriptionRoute.errorModals.memberOfTooManyRealms.title"	"Too many memberships"	"Original Translation
 zh_CN: 成员身份过多
 zh_TW: 過多成員資格"	""
-"hbui.RealmsPurchaseSubscriptionRoute.errorModals.noAccess.body"	"You do not have access to Realms in pre-production. To get access, reach out in"	"Original Translation
-zh_CN: 你无法访问前期制作版的 Realms。若想获得访问权限，请用
-zh_TW: 你無權存取前期製作的 Realms。若要獲得存取權限，請聯絡"	""
+"hbui.RealmsPurchaseSubscriptionRoute.errorModals.noAccess.body"	"You do not have access to Realms in pre-production. To get access, reach out in #ask-realms-preprod-access or see the guide at aka.ms/Realms-preprod-access."	"Original Translation
+zh_CN: 你无法访问前期制作版的 Realms。若想获得访问权限，请用 #ask-realms-preprod-access 进行联系或者在 aka.ms/Realms-preprod-access 查看指南。
+zh_TW: 你無權存取前期製作的 Realms。若要獲得存取權限，請聯絡 #ask-realms-preprod-access 或參閱 aka.ms/Realms-preprod-access 上的說明。"	""
 "hbui.RealmsPurchaseSubscriptionRoute.errorModals.noAccess.title"	"Error"	"Original Translation
 zh_CN: 错误
 zh_TW: 錯誤"	""
@@ -24201,6 +24297,11 @@ zh_TW: 儲存"	""
 "hbui.RealmsSaveChangesModal.title"	"Do you want to save your changes?"	"Original Translation
 zh_CN: 是否要保存更改？
 zh_TW: 是否要儲存變更？"	""
+"hbui.RealmsServerModeInfoModal.body.line1"	"Play and Edit: Everyone can play, Admins on Windows devices can launch in Editor."	"Original Translation"	""
+"hbui.RealmsServerModeInfoModal.body.line2"	"Play only: Everyone can play, Editor is disabled."	"Original Translation"	""
+"hbui.RealmsServerModeInfoModal.body.line3"	"Editor only: Play is disabled, Admins on Windows devices can launch Editor."	"Original Translation"	""
+"hbui.RealmsServerModeInfoModal.close"	"Close"	"Original Translation"	""
+"hbui.RealmsServerModeInfoModal.title"	"Server modes"	"Original Translation"	""
 "hbui.RealmsStories.CommentsScreen.back"	"Back"	"Original Translation
 zh_CN: 返回
 zh_TW: 返回"	""
@@ -29848,8 +29949,8 @@ zh_TW: 你可以和最多 10 位好友隨時進入永遠上線的世界，一起
 zh_CN: 只需付费订阅 Realms 即可体验。不妨先来试试免费的 30 天试用版？
 zh_TW: 你只需要 Realms 付費訂閱。何不試試 30 天免費試用版呢？"	""
 "howtoplay.playingTogether.text.8.nx"	"All you need is a paid Realms subscription. Why not try a free 28-day trial?"	"Original Translation
-zh_CN: All you need is a paid Realms subscription. Why not try a free 28-day trial?
-zh_TW: All you need is a paid Realms subscription. Why not try a free 28-day trial?"	""
+zh_CN: 只需付费订阅 Realms 即可体验。不妨先来试试免费的 28 天试用版？
+zh_TW: 你只需要 Realms 付費訂閱。何不試試 28 天免費試用版呢？"	""
 "howtoplay.playingTogether.text.9"	"You decide what people can do in your world by changing §eplayer permissions§f."	"Original Translation
 zh_CN: 在你的世界中，你可以通过更改§e玩家权限§f对玩家行为作出限制。
 zh_TW: 你可以透過變更§e玩家權限§f來決定每個人在你的世界中可以做什麼。"	""
@@ -33301,8 +33402,8 @@ zh_TW: 鮭魚桶"	"鮭魚桶"
 zh_CN: 包含：
 zh_TW: 包含："	""
 "item.bucketSulfurCube.name"	"Bucket of Sulfur Cube"	"Original Translation
-zh_CN: 硫磺怪桶
-zh_TW: 硫磺立方體桶"	""
+zh_CN: 硫方怪桶
+zh_TW: 硫磺方塊桶"	""
 "item.bucketTadpole.name"	"Bucket of Tadpole"	"Original Translation
 zh_CN: 蝌蚪桶
 zh_TW: 蝌蚪桶"	"蝌蚪桶"
@@ -35131,8 +35232,8 @@ zh_TW: 迷途骷髏生成蛋"	"流髑生怪蛋"
 zh_CN: 炽足兽生成蛋
 zh_TW: 熾足獸生成蛋"	"熾足獸生怪蛋"
 "item.spawn_egg.entity.sulfur_cube.name"	"Sulfur Cube Spawn Egg"	"Original Translation
-zh_CN: 硫磺怪生成蛋
-zh_TW: 硫磺立方體生成蛋"	""
+zh_CN: 硫方怪生成蛋
+zh_TW: 硫磺方塊生成蛋"	""
 "item.spawn_egg.entity.tadpole.name"	"Tadpole Spawn Egg"	"Original Translation
 zh_CN: 蝌蚪生成蛋
 zh_TW: 蝌蚪生成蛋"	"蝌蚪生怪蛋"
@@ -35935,8 +36036,8 @@ zh_TW: 連接至加入代碼服務時發生問題。請再試一次。"	""
 zh_CN: 加入代码目前不可用。请求你的主机提供其连接 IP 以供你加入其游戏。
 zh_TW: 目前無法使用加入代碼。請向你的主持人要求連線 ID 來加入遊戲。"	""
 "joincode.error.message.outdated_server"	"The host is using an older version of Minecraft. Everyone should update to the latest version of Minecraft and try again."	"Original Translation
-zh_CN: The host is using an older version of Minecraft. Everyone should update to the latest version of Minecraft and try again.
-zh_TW: The host is using an older version of Minecraft. Everyone should update to the latest version of Minecraft and try again."	""
+zh_CN: 主办者使用的是较旧版本的《Minecraft》。每个人都应该更新到最新版本的《Minecraft》，然后重试。
+zh_TW: 主持人使用舊版本的 Minecraft。所有人應該更新至最新版本的 Minecraft，然後再試一次。"	""
 "joincode.error.message.service_error"	"Something went wrong. Please try again."	"Original Translation
 zh_CN: 出错了。请再试一次。
 zh_TW: 發生問題。請再試一次。"	""
@@ -37309,11 +37410,11 @@ zh_TW: 移除現有的內容記錄檔"	""
 zh_CN: 返回
 zh_TW: 返回"	""
 "menu.creator.contentLog.delete.progress.description"	"This may take a few minutes"	"Original Translation
-zh_CN: This may take a few minutes
-zh_TW: This may take a few minutes"	""
+zh_CN: 这可能需要几分钟
+zh_TW: 這可能需要幾分鐘"	""
 "menu.creator.contentLog.delete.progress.title"	"Deleting content log files"	"Original Translation
-zh_CN: Deleting content log files
-zh_TW: Deleting content log files"	""
+zh_CN: 删除内容日志文件
+zh_TW: 正在刪除內容記錄檔"	""
 "menu.creator.contentLog.delete.title"	"Delete old logs"	"Original Translation
 zh_CN: 删除旧的日志
 zh_TW: 刪除舊的記錄"	""
@@ -37363,11 +37464,11 @@ zh_TW: 刪除在 Minecraft 記錄資料夾中產生的檔案"	""
 zh_CN: 返回
 zh_TW: 返回"	""
 "menu.creator.scriptDiagnostic.delete.progress.description"	"This may take a few minutes"	"Original Translation
-zh_CN: This may take a few minutes
-zh_TW: This may take a few minutes"	""
+zh_CN: 这可能需要几分钟
+zh_TW: 這可能需要幾分鐘"	""
 "menu.creator.scriptDiagnostic.delete.progress.title"	"Deleting diagnostics and profiler captures"	"Original Translation
-zh_CN: Deleting diagnostics and profiler captures
-zh_TW: Deleting diagnostics and profiler captures"	""
+zh_CN: 删除诊断和分析器截取画面
+zh_TW: 正在刪除診斷與分析器擷取資料"	""
 "menu.creator.scriptDiagnostic.delete.title"	"Delete diagnostics and profiler captures"	"Original Translation
 zh_CN: 删除诊断和分析器截取
 zh_TW: 刪除診斷與分析器擷取內容"	""
@@ -37476,6 +37577,8 @@ zh_TW: Nintendo Properties: © Nintendo"	""
 "menu.general.tab.title"	"General"	"Original Translation
 zh_CN: 常规
 zh_TW: 一般"	""
+"menu.general.tab.tutorial.description"	"Help learning the game"	"Original Translation"	""
+"menu.general.tab.tutorial.title"	"Tutorial"	"Original Translation"	""
 "menu.generatingLevel"	"Generating World"	"Original Translation
 zh_CN: 正在生成世界
 zh_TW: 正在生成世界"	""
@@ -37785,6 +37888,8 @@ zh_TW: 視野自訂"	""
 "menu.video.group.customization.description"	"Build, stream, or take screenshots without distractions"	"Original Translation
 zh_CN: 不受干扰地构建、传输或截取截图
 zh_TW: 無干擾地建造、直播或畫面照片"	""
+"menu.video.group.general"	"General"	"Original Translation"	""
+"menu.video.group.general.description"	"Common video settings"	"Original Translation"	""
 "menu.video.group.performance"	"Graphics, performance and layout"	"Original Translation
 zh_CN: 图形、性能和布局
 zh_TW: 畫面、效能與版面配置"	""
@@ -38215,7 +38320,7 @@ zh_TW: 由於 Microsoft 帳號的設定方式，你無法進行線上多人遊�
 zh_CN: 由于您 Microsoft 账号的设置问题，您无法进行在线多人游戏。
 zh_TW: 由於 Microsoft 帳戶的設定方式，因此你無法進行線上多人遊戲。"	""
 "networkWorld.multiplayerPrivilegesUnknown"	"An unknown error occured which is preventing online play. Please try again later."	"Original Translation
-zh_CN: 发生了阻止在线游戏的未知错误。请稍后重试。
+zh_CN: 发生了阻止线上游戏的未知错误。请稍后重试。
 zh_TW: 發生未知錯誤，導致無法線上遊玩。請稍後再試。"	""
 "networkWorld.news"	"News:"	"Original Translation
 zh_CN: 新闻：
@@ -38419,7 +38524,7 @@ zh_TW: 在線上遊玩期間，您可能會接觸到聊天訊息或其他由使�
 zh_CN: 在线编辑未分级
 zh_TW: 線上遊玩未分級"	""
 "onlinePlay.message"	"During online play you might see chat messages or other user generated content that might not be suitable for all ages."	"Original Translation
-zh_CN: 在线玩游戏时，你可能会看到一些聊天消息或其他用户生成的内容，而这些内容可能并不适合所有年龄段。
+zh_CN: 线上游戏时，你可能会看到一些聊天消息或其他用户生成的内容，而这些内容可能并不适合所有年龄段。
 zh_TW: 線上遊玩期間，您可能會看到不適合所有年齡層的聊天訊息或其他玩家產生的內容。"	""
 "onlinePlay.notRated"	"Online play is not rated"	"Original Translation
 zh_CN: 线上游戏未分级
@@ -39579,6 +39684,7 @@ zh_TW: 以 ZIP 壓縮檔案形式匯入套件"	""
 "options.dev_loadOverrideDate"	"Load Override Date At Launch"	"Original Translation
 zh_CN: 在午餐时加载替代日期时间
 zh_TW: 啟動時載入覆寫日期"	""
+"options.dev_loadUnitTestAutocomplete"	"Load Unit Test Command Autocomplete"	"Original Translation"	""
 "options.dev_multithreadedRendering"	"Enable multithreaded rendering"	"Original Translation
 zh_CN: 启用多线程渲染
 zh_TW: 啟用多執行緒轉譯"	""
@@ -39609,6 +39715,7 @@ zh_TW: 使用新剔除器"	""
 "options.dev_newParticleSystem"	"Enable New Particle System"	"Original Translation
 zh_CN: 启用新粒子系统
 zh_TW: 啟用新顆粒系統"	""
+"options.dev_openDevConsoleOnAppLaunch"	"Open Dev Console Automatically On App Launch"	"Original Translation"	""
 "options.dev_overrideDateDay"	"Day"	"Original Translation
 zh_CN: 日
 zh_TW: 日"	""
@@ -40077,6 +40184,7 @@ zh_TW: 我們很想聽聽您對這個新設計的看法。請注意，此功能�
 "options.feedback.title"	"Welcome to design preview!"	"Original Translation
 zh_CN: 欢迎观看设计预览！
 zh_TW: 歡迎來到設計預覽！"	""
+"options.fileLocation.title.name"	"File storage location"	"Original Translation"	""
 "options.filelocation.appdata"	"Application"	"Original Translation
 zh_CN: 应用程序
 zh_TW: 應用"	""
@@ -41163,6 +41271,7 @@ zh_TW: 重新啟動"	""
 "options.restartTutorial.description"	"Restarts the tutorial in case you missed something"	"Original Translation
 zh_CN: 重新启动教程，以防万一错过某些内容
 zh_TW: 重新開始教學，以免你錯過任何內容"	""
+"options.restartTutorial.notification"	"Tutorial has been reset"	"Original Translation"	""
 "options.safeZone"	"Safe Area"	"Original Translation
 zh_CN: 安全区
 zh_TW: 安全區"	""
@@ -41572,7 +41681,7 @@ zh_TW: A/B 按鈕交換"	""
 zh_CN: X/Y 键切换
 zh_TW: X/Y 按鈕交換"	""
 "options.swapGamepadXY.description"	"Reverses the functions of the X and Y buttons"	"Original Translation
-zh_CN: 交换按钮 X 和按钮 Y 的功能
+zh_CN: 交换 X 键和 Y 键的功能
 zh_TW: 反轉 X 鍵與 Y 鍵的功能"	""
 "options.swapGamepadXY.tts"	"X/Y Button Swap"	"Original Translation
 zh_CN: X/Y 键切换
@@ -41913,7 +42022,7 @@ zh_TW: 無法載入訂閱"	""
 "options.viewSubscriptions.mySubscriptions"	"My Subscriptions"	"Original Translation
 zh_CN: 我的订阅
 zh_TW: 我的訂閱"	""
-"options.viewSubscriptions.noActiveSubscriptions"	"You have no active subscriptions"	"Original Translation
+"options.viewSubscriptions.noActiveSubscriptions"	"You don't have an active Marketplace Pass subscription. Realms subscriptions can be found in the Realm hub."	"Original Translation
 zh_CN: 您没有活跃的订阅
 zh_TW: 您沒有啟用的訂閱"	""
 "options.viewSubscriptions.prereleaseMessage"	"Please go to the full version of Minecraft to manage your subscriptions."	"Original Translation
@@ -42160,11 +42269,11 @@ zh_TW: 套件資訊清單中的所需「%s」元素為空白；預設為「%s」
 zh_CN: 包清单中缺少 '%s' 元素；默认为 '%s'。
 zh_TW: 套件資訊清單中欠缺「%s」元素；預設為「%s」。"	""
 "parties.chat.command.description"	"Sends a message in the party chat"	"Original Translation
-zh_CN: Sends a message in the party chat
-zh_TW: Sends a message in the party chat"	""
+zh_CN: 在队伍聊天中发送消息
+zh_TW: 在派對聊天室中傳送訊息"	""
 "parties.chat.command.unavailable"	"You are not currently in a party"	"Original Translation
-zh_CN: You are not currently in a party
-zh_TW: You are not currently in a party"	""
+zh_CN: 你当前不在队伍中
+zh_TW: 你目前不在任何派對中"	""
 "parties.chat.joinedParty"	"You joined the party"	"Original Translation
 zh_CN: 你加入了一个队伍
 zh_TW: 您已加入隊伍"	""
@@ -42999,9 +43108,9 @@ zh_TW: 建立你的第一個 Realm"	""
 "playscreen.realmsGetServer"	"Get your own server and curated premium content"	"Original Translation
 zh_CN: 获取自己的服务器和精选的优质内容
 zh_TW: 取得自己的伺服器和精選優質內容"	""
-"playscreen.realmsPreProdNotAuthorized"	"You do not have access to Realms in pre-production. To get access, reach out in"	"Original Translation
-zh_CN: 你无法访问前期制作版的 Realms。若想获得访问权限，请用
-zh_TW: 你無權存取前期製作的 Realms。欲獲得存取權限，請聯絡"	""
+"playscreen.realmsPreProdNotAuthorized"	"You do not have access to Realms in pre-production. To get access, reach out in #ask-Realms-preprod-access or see the guide at aka.ms/Realms-preprod-access."	"Original Translation
+zh_CN: 你无法访问前期制作版的 Realms。若想获得访问权限，请用 #ask-Realms-preprod-access 进行联系或者在 aka.ms/Realms-preprod-access 查看指南。
+zh_TW: 你無權存取前期製作的 Realms。欲獲得存取權限，請聯絡 #ask-realms-preprod-access 或參閱 aka.ms/Realms-preprod-access 上的說明。"	""
 "playscreen.realmsSignIn"	"Sign in to play on Realms today!"	"Original Translation
 zh_CN: 立即登录以在 Realms 上游玩！
 zh_TW: 馬上登入遊玩 Realms！"	""
@@ -43012,8 +43121,8 @@ zh_TW: 馬上登入，參觀朋友的 Realms！"	""
 zh_CN: 免费试用 Realms Plus 30 天
 zh_TW: 免費試玩 Realms Plus 30 天"	""
 "playscreen.realmsTrialWorld.nx"	"Try Realms Plus free for 28 days"	"Original Translation
-zh_CN: Try Realms Plus free for 28 days
-zh_TW: Try Realms Plus free for 28 days"	""
+zh_CN: 免费试用 Realms Plus 28 天
+zh_TW: 免費試用 Realms Plus 28 天"	""
 "playscreen.realmsWarning.moreinfo"	"More info"	"Original Translation
 zh_CN: 更多信息
 zh_TW: 更多資訊"	""
@@ -44227,8 +44336,8 @@ zh_TW: 發生問題。我們無法將你選擇的玩家加入你的 Realm。請�
 zh_CN: 当前不允许执行此操作。
 zh_TW: 您目前無權執行此動作。"	""
 "realmsInvitationScreen.sendingInvitesFailed.generic"	"Something went wrong. Please try again later."	"Original Translation
-zh_CN: Something went wrong. Please try again later.
-zh_TW: Something went wrong. Please try again later."	""
+zh_CN: 发生错误。请稍后再试。
+zh_TW: 發生錯誤。請稍後再試。"	""
 "realmsInvitationScreen.setDefaultPermissionFail"	"Failed to set default permissions."	"Original Translation
 zh_CN: 设置默认许可失败。
 zh_TW: 無法設定預設權限。"	""
@@ -44263,8 +44372,8 @@ zh_TW: 無法新增玩家"	""
 zh_CN: 更新玩家失败
 zh_TW: 無法更新玩家資訊"	""
 "realmsInvitationScreen.unableToChangePlayers.generic"	"Failed to update players"	"Original Translation
-zh_CN: Failed to update players
-zh_TW: Failed to update players"	""
+zh_CN: 更新玩家失败
+zh_TW: 無法更新玩家資訊"	""
 "realmsInvitationScreen.unblock"	"Unblock"	"Original Translation
 zh_CN: 取消阻止
 zh_TW: 解除封鎖"	""
@@ -46536,6 +46645,7 @@ zh_TW: 編輯器用戶端資源"	""
 "resourcePack.editor.client.name"	"Editor Resources"	"Original Translation
 zh_CN: 编辑器资源
 zh_TW: 編輯器資源"	""
+"resourcePack.editor.controlHelp.panelTitle"	"Control Help"	"Original Translation"	""
 "resourcePack.editor.copypaste.actionbar.copy.title"	"Copy"	"Original Translation
 zh_CN: 复制
 zh_TW: 複製"	""
@@ -46584,6 +46694,25 @@ zh_TW: 剪下"	""
 "resourcePack.editor.copypaste.menu.cut.tooltip"	"Copy the contents of the current selection to the clipboard and remove the contents of the Selection in the process."	"Original Translation
 zh_CN: 将当前选择的内容复制到剪贴板，并在此过程中删除选择的内容。
 zh_TW: 將目前選取的內容複製到剪貼簿，並在此過程中移除選取的內容。"	""
+"resourcePack.editor.core.bindingCategory.camera"	"Camera"	"Original Translation"	""
+"resourcePack.editor.core.bindingCategory.cursorMovement"	"Cursor Movement"	"Original Translation"	""
+"resourcePack.editor.core.bindingCategory.fly"	"Fly"	"Original Translation"	""
+"resourcePack.editor.core.bindingCategory.general"	"General"	"Original Translation"	""
+"resourcePack.editor.core.bindingCategory.hotbar"	"Hotbar"	"Original Translation"	""
+"resourcePack.editor.core.bindingCategory.makeSelection"	"Make Selection"	"Original Translation"	""
+"resourcePack.editor.core.bindingCategory.modes"	"Modes"	"Original Translation"	""
+"resourcePack.editor.core.bindingCategory.move"	"Move"	"Original Translation"	""
+"resourcePack.editor.core.bindingCategory.movement"	"Movement"	"Original Translation"	""
+"resourcePack.editor.core.bindingCategory.nudge"	"Nudge"	"Original Translation"	""
+"resourcePack.editor.core.bindingCategory.offset"	"Offset"	"Original Translation"	""
+"resourcePack.editor.core.bindingCategory.operations"	"Operations"	"Original Translation"	""
+"resourcePack.editor.core.bindingCategory.paste"	"Paste"	"Original Translation"	""
+"resourcePack.editor.core.bindingCategory.pastePreviewManipulation"	"Paste Preview Manipulation"	"Original Translation"	""
+"resourcePack.editor.core.bindingCategory.sizeSelection"	"Size Selection"	"Original Translation"	""
+"resourcePack.editor.core.bindingCategory.toolActivation"	"Tool Activation"	"Original Translation"	""
+"resourcePack.editor.core.bindingCategory.trimActions"	"Trim Actions"	"Original Translation"	""
+"resourcePack.editor.core.bindingCategory.widget"	"Widget"	"Original Translation"	""
+"resourcePack.editor.core.bindingCategory.workbench"	"Workbench"	"Original Translation"	""
 "resourcePack.editor.core.keyBinding.showGameMenu.title"	"Show Game Menu"	"Original Translation
 zh_CN: 显示游戏菜单
 zh_TW: 顯示遊戲選單"	""
@@ -50532,7 +50661,7 @@ zh_TW: 刪除尺規"	""
 "resourcePack.editor.toolRail.rulerTool.clearRuler.tooltip"	"Remove all Ruler points."	"Original Translation
 zh_CN: 移除所有标尺点。
 zh_TW: 移除所有尺規點。"	""
-"resourcePack.editor.toolRail.rulerTool.description"	"Ruler tool for measuring distances in worlds. Click to place start point, drag to end point, or use coordinates input."	"Original Translation
+"resourcePack.editor.toolRail.rulerTool.description"	"Ruler tool for measuring distances in worlds. Click to place start point, drag to end point, or use coordinates input. CTRL + Left Mouse Click to begin an additional ruler set."	"Original Translation
 zh_CN: 用于在世界中测量距离的标尺工具。点击以放置起点，再拖拽到终点，或者使用坐标输入。
 zh_TW: 用於在世界中測量距離的尺規工具。按一下放置起點，拖曳以放置終點，或者輸入座標。"	""
 "resourcePack.editor.toolRail.rulerTool.distance.title"	"Distance"	"Original Translation
@@ -50622,7 +50751,7 @@ zh_TW: 用於測量起點的尺規點。"	""
 "resourcePack.editor.toolRail.rulerTool.title"	"Ruler"	"Original Translation
 zh_CN: 标尺
 zh_TW: 尺規"	""
-"resourcePack.editor.toolRail.rulerTool.tooltip"	"Measure the distance between points. Distance includes the blocks the points are placed. Click to place start point, drag to end point, or use coordinates input."	"Original Translation
+"resourcePack.editor.toolRail.rulerTool.tooltip"	"Measure the distance between points. Distance includes the blocks the points are placed. Click to place start point, drag to end point, or use coordinates input. CTRL + Left Mouse Click to begin an additional ruler set."	"Original Translation
 zh_CN: 测量点之间的距离。距离包括点所在的方块。点击以放置起点，再拖拽到终点，或者使用坐标输入。
 zh_TW: 測量點與點之間的距離。距離包含放置點的方塊。按一下放置起點，拖曳以放置終點，或者輸入座標。"	""
 "resourcePack.editor.toolRail.smartFillTool.areaLimit.title"	"Limit"	"Original Translation
@@ -50919,6 +51048,7 @@ zh_TW: 鎖定生態域變更"	""
 "resourcePack.editor.vibrantVisuals.biome.modal.checkAll.label"	"Select All"	"Original Translation
 zh_CN: 全选
 zh_TW: 全選"	""
+"resourcePack.editor.vibrantVisuals.biome.modal.mixed.label"	"Mixed"	"Original Translation"	""
 "resourcePack.editor.vibrantVisuals.biome.modal.reset.title"	"Reset"	"Original Translation
 zh_CN: 重置
 zh_TW: 重設"	""
@@ -51003,6 +51133,11 @@ zh_TW: 各生態域的絢麗視覺設定"	""
 "resourcePack.editor.vibrantVisuals.biomeListDialog.openButton.tooltip"	"Open the biome config mapping window"	"Original Translation
 zh_CN: 打开生物群系配置映射窗口
 zh_TW: 開啟生態域設定檔對應視窗"	""
+"resourcePack.editor.vibrantVisuals.exportPackDialog.cancel.title"	"Cancel"	"Original Translation"	""
+"resourcePack.editor.vibrantVisuals.exportPackDialog.confirm.title"	"Export"	"Original Translation"	""
+"resourcePack.editor.vibrantVisuals.exportPackDialog.packName.title"	"Pack Name"	"Original Translation"	""
+"resourcePack.editor.vibrantVisuals.exportPackDialog.packName.tooltip"	"Enter the name of the resource pack to export all configurations to."	"Original Translation"	""
+"resourcePack.editor.vibrantVisuals.exportPackDialog.title"	"Export All Configs to Pack"	"Original Translation"	""
 "resourcePack.editor.vibrantVisuals.newDialogPane.namespaceDropdown.title"	"Namespace"	"Original Translation
 zh_CN: 命名空间
 zh_TW: 命名空間"	""
@@ -51157,8 +51292,8 @@ zh_TW: 工作台第三行動"	""
 zh_CN: 执行工作台工具中当前设置为“第三级”的操作。
 zh_TW: 執行目前在工作台工具中設為「第三」的動作。"	""
 "resourcePack.education.gametest.name"	"Education Edition GameTest Pack"	"Original Translation
-zh_CN: Education Edition GameTest Pack
-zh_TW: Education Edition GameTest Pack"	""
+zh_CN: Education Edition 游戏测试包
+zh_TW: Education Edition 遊戲測試套件"	""
 "resourcePack.error.enteringgame.button"	"View Active Packs"	"Original Translation
 zh_CN: 查看活跃包
 zh_TW: 檢視啟用的套件"	""
@@ -51334,23 +51469,23 @@ zh_TW: %s 已停用"	""
 zh_CN: 默认的《我的世界》图形，现已新增了时尚的新材质！
 zh_TW: 預設的 Minecraft 圖形，現已更新為風格獨具的新材質！"	""
 "resourcePack.vanilla.music"	"Minecraft Music Pack"	"Original Translation
-zh_CN: Minecraft Music Pack
-zh_TW: Minecraft Music Pack"	""
+zh_CN: 《Minecraft》音乐包
+zh_TW: Minecraft 音樂套件"	""
 "resourcePack.vanilla.name"	"Minecraft Texture Pack"	"Original Translation
 zh_CN: 《我的世界》材质包
 zh_TW: Minecraft 材質套件"	""
 "resourcePack.vanilla_base.description"	"The base Minecraft textures"	"Original Translation
-zh_CN: The base Minecraft textures
-zh_TW: The base Minecraft textures"	""
+zh_CN: 《Minecraft》基础材质
+zh_TW: 基礎 Minecraft 材質"	""
 "resourcePack.vanilla_base.name"	"Minecraft Base Texture Pack"	"Original Translation
-zh_CN: Minecraft Base Texture Pack
-zh_TW: Minecraft Base Texture Pack"	""
+zh_CN: 《Minecraft》基地材质包
+zh_TW: Minecraft 基礎材質套件"	""
 "resourcePack.vanilla_trial.description"	"Trial textures for Minecraft"	"Original Translation
-zh_CN: Trial textures for Minecraft
-zh_TW: Trial textures for Minecraft"	""
+zh_CN: 《Minecraft》试用材质
+zh_TW: Minecraft 試用版材質"	""
 "resourcePack.vanilla_trial.name"	"Minecraft Trial Texture Pack"	"Original Translation
-zh_CN: Minecraft Trial Texture Pack
-zh_TW: Minecraft Trial Texture Pack"	""
+zh_CN: 《Minecraft》试用版材质包
+zh_TW: Minecraft 試用版材質套件"	""
 "resourcePack.warning.add.body"	"This world may not look or behave in the same way as non-modified worlds. You should save a copy of your world before continuing."	"Original Translation
 zh_CN: 这个世界的景象和行为方式可能与未修改的世界有所不同。在继续之前，你可能需要保存你的世界的副本。
 zh_TW: 這個世界的外觀或行為模式可能與未修改的世界不同。你應該在繼續遊戲之前另存你的世界。"	""
@@ -51568,8 +51703,8 @@ zh_TW: 分析程式已啟動"	""
 zh_CN: 分析器已停止。配置文件已保存至“%s”
 zh_TW: 分析程式已停止。設定檔已儲存至 '%s'"	""
 "scriptDiagnostic.delete.done"	"Diagnostic and profiler captures deleted"	"Original Translation
-zh_CN: Diagnostic and profiler captures deleted
-zh_TW: Diagnostic and profiler captures deleted"	""
+zh_CN: 诊断和分析器截取画面已删除
+zh_TW: 已刪除診斷與分析器擷取資料"	""
 "seargeSays.searge"	"Searge says: %s"	"Original Translation
 zh_CN: Searge 说道: %s
 zh_TW: Searge 說：%s"	""
@@ -52162,8 +52297,8 @@ zh_TW: 抱歉，您不能在遊戲中變更外觀，請在主選單中的 [選�
 zh_CN: 选择的图像不能作为《我的世界》皮肤
 zh_TW: 唉呀，這不是 Minecraft 的外觀。"	""
 "skins.information.invalidCustomSkinFile"	"Something went wrong. This may be due to insufficient storage space. Please check your available storage and try again."	"Original Translation
-zh_CN: Something went wrong. This may be due to insufficient storage space. Please check your available storage and try again.
-zh_TW: Something went wrong. This may be due to insufficient storage space. Please check your available storage and try again."	""
+zh_CN: 出错了。这可能是由于存储空间不足造成的。请检查可用存储空间，然后重试。
+zh_TW: 發生錯誤。這可能是因為儲存空間不足。請檢查可用儲存空間並再試一次。"	""
 "skins.information.selectSkin"	"Choose the correct model type for your skin"	"Original Translation
 zh_CN: 选择适用皮肤的模式
 zh_TW: 選擇適用該外觀的模型"	""
@@ -52695,6 +52830,12 @@ zh_TW: 刪除"	""
 "storageManager.multiselectShare"	"Share"	"Original Translation
 zh_CN: 分享
 zh_TW: 分享"	""
+"storageManager.progress.cache.description"	"This may take a few minutes"	"Original Translation"	""
+"storageManager.progress.cache.done"	"Cache cleared!"	"Original Translation"	""
+"storageManager.progress.cache.title"	"Clearing storage cache"	"Original Translation"	""
+"storageManager.progress.content.description"	"This may take a few minutes"	"Original Translation"	""
+"storageManager.progress.content.done"	"Content deleted!"	"Original Translation"	""
+"storageManager.progress.content.title"	"Deleting content"	"Original Translation"	""
 "storageManager.share.compress"	"Compressing the selected resources..."	"Original Translation
 zh_CN: 正在压缩选中的资源…
 zh_TW: 正在壓縮所選的資源..."	""
@@ -52714,11 +52855,11 @@ zh_TW: 使用的日期 - 最近的在前"	""
 zh_CN: 大小 - 按从大到小排列
 zh_TW: 大小 - 最大的在前"	""
 "storageManager.storageLocation.cloud"	"Cloud"	"Original Translation
-zh_CN: Cloud
-zh_TW: Cloud"	""
+zh_CN: 云
+zh_TW: 雲端"	""
 "storageManager.storageLocation.local"	"Local"	"Original Translation
-zh_CN: Local
-zh_TW: Local"	""
+zh_CN: 本地
+zh_TW: 本機"	""
 "storageManager.sync_legacy_worlds"	"Sync Old Worlds"	"Original Translation
 zh_CN: 同步旧世界
 zh_TW: 同步舊版世界"	""
@@ -52756,8 +52897,8 @@ zh_TW: 我們從舊版 Minecraft 中找到了 %s 個舊世界。"	""
 zh_CN: 成功！
 zh_TW: 成功！"	""
 "storageManager.sync_legacy_worlds.name"	"Old Worlds"	"Original Translation
-zh_CN: Old Worlds
-zh_TW: Old Worlds"	""
+zh_CN: 旧世界
+zh_TW: 舊世界"	""
 "storageManager.sync_legacy_worlds_description"	"Looks for worlds from an older version of Minecraft. This might take a while to finish."	"Original Translation
 zh_CN: 从旧版本的《我的世界》中查询世界。这可能需要一段时间才能完成。
 zh_TW: 正在尋找較舊版 Minecraft 的世界。這可能需要一些時間才能完成。"	""
@@ -52774,8 +52915,8 @@ zh_TW: 我們從零售版 Minecraft 中找到了 %s 個零售版世界。"	""
 zh_CN: 成功！
 zh_TW: 成功！"	""
 "storageManager.sync_retailtopreview_worlds.name"	"Retail Worlds"	"Original Translation
-zh_CN: Retail Worlds
-zh_TW: Retail Worlds"	""
+zh_CN: 零售世界
+zh_TW: 零售版世界"	""
 "storageManager.sync_retailtopreview_worlds_description"	"Looks for worlds from the retail version of Minecraft. This might take a while to finish."	"Original Translation
 zh_CN: 从零售版 Minecraft 中查询世界。这可能需要一段时间才能完成。
 zh_TW: 正在搜尋 Minecraft 零售版的世界檔案。這可能需要一些時間，請稍候。"	""
@@ -53101,8 +53242,8 @@ zh_TW: 有地方出錯"	""
 zh_CN: 下载
 zh_TW: 下載"	""
 "store.content.freeWeekend"	"Free Weekend!"	"Original Translation
-zh_CN: Free Weekend!
-zh_TW: Free Weekend!"	""
+zh_CN: 免费周末！
+zh_TW: 免費週末！"	""
 "store.content.requireXbl.notSignedIn"	"Sign in to a Microsoft account to unlock."	"Original Translation
 zh_CN: 登录至 Microsoft 账号以解锁。
 zh_TW: 登入至 Microsoft 帳戶以解鎖。"	""
@@ -55210,8 +55351,8 @@ zh_TW: 傳送門聲響漸弱"	"傳送門噪音消退"
 zh_CN: 传送门噪声加剧
 zh_TW: 傳送門聲響增強"	"傳送門噪音增強"
 "subtitles.block.potent_sulfur.geyser_eruption_start"	"Sulfur Spring bursts"	"Original Translation
-zh_CN: Sulfur Spring bursts
-zh_TW: Sulfur Spring bursts"	""
+zh_CN: 硫黄泉爆发
+zh_TW: 硫磺泉噴發"	""
 "subtitles.block.potent_sulfur.noxious_gas"	"Noxious gas appears"	"Original Translation
 zh_CN: 毒气出现
 zh_TW: 出現有毒氣體"	""
@@ -57115,29 +57256,29 @@ zh_TW: 熾足獸鳴叫"	"熾足獸吵鬧"
 zh_CN: 炽足兽退缩
 zh_TW: 熾足獸撤退"	"熾足獸退卻"
 "subtitles.entity.sulfur_cube.absorb"	"Sulfur Cube full"	"Original Translation
-zh_CN: 硫磺立方体已满
-zh_TW: 硫磺立方體已滿"	""
+zh_CN: 硫方怪已满
+zh_TW: 硫磺方塊已滿"	""
 "subtitles.entity.sulfur_cube.bounce"	"Sulfur Cube bounces"	"Original Translation
-zh_CN: 硫磺立方体弹跳
-zh_TW: 硫磺立方體彈跳"	""
+zh_CN: 硫方怪弹跳
+zh_TW: 硫磺方塊彈跳"	""
 "subtitles.entity.sulfur_cube.death"	"Sulfur Cube dies"	"Original Translation
-zh_CN: 硫磺立方体死亡
-zh_TW: 硫磺立方體死亡"	""
+zh_CN: 硫方怪死亡
+zh_TW: 硫磺方塊死亡"	""
 "subtitles.entity.sulfur_cube.eject"	"Block Removed"	"Original Translation
 zh_CN: 已移除方块
 zh_TW: 已移除立方體"	""
 "subtitles.entity.sulfur_cube.hit"	"Sulfur Cube hit"	"Original Translation
-zh_CN: 硫磺立方体命中
-zh_TW: 硫磺立方體受擊"	""
+zh_CN: 硫方怪命中
+zh_TW: 硫磺方塊受擊"	""
 "subtitles.entity.sulfur_cube.hurt"	"Sulfur Cube hurts"	"Original Translation
-zh_CN: 硫磺立方体伤害
-zh_TW: 硫磺立方體受傷"	""
+zh_CN: 硫方怪伤害
+zh_TW: 硫磺方塊受傷"	""
 "subtitles.entity.sulfur_cube.push"	"Sulfur Cube pushed"	"Original Translation
-zh_CN: 硫磺立方体推送
-zh_TW: 硫磺立方體被推動"	""
+zh_CN: 硫方怪推送
+zh_TW: 硫磺方塊被推動"	""
 "subtitles.entity.sulfur_cube.squish"	"Sulfur Cube bounces"	"Original Translation
-zh_CN: 硫磺立方体弹跳
-zh_TW: 硫磺立方體彈跳"	""
+zh_CN: 硫方怪弹跳
+zh_TW: 硫磺方塊彈跳"	""
 "subtitles.entity.tadpole.death"	"Tadpole dies"	"Original Translation
 zh_CN: 蝌蚪死亡
 zh_TW: 蝌蚪死亡"	"蝌蚪死亡"
@@ -57529,8 +57670,8 @@ zh_TW: 殭屍鸚鵡螺受傷"	"殭屍鸚鵡螺受傷"
 zh_CN: 僵尸鹦鹉螺受伤
 zh_TW: 殭屍鸚鵡螺受傷"	"殭屍鸚鵡螺受傷"
 "subtitles.entity.zombie_nautilus.swim"	"Zombie Nautilus swims"	"Original Translation
-zh_CN: Zombie Nautilus swims
-zh_TW: Zombie Nautilus swims"	""
+zh_CN: 僵尸鹦鹉螺游泳
+zh_TW: 殭屍鸚鵡螺在游泳"	""
 "subtitles.entity.zombie_villager.ambient"	"Zombie Villager groans"	"Original Translation
 zh_CN: 僵尸村民呻吟
 zh_TW: 殭屍村民呻吟"	"殭屍村民呻吟聲"
@@ -57664,8 +57805,8 @@ zh_TW: 撈起鈍口螈"	"六角恐龍被撈起"
 zh_CN: 捕获的鱼
 zh_TW: 撈起魚"	"捕獲魚"
 "subtitles.item.bucket.fill_sulfur_cube"	"Sulfur Cube scooped"	"Original Translation
-zh_CN: 硫磺怪捞出
-zh_TW: 已撈起硫磺立方體"	""
+zh_CN: 硫方怪捞出
+zh_TW: 已撈起硫磺方塊"	""
 "subtitles.item.bucket.fill_tadpole"	"Tadpole captured"	"Original Translation
 zh_CN: 捕获的蝌蚪
 zh_TW: 撈起蝌蚪"	"捕獲蝌蚪"
@@ -58469,7 +58610,7 @@ zh_CN: 錾制书架
 zh_TW: 鑿刻書櫃"	"浮雕書櫃"
 "tile.chiseled_cinnabar.name"	"Chiseled Cinnabar"	"Original Translation
 zh_CN: 錾制朱砂
-zh_TW: 鑿刻硃砂"	""
+zh_TW: 鑿刻朱砂塊"	""
 "tile.chiseled_copper.name"	"Chiseled Copper"	"Original Translation
 zh_CN: 錾制铜
 zh_TW: 鑿刻銅塊"	"浮雕銅方塊"
@@ -58486,7 +58627,7 @@ zh_TW: 鑿刻拋光黑石"	"浮雕拋光黑石"
 zh_CN: 錾制树脂砖块
 zh_TW: 雕刻樹脂磚"	"浮雕樹脂磚"
 "tile.chiseled_sulfur.name"	"Chiseled Sulfur"	"Original Translation
-zh_CN: 錾制硫磺
+zh_CN: 雕纹硫黄
 zh_TW: 鑿刻硫磺"	""
 "tile.chiseled_tuff.name"	"Chiseled Tuff"	"Original Translation
 zh_CN: 錾制凝灰岩
@@ -58502,34 +58643,34 @@ zh_CN: 紫颂植株
 zh_TW: 歌萊枝"	"歌萊枝"
 "tile.cinnabar.name"	"Cinnabar"	"Original Translation
 zh_CN: 朱砂
-zh_TW: 硃砂"	""
+zh_TW: 朱砂塊"	""
 "tile.cinnabar_brick_double_slab.name"	"Cinnabar Brick Double Slab"	"Original Translation
 zh_CN: 朱砂砖双台阶
-zh_TW: 硃砂磚雙板"	""
+zh_TW: 朱砂磚雙板"	""
 "tile.cinnabar_brick_slab.name"	"Cinnabar Brick Slab"	"Original Translation
 zh_CN: 朱砂砖台阶
-zh_TW: 硃砂磚板"	""
+zh_TW: 朱砂磚板"	""
 "tile.cinnabar_brick_stairs.name"	"Cinnabar Brick Stairs"	"Original Translation
 zh_CN: 朱砂砖楼梯
-zh_TW: 硃砂磚階梯"	""
+zh_TW: 朱砂磚階梯"	""
 "tile.cinnabar_brick_wall.name"	"Cinnabar Brick Wall"	"Original Translation
 zh_CN: 朱砂砖墙
-zh_TW: 硃砂磚牆"	""
+zh_TW: 朱砂磚牆"	""
 "tile.cinnabar_bricks.name"	"Cinnabar Bricks"	"Original Translation
 zh_CN: 朱砂砖
-zh_TW: 硃砂磚"	""
+zh_TW: 朱砂磚"	""
 "tile.cinnabar_double_slab.name"	"Cinnabar Double Slab"	"Original Translation
 zh_CN: 朱砂双台阶
-zh_TW: 硃砂雙板"	""
+zh_TW: 朱砂雙板"	""
 "tile.cinnabar_slab.name"	"Cinnabar Slab"	"Original Translation
 zh_CN: 朱砂台阶
-zh_TW: 硃砂板"	""
+zh_TW: 朱砂板"	""
 "tile.cinnabar_stairs.name"	"Cinnabar Stairs"	"Original Translation
 zh_CN: 朱砂楼梯
-zh_TW: 硃砂階梯"	""
+zh_TW: 朱砂階梯"	""
 "tile.cinnabar_wall.name"	"Cinnabar Wall"	"Original Translation
 zh_CN: 朱砂墙
-zh_TW: 硃砂牆"	""
+zh_TW: 朱砂牆"	""
 "tile.clay.name"	"Clay"	"Original Translation
 zh_CN: 黏土
 zh_TW: 黏土"	"黏土"
@@ -59525,7 +59666,7 @@ zh_CN: 钌
 zh_TW: 釕"	"釕"
 "tile.element.s.name"	"Sulfur"	"Original Translation
 zh_CN: 硫
-zh_TW: 硫"	"硫"
+zh_TW: 硫磺"	"硫"
 "tile.element.sb.name"	"Antimony"	"Original Translation
 zh_CN: 锑
 zh_TW: 銻"	"銻"
@@ -60665,19 +60806,19 @@ zh_CN: 磨制黑石墙
 zh_TW: 拋光黑石牆"	"拋光黑石牆"
 "tile.polished_cinnabar.name"	"Polished Cinnabar"	"Original Translation
 zh_CN: 磨制朱砂
-zh_TW: 拋光硃砂"	""
+zh_TW: 拋光朱砂塊"	""
 "tile.polished_cinnabar_double_slab.name"	"Polished Cinnabar Double Slab"	"Original Translation
 zh_CN: 磨制朱砂双台阶
-zh_TW: 拋光硃砂雙板"	""
+zh_TW: 拋光朱砂雙板"	""
 "tile.polished_cinnabar_slab.name"	"Polished Cinnabar Slab"	"Original Translation
 zh_CN: 磨制朱砂台阶
-zh_TW: 拋光硃砂板"	""
+zh_TW: 拋光朱砂板"	""
 "tile.polished_cinnabar_stairs.name"	"Polished Cinnabar Stairs"	"Original Translation
 zh_CN: 磨制朱砂楼梯
-zh_TW: 拋光硃砂階梯"	""
+zh_TW: 拋光朱砂階梯"	""
 "tile.polished_cinnabar_wall.name"	"Polished Cinnabar Wall"	"Original Translation
 zh_CN: 磨制朱砂墙
-zh_TW: 拋光硃砂牆"	""
+zh_TW: 拋光朱砂牆"	""
 "tile.polished_deepslate.name"	"Polished Deepslate"	"Original Translation
 zh_CN: 磨制深板岩
 zh_TW: 拋光深板岩"	"拋光深板岩"
@@ -60700,19 +60841,19 @@ zh_TW: 拋光閃長岩階梯"	"拋光閃長岩階梯"
 zh_CN: 磨制花岗岩楼梯
 zh_TW: 拋光花崗岩階梯"	"拋光花崗岩階梯"
 "tile.polished_sulfur.name"	"Polished Sulfur"	"Original Translation
-zh_CN: 磨制硫磺
+zh_CN: 磨制硫黄
 zh_TW: 拋光硫磺"	""
 "tile.polished_sulfur_double_slab.name"	"Polished Sulfur Double Slab"	"Original Translation
-zh_CN: 磨制硫磺双台阶
+zh_CN: 磨制硫黄双台阶
 zh_TW: 拋光硫磺雙板"	""
 "tile.polished_sulfur_slab.name"	"Polished Sulfur Slab"	"Original Translation
-zh_CN: 磨制硫磺台阶
+zh_CN: 磨制硫黄台阶
 zh_TW: 拋光硫磺板"	""
 "tile.polished_sulfur_stairs.name"	"Polished Sulfur Stairs"	"Original Translation
-zh_CN: 磨制硫磺楼梯
+zh_CN: 磨制硫黄楼梯
 zh_TW: 拋光硫磺階梯"	""
 "tile.polished_sulfur_wall.name"	"Polished Sulfur Wall"	"Original Translation
-zh_CN: 磨制硫磺墙
+zh_CN: 磨制硫黄墙
 zh_TW: 拋光硫磺牆"	""
 "tile.polished_tuff.name"	"Polished Tuff"	"Original Translation
 zh_CN: 磨制凝灰岩
@@ -60736,8 +60877,8 @@ zh_TW: 傳送門"	"傳送門"
 zh_CN: 马铃薯
 zh_TW: 馬鈴薯"	"馬鈴薯"
 "tile.potent_sulfur.name"	"Potent Sulfur"	"Original Translation
-zh_CN: 强力硫磺
-zh_TW: 強效硫磺"	""
+zh_CN: 强力硫黄
+zh_TW: 濃硫磺"	""
 "tile.powder_snow.name"	"Powder Snow"	"Original Translation
 zh_CN: 细雪
 zh_TW: 粉雪"	"粉雪"
@@ -61588,37 +61729,37 @@ zh_TW: 結構方塊"	"結構方塊"
 zh_CN: 结构空位
 zh_TW: 結構空位"	"結構空位"
 "tile.sulfur.name"	"Sulfur"	"Original Translation
-zh_CN: 硫磺
+zh_CN: 硫黄
 zh_TW: 硫磺"	""
 "tile.sulfur_brick_double_slab.name"	"Sulfur Brick Double Slab"	"Original Translation
-zh_CN: 硫磺砖双台阶
+zh_CN: 硫黄砖双台阶
 zh_TW: 硫磺磚雙板"	""
 "tile.sulfur_brick_slab.name"	"Sulfur Brick Slab"	"Original Translation
-zh_CN: 硫磺砖台阶
+zh_CN: 硫黄砖台阶
 zh_TW: 硫磺磚板"	""
 "tile.sulfur_brick_stairs.name"	"Sulfur Brick Stairs"	"Original Translation
-zh_CN: 硫磺砖楼梯
+zh_CN: 硫黄砖楼梯
 zh_TW: 硫磺磚階梯"	""
 "tile.sulfur_brick_wall.name"	"Sulfur Brick Wall"	"Original Translation
-zh_CN: 硫磺砖墙
+zh_CN: 硫黄砖墙
 zh_TW: 硫磺磚牆"	""
 "tile.sulfur_bricks.name"	"Sulfur Bricks"	"Original Translation
-zh_CN: 硫磺砖
+zh_CN: 硫黄砖
 zh_TW: 硫磺磚"	""
 "tile.sulfur_double_slab.name"	"Sulfur Double Slab"	"Original Translation
-zh_CN: 硫磺双台阶
+zh_CN: 硫黄双台阶
 zh_TW: 硫磺雙板"	""
 "tile.sulfur_slab.name"	"Sulfur Slab"	"Original Translation
-zh_CN: 硫磺台阶
+zh_CN: 硫黄台阶
 zh_TW: 硫磺板"	""
 "tile.sulfur_spike.name"	"Sulfur Spike"	"Original Translation
-zh_CN: 硫磺尖刺
+zh_CN: 硫黄尖刺
 zh_TW: 硫磺尖刺"	""
 "tile.sulfur_stairs.name"	"Sulfur Stairs"	"Original Translation
-zh_CN: 硫磺楼梯
+zh_CN: 硫黄楼梯
 zh_TW: 硫磺階梯"	""
 "tile.sulfur_wall.name"	"Sulfur Wall"	"Original Translation
-zh_CN: 硫磺墙
+zh_CN: 硫黄墙
 zh_TW: 硫磺牆"	""
 "tile.suspicious_gravel.name"	"Suspicious Gravel"	"Original Translation
 zh_CN: 可疑砂砾
