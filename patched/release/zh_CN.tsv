@@ -1954,16 +1954,16 @@ zh_CN: 上传世界（%s）
 zh_TW: 上傳世界 (%s)"	"上传世界（%s）"
 "cloud_upload.failed.description"	"Your world could not be uploaded because %s"	"Original Translation
 zh_CN: 无法上传您的世界，因为 %s
-zh_TW: 無法上傳你的世界，因為%s"	""
+zh_TW: 無法上傳你的世界，因為%s"	"无法上传您的世界，因为 %s"
 "cloud_upload.failed.retryable.description"	"Your world could not be uploaded because %s"	"Original Translation
 zh_CN: 无法上传您的世界，因为 %s
-zh_TW: 無法上傳你的世界，因為 %s"	""
+zh_TW: 無法上傳你的世界，因為 %s"	"无法上传您的世界，因为 %s"
 "cloud_upload.input_error_maximum_size"	"one of the files is too big. Please get in touch with LiveOps if you want to try again."	"Original Translation
 zh_CN: 某个文件过大。如果想重试，请与 LiveOps 联系。
-zh_TW: 其中一個檔案太大。如果你想重試，請與 LiveOps 聯絡。"	""
+zh_TW: 其中一個檔案太大。如果你想重試，請與 LiveOps 聯絡。"	"某个文件过大。如果想重试，请与 LiveOps 联系。"
 "cloud_upload.input_error_number_of_files"	"it consists of too many files. Please get in touch with LiveOps if you want to try again."	"Original Translation
 zh_CN: 您的世界文件过多。如果想重试，请与 LiveOps 联系。
-zh_TW: 裡面包含的檔案太多。如果你想重試，請與 LiveOps 聯絡。"	""
+zh_TW: 裡面包含的檔案太多。如果你想重試，請與 LiveOps 聯絡。"	"您的世界文件过多。如果想重试，请与 LiveOps 联系。"
 "cloud_upload.input_error_record_already_completed"	"it has already been successfully uploaded. Please get in touch with LiveOps for more information."	"Original Translation
 zh_CN: 世界成功上传。请与 LiveOps 联系以获取更多信息。
 zh_TW: 已經成功上傳。請與 LiveOps 聯絡以獲取更多資訊。"	""
@@ -1984,7 +1984,7 @@ zh_CN: 不再显示此窗口
 zh_TW: 不再顯示此畫面"	"不再显示此屏幕"
 "cloud_upload.succeeded.description"	"Your world upload has completed successfully. Thank you!"	"Original Translation
 zh_CN: 您的世界上传已成功。谢谢！
-zh_TW: 您的世界已成功上傳。謝謝！"	""
+zh_TW: 您的世界已成功上傳。謝謝！"	"您的世界已成功上传。谢谢！"
 "cloud_upload.terms.description"	"To upload your world, accept the Microsoft Services Agreement. Uploaded worlds are subject to the Microsoft Services Agreement, which can be found under Terms of Use. You can still play with your world once uploaded."	"Original Translation
 zh_CN: 要上传您的世界，请接受 Microsoft 服务协议。上传的世界受 Microsof 服务协议的约束，该协议可在使用条款中找到。上传后，您仍然可以玩您的世界。
 zh_TW: 如果要上傳你的世界，請接受 Microsoft 服務合約。上傳的世界需遵守 Microsoft 服務合約，你可以在使用條款中找到該合約。上傳後，你仍然可以在世界中遊玩。"	""
