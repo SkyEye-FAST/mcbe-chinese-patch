@@ -2314,7 +2314,7 @@ zh_CN: 客户端调试器已连接到端口 %s 上的主机 %s
 zh_TW: 連接到連接埠 %s 上的主機 %s 的用戶端偵錯程式"	"客户端调试器已连接到端口%2$s上的主机%1$s"
 "clientscript.success.debuggerListen"	"Client debugger listening on port %s"	"Original Translation
 zh_CN: 客户端调试器监听端口 %s
-zh_TW: 連接埠 %s 的用戶端偵錯程式"	""
+zh_TW: 連接埠 %s 的用戶端偵錯程式"	"客户端调试器正在监听端口%s"
 "codeScreen.IDEDeprecated.body2"	"MakeCode lets you code Minecraft in Blocks, Python or JavaScript. Try it out!"	"Original Translation
 zh_CN: 你可以通过 MakeCode 在 Minecraft 中使用 Blocks、Python 或 JavaScript 进行编程。来试试吧！
 zh_TW: MakeCode 讓你能使用 Blocks、Python 或 JavaScript 在 Minecraft 中寫程式。試試看！"	""
@@ -2770,25 +2770,25 @@ zh_CN: 已封禁玩家 %1$s
 zh_TW: 封鎖 %1$s 玩家"	""
 "commands.banip.description"	"Adds IP address to banlist."	"Original Translation
 zh_CN: 将 IP 地址添加到封禁清单。
-zh_TW: 新增 IP 位址至封鎖名單。"	""
+zh_TW: 新增 IP 位址至封鎖名單。"	"将IP地址添加到封禁列表。"
 "commands.banip.invalid"	"You have entered an invalid IP address or a player that is not online"	"Original Translation
 zh_CN: 你输入了一个无效的 IP 地址或者此玩家不在线
-zh_TW: 您輸入了一個無效的 IP 位址或是玩家並不在線上"	""
+zh_TW: 您輸入了一個無效的 IP 位址或是玩家並不在線上"	"你输入了一个无效的IP地址或者此玩家不在线"
 "commands.banip.success"	"Banned IP address %1$s"	"Original Translation
 zh_CN: 已封禁 IP 地址 %1$s
-zh_TW: 封鎖的 IP 位址 %1$s"	""
+zh_TW: 封鎖的 IP 位址 %1$s"	"已封禁IP地址%1$s"
 "commands.banip.success.players"	"Banned IP address %1$s belonging to %2$s"	"Original Translation
 zh_CN: 已封禁的 IP 地址 %1$s 属于 %2$s
-zh_TW: 封鎖的 IP 位址 %1$s 屬於 %2$s"	""
+zh_TW: 封鎖的 IP 位址 %1$s 屬於 %2$s"	"已封禁属于%2$s的IP地址%1$s"
 "commands.banlist.ips"	"There are %1$d total banned IP addresses:"	"Original Translation
 zh_CN: 总共有 %1$d 个被封禁的IP地址：
-zh_TW: 共有 %1$d 個被封鎖的 IP 位址："	""
+zh_TW: 共有 %1$d 個被封鎖的 IP 位址："	"总共有%1$d个被封禁的IP地址："
 "commands.banlist.players"	"There are %1$d total banned players:"	"Original Translation
 zh_CN: 总共有 %1$d 个被封禁的玩家：
-zh_TW: 共有 %1$d 個被封鎖的玩家："	""
+zh_TW: 共有 %1$d 個被封鎖的玩家："	"总共有%1$d个被封禁的玩家："
 "commands.blockdata.description"	"Modifies the data tag of a block."	"Original Translation
 zh_CN: 修改方块的数据标签。
-zh_TW: 修改方塊的數據標籤。"	""
+zh_TW: 修改方塊的數據標籤。"	"修改方块的数据标签。"
 "commands.blockdata.destroyFailed"	"You cannot dig here"	"Original Translation
 zh_CN: 此处不能挖掘
 zh_TW: 這裡無法挖掘"	""
