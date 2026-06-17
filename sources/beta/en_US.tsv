@@ -665,6 +665,12 @@ zh_TW: 雙擊螢幕頂端按鈕來 %s"
 accessibility.toggle.tts.title	Toggle	"Original Translation
 zh_CN: 切换
 zh_TW: 切換"
+accessibility.toggle.view.tts.title	View	Original Translation
+accessibility.tts.button.howtoplay	How to Play	Original Translation
+accessibility.tts.searchbar	Search bar	Original Translation
+accessibility.tts.toggle.filter	Recipe Filter	Original Translation
+accessibility.tts.toggle.inventory.layout	Inventory	Original Translation
+accessibility.tts.toggle.recipebook.layout	Recipe book and inventory	Original Translation
 accessibility.worldTemplates.help	Help	"Original Translation
 zh_CN: 帮助
 zh_TW: 幫助"
@@ -5978,9 +5984,6 @@ zh_TW: 自然"
 craftingScreen.tab.survival	Inventory	"Original Translation
 zh_CN: 物品栏
 zh_TW: 物品欄"
-craftingScreen.tts.button.howtoplay	How to Play	"Original Translation
-zh_CN: 游戏指南
-zh_TW: 遊戲說明"
 craftingScreen.tts.tab.crafting.big	Crafting Grid	"Original Translation
 zh_CN: 网格合成表
 zh_TW: 合成格"
@@ -5993,24 +5996,15 @@ zh_TW: 超寬物品清單"
 craftingScreen.tts.tab.inventory	Inventory	"Original Translation
 zh_CN: 物品栏
 zh_TW: 物品欄"
-craftingScreen.tts.toggle.creative.inventory.layout	Inventory Only view	"Original Translation
+craftingScreen.tts.toggle.creative.inventory.layout	Inventory Only	"Original Translation
 zh_CN: 仅物品栏视图
 zh_TW: 僅限物品欄檢視"
-craftingScreen.tts.toggle.creative.recipebook.layout	Item list & Crafting Grid view	"Original Translation
+craftingScreen.tts.toggle.creative.recipebook.layout	Item list & Crafting Grid	"Original Translation
 zh_CN: 物品列表与网格合成表视图
 zh_TW: 物品清單與合成格檢視"
-craftingScreen.tts.toggle.creative.widelist.layout	Wide Item list view	"Original Translation
+craftingScreen.tts.toggle.creative.widelist.layout	Wide Item list	"Original Translation
 zh_CN: 宽物品列表视图
 zh_TW: 寬幅物品清單檢視"
-craftingScreen.tts.toggle.filter	Craftable filter	"Original Translation
-zh_CN: 可合成过滤器
-zh_TW: 可合成篩選"
-craftingScreen.tts.toggle.inventory.layout	Inventory view	"Original Translation
-zh_CN: 物品栏视图
-zh_TW: 物品欄檢視"
-craftingScreen.tts.toggle.recipebook.layout	Recipe book and inventory view	"Original Translation
-zh_CN: 配方书和物品栏视图
-zh_TW: 配方書和物品欄檢視"
 createWorld.customize.custom.baseSize	Depth Base Size	"Original Translation
 zh_CN: 基准深度大小
 zh_TW: 深度基準大小"
@@ -7598,6 +7592,7 @@ zh_TW: 請檢查裝置的儲存空間，刪除項目以釋出更多空間。"
 disconnectionScreen.body.discoveryMismatch	Your discovery environment does not match the host's.	"Original Translation
 zh_CN: 你的探索环境与主机的环境不匹配。
 zh_TW: 你的網路探索環境與主機不相符。"
+disconnectionScreen.body.expiredToken	Make sure your system clock is set correctly and try again.	Original Translation
 disconnectionScreen.body.gameOutOfDate	The game version you are using is out of date. Update your game to the latest version and try again.	"Original Translation
 zh_CN: 你正在使用的游戏版本已过期。请将你的游戏更新到最新版本，然后重试。
 zh_TW: 你使用的遊戲版本已過期。請將遊戲更新至最新版本後再試一次。"
@@ -10040,6 +10035,10 @@ zh_TW: 伺服器 ID 是您要新增之伺服器的專屬識別碼。"
 edu.servers_screen.server_id_tooltip_tts	The Server I D is the unique identification of the server that you are trying to add.	"Original Translation
 zh_CN: 服务器 ID 是你尝试添加的服务器的独特识别码。
 zh_TW: 伺服器 ID 是您要新增之伺服器的專屬識別碼。"
+edu.servers_screen.server_removed_notification.body_1	You no longer have access to one or more servers that you had previously added to your servers list.	Original Translation
+edu.servers_screen.server_removed_notification.body_2	The server(s) below have been removed from your servers list:	Original Translation
+edu.servers_screen.server_removed_notification.title	Server(s) Removed	Original Translation
+edu.servers_screen.server_removed_notification.title_tts	Servers Removed	Original Translation
 edu.servers_screen.share	SHARE	"Original Translation
 zh_CN: 分享
 zh_TW: 分享"
@@ -11168,6 +11167,17 @@ zh_TW: 可熔煉"
 furnaceScreen.tab.search.filterSmoker	Smokable recipes	"Original Translation
 zh_CN: 可吸
 zh_TW: 可煙燻"
+furnaceScreen.tts.slot.cookingAction	Cooking %1$s into %2$s	Original Translation
+furnaceScreen.tts.slot.empty	Empty	Original Translation
+furnaceScreen.tts.slot.fuel.burning	Burning	Original Translation
+furnaceScreen.tts.slot.fuel.title	Fuel slot, %s	Original Translation
+furnaceScreen.tts.slot.ingredient.cooking	Cooking	Original Translation
+furnaceScreen.tts.slot.ingredient.recipe	Material needed	Original Translation
+furnaceScreen.tts.slot.ingredient.smelting	Smelting	Original Translation
+furnaceScreen.tts.slot.ingredient.title	Input slot, %s	Original Translation
+furnaceScreen.tts.slot.result.recipe	Input will become	Original Translation
+furnaceScreen.tts.slot.result.title	Result slot, %s	Original Translation
+furnaceScreen.tts.slot.smeltingAction	Smelting %1$s into %2$s	Original Translation
 gameArgument.featureUnsupported	This version of Minecraft doesn't support this feature	"Original Translation
 zh_CN: 该版本的《我的世界》不支持此功能
 zh_TW: 此 Minecraft 版本不支援此功能"
@@ -15836,7 +15846,7 @@ hbui.DropdownItem.disabled	Disabled	"Original Translation
 zh_CN: 已禁用
 zh_TW: 已停用"
 hbui.DropdownItem.elementType	item	"Original Translation
-zh_CN: 项目
+zh_CN: 物品
 zh_TW: 物品"
 hbui.DropdownItem.narrationComponentType	Option	"Original Translation
 zh_CN: 选项
@@ -15846,9 +15856,9 @@ zh_CN: 选择
 zh_TW: 選取"
 hbui.DropdownItem.selected	selected	"Original Translation
 zh_CN: 已选择
-zh_TW: 已選擇"
+zh_TW: 已選取"
 hbui.DropdownItem.unselected	not selected	"Original Translation
-zh_CN: 未当选
+zh_CN: 未选择
 zh_TW: 未選擇"
 hbui.EditRealmWorld.ConfirmModals.cancel	Cancel	"Original Translation
 zh_CN: 取消
@@ -18432,6 +18442,9 @@ zh_TW: %1$s/%2$s"
 hbui.InboxContentItem.narration.createdBy	By %1$s	"Original Translation
 zh_CN: 作者：%1$s
 zh_TW: 作者：%1$s"
+hbui.InboxContentItem.narration.discountAmount	%1$s discount	Original Translation
+hbui.InboxContentItem.narration.listItemHint	Click to view list item	Original Translation
+hbui.InboxContentItem.narration.listItemRole	List Item	Original Translation
 hbui.InboxContentItem.view	View	"Original Translation
 zh_CN: 查看
 zh_TW: 檢視"
@@ -18921,7 +18934,7 @@ zh_TW: 無法加入 Realm"
 hbui.JoinRealmsServerError.skinIssue.cancel	Cancel	"Original Translation
 zh_CN: 取消
 zh_TW: 取消"
-hbui.JoinRealmsServerError.skinIssue.invalidCrossPlatformSkin	Your current skin violates our Community Standards. Please select a different skin.	"Original Translation
+hbui.JoinRealmsServerError.skinIssue.invalidCrossPlatformSkin	Sorry, this skin can’t be worn for cross-platform multiplayer. Select a new skin and try again.	"Original Translation
 zh_CN: 当前皮肤违反了我们的社区标准。请选择不同的皮肤。
 zh_TW: 您目前的外觀違反了社群守則。請選擇其他外觀。"
 hbui.JoinRealmsServerError.skinIssue.learnMore	Community Standards	"Original Translation
@@ -21634,6 +21647,8 @@ zh_TW: 此玩家已加入您的派對"
 hbui.PlayerListItem.narration.playerProfileHint	Press to access player profile	"Original Translation
 zh_CN: 按下以访问玩家档案
 zh_TW: 按下以存取玩家個人檔案"
+hbui.PlayerListItem.narration.realmInviteButtonText	Invite %1$s to Realm	Original Translation
+hbui.PlayerListItem.narration.realmPlayerInvited	This player has been invited	Original Translation
 hbui.PlayerListItem.narration.requestAccepted	You accepted a request from this player	Original Translation
 hbui.PlayerListItem.narration.requestCanceled	You canceled a request you sent to this player	Original Translation
 hbui.PlayerListItem.narration.requestDeleted	You deleted a request from this player	Original Translation
@@ -21655,6 +21670,9 @@ zh_TW: 正在遊玩 %s"
 hbui.PlayerListItem.playingInSameWorld	Playing in this world	"Original Translation
 zh_CN: 正在这个世界中游玩
 zh_TW: 在這個世界遊玩"
+hbui.PlayerListItem.realmInviteButtonInputLegend	Invite to Realm	Original Translation
+hbui.PlayerListItem.realmInviteButtonText	Invite	Original Translation
+hbui.PlayerListItem.realmInviteSent	Request sent	Original Translation
 hbui.PlayerListItem.receivedRequest	Sent you a request	"Original Translation
 zh_CN: 向你发送了请求
 zh_TW: 向你傳送了請求"
@@ -22531,11 +22549,17 @@ hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.confirm.message.single	Are you 
 hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.confirm.overwrite	Overwrite	Original Translation
 hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.confirm.title.plural	Overwrite %1$s saves?	Original Translation
 hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.confirm.title.single	Overwrite save?	Original Translation
+hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.enumeration	%1$s of %2$s	Original Translation
 hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.header	%1$s storage	Original Translation
+hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.narrationDisabled	Disabled	Original Translation
+hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.narrationSelected	Selected	Original Translation
+hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.narrationUnselected	Unselected	Original Translation
 hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.needed	needed	Original Translation
 hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.overwriteCount.plural	Overwrite %1$s saves	Original Translation
 hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.overwriteCount.single	Overwrite %1$s save	Original Translation
+hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.savesListNarrationTitle	Saves	Original Translation
 hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.selected	selected	Original Translation
+hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.storageNeededNarration	Storage needed . %1$s selected of %2$s needed	Original Translation
 hbui.Realms.RealmsHub.SavesScreen.OverwriteSaves.successSnackbar	Saved to Realm storage	Original Translation
 hbui.Realms.RealmsHub.SavesScreen.RenameModal.cancel	Cancel	"Original Translation
 zh_CN: 取消
@@ -22561,22 +22585,25 @@ hbui.Realms.RealmsHub.SavesScreen.SaveListItem.collapseInputLegend	Collapse	"Ori
 zh_CN: 折叠
 zh_TW: 收合"
 hbui.Realms.RealmsHub.SavesScreen.SaveListItem.creative	Creative	Original Translation
+hbui.Realms.RealmsHub.SavesScreen.SaveListItem.enumeration	%1$s of %2$s	Original Translation
 hbui.Realms.RealmsHub.SavesScreen.SaveListItem.expandInputLegend	Expand	"Original Translation
 zh_CN: 展开
 zh_TW: 展開"
 hbui.Realms.RealmsHub.SavesScreen.SaveListItem.hardcore	Hardcore	"Original Translation
 zh_CN: 极限
 zh_TW: 極限"
+hbui.Realms.RealmsHub.SavesScreen.SaveListItem.narrationActionsHint	Use arrow right for additional actions	Original Translation
 hbui.Realms.RealmsHub.SavesScreen.SaveListItem.narrationCollapsed	Collapsed	"Original Translation
 zh_CN: 已折叠
 zh_TW: 已收合"
+hbui.Realms.RealmsHub.SavesScreen.SaveListItem.narrationDetailsName	Save details	Original Translation
 hbui.Realms.RealmsHub.SavesScreen.SaveListItem.narrationExpanded	Expanded	"Original Translation
 zh_CN: 已展开
 zh_TW: 已展開"
 hbui.Realms.RealmsHub.SavesScreen.SaveListItem.optionsInputLegend	Options	"Original Translation
 zh_CN: 选项
 zh_TW: 選項"
-hbui.Realms.RealmsHub.SavesScreen.SaveListItem.optionsNarration	Open options menu	"Original Translation
+hbui.Realms.RealmsHub.SavesScreen.SaveListItem.optionsNarration	Save options . Button	"Original Translation
 zh_CN: 打开主页菜单
 zh_TW: 開啟選項功能表"
 hbui.Realms.RealmsHub.SavesScreen.SaveListItem.resourcePacks	Resource packs	"Original Translation
@@ -22615,6 +22642,7 @@ hbui.Realms.RealmsHub.SavesScreen.realmReplacedSnackbar	Realm replaced	Original 
 hbui.Realms.RealmsHub.SavesScreen.realmStorage	Realm storage	"Original Translation
 zh_CN: Realm 存储
 zh_TW: Realm 儲存空間"
+hbui.Realms.RealmsHub.SavesScreen.realmStorageNarration	Realm storage information . %1$s%2$s . Realm storage is kept on the cloud.	Original Translation
 hbui.Realms.RealmsHub.SavesScreen.restoreActiveWorld	Restore your Realm's active world using a save from the list.	"Original Translation
 zh_CN: 用列表中的存档恢复你 Realm 的活跃世界。
 zh_TW: 使用清單中的存檔還原 Realm 正在使用的世界。"
@@ -23495,6 +23523,11 @@ zh_TW: 通知已關閉"
 hbui.RealmsFeedModeration.notify.title	Feed Moderation	"Original Translation
 zh_CN: 动态监管
 zh_TW: 動態消息管理"
+hbui.RealmsLaunchInEditorAsPartyLeaderWarningModal.body1	The party cannot follow you into Editor. If any of them are admins on this Realm, they can launch in Editor on their own.	Original Translation
+hbui.RealmsLaunchInEditorAsPartyLeaderWarningModal.body2	If you choose to edit on this Realm, they won't be able to join you.	Original Translation
+hbui.RealmsLaunchInEditorAsPartyLeaderWarningModal.continue	Continue	Original Translation
+hbui.RealmsLaunchInEditorAsPartyLeaderWarningModal.goBack	Go back	Original Translation
+hbui.RealmsLaunchInEditorAsPartyLeaderWarningModal.title	Party cannot follow	Original Translation
 hbui.RealmsMultiplayerPrivilegeBlockedModal.Platform_NintendoSwitch	You cannot play online multiplayer because of a Parental Control restriction. View and manage your multiplayer settings with “Communicating With Others” in the Parental Controls.	"Original Translation
 zh_CN: 由于家长控制的限制，你无法进行在线多人游戏。查看并使用家长控制中的“与他人交流”管理你的多人游戏设置。
 zh_TW: 由於有「家長監護功能」的限制，因此你無法玩線上多人遊戲。請在「家長監護功能」的「可與他人通訊」中檢視和管理你的多人遊戲設定。"
@@ -25738,6 +25771,7 @@ zh_TW: 自殘或自殺"
 hbui.ReportPlayerRoute.sexuallyInappropriate	Sexually inappropriate	"Original Translation
 zh_CN: 不恰当性内容
 zh_TW: 性騷擾"
+hbui.ReportPlayerRoute.sidePanel.narrationRole	Description	Original Translation
 hbui.ReportPlayerRoute.sidePanel.text	Reporting %1$s	"Original Translation
 zh_CN: 正在举报 %1$s
 zh_TW: 正在檢舉 %1$s"
@@ -26212,6 +26246,9 @@ zh_TW: 選取範本"
 hbui.SeedTemplatesRoute.title	Seed templates	"Original Translation
 zh_CN: 种子模板
 zh_TW: 種子範本"
+hbui.SentimentQuestion.narration.buttonDisabled	Disabled	Original Translation
+hbui.SentimentQuestion.narration.buttonDisabledHint	Select a response to enable	Original Translation
+hbui.SentimentQuestion.narration.enumeration	%1$s of %2$s	Original Translation
 hbui.SentimentQuestion.sentimentSubmittedMessage	Thanks for helping improve the game! Share more thoughts on our feedback page or suggest new ideas!	"Original Translation
 zh_CN: 感谢帮助改进游戏！欢迎在我们的反馈页面分享更多想法或提出新想法！
 zh_TW: 感謝您協助改善遊戲！歡迎到意見反應頁面分享更多想法，或提出新點子！"
@@ -26398,6 +26435,8 @@ zh_TW: 返回"
 hbui.Settings.storage.emptyList.title	No %1$s found	"Original Translation
 zh_CN: 未找到%1$s
 zh_TW: 找不到 %1$s"
+hbui.Settings.storage.inlineMessage.convertWorld	Click a world to convert it into a playable world	Original Translation
+hbui.Settings.storage.legacyWorlds.title	Old worlds	Original Translation
 hbui.Settings.storage.listHeader.delete	Delete	"Original Translation
 zh_CN: 删除
 zh_TW: 刪除"
@@ -26467,6 +26506,10 @@ zh_TW: 世界"
 hbui.Settings.storage.listItem.type.worldTemplate	World template	"Original Translation
 zh_CN: 世界模板
 zh_TW: 世界範本"
+hbui.Settings.storage.modal.confirmConvert.paragraph1	"You need to convert ""%1$s"" into the latest version of Minecraft to make it playable."	Original Translation
+hbui.Settings.storage.modal.confirmConvert.primaryActionLabel	Convert	Original Translation
+hbui.Settings.storage.modal.confirmConvert.secondaryActionLabel	Cancel	Original Translation
+hbui.Settings.storage.modal.confirmConvert.title	Converting your world	Original Translation
 hbui.Settings.storage.modal.confirmDelete.paragraph1	Are you sure you want to delete the selected items? These items will be lost forever (A long time!)	"Original Translation
 zh_CN: 确定要删除选中的物品吗？这些物品将永远丢失（很长一段时间！）
 zh_TW: 確定要刪除所選物品嗎？物品將永遠無法使用！(長時間！)"
@@ -26494,6 +26537,7 @@ zh_TW: 下列世界可能無法正常運作："
 hbui.Settings.storage.resourcePacks.title	Resource packs	"Original Translation
 zh_CN: 资源包
 zh_TW: 資源包"
+hbui.Settings.storage.retailToPreviewWorlds.title	Retail worlds	Original Translation
 hbui.Settings.storage.unknownType.title	Unknown type	"Original Translation
 zh_CN: 未知的类型
 zh_TW: 未知類型"
@@ -42657,6 +42701,10 @@ zh_TW: 主持人已將您從遊戲中移除。"
 permissions.removeplayer.title	Remove Player Confirmation	"Original Translation
 zh_CN: 移除玩家确认
 zh_TW: 移除玩家確認"
+permissions.servertrust.button.doNotTrust	Don't Trust	Original Translation
+permissions.servertrust.button.trust	Trust and Join	Original Translation
+permissions.servertrust.message	You are connecting to %1$s for the first time. Only trust servers you recognize.	Original Translation
+permissions.servertrust.title	Trust this server?	Original Translation
 permissions.title	Player Permissions	"Original Translation
 zh_CN: 玩家权限
 zh_TW: 玩家權限"
@@ -46814,6 +46862,8 @@ zh_TW: 維度名稱必須採用 namespace:name 格式，並使用小寫字母、
 resourcePack.editor.customMeshTool.button.cancel	Cancel	"Original Translation
 zh_CN: 取消
 zh_TW: 取消"
+resourcePack.editor.customMeshTool.button.changeMesh	Change Mesh	Original Translation
+resourcePack.editor.customMeshTool.button.changeMesh.tooltip	Import a different mesh file. Your current preview settings are kept if you cancel.	Original Translation
 resourcePack.editor.customMeshTool.button.import	Import Custom Mesh	"Original Translation
 zh_CN: 导入自定义网格
 zh_TW: 匯入自訂網格"
@@ -46910,12 +46960,17 @@ zh_TW: 位置"
 resourcePack.editor.customMeshTool.label.previewSettings	Preview Settings	"Original Translation
 zh_CN: 预览设置
 zh_TW: 預覽設定"
+resourcePack.editor.customMeshTool.label.renderMeshWithOtherTools	Preview always visible	Original Translation
 resourcePack.editor.customMeshTool.label.rollX	Roll (X, degrees)	"Original Translation
 zh_CN: 翻滚（X，度）
 zh_TW: 翻滾角 (X，度)"
+resourcePack.editor.customMeshTool.label.scaleBy	Scale By	Original Translation
 resourcePack.editor.customMeshTool.label.sizeBlocks	Size (blocks on longest axis)	"Original Translation
 zh_CN: 尺寸（最长轴上的方块）
 zh_TW: 大小 (最長軸方塊數)"
+resourcePack.editor.customMeshTool.label.sizeDepth	Size (blocks on depth)	Original Translation
+resourcePack.editor.customMeshTool.label.sizeHeight	Size (blocks on height)	Original Translation
+resourcePack.editor.customMeshTool.label.sizeWidth	Size (blocks on width)	Original Translation
 resourcePack.editor.customMeshTool.label.yawY	Yaw (Y, degrees)	"Original Translation
 zh_CN: 偏航（Y，度）
 zh_TW: 偏航角 (Y，度)"
@@ -46925,6 +46980,12 @@ zh_TW: 正在放置方塊"
 resourcePack.editor.customMeshTool.previewSettings.tooltip	Adjust the position, rotation and scale of the mesh preview. This will control block placement when you Place Blocks	"Original Translation
 zh_CN: 调整网格预览的位置、旋转和缩放。放置方块时，这将控制方块放置
 zh_TW: 調整網格預覽位置、旋轉與縮放。這會在「放置方塊」時控制方塊放置方式"
+resourcePack.editor.customMeshTool.renderMeshWithOtherTools.tooltip	When active, mesh preview is visible but frozen when using other tools. Disable to hide the mesh while mesh tool is inactive.	Original Translation
+resourcePack.editor.customMeshTool.scaleAxis.depth	Depth (Z)	Original Translation
+resourcePack.editor.customMeshTool.scaleAxis.height	Height (Y)	Original Translation
+resourcePack.editor.customMeshTool.scaleAxis.longest	Longest Axis	Original Translation
+resourcePack.editor.customMeshTool.scaleAxis.width	Width (X)	Original Translation
+resourcePack.editor.customMeshTool.scaleBy.tooltip	Choose which axis the Size value measures. Scaling stays uniform across all axes.	Original Translation
 resourcePack.editor.customMeshTool.title	Custom Mesh	"Original Translation
 zh_CN: 自定义网格
 zh_TW: 自訂網格"
@@ -52451,10 +52512,10 @@ zh_TW: 以玩家 %s 身分加入"
 splitscreen.joyconError.toastMessage	You have too many controllers connected while in Local Network Mode to join this game.	"Original Translation
 zh_CN: 你要加入的游戏在本地网络模式已连接太多控制器。
 zh_TW: 您要加入的遊戲在本機網路模式已連接太多控制器。"
-splitscreen.unavailable.toastBodyInfo	Tap for more information.	"Original Translation
+splitscreen.unavailable.toastBodyInfo	Connect your controllers and try again.	"Original Translation
 zh_CN: 点击查看更多信息。
 zh_TW: 輕觸以取得更多資訊。"
-splitscreen.unavailable.toastHeader	Split Screen Is Unavailable	"Original Translation
+splitscreen.unavailable.toastHeader	Split screen is unavailable	"Original Translation
 zh_CN: 拆分屏幕不可用
 zh_TW: 分割畫面無法提供使用"
 splitscreen.unavailable.toastMessage	A second player can't join right now.	"Original Translation
@@ -52721,6 +52782,7 @@ zh_TW: 世界範本"
 storageManager.contentType.worlds	Worlds	"Original Translation
 zh_CN: 世界
 zh_TW: 世界"
+storageManager.convertWorld.complete	"You have converted your world. You can now find it in ""all worlds"""	Original Translation
 storageManager.delete	Delete	"Original Translation
 zh_CN: 删除
 zh_TW: 刪除"
@@ -52793,6 +52855,12 @@ zh_TW: 目前並未安裝 %s。"
 storageManager.download.premium.end	Would you like to download %s ( %s )?	"Original Translation
 zh_CN: 您想要下载 %s ( %s )吗？
 zh_TW: 您要下載 %s ( %s ) 嗎？"
+storageManager.fetchWorlds.complete.legacy_worlds	Successfully found %s old worlds	Original Translation
+storageManager.fetchWorlds.complete.retailtopreview_worlds	Successfully found %s retail worlds	Original Translation
+storageManager.fetchWorlds.failed	No worlds from other versions of Minecraft detected	Original Translation
+storageManager.fetchWorlds.progress.description	This may take a few minutes	Original Translation
+storageManager.fetchWorlds.progress.legacy_worlds	Fetching old worlds	Original Translation
+storageManager.fetchWorlds.progress.retailtopreview_worlds	Fetching retail worlds	Original Translation
 storageManager.groupPack	Add-On	"Original Translation
 zh_CN: 附加内容
 zh_TW: 附加內容"
@@ -52862,6 +52930,7 @@ zh_TW: 雲端"
 storageManager.storageLocation.local	Local	"Original Translation
 zh_CN: 本地
 zh_TW: 本機"
+storageManager.sync	Sync	Original Translation
 storageManager.sync_legacy_worlds	Sync Old Worlds	"Original Translation
 zh_CN: 同步旧世界
 zh_TW: 同步舊版世界"
@@ -53264,6 +53333,11 @@ zh_TW: 連結已複製到剪貼簿！"
 store.createdBy	By %s	"Original Translation
 zh_CN: 作者：%s
 zh_TW: 作者：%s"
+store.creator.follow	Follow	Original Translation
+store.creator.following	Following	Original Translation
+store.creator.toast.failed	Creator %s cannot be followed/unfollowed at this time	Original Translation
+store.creator.toast.followed	You are now following creator %s	Original Translation
+store.creator.toast.unfollowed	You have unfollowed creator %s	Original Translation
 store.csb	Marketplace Pass	"Original Translation
 zh_CN: Marketplace Pass
 zh_TW: Marketplace Pass"
@@ -53315,13 +53389,13 @@ zh_TW: 內容"
 store.csb.content.contentDescription	Premium, curated creator-made content, including top-rated creations and player favorites.	"Original Translation
 zh_CN: 创作者制作的优质精选内容，包括最受好评的创作作品和玩家的最爱。
 zh_TW: 由創作者精心打造的優質內容，包含頂級創作與玩家最愛。"
-store.csb.content.popularPacks	Discover Marketplace Pass	"Original Translation
+store.csb.content.popularPacks	Included in Marketplace Pass	"Original Translation
 zh_CN: 了解 Marketplace Pass
 zh_TW: 探索 Marketplace Pass"
-store.csb.content.viewAllPacks	VIEW ALL PACKS	"Original Translation
+store.csb.content.viewAllPacks	All Included Content	"Original Translation
 zh_CN: 查看所有的包
 zh_TW: 檢視所有套件"
-store.csb.content.viewCharacterCreatorItems	VIEW CHARACTER CREATOR ITEMS	"Original Translation
+store.csb.content.viewCharacterCreatorItems	CHARACTER CREATOR SET	"Original Translation
 zh_CN: 查看角色编辑器物品
 zh_TW: 檢視自訂角色物品"
 store.csb.contentPacks.mashupDescription	Try a bit of everything with mash-ups!	"Original Translation
@@ -53588,6 +53662,7 @@ zh_TW: 正在下載..."
 store.downloading.title	Downloading: %s	"Original Translation
 zh_CN: 正在下载：%s
 zh_TW: 下載中：%s"
+store.editorial.starter.bundle.description	*You'll buy %s Minecoins for %s and get all listed packs in the bundle (worth %s Minecoins) for free.	Original Translation
 store.equipped	Claimed	"Original Translation
 zh_CN: 已领取
 zh_TW: 已領取"
