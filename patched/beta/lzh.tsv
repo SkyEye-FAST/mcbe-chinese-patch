@@ -1754,6 +1754,11 @@ zh_TW: 找到錯誤？請至 bugs.mojang.com 告訴我們"	""
 "beta.loading.9"	"If your friends can't join your world, it may be because they aren't also on the beta."	"Original Translation
 zh_CN: 如果您的好友无法加入您的世界，那可能是因为他们玩的不是测试版。
 zh_TW: 如果你的好友無法加入你的世界，可能是因為他們並非同樣使用測試版。"	""
+"betaFeedback.qr.body.line1"	"Share your feedback by scanning the QR code with your device."	"Original Translation"	""
+"betaFeedback.qr.body.line2"	"Thanks for helping us improve Minecraft for everyone."	"Original Translation"	""
+"betaFeedback.qr.close"	"Close"	"Original Translation"	""
+"betaFeedback.qr.header"	"Your opinions matter!"	"Original Translation"	""
+"betaFeedback.qr.title"	"Beta Feedback"	"Original Translation"	""
 "biome.bamboo_jungle.name"	"Bamboo Jungle"	"Original Translation
 zh_CN: 竹林
 zh_TW: 竹林"	""
@@ -3155,6 +3160,7 @@ zh_TW: /difficulty <new difficulty>"	""
 "commands.downfall.success"	"Toggled downfall"	"Original Translation
 zh_CN: 天气已切换
 zh_TW: 已切換天氣"	""
+"commands.editor-allowlist.description"	"Manages the editor allowlist."	"Original Translation"	""
 "commands.editor.project.beginExport"	"Exporting..."	"Original Translation
 zh_CN: 正在导出...
 zh_TW: 正在匯出..."	""
@@ -5768,15 +5774,12 @@ zh_TW: 如果其他人在使用「加入代碼」或「共用連結」加入您�
 "course.edu.conInfoHostTooltipTextScreenReader"	"You can share the Connection I D if others have problems joining your world using the Join Code or shared link."	"Original Translation
 zh_CN: 如果其他人在使用“加入代码”或“共享”链接加入你的世界时遇到问题，则可以共享连接 ID。
 zh_TW: 如果其他人在使用「加入代碼」或「共用連結」加入您的世界時遇到問題，您可以分享連線 ID。"	""
+"course.edu.conInfoJoinerTooltipText"	"The host can find the Connection ID on the multiplayer tab of their world's Game Menu. Connection ID accepts digits 0-9 and letters A-F."	"Original Translation"	""
+"course.edu.conInfoJoinerTooltipTextScreenReader"	"The host can find the Connection I D on the multiplayer tab of their world's Game Menu. Connection I D accepts digits 0-9 and letters A to F"	"Original Translation"	""
 "course.edu.conInfoPlaceholder"	"Please enter the Connection ID"	"Original Translation
 zh_CN: 请输入连接 ID
 zh_TW: 請輸入連線 ID"	""
-"course.edu.conInfoTooltipText"	"The host can find the Connection ID on the multiplayer tab of their world's Game Menu."	"Original Translation
-zh_CN: 主机可以在其世界游戏菜单的多人游戏选项卡上找到连接 ID。
-zh_TW: 主持人可以在自己世界的遊戲選單中，在多人遊戲分頁上找到連線 ID。"	""
-"course.edu.conInfoTooltipTextScreenReader"	"The host can find the Connection ID on the multiplayer tab of their world's Game Menu."	"Original Translation
-zh_CN: 主机可以在其世界游戏菜单的多人游戏选项卡上找到连接 ID。
-zh_TW: 主持人可以在自己世界的遊戲選單中，在多人遊戲分頁上找到連線 ID。"	""
+"course.edu.conInfoPlaceholder.tts"	"Please enter the Connection I D"	"Original Translation"	""
 "course.edu.connectionFailed"	"Oops! We think you are not connected to the internet. Check your connection and try again!"	"Original Translation
 zh_CN: 糟糕！您似乎已经断开了网络连接。请检查您的网络连接并重试！
 zh_TW: 糟糕！我們認為您並未與網際網路連線。請檢查您的連線並再試一次！"	""
@@ -6440,6 +6443,8 @@ zh_TW: 實驗性體素形狀功能"	""
 "createWorldScreen.experimentalVoxelShapeFeaturesDescription"	"Enables the use of voxel shapes for some vanilla and custom blocks"	"Original Translation
 zh_CN: 允许将体素形状功能应用于部分原版及自定义方块
 zh_TW: 啟用部分原版與自訂方塊的體素形狀功能"	""
+"createWorldScreen.experimentalY2026Drop3"	"Drop 3 of 2026"	"Original Translation"	""
+"createWorldScreen.experimentalY2026Drop3Description"	"Explore a new surface biome and find the wandering trader's hidden stashes spread throughout the world"	"Original Translation"	""
 "createWorldScreen.experimentalgameplay"	"Experiments"	"Original Translation
 zh_CN: 实验性游戏内容
 zh_TW: 實驗性內容"	""
@@ -7719,6 +7724,7 @@ zh_TW: 伺服器處於編輯器模式，連線失敗。"	""
 "disconnectionScreen.editor.mismatchVanillaWorld"	"This world is a not in Editor Mode. It cannot be loaded."	"Original Translation
 zh_CN: 此世界未处于编辑器模式。无法加载。
 zh_TW: 這個世界未處於編輯器模式，無法載入。"	""
+"disconnectionScreen.editor.notAllowed"	"You aren't allowed to join this server as an Editor."	"Original Translation"	""
 "disconnectionScreen.errorCode"	"Error Code:"	"Original Translation
 zh_CN: 错误代码：
 zh_TW: 錯誤代碼："	""
@@ -9873,6 +9879,8 @@ zh_TW: 此課程無法多人遊戲。"	""
 "edu.pause.nethernetLabel"	"CONNECTION ID"	"Original Translation
 zh_CN: 连接 ID
 zh_TW: 連線 ID"	""
+"edu.pause.nethernetLabel.copyToast.title"	"Copied Connection ID to clipboard!"	"Original Translation"	""
+"edu.pause.nethernetLabel.tts"	"CONNECTION I D"	"Original Translation"	""
 "edu.pause.port"	"PORT"	"Original Translation
 zh_CN: 端口
 zh_TW: 連接埠"	""
@@ -15846,7 +15854,7 @@ zh_TW: 選項"	""
 zh_CN: 已禁用
 zh_TW: 已停用"	""
 "hbui.DropdownItem.elementType"	"item"	"Original Translation
-zh_CN: 物品
+zh_CN: 项目
 zh_TW: 物品"	""
 "hbui.DropdownItem.narrationComponentType"	"Option"	"Original Translation
 zh_CN: 选项
@@ -15856,9 +15864,9 @@ zh_CN: 选择
 zh_TW: 選取"	""
 "hbui.DropdownItem.selected"	"selected"	"Original Translation
 zh_CN: 已选择
-zh_TW: 已選取"	""
+zh_TW: 已選擇"	""
 "hbui.DropdownItem.unselected"	"not selected"	"Original Translation
-zh_CN: 未选择
+zh_CN: 未当选
 zh_TW: 未選擇"	""
 "hbui.EditRealmWorld.ConfirmModals.cancel"	"Cancel"	"Original Translation
 zh_CN: 取消
@@ -21470,6 +21478,8 @@ zh_TW: 按鈕"	""
 "hbui.PlayerCard.buttonSiblings"	"%1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
 zh_TW: %1$s/%2$s"	""
+"hbui.PlayerCard.cancelRequestButton"	"Cancel request"	"Original Translation"	""
+"hbui.PlayerCard.canceledButton"	"Canceled"	"Original Translation"	""
 "hbui.PlayerCard.cardNarration"	"Player details"	"Original Translation
 zh_CN: 玩家细节
 zh_TW: 玩家詳細資訊"	""
@@ -22438,6 +22448,7 @@ zh_TW: 正在擷取 Realm 資訊..."	""
 "hbui.Realms.LoadingModals.fetchingSubscriptionInformation"	"Fetching subscription information..."	"Original Translation
 zh_CN: 正在获取订阅信息...
 zh_TW: 正在擷取訂閱資訊…"	""
+"hbui.Realms.LoadingModals.leavingRealm"	"Leaving Realm"	"Original Translation"	""
 "hbui.Realms.LoadingModals.loading"	"Loading..."	"Original Translation
 zh_CN: 加载中...
 zh_TW: 載入中..."	""
@@ -22929,6 +22940,7 @@ zh_TW: 模擬距離"	""
 "hbui.Realms.RealmsHub.Settings.Server.simDistance.valueText"	"%1$s chunks"	"Original Translation
 zh_CN: %1$s 个区块
 zh_TW: %1$s 區塊"	""
+"hbui.Realms.RealmsHub.Settings.Subscriptions.Button.Delete"	"Delete"	"Original Translation"	""
 "hbui.Realms.RealmsHub.Settings.Subscriptions.Button.LearnMore"	"Learn more"	"Original Translation
 zh_CN: 了解更多
 zh_TW: 深入了解"	""
@@ -22938,6 +22950,11 @@ zh_TW: 管理訂閱"	""
 "hbui.Realms.RealmsHub.Settings.Subscriptions.Button.Select"	"Select"	"Original Translation
 zh_CN: 选择
 zh_TW: 選取"	""
+"hbui.Realms.RealmsHub.Settings.Subscriptions.DeleteModal.body.p1"	"Your Realm will be permanently deleted."	"Original Translation"	""
+"hbui.Realms.RealmsHub.Settings.Subscriptions.DeleteModal.body.p2"	"You will not be able to access your worlds, backups, member list or posted stories."	"Original Translation"	""
+"hbui.Realms.RealmsHub.Settings.Subscriptions.DeleteModal.cancel"	"Cancel"	"Original Translation"	""
+"hbui.Realms.RealmsHub.Settings.Subscriptions.DeleteModal.deleteRealm"	"Yes, delete this realm"	"Original Translation"	""
+"hbui.Realms.RealmsHub.Settings.Subscriptions.DeleteModal.title"	"Delete Realm?"	"Original Translation"	""
 "hbui.Realms.RealmsHub.Settings.Subscriptions.ManageModal.bodyPS4"	"To manage your Realms subscription you will need to access your settings on your PlayStation®4 console and navigate through Account Management, Account Information and to the Services List."	"Original Translation
 zh_CN: 要管理你的 Realms 订阅，你将需要访问你的 PlayStation®4 主机设置，并先后经由账号管理和账号信息，最终进入服务列表。
 zh_TW: 若要管理您的 Realms 定期服務，您將必須存取您的 PlayStation®4 主機設定，請前往「帳戶管理」、「帳戶資料」，然後前往「服務清單」。"	""
@@ -24125,9 +24142,10 @@ zh_TW: 免費試用 28 天，之後每 30 天收費 %1$s"	""
 "hbui.RealmsPurchaseSubscriptionRoute.banner.subheading.trial.nx"	"Free 28-day trial, then %1$s/30 days"	"Original Translation
 zh_CN: 免费试玩 28 天，然后 %1$s/30 天
 zh_TW: 免費試用 28 天，之後每 30 天 %1$s"	""
-"hbui.RealmsPurchaseSubscriptionRoute.checkboxLabel"	"I agree"	"Original Translation
+"hbui.RealmsPurchaseSubscriptionRoute.checkboxLabel"	"I agree to the above subscription terms. Subscriptions continue automatically unless cancelled."	"Original Translation
 zh_CN: 同意
 zh_TW: 我同意"	""
+"hbui.RealmsPurchaseSubscriptionRoute.checkboxLabelBelow"	"I agree to the below subscription terms. Subscriptions continue automatically unless cancelled."	"Original Translation"	""
 "hbui.RealmsPurchaseSubscriptionRoute.checkboxUncheckedHint"	"Accept terms and conditions in order to create a Realm"	"Original Translation
 zh_CN: 接受条款和条件以创建 Realm
 zh_TW: 接受條款和條件才能建立 Realm"	""
@@ -24287,15 +24305,14 @@ zh_TW: 處理中"	""
 "hbui.RealmsPurchaseSubscriptionRoute.panelButton.enum"	"%1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
 zh_TW: %1$s/%2$s"	""
+"hbui.RealmsPurchaseSubscriptionRoute.panelButton.eula"	"EULA"	"Original Translation"	""
 "hbui.RealmsPurchaseSubscriptionRoute.panelButton.privacyPolicy"	"Privacy policy"	"Original Translation
 zh_CN: 隐私政策
 zh_TW: 隱私政策"	""
 "hbui.RealmsPurchaseSubscriptionRoute.panelButton.role"	"Group"	"Original Translation
 zh_CN: 组
 zh_TW: 群組"	""
-"hbui.RealmsPurchaseSubscriptionRoute.panelButton.termsAndConditions"	"Terms & conditions"	"Original Translation
-zh_CN: 条款和条件
-zh_TW: 條款及條件"	""
+"hbui.RealmsPurchaseSubscriptionRoute.panelButton.serviceAgreement"	"Services Agreement"	"Original Translation"	""
 "hbui.RealmsPurchaseSubscriptionRoute.panelButton.title"	"Terms and conditions"	"Original Translation
 zh_CN: 条款和条件
 zh_TW: 條款及條件"	""
@@ -26435,7 +26452,7 @@ zh_TW: 返回"	""
 "hbui.Settings.storage.emptyList.title"	"No %1$s found"	"Original Translation
 zh_CN: 未找到%1$s
 zh_TW: 找不到 %1$s"	""
-"hbui.Settings.storage.inlineMessage.convertWorld"	"Click a world to convert it into a playable world"	"Original Translation"	""
+"hbui.Settings.storage.inlineMessage.convertWorld"	"Convert any old world to play. A copy will be added to your worlds."	"Original Translation"	""
 "hbui.Settings.storage.legacyWorlds.title"	"Old worlds"	"Original Translation"	""
 "hbui.Settings.storage.listHeader.delete"	"Delete"	"Original Translation
 zh_CN: 删除
@@ -27291,6 +27308,13 @@ zh_TW: 移除失敗"	""
 "hbui.Storage.CloudSyncFailureModal.titleUpload"	"Upload failed"	"Original Translation
 zh_CN: 上传失败
 zh_TW: 上傳失敗"	""
+"hbui.Storage.CloudSyncOutOfStorageModal.description.outOfCloudStorage"	"Your world is %1$s and you only have %2$s available in cloud storage. Remove or delete other worlds to make space."	"Original Translation"	""
+"hbui.Storage.CloudSyncOutOfStorageModal.description.outOfLocalStorage"	"You need %1$s local storage space to complete this action. Free up space by deleting local data such as worlds, add-ons, templates."	"Original Translation"	""
+"hbui.Storage.CloudSyncOutOfStorageModal.description.paragraph"	"Not enough space!"	"Original Translation"	""
+"hbui.Storage.CloudSyncOutOfStorageModal.primaryActionLabel.manageStorage"	"Manage storage"	"Original Translation"	""
+"hbui.Storage.CloudSyncOutOfStorageModal.primaryActionLabel.manageWorlds"	"Manage worlds"	"Original Translation"	""
+"hbui.Storage.CloudSyncOutOfStorageModal.secondaryActionLabel"	"Cancel"	"Original Translation"	""
+"hbui.Storage.CloudSyncOutOfStorageModal.titleUpload"	"Upload failed"	"Original Translation"	""
 "hbui.Storage.ConfirmDeleteModal.paragraph1"	"Are you sure you want to delete %1$s?"	"Original Translation
 zh_CN: 是否确定要删除 %1$s？
 zh_TW: 確定要刪除 %1$s 嗎？"	""
@@ -33381,6 +33405,7 @@ zh_TW: 橡木船"	"柞舟"
 "item.boat.pale_oak.name"	"Pale Oak Boat"	"Original Translation
 zh_CN: 苍白橡木船
 zh_TW: 蒼白橡木船"	"縞柞舟"
+"item.boat.poplar.name"	"Poplar Boat"	"Original Translation"	""
 "item.boat.spruce.name"	"Spruce Boat"	"Original Translation
 zh_CN: 云杉木船
 zh_TW: 杉木船"	"樅舟"
@@ -33558,6 +33583,7 @@ zh_TW: 橡木儲物箱船"	"柞艚"
 "item.chest_boat.pale_oak.name"	"Pale Oak Boat with Chest"	"Original Translation
 zh_CN: 苍白橡木运输船
 zh_TW: 蒼白橡木儲物箱船"	"縞柞艚"
+"item.chest_boat.poplar.name"	"Poplar Boat with Chest"	"Original Translation"	""
 "item.chest_boat.spruce.name"	"Spruce Boat with Chest"	"Original Translation
 zh_CN: 云杉木运输船
 zh_TW: 杉木儲物箱船"	"樅艚"
@@ -34746,6 +34772,9 @@ zh_TW: 豐饒陶器碎片"	"稷陶片"
 "item.poisonous_potato.name"	"Poisonous Potato"	"Original Translation
 zh_CN: 毒马铃薯
 zh_TW: 毒馬鈴薯"	"毒洋芋"
+"item.poplar_door.name"	"Poplar Door"	"Original Translation"	""
+"item.poplar_hanging_sign.name"	"Poplar Hanging Sign"	"Original Translation"	""
+"item.poplar_sign.name"	"Poplar Sign"	"Original Translation"	""
 "item.porkchop.name"	"Raw Porkchop"	"Original Translation
 zh_CN: 生猪排
 zh_TW: 生豬肉"	"生豕肉"
@@ -52746,6 +52775,7 @@ zh_TW: 行為模式包"	""
 "storageManager.contentType.behaviorPacks"	"Behavior Packs"	"Original Translation
 zh_CN: 行为包
 zh_TW: 行為套件"	""
+"storageManager.contentType.behaviorPacks.name"	"Behavior packs"	"Original Translation"	""
 "storageManager.contentType.cachedData"	"Cached Data"	"Original Translation
 zh_CN: 缓存数据
 zh_TW: 快取資料"	""
@@ -52755,15 +52785,18 @@ zh_TW: 無效"	""
 "storageManager.contentType.legacy_worlds"	"Old Worlds"	"Original Translation
 zh_CN: 旧世界
 zh_TW: 舊世界"	""
+"storageManager.contentType.legacy_worlds.name"	"Old worlds"	"Original Translation"	""
 "storageManager.contentType.resourcePack"	"Resource"	"Original Translation
 zh_CN: 资源
 zh_TW: 資源"	""
 "storageManager.contentType.resourcePacks"	"Resource Packs"	"Original Translation
 zh_CN: 资源包
 zh_TW: 資源包"	""
+"storageManager.contentType.resourcePacks.name"	"Resource packs"	"Original Translation"	""
 "storageManager.contentType.retailtopreview_worlds"	"Retail Worlds"	"Original Translation
 zh_CN: 零售世界
 zh_TW: 零售版世界"	""
+"storageManager.contentType.retailtopreview_worlds.name"	"Old Retail worlds"	"Original Translation"	""
 "storageManager.contentType.skinPack"	"Skin Pack"	"Original Translation
 zh_CN: 皮肤包
 zh_TW: 外觀套件"	""
@@ -52782,7 +52815,7 @@ zh_TW: 世界範本"	""
 "storageManager.contentType.worlds"	"Worlds"	"Original Translation
 zh_CN: 世界
 zh_TW: 世界"	""
-"storageManager.convertWorld.complete"	"You have converted your world. You can now find it in ""all worlds"""	"Original Translation"	""
+"storageManager.convertWorld.complete"	"Success! Your world was converted to a copy"	"Original Translation"	""
 "storageManager.delete"	"Delete"	"Original Translation
 zh_CN: 删除
 zh_TW: 刪除"	""
@@ -52855,12 +52888,10 @@ zh_TW: 目前並未安裝 %s。"	""
 "storageManager.download.premium.end"	"Would you like to download %s ( %s )?"	"Original Translation
 zh_CN: 您想要下载 %s ( %s )吗？
 zh_TW: 您要下載 %s ( %s ) 嗎？"	""
-"storageManager.fetchWorlds.complete.legacy_worlds"	"Successfully found %s old worlds"	"Original Translation"	""
-"storageManager.fetchWorlds.complete.retailtopreview_worlds"	"Successfully found %s retail worlds"	"Original Translation"	""
-"storageManager.fetchWorlds.failed"	"No worlds from other versions of Minecraft detected"	"Original Translation"	""
-"storageManager.fetchWorlds.progress.description"	"This may take a few minutes"	"Original Translation"	""
-"storageManager.fetchWorlds.progress.legacy_worlds"	"Fetching old worlds"	"Original Translation"	""
-"storageManager.fetchWorlds.progress.retailtopreview_worlds"	"Fetching retail worlds"	"Original Translation"	""
+"storageManager.fetchWorlds.complete"	"%s worlds found!"	"Original Translation"	""
+"storageManager.fetchWorlds.failed"	"No worlds found"	"Original Translation"	""
+"storageManager.fetchWorlds.progress.description"	"Looking for old worlds..."	"Original Translation"	""
+"storageManager.fetchWorlds.progress.name"	"Sync in progress"	"Original Translation"	""
 "storageManager.groupPack"	"Add-On"	"Original Translation
 zh_CN: 附加内容
 zh_TW: 附加內容"	""
@@ -52931,6 +52962,7 @@ zh_TW: 雲端"	""
 zh_CN: 本地
 zh_TW: 本機"	""
 "storageManager.sync"	"Sync"	"Original Translation"	""
+"storageManager.sync.description"	"Sync to look for old worlds"	"Original Translation"	""
 "storageManager.sync_legacy_worlds"	"Sync Old Worlds"	"Original Translation
 zh_CN: 同步旧世界
 zh_TW: 同步舊版世界"	""
@@ -53684,6 +53716,7 @@ zh_TW: 正在連接至市集…"	""
 "store.free"	"Free"	"Original Translation
 zh_CN: 免费
 zh_TW: 免費"	""
+"store.gift.button.text"	"Gift"	"Original Translation"	""
 "store.giftPromo.day"	"Day %s"	"Original Translation
 zh_CN: 第 %s 天
 zh_TW: 第 %s"	""
@@ -55418,6 +55451,7 @@ zh_TW: 水滴入鍋釜"	"水落於釜"
 "subtitles.block.pointed_dripstone.land"	"Stalactite crashes down"	"Original Translation
 zh_CN: 钟乳石轰然坠落
 zh_TW: 鐘乳石墜落"	"鐘乳石崩墜"
+"subtitles.block.poplar_leaves.ambient"	"Leaves rustle"	"Original Translation"	""
 "subtitles.block.portal.ambient"	"Portal whooshes"	"Original Translation
 zh_CN: 传送门呼啸而过
 zh_TW: 傳送門發出呼嘯聲"	"結界門作"
@@ -58430,6 +58464,9 @@ zh_TW: 黑色蠟燭"	"黑燭"
 "tile.black_candle_cake.name"	"Cake with Black Candle"	"Original Translation
 zh_CN: 带黑色蜡烛的蛋糕
 zh_TW: 蛋糕與黑色蠟燭"	"黑燭之洋糕"
+"tile.black_wool_double_slab.name"	"Black Wool Double Slab"	"Original Translation"	""
+"tile.black_wool_slab.name"	"Black Wool Slab"	"Original Translation"	""
+"tile.black_wool_stairs.name"	"Black Wool Stairs"	"Original Translation"	""
 "tile.blackstone.name"	"Blackstone"	"Original Translation
 zh_CN: 黑石
 zh_TW: 黑石"	"墨石"
@@ -58457,6 +58494,9 @@ zh_TW: 蛋糕與藍色蠟燭"	"靛燭之洋糕"
 "tile.blue_ice.name"	"Blue Ice"	"Original Translation
 zh_CN: 蓝冰
 zh_TW: 藍冰"	"藍冰"
+"tile.blue_wool_double_slab.name"	"Blue Wool Double Slab"	"Original Translation"	""
+"tile.blue_wool_slab.name"	"Blue Wool Slab"	"Original Translation"	""
+"tile.blue_wool_stairs.name"	"Blue Wool Stairs"	"Original Translation"	""
 "tile.bone_block.name"	"Bone Block"	"Original Translation
 zh_CN: 骨块
 zh_TW: 骨頭方塊"	"骨塊"
@@ -58493,6 +58533,9 @@ zh_TW: 蘑菇"	"蕈"
 "tile.brown_mushroom_block.stem.name"	"Mushroom Stem"	"Original Translation
 zh_CN: 蘑菇柄
 zh_TW: 蘑菇莖"	"蕈柄"
+"tile.brown_wool_double_slab.name"	"Brown Wool Double Slab"	"Original Translation"	""
+"tile.brown_wool_slab.name"	"Brown Wool Slab"	"Original Translation"	""
+"tile.brown_wool_stairs.name"	"Brown Wool Stairs"	"Original Translation"	""
 "tile.bubble_column.name"	"Bubble Column"	"Original Translation
 zh_CN: 气泡柱
 zh_TW: 氣泡柱"	""
@@ -59165,6 +59208,9 @@ zh_TW: 青綠色蠟燭"	"黛燭"
 "tile.cyan_candle_cake.name"	"Cake with Cyan Candle"	"Original Translation
 zh_CN: 带青色蜡烛的蛋糕
 zh_TW: 蛋糕與青綠色蠟燭"	"黛燭之洋糕"
+"tile.cyan_wool_double_slab.name"	"Cyan Wool Double Slab"	"Original Translation"	""
+"tile.cyan_wool_slab.name"	"Cyan Wool Slab"	"Original Translation"	""
+"tile.cyan_wool_stairs.name"	"Cyan Wool Stairs"	"Original Translation"	""
 "tile.darkOakFence.name"	"Dark Oak Fence"	"Original Translation
 zh_CN: 深色橡木栅栏
 zh_TW: 黑橡木柵欄"	"黯柞檻"
@@ -60101,12 +60147,18 @@ zh_TW: 灰色蠟燭"	"灰燭"
 "tile.gray_candle_cake.name"	"Cake with Gray Candle"	"Original Translation
 zh_CN: 带灰色蜡烛的蛋糕
 zh_TW: 蛋糕與灰色蠟燭"	"灰燭之洋糕"
+"tile.gray_wool_double_slab.name"	"Gray Wool Double Slab"	"Original Translation"	""
+"tile.gray_wool_slab.name"	"Gray Wool Slab"	"Original Translation"	""
+"tile.gray_wool_stairs.name"	"Gray Wool Stairs"	"Original Translation"	""
 "tile.green_candle.name"	"Green Candle"	"Original Translation
 zh_CN: 绿色蜡烛
 zh_TW: 綠色蠟燭"	"綠燭"
 "tile.green_candle_cake.name"	"Cake with Green Candle"	"Original Translation
 zh_CN: 带绿色蜡烛的蛋糕
 zh_TW: 蛋糕與綠色蠟燭"	"綠燭之洋糕"
+"tile.green_wool_double_slab.name"	"Green Wool Double Slab"	"Original Translation"	""
+"tile.green_wool_slab.name"	"Green Wool Slab"	"Original Translation"	""
+"tile.green_wool_stairs.name"	"Green Wool Stairs"	"Original Translation"	""
 "tile.grindstone.name"	"Grindstone"	"Original Translation
 zh_CN: 砂轮
 zh_TW: 砂輪"	"礪"
@@ -60374,12 +60426,18 @@ zh_TW: 淺藍色蠟燭"	"縹燭"
 "tile.light_blue_candle_cake.name"	"Cake with Light Blue Candle"	"Original Translation
 zh_CN: 带淡蓝色蜡烛的蛋糕
 zh_TW: 蛋糕與淺藍色蠟燭"	"縹燭之洋糕"
+"tile.light_blue_wool_double_slab.name"	"Light Blue Wool Double Slab"	"Original Translation"	""
+"tile.light_blue_wool_slab.name"	"Light Blue Wool Slab"	"Original Translation"	""
+"tile.light_blue_wool_stairs.name"	"Light Blue Wool Stairs"	"Original Translation"	""
 "tile.light_gray_candle.name"	"Light Gray Candle"	"Original Translation
 zh_CN: 淡灰色蜡烛
 zh_TW: 淺灰色蠟燭"	"蒼燭"
 "tile.light_gray_candle_cake.name"	"Cake with Light Gray Candle"	"Original Translation
 zh_CN: 带淡灰色蜡烛的蛋糕
 zh_TW: 蛋糕與淺灰色蠟燭"	"蒼燭之洋糕"
+"tile.light_gray_wool_double_slab.name"	"Light Gray Wool Double Slab"	"Original Translation"	""
+"tile.light_gray_wool_slab.name"	"Light Gray Wool Slab"	"Original Translation"	""
+"tile.light_gray_wool_stairs.name"	"Light Gray Wool Stairs"	"Original Translation"	""
 "tile.light_weighted_pressure_plate.name"	"Light Weighted Pressure Plate"	"Original Translation
 zh_CN: 轻质测重压力板
 zh_TW: 輕型測重壓力板"	"輕踏板"
@@ -60392,6 +60450,9 @@ zh_TW: 淡黃綠色蠟燭"	"翠燭"
 "tile.lime_candle_cake.name"	"Cake with Lime Candle"	"Original Translation
 zh_CN: 带黄绿色蜡烛的蛋糕
 zh_TW: 蛋糕與淡黃綠色蠟燭"	"翠燭之洋糕"
+"tile.lime_wool_double_slab.name"	"Lime Wool Double Slab"	"Original Translation"	""
+"tile.lime_wool_slab.name"	"Lime Wool Slab"	"Original Translation"	""
+"tile.lime_wool_stairs.name"	"Lime Wool Stairs"	"Original Translation"	""
 "tile.lit_blast_furnace.name"	"Lit Blast Furnace"	"Original Translation
 zh_CN: 点燃高炉
 zh_TW: 燃燒的高爐"	""
@@ -60449,6 +60510,9 @@ zh_TW: 洋紅色蠟燭"	"赬燭"
 "tile.magenta_candle_cake.name"	"Cake with Magenta Candle"	"Original Translation
 zh_CN: 带品红色蜡烛的蛋糕
 zh_TW: 蛋糕與洋紅色蠟燭"	"赬燭之洋糕"
+"tile.magenta_wool_double_slab.name"	"Magenta Wool Double Slab"	"Original Translation"	""
+"tile.magenta_wool_slab.name"	"Magenta Wool Slab"	"Original Translation"	""
+"tile.magenta_wool_stairs.name"	"Magenta Wool Stairs"	"Original Translation"	""
 "tile.magma.name"	"Magma Block"	"Original Translation
 zh_CN: 岩浆块
 zh_TW: 熔岩方塊"	"火漿塊"
@@ -60668,6 +60732,10 @@ zh_TW: 橙色蠟燭"	"橙燭"
 "tile.orange_candle_cake.name"	"Cake with Orange Candle"	"Original Translation
 zh_CN: 带橙色蜡烛的蛋糕
 zh_TW: 蛋糕與橙色蠟燭"	"橙燭之洋糕"
+"tile.orange_poplar_leaves.name"	"Orange Poplar Leaves"	"Original Translation"	""
+"tile.orange_wool_double_slab.name"	"Orange Wool Double Slab"	"Original Translation"	""
+"tile.orange_wool_slab.name"	"Orange Wool Slab"	"Original Translation"	""
+"tile.orange_wool_stairs.name"	"Orange Wool Stairs"	"Original Translation"	""
 "tile.oreRuby.name"	"Ruby Ore"	"Original Translation
 zh_CN: 红宝石矿石
 zh_TW: 紅寶石礦"	"赤玉礦"
@@ -60800,6 +60868,9 @@ zh_TW: 蛋糕與粉紅色蠟燭"	"紅燭之洋糕"
 "tile.pink_petals.name"	"Pink Petals"	"Original Translation
 zh_CN: 粉红色花瓣
 zh_TW: 粉紅色花瓣"	"落英"
+"tile.pink_wool_double_slab.name"	"Pink Wool Double Slab"	"Original Translation"	""
+"tile.pink_wool_slab.name"	"Pink Wool Slab"	"Original Translation"	""
+"tile.pink_wool_stairs.name"	"Pink Wool Stairs"	"Original Translation"	""
 "tile.piston.name"	"Piston"	"Original Translation
 zh_CN: 活塞
 zh_TW: 活塞"	"鞲鞴"
@@ -60947,6 +61018,23 @@ zh_TW: 拋光凝灰岩階梯"	"鎣積塊石階"
 "tile.polished_tuff_wall.name"	"Polished Tuff Wall"	"Original Translation
 zh_CN: 磨制凝灰岩墙
 zh_TW: 拋光凝灰岩牆"	"鎣積塊垣"
+"tile.poplar_button.name"	"Poplar Button"	"Original Translation"	""
+"tile.poplar_door.name"	"Poplar Door"	"Original Translation"	""
+"tile.poplar_double_slab.name"	"Poplar Double Slab"	"Original Translation"	""
+"tile.poplar_fence.name"	"Poplar Fence"	"Original Translation"	""
+"tile.poplar_fence_gate.name"	"Poplar Fence Gate"	"Original Translation"	""
+"tile.poplar_hanging_sign.name"	"Poplar Sign"	"Original Translation"	""
+"tile.poplar_log.name"	"Poplar Log"	"Original Translation"	""
+"tile.poplar_planks.name"	"Poplar Planks"	"Original Translation"	""
+"tile.poplar_pressure_plate.name"	"Poplar Pressure Plate"	"Original Translation"	""
+"tile.poplar_sapling.name"	"Poplar Sapling"	"Original Translation"	""
+"tile.poplar_shelf.name"	"Poplar Shelf"	"Original Translation"	""
+"tile.poplar_slab.name"	"Poplar Slab"	"Original Translation"	""
+"tile.poplar_stairs.name"	"Poplar Stairs"	"Original Translation"	""
+"tile.poplar_standing_sign.name"	"Poplar Sign"	"Original Translation"	""
+"tile.poplar_trapdoor.name"	"Poplar Trapdoor"	"Original Translation"	""
+"tile.poplar_wall_sign.name"	"Poplar Wall Sign"	"Original Translation"	""
+"tile.poplar_wood.name"	"Poplar Wood"	"Original Translation"	""
 "tile.portal.name"	"Portal"	"Original Translation
 zh_CN: 传送门
 zh_TW: 傳送門"	"結界門"
@@ -60992,6 +61080,9 @@ zh_TW: 紫色蠟燭"	"紫燭"
 "tile.purple_candle_cake.name"	"Cake with Purple Candle"	"Original Translation
 zh_CN: 带紫色蜡烛的蛋糕
 zh_TW: 蛋糕與紫色蠟燭"	"紫燭之洋糕"
+"tile.purple_wool_double_slab.name"	"Purple Wool Double Slab"	"Original Translation"	""
+"tile.purple_wool_slab.name"	"Purple Wool Slab"	"Original Translation"	""
+"tile.purple_wool_stairs.name"	"Purple Wool Stairs"	"Original Translation"	""
 "tile.purpur_block.chiseled.name"	"Chiseled Purpur"	"Original Translation
 zh_CN: 錾制紫珀
 zh_TW: 鑿刻紫珀塊"	"雕紫珀塊"
@@ -61094,6 +61185,7 @@ zh_TW: 紅色地獄磚"	"焱界赤磚塊"
 "tile.red_nether_brick_stairs.name"	"Red Nether Brick Stairs"	"Original Translation
 zh_CN: 红色下界砖楼梯
 zh_TW: 紅色地獄磚階梯"	"焱界赤磚階"
+"tile.red_poplar_leaves.name"	"Red Poplar Leaves"	"Original Translation"	""
 "tile.red_sandstone.chiseled.name"	"Chiseled Red Sandstone"	"Original Translation
 zh_CN: 錾制红砂岩
 zh_TW: 鑿刻紅沙岩"	"雕赤砂"
@@ -61112,6 +61204,10 @@ zh_TW: 平滑紅沙岩"	"潤赤砂"
 "tile.red_sandstone_stairs.name"	"Red Sandstone Stairs"	"Original Translation
 zh_CN: 红砂岩楼梯
 zh_TW: 紅沙岩階梯"	"潤赤砂階"
+"tile.red_shrub.name"	"Red Shrub"	"Original Translation"	""
+"tile.red_wool_double_slab.name"	"Red Wool Double Slab"	"Original Translation"	""
+"tile.red_wool_slab.name"	"Red Wool Slab"	"Original Translation"	""
+"tile.red_wool_stairs.name"	"Red Wool Stairs"	"Original Translation"	""
 "tile.redstone_block.name"	"Block of Redstone"	"Original Translation
 zh_CN: 红石块
 zh_TW: 紅石方塊"	"赤石塊"
@@ -61238,6 +61334,7 @@ zh_TW: 海鞘"	"海鞘"
 "tile.seagrass.seagrass.name"	"Seagrass"	"Original Translation
 zh_CN: 海草
 zh_TW: 海草"	"海艸"
+"tile.shelf_mushroom.name"	"Shelf Mushroom"	"Original Translation"	""
 "tile.short_dry_grass.name"	"Short Dry Grass"	"Original Translation
 zh_CN: 矮干草丛
 zh_TW: 稀疏乾草"	"淺枯艸"
@@ -61790,6 +61887,8 @@ zh_TW: 剝皮蒼白橡木原木"	"既扡縞柞樁"
 "tile.stripped_pale_oak_wood.name"	"Stripped Pale Oak Wood"	"Original Translation
 zh_CN: 去皮苍白橡木块
 zh_TW: 剝皮蒼白橡木木塊"	"既扡縞柞木"
+"tile.stripped_poplar_log.name"	"Stripped Poplar Log"	"Original Translation"	""
+"tile.stripped_poplar_wood.name"	"Stripped Poplar Wood"	"Original Translation"	""
 "tile.stripped_spruce_log.name"	"Stripped Spruce Log"	"Original Translation
 zh_CN: 去皮云杉原木
 zh_TW: 剝皮杉木原木"	"既扡樅樁"
@@ -62288,6 +62387,9 @@ zh_TW: 白色蠟燭"	"白燭"
 "tile.white_candle_cake.name"	"Cake with White Candle"	"Original Translation
 zh_CN: 带白色蜡烛的蛋糕
 zh_TW: 蛋糕與白色蠟燭"	"白燭之洋糕"
+"tile.white_wool_double_slab.name"	"White Wool Double Slab"	"Original Translation"	""
+"tile.white_wool_slab.name"	"White Wool Slab"	"Original Translation"	""
+"tile.white_wool_stairs.name"	"White Wool Stairs"	"Original Translation"	""
 "tile.wildflowers.name"	"Wildflowers"	"Original Translation
 zh_CN: 野花
 zh_TW: 野花"	"野芳叢"
@@ -62423,6 +62525,10 @@ zh_TW: 蒲公英"	"蒲公英"
 "tile.yellow_flower.name"	"Flower"	"Original Translation
 zh_CN: 花
 zh_TW: 花朵"	"花"
+"tile.yellow_poplar_leaves.name"	"Yellow Poplar Leaves"	"Original Translation"	""
+"tile.yellow_wool_double_slab.name"	"Yellow Wool Double Slab"	"Original Translation"	""
+"tile.yellow_wool_slab.name"	"Yellow Wool Slab"	"Original Translation"	""
+"tile.yellow_wool_stairs.name"	"Yellow Wool Stairs"	"Original Translation"	""
 "tipped_arrow.effect.awkward"	"Tipped Arrow"	"Original Translation
 zh_CN: 药箭
 zh_TW: 藥水箭"	"藥矢"
