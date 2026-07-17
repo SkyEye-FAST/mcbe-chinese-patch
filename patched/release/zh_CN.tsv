@@ -1966,10 +1966,10 @@ zh_CN: 您的世界文件过多。如果想重试，请与 LiveOps 联系。
 zh_TW: 裡面包含的檔案太多。如果你想重試，請與 LiveOps 聯絡。"	"您的世界文件过多。如果想重试，请与 LiveOps 联系。"
 "cloud_upload.input_error_record_already_completed"	"it has already been successfully uploaded. Please get in touch with LiveOps for more information."	"Original Translation
 zh_CN: 世界成功上传。请与 LiveOps 联系以获取更多信息。
-zh_TW: 已經成功上傳。請與 LiveOps 聯絡以獲取更多資訊。"	""
+zh_TW: 已經成功上傳。請與 LiveOps 聯絡以獲取更多資訊。"	"世界成功上传，请与 LiveOps 联系以获取更多信息。"
 "cloud_upload.operation_error_missing_files_on_complete_upload"	"of a network error. Please try again or get in touch with LiveOps."	"Original Translation
 zh_CN: 网络错误。请重试或与 LiveOps 联系。
-zh_TW: 網路錯誤。請重試或與 LiveOps 聯絡。"	""
+zh_TW: 網路錯誤。請重試或與 LiveOps 聯絡。"	"网络出现问题，请重试或与 LiveOps 联系。"
 "cloud_upload.prompt.button.learn_more"	"Learn More"	"Original Translation
 zh_CN: 了解更多
 zh_TW: 瞭解更多"	"了解更多"
