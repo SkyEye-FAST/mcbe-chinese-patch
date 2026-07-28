@@ -1181,6 +1181,7 @@ zh_TW: 餵養"	"喂养"
 "action.interact.fishing"	"Fish"	"Original Translation
 zh_CN: 钓鱼
 zh_TW: 釣魚"	"钓鱼"
+"action.interact.give"	"Give"	"Original Translation"	""
 "action.interact.give_sulfur_cube"	"Give Block"	"Original Translation
 zh_CN: 给予方块
 zh_TW: 給予方塊"	""
@@ -6436,12 +6437,6 @@ zh_TW: 實驗性體素形狀功能"	""
 "createWorldScreen.experimentalVoxelShapeFeaturesDescription"	"Enables the use of voxel shapes for some vanilla and custom blocks"	"Original Translation
 zh_CN: 允许将体素形状功能应用于部分原版及自定义方块
 zh_TW: 啟用部分原版與自訂方塊的體素形狀功能"	""
-"createWorldScreen.experimentalY2026Drop3"	"Drop 3 of 2026"	"Original Translation
-zh_CN: 2026 年第 3 次更新
-zh_TW: 2026 年第 3 波內容更新"	""
-"createWorldScreen.experimentalY2026Drop3Description"	"Explore a new surface biome and find the abandoned camps spread throughout the world"	"Original Translation
-zh_CN: 探索全新地表生物群系，寻找散布在世界各处的废弃营地
-zh_TW: 探索全新的地表生態域，並尋找散佈在世界各地的廢棄營地"	""
 "createWorldScreen.experimentalgameplay"	"Experiments"	"Original Translation
 zh_CN: 实验性游戏内容
 zh_TW: 實驗性內容"	""
@@ -7804,6 +7799,7 @@ zh_TW: 平台限制外觀！"	""
 "disconnectionScreen.loggedinOtherLocation"	"Logged in from other location"	"Original Translation
 zh_CN: 已从其他地点登录
 zh_TW: 從其他位置登入"	""
+"disconnectionScreen.missingStructureData"	"Missing structure data from server."	"Original Translation"	""
 "disconnectionScreen.multiplayerDisabled"	"The world has been set to single player mode."	"Original Translation
 zh_CN: 世界已设置为单人游戏模式。
 zh_TW: 世界已設定為單人玩家模式。"	""
@@ -9640,6 +9636,68 @@ zh_TW: 選取佈局範本"	""
 "editor.prefabInstanceEditor.templatePicker.window.title"	"Layout Template Picker"	"Original Translation
 zh_CN: 布局模板选取器
 zh_TW: 佈局範本選擇器"	""
+"editor.prefabLayoutEditor.actionBar.title"	"Layouts Management"	"Original Translation"	""
+"editor.prefabLayoutEditor.actionBar.tooltip"	"Layout Template Manager"	"Original Translation"	""
+"editor.prefabLayoutEditor.actionBar.tooltip.description"	"Editor to create and edit Layouts. Layouts contain one or more Structures.  Updates made to Layouts or the referenced Structures propagate to all instances of the Layout."	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.addedStructuresPane.addButtonTitle"	"Add"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.addedStructuresPane.title"	"Structures"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.alignAction.bottomLabel"	"Bottom"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.alignAction.bottomTooltip"	"Align the structure to the lowest point"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.alignAction.middleLabel"	"Middle"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.alignAction.middleTooltip"	"Middle Align Action"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.alignAction.title"	"Align Action"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.alignAction.tooltip"	"The Align Action to be applied to the selected structure in the layout"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.alignAction.topLabel"	"Top"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.alignAction.topTooltip"	"Top Align Action"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.cancel"	"Cancel"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.copyToClipboard"	"Content to Clipboard"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.editLayout"	"Edit Layout"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.emptyLayout"	"Empty Layout!"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.emptyLayoutMessage"	"This layout is empty. Empty Layouts cannot be saved! [~*newLine~]To continue exiting the Layout Editor, you must choose to delete this new Layout."	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.exitLayoutEditor"	"Exit Layout Editor"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.instances"	"Instances"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.instancesPlaced"	"Instances placed"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.name"	"Name"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.nameTooltip"	"The editable display name of the layout"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.newLayout"	"New Layout"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.noLayoutsMessage"	"Layouts contain one or more Structures.[~*newLine~]Once created, instances can be placed in the world which will automatically update when the instanced Layout or the contained Structures are changed."	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.openStructurePanel"	"Open Structures panel"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.size"	"Size"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.sizeTooltip"	"Composite size of all structures in the layout"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.tags"	"Tags"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.title"	"Layouts Management"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.openLayoutsManagement.title"	"Open Layouts Management"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.registryDeletion.confirmation"	"Are you sure you want to delete the selected Layout? This cannot be undone."	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.registryDeletion.delete"	"Delete"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.registryDeletion.deleteInstance"	"Delete Instance"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.registryDeletion.deleteLayout"	"Delete Layout"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.registryDeletion.duplicate"	"Duplicate"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.registryDeletion.exitAndDeleteLayout"	"Exit & Delete"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.root.title"	"Layout Editor"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.structure.blockReplacement"	"Block Replacement"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.structure.checkAll"	"Check All"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.structure.mirrorX"	"Mirror X"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.structure.mirrorZ"	"Mirror Z"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.structure.none"	"NONE"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.structure.offset"	"Layout Position"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.structure.offsetTooltip"	"Layout Position of the structure relative to the layout"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.structure.rotation"	"Rotation"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.structure.yaw"	"Yaw"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.structuresPane.dropdownEditStructureTooltip"	"Select a structure to edit"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.structuresPane.dropdownTitle"	"Structure"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.structuresPane.dropdownTooltip"	"Select a structure to add to the layout"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.verticalProjection.downTitle"	"Down"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.verticalProjection.downTooltip"	"Enable Down vertical projection for the structure"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.verticalProjection.staticTitle"	"Static"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.verticalProjection.staticTooltip"	"Enable Static vertical projection for the structure"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.verticalProjection.title"	"Vertical Projection"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.verticalProjection.toggleTitle"	"Add Structure"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.verticalProjection.toggleTooltip"	"The vertical projection type for the structure anchoring"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.verticalProjection.type"	"Vertical Projection Type"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.verticalProjection.upTitle"	"Up"	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.verticalProjection.upTooltip"	"Enable Up vertical projection for this layout template"	"Original Translation"	""
+"editor.prefabLayoutEditor.tool.title"	"Layouts Editor"	"Original Translation"	""
+"editor.prefabLayoutEditor.tool.tooltip"	"Layouts Editor tool"	"Original Translation"	""
 "editor.prefabTemplateEditor.actionBar.title"	"Layout Templates"	"Original Translation
 zh_CN: 布局模板
 zh_TW: 佈局範本"	""
@@ -15787,7 +15845,7 @@ zh_CN: 选择
 zh_TW: 選取"	""
 "hbui.DropdownItem.selected"	"selected"	"Original Translation
 zh_CN: 已选择
-zh_TW: 已選擇"	""
+zh_TW: 已選取"	""
 "hbui.DropdownItem.unselected"	"not selected"	"Original Translation
 zh_CN: 未选择
 zh_TW: 未選擇"	""
@@ -17293,6 +17351,11 @@ zh_TW: 簡單方塊"	""
 "hbui.EditorPaletteItem.weight"	"Weight"	"Original Translation
 zh_CN: 重量
 zh_TW: 重量"	""
+"hbui.EditorPanelContentHeader.closeButton"	"Close Panel Button"	"Original Translation"	""
+"hbui.EditorPanelContentHeader.collapseButton"	"Collapse Panel Button"	"Original Translation"	""
+"hbui.EditorPanelContentHeader.dockButton"	"Dock Panel Button"	"Original Translation"	""
+"hbui.EditorPanelContentHeader.expandButton"	"Expand Panel Button"	"Original Translation"	""
+"hbui.EditorPanelContentHeader.infoTooltip"	"Information Tooltip Button"	"Original Translation"	""
 "hbui.EditorPlayScreen.accountButton.inputLegend"	"Account"	"Original Translation
 zh_CN: 账号
 zh_TW: 帳戶"	""
@@ -18070,25 +18133,6 @@ zh_TW: 先不要"	""
 "hbui.FirstTimeSignInRoute.signInButton"	"Sign in now"	"Original Translation
 zh_CN: 立即登录
 zh_TW: 立即登入"	""
-"hbui.FirstTimeSignInRoute.signInError.alreadyInProgress.body"	"A sign-in is already in progress. Please wait for it to finish before trying again."	"Original Translation"	""
-"hbui.FirstTimeSignInRoute.signInError.alreadyInProgress.title"	"Sign-in in progress"	"Original Translation"	""
-"hbui.FirstTimeSignInRoute.signInError.close"	"Close"	"Original Translation"	""
-"hbui.FirstTimeSignInRoute.signInError.msaLinkedToAnotherPsn.action"	"Learn more"	"Original Translation"	""
-"hbui.FirstTimeSignInRoute.signInError.msaLinkedToAnotherPsn.body"	"The account you tried to sign in to is already linked to another PlayStation Network account."	"Original Translation"	""
-"hbui.FirstTimeSignInRoute.signInError.msaLinkedToAnotherPsn.title"	"Account already linked"	"Original Translation"	""
-"hbui.FirstTimeSignInRoute.signInError.notAvailableInPreview.body"	"Microsoft account sign-in isn't available in the preview version on this platform."	"Original Translation"	""
-"hbui.FirstTimeSignInRoute.signInError.notAvailableInPreview.title"	"Sign-in unavailable"	"Original Translation"	""
-"hbui.FirstTimeSignInRoute.signInError.psnLinkedToAnotherMsa.action"	"Unlink"	"Original Translation"	""
-"hbui.FirstTimeSignInRoute.signInError.psnLinkedToAnotherMsa.body"	"The current PlayStation Network account is linked to a different Microsoft account than the one you just signed in to."	"Original Translation"	""
-"hbui.FirstTimeSignInRoute.signInError.psnLinkedToAnotherMsa.title"	"Different account linked"	"Original Translation"	""
-"hbui.FirstTimeSignInRoute.signInError.requiresPlatformLogin.body"	"You need to sign in to your platform's online network before signing in to a Microsoft account."	"Original Translation"	""
-"hbui.FirstTimeSignInRoute.signInError.requiresPlatformLogin.title"	"Platform sign-in required"	"Original Translation"	""
-"hbui.FirstTimeSignInRoute.signInError.sandboxFailure.action"	"Switch sandbox"	"Original Translation"	""
-"hbui.FirstTimeSignInRoute.signInError.sandboxFailure.body"	"Your account couldn't sign in to the '%1$s' sandbox. Switch to the '%2$s' sandbox and try again?"	"Original Translation"	""
-"hbui.FirstTimeSignInRoute.signInError.sandboxFailure.title"	"Sandbox error"	"Original Translation"	""
-"hbui.FirstTimeSignInRoute.signInError.unknown.action"	"Learn more"	"Original Translation"	""
-"hbui.FirstTimeSignInRoute.signInError.unknown.body"	"Something went wrong while signing in. Please try again."	"Original Translation"	""
-"hbui.FirstTimeSignInRoute.signInError.unknown.title"	"Sign-in failed"	"Original Translation"	""
 "hbui.FirstTimeSignInRoute.signInHeader"	"Welcome to Minecraft!"	"Original Translation
 zh_CN: 欢迎来到《我的世界》！
 zh_TW: 歡迎來到《Minecraft》！"	""
@@ -18113,7 +18157,6 @@ zh_TW: 跨多個平台存取你的市集內容和角色"	""
 "hbui.FirstTimeSignInRoute.signInPrompt"	"Sign in with your Microsoft account now to unlock a variety of features, including:"	"Original Translation
 zh_CN: 立即使用您的 Microsoft 帐户登录以解锁各种功能，包括：
 zh_TW: 立即使用 Microsoft 帳號登入，以解鎖各項功能，包括："	""
-"hbui.FirstTimeSignInRoute.signingIn"	"Signing in"	"Original Translation"	""
 "hbui.FlatWorld.description"	"The layers of blocks that make up your flat world"	"Original Translation
 zh_CN: 构成你的平坦世界的方块层
 zh_TW: 組成你這個平地世界的各個方塊層"	""
@@ -19164,6 +19207,10 @@ zh_TW: 特價"	""
 "hbui.Marketplace.ContentCard.updated"	"Updated"	"Original Translation
 zh_CN: 已更新
 zh_TW: 已更新"	""
+"hbui.Marketplace.ContentPreview.addOnForMinecraft"	"Add on for: Minecraft"	"Original Translation"	""
+"hbui.Marketplace.EmptyListMessage.defaultDescription"	"Track your favorite content for the future by clicking the heart."	"Original Translation"	""
+"hbui.Marketplace.EmptyListMessage.defaultLinkText"	"Explore content"	"Original Translation"	""
+"hbui.Marketplace.EmptyListMessage.defaultTitle"	"No wish... yet!"	"Original Translation"	""
 "hbui.Marketplace.Error.account"	"Couldn’t access the Marketplace. Try again later. Contact support if the problem persists."	"Original Translation
 zh_CN: 无法访问市场。请稍后再试。如果问题仍然存在，请联系支持人员。
 zh_TW: 無法存取市集。請稍後再試一次。若發生問題，請要求支援。"	""
@@ -19197,6 +19244,17 @@ zh_TW: 此遊戲版本的市集無法使用。"	""
 "hbui.Marketplace.Error.wishlistTitleText"	"We couldn't load your wishlist."	"Original Translation
 zh_CN: 无法加载你的愿望清单。
 zh_TW: 我們無法載入你的願望清單。"	""
+"hbui.Marketplace.PreviewContentModal.cancel"	"Cancel"	"Original Translation"	""
+"hbui.Marketplace.PreviewContentModal.confirm"	"Confirm"	"Original Translation"	""
+"hbui.Marketplace.PreviewContentModal.header"	"Here Is What You Get"	"Original Translation"	""
+"hbui.Marketplace.PreviewContentModal.microsoftGiftTermsAndConditions"	"Microsoft Gift Terms and Conditions"	"Original Translation"	""
+"hbui.Marketplace.PreviewContentModal.storeTermsOfSale"	"Store Terms of Sale"	"Original Translation"	""
+"hbui.Marketplace.PreviewContentModal.termsAndConditions1"	"By selecting Confirm, you agree to the following:"	"Original Translation"	""
+"hbui.Marketplace.PreviewContentModal.termsAndConditions2"	"No refunds."	"Original Translation"	""
+"hbui.Marketplace.PreviewContentModal.usageRulesForDigitalGoods"	"Usage Rules for Digital Goods"	"Original Translation"	""
+"hbui.Marketplace.RedeemRoute.defaultErrorMessage"	"Sorry, an unexpected error has occurred.  The error has been recorded and we will investigate.  Please try to redeem your code later."	"Original Translation"	""
+"hbui.Marketplace.RedeemRoute.loadingContent"	"Loading content..."	"Original Translation"	""
+"hbui.Marketplace.RedeemRoute.redeemingContent"	"Redeeming content..."	"Original Translation"	""
 "hbui.MarketplacePackDownloadStates.checkingStorage.title"	"Checking available space"	"Original Translation
 zh_CN: 正在检查可用空间
 zh_TW: 正在檢查可用空間"	""
@@ -19377,6 +19435,7 @@ zh_TW: 其他伺服器 (%1$s)"	""
 "hbui.MyServersRoute.title"	"My Servers"	"Original Translation
 zh_CN: 我的服务器
 zh_TW: 我的伺服器"	""
+"hbui.Narration.enumeration"	"%1$s of %2$s"	"Original Translation"	""
 "hbui.NavigationBarLayout.DebugButton.inputLegend"	"Debug"	"Original Translation
 zh_CN: 调试
 zh_TW: 偵錯"	""
@@ -22161,11 +22220,6 @@ zh_TW: 繼續"	""
 "hbui.PreStartScreen.autoSave.continueInputLegend"	"Proceed"	"Original Translation
 zh_CN: 继续
 zh_TW: 繼續"	""
-"hbui.PreStartScreen.profile.disclaimer"	"You've connected to Minecraft with an Xbox profile. Change your Xbox settings and learn more at http://aka.ms/accountsettings. The Microsoft Services Agreement and Privacy Statement apply."	"Original Translation"	""
-"hbui.PreStartScreen.profile.gamerscore"	"Gamerscore"	"Original Translation"	""
-"hbui.PreStartScreen.profile.letsPlayButton"	"Let's play"	"Original Translation"	""
-"hbui.PreStartScreen.profile.textBlock"	"Text block"	"Original Translation"	""
-"hbui.PreStartScreen.profile.welcomeHeading"	"Welcome %1$s!"	"Original Translation"	""
 "hbui.PreStartScreen.screenSize.buttons.enumeration"	"%1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
 zh_TW: %1$s/%2$s"	""
@@ -22187,17 +22241,6 @@ zh_TW: 重設"	""
 "hbui.PreStartScreen.screenSize.sliderLabel"	"Safe Area"	"Original Translation
 zh_CN: 安全区
 zh_TW: 安全區域"	""
-"hbui.PreStartScreen.thirdPartyPlatformSignIn.back"	"Back"	"Original Translation"	""
-"hbui.PreStartScreen.thirdPartyPlatformSignIn.captionLongLeft"	"Use your camera app or a QR code reader on your device."	"Original Translation"	""
-"hbui.PreStartScreen.thirdPartyPlatformSignIn.captionLongRight1"	"1. Visit the website on another device:"	"Original Translation"	""
-"hbui.PreStartScreen.thirdPartyPlatformSignIn.captionLongRight2"	"2. Enter the code below when prompted:"	"Original Translation"	""
-"hbui.PreStartScreen.thirdPartyPlatformSignIn.inlineMessage1"	"https://microsoft.com/link"	"Original Translation"	""
-"hbui.PreStartScreen.thirdPartyPlatformSignIn.narrationOtherOptionLeft"	"Other sign in option available to the left"	"Original Translation"	""
-"hbui.PreStartScreen.thirdPartyPlatformSignIn.narrationOtherOptionRight"	"Other sign in option available to the right"	"Original Translation"	""
-"hbui.PreStartScreen.thirdPartyPlatformSignIn.narrationQrCode"	"QR code"	"Original Translation"	""
-"hbui.PreStartScreen.thirdPartyPlatformSignIn.textBlock"	"Text block"	"Original Translation"	""
-"hbui.PreStartScreen.thirdPartyPlatformSignIn.titleLeft"	"Scan the QR code"	"Original Translation"	""
-"hbui.PreStartScreen.thirdPartyPlatformSignIn.titleRight"	"Or visit the website"	"Original Translation"	""
 "hbui.PreStartScreen.ttsError.body"	"Something went wrong"	"Original Translation
 zh_CN: 出错了
 zh_TW: 發生錯誤"	""
@@ -22466,6 +22509,7 @@ zh_TW: 選取"	""
 "hbui.RadioBox.selected"	"selected"	"Original Translation
 zh_CN: 已选择
 zh_TW: 已選擇"	""
+"hbui.RealmInformation.hasFailedNecessaryFetchesInfo"	"Cannot fetch the playability state of your role"	"Original Translation"	""
 "hbui.RealmInformation.incompatibleDeviceInfo"	"Editor is available on Windows devices"	"Original Translation
 zh_CN: 编辑器可在 Windows 设备上使用。
 zh_TW: 編輯器可在 Windows 裝置上使用"	""
@@ -22475,6 +22519,7 @@ zh_TW: 您的角色與編輯器不相容。"	""
 "hbui.RealmInformation.launchInEditor"	"Launch in Editor"	"Original Translation
 zh_CN: 在编辑器中启动
 zh_TW: 以編輯器啟動"	""
+"hbui.RealmInformation.reload"	"Reload"	"Original Translation"	""
 "hbui.RealmListItem.enumeration"	"%1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
 zh_TW: %1$s/%2$s"	""
@@ -24238,10 +24283,10 @@ zh_TW: 免費試用 28 天*"	""
 "hbui.RealmsPlanPickerScreen.featureLine8"	"Includes Marketplace Pass"	"Original Translation
 zh_CN: 包含 Marketplace Pass
 zh_TW: 包括 Marketplace Pass"	""
-"hbui.RealmsPlanPickerScreen.featureNarrationCore"	"Realms core package details. Text block"	"Original Translation
+"hbui.RealmsPlanPickerScreen.featureNarrationCore"	"Realms Core package details. Text block"	"Original Translation
 zh_CN: Realms 核心包详细信息。文本块
 zh_TW: Realms 核心套件詳細資訊。文字方塊"	""
-"hbui.RealmsPlanPickerScreen.featureNarrationPlus"	"Realms plus package details. Text block"	"Original Translation
+"hbui.RealmsPlanPickerScreen.featureNarrationPlus"	"Realms Plus package details. Text block"	"Original Translation
 zh_CN: Realms plus 包详细信息。文本块
 zh_TW: Realms Plus 套件詳細資訊。文字方塊"	""
 "hbui.RealmsPlanPickerScreen.planCoreCardNarration"	"Vertical panel. Group. Core %1$s per month"	"Original Translation
@@ -24409,13 +24454,13 @@ zh_TW: 是"	""
 "hbui.RealmsPurchaseSubscriptionRoute.backHint"	"This will take you back to the previous screen"	"Original Translation
 zh_CN: 这将带你返回上一个界面
 zh_TW: 這樣做會讓您返回上一個畫面"	""
-"hbui.RealmsPurchaseSubscriptionRoute.banner.heading.core"	"Realms core server"	"Original Translation
+"hbui.RealmsPurchaseSubscriptionRoute.banner.heading.core"	"Realms Core server"	"Original Translation
 zh_CN: Realms 核心服务器
 zh_TW: Realms 核心伺服器"	""
-"hbui.RealmsPurchaseSubscriptionRoute.banner.heading.plus"	"Realms plus server"	"Original Translation
+"hbui.RealmsPurchaseSubscriptionRoute.banner.heading.plus"	"Realms Plus server"	"Original Translation
 zh_CN: Realms Plus 服务器
 zh_TW: Realms Plus 伺服器"	""
-"hbui.RealmsPurchaseSubscriptionRoute.banner.heading.pro"	"Realms pro server"	"Original Translation
+"hbui.RealmsPurchaseSubscriptionRoute.banner.heading.pro"	"Realms Pro server"	"Original Translation
 zh_CN: Realms Pro 服务器
 zh_TW: Realms Pro 伺服器"	""
 "hbui.RealmsPurchaseSubscriptionRoute.banner.role"	"Text block"	"Original Translation
@@ -26782,6 +26827,7 @@ zh_TW: 行為套件"	""
 "hbui.Settings.storage.cachedData.title"	"Cached data"	"Original Translation
 zh_CN: 缓存数据
 zh_TW: 快取資料"	""
+"hbui.Settings.storage.deleting.content.title"	"Deleting Content"	"Original Translation"	""
 "hbui.Settings.storage.emptyList.backButton"	"Go back"	"Original Translation
 zh_CN: 返回
 zh_TW: 返回"	""
@@ -27419,8 +27465,6 @@ zh_TW: 檢查拼字或修改搜尋。"	""
 "hbui.StartFromTemplateRoute.NoFilteredTemplatesMessage.title"	"No matches found"	"Original Translation
 zh_CN: 未找到匹配项
 zh_TW: 沒有找到相符的項目"	""
-"hbui.StartFromTemplateRoute.OwnedByMe.Filters.acquiredDate"	"Date owned"	"Original Translation"	""
-"hbui.StartFromTemplateRoute.OwnedByMe.Filters.acquiredDate.narration"	"Date owned, newest to oldest."	"Original Translation"	""
 "hbui.StartFromTemplateRoute.OwnedByMe.Filters.dateAdded"	"Date added"	"Original Translation
 zh_CN: 已添加日期
 zh_TW: 新增日期"	""
@@ -27451,6 +27495,10 @@ zh_TW: 名稱 (Z-A)"	""
 "hbui.StartFromTemplateRoute.OwnedByMe.Filters.nameZA.narration"	"Name (Z to A)."	"Original Translation
 zh_CN: 名称（Z 到 A）。
 zh_TW: 名稱 (Z到 A)。"	""
+"hbui.StartFromTemplateRoute.OwnedByMe.Filters.newest"	"Newest"	"Original Translation"	""
+"hbui.StartFromTemplateRoute.OwnedByMe.Filters.newest.narration"	"Date owned, newest to oldest."	"Original Translation"	""
+"hbui.StartFromTemplateRoute.OwnedByMe.Filters.oldest"	"Oldest"	"Original Translation"	""
+"hbui.StartFromTemplateRoute.OwnedByMe.Filters.oldest.narration"	"Date owned, oldest to newest."	"Original Translation"	""
 "hbui.StartFromTemplateRoute.OwnedByMe.Filters.optionEnumeration"	"%1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
 zh_TW: %1$s/%2$s"	""
@@ -28652,6 +28700,13 @@ zh_TW: 觀看世界"	""
 "hbui.gameplay.DeathScreen.youDied"	"You Died!"	"Original Translation
 zh_CN: 您失败了！
 zh_TW: 您死亡了！"	""
+"hbui.gamma.buttons.enumeration"	"%1$s of %2$s"	"Original Translation"	""
+"hbui.gamma.captionLong"	"Use the slider to adjust brightness until the image is clearly visible."	"Original Translation"	""
+"hbui.gamma.confirmButton"	"Confirm"	"Original Translation"	""
+"hbui.gamma.confirmInputLegend"	"Confirm"	"Original Translation"	""
+"hbui.gamma.resetButton"	"Reset"	"Original Translation"	""
+"hbui.gamma.resetInputLegend"	"Reset"	"Original Translation"	""
+"hbui.gamma.sliderTitle"	"Adjust brightness"	"Original Translation"	""
 "hbui.general.multiplayerPermissionBanner.link"	"Learn more"	"Original Translation
 zh_CN: 了解更多
 zh_TW: 深入了解"	""
@@ -36284,7 +36339,7 @@ zh_TW: 珊瑚裝飾"	"珊瑚装饰物"
 "itemGroup.name.crop"	"Crops"	"Original Translation
 zh_CN: 农作物
 zh_TW: 作物"	"作物"
-"itemGroup.name.cushion"	"Cushion"	"Original Translation
+"itemGroup.name.cushion"	"Cushions"	"Original Translation
 zh_CN: 坐垫
 zh_TW: 坐墊"	""
 "itemGroup.name.door"	"Doors"	"Original Translation
@@ -42562,7 +42617,7 @@ zh_TW: 請前往完整版 Minecraft 管理您的訂閱。"	""
 "options.viewSubscriptions.purchasedPlatformDiffers"	"This was bought in the %s you must use that device to manage it."	"Original Translation
 zh_CN: 此内容是在 %s 中购买的，您必须使用该设备来管理它。
 zh_TW: 此於 %s 購買，您必須使用該裝置才能進行管理。"	""
-"options.viewSubscriptions.realmsPlusSubscriptionForRealm"	"Realms plus subscription for Realm %s."	"Original Translation
+"options.viewSubscriptions.realmsPlusSubscriptionForRealm"	"Realms Plus subscription for Realm %s."	"Original Translation
 zh_CN: 针对 Realm %s 的 Realms Plus 定期服务。
 zh_TW: Realms %s 的 Realms Plus 訂閱。"	""
 "options.viewSubscriptions.realmsServer"	"Realms Server"	"Original Translation
@@ -54447,6 +54502,7 @@ zh_TW: 無法存取市集。請稍後再試一次。若發生問題，請要求�
 "store.loading.error.account.banned"	"You aren’t able to access the Marketplace until your suspension expires."	"Original Translation
 zh_CN: 在暂停期满之前，无法访问市场。
 zh_TW: 在暫停結束之前，你無法存取市集。"	""
+"store.loading.error.edu"	"Oops! Something went wrong. If the problem persists, please contact support"	"Original Translation"	""
 "store.loading.error.failure"	"Couldn’t access the Marketplace. Try again in a few minutes."	"Original Translation
 zh_CN: 无法访问市场。请几分钟后再试一次。
 zh_TW: 無法進入市集。請過幾分鐘後再試一次。"	""
