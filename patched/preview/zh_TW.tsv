@@ -1479,18 +1479,21 @@ zh_TW: -%d%% %s"	"-%d%% %s"
 "attribute.name.generic.armor"	"Armor"	"Original Translation
 zh_CN: 盔甲
 zh_TW: 護甲"	""
-"attribute.name.generic.armorToughness"	"Armor Toughness"	"Original Translation
+"attribute.name.generic.armorToughness"	"Toughness"	"Original Translation
 zh_CN: 盔甲韧性
 zh_TW: 護甲韌性"	""
 "attribute.name.generic.attackDamage"	"Attack Damage"	"Original Translation
 zh_CN: 攻击伤害
 zh_TW: 攻擊傷害"	"攻擊傷害"
+"attribute.name.generic.chopEfficiency"	"Chop Efficiency"	"Original Translation"	""
+"attribute.name.generic.digEfficiency"	"Dig Efficiency"	"Original Translation"	""
 "attribute.name.generic.knockbackResistance"	"Knockback Resistance"	"Original Translation
 zh_CN: 击退抗性
 zh_TW: 擊退抗性"	"抗擊退"
 "attribute.name.generic.maxHealth"	"Max Health"	"Original Translation
 zh_CN: 最大生命值
 zh_TW: 最高生命值"	"最高生命值"
+"attribute.name.generic.miningEfficiency"	"Mining Efficiency"	"Original Translation"	""
 "attribute.name.horse.jumpStrength"	"Horse Jump Strength"	"Original Translation
 zh_CN: 马匹跳跃能力
 zh_TW: 馬匹跳躍力"	"馬跳躍力"
@@ -4548,6 +4551,7 @@ zh_TW: 種子：%1$s"	""
 "commands.selector.error.moreThanOne"	"Only one entity is allowed, but the provided selector allows more than one"	"Original Translation
 zh_CN: 只允许一个实体，但提供的选择器允许多个实体
 zh_TW: 只允許有一個實體，但提供的選擇器允許多個實體"	""
+"commands.serveridentity.description"	"Manages the server identity key. Use save, delete, or status."	"Original Translation"	""
 "commands.setblock.description"	"Changes a block to another block."	"Original Translation
 zh_CN: 将一个方块更改为另一种方块。
 zh_TW: 將某個方塊變更為另一個方塊。"	""
@@ -13085,6 +13089,7 @@ zh_TW: 隊長加入了你並非成員的 Realm。你必須收到邀請或開啟�
 "hbui.CannotFollowPartyToRealmModal.title"	"Unable to join"	"Original Translation
 zh_CN: 无法加入
 zh_TW: 無法加入"	""
+"hbui.Card.narrationComponentType"	"Card"	"Original Translation"	""
 "hbui.Card.narrationComponentTypeButton"	"Button"	"Original Translation
 zh_CN: 按钮
 zh_TW: 按鈕"	""
@@ -15835,7 +15840,7 @@ zh_TW: 選項"	""
 zh_CN: 已禁用
 zh_TW: 已停用"	""
 "hbui.DropdownItem.elementType"	"item"	"Original Translation
-zh_CN: 物品
+zh_CN: 项目
 zh_TW: 物品"	""
 "hbui.DropdownItem.narrationComponentType"	"Option"	"Original Translation
 zh_CN: 选项
@@ -15845,9 +15850,9 @@ zh_CN: 选择
 zh_TW: 選取"	""
 "hbui.DropdownItem.selected"	"selected"	"Original Translation
 zh_CN: 已选择
-zh_TW: 已選取"	""
+zh_TW: 已選擇"	""
 "hbui.DropdownItem.unselected"	"not selected"	"Original Translation
-zh_CN: 未选择
+zh_CN: 未当选
 zh_TW: 未選擇"	""
 "hbui.EditRealmWorld.ConfirmModals.cancel"	"Cancel"	"Original Translation
 zh_CN: 取消
@@ -17482,6 +17487,8 @@ zh_TW: 面板"	""
 "hbui.EditorRemotePane.overlayModal"	"Overlay Modal"	"Original Translation
 zh_CN: 覆盖模态框
 zh_TW: 覆蓋模組"	""
+"hbui.EditorRenderCloudsSettings.title"	"Render Clouds"	"Original Translation"	""
+"hbui.EditorRenderCloudsSettings.tooltip"	"Toggle whether clouds render in the project."	"Original Translation"	""
 "hbui.EditorRoute.brushToolDescription"	"Paints custom brush strokes."	"Original Translation
 zh_CN: 绘制自定义画笔描边。
 zh_TW: 繪製自訂筆刷。"	""
@@ -19255,6 +19262,12 @@ zh_TW: 我們無法載入你的願望清單。"	""
 "hbui.Marketplace.RedeemRoute.defaultErrorMessage"	"Sorry, an unexpected error has occurred.  The error has been recorded and we will investigate.  Please try to redeem your code later."	"Original Translation"	""
 "hbui.Marketplace.RedeemRoute.loadingContent"	"Loading content..."	"Original Translation"	""
 "hbui.Marketplace.RedeemRoute.redeemingContent"	"Redeeming content..."	"Original Translation"	""
+"hbui.Marketplace.ViewRedeemedContentModal.close"	"Close"	"Original Translation"	""
+"hbui.Marketplace.ViewRedeemedContentModal.description"	"%1$s is ready for you."	"Original Translation"	""
+"hbui.Marketplace.ViewRedeemedContentModal.equip"	"Equip"	"Original Translation"	""
+"hbui.Marketplace.ViewRedeemedContentModal.goToItem"	"Go to item"	"Original Translation"	""
+"hbui.Marketplace.ViewRedeemedContentModal.goToStore"	"Go to store"	"Original Translation"	""
+"hbui.Marketplace.ViewRedeemedContentModal.header"	"You're Good To Go"	"Original Translation"	""
 "hbui.MarketplacePackDownloadStates.checkingStorage.title"	"Checking available space"	"Original Translation
 zh_CN: 正在检查可用空间
 zh_TW: 正在檢查可用空間"	""
@@ -19270,12 +19283,6 @@ zh_TW: 現已推出！"	""
 "hbui.MarketplacePassBanner.bannerText.trialAvailable"	"Start free trial!"	"Original Translation
 zh_CN: 开始免费试玩！
 zh_TW: 啟動免費試玩！"	""
-"hbui.MarketplacePassInfoBanner.learnMoreLinkText"	"Learn More"	"Original Translation
-zh_CN: 了解更多
-zh_TW: 深入了解"	""
-"hbui.MarketplacePassInfoBanner.text"	"Marketplace Pass is a monthly subscription to premium, curated content. New experiences added every month!"	"Original Translation
-zh_CN: Marketplace Pass 是一项按月订阅优质精选内容的服务。每个月都会添加新体验！
-zh_TW: Marketplace Pass 是提供優質精選內容的月費訂閱服務。每月都會新增全新體驗！"	""
 "hbui.MarketplaceRoute.title"	"Marketplace"	"Original Translation
 zh_CN: 市场
 zh_TW: 市集"	""
@@ -21326,6 +21333,7 @@ zh_TW: 部分內容在測試版中尚未開放。感謝耐心等待！"	""
 "hbui.PlayScreen.unavailableDependenciesBetaModal.close"	"Close"	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"	""
+"hbui.PlayScreen.unavailableDependenciesBetaModal.confirmInputLegend"	"Confirm"	"Original Translation"	""
 "hbui.PlayScreen.unavailableDependenciesBetaModal.doNotShowAgain"	"Don't show again"	"Original Translation
 zh_CN: 不再显示
 zh_TW: 不再顯示"	""
@@ -21657,6 +21665,7 @@ zh_TW: 好友"	""
 "hbui.PlayerCard.joinButton"	"Join game"	"Original Translation
 zh_CN: 加入游戏
 zh_TW: 加入遊戲"	""
+"hbui.PlayerCard.joinRealmButton"	"Join Realm"	"Original Translation"	""
 "hbui.PlayerCard.member"	"Member"	"Original Translation
 zh_CN: 成员
 zh_TW: 成員"	""
@@ -22503,6 +22512,7 @@ zh_TW: 已停用"	""
 "hbui.RadioBox.elementType"	"radio"	"Original Translation
 zh_CN: 无线电
 zh_TW: 選項按鈕"	""
+"hbui.RadioBox.narrationComponentType"	"Radio group"	"Original Translation"	""
 "hbui.RadioBox.select"	"Select"	"Original Translation
 zh_CN: 选择
 zh_TW: 選取"	""
@@ -22667,18 +22677,26 @@ zh_TW: 載入中..."	""
 "hbui.Realms.LoadingModals.loadingRealmsStories"	"Loading Realms Stories..."	"Original Translation
 zh_CN: 正在加载 Realms Stories...
 zh_TW: 正在載入 Realms Stories..."	""
-"hbui.Realms.Modals.RealmRestartRequired.restart"	"Restart now"	"Original Translation
-zh_CN: 立刻重新启动
-zh_TW: 立即重新啟動"	""
-"hbui.Realms.Modals.RealmRestartRequired.restartWarning"	"Some of the changes you made require the Realm to restart. Anyone currently playing will be temporarily disconnected."	"Original Translation
-zh_CN: 你所做的某些更改需要 Realm 才能重新启动。当前正在游戏的玩家将会暂时断开连接。
-zh_TW: 部分變更需重新啟動 Realm 才能生效。目前線上的玩家將暫時斷線。"	""
-"hbui.Realms.Modals.RealmRestartRequired.title"	"Realm restart required"	"Original Translation
-zh_CN: 需要重新启动 Realm
-zh_TW: 需重新啟動 Realm"	""
-"hbui.Realms.Modals.RealmRestartRequired.undo"	"Undo change"	"Original Translation
-zh_CN: 撤消更改
-zh_TW: 復原變更"	""
+"hbui.Realms.MemberSettings.defaultRole.member"	"Member"	"Original Translation"	""
+"hbui.Realms.MemberSettings.defaultRole.memberDescription"	"Members can build and mine, attack players and mobs, and interact with items and entities"	"Original Translation"	""
+"hbui.Realms.MemberSettings.defaultRole.operator"	"Operator"	"Original Translation"	""
+"hbui.Realms.MemberSettings.defaultRole.operatorDescription"	"Operators are members who can set player permissions and use commands to have more control over your world"	"Original Translation"	""
+"hbui.Realms.MemberSettings.defaultRole.title"	"Default permission level"	"Original Translation"	""
+"hbui.Realms.MemberSettings.defaultRole.visitor"	"Visitor"	"Original Translation"	""
+"hbui.Realms.MemberSettings.defaultRole.visitorDescription"	"Visitors can freely explore your world, but cannot interact with blocks, items, or entities"	"Original Translation"	""
+"hbui.Realms.MemberSettings.header"	"%1$s member settings"	"Original Translation"	""
+"hbui.Realms.MemberSettings.inputLegend.select"	"Select"	"Original Translation"	""
+"hbui.Realms.MemberSettings.remove.button"	"Remove all members"	"Original Translation"	""
+"hbui.Realms.MemberSettings.remove.description"	"All members will be cleared from this Realm"	"Original Translation"	""
+"hbui.Realms.MemberSettings.remove.title"	"Remove all members (%1$s)"	"Original Translation"	""
+"hbui.Realms.MemberSettings.reset.button"	"Reset permissions"	"Original Translation"	""
+"hbui.Realms.MemberSettings.reset.description"	"Set the permission level to default for all Realm members"	"Original Translation"	""
+"hbui.Realms.MemberSettings.reset.title"	"Reset all player permissions"	"Original Translation"	""
+"hbui.Realms.Modals.RealmRestartRequired.playersOnline"	"Online"	"Original Translation"	""
+"hbui.Realms.Modals.SaveSettingsWarningModal.restart"	"Restart now"	"Original Translation"	""
+"hbui.Realms.Modals.SaveSettingsWarningModal.restartWarning"	"Some of the changes you made require the Realm to restart. Anyone currently playing will be temporarily disconnected."	"Original Translation"	""
+"hbui.Realms.Modals.SaveSettingsWarningModal.title"	"Realm restart required"	"Original Translation"	""
+"hbui.Realms.Modals.SaveSettingsWarningModal.undo"	"Undo change"	"Original Translation"	""
 "hbui.Realms.RealmsHub.Banner.RealmsClosed"	"Realm is temporarily closed. Re-open in Realm Settings."	"Original Translation
 zh_CN: Realm 已暂时关闭。在 Realm 设置中重新打开。
 zh_TW: Realm 暫時關閉。請於 Realm 設定中重新開啟。"	""
@@ -23536,6 +23554,7 @@ zh_TW: 玩家選項"	""
 "hbui.Realms.RealmsHub.members.options.remove"	"Remove from Realm"	"Original Translation
 zh_CN: 从 Realm 中移除
 zh_TW: 從 Realm 移除"	""
+"hbui.Realms.RealmsHub.members.options.roleAndPermissions"	"Roles and permissions"	"Original Translation"	""
 "hbui.Realms.RealmsHub.members.options.roleEdit"	"Edit role"	"Original Translation
 zh_CN: 编辑角色
 zh_TW: 編輯角色"	""
@@ -23545,6 +23564,7 @@ zh_TW: 角色資訊"	""
 "hbui.Realms.RealmsHub.members.remove.success"	"%1$s removed from the Realm"	"Original Translation
 zh_CN: %1$s 被从 Realm 中移除
 zh_TW: %1$s 已從 Realm 移除"	""
+"hbui.Realms.RealmsHub.members.unblock.success"	"%1$s unblocked from the Realm"	"Original Translation"	""
 "hbui.Realms.RealmsRolesAndPermissions.Action.addRemoveMembers"	"Add and remove Realm members"	"Original Translation
 zh_CN: 添加和移除 Realm 成员
 zh_TW: 新增與移除 Realm 成員"	""
@@ -23608,6 +23628,7 @@ zh_TW: 關閉"	""
 "hbui.Realms.RealmsRolesAndPermissions.EditHeader"	"Edit Role"	"Original Translation
 zh_CN: 编辑角色
 zh_TW: 編輯角色"	""
+"hbui.Realms.RealmsRolesAndPermissions.Header"	"Role and permissions"	"Original Translation"	""
 "hbui.Realms.RealmsRolesAndPermissions.LearnMore"	"Learn more"	"Original Translation
 zh_CN: 了解更多
 zh_TW: 深入了解"	""
@@ -23641,12 +23662,27 @@ zh_TW: 關閉"	""
 "hbui.Realms.RealmsRolesAndPermissions.Narration.on"	"On"	"Original Translation
 zh_CN: 开
 zh_TW: 開啟"	""
+"hbui.Realms.RealmsRolesAndPermissions.Narration.permissionDetails"	"Realm permission details"	"Original Translation"	""
 "hbui.Realms.RealmsRolesAndPermissions.Narration.realmInfo"	"Realm information"	"Original Translation
 zh_CN: Realm 信息
 zh_TW: Realm 資訊"	""
 "hbui.Realms.RealmsRolesAndPermissions.Narration.roleDetails"	"Realm role details"	"Original Translation
 zh_CN: Realm 角色详细信息
 zh_TW: Realm 角色詳細資訊"	""
+"hbui.Realms.RealmsRolesAndPermissions.Permission"	"Permission"	"Original Translation"	""
+"hbui.Realms.RealmsRolesAndPermissions.Permission.memberDescription"	"Normal gameplay permissions"	"Original Translation"	""
+"hbui.Realms.RealmsRolesAndPermissions.Permission.operatorDescription"	"Full gameplay permissions"	"Original Translation"	""
+"hbui.Realms.RealmsRolesAndPermissions.Permission.operatorDetails"	"Full gameplay permissions. Owner and Admins are always operators."	"Original Translation"	""
+"hbui.Realms.RealmsRolesAndPermissions.Permission.title"	"Permission level"	"Original Translation"	""
+"hbui.Realms.RealmsRolesAndPermissions.Permission.visitorDescription"	"Limited gameplay permissions"	"Original Translation"	""
+"hbui.Realms.RealmsRolesAndPermissions.PermissionAction.attackMobs"	"Attack mobs"	"Original Translation"	""
+"hbui.Realms.RealmsRolesAndPermissions.PermissionAction.attackPlayers"	"Attack players"	"Original Translation"	""
+"hbui.Realms.RealmsRolesAndPermissions.PermissionAction.destroyBlocks"	"Destroy blocks"	"Original Translation"	""
+"hbui.Realms.RealmsRolesAndPermissions.PermissionAction.opCommands"	"Operator commands"	"Original Translation"	""
+"hbui.Realms.RealmsRolesAndPermissions.PermissionAction.openContainers"	"Open containers"	"Original Translation"	""
+"hbui.Realms.RealmsRolesAndPermissions.PermissionAction.placeBlocks"	"Place blocks"	"Original Translation"	""
+"hbui.Realms.RealmsRolesAndPermissions.PermissionAction.useDoors"	"Use doors and switches"	"Original Translation"	""
+"hbui.Realms.RealmsRolesAndPermissions.PermissionAction.useTeleport"	"Use teleport"	"Original Translation"	""
 "hbui.Realms.RealmsRolesAndPermissions.Permissions.custom"	"Custom"	"Original Translation
 zh_CN: 自定义
 zh_TW: 自訂"	""
@@ -23683,6 +23719,7 @@ zh_TW: 檢視玩家個人資料"	""
 "hbui.Realms.RealmsRolesAndPermissions.PlayerSideBar.ViewProfile.hint"	"Press to view profile"	"Original Translation
 zh_CN: 按下以查看简介
 zh_TW: 按下以檢視個人資料"	""
+"hbui.Realms.RealmsRolesAndPermissions.Role"	"Role"	"Original Translation"	""
 "hbui.Realms.RealmsRolesAndPermissions.Role.admin"	"Admin"	"Original Translation
 zh_CN: 管理员
 zh_TW: 管理員"	""
@@ -24907,7 +24944,7 @@ zh_TW: 取消"	""
 "hbui.RealmsStories.RealmPlayerListItem.cancel.description"	"This will take you back to the previous screen"	"Original Translation
 zh_CN: 这将带你返回上一个屏幕
 zh_TW: 此動作會讓您返回上一個畫面"	""
-"hbui.RealmsStories.RealmPlayerListItem.edit"	"Options"	"Original Translation
+"hbui.RealmsStories.RealmPlayerListItem.edit"	"Edit"	"Original Translation
 zh_CN: 选项
 zh_TW: 選項"	""
 "hbui.RealmsStories.RealmPlayerListItem.edit.narration"	"Edit role"	"Original Translation
@@ -24928,6 +24965,10 @@ zh_TW: 角色資訊"	""
 "hbui.RealmsStories.RealmPlayerListItem.info.narrationHint"	"View information about this member's Realm role"	"Original Translation
 zh_CN: 查看此成员的 Realm 角色的信息
 zh_TW: 檢視此成員的 Realm 角色資訊"	""
+"hbui.RealmsStories.RealmPlayerListItem.info.narrationHintRoleAndPerm"	"View information about this member's Realm role and gameplay permissions"	"Original Translation"	""
+"hbui.RealmsStories.RealmPlayerListItem.info.narrationRoleAndPerm"	"Role and permissions info"	"Original Translation"	""
+"hbui.RealmsStories.RealmPlayerListItem.options"	"Options"	"Original Translation"	""
+"hbui.RealmsStories.RealmPlayerListItem.options.narration"	"Player options"	"Original Translation"	""
 "hbui.RealmsStories.RealmPlayerListItem.remove.confirm"	"Remove"	"Original Translation
 zh_CN: 移除
 zh_TW: 移除"	""
@@ -24937,6 +24978,9 @@ zh_TW: 確定要將 %1$s 從 Realm 移除？他們需要新的邀請才能重新
 "hbui.RealmsStories.RealmPlayerListItem.remove.title"	"Remove %1$s from Realm?"	"Original Translation
 zh_CN: 从 Realm 中移除 %1$s？
 zh_TW: 是否從 Realm 移除 %1$s ？"	""
+"hbui.RealmsStories.RealmPlayerListItem.unblock"	"Unblock"	"Original Translation"	""
+"hbui.RealmsStories.RealmPlayerListItem.unblock.narration"	"Unblock"	"Original Translation"	""
+"hbui.RealmsStories.RealmPlayerListItem.unblock.narrationHint"	"Unblock this player"	"Original Translation"	""
 "hbui.RealmsStories.RealmPlayerListItem.viewProfile"	"View player profile"	"Original Translation
 zh_CN: 查看玩家档案
 zh_TW: 檢視玩家設定檔"	""
@@ -25675,6 +25719,7 @@ zh_TW: 管理員"	""
 "hbui.RealmsStories.members.allMembers"	"All members"	"Original Translation
 zh_CN: 所有成员
 zh_TW: 所有成員"	""
+"hbui.RealmsStories.members.blocked"	"Blocked"	"Original Translation"	""
 "hbui.RealmsStories.members.button.inviteMembers"	"Invite Realm Members"	"Original Translation
 zh_CN: 邀请 Realm 成员
 zh_TW: 邀請 Realm 成員"	""
@@ -25747,6 +25792,7 @@ zh_TW: 最近玩過的"	""
 "hbui.RealmsStories.members.role.admin"	"Administrators (%1$s)"	"Original Translation
 zh_CN: 管理员 (%1$s)
 zh_TW: 管理員 (%1$s)"	""
+"hbui.RealmsStories.members.role.blocked"	"Blocked (%1$s)"	"Original Translation"	""
 "hbui.RealmsStories.members.role.owner"	"Owner"	"Original Translation
 zh_CN: 所有者
 zh_TW: 擁有者"	""
@@ -25756,6 +25802,7 @@ zh_TW: 玩家 (%1$s)"	""
 "hbui.RealmsStories.members.search"	"Search members of the Realm"	"Original Translation
 zh_CN: 搜索 Realm 成员
 zh_TW: 搜尋 Realm 的成員"	""
+"hbui.RealmsStories.members.searchBlocked"	"Search blocked players"	"Original Translation"	""
 "hbui.RealmsStories.members.searchResult.hint.cleared"	"Search filter has been cleared"	"Original Translation
 zh_CN: 搜索筛选器已清除
 zh_TW: 搜尋篩選條件已清除"	""
@@ -31533,9 +31580,6 @@ zh_TW: 射手陶器碎片"	"弓箭陶器碎片"
 "item.armadillo_scute.name"	"Armadillo Scute"	"Original Translation
 zh_CN: 犰狳鳞甲
 zh_TW: 犰狳鱗甲"	"犰狳鱗甲"
-"item.armor.upgrade"	"Upgrade:"	"Original Translation
-zh_CN: 升级：
-zh_TW: 升級："	"已有升級："
 "item.armor_stand.name"	"Armor Stand"	"Original Translation
 zh_CN: 盔甲架
 zh_TW: 護甲座"	"盔甲座"
@@ -34071,9 +34115,9 @@ zh_TW: 海岸護甲紋飾"	"海岸盔甲紋樣"
 "item.command_block_minecart.name"	"Minecart with Command Block"	"Original Translation
 zh_CN: 命令方块矿车
 zh_TW: 指令方塊礦車"	"指令方塊礦車"
-"item.comparator.name"	"Redstone Comparator"	"Original Translation
+"item.comparator.name"	"Comparator"	"Original Translation
 zh_CN: 红石比较器
-zh_TW: 紅石比較器"	"紅石比較器"
+zh_TW: 紅石比較器"	""
 "item.compass.name"	"Compass"	"Original Translation
 zh_CN: 指南针
 zh_TW: 羅盤"	"羅盤"
@@ -34677,24 +34721,24 @@ zh_TW: 淺灰色"	""
 "item.fireworksCharge.trail"	"Trail"	"Original Translation
 zh_CN: 踪迹
 zh_TW: 軌跡"	"軌跡"
-"item.fireworksCharge.type"	"Unknown Shape"	"Original Translation
+"item.fireworksCharge.type"	"Unknown shape explosion"	"Original Translation
 zh_CN: 未知形状
-zh_TW: 未知形狀"	"未知形狀"
-"item.fireworksCharge.type.0"	"Small Ball"	"Original Translation
+zh_TW: 未知形狀"	""
+"item.fireworksCharge.type.0"	"Small ball explosion"	"Original Translation
 zh_CN: 小型球状
-zh_TW: 小球"	"小型球狀"
-"item.fireworksCharge.type.1"	"Large Ball"	"Original Translation
+zh_TW: 小球"	""
+"item.fireworksCharge.type.1"	"Large ball explosion"	"Original Translation
 zh_CN: 大型球状
-zh_TW: 大球"	"大型球狀"
-"item.fireworksCharge.type.2"	"Star-shaped"	"Original Translation
+zh_TW: 大球"	""
+"item.fireworksCharge.type.2"	"Star-shaped explosion"	"Original Translation
 zh_CN: 星形
-zh_TW: 星型"	"星形"
-"item.fireworksCharge.type.3"	"Creeper-shaped"	"Original Translation
+zh_TW: 星型"	""
+"item.fireworksCharge.type.3"	"Creeper-shaped explosion"	"Original Translation
 zh_CN: 苦力怕形状
-zh_TW: 苦力怕形"	"苦力怕形"
-"item.fireworksCharge.type.4"	"Burst"	"Original Translation
+zh_TW: 苦力怕形"	""
+"item.fireworksCharge.type.4"	"Burst explosion"	"Original Translation
 zh_CN: 爆裂状
-zh_TW: 爆裂物"	"爆裂"
+zh_TW: 爆裂物"	""
 "item.fireworksCharge.white"	"White"	"Original Translation
 zh_CN: 白色
 zh_TW: 白色"	""
@@ -35049,9 +35093,20 @@ zh_TW: 懸掛式紅樹林木告示牌"	"懸掛式紅樹林木告示牌"
 "item.mangrove_sign.name"	"Mangrove Sign"	"Original Translation
 zh_CN: 红树木告示牌
 zh_TW: 紅樹林木告示牌"	"紅樹林木告示牌"
+"item.map.exploration.abandoned_camp_bamboo_jungle.name"	"Bamboo Camp Map"	"Original Translation"	""
+"item.map.exploration.abandoned_camp_birch_forest.name"	"Birch Forest Camp Map"	"Original Translation"	""
+"item.map.exploration.abandoned_camp_cherry_grove.name"	"Cherry Grove Camp Map"	"Original Translation"	""
+"item.map.exploration.abandoned_camp_dappled_forest.name"	"Dappled Forest Camp Map"	"Original Translation"	""
+"item.map.exploration.abandoned_camp_extreme_hills_plus_trees.name"	"Windswept Forest Camp Map"	"Original Translation"	""
+"item.map.exploration.abandoned_camp_flower_forest.name"	"Flower Forest Camp Map"	"Original Translation"	""
+"item.map.exploration.abandoned_camp_pale_garden.name"	"Pale Garden Camp Map"	"Original Translation"	""
+"item.map.exploration.abandoned_camp_swampland.name"	"Swamp Camp Map"	"Original Translation"	""
+"item.map.exploration.buried_ancient_city.name"	"Buried Ancient City Camp Map"	"Original Translation"	""
+"item.map.exploration.buried_mineshaft.name"	"Buried Mineshaft Camp Map"	"Original Translation"	""
 "item.map.exploration.buried_treasure.name"	"Treasure Map"	"Original Translation
 zh_CN: 藏宝图
 zh_TW: 藏寶圖"	"藏寶圖"
+"item.map.exploration.desert_temple.name"	"Desert Temple Camp Map"	"Original Translation"	""
 "item.map.exploration.jungle_temple.name"	"Jungle Explorer Map"	"Original Translation
 zh_CN: 丛林探险者地图
 zh_TW: 叢林探險家地圖"	""
@@ -35085,6 +35140,7 @@ zh_TW: 白雪村莊地圖"	""
 "item.map.exploration.village_taiga.name"	"Taiga Village Map"	"Original Translation
 zh_CN: 针叶林村庄地图
 zh_TW: 針葉林地村莊地圖"	""
+"item.map.exploration.warm_ocean_ruins.name"	"Warm Ocean Ruins Camp Map"	"Original Translation"	""
 "item.map.name"	"Map"	"Original Translation
 zh_CN: 地图
 zh_TW: 地圖"	"地圖"
@@ -40004,21 +40060,10 @@ zh_TW: 轉譯連接位置"	""
 "options.dev_chunkMapMode"	"Chunk Map View Mode"	"Original Translation
 zh_CN: 区块地图查看模式
 zh_TW: 區塊地圖檢視模式"	""
-"options.dev_chunk_map_mode_client"	"Client"	"Original Translation
-zh_CN: 客户端
-zh_TW: 用戶端"	""
-"options.dev_chunk_map_mode_client_main_chunksource"	"Client (MainChunkSource)"	"Original Translation
-zh_CN: 客户端 (MainChunkSource)
-zh_TW: Client (MainChunkSource)"	""
 "options.dev_chunk_map_mode_off"	"Off"	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"	""
-"options.dev_chunk_map_mode_server_chunk_debug_display_state"	"Server (DB State)"	"Original Translation
-zh_CN: 服务器（DB 状态）
-zh_TW: 伺服器 (DB 狀態)"	""
-"options.dev_chunk_map_mode_server_chunk_state"	"Server"	"Original Translation
-zh_CN: 服务器
-zh_TW: 伺服器"	""
+"options.dev_chunk_map_mode_on"	"On"	"Original Translation"	""
 "options.dev_clearAllCache"	"Clear All Cache"	"Original Translation
 zh_CN: 清除所有缓存
 zh_TW: 清除所有快取"	""
@@ -40502,9 +40547,6 @@ zh_TW: 顯示建造資訊"	""
 "options.dev_showChatMessageAttribution"	"Show chat message attribution tags"	"Original Translation
 zh_CN: 显示聊天信息属性标签
 zh_TW: 顯示聊天訊息屬性標籤"	""
-"options.dev_showChunkMap"	"Show chunk map"	"Original Translation
-zh_CN: 显示区块地图
-zh_TW: 呈現區塊地圖"	""
 "options.dev_showDevConsoleButton"	"Show dev console button"	"Original Translation
 zh_CN: 显示开发控制台按钮
 zh_TW: 顯示開發控制台按鈕"	""
@@ -43814,9 +43856,6 @@ zh_TW: 開採倦怠"	""
 "potion.digSpeed"	"Haste"	"Original Translation
 zh_CN: 急速
 zh_TW: 增速"	""
-"potion.effects.whenDrank"	"When Applied:"	"Original Translation
-zh_CN: 当使用后：
-zh_TW: 使用後會得到："	""
 "potion.empty"	"No Effects"	"Original Translation
 zh_CN: 无效果
 zh_TW: 無效果"	""
@@ -43988,7 +44027,7 @@ zh_TW: 劇毒藥水"	"劇毒藥水"
 "potion.poison.splash.name"	"Splash Potion of Poison"	"Original Translation
 zh_CN: 喷溅型剧毒药水
 zh_TW: 噴濺型劇毒藥水"	"飛濺劇毒藥水"
-"potion.potency.0"	""	"Original Translation
+"potion.potency.0"	"I"	"Original Translation
 zh_CN: 
 zh_TW: "	""
 "potion.potency.1"	"II"	"Original Translation
@@ -47271,6 +47310,7 @@ zh_TW: 編輯器資源"	""
 "resourcePack.editor.controlHelp.panelTitle"	"Control Help"	"Original Translation
 zh_CN: 控制帮助
 zh_TW: 控制說明"	""
+"resourcePack.editor.controlHelp.tooltip"	"Open the panel that displays the Universal controls and the active Tool controls while in Tool mode."	"Original Translation"	""
 "resourcePack.editor.copypaste.actionbar.copy.title"	"Copy"	"Original Translation
 zh_CN: 复制
 zh_TW: 複製"	""
@@ -47343,6 +47383,7 @@ zh_TW: 模式"	""
 "resourcePack.editor.core.bindingCategory.move"	"Move"	"Original Translation
 zh_CN: 移动
 zh_TW: 移動"	""
+"resourcePack.editor.core.bindingCategory.moveSelection"	"Move Selection"	"Original Translation"	""
 "resourcePack.editor.core.bindingCategory.movement"	"Movement"	"Original Translation
 zh_CN: 移动
 zh_TW: 移動"	""
@@ -47367,6 +47408,7 @@ zh_TW: 調整選取範圍大小"	""
 "resourcePack.editor.core.bindingCategory.toolActivation"	"Tool Activation"	"Original Translation
 zh_CN: 工具激活
 zh_TW: 工具啟動"	""
+"resourcePack.editor.core.bindingCategory.toolPanels"	"Tool Panels"	"Original Translation"	""
 "resourcePack.editor.core.bindingCategory.trimActions"	"Trim Actions"	"Original Translation
 zh_CN: 修剪操作
 zh_TW: 修剪動作"	""
@@ -49686,6 +49728,8 @@ zh_TW: 向上縮小選取範圍"	""
 "resourcePack.editor.selectionTool.keyBinding.shrinkUp.tooltip"	"Decreases the size of the Marquee Selection volume up."	"Original Translation
 zh_CN: 向上减小选取框选区的大小。
 zh_TW: 向上減少框選選取區域的大小。"	""
+"resourcePack.editor.selectionTool.keyBinding.shrinkWrap.title"	"Shrink Wrap Selection"	"Original Translation"	""
+"resourcePack.editor.selectionTool.keyBinding.shrinkWrap.tooltip"	"Shrink wrap the selection around its solid blocks."	"Original Translation"	""
 "resourcePack.editor.selectionTool.keyBinding.toggleTool.title"	"Selection"	"Original Translation
 zh_CN: 选择
 zh_TW: 選取範圍"	""
@@ -49710,6 +49754,8 @@ zh_TW: 修剪選取範圍 (界限)"	""
 "resourcePack.editor.selectionTool.keyBinding.trimVolume.tooltip"	"Reduce the Selection so the bounds are touching at least one non-air block on each size."	"Original Translation
 zh_CN: 减小选区，让边界至少碰到每个大小上的一个非空气方块。
 zh_TW: 縮小選取範圍，使邊界在每一面都至少接觸一個非空氣方塊。"	""
+"resourcePack.editor.selectionTool.magicSelect.radius.title"	"Radius"	"Original Translation"	""
+"resourcePack.editor.selectionTool.magicSelect.radius.tooltip"	"Maximum distance (in blocks) Magic Select searches outward and upward from the clicked block."	"Original Translation"	""
 "resourcePack.editor.selectionTool.marquee.title"	"Marquee Selection"	"Original Translation
 zh_CN: 选取框选择
 zh_TW: 選取框選擇"	""
@@ -49881,6 +49927,8 @@ zh_TW: 無可移除的空氣方塊。"	""
 "resourcePack.editor.selectionTool.toast.removeAir.noSelection"	"Please create a selection before using Remove Air."	"Original Translation
 zh_CN: 在使用“移除空气”之前，请创建一个选区。
 zh_TW: 使用「移除空氣」前，請先建立選取範圍。"	""
+"resourcePack.editor.selectionTool.toast.shrinkWrap.noChanges"	"Selection already tightly wraps its solid blocks."	"Original Translation"	""
+"resourcePack.editor.selectionTool.toast.shrinkWrap.noSelection"	"Please create a selection before using Shrink Wrap."	"Original Translation"	""
 "resourcePack.editor.selectionTool.toast.trimSelection.noBlocksRemaining"	"Selection contains only air blocks."	"Original Translation
 zh_CN: 选区只包含空气方块。
 zh_TW: 選取範圍內僅含空氣方塊。"	""
@@ -49920,6 +49968,8 @@ zh_TW: 移除空氣"	""
 "resourcePack.editor.selectionTool.trimAction.removeAir.tooltip"	"Remove Air blocks for the Selection leaving only the specified blocks."	"Original Translation
 zh_CN: 移除选区中的空气方块，仅保留指定的方块。
 zh_TW: 從選取範圍中移除空氣方塊，僅留下指定的方塊。"	""
+"resourcePack.editor.selectionTool.trimAction.shrinkWrap"	"Shrink Wrap"	"Original Translation"	""
+"resourcePack.editor.selectionTool.trimAction.shrinkWrap.tooltip"	"Create a new selection volume that tightly wraps the solid blocks inside the current selection, discarding empty space."	"Original Translation"	""
 "resourcePack.editor.selectionTool.trimAction.title"	"Trim Actions"	"Original Translation
 zh_CN: 修剪操作
 zh_TW: 修剪動作"	""
@@ -50910,6 +50960,7 @@ zh_TW: 使用泛洪填充演算法選擇目前正在查看的區域。"	""
 "resourcePack.editor.toolRail.floodFillSelectionTool.title"	"Flood Fill Selection Tool."	"Original Translation
 zh_CN: 填充色彩选择工具。
 zh_TW: 泛洪填充選擇工具。"	""
+"resourcePack.editor.toolRail.floodTool.keyBinding.activateTool.tooltip"	"Activate the Flood Tool."	"Original Translation"	""
 "resourcePack.editor.toolRail.floodTool.keyBinding.applyFlood.title"	"Apply Flood"	"Original Translation
 zh_CN: 应用灌注
 zh_TW: 套用淹沒"	""
@@ -51523,6 +51574,8 @@ zh_TW: 將聰明的填充工作限制在行動中選擇的方塊中只會影響�
 "resourcePack.editor.toolRail.smartFillTool.modes.fillVolume"	"Fill Volume"	"Original Translation
 zh_CN: 填充量
 zh_TW: 填充體積"	""
+"resourcePack.editor.toolRail.smartFillTool.onlyFillExposedSurface.title"	"Only Fill Exposed Surface"	"Original Translation"	""
+"resourcePack.editor.toolRail.smartFillTool.onlyFillExposedSurface.tooltip"	"Only include matching blocks with a non-solid neighbor in the clicked face direction."	"Original Translation"	""
 "resourcePack.editor.toolRail.smartFillTool.title"	"Smart Fill"	"Original Translation
 zh_CN: 智能填充
 zh_TW: 智慧填充"	""
@@ -53122,21 +53175,6 @@ zh_TW: 您需要解鎖此套件才能配備所選外觀。"	""
 "skins.title"	"Skins"	"Original Translation
 zh_CN: 皮肤
 zh_TW: 外觀"	""
-"slot.armor.body.when_equipped"	"When equipped:"	"Original Translation
-zh_CN: 装备时：
-zh_TW: 裝備時："	""
-"slot.armor.chest.when_equipped"	"When on Chest:"	"Original Translation
-zh_CN: 在箱子上时：
-zh_TW: 穿戴於胸部時："	""
-"slot.armor.feet.when_equipped"	"When on Feet:"	"Original Translation
-zh_CN: 在脚上时：
-zh_TW: 穿戴於腳部時："	""
-"slot.armor.head.when_equipped"	"When on Head:"	"Original Translation
-zh_CN: 在头上时：
-zh_TW: 穿戴於頭部時："	""
-"slot.armor.legs.when_equipped"	"When on Legs:"	"Original Translation
-zh_CN: 在腿上时：
-zh_TW: 穿戴於腿部時："	""
 "soundCategory.ambient"	"Environmental audio"	"Original Translation
 zh_CN: 环境音频
 zh_TW: 環境音效"	""
@@ -59026,6 +59064,7 @@ zh_TW: 鐵砧"	"鐵砧"
 "tile.anvil.slightlyDamaged.name"	"Chipped Anvil"	"Original Translation
 zh_CN: 开裂的铁砧
 zh_TW: 破損的鐵砧"	"微損的鐵砧"
+"tile.anvil.tooltip"	"Repair & enchant tools"	"Original Translation"	""
 "tile.anvil.veryDamaged.name"	"Damaged Anvil"	"Original Translation
 zh_CN: 损坏的铁砧
 zh_TW: 損壞的鐵砧"	"耗損的鐵砧"
@@ -59206,6 +59245,9 @@ zh_TW: 黑色蠟燭"	"黑色蠟燭"
 "tile.black_candle_cake.name"	"Cake with Black Candle"	"Original Translation
 zh_CN: 带黑色蜡烛的蛋糕
 zh_TW: 蛋糕與黑色蠟燭"	"插上黑色蠟燭的蛋糕"
+"tile.black_concrete_double_slab.name"	"Black Concrete Double Slab"	"Original Translation"	""
+"tile.black_concrete_slab.name"	"Black Concrete Slab"	"Original Translation"	""
+"tile.black_concrete_stairs.name"	"Black Concrete Stairs"	"Original Translation"	""
 "tile.black_wool_double_slab.name"	"Black Wool Double Slab"	"Original Translation
 zh_CN: 黑色羊毛双层台阶
 zh_TW: 黑色羊毛雙板"	""
@@ -59233,12 +59275,16 @@ zh_TW: 黑石牆"	"黑石牆"
 "tile.blast_furnace.name"	"Blast Furnace"	"Original Translation
 zh_CN: 高炉
 zh_TW: 高爐"	"高爐"
+"tile.blast_furnace.tooltip"	"Smelt metal faster"	"Original Translation"	""
 "tile.blue_candle.name"	"Blue Candle"	"Original Translation
 zh_CN: 蓝色蜡烛
 zh_TW: 藍色蠟燭"	"藍色蠟燭"
 "tile.blue_candle_cake.name"	"Cake with Blue Candle"	"Original Translation
 zh_CN: 带蓝色蜡烛的蛋糕
 zh_TW: 蛋糕與藍色蠟燭"	"插上藍色蠟燭的蛋糕"
+"tile.blue_concrete_double_slab.name"	"Blue Concrete Double Slab"	"Original Translation"	""
+"tile.blue_concrete_slab.name"	"Blue Concrete Slab"	"Original Translation"	""
+"tile.blue_concrete_stairs.name"	"Blue Concrete Stairs"	"Original Translation"	""
 "tile.blue_ice.name"	"Blue Ice"	"Original Translation
 zh_CN: 蓝冰
 zh_TW: 藍冰"	"藍冰"
@@ -59263,6 +59309,7 @@ zh_TW: 邊界"	"邊界"
 "tile.brain_coral_wall_fan.name"	"Brain Coral Wall Fan"	"Original Translation
 zh_CN: 脑纹珊瑚壁扇
 zh_TW: 腦珊瑚牆上風扇"	"牆上的扇狀腦珊瑚"
+"tile.brewing_stand.tooltip"	"Brew potions"	"Original Translation"	""
 "tile.brick_block.name"	"Bricks"	"Original Translation
 zh_CN: 砖
 zh_TW: 磚"	"紅磚"
@@ -59275,6 +59322,9 @@ zh_TW: 棕色蠟燭"	"棕色蠟燭"
 "tile.brown_candle_cake.name"	"Cake with Brown Candle"	"Original Translation
 zh_CN: 带棕色蜡烛的蛋糕
 zh_TW: 蛋糕與棕色蠟燭"	"插上棕色蠟燭的蛋糕"
+"tile.brown_concrete_double_slab.name"	"Brown Concrete Double Slab"	"Original Translation"	""
+"tile.brown_concrete_slab.name"	"Brown Concrete Slab"	"Original Translation"	""
+"tile.brown_concrete_stairs.name"	"Brown Concrete Stairs"	"Original Translation"	""
 "tile.brown_mushroom.name"	"Brown Mushroom"	"Original Translation
 zh_CN: 棕色蘑菇
 zh_TW: 棕色蘑菇"	"棕色蘑菇"
@@ -59296,6 +59346,7 @@ zh_TW: 棕色羊毛板"	""
 "tile.brown_wool_stairs.name"	"Brown Wool Stairs"	"Original Translation
 zh_CN: 棕色羊毛楼梯
 zh_TW: 棕色羊毛階梯"	""
+"tile.brush.tooltip"	"Excavate & brush"	"Original Translation"	""
 "tile.bubble_column.name"	"Bubble Column"	"Original Translation
 zh_CN: 气泡柱
 zh_TW: 氣泡柱"	"氣泡柱"
@@ -59392,12 +59443,14 @@ zh_TW: 胡蘿蔔"	"胡蘿蔔"
 "tile.cartography_table.name"	"Cartography Table"	"Original Translation
 zh_CN: 制图台
 zh_TW: 製圖台"	"製圖台"
+"tile.cartography_table.tooltip"	"Modify Maps"	"Original Translation"	""
 "tile.carved_pumpkin.name"	"Carved Pumpkin"	"Original Translation
 zh_CN: 雕刻过的南瓜
 zh_TW: 雕刻過的南瓜"	"雕刻過的南瓜"
 "tile.cauldron.name"	"Cauldron"	"Original Translation
 zh_CN: 炼药锅
 zh_TW: 鍋釜"	"鍋釜"
+"tile.cauldron.tooltip"	"Holds liquids & potions"	"Original Translation"	""
 "tile.cave_vines.name"	"Cave Vines"	"Original Translation
 zh_CN: 洞穴藤蔓
 zh_TW: 洞穴藤蔓"	"洞穴藤蔓"
@@ -59641,9 +59694,12 @@ zh_TW: 紅火把"	"紅色火把"
 "tile.command_block.name"	"Command Block"	"Original Translation
 zh_CN: 命令方块
 zh_TW: 指令方塊"	"指令方塊"
+"tile.comparator.tooltip"	"Reads signal strength"	"Original Translation"	""
+"tile.compass.tooltip"	"Points to world spawn"	"Original Translation"	""
 "tile.composter.name"	"Composter"	"Original Translation
 zh_CN: 堆肥箱
 zh_TW: 堆肥箱"	"堆肥箱"
+"tile.composter.tooltip"	"Make bone meal"	"Original Translation"	""
 "tile.compoundcreator.name"	"Compound Creator"	"Original Translation
 zh_CN: 化合物创建器
 zh_TW: 複合物建立工具"	"化合物建立器"
@@ -59887,9 +59943,11 @@ zh_TW: 裂紋拋光黑石磚"	"裂紋拋光黑石磚"
 "tile.crafter.name"	"Crafter"	"Original Translation
 zh_CN: 合成器
 zh_TW: 合成器"	"合成器"
+"tile.crafter.tooltip"	"Automate crafting"	"Original Translation"	""
 "tile.crafting_table.name"	"Crafting Table"	"Original Translation
 zh_CN: 工作台
 zh_TW: 精製台"	"工作台"
+"tile.crafting_table.tooltip"	"Make stuff"	"Original Translation"	""
 "tile.creaking_heart.name"	"Creaking Heart"	"Original Translation
 zh_CN: 嘎枝之心
 zh_TW: 闇響之心"	"嘎枝之心"
@@ -59968,6 +60026,9 @@ zh_TW: 青綠色蠟燭"	"青色蠟燭"
 "tile.cyan_candle_cake.name"	"Cake with Cyan Candle"	"Original Translation
 zh_CN: 带青色蜡烛的蛋糕
 zh_TW: 蛋糕與青綠色蠟燭"	"插上青色蠟燭的蛋糕"
+"tile.cyan_concrete_double_slab.name"	"Cyan Concrete Double Slab"	"Original Translation"	""
+"tile.cyan_concrete_slab.name"	"Cyan Concrete Slab"	"Original Translation"	""
+"tile.cyan_concrete_stairs.name"	"Cyan Concrete Stairs"	"Original Translation"	""
 "tile.cyan_wool_double_slab.name"	"Cyan Wool Double Slab"	"Original Translation
 zh_CN: 青色羊毛双层台阶
 zh_TW: 青綠色羊毛雙板"	""
@@ -60127,6 +60188,7 @@ zh_TW: 纏根泥土"	"扎根土"
 "tile.dispenser.name"	"Dispenser"	"Original Translation
 zh_CN: 发射器
 zh_TW: 發射器"	"發射器"
+"tile.dispenser.tooltip"	"Automate actions"	"Original Translation"	""
 "tile.doorWood.name"	"Wooden Door"	"Original Translation
 zh_CN: 木门
 zh_TW: 木門"	"木門"
@@ -60277,6 +60339,7 @@ zh_TW: 滴水石方塊"	"鐘乳石方塊"
 "tile.dropper.name"	"Dropper"	"Original Translation
 zh_CN: 投掷器
 zh_TW: 投擲器"	"投擲器"
+"tile.dropper.tooltip"	"Eject items"	"Original Translation"	""
 "tile.element.ac.name"	"Actinium"	"Original Translation
 zh_CN: 锕
 zh_TW: 錒"	"錒"
@@ -60646,6 +60709,7 @@ zh_TW: 翡翠礦"	"綠寶石礦"
 "tile.enchanting_table.name"	"Enchanting Table"	"Original Translation
 zh_CN: 附魔台
 zh_TW: 附魔台"	"附魔台"
+"tile.enchanting_table.tooltip"	"Enchant tools & books"	"Original Translation"	""
 "tile.end_brick_stairs.name"	"End Stone Brick Stairs"	"Original Translation
 zh_CN: 末地石砖楼梯
 zh_TW: 終界石磚階梯"	"終界石磚階梯"
@@ -60742,6 +60806,7 @@ zh_TW: 螢火蟲灌木叢"	"螢火蟲灌木叢"
 "tile.fletching_table.name"	"Fletching Table"	"Original Translation
 zh_CN: 制箭台
 zh_TW: 製箭台"	"製箭台"
+"tile.flint_and_steel.tooltip"	"Make fire"	"Original Translation"	""
 "tile.flower_pot.name"	"Flower Pot"	"Original Translation
 zh_CN: 花盆
 zh_TW: 花盆"	"花盆"
@@ -60766,6 +60831,7 @@ zh_TW: 冰霜"	"霜冰"
 "tile.furnace.name"	"Furnace"	"Original Translation
 zh_CN: 熔炉
 zh_TW: 熔爐"	"熔爐"
+"tile.furnace.tooltip"	"Smelt & cook"	"Original Translation"	""
 "tile.gilded_blackstone.name"	"Gilded Blackstone"	"Original Translation
 zh_CN: 镶金黑石
 zh_TW: 鑲金黑石"	"鑲金黑石"
@@ -60913,6 +60979,9 @@ zh_TW: 灰色蠟燭"	"灰色蠟燭"
 "tile.gray_candle_cake.name"	"Cake with Gray Candle"	"Original Translation
 zh_CN: 带灰色蜡烛的蛋糕
 zh_TW: 蛋糕與灰色蠟燭"	"插上灰色蠟燭的蛋糕"
+"tile.gray_concrete_double_slab.name"	"Gray Concrete Double Slab"	"Original Translation"	""
+"tile.gray_concrete_slab.name"	"Gray Concrete Slab"	"Original Translation"	""
+"tile.gray_concrete_stairs.name"	"Gray Concrete Stairs"	"Original Translation"	""
 "tile.gray_wool_double_slab.name"	"Gray Wool Double Slab"	"Original Translation
 zh_CN: 灰色羊毛双层台阶
 zh_TW: 灰色羊毛雙板"	""
@@ -60928,6 +60997,9 @@ zh_TW: 綠色蠟燭"	"綠色蠟燭"
 "tile.green_candle_cake.name"	"Cake with Green Candle"	"Original Translation
 zh_CN: 带绿色蜡烛的蛋糕
 zh_TW: 蛋糕與綠色蠟燭"	"插上綠色蠟燭的蛋糕"
+"tile.green_concrete_double_slab.name"	"Green Concrete Double Slab"	"Original Translation"	""
+"tile.green_concrete_slab.name"	"Green Concrete Slab"	"Original Translation"	""
+"tile.green_concrete_stairs.name"	"Green Concrete Stairs"	"Original Translation"	""
 "tile.green_wool_double_slab.name"	"Green Wool Double Slab"	"Original Translation
 zh_CN: 绿色羊毛双层台阶
 zh_TW: 綠色羊毛雙板"	""
@@ -60940,6 +61012,7 @@ zh_TW: 綠色羊毛階梯"	""
 "tile.grindstone.name"	"Grindstone"	"Original Translation
 zh_CN: 砂轮
 zh_TW: 砂輪"	"砂輪"
+"tile.grindstone.tooltip"	"Remove enchantments"	"Original Translation"	""
 "tile.hanging_roots.name"	"Hanging Roots"	"Original Translation
 zh_CN: 垂根
 zh_TW: 垂根"	"懸根"
@@ -61057,6 +61130,7 @@ zh_TW: 沉重核心"	"沉重核心"
 "tile.heavy_weighted_pressure_plate.name"	"Heavy Weighted Pressure Plate"	"Original Translation
 zh_CN: 重质测重压力板
 zh_TW: 重型測重壓力板"	"重質測重壓力板"
+"tile.hoe.tooltip"	"Farming"	"Original Translation"	""
 "tile.honey_block.name"	"Honey Block"	"Original Translation
 zh_CN: 蜂蜜方块
 zh_TW: 蜂蜜方塊"	"蜂蜜塊"
@@ -61066,6 +61140,7 @@ zh_TW: 蜂巢方塊"	"蜂巢塊"
 "tile.hopper.name"	"Hopper"	"Original Translation
 zh_CN: 漏斗
 zh_TW: 漏斗"	"漏斗"
+"tile.hopper.tooltip"	"Add items to chest"	"Original Translation"	""
 "tile.horn_coral_wall_fan.name"	"Horn Coral Wall Fan"	"Original Translation
 zh_CN: 鹿角珊瑚壁扇
 zh_TW: 角珊瑚牆上風扇"	"牆上的扇狀角珊瑚"
@@ -61192,6 +61267,7 @@ zh_TW: 黑橡樹葉"	"黑橡木樹葉"
 "tile.lectern.name"	"Lectern"	"Original Translation
 zh_CN: 讲台
 zh_TW: 講台"	"講台"
+"tile.lectern.tooltip"	"Display books"	"Original Translation"	""
 "tile.lever.name"	"Lever"	"Original Translation
 zh_CN: 拉杆
 zh_TW: 拉桿"	"控制桿"
@@ -61204,6 +61280,9 @@ zh_TW: 淺藍色蠟燭"	"淺藍色蠟燭"
 "tile.light_blue_candle_cake.name"	"Cake with Light Blue Candle"	"Original Translation
 zh_CN: 带淡蓝色蜡烛的蛋糕
 zh_TW: 蛋糕與淺藍色蠟燭"	"插上淺藍色蠟燭的蛋糕"
+"tile.light_blue_concrete_double_slab.name"	"Light Blue Concrete Double Slab"	"Original Translation"	""
+"tile.light_blue_concrete_slab.name"	"Light Blue Concrete Slab"	"Original Translation"	""
+"tile.light_blue_concrete_stairs.name"	"Light Blue Concrete Stairs"	"Original Translation"	""
 "tile.light_blue_wool_double_slab.name"	"Light Blue Wool Double Slab"	"Original Translation
 zh_CN: 淡蓝色羊毛双层台阶
 zh_TW: 淺藍色羊毛雙板"	""
@@ -61219,6 +61298,9 @@ zh_TW: 淺灰色蠟燭"	"淺灰色蠟燭"
 "tile.light_gray_candle_cake.name"	"Cake with Light Gray Candle"	"Original Translation
 zh_CN: 带淡灰色蜡烛的蛋糕
 zh_TW: 蛋糕與淺灰色蠟燭"	"插上淺灰色蠟燭的蛋糕"
+"tile.light_gray_concrete_double_slab.name"	"Light Gray Concrete Double Slab"	"Original Translation"	""
+"tile.light_gray_concrete_slab.name"	"Light Gray Concrete Slab"	"Original Translation"	""
+"tile.light_gray_concrete_stairs.name"	"Light Gray Concrete Stairs"	"Original Translation"	""
 "tile.light_gray_wool_double_slab.name"	"Light Gray Wool Double Slab"	"Original Translation
 zh_CN: 淡灰色羊毛双层台阶
 zh_TW: 淺灰色羊毛雙板"	""
@@ -61240,6 +61322,9 @@ zh_TW: 淡黃綠色蠟燭"	"淺綠色蠟燭"
 "tile.lime_candle_cake.name"	"Cake with Lime Candle"	"Original Translation
 zh_CN: 带黄绿色蜡烛的蛋糕
 zh_TW: 蛋糕與淡黃綠色蠟燭"	"插上淺綠色蠟燭的蛋糕"
+"tile.lime_concrete_double_slab.name"	"Lime Concrete Double Slab"	"Original Translation"	""
+"tile.lime_concrete_slab.name"	"Lime Concrete Slab"	"Original Translation"	""
+"tile.lime_concrete_stairs.name"	"Lime Concrete Stairs"	"Original Translation"	""
 "tile.lime_wool_double_slab.name"	"Lime Wool Double Slab"	"Original Translation
 zh_CN: 黄绿色羊毛双层台阶
 zh_TW: 淡黃綠色羊毛雙板"	""
@@ -61276,6 +61361,7 @@ zh_TW: 上鎖的儲物箱"	"上鎖的箱子"
 "tile.lodestone.name"	"Lodestone"	"Original Translation
 zh_CN: 磁石
 zh_TW: 磁石"	"磁石"
+"tile.lodestonecompass.tooltip"	"Points to lodestone"	"Original Translation"	""
 "tile.log.acacia.name"	"Acacia Log"	"Original Translation
 zh_CN: 金合欢原木
 zh_TW: 相思樹原木"	"相思木原木"
@@ -61300,12 +61386,16 @@ zh_TW: 杉木原木"	"杉木原木"
 "tile.loom.name"	"Loom"	"Original Translation
 zh_CN: 织布机
 zh_TW: 織布機"	"紡織機"
+"tile.loom.tooltip"	"Decorate banners"	"Original Translation"	""
 "tile.magenta_candle.name"	"Magenta Candle"	"Original Translation
 zh_CN: 品红色蜡烛
 zh_TW: 洋紅色蠟燭"	"洋紅色蠟燭"
 "tile.magenta_candle_cake.name"	"Cake with Magenta Candle"	"Original Translation
 zh_CN: 带品红色蜡烛的蛋糕
 zh_TW: 蛋糕與洋紅色蠟燭"	"插上洋紅色蠟燭的蛋糕"
+"tile.magenta_concrete_double_slab.name"	"Magenta Concrete Double Slab"	"Original Translation"	""
+"tile.magenta_concrete_slab.name"	"Magenta Concrete Slab"	"Original Translation"	""
+"tile.magenta_concrete_stairs.name"	"Magenta Concrete Stairs"	"Original Translation"	""
 "tile.magenta_wool_double_slab.name"	"Magenta Wool Double Slab"	"Original Translation
 zh_CN: 品红色羊毛双层台阶
 zh_TW: 洋紅色羊毛雙板"	""
@@ -61519,6 +61609,7 @@ zh_TW: 橡木階梯"	"橡木階梯"
 "tile.observer.name"	"Observer"	"Original Translation
 zh_CN: 侦测器
 zh_TW: 偵測器"	"偵測器"
+"tile.observer.tooltip"	"Detects change"	"Original Translation"	""
 "tile.obsidian.name"	"Obsidian"	"Original Translation
 zh_CN: 黑曜石
 zh_TW: 黑曜石"	"黑曜石"
@@ -61534,6 +61625,9 @@ zh_TW: 橙色蠟燭"	"橙色蠟燭"
 "tile.orange_candle_cake.name"	"Cake with Orange Candle"	"Original Translation
 zh_CN: 带橙色蜡烛的蛋糕
 zh_TW: 蛋糕與橙色蠟燭"	"插上橙色蠟燭的蛋糕"
+"tile.orange_concrete_double_slab.name"	"Orange Concrete Double Slab"	"Original Translation"	""
+"tile.orange_concrete_slab.name"	"Orange Concrete Slab"	"Original Translation"	""
+"tile.orange_concrete_stairs.name"	"Orange Concrete Stairs"	"Original Translation"	""
 "tile.orange_poplar_leaves.name"	"Orange Poplar Leaves"	"Original Translation
 zh_CN: 橙色白杨树叶
 zh_TW: 橙色楊樹樹葉"	""
@@ -61675,6 +61769,9 @@ zh_TW: 粉紅色蠟燭"	"粉紅色蠟燭"
 "tile.pink_candle_cake.name"	"Cake with Pink Candle"	"Original Translation
 zh_CN: 带粉红色蜡烛的蛋糕
 zh_TW: 蛋糕與粉紅色蠟燭"	"插上粉紅色蠟燭的蛋糕"
+"tile.pink_concrete_double_slab.name"	"Pink Concrete Double Slab"	"Original Translation"	""
+"tile.pink_concrete_slab.name"	"Pink Concrete Slab"	"Original Translation"	""
+"tile.pink_concrete_stairs.name"	"Pink Concrete Stairs"	"Original Translation"	""
 "tile.pink_petals.name"	"Pink Petals"	"Original Translation
 zh_CN: 粉红色花瓣
 zh_TW: 粉紅色花瓣"	"粉瓣花"
@@ -61690,6 +61787,7 @@ zh_TW: 粉紅色羊毛階梯"	""
 "tile.piston.name"	"Piston"	"Original Translation
 zh_CN: 活塞
 zh_TW: 活塞"	"活塞"
+"tile.piston.tooltip"	"Push blocks"	"Original Translation"	""
 "tile.piston_arm_collision.name"	"Piston Arm Collision"	"Original Translation
 zh_CN: 活塞手臂碰撞
 zh_TW: 活塞臂碰撞"	"活塞頭"
@@ -61930,6 +62028,9 @@ zh_TW: 紫色蠟燭"	"紫色蠟燭"
 "tile.purple_candle_cake.name"	"Cake with Purple Candle"	"Original Translation
 zh_CN: 带紫色蜡烛的蛋糕
 zh_TW: 蛋糕與紫色蠟燭"	"插上紫色蠟燭的蛋糕"
+"tile.purple_concrete_double_slab.name"	"Purple Concrete Double Slab"	"Original Translation"	""
+"tile.purple_concrete_slab.name"	"Purple Concrete Slab"	"Original Translation"	""
+"tile.purple_concrete_stairs.name"	"Purple Concrete Stairs"	"Original Translation"	""
 "tile.purple_wool_double_slab.name"	"Purple Wool Double Slab"	"Original Translation
 zh_CN: 紫色羊毛双层台阶
 zh_TW: 紫色羊毛雙板"	""
@@ -61987,12 +62088,16 @@ zh_TW: 粗金方塊"	"金原礦方塊"
 "tile.raw_iron_block.name"	"Block of Raw Iron"	"Original Translation
 zh_CN: 粗铁块
 zh_TW: 粗鐵方塊"	"鐵原礦方塊"
+"tile.recovery_compass.tooltip"	"See where you died"	"Original Translation"	""
 "tile.red_candle.name"	"Red Candle"	"Original Translation
 zh_CN: 红色蜡烛
 zh_TW: 紅色蠟燭"	"紅色蠟燭"
 "tile.red_candle_cake.name"	"Cake with Red Candle"	"Original Translation
 zh_CN: 带红色蜡烛的蛋糕
 zh_TW: 蛋糕與紅色蠟燭"	"插上紅色蠟燭的蛋糕"
+"tile.red_concrete_double_slab.name"	"Red Concrete Double Slab"	"Original Translation"	""
+"tile.red_concrete_slab.name"	"Red Concrete Slab"	"Original Translation"	""
+"tile.red_concrete_stairs.name"	"Red Concrete Stairs"	"Original Translation"	""
 "tile.red_flower.allium.name"	"Allium"	"Original Translation
 zh_CN: 绒球葱
 zh_TW: 紫紅球花"	"紫紅球花"
@@ -62074,6 +62179,9 @@ zh_TW: 紅色羊毛板"	""
 "tile.red_wool_stairs.name"	"Red Wool Stairs"	"Original Translation
 zh_CN: 红色羊毛楼梯
 zh_TW: 紅色羊毛階梯"	""
+"tile.redstone.tag.conductor"	"Redstone conductor"	"Original Translation"	""
+"tile.redstone.tag.powered"	"Redstone powered"	"Original Translation"	""
+"tile.redstone.tag.source"	"Redstone power source"	"Original Translation"	""
 "tile.redstone_block.name"	"Block of Redstone"	"Original Translation
 zh_CN: 红石块
 zh_TW: 紅石方塊"	"紅石方塊"
@@ -62200,6 +62308,7 @@ zh_TW: 海鞘"	"海鞘"
 "tile.seagrass.seagrass.name"	"Seagrass"	"Original Translation
 zh_CN: 海草
 zh_TW: 海草"	"海草"
+"tile.shears.tooltip"	"Cut & trim"	"Original Translation"	""
 "tile.shelf_mushroom.name"	"Shelf Mushroom"	"Original Translation
 zh_CN: 展示架蘑菇
 zh_TW: 層菇"	""
@@ -62272,9 +62381,11 @@ zh_TW: 小垂滴葉"	"小懸葉草"
 "tile.smithing_table.name"	"Smithing Table"	"Original Translation
 zh_CN: 锻造台
 zh_TW: 鍛造台"	"鍛造台"
+"tile.smithing_table.tooltip"	"Upgrade tools & armor"	"Original Translation"	""
 "tile.smoker.name"	"Smoker"	"Original Translation
 zh_CN: 烟熏炉
 zh_TW: 煙燻爐"	"煙燻爐"
+"tile.smoker.tooltip"	"Cook food faster"	"Original Translation"	""
 "tile.smooth_basalt.name"	"Smooth Basalt"	"Original Translation
 zh_CN: 平滑玄武岩
 zh_TW: 平滑玄武岩"	"平滑玄武岩"
@@ -62563,6 +62674,7 @@ zh_TW: 牌子"	"告示牌"
 "tile.sticky_piston.name"	"Sticky Piston"	"Original Translation
 zh_CN: 黏性活塞
 zh_TW: 黏性活塞"	"黏性活塞"
+"tile.sticky_piston.tooltip"	"Pull blocks"	"Original Translation"	""
 "tile.sticky_piston_arm_collision.name"	"Sticky Piston Arm Collision"	"Original Translation
 zh_CN: 粘性活塞手臂碰撞
 zh_TW: 黏性活塞臂碰撞"	""
@@ -62713,6 +62825,8 @@ zh_TW: 切石機"	"切石機"
 "tile.stonecutter_block.name"	"Stonecutter"	"Original Translation
 zh_CN: 切石机
 zh_TW: 切石機"	"切石機"
+"tile.stonecutter_block.tooltip"	"Cut stone & copper"	"Original Translation"	""
+"tile.storage.tooltip"	"Storage"	"Original Translation"	""
 "tile.straw_bed.name"	"Straw Bed"	"Original Translation
 zh_CN: 草床
 zh_TW: 稻草床舖"	""
@@ -63262,6 +63376,9 @@ zh_TW: 白色蠟燭"	"白色蠟燭"
 "tile.white_candle_cake.name"	"Cake with White Candle"	"Original Translation
 zh_CN: 带白色蜡烛的蛋糕
 zh_TW: 蛋糕與白色蠟燭"	"插上白色蠟燭的蛋糕"
+"tile.white_concrete_double_slab.name"	"White Concrete Double Slab"	"Original Translation"	""
+"tile.white_concrete_slab.name"	"White Concrete Slab"	"Original Translation"	""
+"tile.white_concrete_stairs.name"	"White Concrete Stairs"	"Original Translation"	""
 "tile.white_wool_double_slab.name"	"White Wool Double Slab"	"Original Translation
 zh_CN: 白色羊毛双层台阶
 zh_TW: 白色羊毛雙板"	""
@@ -63400,6 +63517,9 @@ zh_TW: 黃色蠟燭"	"黃色蠟燭"
 "tile.yellow_candle_cake.name"	"Cake with Yellow Candle"	"Original Translation
 zh_CN: 带黄色蜡烛的蛋糕
 zh_TW: 蛋糕與黃色蠟燭"	"插上黃色蠟燭的蛋糕"
+"tile.yellow_concrete_double_slab.name"	"Yellow Concrete Double Slab"	"Original Translation"	""
+"tile.yellow_concrete_slab.name"	"Yellow Concrete Slab"	"Original Translation"	""
+"tile.yellow_concrete_stairs.name"	"Yellow Concrete Stairs"	"Original Translation"	""
 "tile.yellow_flower.dandelion.name"	"Dandelion"	"Original Translation
 zh_CN: 蒲公英
 zh_TW: 蒲公英"	"蒲公英"
@@ -64099,91 +64219,91 @@ zh_TW: 解除完整版遊戲鎖定"	""
 "trial.world.title"	"Which Trial World?"	"Original Translation
 zh_CN: 哪个试用版世界？
 zh_TW: 要選擇哪個教學用世界？"	""
-"trim_material.amethyst.name"	"Amethyst Material"	"Original Translation
+"trim_material.amethyst.name"	"Amethyst"	"Original Translation
 zh_CN: 紫水晶材料
 zh_TW: 紫水晶材質"	""
-"trim_material.copper.name"	"Copper Material"	"Original Translation
+"trim_material.copper.name"	"Copper"	"Original Translation
 zh_CN: 铜材料
 zh_TW: 銅材質"	""
-"trim_material.diamond.name"	"Diamond Material"	"Original Translation
+"trim_material.diamond.name"	"Diamond"	"Original Translation
 zh_CN: 钻石材料
 zh_TW: 鑽石材質"	""
-"trim_material.emerald.name"	"Emerald Material"	"Original Translation
+"trim_material.emerald.name"	"Emerald"	"Original Translation
 zh_CN: 绿宝石材料
 zh_TW: 翡翠材質"	""
-"trim_material.gold.name"	"Gold Material"	"Original Translation
+"trim_material.gold.name"	"Gold"	"Original Translation
 zh_CN: 黄金材料
 zh_TW: 黃金材質"	""
-"trim_material.iron.name"	"Iron Material"	"Original Translation
+"trim_material.iron.name"	"Iron"	"Original Translation
 zh_CN: 铁材料
 zh_TW: 鐵材質"	""
-"trim_material.lapis.name"	"Lapis Material"	"Original Translation
+"trim_material.lapis.name"	"Lapis"	"Original Translation
 zh_CN: 青金石材料
 zh_TW: 青金石材質"	""
-"trim_material.netherite.name"	"Netherite Material"	"Original Translation
+"trim_material.netherite.name"	"Netherite"	"Original Translation
 zh_CN: 下界合金材料
 zh_TW: 獄髓材質"	""
-"trim_material.quartz.name"	"Quartz Material"	"Original Translation
+"trim_material.quartz.name"	"Quartz"	"Original Translation
 zh_CN: 石英材料
 zh_TW: 石英材質"	""
-"trim_material.redstone.name"	"Redstone Material"	"Original Translation
+"trim_material.redstone.name"	"Redstone"	"Original Translation
 zh_CN: 红石材料
 zh_TW: 紅石材質"	""
-"trim_material.resin.name"	"Resin Material"	"Original Translation
+"trim_material.resin.name"	"Resin"	"Original Translation
 zh_CN: 树脂材料
 zh_TW: 樹脂材質"	""
-"trim_pattern.bolt.name"	"Bolt Armor Trim"	"Original Translation
+"trim_pattern.bolt.name"	"Bolt Trim"	"Original Translation
 zh_CN: 镶铆盔甲纹饰
 zh_TW: 閃電護甲紋飾"	""
-"trim_pattern.coast.name"	"Coast Armor Trim"	"Original Translation
+"trim_pattern.coast.name"	"Coast Trim"	"Original Translation
 zh_CN: 海岸纹饰盔甲
 zh_TW: 海岸護甲紋飾"	""
-"trim_pattern.dune.name"	"Dune Armor Trim"	"Original Translation
+"trim_pattern.dune.name"	"Dune Trim"	"Original Translation
 zh_CN: 沙丘盔甲纹饰
 zh_TW: 沙丘護甲紋飾"	""
-"trim_pattern.eye.name"	"Eye Armor Trim"	"Original Translation
+"trim_pattern.eye.name"	"Eye Trim"	"Original Translation
 zh_CN: 眼眸盔甲纹饰
 zh_TW: 眼睛護甲紋飾"	""
-"trim_pattern.flow.name"	"Flow Armor Trim"	"Original Translation
+"trim_pattern.flow.name"	"Flow Trim"	"Original Translation
 zh_CN: 涡流盔甲纹饰
 zh_TW: 流動護甲紋飾"	""
-"trim_pattern.host.name"	"Host Armor Trim"	"Original Translation
+"trim_pattern.host.name"	"Host Trim"	"Original Translation
 zh_CN: 主导盔甲纹饰
 zh_TW: 主宰護甲紋飾"	""
-"trim_pattern.raiser.name"	"Raiser Armor Trim"	"Original Translation
+"trim_pattern.raiser.name"	"Raiser Trim"	"Original Translation
 zh_CN: 崛起盔甲纹饰
 zh_TW: 飼養者護甲紋飾"	""
-"trim_pattern.rib.name"	"Rib Armor Trim"	"Original Translation
+"trim_pattern.rib.name"	"Rib Trim"	"Original Translation
 zh_CN: 肋骨盔甲纹饰
 zh_TW: 肋骨護甲紋飾"	""
-"trim_pattern.sentry.name"	"Sentry Armor Trim"	"Original Translation
+"trim_pattern.sentry.name"	"Sentry Trim"	"Original Translation
 zh_CN: 哨兵盔甲纹饰
 zh_TW: 哨兵護甲紋飾"	""
-"trim_pattern.shaper.name"	"Shaper Armor Trim"	"Original Translation
+"trim_pattern.shaper.name"	"Shaper Trim"	"Original Translation
 zh_CN: 塑形盔甲纹饰
 zh_TW: 塑形者護甲紋飾"	""
-"trim_pattern.silence.name"	"Silence Armor Trim"	"Original Translation
+"trim_pattern.silence.name"	"Silence Trim"	"Original Translation
 zh_CN: 潜声盔甲纹饰
 zh_TW: 寂靜護甲紋飾"	""
-"trim_pattern.snout.name"	"Snout Armor Trim"	"Original Translation
+"trim_pattern.snout.name"	"Snout Trim"	"Original Translation
 zh_CN: 猪鼻盔甲纹饰
 zh_TW: 豬鼻護甲紋飾"	""
-"trim_pattern.spire.name"	"Spire Armor Trim"	"Original Translation
+"trim_pattern.spire.name"	"Spire Trim"	"Original Translation
 zh_CN: 尖塔盔甲纹饰
 zh_TW: 尖頂護甲紋飾"	""
-"trim_pattern.tide.name"	"Tide Armor Trim"	"Original Translation
+"trim_pattern.tide.name"	"Tide Trim"	"Original Translation
 zh_CN: 潮汐盔甲纹饰
 zh_TW: 潮汐護甲紋飾"	""
-"trim_pattern.vex.name"	"Vex Armor Trim"	"Original Translation
+"trim_pattern.vex.name"	"Vex Trim"	"Original Translation
 zh_CN: 恼鬼盔甲纹饰
 zh_TW: 維克絲護甲紋飾"	""
-"trim_pattern.ward.name"	"Ward Armor Trim"	"Original Translation
+"trim_pattern.ward.name"	"Ward Trim"	"Original Translation
 zh_CN: 监守纹饰盔甲
 zh_TW: 守衛護甲紋飾"	""
-"trim_pattern.wayfinder.name"	"Wayfinder Armor Trim"	"Original Translation
+"trim_pattern.wayfinder.name"	"Wayfinder Trim"	"Original Translation
 zh_CN: 寻路盔甲纹饰
 zh_TW: 尋路者護甲紋飾"	""
-"trim_pattern.wild.name"	"Wild Armor Trim"	"Original Translation
+"trim_pattern.wild.name"	"Wild Trim"	"Original Translation
 zh_CN: 荒野盔甲纹饰
 zh_TW: 狂野護甲紋飾"	""
 "tutorial.edu.menuTitle"	"Learn to Play"	"Original Translation
@@ -64291,6 +64411,7 @@ zh_TW: 轉換完成"	""
 "worldConversionErrorPrompt.message"	"Oops, something went wrong during world conversion. Try again later."	"Original Translation
 zh_CN: 槽糕，在世界转换过程中出错了。请稍后再试。
 zh_TW: 糟糕，世界轉換期間發生錯誤。請稍後再試。"	""
+"worldConversionErrorPrompt.messageNoSpace"	"You don't have enough free storage space to import this world. Free up some space and try again."	"Original Translation"	""
 "worldConversionErrorPrompt.title"	"World Conversion Failed"	"Original Translation
 zh_CN: 世界转换失败
 zh_TW: 世界轉換失敗"	""
