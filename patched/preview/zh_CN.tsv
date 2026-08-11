@@ -980,7 +980,7 @@ zh_TW: 按 :_input_key.sneak: 取消乘坐"	""
 "action.hint.exit.console.chest_boat"	"Press :_input_key.jump: to exit the boat"	"Original Translation
 zh_CN: 按下 :_input_key.jump: 离开船
 zh_TW: 按 :_input_key.jump: 離開小船"	"按:_input_key.jump:离开船"
-"action.hint.exit.console.cushion"	"Press :_input_key.sneak: to get up from the cushion"	"Original Translation
+"action.hint.exit.console.cushion"	"Press :_input_key.sneak: to get up"	"Original Translation
 zh_CN: 按 :_input_key.sneak: 以从坐垫上起身
 zh_TW: 按 :_input_key.sneak: 即可從坐墊起身"	""
 "action.hint.exit.console.donkey"	"Press :_input_key.sneak: to dismount"	"Original Translation
@@ -1518,9 +1518,6 @@ zh_TW: 返回"	"返回"
 "attribution.viewAttribution"	"To view attributions, please visit https://minecraft.net/attribution in any web browser."	"Original Translation
 zh_CN: 要查看署名，请在任意网络浏览器中访问 https://minecraft.net/attribution。
 zh_TW: 若要查看署名，請以任何網頁瀏覽器造訪 https://minecraft.net/attribution。"	"要查看著作权说明，请在任意网络浏览器中访问https://minecraft.net/attribution。"
-"authentication.adalException"	"We can't connect to the service you need right now. Please check your internet connection and try again."	"Original Translation
-zh_CN: 我们无法连接到您当前所需的服务。请检查您的互联网连接，然后再试一次。
-zh_TW: 我們目前無法連接至您需要的服務。請檢查您的網路連線，或稍後再試一次。"	"我们目前无法连接到你所需的服务。请检查你的互联网连接，然后再试一次。"
 "authentication.buyMinecraft"	"Go to the App Store"	"Original Translation
 zh_CN: 前往 App Store
 zh_TW: 前往 App Store"	"前往App Store"
@@ -1551,6 +1548,9 @@ zh_TW: 您已經登出"	"已退出登录"
 "authentication.educationOnly"	"If you are not an education user, go to the app store to download the standard version."	"Original Translation
 zh_CN: 如果您不是教育用户，可以前往应用商店下载标准版本.
 zh_TW: 如果您不是教育版使用者，請前往 App Store 以下載標準版本。"	"如果你不是教育版用户，可以前往应用商店下载标准版本。"
+"authentication.entraException"	"We can't connect to the service you need right now. Please check your internet connection and try again."	"Original Translation
+zh_CN: 我们无法连接到您当前所需的服务。请检查您的互联网连接，然后再试一次。
+zh_TW: 我們目前無法連接至您需要的服務。請檢查您的網路連線，或稍後再試一次。"	""
 "authentication.error.accountType.body"	"Oops! It looks like you signed in with a personal account. This account is not eligible to use Minecraft Education. Please make sure you are signing in with a school or organizational account and try again."	"Original Translation
 zh_CN: 哎呀！看来您使用了个人账户进行登录。此账户不符合使用 Minecraft Education 的条件。请确保您正在使用学校或组织账户登录，随后请重试。
 zh_TW: 哎呀！看起來你使用個人帳戶登入了。此帳戶不符合使用 Minecraft Education 的資格。請確保你正在使用學校或組織帳戶登入，然後重試一次。"	"哎呀！看来你使用了个人账户登录。此账户不符合使用Minecraft教育版的资格。请确保你正在使用学校或组织账户登录，然后重试。"
@@ -9076,7 +9076,7 @@ zh_TW: 與點光源相關的設定。進一步瞭解：https://learn.microsoft.c
 "editor.agfx.shadowStylization.shadowStyle.tooltip"	"Style selection: soft or texel shadows."	"Original Translation
 zh_CN: 样式选择：柔和或纹素阴影。
 zh_TW: 樣式選擇：柔和陰影或紋素陰影。"	""
-"editor.agfx.shadowStylization.texelSize.tooltip"	"Size of texel based shadows."	"Original Translation
+"editor.agfx.shadowStylization.texelSize.tooltip"	"Size of texel based shadows. Applies only for Blocky Shadows"	"Original Translation
 zh_CN: 基于纹素的阴影的大小。
 zh_TW: 紋素陰影的大小。"	""
 "editor.agfx.shadowStylization.tooltip"	"All settings pertaining to shadow styles."	"Original Translation
@@ -9891,21 +9891,14 @@ zh_TW: 向上推移"	""
 "editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffsetUp.tooltip"	"Nudge the prefab instance offset up by 1 block."	"Original Translation
 zh_CN: 将预制实例向上偏移 1 个方块。
 zh_TW: 將預製執行個體的偏移量向上推移 1 格方塊。"	""
-"editor.updateInfo.26u3.biomeAssignment"	"Biome Data Assignment - Assign biome metadata to a selection, including within Custom Dimensions. This affects systems like weather, spawning rules, and Vibrant Visuals but does not place or alter blocks."	"Original Translation
-zh_CN: 生物群系数据分配 - 将生物群系元数据分配到某个选区，包括“自定义维度”内的区域。这会影响天气、生成规则和“灵动视效”等系统，但不会放置或改变方块。→
-zh_TW: 生態域資料指派 - 將生態域中繼資料指派給選取範圍 (包含自訂維度內)。此操作會影響天氣、生物生成規則與絢麗視覺等系統，但不會放置或變更方塊。"	""
-"editor.updateInfo.26u3.cursorImprovements"	"Cursor improvements - We've added contextual cursors to improve feedback. You should now see a ""loading"" icon when you're blocked from taking action by something that requires processing time, such as chunk regeneration or placing a very large primitive shape."	"Original Translation
-zh_CN: 光标改进 - 我们添加了上下文光标以改善反馈。因需要处理时间的任务（如区块再生成或放置非常大的基本几何体形状）而无法执行操作时，现在应该会看到“正在加载”图标。→
-zh_TW: 游標改良 - 加入情境游標以改善回饋機制。因區塊重新產生或放置超大基本形狀等需處理時間的操作而無法動作時，現在會顯示「載入中」圖示。"	""
-"editor.updateInfo.26u3.customDimensions"	"Custom Dimensions - Add custom void dimensions to your world. New dimensions will appear in both the Custom Dimensions panel and the World/Dimensions menu."	"Original Translation
-zh_CN: 自定义维度 - 将自定义虚空维度添加到你的世界。新维度将同时出现在“自定义维度”面板和“世界/维度”菜单中。
-zh_TW: 自訂維度 - 在世界中加入自訂虛空維度。新維度會同時顯示於「自訂維度」面板與「世界/維度」選單。"	""
-"editor.updateInfo.26u3.customMesh"	"Custom Mesh Tool - Import a 3d model in the .STL format, preview it in the world, and convert it into blocks."	"Original Translation
-zh_CN: 自定义网格工具 - 导入 .STL 格式的 3D 模型，在世界中预览，并将其转换为方块。→
-zh_TW: 自訂網格工具 - 匯入 .STL 格式 3D 模型，在世界中預覽並轉換為方塊。"	""
-"editor.updateInfo.26u3.vibrantVisuals"	"Vibrant Visuals: Biome Config Mapping - Easily mix and match Vibrant Visual settings across multiple biomes using the new config mapping window. Find it in the Vibrant Visuals panel: [~*icon|$val=pack://textures/editor/Vibrant-Visuals.png~]"	"Original Translation
-zh_CN: 灵动视效：生物群系配置映射 - 使用新的配置映射窗口，轻松在多个生物群系之间混合搭配“灵动视效”设置。可在“灵动视效”面板中找到该功能：[~*icon|$val=pack://textures/editor/Vibrant-Visuals.png~]
-zh_TW: 絢麗視覺：生態域設定檔對應 - 透過全新設定檔對應視窗，輕鬆混合搭配多個生態域的絢麗視覺設定。可在「絢麗視覺」面板找到此功能：[~*icon|$val=pack://textures/editor/Vibrant-Visuals.png~]"	""
+"editor.updateInfo.26u5.controlHelp"	"Shortcuts are great, but there sure are a lot of them. Find a guide in the Control Help panel, available in the action bar."	"Original Translation"	""
+"editor.updateInfo.26u5.customMesh"	"Custom Mesh tool can now match blocks to vertex color data on imported meshes. Use “Generate color list” in the tool settings after you’ve imported a mesh, but before you’ve placed blocks."	"Original Translation"	""
+"editor.updateInfo.26u5.guidePlanes"	"Add Guide Planes for precise raycasting, especially in the sky or in a void. Find the Guide Planes panel on your action bar."	"Original Translation"	""
+"editor.updateInfo.26u5.layouts"	"Improvements have been made to the Layouts tool and the Layout Instance tool. Adding, selecting, and manipulating structures within a layout should be easier."	"Original Translation"	""
+"editor.updateInfo.26u5.pastePreview"	"You’ll get a widget with Paste Preview now, to make placing things from your clipboard easier and more precise."	"Original Translation"	""
+"editor.updateInfo.26u5.perfImprovements"	"Performance has been improved for large scale operations and volume rendering."	"Original Translation"	""
+"editor.updateInfo.26u5.rotationWidget"	"Rotation has been added to the widget where applicable – no more fighting with sliders (unless you really like the sliders)."	"Original Translation"	""
+"editor.updateInfo.26u5.widgetScaling"	"Speaking of widgets, they also scale in screen space now, so you can still select things even if your camera is far away."	"Original Translation"	""
 "editor.vibrantVisuals.chunkManagement.keyBinding.label"	"Vibrant Visuals"	"Original Translation
 zh_CN: 灵动视效
 zh_TW: 絢麗視覺"	""
@@ -15007,6 +15000,8 @@ zh_TW: 回到舊設計"	""
 "hbui.CreateNewWorld.general.projectHeader"	"Project"	"Original Translation
 zh_CN: 项目
 zh_TW: 專案"	""
+"hbui.CreateNewWorld.general.projectManagementTitle"	"Project management"	"Original Translation"	""
+"hbui.CreateNewWorld.general.projectManagementTitle.narrationComponentTypeSectionHeader"	"Group"	"Original Translation"	""
 "hbui.CreateNewWorld.general.worldNamePlaceholder"	"My World"	"Original Translation
 zh_CN: 我的世界
 zh_TW: 我的世界"	""
@@ -15746,7 +15741,7 @@ zh_TW: 資源包"	""
 "hbui.CreateNewWorldSideMenu.scriptingCodingTabLabel"	"Coding & Scripting"	"Original Translation
 zh_CN: 编码和脚本
 zh_TW: 程式設計和指令碼"	""
-"hbui.CreatePartyRoute.createPartyHeader"	"Create party (Beta)"	"Original Translation
+"hbui.CreatePartyRoute.createPartyHeader"	"Create party"	"Original Translation
 zh_CN: 创建队伍（测试版）
 zh_TW: 建立隊伍 (Beta 測試)"	""
 "hbui.CreatePartyRoute.errorStateMessage"	"Please try again later."	"Original Translation
@@ -15850,7 +15845,7 @@ zh_CN: 选择
 zh_TW: 選取"	""
 "hbui.DropdownItem.selected"	"selected"	"Original Translation
 zh_CN: 已选择
-zh_TW: 已選擇"	""
+zh_TW: 已選取"	""
 "hbui.DropdownItem.unselected"	"not selected"	"Original Translation
 zh_CN: 未当选
 zh_TW: 未選擇"	""
@@ -15959,6 +15954,7 @@ zh_TW: 替換世界"	""
 "hbui.EditRealmWorld.general.fileManagementResetWorldLabel"	"Reset world"	"Original Translation
 zh_CN: 重置世界
 zh_TW: 重設世界"	""
+"hbui.EditRealmWorld.general.projectManagementDownloadWorldLabel"	"Download Editor project"	"Original Translation"	""
 "hbui.EditRealmWorld.general.resettingModal"	"Resetting world"	"Original Translation
 zh_CN: 正在重置世界
 zh_TW: 正在重設世界"	""
@@ -19264,17 +19260,15 @@ zh_TW: 我們無法載入你的願望清單。"	""
 "hbui.Marketplace.RedeemRoute.redeemingContent"	"Redeeming content..."	"Original Translation"	""
 "hbui.Marketplace.ViewRedeemedContentModal.close"	"Close"	"Original Translation"	""
 "hbui.Marketplace.ViewRedeemedContentModal.description"	"%1$s is ready for you."	"Original Translation"	""
-"hbui.Marketplace.ViewRedeemedContentModal.equip"	"Equip"	"Original Translation"	""
-"hbui.Marketplace.ViewRedeemedContentModal.goToItem"	"Go to item"	"Original Translation"	""
-"hbui.Marketplace.ViewRedeemedContentModal.goToStore"	"Go to store"	"Original Translation"	""
 "hbui.Marketplace.ViewRedeemedContentModal.header"	"You're Good To Go"	"Original Translation"	""
+"hbui.Marketplace.ViewRedeemedContentModal.view"	"View"	"Original Translation"	""
 "hbui.MarketplacePackDownloadStates.checkingStorage.title"	"Checking available space"	"Original Translation
 zh_CN: 正在检查可用空间
 zh_TW: 正在檢查可用空間"	""
 "hbui.MarketplacePassBanner.bannerText.freeWeekend"	"Free Weekend - Play now!"	"Original Translation
 zh_CN: 免费周末 - 立即游玩！
 zh_TW: 免費週末 - 立即遊玩！"	""
-"hbui.MarketplacePassBanner.bannerText.noTrialAvailable"	"Available now!"	"Original Translation
+"hbui.MarketplacePassBanner.bannerText.noTrialAvailable"	"Renew your subscription"	"Original Translation
 zh_CN: 现已推出！
 zh_TW: 現已推出！"	""
 "hbui.MarketplacePassBanner.bannerText.switch"	"Available now!"	"Original Translation
@@ -19476,6 +19470,8 @@ zh_TW: 選單"	""
 "hbui.NavigationBarLayout.MenuButton.narration"	"Menu Button"	"Original Translation
 zh_CN: “菜单”按钮
 zh_TW: 選項按鈕"	""
+"hbui.NavigationBarLayout.SearchButton.inputLegend"	"Search"	"Original Translation"	""
+"hbui.NavigationBarLayout.SearchButton.narration"	"Search Button"	"Original Translation"	""
 "hbui.NewPlayerPathRoute.CharacterSelector.character"	"Character"	"Original Translation
 zh_CN: 角色
 zh_TW: 角色"	""
@@ -20166,6 +20162,9 @@ zh_TW: 返回"	""
 "hbui.PartyWorldCapacityModal.confirm"	"Join world"	"Original Translation
 zh_CN: 加入世界
 zh_TW: 加入世界"	""
+"hbui.PartyWorldCapacityModal.experience.confirm"	"Join"	"Original Translation"	""
+"hbui.PartyWorldCapacityModal.experience.message1"	"This instance doesn't have enough open player slots for everyone in your party."	"Original Translation"	""
+"hbui.PartyWorldCapacityModal.experience.message2"	"All party members may not be in the same game instance."	"Original Translation"	""
 "hbui.PartyWorldCapacityModal.message1"	"The world doesn't have enough open player slots for everyone in your party. Some party members will not be able to join."	"Original Translation
 zh_CN: 这当前世界可用的玩家空位不足，无法容纳你队伍中的所有成员，部分队员将无法加入。
 zh_TW: 該世界玩家空位不足，無法容納隊伍所有人。部分隊員將無法加入。"	""
@@ -22593,6 +22592,9 @@ zh_TW: 生存"	""
 "hbui.RealmTag.unknown"	"Unknown"	"Original Translation
 zh_CN: 未知
 zh_TW: 未知"	""
+"hbui.Realms.Common.Modals.DownloadingEditorProjectModal.body"	"Downloading project file to Editor project list"	"Original Translation"	""
+"hbui.Realms.Common.Modals.DownloadingEditorProjectModal.title"	"Downloading project file"	"Original Translation"	""
+"hbui.Realms.Common.Modals.RealmsCancellableProgressModal.cancel"	"Cancel"	"Original Translation"	""
 "hbui.Realms.ErrorModals.CannotContactRealms.message"	"Please check your internet connection and try again."	"Original Translation
 zh_CN: 请检查您的互联网连接并重试。
 zh_TW: 請確認網際網路連線狀態後重試。"	""
@@ -22802,6 +22804,7 @@ zh_TW: 刪除"	""
 "hbui.Realms.RealmsHub.SavesScreen.OptionsMenu.download"	"Download"	"Original Translation
 zh_CN: 下载
 zh_TW: 下載"	""
+"hbui.Realms.RealmsHub.SavesScreen.OptionsMenu.downloadEditorProject"	"Download Editor project"	"Original Translation"	""
 "hbui.Realms.RealmsHub.SavesScreen.OptionsMenu.rename"	"Rename"	"Original Translation
 zh_CN: 重命名
 zh_TW: 重新命名"	""
@@ -23420,6 +23423,7 @@ zh_TW: 未知"	""
 "hbui.Realms.RealmsHub.SlotsScreen.MoreActions.Download"	"Download World"	"Original Translation
 zh_CN: 下载世界
 zh_TW: 下載世界"	""
+"hbui.Realms.RealmsHub.SlotsScreen.MoreActions.DownloadEditorProject"	"Download Editor project"	"Original Translation"	""
 "hbui.Realms.RealmsHub.SlotsScreen.MoreActions.Replace"	"Replace World"	"Original Translation
 zh_CN: 替换世界
 zh_TW: 取代世界"	""
@@ -24419,9 +24423,6 @@ zh_TW: 建立 Preview Realm"	""
 "hbui.RealmsPurchaseCompleteRoute.Body.body1"	"You can invite friends to your Realm and start playing now or you can invite them later."	"Original Translation
 zh_CN: 你现在可以邀请好友加入你的 Realm并开始游玩，或者稍后邀请他们。
 zh_TW: 你可以立即邀請好友加入 Realm 開始遊玩，也可以稍後再邀請。"	""
-"hbui.RealmsPurchaseCompleteRoute.Body.body2"	"Manage your Realm and invite more players in Realm settings, accessed from the Options button on the Realms tab."	"Original Translation
-zh_CN: 通过 Realms 选项卡中的“选项”按钮在 Realm 设置中管理你的 Realm，并邀请更多玩家。
-zh_TW: 前往 Realms 分頁的選項按鈕，進入 Realm 設定即可管理 Realm 並邀請更多玩家。"	""
 "hbui.RealmsPurchaseCompleteRoute.Body.realmHub.body2"	"Manage your Realm and members in the Realm Hub from the Realms tab."	"Original Translation
 zh_CN: 从 Realms 选项卡管理你的 Realm 以及 Realm 中心的成员。
 zh_TW: 從 Realms 分頁進入 Realm 主選單，管理 Realm 與成員。"	""
@@ -24686,6 +24687,7 @@ zh_TW: 文字輸入"	""
 "hbui.RealmsPurchaseSubscriptionRoute.inputPlaceholder"	"%1$s's Realm"	"Original Translation
 zh_CN: %1$s 的 Realm
 zh_TW: %1$s 的 Realm"	""
+"hbui.RealmsPurchaseSubscriptionRoute.modals.loading"	"Loading"	"Original Translation"	""
 "hbui.RealmsPurchaseSubscriptionRoute.modals.purchaseInProgress"	"Processing"	"Original Translation
 zh_CN: 中继站
 zh_TW: 處理中"	""
@@ -27251,6 +27253,8 @@ zh_TW: 返回"	""
 "hbui.SocialDrawer.goToChat"	"Go to Chat"	"Original Translation
 zh_CN: 去聊天
 zh_TW: 前往聊天"	""
+"hbui.SocialDrawer.narration.overlayRole"	"Overlay"	"Original Translation"	""
+"hbui.SocialDrawer.narration.tabSelected"	"%1$s tab is currently selected"	"Original Translation"	""
 "hbui.SocialDrawer.narration.title"	"Social Drawer"	"Original Translation
 zh_CN: 社交抽屉
 zh_TW: 社交抽屜"	""
@@ -27260,9 +27264,6 @@ zh_TW: %1$s 的選項"	""
 "hbui.SocialDrawer.partyTabLabel"	"Party"	"Original Translation
 zh_CN: 派对
 zh_TW: 派對"	""
-"hbui.SocialDrawer.partyTabLabel.beta"	"Party (Beta)"	"Original Translation
-zh_CN: 队伍（测试版）
-zh_TW: 隊伍 (Beta 測試)"	""
 "hbui.SocialDrawer.peopleTabLabel"	"People"	"Original Translation
 zh_CN: 玩家
 zh_TW: 玩家"	""
@@ -27290,12 +27291,13 @@ zh_TW: 聊天頻道"	""
 "hbui.SocialDrawerHeader.close"	"Close"	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"	""
+"hbui.SocialDrawerHeader.narration.buttonRole"	"Button"	"Original Translation"	""
 "hbui.SocialDrawerHeader.narration.close"	"Close"	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"	""
-"hbui.SocialDrawerHeader.narration.search"	"Search for people . Button . Find people by searching for their gamertag"	"Original Translation
-zh_CN: 搜索人员。按钮。通过搜索玩家代号来查找人员
-zh_TW: 搜尋玩家。按鈕。你透過搜尋玩家代號來找到其他玩家"	""
+"hbui.SocialDrawerHeader.narration.enumeration"	"%1$s of %2$s"	"Original Translation"	""
+"hbui.SocialDrawerHeader.narration.searchForPeople"	"Search for people"	"Original Translation"	""
+"hbui.SocialDrawerHeader.narration.searchForPeopleHint"	"Find people by searching for their gamertag"	"Original Translation"	""
 "hbui.SocialDrawerHeader.narration.socialSettings"	"Social settings"	"Original Translation
 zh_CN: 社交设置
 zh_TW: 社交設定"	""
@@ -35101,12 +35103,12 @@ zh_TW: 紅樹林木告示牌"	"红树木告示牌"
 "item.map.exploration.abandoned_camp_flower_forest.name"	"Flower Forest Camp Map"	"Original Translation"	""
 "item.map.exploration.abandoned_camp_pale_garden.name"	"Pale Garden Camp Map"	"Original Translation"	""
 "item.map.exploration.abandoned_camp_swampland.name"	"Swamp Camp Map"	"Original Translation"	""
-"item.map.exploration.buried_ancient_city.name"	"Buried Ancient City Camp Map"	"Original Translation"	""
-"item.map.exploration.buried_mineshaft.name"	"Buried Mineshaft Camp Map"	"Original Translation"	""
+"item.map.exploration.buried_ancient_city.name"	"Buried Ancient City Map"	"Original Translation"	""
+"item.map.exploration.buried_mineshaft.name"	"Buried Mineshaft Map"	"Original Translation"	""
 "item.map.exploration.buried_treasure.name"	"Treasure Map"	"Original Translation
 zh_CN: 藏宝图
 zh_TW: 藏寶圖"	"藏宝图"
-"item.map.exploration.desert_temple.name"	"Desert Temple Camp Map"	"Original Translation"	""
+"item.map.exploration.desert_pyramid.name"	"Desert Pyramid Map"	"Original Translation"	""
 "item.map.exploration.jungle_temple.name"	"Jungle Explorer Map"	"Original Translation
 zh_CN: 丛林探险者地图
 zh_TW: 叢林探險家地圖"	"丛林探险家地图"
@@ -35140,7 +35142,7 @@ zh_TW: 白雪村莊地圖"	"雪原村庄地图"
 "item.map.exploration.village_taiga.name"	"Taiga Village Map"	"Original Translation
 zh_CN: 针叶林村庄地图
 zh_TW: 針葉林地村莊地圖"	"针叶林村庄地图"
-"item.map.exploration.warm_ocean_ruins.name"	"Warm Ocean Ruins Camp Map"	"Original Translation"	""
+"item.map.exploration.warm_ocean_ruins.name"	"Warm Ocean Ruins Map"	"Original Translation"	""
 "item.map.name"	"Map"	"Original Translation
 zh_CN: 地图
 zh_TW: 地圖"	"地图"
@@ -40130,9 +40132,6 @@ zh_TW: 慢 - 400Kbps，300ms 延遲，3% 封包遺失"	""
 "options.dev_connection_veryslow"	"Very slow - 200Kbps, 400ms latency, 4% packet loss"	"Original Translation
 zh_CN: 非常慢 - 200KB 每秒，400 毫秒延迟，4% 的包丢失
 zh_TW: 非常慢 - 200Kbps，400ms 延遲，4% 封包遺失"	""
-"options.dev_controltower_override_transport_layer"	"Override MUTS Transport Layer Locally"	"Original Translation
-zh_CN: 在本地覆盖 MUTS 传输层
-zh_TW: 覆寫本機教育服務 (MUTS) 運輸層"	""
 "options.dev_createRealmWithoutPurchase"	"Create Realm without purchase"	"Original Translation
 zh_CN: 无购买创建 Realm
 zh_TW: 未購買下建立 Realm"	""
@@ -48993,9 +48992,17 @@ zh_TW: 切換鏡像 Z"	""
 "resourcePack.editor.pastepreview.keyBinding.toggleMirrorZ.tooltip"	"Mirror the preview along the Z axis."	"Original Translation
 zh_CN: 沿 Z 轴镜像预览。
 zh_TW: 沿 Z 軸鏡像預覽。"	""
+"resourcePack.editor.pastepreview.keyBinding.toggleMode.title"	"Toggle Mode"	"Original Translation"	""
+"resourcePack.editor.pastepreview.keyBinding.toggleMode.tooltip"	"Switch between Paste and Move modes."	"Original Translation"	""
 "resourcePack.editor.pastepreview.keyBinding.toggleMouseTracking"	"Toggle Mouse Tracking"	"Original Translation
 zh_CN: 切换鼠标跟踪
 zh_TW: 切換滑鼠追蹤"	""
+"resourcePack.editor.pastepreview.mode.move.title"	"Move"	"Original Translation"	""
+"resourcePack.editor.pastepreview.mode.move.tooltip"	"Freeze the preview in place and reposition it with the gizmo or coordinates."	"Original Translation"	""
+"resourcePack.editor.pastepreview.mode.paste.title"	"Paste"	"Original Translation"	""
+"resourcePack.editor.pastepreview.mode.paste.tooltip"	"The preview follows the cursor. Click or press Enter to paste."	"Original Translation"	""
+"resourcePack.editor.pastepreview.mode.title"	"Mode"	"Original Translation"	""
+"resourcePack.editor.pastepreview.mode.tooltip"	"Switch between Paste and Move modes with %s."	"Original Translation"	""
 "resourcePack.editor.pastepreview.pane.controls.cursor"	"Control"	"Original Translation
 zh_CN: 掌控
 zh_TW: 控制"	""
@@ -49047,12 +49054,16 @@ zh_TW: 大小"	""
 "resourcePack.editor.pastepreview.pane.root.title"	"Paste Preview"	"Original Translation
 zh_CN: 粘贴预览
 zh_TW: 貼上預覽"	""
+"resourcePack.editor.pastepreview.position.title"	"Position"	"Original Translation"	""
+"resourcePack.editor.pastepreview.position.xyz.title"	"Coordinates"	"Original Translation"	""
+"resourcePack.editor.pastepreview.position.xyz.tooltip"	"World position of the preview. Type exact coordinates to reposition it."	"Original Translation"	""
 "resourcePack.editor.pastepreview.tool.tip"	"Use the mouse to adjust the position of the clipboard preview, and click to paste into the world. CTRL + D to clear Preview."	"Original Translation
 zh_CN: 使用鼠标调整剪贴板预览的位置，并点击以粘贴到世界中。按 CTRL + D 清除预览。
 zh_TW: 使用滑鼠調整剪貼簿預覽的位置，然後點擊以貼到世界中。按 CTRL + D 清除預覽。"	""
 "resourcePack.editor.pastepreview.tool.title"	"Paste Preview"	"Original Translation
 zh_CN: 粘贴预览
 zh_TW: 貼上預覽"	""
+"resourcePack.editor.pastepreview.worldcontrols.title"	"World Controls"	"Original Translation"	""
 "resourcePack.editor.pencil.direction.bycamera"	"By Camera"	"Original Translation
 zh_CN: 通过摄像机
 zh_TW: 跟隨視角"	""
@@ -53703,6 +53714,7 @@ zh_TW: 同步"	""
 "storageManager.sync.description"	"Sync to look for old worlds"	"Original Translation
 zh_CN: 同步以搜索旧世界
 zh_TW: 同步以尋找舊版世界"	""
+"storageManager.sync.noWorlds.description"	"No old worlds found"	"Original Translation"	""
 "storageManager.sync_legacy_worlds"	"Sync Old Worlds"	"Original Translation
 zh_CN: 同步旧世界
 zh_TW: 同步舊版世界"	""
@@ -56325,6 +56337,7 @@ zh_TW: 嗅探獸產卵聲"	"嗅探兽：下蛋"
 "subtitles.block.sponge.absorb"	"Sponge sucks"	"Original Translation
 zh_CN: 海绵吸取
 zh_TW: 海綿吸水"	"海绵：吸水"
+"subtitles.block.straw_bed.break_leave"	"Straw Bed breaks"	"Original Translation"	""
 "subtitles.block.sweet_berry_bush.pick_berries"	"Berries pop"	"Original Translation
 zh_CN: 浆果爆裂
 zh_TW: 漿果彈出"	"浆果：弹出"
@@ -61947,7 +61960,7 @@ zh_TW: 楊木柵欄"	""
 "tile.poplar_fence_gate.name"	"Poplar Fence Gate"	"Original Translation
 zh_CN: 白杨木栅栏门
 zh_TW: 楊木柵欄門"	""
-"tile.poplar_hanging_sign.name"	"Poplar Sign"	"Original Translation
+"tile.poplar_hanging_sign.name"	"Poplar Hanging Sign"	"Original Translation
 zh_CN: 白杨木告示牌
 zh_TW: 楊木告示牌"	""
 "tile.poplar_log.name"	"Poplar Log"	"Original Translation
