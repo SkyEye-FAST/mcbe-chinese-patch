@@ -464,7 +464,6 @@ attribute.name.minecraft:movement=速度
 attribute.name.zombie.spawnReinforcements=僵尸增援
 attribution.goBack=返回
 attribution.viewAttribution=要查看著作权说明，请在任意网络浏览器中访问https://minecraft.net/attribution。
-authentication.adalException=我们目前无法连接到你所需的服务。请检查你的互联网连接，然后再试一次。
 authentication.buyMinecraft=前往App Store
 authentication.clickToPurchase=如何购买
 authentication.demo.body.default=正在开始演示课程体验…
