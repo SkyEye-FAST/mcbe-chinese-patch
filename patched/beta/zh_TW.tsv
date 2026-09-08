@@ -3152,7 +3152,7 @@ zh_TW: 現在這世界的預設遊戲模式為 %1$s"	""
 "commands.deop.description"	"Revokes operator status from a player."	"Original Translation
 zh_CN: 撤销一名玩家的操作员状态。
 zh_TW: 撤銷玩家的操作者狀態。"	""
-"commands.deop.failed"	"Could not de-op (permission level too high): %s"	"Original Translation
+"commands.deop.failed"	"Could not de-op: %s"	"Original Translation
 zh_CN: 无法撤销（权限级别过高）：%s
 zh_TW: 無法取消權限 (權限等級太高)：%s"	""
 "commands.deop.message"	"You have been de-opped"	"Original Translation
@@ -4019,7 +4019,7 @@ zh_TW: 音樂音量將更新為 %d。"	""
 "commands.op.description"	"Grants operator status to a player."	"Original Translation
 zh_CN: 授予一名玩家操作员状态。
 zh_TW: 授予玩家操作者狀態。"	""
-"commands.op.failed"	"Could not op (already op or higher): %s"	"Original Translation
+"commands.op.failed"	"Could not op: %s"	"Original Translation
 zh_CN: 无法夺得权限（已夺得或具有更高权限）：%s
 zh_TW: 無法提供權限 (已是操作者或更高層級)：%s"	""
 "commands.op.message"	"You have been opped"	"Original Translation
@@ -13649,7 +13649,7 @@ zh_TW: 重新連線"	""
 "hbui.ControllerSpecificButtonNarration.Gamepad.A.KEYBOARD"	"Press A"	"Original Translation
 zh_CN: 按下 “A”
 zh_TW: 按下 A"	""
-"hbui.ControllerSpecificButtonNarration.Gamepad.A.PS"	"Press A"	"Original Translation
+"hbui.ControllerSpecificButtonNarration.Gamepad.A.PS"	"Press Cross Button"	"Original Translation
 zh_CN: 按下 “A”
 zh_TW: 按下 A"	""
 "hbui.ControllerSpecificButtonNarration.Gamepad.A.QUEST"	"Press A"	"Original Translation
@@ -13667,7 +13667,7 @@ zh_TW: 按下 A"	""
 "hbui.ControllerSpecificButtonNarration.Gamepad.B.KEYBOARD"	"Press B"	"Original Translation
 zh_CN: 按下 B
 zh_TW: 請按 B"	""
-"hbui.ControllerSpecificButtonNarration.Gamepad.B.PS"	"Press B"	"Original Translation
+"hbui.ControllerSpecificButtonNarration.Gamepad.B.PS"	"Press Circle Button"	"Original Translation
 zh_CN: 按下 B
 zh_TW: 請按 B"	""
 "hbui.ControllerSpecificButtonNarration.Gamepad.B.QUEST"	"Press B"	"Original Translation
@@ -13721,7 +13721,7 @@ zh_TW: 請按 L3"	""
 "hbui.ControllerSpecificButtonNarration.Gamepad.LB.KEYBOARD"	"Press LB"	"Original Translation
 zh_CN: 按下 LB
 zh_TW: 請按 LB"	""
-"hbui.ControllerSpecificButtonNarration.Gamepad.LB.PS"	"Press LB"	"Original Translation
+"hbui.ControllerSpecificButtonNarration.Gamepad.LB.PS"	"Press L1"	"Original Translation
 zh_CN: 按下 LB
 zh_TW: 請按 LB"	""
 "hbui.ControllerSpecificButtonNarration.Gamepad.LB.QUEST"	"Press LB"	"Original Translation
@@ -13793,7 +13793,7 @@ zh_TW: 按 LEFT_VERTICAL_AXIS"	""
 "hbui.ControllerSpecificButtonNarration.Gamepad.LT.KEYBOARD"	"Press LT"	"Original Translation
 zh_CN: 按下 LT
 zh_TW: 請按 LT"	""
-"hbui.ControllerSpecificButtonNarration.Gamepad.LT.PS"	"Press LT"	"Original Translation
+"hbui.ControllerSpecificButtonNarration.Gamepad.LT.PS"	"Press L2"	"Original Translation
 zh_CN: 按下 LT
 zh_TW: 請按 LT"	""
 "hbui.ControllerSpecificButtonNarration.Gamepad.LT.QUEST"	"Press LT"	"Original Translation
@@ -14117,7 +14117,7 @@ zh_TW: 請按 R3"	""
 "hbui.ControllerSpecificButtonNarration.Gamepad.RB.KEYBOARD"	"Press RB"	"Original Translation
 zh_CN: 按下 RB
 zh_TW: 請按 RB 鍵"	""
-"hbui.ControllerSpecificButtonNarration.Gamepad.RB.PS"	"Press RB"	"Original Translation
+"hbui.ControllerSpecificButtonNarration.Gamepad.RB.PS"	"Press R1"	"Original Translation
 zh_CN: 按下 RB
 zh_TW: 請按 RB 鍵"	""
 "hbui.ControllerSpecificButtonNarration.Gamepad.RB.QUEST"	"Press RB"	"Original Translation
@@ -14189,7 +14189,7 @@ zh_TW: 按 RIGHT_VERTICAL_AXIS"	""
 "hbui.ControllerSpecificButtonNarration.Gamepad.RT.KEYBOARD"	"Press RT"	"Original Translation
 zh_CN: 按下 RT
 zh_TW: 請按 RT 鍵"	""
-"hbui.ControllerSpecificButtonNarration.Gamepad.RT.PS"	"Press RT"	"Original Translation
+"hbui.ControllerSpecificButtonNarration.Gamepad.RT.PS"	"Press R2"	"Original Translation
 zh_CN: 按下 RT
 zh_TW: 請按 RT 鍵"	""
 "hbui.ControllerSpecificButtonNarration.Gamepad.RT.QUEST"	"Press RT"	"Original Translation
@@ -14333,7 +14333,7 @@ zh_TW: 請按向上鍵"	""
 "hbui.ControllerSpecificButtonNarration.Gamepad.X.KEYBOARD"	"Press X"	"Original Translation
 zh_CN: 按下 X
 zh_TW: 請按 X"	""
-"hbui.ControllerSpecificButtonNarration.Gamepad.X.PS"	"Press X"	"Original Translation
+"hbui.ControllerSpecificButtonNarration.Gamepad.X.PS"	"Press Square Button"	"Original Translation
 zh_CN: 按下 X
 zh_TW: 請按 X"	""
 "hbui.ControllerSpecificButtonNarration.Gamepad.X.QUEST"	"Press X"	"Original Translation
@@ -14369,7 +14369,7 @@ zh_TW: 請按 XBOX"	""
 "hbui.ControllerSpecificButtonNarration.Gamepad.Y.KEYBOARD"	"Press Y"	"Original Translation
 zh_CN: 按下 Y 键
 zh_TW: 請按 Y"	""
-"hbui.ControllerSpecificButtonNarration.Gamepad.Y.PS"	"Press Triangle"	"Original Translation
+"hbui.ControllerSpecificButtonNarration.Gamepad.Y.PS"	"Press Triangle Button"	"Original Translation
 zh_CN: 按下三角形
 zh_TW: 按三角形"	""
 "hbui.ControllerSpecificButtonNarration.Gamepad.Y.QUEST"	"Press Y"	"Original Translation
@@ -16186,7 +16186,7 @@ zh_CN: 选择
 zh_TW: 選取"	""
 "hbui.DropdownItem.selected"	"selected"	"Original Translation
 zh_CN: 已选择
-zh_TW: 已選取"	""
+zh_TW: 已選擇"	""
 "hbui.DropdownItem.unselected"	"not selected"	"Original Translation
 zh_CN: 未选择
 zh_TW: 未選擇"	""
@@ -19510,8 +19510,32 @@ zh_TW: 按鈕"	""
 "hbui.Link.open"	"Open"	"Original Translation
 zh_CN: 打开
 zh_TW: 開啟"	""
+"hbui.MainMenu.ButtonNext.narration.role"	"Button"	"Original Translation"	""
 "hbui.MainMenu.Discovery.inputLegend.action"	"View"	"Original Translation"	""
 "hbui.MainMenu.DiscoverySection.narration.role"	"Section"	"Original Translation"	""
+"hbui.MainMenu.DressingRoomButton.inputLegend"	"Dressing room"	"Original Translation"	""
+"hbui.MainMenu.DressingRoomButton.label"	"Dressing room"	"Original Translation"	""
+"hbui.MainMenu.ExitModal.cancelButtonText"	"Keep playing"	"Original Translation"	""
+"hbui.MainMenu.ExitModal.confirmButtonText"	"Exit Minecraft"	"Original Translation"	""
+"hbui.MainMenu.ExitModal.contentText"	"Are you sure you want to exit Minecraft?"	"Original Translation"	""
+"hbui.MainMenu.ExitModal.title"	"Exit Minecraft"	"Original Translation"	""
+"hbui.MainMenu.InboxButton.inputLegend"	"Inbox"	"Original Translation"	""
+"hbui.MainMenu.InboxButton.narration.label"	"Inbox"	"Original Translation"	""
+"hbui.MainMenu.InboxButton.narration.role"	"Button"	"Original Translation"	""
+"hbui.MainMenu.MarketplaceButton.inputLegend"	"Marketplace"	"Original Translation"	""
+"hbui.MainMenu.MarketplaceButton.label"	"Marketplace"	"Original Translation"	""
+"hbui.MainMenu.PlayButton.inputLegend"	"Play"	"Original Translation"	""
+"hbui.MainMenu.PlayButton.label"	"Play"	"Original Translation"	""
+"hbui.MainMenu.RealmsButton.label"	"Realms"	"Original Translation"	""
+"hbui.MainMenu.SettingsButton.inputLegend"	"Settings"	"Original Translation"	""
+"hbui.MainMenu.SettingsButton.narration.label"	"Settings"	"Original Translation"	""
+"hbui.MainMenu.SettingsButton.narration.role"	"Button"	"Original Translation"	""
+"hbui.MainMenu.SocialButton.inputLegend"	"Social"	"Original Translation"	""
+"hbui.MainMenu.SocialButton.label"	"Social (%1$s)"	"Original Translation"	""
+"hbui.MainMenu.SocialButton.labelNarrow"	"(%1$s)"	"Original Translation"	""
+"hbui.MainMenu.inputLegend.discover"	"Discover"	"Original Translation"	""
+"hbui.MainMenu.inputLegend.exit"	"Exit"	"Original Translation"	""
+"hbui.MainMenu.inputLegend.menu"	"Menu"	"Original Translation"	""
 "hbui.ManageShowcaseErrorModal.close"	"Close"	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"	""
@@ -19725,6 +19749,10 @@ zh_TW: 現已推出！"	""
 "hbui.MarketplacePassBanner.bannerText.trialAvailable"	"Start free trial!"	"Original Translation
 zh_CN: 开始免费试玩！
 zh_TW: 啟動免費試玩！"	""
+"hbui.MarketplacePassPDPFAQAccordion.clickToExpand"	"Click to expand"	"Original Translation"	""
+"hbui.MarketplacePassPDPFAQAccordion.enumeration"	"%1$s of %2$s"	"Original Translation"	""
+"hbui.MarketplacePassPDPFAQAccordion.onExpandNarrationHint"	"Navigate down to read the answer"	"Original Translation"	""
+"hbui.MarketplacePassPDPFAQAccordion.textBlock"	"Text block"	"Original Translation"	""
 "hbui.MarketplacePassPDPRoute.title"	"MARKETPLACE PASS"	"Original Translation"	""
 "hbui.MarketplaceRoute.title"	"Marketplace"	"Original Translation
 zh_CN: 市场
@@ -23178,12 +23206,12 @@ zh_TW: 生存"	""
 "hbui.RealmTag.unknown"	"Unknown"	"Original Translation
 zh_CN: 未知
 zh_TW: 未知"	""
-"hbui.Realms.Common.Modals.DownloadingEditorProjectModal.body"	"Downloading project file to Editor project list"	"Original Translation
-zh_CN: 项目文件正在下载到编辑器项目列表
-zh_TW: 正在將專案檔案下載到編輯器專案清單"	""
-"hbui.Realms.Common.Modals.DownloadingEditorProjectModal.title"	"Downloading project file"	"Original Translation
-zh_CN: 正在下载项目文件
-zh_TW: 正在下載專案檔案"	""
+"hbui.Realms.Common.Modals.DownloadingRealmWorldModal.Editor.body"	"Downloading project file to Editor project list"	"Original Translation"	""
+"hbui.Realms.Common.Modals.DownloadingRealmWorldModal.Editor.title"	"Downloading project file"	"Original Translation"	""
+"hbui.Realms.Common.Modals.DownloadingRealmWorldModal.Vanilla.Body.downloading"	"Downloading to local storage"	"Original Translation"	""
+"hbui.Realms.Common.Modals.DownloadingRealmWorldModal.Vanilla.Body.importing"	"Importing downloaded world"	"Original Translation"	""
+"hbui.Realms.Common.Modals.DownloadingRealmWorldModal.Vanilla.Body.processing"	"Processing world"	"Original Translation"	""
+"hbui.Realms.Common.Modals.DownloadingRealmWorldModal.Vanilla.title"	"Downloading %1$s"	"Original Translation"	""
 "hbui.Realms.Common.Modals.RealmsCancellableProgressModal.cancel"	"Cancel"	"Original Translation
 zh_CN: 取消
 zh_TW: 取消"	""
@@ -23196,6 +23224,7 @@ zh_TW: 無法連線到 Realms"	""
 "hbui.Realms.ErrorModals.close"	"Close"	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"	""
+"hbui.Realms.ErrorModals.enumeration"	"%1$s of %2$s"	"Original Translation"	""
 "hbui.Realms.ErrorModals.ok"	"Close"	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"	""
@@ -38643,7 +38672,9 @@ zh_TW: 縮放比例：1:%s"	""
 "map.toolTip.unkown"	"Unknown Map"	"Original Translation
 zh_CN: 未知地图
 zh_TW: 未知地圖"	""
+"matchmaking.toast.exitQueue"	"Exit Queue"	"Original Translation"	""
 "matchmaking.toast.inQueue"	"In queue: %s"	"Original Translation"	""
+"matchmaking.toast.inQueueLabel"	"In Queue"	"Original Translation"	""
 "matchmaking.toast.loading"	"Loading %s!"	"Original Translation"	""
 "materialreducer.title"	"Material Reducer"	"Original Translation
 zh_CN: 材料分解器
@@ -39212,6 +39243,13 @@ zh_TW: 開啟主功能表"	""
 "menu.options"	"Options"	"Original Translation
 zh_CN: 选项
 zh_TW: 選項"	""
+"menu.party.group.accountSettings.description"	"To adjust these settings, you'll need to visit the Microsoft privacy & online safety website"	"Original Translation"	""
+"menu.party.group.accountSettings.title"	"Microsoft Account settings"	"Original Translation"	""
+"menu.party.privacyAndSafety.buttonLabel"	"Open"	"Original Translation"	""
+"menu.party.privacyAndSafety.description"	"Worth a read"	"Original Translation"	""
+"menu.party.privacyAndSafety.title"	"Privacy & online safety"	"Original Translation"	""
+"menu.party.tab.description"	"It's your party. You make the rules."	"Original Translation"	""
+"menu.party.tab.title"	"Party"	"Original Translation"	""
 "menu.play"	"Play"	"Original Translation
 zh_CN: 游戏
 zh_TW: 遊戲"	""
@@ -42158,6 +42196,7 @@ zh_TW: 改善輸入回應"	""
 "options.improvedInputResponsePlaceholder.description"	"Makes the game react faster when you press buttons or move. May increase power consumption"	"Original Translation
 zh_CN: 在按下按钮或移动时使游戏反应更快。可能会增加能源消耗
 zh_TW: 讓您按下按鍵或移動時，遊戲反應更快。可能會增加電力消耗"	""
+"options.improvedInputResponsePlaceholder.info_banner"	"Improved Input Response is not used when V-Sync is off or when using Vibrant Visuals or Ray Tracing."	"Original Translation"	""
 "options.improvedInputResponsePlaceholder.name"	"Improved input response"	"Original Translation
 zh_CN: 改善输入反馈
 zh_TW: 改善輸入回應"	""
@@ -42521,36 +42560,45 @@ zh_TW: 最少"	""
 "options.party"	"Party"	"Original Translation
 zh_CN: 队伍
 zh_TW: 派對"	""
-"options.partyInviteReceivedFilter"	"Receive party invites from"	"Original Translation
+"options.party.resetSettings"	"Reset to default"	"Original Translation"	""
+"options.party.resetSettings.buttonLabel"	"Reset"	"Original Translation"	""
+"options.party.resetSettings.description"	"Set all options to their original values"	"Original Translation"	""
+"options.partyInviteReceivedFilter"	"You can receive invites from"	"Original Translation
 zh_CN: 接收来自队伍的邀请
 zh_TW: 接收來自以下玩家的隊伍邀請："	""
 "options.partyInviteReceivedFilter.everyone"	"Everyone"	"Original Translation
 zh_CN: 所有人
 zh_TW: 每個人"	""
+"options.partyInviteReceivedFilter.everyone.description"	"Everyone on the same server as you"	"Original Translation"	""
 "options.partyInviteReceivedFilter.friendsOnly"	"Friends only"	"Original Translation
 zh_CN: 仅好友
 zh_TW: 僅限好友"	""
-"options.partyInviteSendPrivileges"	"Who can send party invites in your party"	"Original Translation
+"options.partyInviteReceivedFilter.friendsOnly.description"	"Players you know and trust"	"Original Translation"	""
+"options.partyInviteSendPrivileges"	"Who can send invites"	"Original Translation
 zh_CN: 在你的队伍中谁能发送队伍邀请
 zh_TW: 設定誰可以在您的隊伍中傳送邀請"	""
-"options.partyInviteSendPrivileges.partyLeaderOnly"	"Party leader only"	"Original Translation
+"options.partyInviteSendPrivileges.partyLeaderOnly"	"Party leader"	"Original Translation
 zh_CN: 仅限队长
 zh_TW: 僅限隊長"	""
+"options.partyInviteSendPrivileges.partyLeaderOnly.description"	"Only the party leader can invite others"	"Original Translation"	""
 "options.partyInviteSendPrivileges.partyMembers"	"Party leader & members"	"Original Translation
 zh_CN: 队长和成员
 zh_TW: 隊長與成員"	""
-"options.partyPrivacy"	"Default party privacy"	"Original Translation
+"options.partyInviteSendPrivileges.partyMembers.description"	"All players in the party can invite others"	"Original Translation"	""
+"options.partyPrivacy"	"Default party mode"	"Original Translation
 zh_CN: 默认队伍隐私
 zh_TW: 預設隊伍隱私權"	""
-"options.partyPrivacy.inviteOnly"	"Invite Only"	"Original Translation
+"options.partyPrivacy.inviteOnly"	"Private"	"Original Translation
 zh_CN: 仅邀请
 zh_TW: 僅限邀請"	""
+"options.partyPrivacy.inviteOnly.description"	"Invite only"	"Original Translation"	""
 "options.partyPrivacy.inviteOnly.label"	"Players can only join a party that you've created if they're invited."	"Original Translation
 zh_CN: 玩家只能在收到邀请后才能加入你创建的队伍。
 zh_TW: 僅限受邀玩家才能加入您建立的隊伍"	""
-"options.partyPrivacy.open"	"Open"	"Original Translation
+"options.partyPrivacy.open"	"Public"	"Original Translation
 zh_CN: 打开
 zh_TW: 開啟"	""
+"options.partyPrivacy.open.description"	"Open to everyone"	"Original Translation"	""
 "options.partyPrivacy.open.label"	"Your friends and friends of party members can join an open party that you've created without an invite."	"Original Translation
 zh_CN: 你的好友和队伍成员的朋友可以加入你没有设置邀请限制的开放的队伍
 zh_TW: 您的好友及隊伍成員的好友，無須邀請即可加入您建立的公開隊伍"	""
@@ -46676,9 +46724,6 @@ zh_TW: 活動世界大小超出儲存限制。儲存需要覆寫一個或多個�
 "realmsSettingsScreen.searchBox"	"Search..."	"Original Translation
 zh_CN: 搜索...
 zh_TW: 搜尋…"	""
-"realmsSettingsScreen.selectorSectionLabel"	"Edit ""%s"""	"Original Translation
-zh_CN: 编辑 ""%s""
-zh_TW: 編輯「%s」"	""
 "realmsSettingsScreen.selectorSectionLabel.manage"	"Manage ""%s"""	"Original Translation
 zh_CN: 管理“%s”
 zh_TW: 管理「%s」"	""
@@ -52041,6 +52086,7 @@ zh_TW: 請將水位工具上下移動，設定新的液體高度後再套用。"
 "resourcePack.editor.toolRail.guidePlanes.action.deletePlane.title"	"Delete"	"Original Translation
 zh_CN: 删除
 zh_TW: 刪除"	""
+"resourcePack.editor.toolRail.guidePlanes.action.deselectPlane.title"	"Deselect"	"Original Translation"	""
 "resourcePack.editor.toolRail.guidePlanes.action.hidePlane.title"	"Hide"	"Original Translation
 zh_CN: Hide
 zh_TW: Hide"	""
@@ -52056,7 +52102,7 @@ zh_TW: Show"	""
 "resourcePack.editor.toolRail.guidePlanes.action.teleportToPlane.title"	"Teleport to Plane"	"Original Translation
 zh_CN: Teleport to Plane
 zh_TW: Teleport to Plane"	""
-"resourcePack.editor.toolRail.guidePlanes.actionBar.tooltipDescription"	"Activate the Guide Planes tool"	"Original Translation
+"resourcePack.editor.toolRail.guidePlanes.actionBar.tooltipDescription"	"Open the Guide Planes panel"	"Original Translation
 zh_CN: 激活引导平面工具
 zh_TW: 啟用參考平面工具"	""
 "resourcePack.editor.toolRail.guidePlanes.actionBar.tooltipTitle"	"Guide Planes"	"Original Translation
@@ -52128,6 +52174,8 @@ zh_TW: Type"	""
 "resourcePack.editor.toolRail.guidePlanes.field.verticalSpin.title"	"Vertical Spin"	"Original Translation
 zh_CN: Vertical Spin
 zh_TW: Vertical Spin"	""
+"resourcePack.editor.toolRail.guidePlanes.keyBinding.openPane.title"	"Guide Planes"	"Original Translation"	""
+"resourcePack.editor.toolRail.guidePlanes.keyBinding.openPane.tooltip"	"Open the Guide Planes panel"	"Original Translation"	""
 "resourcePack.editor.toolRail.guidePlanes.keyBinding.toggleVisibility.title"	"Toggle Guide Planes Visibility"	"Original Translation
 zh_CN: 切换引导平面可见性
 zh_TW: 切換參考平面可見度"	""
@@ -52164,7 +52212,7 @@ zh_TW: Tags"	""
 "resourcePack.editor.toolRail.guidePlanes.title"	"Guide Planes"	"Original Translation
 zh_CN: 引导平面
 zh_TW: 參考平面"	""
-"resourcePack.editor.toolRail.guidePlanes.tooltip"	"Drop horizontal, vertical and anchored guide planes to align builds"	"Original Translation
+"resourcePack.editor.toolRail.guidePlanes.tooltip"	"Drop horizontal and vertical guide planes to align builds"	"Original Translation
 zh_CN: Drop horizontal, vertical and anchored guide planes to align builds
 zh_TW: Drop horizontal, vertical and anchored guide planes to align builds"	""
 "resourcePack.editor.toolRail.guidePlanes.viewControl.checkAll.title"	"Check All"	"Original Translation
