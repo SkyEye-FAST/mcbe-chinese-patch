@@ -16,6 +16,8 @@ Worse still, the Bedrock Edition sometimes suffers from translation "regressions
 
 **You can find the latest builds of this resource pack on the [Actions page](https://github.com/SkyEye-FAST/mcbe-chinese-patch/actions).**
 
+The game installation packages used by this project are sourced from [mcappx.com](https://www.mcappx.com/).
+
 For instructions on how to install the resource pack, please refer to [Microsoft Learn](https://learn.microsoft.com/en-us/minecraft/creator/documents/gettingstarted).
 
 > [!NOTE]
