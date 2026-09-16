@@ -5696,7 +5696,6 @@ tile.underwater_torch.name=水下火把
 
 ## resource_packs/editor/texts/en_US.lang
 entity.npc.name=NPC
-resourcePack.editor.ClipboardPreviewControl.placement.title=选项
 resourcePack.editor.ClipboardPreviewControl.rotation.180=180°
 resourcePack.editor.ClipboardPreviewControl.rotation.270=270°
 resourcePack.editor.ClipboardPreviewControl.rotation.90=90°
