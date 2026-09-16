@@ -527,6 +527,7 @@ zh_TW: ：已取消選取"
 accessibility.store.offerDescription.share	Share	"Original Translation
 zh_CN: 分享
 zh_TW: 分享"
+accessibility.store.redeem5x5.button	Redeem code or gift card	Original Translation
 accessibility.store.tag	Tag	"Original Translation
 zh_CN: 标记
 zh_TW: 標籤"
@@ -9705,6 +9706,7 @@ zh_TW: 範本"
 editor.prefabInstanceEditor.templatePicker.instruction	Select a layout template	"Original Translation
 zh_CN: 选择布局模板
 zh_TW: 選取佈局範本"
+editor.prefabInstanceEditor.templatePicker.overlappingBounds	Cannot apply structure transform because it would cause overlapping bounds.	Original Translation
 editor.prefabInstanceEditor.templatePicker.properties.description	Description	"Original Translation
 zh_CN: 说明
 zh_TW: 描述"
@@ -9830,6 +9832,7 @@ zh_TW: 名稱"
 editor.prefabLayoutEditor.pane.layoutManager.nameTooltip	The editable display name of the layout	"Original Translation
 zh_CN: 布局的可编辑显示名称
 zh_TW: 可編輯的佈局顯示名稱"
+editor.prefabLayoutEditor.pane.layoutManager.new	New	Original Translation
 editor.prefabLayoutEditor.pane.layoutManager.newLayout	New Layout	"Original Translation
 zh_CN: 新建布局
 zh_TW: 新佈局"
@@ -9839,6 +9842,7 @@ zh_TW: 佈局包含一個或多個結構。[~*newLine~] 建立後，可以在世
 editor.prefabLayoutEditor.pane.layoutManager.openStructurePanel	Open Structures panel	"Original Translation
 zh_CN: 打开结构面板
 zh_TW: 開啟結構面板"
+editor.prefabLayoutEditor.pane.layoutManager.setTarget	Set this layout as a target for placement in Layouts tool	Original Translation
 editor.prefabLayoutEditor.pane.layoutManager.size	Size	"Original Translation
 zh_CN: 大小
 zh_TW: 大小"
@@ -9854,7 +9858,7 @@ zh_TW: 佈局管理"
 editor.prefabLayoutEditor.pane.openLayoutsManagement.title	Open Layouts Management	"Original Translation
 zh_CN: 打开布局管理
 zh_TW: 開啟佈局管理"
-editor.prefabLayoutEditor.pane.registryDeletion.confirmation	Are you sure you want to delete the selected Layout? This cannot be undone.	"Original Translation
+editor.prefabLayoutEditor.pane.registryDeletion.confirmation	Are you sure you want to delete the selected Layout(s)?[~*newLine~]This cannot be undone.	"Original Translation
 zh_CN: 确定要删除选中的布局吗？此操作无法撤销。
 zh_TW: 確定要刪除所選佈局嗎？此動作無法復原。"
 editor.prefabLayoutEditor.pane.registryDeletion.delete	Delete	"Original Translation
@@ -9863,7 +9867,7 @@ zh_TW: 刪除"
 editor.prefabLayoutEditor.pane.registryDeletion.deleteInstance	Delete Instance	"Original Translation
 zh_CN: 删除实例
 zh_TW: 刪除執行個體"
-editor.prefabLayoutEditor.pane.registryDeletion.deleteLayout	Delete Layout	"Original Translation
+editor.prefabLayoutEditor.pane.registryDeletion.deleteLayout	Delete Layout(s)	"Original Translation
 zh_CN: 删除布局
 zh_TW: 刪除佈局"
 editor.prefabLayoutEditor.pane.registryDeletion.duplicate	Duplicate	"Original Translation
@@ -9960,6 +9964,9 @@ editor.prefabLayoutInstanceEditor.pane.continuousPlacement.title	Continuous Plac
 editor.prefabLayoutInstanceEditor.pane.continuousPlacement.tooltip	Check ON means instances will be stamped continuously	Original Translation
 editor.prefabLayoutInstanceEditor.pane.layout.title	Instance Layout	Original Translation
 editor.prefabLayoutInstanceEditor.pane.layout.tooltip	Select a layout to be swapped	Original Translation
+editor.prefabLayoutInstanceEditor.pane.pick.bakeComplete	Baking complete.	Original Translation
+editor.prefabLayoutInstanceEditor.pane.pick.invalidMove	Cannot move the layout instance because it would overlap with another layout instance.	Original Translation
+editor.prefabLayoutInstanceEditor.pane.pick.invalidPlace	Cannot place the layout instance because it would overlap with another layout instance.	Original Translation
 editor.prefabLayoutInstanceEditor.pane.pick.noInstance	Select a layout instance in the world	Original Translation
 editor.prefabLayoutInstanceEditor.pane.place.title	Place	Original Translation
 editor.prefabLayoutInstanceEditor.pane.place.tooltip	Select a layout to be placed	Original Translation
@@ -16176,7 +16183,7 @@ hbui.DropdownItem.disabled	Disabled	"Original Translation
 zh_CN: 已禁用
 zh_TW: 已停用"
 hbui.DropdownItem.elementType	item	"Original Translation
-zh_CN: 物品
+zh_CN: 项目
 zh_TW: 物品"
 hbui.DropdownItem.narrationComponentType	Option	"Original Translation
 zh_CN: 选项
@@ -16186,9 +16193,9 @@ zh_CN: 选择
 zh_TW: 選取"
 hbui.DropdownItem.selected	selected	"Original Translation
 zh_CN: 已选择
-zh_TW: 已選擇"
+zh_TW: 已選取"
 hbui.DropdownItem.unselected	not selected	"Original Translation
-zh_CN: 未选择
+zh_CN: 未当选
 zh_TW: 未選擇"
 hbui.EditRealmWorld.ConfirmModals.cancel	Cancel	"Original Translation
 zh_CN: 取消
@@ -18471,6 +18478,12 @@ zh_TW: 返回上一個畫面..."
 hbui.ErrorModal.title	An error has occurred	"Original Translation
 zh_CN: 出错了
 zh_TW: 發生錯誤"
+hbui.ExitQueueModal.cancel	Go back	Original Translation
+hbui.ExitQueueModal.confirm	Exit Queue	Original Translation
+hbui.ExitQueueModal.message	Are you sure you want to leave the queue?	Original Translation
+hbui.ExitQueueModal.success	You left the queue	Original Translation
+hbui.ExitQueueModal.title	Exit Queue?	Original Translation
+hbui.ExitQueueModal.warning	Doing so will cause your entire party to leave the queue.	Original Translation
 hbui.ExportWorld.error.incorrectWorldID.title	You can not export a world that does not exist	"Original Translation
 zh_CN: 您不能导出不存在的世界
 zh_TW: 您不能匯出不存在的世界"
@@ -18492,6 +18505,31 @@ zh_TW: 先不要"
 hbui.FirstTimeSignInRoute.signInButton	Sign in now	"Original Translation
 zh_CN: 立即登录
 zh_TW: 立即登入"
+hbui.FirstTimeSignInRoute.signInError.alreadyInProgress.body	A sign-in is already in progress. Please wait for it to finish before trying again.	Original Translation
+hbui.FirstTimeSignInRoute.signInError.alreadyInProgress.title	Sign-in in progress	Original Translation
+hbui.FirstTimeSignInRoute.signInError.close	Close	Original Translation
+hbui.FirstTimeSignInRoute.signInError.msaLinkedToAnotherNsa.action	Learn more	Original Translation
+hbui.FirstTimeSignInRoute.signInError.msaLinkedToAnotherNsa.body	The account you tried to sign in to is already linked to another Nintendo Account.	Original Translation
+hbui.FirstTimeSignInRoute.signInError.msaLinkedToAnotherNsa.title	Account already linked	Original Translation
+hbui.FirstTimeSignInRoute.signInError.msaLinkedToAnotherPsn.action	Learn more	Original Translation
+hbui.FirstTimeSignInRoute.signInError.msaLinkedToAnotherPsn.body	The account you tried to sign in to is already linked to another PlayStation™Network account.	Original Translation
+hbui.FirstTimeSignInRoute.signInError.msaLinkedToAnotherPsn.title	Account already linked	Original Translation
+hbui.FirstTimeSignInRoute.signInError.notAvailableInPreview.body	Microsoft account sign-in isn't available in the preview version on this platform.	Original Translation
+hbui.FirstTimeSignInRoute.signInError.notAvailableInPreview.title	Sign-in unavailable	Original Translation
+hbui.FirstTimeSignInRoute.signInError.nsaLinkedToAnotherMsa.action	Unlink	Original Translation
+hbui.FirstTimeSignInRoute.signInError.nsaLinkedToAnotherMsa.body	The current Nintendo Account is linked to a different Microsoft account than the one you just signed in to.	Original Translation
+hbui.FirstTimeSignInRoute.signInError.nsaLinkedToAnotherMsa.title	Different account linked	Original Translation
+hbui.FirstTimeSignInRoute.signInError.psnLinkedToAnotherMsa.action	Unlink	Original Translation
+hbui.FirstTimeSignInRoute.signInError.psnLinkedToAnotherMsa.body	The current PlayStation™Network account is linked to a different Microsoft account than the one you just signed in to.	Original Translation
+hbui.FirstTimeSignInRoute.signInError.psnLinkedToAnotherMsa.title	Different account linked	Original Translation
+hbui.FirstTimeSignInRoute.signInError.requiresPlatformLogin.body	You need to sign in to your platform's online network before signing in to a Microsoft account.	Original Translation
+hbui.FirstTimeSignInRoute.signInError.requiresPlatformLogin.title	Platform sign-in required	Original Translation
+hbui.FirstTimeSignInRoute.signInError.sandboxFailure.action	Switch sandbox	Original Translation
+hbui.FirstTimeSignInRoute.signInError.sandboxFailure.body	Your account couldn't sign in to the '%1$s' sandbox. Switch to the '%2$s' sandbox and try again?	Original Translation
+hbui.FirstTimeSignInRoute.signInError.sandboxFailure.title	Sandbox error	Original Translation
+hbui.FirstTimeSignInRoute.signInError.unknown.action	Learn more	Original Translation
+hbui.FirstTimeSignInRoute.signInError.unknown.body	Something went wrong while signing in. Please try again.	Original Translation
+hbui.FirstTimeSignInRoute.signInError.unknown.title	Sign-in failed	Original Translation
 hbui.FirstTimeSignInRoute.signInHeader	Welcome to Minecraft!	"Original Translation
 zh_CN: 欢迎来到《我的世界》！
 zh_TW: 歡迎來到《Minecraft》！"
@@ -18516,6 +18554,7 @@ zh_TW: 跨多個平台存取你的市集內容和角色"
 hbui.FirstTimeSignInRoute.signInPrompt	Sign in with your Microsoft account now to unlock a variety of features, including:	"Original Translation
 zh_CN: 立即使用您的 Microsoft 帐户登录以解锁各种功能，包括：
 zh_TW: 立即使用 Microsoft 帳號登入，以解鎖各項功能，包括："
+hbui.FirstTimeSignInRoute.signingIn	Signing in	Original Translation
 hbui.FlatWorld.description	The layers of blocks that make up your flat world	"Original Translation
 zh_CN: 构成你的平坦世界的方块层
 zh_TW: 組成你這個平地世界的各個方塊層"
@@ -19483,6 +19522,7 @@ zh_TW: 返回"
 hbui.LeavePartyModal.confirm	Leave party	"Original Translation
 zh_CN: 离开派对
 zh_TW: 離開隊伍"
+hbui.LeavePartyModal.matchmakingWarning	Doing so will cause your entire party to leave the queue.	Original Translation
 hbui.LeavePartyModal.message	Are you sure you want to leave the current party? You may need a new invite to rejoin.	"Original Translation
 zh_CN: 确定要离开当前派对？你可能需要新的邀请才能重新加入。
 zh_TW: 確定要離開目前的隊伍嗎？您可能需要新邀請才能重新加入。"
@@ -19510,6 +19550,15 @@ zh_TW: 按鈕"
 hbui.Link.open	Open	"Original Translation
 zh_CN: 打开
 zh_TW: 開啟"
+hbui.MSALinkedProfileRoute.disclaimer	You've connected to Minecraft with an Xbox profile. Change your Xbox settings and learn more at http://aka.ms/accountsettings. The Microsoft Services Agreement and Privacy Statement apply.	Original Translation
+hbui.MSALinkedProfileRoute.errorCaption	Could not access the MSA profile information.	Original Translation
+hbui.MSALinkedProfileRoute.errorTitle	Something went wrong	Original Translation
+hbui.MSALinkedProfileRoute.gamerscore	Gamerscore	Original Translation
+hbui.MSALinkedProfileRoute.letsPlayButton	Let's play	Original Translation
+hbui.MSALinkedProfileRoute.letsPlayButtonNavigationHint	Navigate up for welcome to MSA profile message	Original Translation
+hbui.MSALinkedProfileRoute.textBlock	Text block	Original Translation
+hbui.MSALinkedProfileRoute.textBlockNavigationHint	Navigate down for the Let's play button	Original Translation
+hbui.MSALinkedProfileRoute.welcomeHeading	Welcome %1$s!	Original Translation
 hbui.MainMenu.ButtonNext.narration.role	Button	Original Translation
 hbui.MainMenu.Discovery.inputLegend.action	View	Original Translation
 hbui.MainMenu.DiscoverySection.narration.role	Section	Original Translation
@@ -21254,6 +21303,7 @@ zh_TW: 上次遊玩"
 hbui.PlayScreen.realmsTab.lastPlayed.hub	Last played: %1$s	"Original Translation
 zh_CN: 上次游戏时间：%1$s
 zh_TW: 上次遊玩：%1$s"
+hbui.PlayScreen.realmsTab.learnMore	Learn more	Original Translation
 hbui.PlayScreen.realmsTab.leaveRealm	Leave Realm	"Original Translation
 zh_CN: 离开 Realm
 zh_TW: 離開 Realm"
@@ -22834,6 +22884,14 @@ hbui.PreStartScreen.autoSave.continueInputLegend	Proceed	"Original Translation
 zh_CN: 继续
 zh_TW: 繼續"
 hbui.PreStartScreen.autoSave.narration.textBlockRole	Text Block	Original Translation
+hbui.PreStartScreen.platformSignIn.body.nsa	Sign in to your Nintendo Account to create a link to this console, access online services, and collect MyNintendo points.	Original Translation
+hbui.PreStartScreen.platformSignIn.body.psn	Sign in to the PlayStation™Network to play online with friends, access social features, and discover games from the store.	Original Translation
+hbui.PreStartScreen.platformSignIn.buttons.enumeration	%1$s of %2$s	Original Translation
+hbui.PreStartScreen.platformSignIn.primaryActionLabel	Sign in	Original Translation
+hbui.PreStartScreen.platformSignIn.secondaryActionLabel	Play offline	Original Translation
+hbui.PreStartScreen.platformSignIn.signingIn	Signing in	Original Translation
+hbui.PreStartScreen.platformSignIn.title.nsa	Nintendo Account	Original Translation
+hbui.PreStartScreen.platformSignIn.title.psn	PlayStation™Network	Original Translation
 hbui.PreStartScreen.screenSize.buttons.enumeration	%1$s of %2$s	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
 zh_TW: %1$s/%2$s"
@@ -23368,6 +23426,13 @@ zh_TW: 復原變更內容"
 hbui.Realms.RealmsHub.Banner.RealmsClosed	Realm is temporarily closed. Re-open in Realm Settings.	"Original Translation
 zh_CN: Realm 已暂时关闭。在 Realm 设置中重新打开。
 zh_TW: Realm 暫時關閉。請於 Realm 設定中重新開啟。"
+hbui.Realms.RealmsHub.LearnMore.description	We hope you are enjoying Realms. If you would like to learn more about the exciting new features that are included in your Realms subscription, check out the resources below!	Original Translation
+hbui.Realms.RealmsHub.LearnMore.helpGuide	Realms help guide	Original Translation
+hbui.Realms.RealmsHub.LearnMore.title	Learn more about Realms	Original Translation
+hbui.Realms.RealmsHub.LearnMore.tutorialVideos	Realms tutorial videos	Original Translation
+hbui.Realms.RealmsHub.LearnMorePro.description	We hope you are enjoying Realms Pro! If you would like to learn more about the exciting new features that are included in your Pro subscription, check out the resources below!	Original Translation
+hbui.Realms.RealmsHub.LearnMorePro.helpGuide	Realms Pro help guide	Original Translation
+hbui.Realms.RealmsHub.LearnMorePro.title	Learn more about Realms Pro	Original Translation
 hbui.Realms.RealmsHub.Narration.VerticalMenu	Vertical menu	"Original Translation
 zh_CN: 垂直菜单
 zh_TW: 垂直選單"
@@ -23386,6 +23451,7 @@ zh_TW: 社群"
 hbui.Realms.RealmsHub.RealmNav.Hub	Hub	"Original Translation
 zh_CN: 中心
 zh_TW: 中心"
+hbui.Realms.RealmsHub.RealmNav.LearnMore	Learn more	Original Translation
 hbui.Realms.RealmsHub.RealmNav.Members	Members	"Original Translation
 zh_CN: 成员
 zh_TW: 成員"
@@ -23950,6 +24016,11 @@ zh_TW: 模擬距離"
 hbui.Realms.RealmsHub.Settings.Server.simDistance.valueText	%1$s chunks	"Original Translation
 zh_CN: %1$s 个区块
 zh_TW: %1$s 區塊"
+hbui.Realms.RealmsHub.Settings.ServerTools.Header	Server tools	Original Translation
+hbui.Realms.RealmsHub.Settings.ServerTools.liveMetrics.description	CPU, RAM, player count, and server tick time metrics on Minecraft.net.	Original Translation
+hbui.Realms.RealmsHub.Settings.ServerTools.liveMetrics.liveMetricsAction	Live Metrics	Original Translation
+hbui.Realms.RealmsHub.Settings.ServerTools.liveMetrics.platformMismatch	Live metrics are not viewable on this device. Go to Minecraft.net.	Original Translation
+hbui.Realms.RealmsHub.Settings.ServerTools.liveMetrics.title	Live metrics	Original Translation
 hbui.Realms.RealmsHub.Settings.Subscriptions.Button.Delete	Delete	"Original Translation
 zh_CN: 删除
 zh_TW: 刪除"
@@ -24033,8 +24104,10 @@ zh_CN: 这些设置由所有者设置，并应用于此 Realm 的所有成员。
 zh_TW: 這些設定由擁有者指定，並適用於此 Realm 所有成員。"
 hbui.Realms.RealmsHub.SlotsScreen.Accordion.description	Edit world to manage resource and behavior packs.	Original Translation
 hbui.Realms.RealmsHub.SlotsScreen.Accordion.header	Active packs	Original Translation
-hbui.Realms.RealmsHub.SlotsScreen.Accordion.narrationHint	Expand to access active packs . Edit world to manage resource and behavior packs	Original Translation
-hbui.Realms.RealmsHub.SlotsScreen.Accordion.narrationHintNoPacks	There are no packs applied to this world . Edit world to manage resource and behavior packs	Original Translation
+hbui.Realms.RealmsHub.SlotsScreen.Accordion.narrationHint	Expand to access active packs	Original Translation
+hbui.Realms.RealmsHub.SlotsScreen.Accordion.narrationHint.canEdit	Expand to access active packs . Edit world to manage resource and behavior packs	Original Translation
+hbui.Realms.RealmsHub.SlotsScreen.Accordion.narrationHintNoPacks	There are no packs applied to this world	Original Translation
+hbui.Realms.RealmsHub.SlotsScreen.Accordion.narrationHintNoPacks.canEdit	There are no packs applied to this world . Edit world to manage resource and behavior packs	Original Translation
 hbui.Realms.RealmsHub.SlotsScreen.Accordion.onExpandNarrationHint	Navigate down to access active packs	Original Translation
 hbui.Realms.RealmsHub.SlotsScreen.AccordionItem.behavior	Behavior	Original Translation
 hbui.Realms.RealmsHub.SlotsScreen.AccordionItem.creator	By %1$s	Original Translation
@@ -24137,7 +24210,7 @@ zh_TW: %1$s 已透過邀請連結加入"
 hbui.Realms.RealmsHub.adminLog.member_banned	%1$s banned %2$s	"Original Translation
 zh_CN: %1$s 屏蔽了 %2$s
 zh_TW: %1$s 已封鎖 %2$s"
-hbui.Realms.RealmsHub.adminLog.member_invited	%1$s added %2$s	"Original Translation
+hbui.Realms.RealmsHub.adminLog.member_invited	%1$s invited %2$s	"Original Translation
 zh_CN: %1$s 添加了 %2$s
 zh_TW: %1$s 已新增 %2$s"
 hbui.Realms.RealmsHub.adminLog.member_permission_changed	%1$s changed %2$s to %3$s	"Original Translation
@@ -27539,6 +27612,7 @@ zh_TW: 已更新"
 hbui.ServersTabV2.experienceCardInputLegend	View experience	"Original Translation
 zh_CN: 查看经验值
 zh_TW: 查看體驗"
+hbui.ServersTabV2.more	More	Original Translation
 hbui.ServersTabV2.myServers	My servers	"Original Translation
 zh_CN: 我的服务器
 zh_TW: 我的伺服器"
@@ -29612,6 +29686,19 @@ zh_TW: 你需要一個帳戶才能在市集上購買範本。"
 hbui.notLoggedInWarning.startFromTemplateScreen.message.marketplacePass	You need a Microsoft account to access Marketplace Pass.	"Original Translation
 zh_CN: 您需要一个 Microsoft 账号才能访问 Marketplace Pass。
 zh_TW: 你需要 Microsoft 帳戶才能使用 Marketplace Pass。"
+hbui.signInExternalDevice.back	Back	Original Translation
+hbui.signInExternalDevice.captionLongLeft	Use your camera app or a QR code reader on your device.	Original Translation
+hbui.signInExternalDevice.captionLongRight1	1. Visit the website on another device:	Original Translation
+hbui.signInExternalDevice.captionLongRight2	2. Enter the code below when prompted:	Original Translation
+hbui.signInExternalDevice.captionLongSolo	Sign in with your free Microsoft account to access the full world of Minecraft.	Original Translation
+hbui.signInExternalDevice.inlineMessage1	https://microsoft.com/link	Original Translation
+hbui.signInExternalDevice.narrationOtherOptionLeft	Other sign in option available to the left	Original Translation
+hbui.signInExternalDevice.narrationOtherOptionRight	Other sign in option available to the right	Original Translation
+hbui.signInExternalDevice.narrationQrCode	QR code	Original Translation
+hbui.signInExternalDevice.textBlock	Text block	Original Translation
+hbui.signInExternalDevice.titleLeft	Scan the QR code	Original Translation
+hbui.signInExternalDevice.titleRight	Or visit the website	Original Translation
+hbui.signInExternalDevice.titleSolo	Sign in	Original Translation
 hbui.useCaptureScreenshotInfo.controlHint.gamepad	While in game, press the %1$s buttons at the same time or use the camera button in the game menu to take a screenshot.	"Original Translation
 zh_CN: 在游戏中，同时按 %1$s 按钮或使用游戏菜单中的相机按钮进行截图。
 zh_TW: 在遊戲中，同時按下 %1$s 按鈕或使用遊戲選單中的相機按鈕來取得畫面照片。"
@@ -38672,10 +38759,19 @@ zh_TW: 縮放比例：1:%s"
 map.toolTip.unkown	Unknown Map	"Original Translation
 zh_CN: 未知地图
 zh_TW: 未知地圖"
+matchmaking.leaveExperience.confirm	Leave	Original Translation
+matchmaking.leaveExperience.message	Are you sure you want to leave the experience?	Original Translation
+matchmaking.leaveExperience.title	Leave experience?	Original Translation
+matchmaking.leaveExperience.tts	Are you sure you want to leave the experience? Doing so will cause your entire party to leave the queue.	Original Translation
+matchmaking.leaveExperience.warning	Doing so will cause your entire party to leave the queue.	Original Translation
+matchmaking.modal.goBack	Go back	Original Translation
 matchmaking.toast.exitQueue	Exit Queue	Original Translation
 matchmaking.toast.inQueue	In queue: %s	Original Translation
 matchmaking.toast.inQueueLabel	In Queue	Original Translation
+matchmaking.toast.leftExperience	You left the experience, the queue is cancelled	Original Translation
 matchmaking.toast.loading	Loading %s!	Original Translation
+matchmaking.toast.partyLeftQueue	The party has left the queue	Original Translation
+matchmaking.toast.queueCanceled	You left the queue	Original Translation
 materialreducer.title	Material Reducer	"Original Translation
 zh_CN: 材料分解器
 zh_TW: 物質消除器"
@@ -42824,7 +42920,7 @@ zh_TW: 垂直螢幕位置"
 options.screenShake	Camera Shake	"Original Translation
 zh_CN: 摄像机摇晃
 zh_TW: 相機晃動"
-options.screenShake.description	Set up camera shake using macros or chat	"Original Translation
+options.screenShake.description	Allow effects triggered by the /camerashake command	"Original Translation
 zh_CN: 使用宏或聊天设置摄像机抖动
 zh_TW: 透過巨集或聊天欄設定鏡頭搖晃"
 options.sensitivity	Camera Sensitivity	"Original Translation
@@ -46790,7 +46886,7 @@ zh_TW: 未知商店"
 realmsSettingsScreen.updatingWorldInfo	Updating Realm Information...	"Original Translation
 zh_CN: 正在更新 Realm 信息……
 zh_TW: 正在更新 Realm 資訊..."
-realmsSettingsScreen.upload.worldtoobig	Upload failed. The world size exceeds the maximum uploadable limit of %s.	"Original Translation
+realmsSettingsScreen.upload.worldtoobig	Upload failed. The world size exceeds the maximum uploadable limit.	"Original Translation
 zh_CN: 上传失败。世界大小超过最大可上传限制（%s）。
 zh_TW: 上載失敗。世界大小超過可上傳上限 %s。"
 realmsSettingsScreen.uploadConfirmationMessage	"This will remove the current world from your Realm's active slot and replace it with one of your existing worlds. Your Realm's members will have access to your newly replaced world. Select ""Cancel"" and then ""Download World"" to go and download a copy of the current world to prevent data loss, or select ""Confirm"" to continue and replace your world."	"Original Translation
@@ -47267,6 +47363,7 @@ zh_TW: 變更「筆刷」形狀屬性的設定。"
 resourcePack.editor.CinematicTool.dialog.cancel	Cancel	"Original Translation
 zh_CN: 取消
 zh_TW: 取消"
+resourcePack.editor.CinematicTool.dialog.deleteCamera	A camera needs at least 4 keyframes. Do you want to delete the camera instead?	Original Translation
 resourcePack.editor.CinematicTool.dialog.deleteConfirm	Are you sure you want to delete the selected keyframes?	"Original Translation
 zh_CN: 确定要删除选中的关键帧吗？
 zh_TW: 確定要刪除所選關鍵影格嗎？"
@@ -47285,6 +47382,7 @@ zh_TW: 匯入運鏡 JSON"
 resourcePack.editor.CinematicTool.dialog.yes	Yes	"Original Translation
 zh_CN: 是
 zh_TW: 是"
+resourcePack.editor.CinematicTool.log.addedCamera	Created camera with %1 keyframes	Original Translation
 resourcePack.editor.CinematicTool.log.addedKeyframe	Added keyframe: %1	"Original Translation
 zh_CN: 已添加关键帧：%1
 zh_TW: 已新增關鍵影格：%1"
@@ -47597,10 +47695,10 @@ zh_TW: 原點"
 resourcePack.editor.ClipboardPreviewControl.origin.tooltip	The origin point within the clipboard item.  This is used as both a placement anchor and the point around which the clipboard is rotated and mirrored.	"Original Translation
 zh_CN: 原剪贴板项目中的原点。该点既是放置锚点，也是剪贴板旋转和镜像的中心点。
 zh_TW: 剪貼簿項目中的原點。這用作放置錨點以及剪貼簿圍繞其旋轉和鏡像的點。"
-resourcePack.editor.ClipboardPreviewControl.placement.title	Options	"Original Translation
+resourcePack.editor.ClipboardPreviewControl.placement.title	Placement Settings	"Original Translation
 zh_CN: 选项
 zh_TW: 選項"
-resourcePack.editor.ClipboardPreviewControl.placement.tooltip	The options for the current clipboard item.	"Original Translation
+resourcePack.editor.ClipboardPreviewControl.placement.tooltip	Settings that customize how the clipboard item is placed in the world.	"Original Translation
 zh_CN: 当前剪贴板项目的选项。
 zh_TW: 目前剪貼簿項目的選項。"
 resourcePack.editor.ClipboardPreviewControl.rootPane.title	Clipboard Info	"Original Translation
@@ -49970,28 +50068,28 @@ zh_TW: 沿 Z 軸鏡像預覽。"
 resourcePack.editor.pastepreview.keyBinding.toggleMode.title	Toggle Mode	"Original Translation
 zh_CN: 切换模式
 zh_TW: 切換模式"
-resourcePack.editor.pastepreview.keyBinding.toggleMode.tooltip	Switch between Paste and Move modes.	"Original Translation
+resourcePack.editor.pastepreview.keyBinding.toggleMode.tooltip	Switch between Paste and Compose modes.	"Original Translation
 zh_CN: 在粘贴和移动模式之间切换。
 zh_TW: 在「貼上」與「移動」模式間切換。"
 resourcePack.editor.pastepreview.keyBinding.toggleMouseTracking	Toggle Mouse Tracking	"Original Translation
 zh_CN: 切换鼠标跟踪
 zh_TW: 切換滑鼠追蹤"
-resourcePack.editor.pastepreview.mode.move.title	Move	"Original Translation
+resourcePack.editor.pastepreview.mode.move.title	Compose	"Original Translation
 zh_CN: 移动
 zh_TW: 移動"
-resourcePack.editor.pastepreview.mode.move.tooltip	Freeze the preview in place and reposition it with the gizmo or coordinates.	"Original Translation
+resourcePack.editor.pastepreview.mode.move.tooltip	Preview is removed from the cursor and can be repositioned with the gizmo or setting the coordinates in the UI. Press %s to paste the clipboard in the world.	"Original Translation
 zh_CN: Freeze the preview in place and reposition it with the gizmo or coordinates.
 zh_TW: Freeze the preview in place and reposition it with the gizmo or coordinates."
 resourcePack.editor.pastepreview.mode.paste.title	Paste	"Original Translation
 zh_CN: 粘贴
 zh_TW: 貼上"
-resourcePack.editor.pastepreview.mode.paste.tooltip	The preview follows the cursor. Click or press Enter to paste.	"Original Translation
+resourcePack.editor.pastepreview.mode.paste.tooltip	The preview follows the cursor. Click or press %s to paste.	"Original Translation
 zh_CN: The preview follows the cursor. Click or press Enter to paste.
 zh_TW: The preview follows the cursor. Click or press Enter to paste."
 resourcePack.editor.pastepreview.mode.title	Mode	"Original Translation
 zh_CN: 模式
 zh_TW: 模式"
-resourcePack.editor.pastepreview.mode.tooltip	Switch between Paste and Move modes with %s.	"Original Translation
+resourcePack.editor.pastepreview.mode.tooltip	Choose whether the clipboard item is attached to the cursor or can be adjusted using widgets.	"Original Translation
 zh_CN: Switch between Paste and Move modes with %s.
 zh_TW: Switch between Paste and Move modes with %s."
 resourcePack.editor.pastepreview.pane.controls.cursor	Control	"Original Translation
@@ -50045,24 +50143,18 @@ zh_TW: 大小"
 resourcePack.editor.pastepreview.pane.root.title	Paste Preview	"Original Translation
 zh_CN: 粘贴预览
 zh_TW: 貼上預覽"
-resourcePack.editor.pastepreview.position.title	Position	"Original Translation
-zh_CN: 位置
-zh_TW: 位置"
-resourcePack.editor.pastepreview.position.xyz.title	Coordinates	"Original Translation
+resourcePack.editor.pastepreview.position.xyz.title	Position	"Original Translation
 zh_CN: 坐标
 zh_TW: 座標"
-resourcePack.editor.pastepreview.position.xyz.tooltip	World position of the preview. Type exact coordinates to reposition it.	"Original Translation
+resourcePack.editor.pastepreview.position.xyz.tooltip	Enter the coordinates that you want to move the clipboard item.	"Original Translation
 zh_CN: World position of the preview. Type exact coordinates to reposition it.
 zh_TW: World position of the preview. Type exact coordinates to reposition it."
-resourcePack.editor.pastepreview.tool.tip	Use the mouse to adjust the position of the clipboard preview, and click to paste into the world. CTRL + D to clear Preview.	"Original Translation
+resourcePack.editor.pastepreview.tool.tip	Paste Preview %s - Adjust the position of the clipboard item and paste it in the world. Use %s to switch between Paste and Compose modes.	"Original Translation
 zh_CN: 使用鼠标调整剪贴板预览的位置，并点击以粘贴到世界中。按 CTRL + D 清除预览。
 zh_TW: 使用滑鼠調整剪貼簿預覽的位置，然後點擊以貼到世界中。按 CTRL + D 清除預覽。"
 resourcePack.editor.pastepreview.tool.title	Paste Preview	"Original Translation
 zh_CN: 粘贴预览
 zh_TW: 貼上預覽"
-resourcePack.editor.pastepreview.worldcontrols.title	World Controls	"Original Translation
-zh_CN: 世界控件
-zh_TW: 世界控制項"
 resourcePack.editor.pencil.direction.bycamera	By Camera	"Original Translation
 zh_CN: 通过摄像机
 zh_TW: 跟隨視角"
