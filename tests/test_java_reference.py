@@ -1,3 +1,5 @@
+"""Offline contracts for generating Java translation memory references."""
+
 import hashlib
 import json
 import unittest
@@ -12,25 +14,37 @@ from scripts import java_reference as reference
 
 
 class JavaReferenceTests(unittest.TestCase):
+    """Verify Java reference downloads, translation pairs, and TMX output."""
+
     def test_tmx_escapes_text_and_keeps_language_variants(self):
+        """Preserve text and language variants through XML escaping."""
         source = '<tag> & "quotes"\r\n%1$s'
         target = '中文 <字> & "引号"\r\n%1$s'
         tmx = reference.build_tmx([(source, target)], "zh-CN", "test-release")
         self.assertIn(b"&lt;tag&gt; &amp;", tmx)
         root = ET.fromstring(tmx)
         self.assertEqual(root.attrib["version"], "1.4")
-        self.assertEqual(root.find("header").attrib["srclang"], "en-US")
+        header = root.find("header")
+        assert header is not None
+        self.assertEqual(header.attrib["srclang"], "en-US")
         variants = root.findall("body/tu/tuv")
         self.assertEqual([v.attrib[reference.XML_LANG] for v in variants], ["en-US", "zh-CN"])
-        self.assertEqual([v.find("seg").text for v in variants], [source, target])
+        texts = []
+        for variant in variants:
+            segment = variant.find("seg")
+            assert segment is not None
+            texts.append(segment.text)
+        self.assertEqual(texts, [source, target])
 
     def test_duplicate_english_with_identical_translation_is_deduplicated(self):
+        """Emit each identical source and target pair once."""
         pairs = reference.translation_pairs(
             {"a": "Stone", "b": "Stone"}, {"a": "石头", "b": "石头"}
         )
         self.assertEqual(pairs, [("Stone", "石头")])
 
     def test_duplicate_english_with_different_translations_keeps_both_entries(self):
+        """Retain distinct translations of the same English text."""
         pairs = reference.translation_pairs(
             {"a": "Back", "b": "Back", "c": "Back"}, {"a": "返回", "b": "背面", "c": "返回"}
         )
@@ -41,6 +55,7 @@ class JavaReferenceTests(unittest.TestCase):
         )
 
     def test_missing_or_empty_segments_are_skipped_without_normalizing_text(self):
+        """Skip incomplete pairs while preserving whitespace in valid text."""
         source = {"a": "Missing", "b": "Empty", "c": "", "d": " Stone ", "e": "Stone"}
         target = {"b": "", "c": "空", "d": " 石头 ", "e": "石头", "extra": "无英文"}
         self.assertEqual(
@@ -48,6 +63,7 @@ class JavaReferenceTests(unittest.TestCase):
         )
 
     def test_output_is_deterministic(self):
+        """Produce identical TMX bytes regardless of input ordering."""
         source = {"b": "Stone", "a": "Back"}
         target = {"b": "石头", "a": "返回"}
         first = reference.translation_pairs(source, target)
@@ -58,6 +74,7 @@ class JavaReferenceTests(unittest.TestCase):
         )
 
     def test_official_release_download_path_and_missing_target_resource(self):
+        """Fetch official release assets and reject missing target languages."""
         client = BytesIO()
         with ZipFile(client, "w") as archive:
             archive.writestr("assets/minecraft/lang/en_us.json", '{"key": "Stone"}')
@@ -122,6 +139,7 @@ class JavaReferenceTests(unittest.TestCase):
                 reference.fetch_languages()
 
     def test_download_rejects_hash_mismatch(self):
+        """Accept matching downloads and reject incorrect SHA-1 digests."""
         session = MagicMock()
         response = session.get.return_value.__enter__.return_value
         response.content = b"test"
@@ -133,6 +151,7 @@ class JavaReferenceTests(unittest.TestCase):
             reference.download(session, "https://example.test", "0" * 40)
 
     def test_generation_keeps_targets_separate_and_does_not_publish_empty_target(self):
+        """Publish separate targets only when both contain translations."""
         languages = {"en_us": {"key": "Stone"}, "zh_cn": {"key": "石头"}, "zh_tw": {"key": "石頭"}}
         with (
             TemporaryDirectory() as directory,
