@@ -1,4 +1,3 @@
-## resource_packs/vanilla/texts/en_US.lang
 3d_export.export=匯出
 3d_export.include=加入
 3d_export.include_players=加入玩家：
@@ -39,6 +38,7 @@ achievement.bookcase=圖書管理員
 action.interact.brush=毛刷
 action.interact.saddle=鞍
 book.signButton=指示牌
+bookAndQuill.unsignedName=書
 cauldronScreen.header=鍋
 chestScreen.header.small=儲物箱
 color.black=黑色
@@ -170,6 +170,9 @@ entity.zombie_horse.name=喪屍馬
 entity.zombie_pigman.name=喪屍豬人
 entity.zombie_villager.name=喪屍村民
 gui.custom=自訂
+hbui.EditorTheme.light=光
+hbui.PlayScreen.realmsTab.bannerFull=滿
+hbui.TextField.empty=空
 howtoplay.anvil=鐵砧
 howtoplay.armor.header.2=盾牌
 howtoplay.bookAndQuill=書與羽毛筆
@@ -965,6 +968,7 @@ item.coal.name=煤炭
 item.coast_armor_trim_smithing_template.name=海岸盔甲紋飾
 item.comparator.name=紅石比較器
 item.compass.name=指南針
+item.compound.water.name=水
 item.cooked_beef.name=牛扒
 item.cooked_chicken.name=熟雞肉
 item.cooked_fish.name=熟鱈魚
@@ -1442,6 +1446,7 @@ jigsaw_block.title=拼圖方塊
 joincode.icon_text.16=藥水
 joincode.icon_text.3=路軌
 npcscreen.npc=NPC
+persona.player_name.title=玩家
 potion.awkward.name=粗製藥水
 potion.damageBoost.linger.name=滯留型力量藥水
 potion.damageBoost.name=力量藥水
@@ -1505,6 +1510,8 @@ potion.weaving.splash.name=飛濺型織網藥水
 potion.windCharged.linger.name=滯留型蓄風藥水
 potion.windCharged.name=蓄風藥水
 potion.windCharged.splash.name=飛濺型蓄風藥水
+resourcePack.editor.CursorModeControl.cursorTargetMode.title=標靶
+resourcePack.editor.toolRail.FarmGenerator.pane.crops.pumpkin=南瓜
 structure_block.title=結構方塊
 tile.acaciaFence.name=相思木欄杆
 tile.acacia_button.name=相思木按鈕
@@ -1631,6 +1638,7 @@ tile.chain_command_block.name=連環型命令方塊
 tile.chalkboard.oneByOne.name=小黑板
 tile.chalkboard.threeByTwo.name=吿示板
 tile.chalkboard.twoByOne.name=大黑板
+tile.chemical_heat.name=加熱塊
 tile.cherry_button.name=櫻花木按鈕
 tile.cherry_fence.name=櫻花木欄杆
 tile.cherry_fence_gate.name=櫻花木閘門
@@ -1679,6 +1687,10 @@ tile.cobblestone_wall.red_sandstone.name=紅砂巖牆
 tile.cobblestone_wall.sandstone.name=砂巖牆
 tile.cobblestone_wall.stone_brick.name=石磚牆
 tile.cocoa.name=可可果
+tile.colored_torch.blue.name=藍色火炬
+tile.colored_torch.green.name=綠色火炬
+tile.colored_torch.purple.name=紫色火炬
+tile.colored_torch.red.name=紅色火炬
 tile.command_block.name=命令方塊
 tile.composter.name=堆肥桶
 tile.concrete.black.name=黑色混凝土
@@ -1869,6 +1881,7 @@ tile.fence_gate.name=橡木閘門
 tile.fire.name=火
 tile.firefly_bush.name=螢火蟲灌木叢
 tile.fletching_table.name=製箭台
+tile.flower_pot.name=花盆
 tile.flowering_azalea.name=盛開的杜鵑叢
 tile.flowing_lava.name=熔巖
 tile.frog_spawn.name=青蛙卵
@@ -1890,6 +1903,7 @@ tile.glazedTerracotta.red.name=紅色釉陶
 tile.glazedTerracotta.silver.name=淺灰色釉陶
 tile.glazedTerracotta.white.name=白色釉陶
 tile.glazedTerracotta.yellow.name=黃色釉陶
+tile.glow_frame.name=熒光物品展示框
 tile.glow_lichen.name=發光地衣
 tile.glowstone.name=熒光石
 tile.gold_block.name=金磚
@@ -2291,6 +2305,7 @@ tile.tinted_glass.name=遮光玻璃
 tile.tnt.name=TNT
 tile.torch.name=火炬
 tile.torchflower.name=火炬花
+tile.torchflower_crop.name=火炬花植株
 tile.trapdoor.name=橡木地板門
 tile.trapped_chest.name=陷阱箱
 tile.trial_spawner.name=試煉生怪籠
@@ -2461,29 +2476,3 @@ tipped_arrow.effect.waterBreathing=水中呼吸之箭
 tipped_arrow.effect.weakness=虛弱之箭
 tipped_arrow.effect.weaving=織網之箭
 tipped_arrow.effect.windCharged=蓄風之箭
-
-## resource_packs/education/texts/en_US.lang
-bookAndQuill.unsignedName=書
-
-## resource_packs/oreui/texts/en_US.lang
-hbui.EditorTheme.light=光
-hbui.PlayScreen.realmsTab.bannerFull=滿
-hbui.TextField.empty=空
-
-## resource_packs/chemistry/texts/en_US.lang
-item.compound.water.name=水
-tile.chemical_heat.name=加熱塊
-tile.colored_torch.blue.name=藍色火炬
-tile.colored_torch.green.name=綠色火炬
-tile.colored_torch.purple.name=紫色火炬
-tile.colored_torch.red.name=紅色火炬
-
-## resource_packs/persona/texts/en_US.lang
-persona.player_name.title=玩家
-
-## resource_packs/editor/texts/en_US.lang
-resourcePack.editor.CursorModeControl.cursorTargetMode.title=標靶
-resourcePack.editor.toolRail.FarmGenerator.pane.crops.pumpkin=南瓜
-tile.flower_pot.name=花盆
-tile.glow_frame.name=熒光物品展示框
-tile.torchflower_crop.name=火炬花植株
