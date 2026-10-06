@@ -78,7 +78,9 @@ def get_ordered_subdirs(base_dir: Path, exclude_dirs: list[str] | None = None) -
     if not base_dir.exists():
         return []
 
-    all_dirs = sorted(d.name for d in base_dir.iterdir() if d.is_dir() and d.name not in exclude_dirs)
+    all_dirs = sorted(
+        d.name for d in base_dir.iterdir() if d.is_dir() and d.name not in exclude_dirs
+    )
 
     ordered: list[str] = []
 
@@ -107,7 +109,6 @@ def get_target_subdirs(src_dir: Path, target_name: str) -> list[str]:
     Returns:
         list[str]: List of ordered subdirectory paths
     """
-
     special_dirs = {"beta": "beta", "preview": "previewapp"}
     if target_name not in special_dirs:
         return get_ordered_subdirs(src_dir)

@@ -417,7 +417,9 @@ def download_gdk_package(download_url: str, base_dir: Path, version: str) -> Pat
 
 
 def _process_extracted_lang_files(
-    resource_packs_dir: Path, base_output_dir: Path, target_languages: list[str],
+    resource_packs_dir: Path,
+    base_output_dir: Path,
+    target_languages: list[str],
     exclude_beta: bool = False,
 ) -> bool:
     """Process language files from extracted resource packs directory.
@@ -426,6 +428,7 @@ def _process_extracted_lang_files(
         resource_packs_dir: Path to resource_packs directory
         base_output_dir: Base output directory for processed files
         target_languages: List of language files to process
+        exclude_beta: Skip language files inside beta resource packs
 
     Returns:
         bool: True if any files were successfully processed, False otherwise
@@ -642,6 +645,7 @@ def fetch_versions() -> dict[str, tuple[str, str, str]]:
 
 
 def read_versions(base_dir: Path) -> dict[str, str]:
+    """Read recorded extraction versions, or return an empty mapping if absent."""
     versions_file = base_dir / "versions.json"
     if not versions_file.exists():
         return {}
@@ -657,10 +661,13 @@ def publish_extraction(base_dir: Path, staging: Path, versions: dict[str, str]) 
     versions_file = base_dir / "versions.json"
     staged_versions = staging / "versions.json"
     staged_versions.write_bytes(
-        orjson.dumps({
-            "timestamp": datetime.datetime.now(datetime.UTC).isoformat(),
-            "versions": versions,
-        }, option=orjson.OPT_INDENT_2)
+        orjson.dumps(
+            {
+                "timestamp": datetime.datetime.now(datetime.UTC).isoformat(),
+                "versions": versions,
+            },
+            option=orjson.OPT_INDENT_2,
+        )
     )
 
     installed: list[Path] = []
@@ -745,8 +752,11 @@ def check_for_updates(base_dir: Path, max_attempts: int = 5) -> bool:
 
 
 def main() -> int:
+    """Run extraction or the lightweight update check and return an exit status."""
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--check", action="store_true", help="Only check whether extraction is needed")
+    parser.add_argument(
+        "--check", action="store_true", help="Only check whether extraction is needed"
+    )
     args = parser.parse_args()
     base_dir = Path(__file__).resolve().parent.parent
     try:
