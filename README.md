@@ -99,9 +99,35 @@ python scripts/pack.py
 
 This will generate the `.mcpack` and `.zip` files in the `packed/` directory.
 
+The build requires `versions.json`, the current `sources/<branch>/en_US.tsv`,
+and Crowdin TSV files in `patched/<branch>/` for every locale listed in
+`resources/texts/languages.json`, for Release, Beta, and Preview. Only nonempty
+translations whose keys still exist in the current source are included. Missing
+inputs or invalid TSV headers fail the build instead of reusing old `.lang` files.
+
+Run the small offline contract suite with no additional test dependencies:
+
+``` bash
+uv run python -m unittest discover -s tests -v
+```
+
 ### Workflow
 
 This project uses GitHub Actions to automate the translation, Crowdin synchronization, and packaging process. It runs every 2 hours to update language files and synchronize translations with Crowdin. The final resource packs (`.mcpack` and `.zip`) are then generated and available for download.
+
+Each run first checks upstream Release and Development versions with
+`uv run scripts/extract.py --check`. Package downloads and extraction run only
+when a version changes or the existing extraction fails validation. Crowdin
+synchronization and packaging still run when game versions are unchanged.
+Workflow concurrency serializes runs that write to `main`.
+
+`uv run scripts/extract.py` performs a full extraction. Each retry fetches both
+versions, downloads packages, and extracts into a fresh temporary directory.
+Both targets must contain nonempty base language files and matching JSON before
+the complete directories replace the previous extraction. Directory replacements
+use same-filesystem renames with rollback on errors; `versions.json` is atomically
+updated last. Exhausted retries exit with a nonzero status. Merge, source
+generation, packaging, and artifact upload also fail on missing required inputs.
 
 #### Required GitHub Secrets
 

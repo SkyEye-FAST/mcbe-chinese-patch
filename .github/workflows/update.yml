@@ -8,6 +8,10 @@ on:
     - cron: "0 */2 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: update-language-files-main
+  cancel-in-progress: false
+
 jobs:
   update-language-files:
     runs-on: windows-latest
@@ -18,11 +22,6 @@ jobs:
           fetch-depth: 0
           ref: main
 
-      - name: Setup .NET
-        uses: actions/setup-dotnet@v5
-        with:
-          dotnet-version: "9.0.x"
-
       - name: Install uv and set the python version
         uses: astral-sh/setup-uv@v6
         with:
@@ -31,7 +30,21 @@ jobs:
       - name: Install the project
         run: uv sync --locked --all-extras --dev
 
+      - name: Run contract tests
+        run: uv run python -m unittest discover -s tests -v
+
+      - name: Check upstream versions
+        id: versions
+        run: uv run scripts/extract.py --check
+
+      - name: Setup .NET
+        if: steps.versions.outputs.changed == 'true'
+        uses: actions/setup-dotnet@v5
+        with:
+          dotnet-version: "9.0.x"
+
       - name: Download XvdTool.Streaming
+        if: steps.versions.outputs.changed == 'true'
         run: |
           $url = "https://github.com/SkyEye-FAST/XvdTool.Streaming/releases/latest/download/win-x64.zip"
           $output = "extracted/tools/XvdTool.Streaming.zip"
@@ -41,6 +54,7 @@ jobs:
           Remove-Item $output
 
       - name: Extract language files
+        if: steps.versions.outputs.changed == 'true'
         run: uv run scripts/extract.py
         env:
           MINECRAFT_CIK: ${{ secrets.MINECRAFT_CIK }}
@@ -103,6 +117,9 @@ jobs:
       - name: Install the project
         run: uv sync --locked --all-extras --dev
 
+      - name: Run contract tests
+        run: uv run python -m unittest discover -s tests -v
+
       - name: Generate final language files and pack
         run: uv run scripts/pack.py
 
@@ -117,15 +134,18 @@ jobs:
         with:
           name: resource-pack-beta
           path: packed/*Beta*
+          if-no-files-found: error
 
       - name: Upload Preview resource pack
         uses: actions/upload-artifact@v4
         with:
           name: resource-pack-preview
           path: packed/*Preview*
+          if-no-files-found: error
 
       - name: Upload Release resource pack
         uses: actions/upload-artifact@v4
         with:
           name: resource-pack-release
           path: packed/*Release*
+          if-no-files-found: error
