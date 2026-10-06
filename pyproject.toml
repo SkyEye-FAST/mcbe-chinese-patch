@@ -10,3 +10,6 @@ dependencies = [
     "orjson>=3.9.0",
     "qiling>=1.4.6",
 ]
+
+[tool.ty.environment]
+extra-paths = ["scripts"]
