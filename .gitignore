@@ -1,6 +1,7 @@
 __pycache__/
 
 packed/
+java-reference/
 extracted/tools/
 extracted/*/temp_extract/
 

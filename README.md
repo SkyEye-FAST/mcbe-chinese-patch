@@ -111,6 +111,56 @@ Run the small offline contract suite with no additional test dependencies:
 uv run python -m unittest discover -s tests -v
 ```
 
+### Java Edition Reference Translation Memory
+
+Generate both reference TMs with one command:
+
+``` bash
+uv run python scripts/java_reference.py
+```
+
+The script reads Mojang's [official version manifest](https://piston-meta.mojang.com/mc/game/version_manifest_v2.json)
+and selects `latest.release`, never a snapshot. It gets `en_us.json` from the
+official client JAR and `zh_cn.json` / `zh_tw.json` from the release's asset index
+and Mojang's asset server. Downloads are checked against Mojang's SHA-1 hashes.
+Raw resources are read in memory and are not saved or committed.
+
+The ignored `java-reference/` directory contains `java-en-zh_cn.tmx` and
+`java-en-zh_tw.tmx`. To reproduce a particular release or choose another output
+directory, run:
+
+``` bash
+uv run python scripts/java_reference.py --version 26.3 --output-dir java-reference
+```
+
+Each Java English string is a complete TM segment. Java keys only pair strings
+within the Java resources; no Java/Bedrock key alignment or fuzzy matching is
+performed. Identical English/Chinese pairs collapse into one entry, while
+different Chinese translations of the same English remain separate entries.
+Missing or empty segments are skipped and counted; missing language files or
+targets with no translated segments fail generation. Text, whitespace, and
+placeholders are preserved. Entries sort by exact English text and then Chinese
+text, with no timestamps; the same release resources produce identical TMX bytes.
+`zh_CN` and `zh_TW` remain separate targets, represented by standard `zh-CN` and
+`zh-TW` TMX language tags; there is no script conversion.
+
+To use these files in Crowdin, follow the [Translation Memory documentation](https://support.crowdin.com/translation-memory/):
+
+1. From the project owner's profile, open **TM > Create TM**, name it
+   **Minecraft Java Edition Reference**, select English as the default display
+   language, and assign it to this project.
+2. Open that TM's **View Records > Upload** and upload both generated TMX files.
+   Check that the segments appear under English, Chinese Simplified, and Chinese
+   Traditional and that alternative translations remain available.
+3. Keep the project's existing default TM. This additional TM is for reference
+   suggestions only; do not enable automatic translation or apply it through
+   auto-translation. Reimporting newer releases may retain old translations as
+   alternatives, so review the reference TM's refresh policy separately.
+
+This command does not access Crowdin, modify `sources/*.tsv` Context or the
+source/translation file layout, or participate in resource pack builds. It does
+not change any translation and has no Crowdin AI or DeepSeek integration.
+
 ### Workflow
 
 This project uses GitHub Actions to automate the translation, Crowdin synchronization, and packaging process. It runs every 2 hours to update language files and synchronize translations with Crowdin. The final resource packs (`.mcpack` and `.zip`) are then generated and available for download.
