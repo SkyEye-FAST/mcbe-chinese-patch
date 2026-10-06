@@ -5,12 +5,14 @@ language files from them, converting .lang files to both .lang and .json formats
 Supports both UWP (appx) and GDK (msixvc) package formats.
 """
 
+import argparse
 import datetime
 import os
 import re
 import shutil
 import subprocess
 import sys
+import tempfile
 import zipfile
 from pathlib import Path
 from typing import TypedDict
@@ -197,7 +199,7 @@ def _process_lang_file(
     zip_file: zipfile.ZipFile,
     entry: zipfile.ZipInfo,
     base_output_dir: Path,
-) -> bool:
+) -> None:
     """Process a single language file from zip archive.
 
     Args:
@@ -205,23 +207,19 @@ def _process_lang_file(
         entry: ZipInfo entry for the language file
         base_output_dir: Base output directory for extracted files
 
-    Returns:
-        bool: True if file was successfully processed, False otherwise
+    Raises on decoding or writing errors.
     """
     relative_path = entry.filename.replace("data/resource_packs/", "").replace("/texts/", "/")
 
     print(f"  Processing: {entry.filename}")
 
-    raw_content = zip_file.read(entry).decode("utf-8", errors="ignore")
+    raw_content = zip_file.read(entry).decode("utf-8")
     cleaned_content = clean_lang_content(raw_content)
 
-    if not cleaned_content:
-        return False
-
-    return _save_lang_and_json(cleaned_content, base_output_dir / relative_path, relative_path)
+    _save_lang_and_json(cleaned_content, base_output_dir / relative_path, relative_path)
 
 
-def _save_lang_and_json(content: str, output_file: Path, relative_path: str) -> bool:
+def _save_lang_and_json(content: str, output_file: Path, relative_path: str) -> None:
     """Save language content to .lang and .json files.
 
     Args:
@@ -229,8 +227,7 @@ def _save_lang_and_json(content: str, output_file: Path, relative_path: str) -> 
         output_file: Path to output .lang file
         relative_path: Relative path for display purposes
 
-    Returns:
-        bool: True if files were successfully saved, False otherwise
+    Raises on writing errors.
     """
     output_file.parent.mkdir(parents=True, exist_ok=True)
 
@@ -245,8 +242,6 @@ def _save_lang_and_json(content: str, output_file: Path, relative_path: str) -> 
 
     json_relative_path = relative_path.replace(".lang", ".json")
     print(f"Created {json_relative_path} with {len(json_data)} entries")
-
-    return True
 
 
 def export_files_to_structure(
@@ -293,8 +288,8 @@ def export_files_to_structure(
                     print(f"  Skipping beta path: {relative_path}")
                     continue
 
-                if _process_lang_file(zip_file, entry, base_output_dir):
-                    found_any = True
+                _process_lang_file(zip_file, entry, base_output_dir)
+                found_any = True
 
     except zipfile.BadZipFile:
         print(f"Error: {zip_path} is not a valid zip file", file=sys.stderr)
@@ -358,10 +353,6 @@ def download_file(url: str, output_path: Path) -> bool:
     """
     print(f"Downloading from {url}...")
 
-    if output_path.exists():
-        print(f"File already exists: {output_path.name}")
-        return True
-
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -391,9 +382,11 @@ def download_file(url: str, output_path: Path) -> bool:
 
             if not is_github_actions:
                 print()
+            if downloaded_size == 0 or (total_size and downloaded_size != total_size):
+                raise ValueError(f"Incomplete download: {downloaded_size}/{total_size} bytes")
         return True
 
-    except requests.RequestException as e:
+    except (requests.RequestException, ValueError, OSError) as e:
         print(f"Error downloading file: {e}", file=sys.stderr)
         if output_path.exists():
             output_path.unlink()
@@ -424,7 +417,8 @@ def download_gdk_package(download_url: str, base_dir: Path, version: str) -> Pat
 
 
 def _process_extracted_lang_files(
-    resource_packs_dir: Path, base_output_dir: Path, target_languages: list[str]
+    resource_packs_dir: Path, base_output_dir: Path, target_languages: list[str],
+    exclude_beta: bool = False,
 ) -> bool:
     """Process language files from extracted resource packs directory.
 
@@ -440,40 +434,30 @@ def _process_extracted_lang_files(
 
     found_any = False
 
-    for pack_dir in resource_packs_dir.iterdir():
-        if not pack_dir.is_dir():
+    for lang_file in sorted(resource_packs_dir.rglob("*.lang")):
+        if lang_file.name not in target_languages or lang_file.parent.name != "texts":
             continue
-
-        texts_dir = pack_dir / "texts"
-        if not texts_dir.exists():
+        relative = lang_file.relative_to(resource_packs_dir)
+        if exclude_beta and "beta" in relative.parts:
             continue
-
-        for lang_file_name in target_languages:
-            lang_file = texts_dir / lang_file_name
-            if not lang_file.exists():
-                continue
-
-            raw_content = lang_file.read_text(encoding="utf-8", errors="ignore")
-            cleaned_content = clean_lang_content(raw_content)
-
-            if not cleaned_content:
-                continue
-
-            relative_path = f"{pack_dir.name}/{lang_file_name}"
-            output_file = base_output_dir / relative_path
-
-            if _save_lang_and_json(cleaned_content, output_file, relative_path):
-                found_any = True
+        content = clean_lang_content(lang_file.read_text(encoding="utf-8"))
+        relative_path = (relative.parent.parent / lang_file.name).as_posix()
+        _save_lang_and_json(content, base_output_dir / relative_path, relative_path)
+        found_any = True
 
     return found_any
 
 
-def process_gdk_package(msixvc_file: Path, base_output_dir: Path) -> bool:
+def process_gdk_package(
+    msixvc_file: Path, base_output_dir: Path, tools_dir: Path, exclude_beta: bool = False
+) -> bool:
     """Process GDK package using XvdTool.Streaming with pre-configured CIK keys.
 
     Args:
         msixvc_file (Path): Path to the msixvc file
         base_output_dir (Path): Base output directory for extracted files
+        tools_dir (Path): Shared XvdTool.Streaming and CIK directory
+        exclude_beta (bool): Exclude beta language files from Release
 
     Returns:
         bool: True if processing successful, False otherwise
@@ -484,7 +468,6 @@ def process_gdk_package(msixvc_file: Path, base_output_dir: Path) -> bool:
     """
     print(f"Processing GDK package: {msixvc_file.name}")
 
-    tools_dir = base_output_dir.parent / "tools"
     tools_dir.mkdir(exist_ok=True)
 
     xvdtool_exe = tools_dir / "XvdTool.Streaming" / "XvdTool.Streaming.exe"
@@ -620,8 +603,9 @@ def process_gdk_package(msixvc_file: Path, base_output_dir: Path) -> bool:
         print(f"Warning: Could not find resource_packs folder in {data_folder}")
         return False
 
-    target_languages = ["en_US.lang", "zh_CN.lang", "zh_TW.lang"]
-    found_any = _process_extracted_lang_files(resource_packs_dir, base_output_dir, target_languages)
+    found_any = _process_extracted_lang_files(
+        resource_packs_dir, base_output_dir, TARGET_LANGUAGES, exclude_beta
+    )
 
     if not found_any:
         print("Warning: No language files found in resource packs")
@@ -634,131 +618,151 @@ def process_gdk_package(msixvc_file: Path, base_output_dir: Path) -> bool:
     return True
 
 
-def main() -> None:
-    """Main entry point for the language file extractor."""
-    script_dir = Path(__file__).parent
-    base_dir = script_dir.parent
+def validate_extraction(directory: Path) -> None:
+    """Require nonempty base languages and matching JSON, allowing empty optional packs."""
+    for language in TARGET_LANGUAGES:
+        path = directory / "vanilla" / language
+        if not path.is_file() or not convert_lang_to_json(path.read_text(encoding="utf-8")):
+            raise ValueError(f"Missing or empty required language: {path}")
+    for lang_file in directory.rglob("*.lang"):
+        data = convert_lang_to_json(lang_file.read_text(encoding="utf-8"))
+        if data != orjson.loads(lang_file.with_suffix(".json").read_bytes()):
+            raise ValueError(f"Invalid extracted language: {lang_file}")
 
-    output_dir = base_dir / "extracted"
-    output_dir.mkdir(exist_ok=True)
 
-    print("Starting language file extraction process...")
-    print(f"Base directory: {base_dir}")
-    print(f"Output directory: {output_dir}")
+def fetch_versions() -> dict[str, tuple[str, str, str]]:
+    """Fetch both targets; missing metadata is a failed attempt."""
+    versions = {}
+    for package in PACKAGE_INFO:
+        info = get_latest_version_from_api(package["package_type"])
+        if info is None:
+            raise RuntimeError(f"Failed to get version for {package['package_type']}")
+        versions[package["folder_name"]] = info
+    return versions
 
-    package_files: list[tuple[str, Path, str]] = []
-    version_info: dict[str, str | None] = {"release": None, "development": None}
 
-    max_retries = 5
-    retry_count = 0
-
-    while retry_count < max_retries:
-        version_info = {"release": None, "development": None}
-
-        for i, package in enumerate(PACKAGE_INFO):
-            prefix = "\n" if i == 0 else "\n\n"
-            package_type = package["package_type"]
-            folder_name = package["folder_name"]
-
-            if retry_count > 0:
-                attempt_msg = f"(Attempt {retry_count + 1}/{max_retries})"
-                print(f"{prefix}Retrying package type: {package_type} {attempt_msg}")
-            else:
-                print(f"{prefix}Processing package type: {package_type}")
-
-            version_data = get_latest_version_from_api(package_type)
-
-            if not version_data:
-                print(f"Failed to get version info for {package_type}")
-                continue
-
-            version, build_type, download_info = version_data
-
-            if folder_name == "release":
-                version_info["release"] = version
-            else:
-                version_info["development"] = version
-
-            package_file: Path | None = None
-
-            if build_type == "UWP":
-                package_file = get_appx_file(download_info, base_dir)
-            elif build_type == "GDK":
-                package_file = download_gdk_package(download_info, base_dir, version)
-            else:
-                print(f"Unknown build type: {build_type}")
-                continue
-
-            if not package_file:
-                print(f"Failed to download package for {package_type}")
-                continue
-
-            print(f"Downloaded: {package_file.name}")
-            package_files.append((folder_name, package_file, build_type))
-
-        if version_info["release"] is not None and version_info["development"] is not None:
-            break
-
-        retry_count += 1
-        if retry_count < max_retries:
-            retry_msg = f"Attempt {retry_count + 1}/{max_retries}"
-            print(f"\nVersion info incomplete, retrying... ({retry_msg})")
-
-    if version_info["release"] is None or version_info["development"] is None:
-        print("\nError: Failed to get complete version info after 5 attempts")
-        print(f"  Release: {version_info.get('release', 'null')}")
-        print(f"  Development: {version_info.get('development', 'null')}")
-        print("Aborting program without updating versions.json")
-        sys.exit(1)
-
-    print("\n" + "=" * 60)
+def read_versions(base_dir: Path) -> dict[str, str]:
     versions_file = base_dir / "versions.json"
+    if not versions_file.exists():
+        return {}
+    return orjson.loads(versions_file.read_bytes())["versions"]
 
-    existing_version_data = {}
-    if versions_file.exists():
-        try:
-            existing_version_data = orjson.loads(versions_file.read_bytes())
-        except Exception as e:
-            print(f"Warning: Could not read existing versions.json: {e}")
 
-    existing_versions = existing_version_data.get("versions", {})
-    versions_changed = existing_versions != version_info
+def publish_extraction(base_dir: Path, staging: Path, versions: dict[str, str]) -> None:
+    """Install complete directories with rename/rollback; commit the version record last.
 
-    if versions_changed:
-        version_data_to_save = {
+    Replacing a nonempty directory requires two renames on Windows. Backups stay on
+    the same filesystem until both targets and versions.json have been installed.
+    """
+    versions_file = base_dir / "versions.json"
+    staged_versions = staging / "versions.json"
+    staged_versions.write_bytes(
+        orjson.dumps({
             "timestamp": datetime.datetime.now(datetime.UTC).isoformat(),
-            "versions": version_info,
-        }
+            "versions": versions,
+        }, option=orjson.OPT_INDENT_2)
+    )
 
-        tmp_file = versions_file.with_suffix(versions_file.suffix + ".tmp")
-        tmp_file.write_bytes(orjson.dumps(version_data_to_save, option=orjson.OPT_INDENT_2))
-        tmp_file.replace(versions_file)
+    installed: list[Path] = []
+    backups: list[tuple[Path, Path]] = []
+    try:
+        for folder in versions:
+            destination = base_dir / "extracted" / folder
+            backup = staging / f"old-{folder}"
+            if destination.exists():
+                destination.replace(backup)
+                backups.append((destination, backup))
+            (staging / folder).replace(destination)
+            installed.append(destination)
+        staged_versions.replace(versions_file)
+    except Exception:
+        for destination in reversed(installed):
+            shutil.rmtree(destination)
+        for destination, backup in reversed(backups):
+            backup.replace(destination)
+        raise
 
-    print("Version information saved:")
-    print(f"  Release: {version_info.get('release', 'N/A')}")
-    print(f"  Development: {version_info.get('development', 'N/A')}")
 
-    for folder_name, package_file, build_type in package_files:
-        print("\n" + "=" * 60)
-        package_output_dir = output_dir / folder_name
-        package_output_dir.mkdir(exist_ok=True)
+def extract_languages(base_dir: Path, max_attempts: int = 5) -> None:
+    """Retry the entire fetch/download/extract/validate cycle in a fresh workspace."""
+    output_dir = base_dir / "extracted"
+    output_dir.mkdir(parents=True, exist_ok=True)
+    for attempt in range(1, max_attempts + 1):
+        try:
+            with tempfile.TemporaryDirectory(prefix=".extract-", dir=output_dir) as temporary:
+                staging = Path(temporary)
+                downloads = staging / "downloads"
+                downloads.mkdir()
+                metadata = fetch_versions()
+                for folder, (version, build_type, download_info) in metadata.items():
+                    destination = staging / folder
+                    destination.mkdir()
+                    if build_type == "UWP":
+                        package_file = get_appx_file(download_info, downloads)
+                    elif build_type == "GDK":
+                        package_file = download_gdk_package(download_info, downloads, version)
+                    else:
+                        raise ValueError(f"Unknown build type: {build_type}")
+                    if package_file is None:
+                        raise RuntimeError(f"Failed to download {folder}")
+                    if build_type == "GDK":
+                        success = process_gdk_package(
+                            package_file, destination, output_dir / "tools", folder == "release"
+                        )
+                    else:
+                        success = export_files_to_structure(
+                            package_file, destination, TARGET_LANGUAGES, folder == "release"
+                        )
+                    if not success:
+                        raise RuntimeError(f"Failed to extract {folder}")
+                    validate_extraction(destination)
+                versions = {folder: info[0] for folder, info in metadata.items()}
+                publish_extraction(base_dir, staging, versions)
+            print(f"Extraction completed: {versions}")
+            return
+        except Exception as error:
+            print(f"Extraction attempt {attempt}/{max_attempts} failed: {error}", file=sys.stderr)
+    raise RuntimeError(f"Extraction failed after {max_attempts} attempts")
 
-        if build_type == "GDK":
-            success = process_gdk_package(package_file, package_output_dir)
+
+def check_for_updates(base_dir: Path, max_attempts: int = 5) -> bool:
+    """Check upstream metadata without downloading packages or updating versions.json."""
+    for attempt in range(1, max_attempts + 1):
+        try:
+            metadata = fetch_versions()
+            latest = {folder: info[0] for folder, info in metadata.items()}
+            if latest != read_versions(base_dir):
+                return True
+            for folder in latest:
+                try:
+                    validate_extraction(base_dir / "extracted" / folder)
+                except (OSError, ValueError):
+                    return True
+            return False
+        except Exception as error:
+            print(f"Version check {attempt}/{max_attempts} failed: {error}", file=sys.stderr)
+    raise RuntimeError(f"Version check failed after {max_attempts} attempts")
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--check", action="store_true", help="Only check whether extraction is needed")
+    args = parser.parse_args()
+    base_dir = Path(__file__).resolve().parent.parent
+    try:
+        if args.check:
+            changed = check_for_updates(base_dir)
+            print(f"Extraction needed: {changed}")
+            if output := os.getenv("GITHUB_OUTPUT"):
+                with open(output, "a", encoding="utf-8") as stream:
+                    stream.write(f"changed={str(changed).lower()}\n")
         else:
-            exclude_beta = folder_name == "release"
-            success = export_files_to_structure(
-                package_file, package_output_dir, TARGET_LANGUAGES, exclude_beta
-            )
-
-        if not success:
-            print(f"Failed to process package: {package_file}")
-
-    print("\n" + "=" * 60)
-    print("Language file extraction completed!")
-    print(f"Output directory: {output_dir}")
-    print(f"Version information saved to: {versions_file}")
+            extract_languages(base_dir)
+        return 0
+    except Exception as error:
+        print(f"Error: {error}", file=sys.stderr)
+        return 1
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
