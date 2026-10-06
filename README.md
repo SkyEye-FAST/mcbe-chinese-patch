@@ -154,12 +154,43 @@ To use these files in Crowdin, follow the [Translation Memory documentation](htt
    Traditional and that alternative translations remain available.
 3. Keep the project's existing default TM. This additional TM is for reference
    suggestions only; do not enable automatic translation or apply it through
-   auto-translation. Reimporting newer releases may retain old translations as
-   alternatives, so review the reference TM's refresh policy separately.
+   auto-translation. Use the manual sync below for updates; importing without
+   clearing retains old alternatives and is not a full replacement.
 
 This command does not access Crowdin, modify `sources/*.tsv` Context or the
 source/translation file layout, or participate in resource pack builds. It does
 not change any translation and has no Crowdin AI or DeepSeek integration.
+
+#### Manual Crowdin TM Sync
+
+Set the existing `CROWDIN_PERSONAL_TOKEN` and `CROWDIN_PROJECT_ID` environment
+variables. The token needs access to this project, read access to project settings,
+and TM read/write and storage upload permissions. Do not commit credentials or TM
+IDs. Create the separate **Minecraft Java Edition Reference** TM first.
+
+``` bash
+# Default dry-run: generate/validate both TMX files, find the TM, and show counts.
+uv run python scripts/sync_java_reference.py
+
+# Explicitly clear the reference TM and import both current-release TMX files.
+uv run python scripts/sync_java_reference.py --apply
+```
+
+The command uses [Crowdin API v2](https://support.crowdin.com/developer/api/v2/),
+matches the TM name exactly, and rejects duplicate names or any project default
+TM. Both complete files are validated before any remote modification. `--apply`
+fully replaces the reference TM: clear, upload/import Simplified Chinese and wait
+for completion, then upload/import Traditional Chinese and wait. Only both
+finished imports count as success. Run one sync at a time.
+
+Failures exit nonzero. A failure after a clear request may leave the TM empty or
+partial; the command reports import IDs/status URLs and the validated local TMX
+paths for recovery. Check outstanding imports before retrying; saved files can
+be restored manually, or `--apply` can regenerate the latest release and replace
+the TM again. There is no automatic rollback or retained historical TM. This
+remains a manual command; GitHub Actions, project translations, Context, resource
+pack builds, and AI configuration are unchanged. Verify an actual Crowdin import
+before considering CI automation.
 
 ### Workflow
 
