@@ -13,8 +13,7 @@ import zipfile
 from pathlib import Path
 from unittest.mock import patch
 
-ROOT = Path(__file__).resolve().parent.parent
-sys.path.insert(0, str(ROOT / "scripts"))
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 
 import convert
 import extract
@@ -22,13 +21,17 @@ import merge
 import pack
 import update_sources
 
+ROOT = Path(__file__).resolve().parents[1]
+
 
 def write_json(path, data):
+    """Write a JSON fixture, creating its parent directories."""
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(data), encoding="utf-8")
 
 
 def write_languages(directory, value="base"):
+    """Create language and JSON fixtures for every required language."""
     for language in extract.TARGET_LANGUAGES:
         path = directory / "vanilla" / language
         path.parent.mkdir(parents=True, exist_ok=True)
@@ -37,6 +40,7 @@ def write_languages(directory, value="base"):
 
 
 def write_package(path, value="base", extra=False, missing_language=False):
+    """Build an app package fixture with optional stale or missing content."""
     with zipfile.ZipFile(path, "w") as archive:
         for language in (
             extract.TARGET_LANGUAGES[:2] if missing_language else extract.TARGET_LANGUAGES
@@ -50,7 +54,10 @@ def write_package(path, value="base", extra=False, missing_language=False):
 
 
 class PipelineContracts(unittest.TestCase):
+    """Verify extraction, merging, translation filtering, and packaging."""
+
     def setUp(self):
+        """Create an isolated workspace and capture command output."""
         self.temporary = tempfile.TemporaryDirectory()
         self.addCleanup(self.temporary.cleanup)
         self.root = Path(self.temporary.name)
@@ -59,6 +66,7 @@ class PipelineContracts(unittest.TestCase):
         self.enterContext(contextlib.redirect_stderr(self.output))
 
     def test_lang_conversion_and_duplicate_keys_keep_first(self):
+        """Round-trip language entries while retaining the first duplicate key."""
         raw = "\ufeff## heading\r\n key = first=part\t# context\r\nkey=second\r\n\r\nempty=\n"
         cleaned = convert.clean_lang_content(raw)
         data = convert.convert_lang_to_json(cleaned)
@@ -67,6 +75,7 @@ class PipelineContracts(unittest.TestCase):
         self.assertNotIn("key=second", cleaned)
 
     def test_merge_priority_is_deterministic_and_channels_are_separate(self):
+        """Apply stable pack priority and isolate beta and preview content."""
         source = self.root / "extracted/development"
         # Deliberately create directories in reverse lexical order.
         packs = {
@@ -92,6 +101,7 @@ class PipelineContracts(unittest.TestCase):
             self.assertEqual("preview_only" in merged, channel == "preview")
 
     def test_current_source_filters_stale_keys_without_source_mapping(self):
+        """Keep only nonempty translations for keys in the current source."""
         source = self.root / "source.tsv"
         translation = self.root / "translation.tsv"
         convert.save_tsv_file(
@@ -113,6 +123,7 @@ class PipelineContracts(unittest.TestCase):
         )
 
     def prepare_old_extraction(self):
+        """Create previous extraction outputs and return their version record."""
         for folder in ("release", "development"):
             write_languages(self.root / "extracted" / folder, "old")
         write_json(
@@ -121,6 +132,7 @@ class PipelineContracts(unittest.TestCase):
         return (self.root / "versions.json").read_bytes()
 
     def test_every_extraction_stage_failure_preserves_outputs_and_versions(self):
+        """Preserve published data when any extraction stage fails."""
         for stage in ("version", "download", "unpack", "validation"):
             with self.subTest(stage=stage):
                 old_versions = self.prepare_old_extraction()
@@ -163,6 +175,7 @@ class PipelineContracts(unittest.TestCase):
                 self.assertFalse(list((self.root / "extracted").glob(".extract-*")))
 
     def test_retry_restarts_both_targets_and_removes_obsolete_files(self):
+        """Retry both targets from clean staging and remove obsolete outputs."""
         self.prepare_old_extraction()
         # A complete successful extraction also replaces a damaged version record.
         (self.root / "versions.json").write_bytes(b"broken JSON")
@@ -207,6 +220,7 @@ class PipelineContracts(unittest.TestCase):
         self.assertTrue(all(not path.exists() for path in downloads))
 
     def test_publish_failure_rolls_back_both_directories(self):
+        """Restore both published targets and versions after a rename failure."""
         old_versions = self.prepare_old_extraction()
         staging = self.root / "extracted/staging"
         for folder in ("release", "development"):
@@ -227,6 +241,7 @@ class PipelineContracts(unittest.TestCase):
             )
 
     def test_lightweight_check_skips_download_and_detects_incomplete_outputs(self):
+        """Detect changed versions or missing outputs without downloading packages."""
         old_versions = self.prepare_old_extraction()
         with (
             patch.object(
@@ -245,6 +260,7 @@ class PipelineContracts(unittest.TestCase):
         self.assertEqual((self.root / "versions.json").read_bytes(), old_versions)
 
     def test_extractor_cli_exits_nonzero_when_upstream_fails(self):
+        """Report upstream failure through the extractor command's exit status."""
         code = (
             "import runpy, sys; from unittest.mock import patch; import requests; "
             "sys.path.insert(0, 'scripts'); sys.argv = ['extract.py']; "
@@ -258,6 +274,7 @@ class PipelineContracts(unittest.TestCase):
         self.assertIn("Extraction failed after 5 attempts", result.stderr)
 
     def test_missing_pipeline_inputs_raise(self):
+        """Reject missing inputs at each downstream pipeline stage."""
         with self.assertRaises(FileNotFoundError):
             merge.process_target(merge.TARGETS[0], self.root)
         with self.assertRaises(FileNotFoundError):
@@ -266,6 +283,7 @@ class PipelineContracts(unittest.TestCase):
             pack.main(self.root)
 
     def test_minimal_fixture_builds_all_valid_resource_packs(self):
+        """Build every resource pack with valid manifests and current translations."""
         shutil.copytree(ROOT / "resources", self.root / "resources")
         write_json(
             self.root / "versions.json", {"versions": {"release": "1.0", "development": "1.1"}}
