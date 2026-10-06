@@ -160,38 +160,6 @@ def save_lang_file(file_path: Path, data: dict[str, Any]) -> None:
     file_path.write_text(lang_content, encoding="utf-8", newline="\n")
 
 
-def save_lang_file_with_sources(file_path: Path, sources_data: dict[str, dict[str, str]]) -> None:
-    """Save translation data as a .lang file, organized by source files.
-
-    Args:
-        file_path (Path): The path to save the .lang file
-        sources_data (dict): Dictionary mapping source files to their translations
-    """
-    total_entries = sum(len(translations) for translations in sources_data.values())
-    if total_entries == 0:
-        file_path.write_text("", encoding="utf-8", newline="\n")
-        return
-
-    lines: list[str] = []
-
-    first_section = True
-    for source_file, translations in sources_data.items():
-        if not translations:
-            continue
-
-        if not first_section:
-            lines.append("")
-        first_section = False
-
-        lines.append(f"## {source_file}")
-
-        translation_lines = [f"{key}={value}" for key, value in translations.items()]
-        lines.extend(translation_lines)
-
-    content = "\n".join(lines)
-    file_path.write_text(content, encoding="utf-8", newline="\n")
-
-
 def save_json_file(file_path: Path, data: dict[str, Any], sort_keys: bool = True) -> None:
     """Save data as a JSON file with proper formatting.
 
@@ -221,59 +189,6 @@ def save_tsv_file(file_path: Path, headers: list[str], rows: list[list[str]]) ->
         writer.writerows(rows)
 
 
-def build_key_to_source_mapping(extracted_dir: Path, branch: str, lang_code: str) -> dict[str, str]:
-    """Build a mapping from translation keys to their source files.
-
-    Args:
-        extracted_dir (Path): Path to the extracted directory
-        branch (str): Branch name (release, beta, preview)
-        lang_code (str): Language code (zh_CN, zh_TW, etc.)
-
-    Returns:
-        dict[str, str]: Mapping from keys to source file paths
-    """
-    if branch == "release":
-        search_base = extracted_dir / "release"
-    else:
-        search_base = extracted_dir / "development"
-
-    search_order = [
-        "vanilla",
-        "oreui",
-        "persona",
-        "editor",
-        "chemistry",
-        "education",
-        "education_demo",
-    ]
-
-    if branch == "beta":
-        search_order.append("beta")
-    elif branch == "preview":
-        search_order.append("previewapp")
-
-    key_to_source: dict[str, str] = {}
-
-    for subdir in reversed(search_order):
-        lang_file = search_base / subdir / f"{lang_code}.lang"
-        if lang_file.exists():
-            content = lang_file.read_text(encoding="utf-8")
-            source_path = f"resource_packs/{subdir}/texts/{lang_code}.lang"
-
-            for line in content.splitlines():
-                line = line.strip()
-                if not line or line.startswith("##"):
-                    continue
-
-                equal_index = line.find("=")
-                if equal_index > 0:
-                    key = line[:equal_index].strip()
-                    if key not in key_to_source:
-                        key_to_source[key] = source_path
-
-    return key_to_source
-
-
 def extract_translation_from_tsv(tsv_file: Path) -> OrderedDict[str, str]:
     """Extract translation data from TSV file.
 
@@ -300,53 +215,24 @@ def extract_translation_from_tsv(tsv_file: Path) -> OrderedDict[str, str]:
         if len(row) > max(key_index, translation_index):
             key = row[key_index]
             translation = row[translation_index] if translation_index < len(row) else ""
-            if key and translation:
+            if key and translation and key not in result:
                 result[key] = translation
 
     return result
 
 
-def extract_translation_with_sources(
-    tsv_file: Path, extracted_dir: Path, branch: str
-) -> dict[str, dict[str, str]]:
-    """Extract translation data from TSV file, organized by source file.
-
-    Args:
-        tsv_file (Path): The path to the TSV file
-        extracted_dir (Path): Path to the extracted directory
-        branch (str): Branch name (release, beta, preview)
-
-    Returns:
-        dict: Dictionary mapping source files to their translations
-    """
-    tsv_data = load_tsv_file(tsv_file)
-    headers = tsv_data["headers"]
-    rows = tsv_data["rows"]
-
-    if "Key" not in headers:
-        raise ValueError("TSV file must contain a 'Key' column")
-    if "Translation" not in headers:
-        raise ValueError("TSV file must contain a 'Translation' column")
-
-    key_index = headers.index("Key")
-    translation_index = headers.index("Translation")
-
-    mapping = build_key_to_source_mapping(extracted_dir, branch, "en_US")
-    sources_map: dict[str, dict[str, str]] = {}
-
-    for row in rows:
-        if len(row) > max(key_index, translation_index):
-            key = row[key_index]
-            translation = row[translation_index] if translation_index < len(row) else ""
-
-            if key and translation and key in mapping:
-                source_file = mapping[key]
-
-                if source_file not in sources_map:
-                    sources_map[source_file] = OrderedDict()
-                sources_map[source_file][key] = translation
-
-    return sources_map
+def extract_current_translations(tsv_file: Path, source_file: Path) -> OrderedDict[str, str]:
+    """Keep nonempty Crowdin translations whose keys exist in the current source TSV."""
+    source = load_tsv_file(source_file)
+    if "Key" not in source["headers"]:
+        raise ValueError(f"Missing Key column in {source_file}")
+    key_index = source["headers"].index("Key")
+    keys = {row[key_index] for row in source["rows"] if len(row) > key_index and row[key_index]}
+    if not keys:
+        raise ValueError(f"Empty source file: {source_file}")
+    return OrderedDict(
+        (key, value) for key, value in extract_translation_from_tsv(tsv_file).items() if key in keys
+    )
 
 
 def apply_translation_to_tsv(

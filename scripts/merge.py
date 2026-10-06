@@ -4,7 +4,6 @@ This script merges multiple language JSON files from different resource packs
 into consolidated files for release, beta, and preview versions.
 """
 
-import sys
 from pathlib import Path
 from typing import Any, TypedDict
 
@@ -56,14 +55,8 @@ def merge_lang_files(file_list: list[Path]) -> dict[str, Any]:
     merged: dict[str, Any] = {}
 
     for file_path in file_list:
-        if not file_path.exists():
-            continue
-
-        try:
-            data = load_json_file(file_path)
-            merged.update({k: v for k, v in data.items() if k not in merged})
-        except (FileNotFoundError, PermissionError) as e:
-            print(f"Warning: Failed to read {file_path}: {e}", file=sys.stderr)
+        data = load_json_file(file_path)
+        merged.update({k: v for k, v in data.items() if k not in merged})
 
     return dict(sorted(merged.items()))
 
@@ -85,7 +78,7 @@ def get_ordered_subdirs(base_dir: Path, exclude_dirs: list[str] | None = None) -
     if not base_dir.exists():
         return []
 
-    all_dirs = [d.name for d in base_dir.iterdir() if d.is_dir() and d.name not in exclude_dirs]
+    all_dirs = sorted(d.name for d in base_dir.iterdir() if d.is_dir() and d.name not in exclude_dirs)
 
     ordered: list[str] = []
 
@@ -115,25 +108,16 @@ def get_target_subdirs(src_dir: Path, target_name: str) -> list[str]:
         list[str]: List of ordered subdirectory paths
     """
 
-    class _TargetConfig(TypedDict):
-        exclude: list[str]
-        special_dir: str
-
-    target_config: dict[str, _TargetConfig] = {
-        "beta": {"exclude": ["previewapp"], "special_dir": "beta"},
-        "preview": {"exclude": ["beta"], "special_dir": "previewapp"},
-    }
-
-    if target_name not in target_config:
+    special_dirs = {"beta": "beta", "preview": "previewapp"}
+    if target_name not in special_dirs:
         return get_ordered_subdirs(src_dir)
-
-    config = target_config[target_name]
-    ordered_subdirs = get_ordered_subdirs(src_dir, exclude_dirs=config["exclude"])
-
-    special_dir = src_dir / config["special_dir"]
+    special_name = special_dirs[target_name]
+    ordered_subdirs = get_ordered_subdirs(src_dir, exclude_dirs=["beta", "previewapp"])
+    special_dir = src_dir / special_name
     if special_dir.exists():
+        ordered_subdirs.append(special_name)
         special_subdirs = get_ordered_subdirs(special_dir)
-        ordered_subdirs.extend(f"{config['special_dir']}/{subdir}" for subdir in special_subdirs)
+        ordered_subdirs.extend(f"{special_name}/{subdir}" for subdir in special_subdirs)
 
     return ordered_subdirs
 
@@ -147,8 +131,7 @@ def process_target(target: TargetConfig, base_dir: Path) -> None:
     """
     src_dir = base_dir / target["path"]
     if not src_dir.exists():
-        print(f"Source directory does not exist: {src_dir}")
-        return
+        raise FileNotFoundError(f"Source directory does not exist: {src_dir}")
 
     out_dir = base_dir / "merged" / target["name"]
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -165,23 +148,15 @@ def process_target(target: TargetConfig, base_dir: Path) -> None:
                 file_list.append(lang_path)
 
         if not file_list:
-            print(f"No files found for {lang_file} in {target['name']}")
-            continue
+            raise ValueError(f"No files found for {lang_file} in {target['name']}")
 
         merged_data = merge_lang_files(file_list)
+        if not merged_data:
+            raise ValueError(f"Empty merged language: {target['name']}/{lang_file}")
 
         output_file = out_dir / lang_file
-        try:
-            save_json_file(output_file, merged_data)
-
-            print(f"Merged {len(file_list)} files to {output_file}")
-            print(f"  Total keys: {len(merged_data)}")
-            print("  Files merged:")
-            for file_path in file_list:
-                print(f"    {file_path}")
-
-        except (OSError, PermissionError) as e:
-            print(f"Error writing output file {output_file}: {e}", file=sys.stderr)
+        save_json_file(output_file, merged_data)
+        print(f"Merged {len(file_list)} files to {output_file} ({len(merged_data)} keys)")
 
 
 def main() -> None:

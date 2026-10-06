@@ -1,129 +1,72 @@
-"""Minecraft Bedrock Edition resource pack packer.
-
-This module converts translation data from TSV format to Minecraft lang files
-and packages them into distributable resource packs. The process involves:
-
-1. Reading TSV files from the sources directory containing translation data
-2. Converting TSV data to Minecraft .lang format using convert module functions
-3. Generating version-specific resource pack archives (.zip and .mcpack)
-
-The module supports multiple branches (release, beta, preview) with different
-versioning schemes and automatically organizes output files in the packed directory.
-"""
+"""Generate current Crowdin translations and package Release, Beta and Preview."""
 
 import json
 import shutil
+import tempfile
 import zipfile
 from pathlib import Path
 
-from convert import extract_translation_with_sources, save_lang_file_with_sources
+from convert import extract_current_translations, save_lang_file
+
+BRANCHES = ("release", "beta", "preview")
 
 
-def create_pack_archive(branch: str, lang_files: list[Path], version: str) -> None:
-    """Create zip and mcpack files for a branch.
-
-    Args:
-        branch (str): The branch name (e.g., "release", "beta", "preview")
-        lang_files (list[Path]): List of language file paths to include
-        version (str): Version string for the pack filename
-    """
-    output_dir = Path("packed")
+def create_pack_archive(
+    branch: str, lang_files: list[Path], version: str, base_dir: Path
+) -> None:
+    """Build both archives from a fresh directory, including only current languages."""
+    output_dir = base_dir / "packed"
     output_dir.mkdir(exist_ok=True)
-
-    pack_dir = output_dir / f"temp_{branch}"
-    pack_dir.mkdir(parents=True, exist_ok=True)
-
-    try:
-        shutil.copy2("resources/manifest.json", pack_dir / "manifest.json")
-
+    with tempfile.TemporaryDirectory(prefix=f".{branch}-", dir=output_dir) as temporary:
+        pack_dir = Path(temporary)
+        shutil.copy2(base_dir / "resources/manifest.json", pack_dir / "manifest.json")
         texts_dir = pack_dir / "texts"
-        texts_dir.mkdir(exist_ok=True)
-
+        texts_dir.mkdir()
         for lang_file in lang_files:
             shutil.copy2(lang_file, texts_dir / lang_file.name)
-
-        languages_dir = Path("resources/texts")
-        if languages_dir.exists():
-            for json_file in languages_dir.glob("*.json"):
-                shutil.copy2(json_file, texts_dir / json_file.name)
+        for filename in ("languages.json", "language_names.json"):
+            shutil.copy2(base_dir / "resources/texts" / filename, texts_dir / filename)
 
         base_name = f"MCBE_Chinese_Patch_{branch}_{version}"
         zip_path = output_dir / f"{base_name}.zip"
-
-        with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as zipf:
-            for file_path in pack_dir.rglob("*"):
-                if file_path.is_file():
-                    zipf.write(file_path, file_path.relative_to(pack_dir))
-
-        shutil.copy2(zip_path, output_dir / f"{base_name}.mcpack")
+        staged_zip = pack_dir / "pack.zip"
+        # Enumerate inputs before creating the archive, so it cannot include itself.
+        files = sorted(path for path in pack_dir.rglob("*") if path.is_file())
+        with zipfile.ZipFile(staged_zip, "w", zipfile.ZIP_DEFLATED) as archive:
+            for path in files:
+                archive.write(path, path.relative_to(pack_dir))
+        staged_mcpack = pack_dir / "pack.mcpack"
+        shutil.copy2(staged_zip, staged_mcpack)
+        staged_zip.replace(zip_path)
+        staged_mcpack.replace(output_dir / f"{base_name}.mcpack")
         print(f"Created {base_name}.zip (.mcpack)")
 
-    finally:
-        if pack_dir.exists():
-            shutil.rmtree(pack_dir)
 
+def main(base_dir: Path | None = None) -> None:
+    """Require all channels and declared locales, then generate and pack them."""
+    if base_dir is None:
+        base_dir = Path(__file__).resolve().parent.parent
+    versions = json.loads((base_dir / "versions.json").read_text(encoding="utf-8"))["versions"]
+    languages = json.loads(
+        (base_dir / "resources/texts/languages.json").read_text(encoding="utf-8")
+    )
+    if not languages:
+        raise ValueError("No resource pack languages declared")
 
-def main() -> None:
-    """Convert TSV files to lang format and create resource packs.
-
-    Processes all TSV files in the patched directory, converts them to Minecraft
-    lang format with source file organization, and packages them into distributable
-    resource packs for each branch.
-    """
-    print("Converting patched TSV files to lang format...")
-
-    patched_dir = Path("patched")
-    if not patched_dir.exists():
-        print("Patched directory not found!")
-        return
-
-    extracted_dir = Path("extracted")
-    if not extracted_dir.exists():
-        print("Extracted directory not found!")
-        return
-
-    for branch_dir in patched_dir.iterdir():
-        if not branch_dir.is_dir():
-            continue
-
-        print(f"Processing branch: {branch_dir.name}")
-
-        for tsv_file in branch_dir.glob("*.tsv"):
-            print(f"  Converting {tsv_file.name}")
-
-            sources_data = extract_translation_with_sources(
-                tsv_file, extracted_dir, branch_dir.name
-            )
-
-            output_lang_file = tsv_file.with_suffix(".lang")
-            save_lang_file_with_sources(output_lang_file, sources_data)
-
-    print("\nPacking resource packs...")
-
-    with open("versions.json", encoding="utf-8") as f:
-        versions = json.load(f)["versions"]
-
-    for branch_dir in patched_dir.iterdir():
-        if not branch_dir.is_dir():
-            continue
-
-        branch = branch_dir.name.capitalize()
-        lang_files = list(branch_dir.glob("*.lang"))
-
-        if not lang_files:
-            print(f"No lang files found for {branch}, skipping...")
-            continue
-
-        print(f"Packing branch: {branch}")
-
-        if branch.lower() == "release":
-            version = versions["release"]
-        else:
-            version = versions["development"]
-
-        create_pack_archive(branch, lang_files, version)
-
-    print("\nDone!")
+    for branch in BRANCHES:
+        version = versions["release" if branch == "release" else "development"]
+        if not isinstance(version, str) or not version:
+            raise ValueError(f"Missing version for {branch}")
+        branch_dir = base_dir / "patched" / branch
+        source = base_dir / "sources" / branch / "en_US.tsv"
+        lang_files = []
+        for language in languages:
+            tsv_file = branch_dir / f"{language}.tsv"
+            translations = extract_current_translations(tsv_file, source)
+            lang_file = tsv_file.with_suffix(".lang")
+            save_lang_file(lang_file, translations)
+            lang_files.append(lang_file)
+        create_pack_archive(branch.capitalize(), lang_files, version, base_dir)
 
 
 if __name__ == "__main__":
