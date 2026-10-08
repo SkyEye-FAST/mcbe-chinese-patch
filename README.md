@@ -214,12 +214,24 @@ generation, packaging, and artifact upload also fail on missing required inputs.
 
 To run the automated workflow, the following secrets must be configured in your GitHub repository:
 
-- `MINECRAFT_CIK`: Hex-encoded CIK (Content Identity Key) for decrypting GDK packages
-- `MINECRAFT_CIK_GUID`: GUID identifier for the CIK key
+- `MINECRAFT_CIK_KEYS`: JSON object mapping CIK GUIDs to hex-encoded, complete 48-byte `.cik` files for both Release and Preview GDK packages
 - `CROWDIN_PROJECT_ID`: Crowdin project ID
 - `CROWDIN_PERSONAL_TOKEN`: Crowdin API token
 
-To obtain the CIK values, run `python scripts/extract_cik.py` on a Windows machine with Minecraft installed. The script will output the required secret values.
+On a Windows machine with licensed Minecraft Release and Preview installations,
+run `uv run python scripts/extract_cik.py`. The script collects all Minecraft keys
+from local licenses and writes the ignored `extracted/tools/minecraft-cik-keys.json`
+without printing secret values. Upload that file with GitHub CLI:
+
+``` bash
+gh secret set MINECRAFT_CIK_KEYS < extracted/tools/minecraft-cik-keys.json
+```
+
+The former single-key secrets are no longer used. If a package reports a missing
+CIK GUID, update and launch the corresponding installed game to refresh its license,
+then extract and upload the current keys again. Missing or invalid keys stop
+extraction immediately instead of downloading the same package five times;
+previous language files and `versions.json` remain intact.
 
 ## License
 

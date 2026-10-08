@@ -20,6 +20,7 @@ from typing import TypedDict
 import orjson
 import requests
 from bs4 import BeautifulSoup, Tag
+from cik import CikError, parse_cik_keys, validate_cik
 from convert import clean_lang_content, convert_lang_to_json
 
 
@@ -466,7 +467,7 @@ def process_gdk_package(
         bool: True if processing successful, False otherwise
 
     Note:
-        CIK keys must be pre-configured in tools/Cik/ directory.
+        Provide MINECRAFT_CIK_KEYS in CI, or local keys in tools/Cik/.
         Use extract_cik.py script to extract CIK keys before running this function.
     """
     print(f"Processing GDK package: {msixvc_file.name}")
@@ -490,39 +491,19 @@ def process_gdk_package(
         print(f"Extract to: {tools_dir / 'XvdTool.Streaming'}")
         return False
 
-    cik_hex = os.getenv("MINECRAFT_CIK")
-    cik_guid = os.getenv("MINECRAFT_CIK_GUID")
+    if (configured_keys := os.getenv("MINECRAFT_CIK_KEYS")) is not None:
+        keys = parse_cik_keys(configured_keys)
+    else:
+        keys = {}
+        for cik_file in sorted(cik_dir.glob("*.cik")):
+            data = cik_file.read_bytes()
+            keys[validate_cik(cik_file.stem, data)] = data
+    if not keys:
+        raise CikError("No CIK keys found; run extract_cik.py or set MINECRAFT_CIK_KEYS")
 
-    if cik_hex and cik_guid:
-        print("\nUsing CIK from environment variables")
-        cik_dir.mkdir(parents=True, exist_ok=True)
-
-        try:
-            cik_bytes = bytes.fromhex(cik_hex)
-            cik_file_path = cik_dir / f"{cik_guid}.cik"
-            cik_file_path.write_bytes(cik_bytes)
-            print(f"Created CIK file from environment: {cik_file_path.name}")
-        except ValueError as e:
-            print(f"\nError: Invalid CIK hex format in MINECRAFT_CIK: {e}")
-            return False
-
-    if not cik_dir.exists():
-        print(f"\nError: CIK directory not found: {cik_dir}")
-        print("Please run extract_cik.py to extract CIK keys first")
-        return False
-
-    cik_files = list(cik_dir.glob("*.cik"))
-    if not cik_files:
-        print(f"\nError: No CIK files found in {cik_dir}")
-        print("Please run extract_cik.py to extract CIK keys first")
-        print("\nFor CI environments, you can also set these environment variables:")
-        print("  - MINECRAFT_CIK: Hex-encoded CIK key")
-        print("  - MINECRAFT_CIK_GUID: GUID for the CIK key")
-        return False
-
-    print(f"Found {len(cik_files)} CIK key(s):")
-    for cik_file in cik_files:
-        print(f"  - {cik_file.name}")
+    print(f"Found {len(keys)} CIK key(s):")
+    for guid in keys:
+        print(f"  - {guid}.cik")
 
     print("\nDecrypting and extracting package using XvdTool.Streaming...")
 
@@ -535,16 +516,8 @@ def process_gdk_package(
     xvd_cik_dir = xvdtool_working_dir / "Cik"
     xvd_cik_dir.mkdir(exist_ok=True)
 
-    cik_files_copied = 0
-    for cik_file in cik_dir.glob("*.cik"):
-        dest_cik = xvd_cik_dir / cik_file.name
-        shutil.copy2(cik_file, dest_cik)
-        print(f"Copied CIK: {cik_file.name}")
-        cik_files_copied += 1
-
-    if cik_files_copied == 0:
-        print("Warning: No CIK files found to copy")
-        return False
+    for guid, data in keys.items():
+        (xvd_cik_dir / f"{guid}.cik").write_bytes(data)
 
     try:
         result = subprocess.run(
@@ -561,15 +534,22 @@ def process_gdk_package(
             cwd=str(xvdtool_working_dir),
         )
 
-        if result.returncode != 0:
+        tool_output = f"{result.stdout}\n{result.stderr}"
+        missing_key = re.search(
+            r"Could not find key ([0-9a-fA-F-]{36}) loaded in key storage", tool_output
+        )
+        if missing_key:
+            raise CikError(
+                f"GDK package requires CIK {missing_key.group(1)}; "
+                "refresh Minecraft licenses, run extract_cik.py and update MINECRAFT_CIK_KEYS"
+            )
+        if result.returncode != 0 or re.search(r"(?m)^\s*ERR:", tool_output):
             print(f"XvdTool.Streaming failed with error code {result.returncode}")
             if result.stderr:
                 print(f"Error output:\n{result.stderr}")
             if result.stdout:
                 print(f"Standard output:\n{result.stdout}")
             return False
-
-        print("Package extraction successful")
 
         if result.stdout:
             print("XvdTool.Streaming output:")
@@ -581,6 +561,8 @@ def process_gdk_package(
             for line in result.stderr.splitlines():
                 print(f"  {line}")
 
+    except CikError:
+        raise
     except Exception as e:
         print(f"Failed to run XvdTool.Streaming: {e}")
         return False
@@ -727,6 +709,8 @@ def extract_languages(base_dir: Path, max_attempts: int = 5) -> None:
                 publish_extraction(base_dir, staging, versions)
             print(f"Extraction completed: {versions}")
             return
+        except CikError:
+            raise
         except Exception as error:
             print(f"Extraction attempt {attempt}/{max_attempts} failed: {error}", file=sys.stderr)
     raise RuntimeError(f"Extraction failed after {max_attempts} attempts")

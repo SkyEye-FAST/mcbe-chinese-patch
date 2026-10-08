@@ -14,9 +14,38 @@ Requirements:
     - CikExtractor.exe in tools/CikExtractor/ directory
 """
 
+import re
 import subprocess
 import sys
+import tempfile
 from pathlib import Path
+
+import orjson
+
+from cik import CikError, validate_cik
+
+
+MINECRAFT_PACKAGES = {
+    "microsoft.minecraftuwp_8wekyb3d8bbwe",
+    "microsoft.minecraftwindowsbeta_8wekyb3d8bbwe",
+}
+
+
+def minecraft_key_ids(output: str) -> set[str]:
+    """Collect every Release/Preview key from CikExtractor's package tree."""
+    identifiers = set()
+    minecraft = False
+    for line in output.splitlines():
+        if package := re.search(r"\b[A-Za-z0-9.]+_[A-Za-z0-9_.]+\b", line):
+            minecraft = package.group().lower() in MINECRAFT_PACKAGES
+        elif minecraft:
+            identifiers.update(
+                guid.lower()
+                for guid in re.findall(
+                    r"\b[0-9a-fA-F]{8}(?:-[0-9a-fA-F]{4}){3}-[0-9a-fA-F]{12}\b", line
+                )
+            )
+    return identifiers
 
 
 def extract_cik_keys(tools_dir: Path, cik_output_dir: Path) -> bool:
@@ -54,86 +83,51 @@ def extract_cik_keys(tools_dir: Path, cik_output_dir: Path) -> bool:
     cikextractor_dir = cikextractor_exe.parent
 
     try:
-        result = subprocess.run(
-            [str(cikextractor_exe), "dump", "-c", str(cik_output_dir.absolute())],
-            capture_output=True,
-            text=True,
-            check=False,
-            cwd=str(cikextractor_dir),
-        )
+        with tempfile.TemporaryDirectory(prefix=".cik-", dir=cik_output_dir.parent) as temporary:
+            dumped = Path(temporary)
+            result = subprocess.run(
+                [str(cikextractor_exe), "dump", "-c", str(dumped.absolute())],
+                capture_output=True,
+                text=True,
+                errors="replace",
+                check=False,
+                cwd=str(cikextractor_dir),
+            )
+            # Tool output contains device/content keys. Never echo it to logs.
+            if result.returncode != 0:
+                print(f"\nCikExtractor failed with error code {result.returncode}")
+                return False
 
-        print(f"\nCikExtractor return code: {result.returncode}")
+            identifiers = minecraft_key_ids(result.stdout)
+            if not identifiers:
+                raise CikError("No Minecraft Release or Preview CIKs found in local licenses")
+            keys = {}
+            for guid in sorted(identifiers):
+                cik_file = dumped / f"{guid}.cik"
+                if not cik_file.is_file():
+                    raise CikError(f"CikExtractor could not export Minecraft CIK {guid}")
+                data = cik_file.read_bytes()
+                keys[validate_cik(guid, data)] = data
 
-        if result.stdout:
-            print("\nCikExtractor output:")
-            print(result.stdout)
+            for guid, data in keys.items():
+                (cik_output_dir / f"{guid}.cik").write_bytes(data)
+                print(f"  - {guid}.cik ({len(data)} bytes)")
+            secret_path = cik_output_dir.parent / "minecraft-cik-keys.json"
+            staged_secret = dumped / "minecraft-cik-keys.json"
+            staged_secret.write_bytes(
+                orjson.dumps({guid: data.hex() for guid, data in keys.items()})
+            )
+            staged_secret.replace(secret_path)
 
-        if result.stderr:
-            print("\nCikExtractor errors:")
-            print(result.stderr)
-
-        if result.returncode != 0:
-            print(f"\nCikExtractor failed with error code {result.returncode}")
-            return False
-
-        minecraft_guid = None
-        if result.stdout:
-            lines = result.stdout.splitlines()
-            for i, line in enumerate(lines):
-                if "microsoft.minecraftwindowsbeta_8wekyb3d8bbwe" in line.lower():
-                    for j in range(i + 1, min(i + 10, len(lines))):
-                        next_line = lines[j]
-                        if "└── ??" in next_line or "    └── ??" in next_line:
-                            parts = next_line.strip().split()
-                            if len(parts) >= 2:
-                                guid_candidate = parts[-1]
-                                if "-" in guid_candidate and len(guid_candidate) > 30:
-                                    minecraft_guid = guid_candidate
-                                    break
-                    break
-
-        cik_files = list(cik_output_dir.glob("*.cik"))
-        if not cik_files:
-            print("\nWarning: No CIK files were extracted")
-            return False
-
-        print(f"\nCIK extraction successful - {len(cik_files)} key(s) extracted:")
-        for cik_file in cik_files:
-            file_size = cik_file.stat().st_size
-            print(f"  - {cik_file.name} ({file_size} bytes)")
-
-        minecraft_cik = None
-        if minecraft_guid:
-            for cik_file in cik_files:
-                if cik_file.stem.lower() == minecraft_guid.lower():
-                    minecraft_cik = cik_file
-                    break
-
-        if minecraft_cik:
-            print("\n" + "=" * 60)
-            print("GitHub Actions Secrets Configuration")
-            print("=" * 60)
-
-            cik_bytes = minecraft_cik.read_bytes()
-            cik_hex = cik_bytes.hex().upper()
-            cik_guid = minecraft_cik.stem
-
-            print(f"\nMinecraft CIK file: {minecraft_cik.name}")
-            print("\nMINECRAFT_CIK_GUID:")
-            print(cik_guid)
-            print("\nMINECRAFT_CIK:")
-            print(cik_hex)
-        else:
-            print("\nWarning: Could not identify Minecraft CIK from extracted files")
-            print("Please manually check the CIK files in the output directory")
-
+        print(f"\nSaved {len(keys)} Minecraft CIKs to {secret_path}")
+        print("Set GitHub secret MINECRAFT_CIK_KEYS to the contents of this ignored file.")
         return True
 
     except FileNotFoundError:
         print(f"\nError: Could not find CikExtractor.exe at {cikextractor_exe}")
         print("Please ensure CikExtractor is properly installed")
         return False
-    except Exception as e:
+    except (CikError, OSError) as e:
         print(f"\nFailed to run CikExtractor: {e}")
         return False
 

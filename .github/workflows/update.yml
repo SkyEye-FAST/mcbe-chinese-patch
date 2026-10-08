@@ -57,8 +57,7 @@ jobs:
         if: steps.versions.outputs.changed == 'true'
         run: uv run scripts/extract.py
         env:
-          MINECRAFT_CIK: ${{ secrets.MINECRAFT_CIK }}
-          MINECRAFT_CIK_GUID: ${{ secrets.MINECRAFT_CIK_GUID }}
+          MINECRAFT_CIK_KEYS: ${{ secrets.MINECRAFT_CIK_KEYS }}
 
       - name: Merge language files
         run: uv run scripts/merge.py
