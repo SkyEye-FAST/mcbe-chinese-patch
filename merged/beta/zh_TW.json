@@ -3874,7 +3874,6 @@
   "furnaceScreen.tab.food": "食物",
   "furnaceScreen.tab.inventory": "物品欄",
   "furnaceScreen.tab.items": "物品",
-  "furnaceScreen.tab.search": "全部",
   "furnaceScreen.tab.search.filterFurnace": "可熔煉配方",
   "furnaceScreen.tab.search.filterSmoker": "可煙燻配方",
   "furnaceScreen.tts.slot.cookingAction": "將 %1$s 烹飪成 %2$s",

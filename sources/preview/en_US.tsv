@@ -11619,9 +11619,6 @@ zh_TW: 物品欄"
 furnaceScreen.tab.items	Items	"Original Translation
 zh_CN: 物品
 zh_TW: 物品"	
-furnaceScreen.tab.search	All	"Original Translation
-zh_CN: 全部
-zh_TW: 全部"	
 furnaceScreen.tab.search.filterFurnace	Smeltable recipes	"Original Translation
 zh_CN: 可熔化的配方
 zh_TW: 可熔煉配方"	
@@ -16274,7 +16271,7 @@ hbui.DropdownItem.disabled	Disabled	"Original Translation
 zh_CN: 已禁用
 zh_TW: 已停用"	
 hbui.DropdownItem.elementType	item	"Original Translation
-zh_CN: 项目
+zh_CN: 物品
 zh_TW: 物品"	
 hbui.DropdownItem.narrationComponentType	Option	"Original Translation
 zh_CN: 选项
@@ -16286,7 +16283,7 @@ hbui.DropdownItem.selected	selected	"Original Translation
 zh_CN: 已选择
 zh_TW: 已選擇"	
 hbui.DropdownItem.unselected	not selected	"Original Translation
-zh_CN: 未当选
+zh_CN: 未选择
 zh_TW: 未選擇"	
 hbui.EditRealmWorld.ConfirmModals.cancel	Cancel	"Original Translation
 zh_CN: 取消
@@ -28720,10 +28717,10 @@ zh_TW: 搜尋玩家"
 hbui.SocialDrawerTabErrorState.people.noDataTitle	Let's add some friends!	"Original Translation
 zh_CN: 让我们添加一些好友吧！
 zh_TW: 來新增幾個朋友吧！"	
-hbui.SocialDrawerTutorial.partyTab	Click here to check out parties. It’s a way to group up with your friends!	"Original Translation
+hbui.SocialDrawerTutorial.partyTab	Go here to check out parties. It’s a way to group up with your friends!	"Original Translation
 zh_CN: 单击此处查看队伍。这是与好友组队的一种方式！
 zh_TW: 按一下此處查看派對。這是與好友組隊的好方法！"	
-hbui.SocialDrawerTutorial.playerOptions	Click here to see player options	"Original Translation
+hbui.SocialDrawerTutorial.playerOptions	Go here to see player options	"Original Translation
 zh_CN: 点击此处查看玩家选项
 zh_TW: 按此查看玩家選項"	
 hbui.SocialWorldTab.PlayerOptionsMenu.addToFavorites	Add to favorites	"Original Translation
@@ -58284,16 +58281,12 @@ zh_TW: 鍋釜水已染色"
 subtitles.block.cauldron.clean_armor	Leather armor gets cleaned	"Original Translation
 zh_CN: 皮革盔甲被清洗
 zh_TW: 皮甲已洗淨"	
-subtitles.block.cauldron.clean_armor_generic	Armor gets cleaned	Original Translation	
 subtitles.block.cauldron.clean_banner	Banner gets cleaned	"Original Translation
 zh_CN: 旗帜被清洗
 zh_TW: 旗幟已洗淨"	
-subtitles.block.cauldron.clean_shulker_box	Shulker Box gets cleaned	Original Translation	
 subtitles.block.cauldron.dye_armor	Leather armor gets dyed	"Original Translation
 zh_CN: 皮革盔甲被染色
 zh_TW: 皮甲已染色"	
-subtitles.block.cauldron.dye_armor_generic	Armor gets dyed	Original Translation	
-subtitles.block.cauldron.dye_shulker_box	Shulker Box gets dyed	Original Translation	
 subtitles.block.cauldron.fill_potion	Potion pours into Cauldron	"Original Translation
 zh_CN: 药水倒入炼药锅
 zh_TW: 藥水倒入鍋釜"	
