@@ -14,7 +14,7 @@ import requests
 VERSION_MANIFEST_URL = "https://piston-meta.mojang.com/mc/game/version_manifest_v2.json"
 ASSET_BASE_URL = "https://resources.download.minecraft.net"
 DEFAULT_OUTPUT_DIR = Path(__file__).resolve().parents[1] / "java-reference"
-TARGET_LANGUAGES = {"zh_cn": "zh-CN", "zh_tw": "zh-TW"}
+TARGET_LANGUAGES = {"zh_cn": "zh-CN", "zh_tw": "zh-TW", "zh_hk": "zh-HK"}
 XML_LANG = "{http://www.w3.org/XML/1998/namespace}lang"
 
 
@@ -59,7 +59,7 @@ def fetch_languages(version: str | None = None) -> tuple[str, dict[str, dict[str
         index_info = metadata["assetIndex"]
         assets = json.loads(download(session, index_info["url"], index_info["sha1"]))["objects"]
 
-        # Resolve both targets before downloading the larger client archive.
+        # Resolve all targets before downloading the larger client archive.
         target_assets = {}
         for locale in TARGET_LANGUAGES:
             asset_path = f"minecraft/lang/{locale}.json"
@@ -118,7 +118,7 @@ def build_tmx(pairs: list[tuple[str, str]], target_language: str, version: str) 
 
 
 def generate_reference(output_dir: Path, version: str | None = None) -> None:
-    """Fetch an official release and write both independent Chinese reference TMs."""
+    """Fetch an official release and write all independent Chinese reference TMs."""
     version_id, languages = fetch_languages(version)
     source = languages["en_us"]
     outputs = []
@@ -131,7 +131,7 @@ def generate_reference(output_dir: Path, version: str | None = None) -> None:
         tmx = build_tmx(pairs, TARGET_LANGUAGES[locale], version_id)
         outputs.append((f"java-en-{locale}.tmx", tmx, len(pairs), len(source) - matched))
 
-    # Finish fetching and rendering both languages before writing any output.
+    # Finish fetching and rendering all languages before writing any output.
     output_dir.mkdir(parents=True, exist_ok=True)
     print(f"Minecraft Java Edition {version_id}")
     for filename, tmx, count, skipped in outputs:

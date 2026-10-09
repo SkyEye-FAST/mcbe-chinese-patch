@@ -84,6 +84,8 @@ class JavaReferenceSyncTests(unittest.TestCase):
                     "error": "fixture import error" if final_status == "failed" else None,
                 }
             ),
+            response({"id": 103}, 201),
+            response({"identifier": "hk-import", "status": "finished"}, 202),
         ]
 
     def run_command(self, apply=False):
@@ -108,6 +110,7 @@ class JavaReferenceSyncTests(unittest.TestCase):
         self.assertEqual(self.calls(), [("GET", "/projects/10"), ("GET", "/tms")])
         self.assertIn("zh_CN entries: 2", self.stdout.getvalue())
         self.assertIn("zh_TW entries: 2", self.stdout.getvalue())
+        self.assertIn("zh_HK entries: 2", self.stdout.getvalue())
         self.assertIn("Crowdin TM cleared: no (dry-run)", self.stdout.getvalue())
         self.assertNotIn("Sync successful", self.stdout.getvalue())
 
@@ -162,10 +165,12 @@ class JavaReferenceSyncTests(unittest.TestCase):
                 ("POST", "/storages"),
                 ("POST", "/tms/20/imports"),
                 ("GET", "/tms/20/imports/tw-import"),
+                ("POST", "/storages"),
+                ("POST", "/tms/20/imports"),
             ],
         )
         calls = self.session.request.call_args_list
-        for index, locale in ((3, "zh_cn"), (7, "zh_tw")):
+        for index, locale in ((3, "zh_cn"), (7, "zh_tw"), (10, "zh_hk")):
             upload = calls[index].kwargs
             self.assertEqual(
                 upload["data"], (self.output_dir / f"java-en-{locale}.tmx").read_bytes()
@@ -174,10 +179,12 @@ class JavaReferenceSyncTests(unittest.TestCase):
             self.assertEqual(upload["headers"]["Crowdin-API-FileName"], f"java-en-{locale}.tmx")
         self.assertEqual(calls[4].kwargs["json"], {"storageId": 101})
         self.assertEqual(calls[8].kwargs["json"], {"storageId": 102})
+        self.assertEqual(calls[11].kwargs["json"], {"storageId": 103})
         self.assertIn("Crowdin TM cleared: yes", self.stdout.getvalue())
         self.assertIn("zh_CN import: finished", self.stdout.getvalue())
         self.assertIn("zh_TW import: finished", self.stdout.getvalue())
-        self.assertIn("Sync successful: both language imports finished.", self.stdout.getvalue())
+        self.assertIn("zh_HK import: finished", self.stdout.getvalue())
+        self.assertIn("Sync successful: all language imports finished.", self.stdout.getvalue())
 
     def test_second_import_failure_reports_partial_update_and_recovery(self):
         """Report partial synchronization and recovery details after the second failure."""
@@ -215,7 +222,8 @@ class JavaReferenceSyncTests(unittest.TestCase):
         """Treat error details as failure even when the API reports a finished status."""
         responses = self.apply_responses()
         responses[-1] = response(
-            {"identifier": "tw-import", "status": "finished", "error": "fixture incomplete import"}
+            {"identifier": "hk-import", "status": "finished", "error": "fixture incomplete import"},
+            202,
         )
         self.session.request.side_effect = responses
         self.assertEqual(self.run_command(apply=True), 1)

@@ -67,7 +67,7 @@ def validate_tmx(data: bytes, target_language: str) -> tuple[str, int]:
 
 
 def prepare_reference(output_dir: Path) -> tuple[str, list[TMXDocument]]:
-    """Generate and validate both reference files from the latest official release."""
+    """Generate and validate all reference files from the latest official release."""
     # Always generate latest.release; a stale local file is never a fallback.
     java_reference.generate_reference(output_dir)
     documents = []
@@ -79,7 +79,7 @@ def prepare_reference(output_dir: Path) -> tuple[str, list[TMXDocument]]:
         versions.add(version)
         documents.append(TMXDocument(locale[:2] + "_" + locale[3:].upper(), path, data, entries))
     if len(versions) != 1:
-        raise ValueError("The two TMX files refer to different Java releases")
+        raise ValueError("The TMX files refer to different Java releases")
     return versions.pop(), documents
 
 
@@ -157,7 +157,7 @@ def print_status(cleared: str, imports: dict[str, str]) -> None:
 
 
 def sync_reference(output_dir: Path, project_id: int, token: str, apply: bool = False) -> None:
-    """Preview the reference sync or explicitly replace the TM with both languages."""
+    """Preview the reference sync or explicitly replace the TM with all languages."""
     version, documents = prepare_reference(output_dir)
     with requests.Session() as session:
         session.headers.update({"Authorization": f"Bearer {token}"})
@@ -221,7 +221,7 @@ def sync_reference(output_dir: Path, project_id: int, token: str, apply: bool = 
                     file=sys.stderr,
                 )
             print(
-                "Check pending imports in Crowdin before retrying. Restore both saved TMX files "
+                "Check pending imports in Crowdin before retrying. Restore all saved TMX files "
                 "manually after clearing this reference TM, or rerun this command with --apply "
                 "once no import is running. A retry generates the latest release and replaces "
                 "the whole reference TM again; there is no automatic rollback.",
@@ -229,7 +229,7 @@ def sync_reference(output_dir: Path, project_id: int, token: str, apply: bool = 
             )
             raise
         print_status(cleared, imports)
-        print("Sync successful: both language imports finished.")
+        print("Sync successful: all language imports finished.")
 
 
 def main(argv: list[str] | None = None) -> int:

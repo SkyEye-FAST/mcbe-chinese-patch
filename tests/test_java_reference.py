@@ -87,7 +87,7 @@ class JavaReferenceTests(unittest.TestCase):
             return {"url": url, "sha1": hashlib.sha1(data).hexdigest()}
 
         objects = {}
-        for locale, translation in (("zh_cn", "石头"), ("zh_tw", "石頭")):
+        for locale, translation in (("zh_cn", "石头"), ("zh_tw", "石頭"), ("zh_hk", "石頭")):
             data = json.dumps({"key": translation}).encode()
             digest = hashlib.sha1(data).hexdigest()
             add_resource(f"{reference.ASSET_BASE_URL}/{digest[:2]}/{digest}", data)
@@ -118,7 +118,12 @@ class JavaReferenceTests(unittest.TestCase):
             self.assertEqual(version, "test-release")
             self.assertEqual(
                 languages,
-                {"en_us": {"key": "Stone"}, "zh_cn": {"key": "石头"}, "zh_tw": {"key": "石頭"}},
+                {
+                    "en_us": {"key": "Stone"},
+                    "zh_cn": {"key": "石头"},
+                    "zh_tw": {"key": "石頭"},
+                    "zh_hk": {"key": "石頭"},
+                },
             )
             self.assertEqual(reference.fetch_languages("test-release"), (version, languages))
             with self.assertRaisesRegex(ValueError, "Not an official"):
@@ -152,7 +157,12 @@ class JavaReferenceTests(unittest.TestCase):
 
     def test_generation_keeps_targets_separate_and_does_not_publish_empty_target(self):
         """Publish separate targets only when both contain translations."""
-        languages = {"en_us": {"key": "Stone"}, "zh_cn": {"key": "石头"}, "zh_tw": {"key": "石頭"}}
+        languages = {
+            "en_us": {"key": "Stone"},
+            "zh_cn": {"key": "石头"},
+            "zh_tw": {"key": "石頭"},
+            "zh_hk": {"key": "石頭"},
+        }
         with (
             TemporaryDirectory() as directory,
             patch.object(reference, "fetch_languages", return_value=("test-release", languages)),

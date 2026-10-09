@@ -113,7 +113,7 @@ uv run python -m unittest discover -s tests -v
 
 ### Java Edition Reference Translation Memory
 
-Generate both reference TMs with one command:
+Generate all three reference TMs with one command:
 
 ``` bash
 uv run python scripts/java_reference.py
@@ -121,12 +121,12 @@ uv run python scripts/java_reference.py
 
 The script reads Mojang's [official version manifest](https://piston-meta.mojang.com/mc/game/version_manifest_v2.json)
 and selects `latest.release`, never a snapshot. It gets `en_us.json` from the
-official client JAR and `zh_cn.json` / `zh_tw.json` from the release's asset index
+official client JAR and `zh_cn.json` / `zh_tw.json` / `zh_hk.json` from the release's asset index
 and Mojang's asset server. Downloads are checked against Mojang's SHA-1 hashes.
 Raw resources are read in memory and are not saved or committed.
 
-The ignored `java-reference/` directory contains `java-en-zh_cn.tmx` and
-`java-en-zh_tw.tmx`. To reproduce a particular release or choose another output
+The ignored `java-reference/` directory contains `java-en-zh_cn.tmx`,
+`java-en-zh_tw.tmx`, and `java-en-zh_hk.tmx`. To reproduce a particular release or choose another output
 directory, run:
 
 ``` bash
@@ -141,17 +141,17 @@ Missing or empty segments are skipped and counted; missing language files or
 targets with no translated segments fail generation. Text, whitespace, and
 placeholders are preserved. Entries sort by exact English text and then Chinese
 text, with no timestamps; the same release resources produce identical TMX bytes.
-`zh_CN` and `zh_TW` remain separate targets, represented by standard `zh-CN` and
-`zh-TW` TMX language tags; there is no script conversion.
+`zh_CN`, `zh_TW`, and `zh_HK` remain separate targets, represented by standard
+`zh-CN`, `zh-TW`, and `zh-HK` TMX language tags; there is no script conversion.
 
 To use these files in Crowdin, follow the [Translation Memory documentation](https://support.crowdin.com/translation-memory/):
 
 1. From the project owner's profile, open **TM > Create TM**, name it
    **Minecraft Java Edition Reference**, select English as the default display
    language, and assign it to this project.
-2. Open that TM's **View Records > Upload** and upload both generated TMX files.
-   Check that the segments appear under English, Chinese Simplified, and Chinese
-   Traditional and that alternative translations remain available.
+2. Open that TM's **View Records > Upload** and upload all three generated TMX files.
+   Check the English, Simplified Chinese, Taiwan Traditional Chinese, and Hong Kong
+   Traditional Chinese segments and that alternative translations remain available.
 3. Keep the project's existing default TM. This additional TM is for reference
    suggestions only; do not enable automatic translation or apply it through
    auto-translation. Use the manual sync below for updates; importing without
@@ -159,7 +159,7 @@ To use these files in Crowdin, follow the [Translation Memory documentation](htt
 
 This command does not access Crowdin, modify `sources/*.tsv` Context or the
 source/translation file layout, or participate in resource pack builds. It does
-not change any translation and has no Crowdin AI or DeepSeek integration.
+not change any translation or invoke AI inference.
 
 #### Manual Crowdin TM Sync
 
@@ -169,18 +169,18 @@ and TM read/write and storage upload permissions. Do not commit credentials or T
 IDs. Create the separate **Minecraft Java Edition Reference** TM first.
 
 ``` bash
-# Default dry-run: generate/validate both TMX files, find the TM, and show counts.
+# Default dry-run: generate/validate all TMX files, find the TM, and show counts.
 uv run python scripts/sync_java_reference.py
 
-# Explicitly clear the reference TM and import both current-release TMX files.
+# Explicitly clear the reference TM and import all current-release TMX files.
 uv run python scripts/sync_java_reference.py --apply
 ```
 
 The command uses [Crowdin API v2](https://support.crowdin.com/developer/api/v2/),
 matches the TM name exactly, and rejects duplicate names or any project default
-TM. Both complete files are validated before any remote modification. `--apply`
+TM. All complete files are validated before any remote modification. `--apply`
 fully replaces the reference TM: clear, upload/import Simplified Chinese and wait
-for completion, then upload/import Traditional Chinese and wait. Only both
+for completion, then upload/import Taiwan and Hong Kong Traditional Chinese and wait. Only all
 finished imports count as success. Run one sync at a time.
 
 Failures exit nonzero. A failure after a clear request may leave the TM empty or
