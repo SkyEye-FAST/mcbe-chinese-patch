@@ -2189,6 +2189,8 @@ zh_TW: 千萬不要打開任何可疑人士給的網址！"	""
 "chat.logging.warning.messageFiltered"	"WARNING! Message was filtered - Original Message: %s"	"Original Translation
 zh_CN: 警告！消息已被过滤 - 原始消息：%s
 zh_TW: 警告！訊息遭篩選 - 原始訊息：%s"	""
+"chat.managedChat.signInRequired"	"You need to be signed in to a Microsoft account to chat in this world."	"Original Translation"	""
+"chat.managedChat.unverified"	"(unverified)"	"Original Translation"	""
 "chat.mentions.autocomplete.allPlayers"	"mention all players"	"Original Translation
 zh_CN: 全部玩家选项
 zh_TW: 提及全部玩家"	""
@@ -3902,15 +3904,9 @@ zh_TW: 最近的 %1$s 位於 %2$s、%3$s、%4$s (距離 %5 個方塊)"	""
 "commands.locate.description"	"Displays the coordinates for the closest structure or biome of a given type."	"Original Translation
 zh_CN: 显示距离最近的给定类型的建筑或生物群系位置。
 zh_TW: 顯示距離最近的特定類型結構或生態域座標。"	""
-"commands.locate.poi.noplayer"	"The command can only be used by a valid player"	"Original Translation
-zh_CN: 命令只能由有效玩家使用
-zh_TW: 此指令僅能由有效玩家使用"	""
-"commands.locate.poi.not_found"	"Could not find a point of interest of type ""%s"" within reasonable distance"	"Original Translation
-zh_CN: 在合理距离内找不到“%s”类型的兴趣点
-zh_TW: 無法在合理距離內找到類型為「%s」的興趣點"	""
-"commands.locate.poi.success"	"The nearest %1$s is at %2$s %3$s %4$s (%5 blocks away)"	"Original Translation
-zh_CN: 最近的 %1$s 位于 %2$s %3$s %4$s（%5 个方块外）
-zh_TW: 最近的 %1$s 位於 %2$s %3$s %4$s (距離 %5 個方塊)"	""
+"commands.locate.poi.noplayer"	"The command can only be used by a valid player"	"Original Translation"	""
+"commands.locate.poi.not_found"	"Could not find a point of interest of type ""%s"" within reasonable distance"	"Original Translation"	""
+"commands.locate.poi.success"	"The nearest %1$s is at %2$s %3$s %4$s (%5 blocks away)"	"Original Translation"	""
 "commands.locate.structure.fail.noplayer"	"The command can only be used by a valid player"	"Original Translation
 zh_CN: 命令只能由有效玩家使用
 zh_TW: 此指令限由有效玩家使用"	""
@@ -5756,6 +5752,8 @@ zh_TW: 選擇欄位"	""
 "controller.buttonTip.selectRecipe"	"Select Recipe"	"Original Translation
 zh_CN: 选择配方
 zh_TW: 選擇配方"	""
+"controller.buttonTip.split.decrease"	"Decrease Amount"	"Original Translation"	""
+"controller.buttonTip.split.increase"	"Increase Amount"	"Original Translation"	""
 "controller.buttonTip.swap"	"Swap"	"Original Translation
 zh_CN: 交换
 zh_TW: 交換"	""
@@ -6524,6 +6522,12 @@ zh_TW: 測試版 API"	""
 "createWorldScreen.experimentalGameTestDescription"	"Use ""-beta"" versions of API modules in add-on packs"	"Original Translation
 zh_CN: 在附加内容包中使用 API 模块的“测试版”
 zh_TW: 在附加內容套件中使用 API 模組的「測試版」"	""
+"createWorldScreen.experimentalNetherSpawningBalance"	"Nether Spawning Rebalancing"	"Original Translation
+zh_CN: 下界生物生成再平衡
+zh_TW: 地獄生物生成重平衡"	""
+"createWorldScreen.experimentalNetherSpawningBalanceDescription"	"Adjusts Nether mob density and fortress spawning to more closely resemble Java Edition"	"Original Translation
+zh_CN: 调整下界生物密度和堡垒生成，更加接近 Java 版
+zh_TW: 調整地獄生物密度和堡壘生成，使其更接近 Java 版"	""
 "createWorldScreen.experimentalPoi"	"Points of Interest (POI)"	"Original Translation
 zh_CN: 兴趣点（POI）
 zh_TW: 地標 (POI)"	""
@@ -6542,8 +6546,6 @@ zh_TW: 實驗性體素形狀功能"	""
 "createWorldScreen.experimentalVoxelShapeFeaturesDescription"	"Enables the use of voxel shapes for some vanilla and custom blocks"	"Original Translation
 zh_CN: 允许将体素形状功能应用于部分原版及自定义方块
 zh_TW: 啟用部分原版與自訂方塊的體素形狀功能"	""
-"createWorldScreen.experimentalY2026Drop4"	"Drop 4 of 2026"	"Original Translation"	""
-"createWorldScreen.experimentalY2026Drop4Description"	"Venture into a frozen new cave and brave its icy hazards"	"Original Translation"	""
 "createWorldScreen.experimentalgameplay"	"Experiments"	"Original Translation
 zh_CN: 实验性游戏内容
 zh_TW: 實驗性內容"	""
@@ -7576,7 +7578,7 @@ zh_TW: 地獄"	""
 "dimension.dimensionName2"	"The End"	"Original Translation
 zh_CN: 末地
 zh_TW: 終界"	""
-"disabledSkin.body.dressingRoom"	"This server has %s disabled. Are you sure want to keep this skin equipped?"	"Original Translation
+"disabledSkin.body.dressingRoom"	"This server has %s disabled. Are you sure you want to keep this skin equipped?"	"Original Translation
 zh_CN: 此服务器已禁用%s。确定要继续穿戴这款皮肤吗？
 zh_TW: 此伺服器已停用 %s。您確定要繼續裝備這個外觀嗎？"	""
 "disabledSkin.body.onJoin"	"This server has %s disabled. You can switch to a different skin in the dressing room."	"Original Translation
@@ -7843,7 +7845,7 @@ zh_TW: 這個世界目前處於編輯器模式，無法載入。"	""
 "disconnectionScreen.editor.mismatchVanillaToEditor"	"The server is in Editor Mode. Failed to connect."	"Original Translation
 zh_CN: 服务器处于编辑器模式。连接失败。
 zh_TW: 伺服器處於編輯器模式，連線失敗。"	""
-"disconnectionScreen.editor.mismatchVanillaWorld"	"This world is a not in Editor Mode. It cannot be loaded."	"Original Translation
+"disconnectionScreen.editor.mismatchVanillaWorld"	"This world is not in Editor Mode. It cannot be loaded."	"Original Translation
 zh_CN: 此世界未处于编辑器模式。无法加载。
 zh_TW: 這個世界未處於編輯器模式，無法載入。"	""
 "disconnectionScreen.editor.notAllowed"	"You aren't allowed to join this server as an Editor."	"Original Translation
@@ -8221,7 +8223,7 @@ zh_TW: 角色基底"	""
 "dr.accessibility.persona_top"	"Character Top"	"Original Translation
 zh_CN: 角色上衣
 zh_TW: 角色上衣"	""
-"dr.accessibility.purchaseable"	"Purchaseable"	"Original Translation
+"dr.accessibility.purchaseable"	"Purchasable"	"Original Translation
 zh_CN: 可购买
 zh_TW: 可購買"	""
 "dr.accessibility.redeemable"	"Redeemable"	"Original Translation
@@ -9166,7 +9168,7 @@ zh_TW: 「軌道」包含與太陽和月亮相關的屬性。"	""
 "editor.agfx.lighting.directionalLights.tooltip"	"The Directional Lights is where you configure the properties of the celestial bodies in Minecraft. Directional Lights are split into 2 sections: Orbital and Flash."	"Original Translation
 zh_CN: 方向性光源可用于配置 Minecraft 中天体的属性。方向性光源分为 2 个部分：轨道和闪烁。
 zh_TW: 「定向光源」是您設定 Minecraft 中天體屬性的地方。定向光源分為兩部分：軌道和閃光。"	""
-"editor.agfx.lighting.emissive.tooltip"	"Emissive allows for control over the desaturation of emissve light sources."	"Original Translation
+"editor.agfx.lighting.emissive.tooltip"	"Emissive allows for control over the desaturation of emissive light sources."	"Original Translation
 zh_CN: 自发光允许控制自发光光源的去饱和度。
 zh_TW: 「自發光」允許控制自發光源的去飽和度。"	""
 "editor.agfx.lighting.sky.tooltip"	"Sky allows for control of properties of the sky's contribution as a light source."	"Original Translation
@@ -9625,13 +9627,27 @@ zh_TW: 自訂網格工具"	""
 "editor.introduction.customMesh.title"	"Custom Mesh Tool"	"Original Translation
 zh_CN: 自定义网格工具
 zh_TW: 自訂網格工具"	""
-"editor.introduction.layouts.tab1.content"	"%s A Layout is a re-usable arrangement of Structures that can be repeated all over your world.%s Layouts exist only in the Editor until you bake them into the world.%s You can edit a Layout and every unbaked instance will receive those edits."	"Original Translation"	""
-"editor.introduction.layouts.tab1.title"	"Overview"	"Original Translation"	""
-"editor.introduction.layouts.tab2.content"	"%s Once you've made some Structures, create a new Layout or open an existing one from the Layouts Management panel. You can get there from the Layouts tool.%s Add Structures using the dropdown menu in the Layout Editor. Position them with the cursor, then click to place.%s Click on a placed Structure to edit its placement, mirror it, delete it from the Layout, or change which Structure is in that position."	"Original Translation"	""
-"editor.introduction.layouts.tab2.title"	"Creating/Editing Layouts"	"Original Translation"	""
-"editor.introduction.layouts.tab3.content"	"%s In %s Place mode, choose a Layout from the dropdown menu and click in the world to place it. If you're going to place a bunch of them, use Continuous Placement mode. Mirror or rotate an instance after it's placed.%s Layouts do not really exist in the world until they're ""Baked,"" which puts blocks into the world and breaks that instance's connection to the Layout.%sTo bake an instance, select it in %s Edit mode and hit the Bake button. They'll all get baked when you Export your world.%sUntil a Layout instance is baked, it will receive all updates made to the original Layout and the Structures used in it. You can also rotate or mirror the Structures in an individual Layout instance to add some variety."	"Original Translation"	""
-"editor.introduction.layouts.tab3.title"	"Using Layouts"	"Original Translation"	""
-"editor.introduction.layouts.title"	"Layouts Tool"	"Original Translation"	""
+"editor.introduction.layouts.tab1.content"	"%s A Layout is a re-usable arrangement of Structures that can be repeated all over your world.%s Layouts exist only in the Editor until you bake them into the world.%s You can edit a Layout and every unbaked instance will receive those edits."	"Original Translation
+zh_CN: %s 布局是一种可重复使用的结构排列，可以在你的世界中重复使用。%s 布局仅存在于编辑器中，直到你将其烘焙到世界中。%s 你可以编辑布局，所有未烘焙的实例都会收到这些编辑。
+zh_TW: %s佈局是可重複使用的結構排列，可在世界各處重複放置。%s佈局只存在於編輯器中，直到你將其烘焙到世界中。%s你可以編輯佈局，所有尚未烘焙的執行個體都會套用這些變更。"	""
+"editor.introduction.layouts.tab1.title"	"Overview"	"Original Translation
+zh_CN: 概览
+zh_TW: 概觀"	""
+"editor.introduction.layouts.tab2.content"	"%s Once you've made some Structures, create a new Layout or open an existing one from the Layouts Management panel. You can get there from the Layouts tool.%s Add Structures using the dropdown menu in the Layout Editor. Position them with the cursor, then click to place.%s Click on a placed Structure to edit its placement, mirror it, delete it from the Layout, or change which Structure is in that position."	"Original Translation
+zh_CN: %s 创建好结构后，可以在布局管理面板中新建布局或打开已有布局。你可以通过布局工具进入该面板。%s 在布局编辑器中，使用下拉菜单添加结构。用光标定位后点击放置。%s 点击已放置的结构，可以编辑位置、镜像、从布局中删除，或更换该位置的结构。
+zh_TW: %s建立一些結構後，可在「佈局管理」面板中建立新佈局或開啟現有佈局。你可以從佈局工具前往該面板。%s在佈局編輯器中，使用下拉選單新增結構。用游標調整位置，再點擊以放置。%s點擊已放置的結構，即可編輯其位置、進行鏡像、從佈局中刪除，或變更該位置使用的結構。"	""
+"editor.introduction.layouts.tab2.title"	"Creating/Editing Layouts"	"Original Translation
+zh_CN: 创建 / 编辑布局
+zh_TW: 建立/編輯佈局"	""
+"editor.introduction.layouts.tab3.content"	"%s In %s Place mode, choose a Layout from the dropdown menu and click in the world to place it. If you're going to place a bunch of them, use Continuous Placement mode. Mirror or rotate an instance after it's placed.%s Layouts do not really exist in the world until they're ""Baked,"" which puts blocks into the world and breaks that instance's connection to the Layout.%sTo bake an instance, select it in %s Edit mode and hit the Bake button. They'll all get baked when you Export your world.%sUntil a Layout instance is baked, it will receive all updates made to the original Layout and the Structures used in it. You can also rotate or mirror the Structures in an individual Layout instance to add some variety."	"Original Translation
+zh_CN: %s 在 %s 放置模式下，从下拉菜单中选择一个布局，然后点击世界中的位置进行放置。如果你要放置许多布局，请使用连续放置模式。实例放置后可以镜像或旋转。%s 布局在被“烘焙”之前并不真正存在于世界中，烘焙会将方块放入世界，并断开该实例与布局的连接。%s要烘焙一个实例，请在 %s 编辑模式下选中它，然后点击烘焙按钮。导出世界时，所有实例都会被烘焙。%s在布局实例被烘焙之前，它会接收对原始布局及其所用结构所做的所有更新。你还可以旋转或镜像单个布局实例中的结构，以增加一些变化。
+zh_TW: %s在%s「放置」模式中，從下拉選單選擇佈局，然後在世界中點擊以放置。若要大量放置，請使用「連續放置」模式。放置後可將執行個體鏡像或旋轉。%s佈局在「烘焙」前並不真正存在於世界中。烘焙會將方塊放入世界，並中斷該執行個體與佈局的連結。%s若要烘焙執行個體，請在%s「編輯」模式中選取該執行個體，然後按下「烘焙」按鈕。匯出世界時，所有執行個體都會烘焙。%s在佈局執行個體烘焙前，會套用對原始佈局及其中結構所做的所有更新。你也可以旋轉或鏡像個別佈局執行個體中的結構，增添變化。"	""
+"editor.introduction.layouts.tab3.title"	"Using Layouts"	"Original Translation
+zh_CN: 使用布局
+zh_TW: 使用佈局"	""
+"editor.introduction.layouts.title"	"Layouts Tool"	"Original Translation
+zh_CN: 布局工具
+zh_TW: 佈局工具"	""
 "editor.introduction.title"	"Introduction"	"Original Translation
 zh_CN: 简介
 zh_TW: 簡介"	""
@@ -9648,8 +9664,8 @@ zh_TW: 烘焙完成"	""
 zh_CN: 布局实例属性
 zh_TW: 佈局執行個體屬性"	""
 "editor.prefabInstanceEditor.infoPanel.picker.tooltip"	"Select and edit a Layout instance in the world."	"Original Translation
-zh_CN: 选择和修改现有布局实例的属性
-zh_TW: 選取並修改現有佈局執行個體的屬性"	""
+zh_CN: 在世界中选择并编辑布局实例。
+zh_TW: 在世界中選取並編輯佈局執行個體。"	""
 "editor.prefabInstanceEditor.infoPanel.placer.title"	"Layout Instance Placer"	"Original Translation
 zh_CN: 布局实例放置器
 zh_TW: 佈局執行個體放置器"	""
@@ -9708,8 +9724,8 @@ zh_TW: 無"	""
 zh_CN: 旋转
 zh_TW: 旋轉"	""
 "editor.prefabInstanceEditor.rotation.tooltip"	"Rotation of the selected Layout Instance."	"Original Translation
-zh_CN: 允许结构项在 Y 轴上以 90 度的增量旋转
-zh_TW: 允許結構物件以 90 度為單位，沿 Y 軸旋轉"	""
+zh_CN: 选中布局实例的旋转。
+zh_TW: 旋轉所選的佈局執行個體。"	""
 "editor.prefabInstanceEditor.templatePicker.button.cancel"	"Cancel"	"Original Translation
 zh_CN: 取消
 zh_TW: 取消"	""
@@ -9756,20 +9772,20 @@ zh_TW: 模式"	""
 zh_CN: 选择放置布局实例时的快速操作模式。
 zh_TW: 選取放置佈局執行個體時，快速動作的模式。"	""
 "editor.prefabInstanceEditor.templatePicker.tool.quickAction.pickMode"	"Edit Mode"	"Original Translation
-zh_CN: 选取模式
-zh_TW: 選取模式"	""
+zh_CN: 编辑模式
+zh_TW: 編輯模式"	""
 "editor.prefabInstanceEditor.templatePicker.tool.quickAction.pickMode.tooltip"	"Select and edit a Layout instance in the world."	"Original Translation
-zh_CN: 允许你在世界中挑选一个实例来编辑其属性。
-zh_TW: 讓您可以在世界中選取執行個體來編輯其屬性。"	""
+zh_CN: 在世界中选择并编辑布局实例。
+zh_TW: 在世界中選取並編輯佈局執行個體。"	""
 "editor.prefabInstanceEditor.templatePicker.tool.quickAction.placeMode"	"Place Mode"	"Original Translation
 zh_CN: 放置模式
 zh_TW: 放置模式"	""
 "editor.prefabInstanceEditor.templatePicker.tool.quickAction.placeMode.tooltip"	"Place one or more Layout instances in the world."	"Original Translation
-zh_CN: 允许你将当前模板的实例放置到地图中。
-zh_TW: 讓您可以將目前範本的執行個體放置到地圖中。"	""
+zh_CN: 在世界中放置一个或多个布局实例。
+zh_TW: 在世界中放置一個或多個佈局執行個體。"	""
 "editor.prefabInstanceEditor.templatePicker.tool.rootPane"	"Template Instance Editor"	"Original Translation
-zh_CN: 布局实例编辑器
-zh_TW: 佈局執行個體編輯器"	""
+zh_CN: 模板实例编辑器
+zh_TW: 範本執行個體編輯器"	""
 "editor.prefabInstanceEditor.templatePicker.tool.title"	"Layout Instance Editor"	"Original Translation
 zh_CN: 布局实例编辑器
 zh_TW: 佈局執行個體編輯器"	""
@@ -9782,16 +9798,24 @@ zh_TW: 選取佈局範本"	""
 "editor.prefabInstanceEditor.templatePicker.window.title"	"Layout Template Picker"	"Original Translation
 zh_CN: 布局模板选取器
 zh_TW: 佈局範本選擇器"	""
-"editor.prefabLayout.keyBinding.activateLayouts.title"	"Layouts"	"Original Translation"	""
-"editor.prefabLayout.keyBinding.activateLayouts.tooltip"	"Activate the Layouts tool."	"Original Translation"	""
-"editor.prefabLayout.keyBinding.openLayoutsManagement.title"	"Layouts Management"	"Original Translation"	""
-"editor.prefabLayout.keyBinding.openLayoutsManagement.tooltip"	"Activate the Layouts Management panel."	"Original Translation"	""
+"editor.prefabLayout.keyBinding.activateLayouts.title"	"Layouts"	"Original Translation
+zh_CN: 布局
+zh_TW: 佈局"	""
+"editor.prefabLayout.keyBinding.activateLayouts.tooltip"	"Activate the Layouts tool."	"Original Translation
+zh_CN: 激活布局工具。
+zh_TW: 啟用佈局工具。"	""
+"editor.prefabLayout.keyBinding.openLayoutsManagement.title"	"Layouts Management"	"Original Translation
+zh_CN: 布局管理
+zh_TW: 佈局管理"	""
+"editor.prefabLayout.keyBinding.openLayoutsManagement.tooltip"	"Activate the Layouts Management panel."	"Original Translation
+zh_CN: 激活布局管理面板。
+zh_TW: 啟用佈局管理面板。"	""
 "editor.prefabLayoutEditor.actionBar.title"	"Layouts Management"	"Original Translation
 zh_CN: 布局管理
 zh_TW: 佈局管理"	""
-"editor.prefabLayoutEditor.actionBar.tooltip"	"Opens the Layouts Management Panel to create new Layouts, and view and edit existing Layouts"	"Original Translation
-zh_CN: 布局模板管理器
-zh_TW: 佈局範本管理器"	""
+"editor.prefabLayoutEditor.actionBar.tooltip"	"Opens the Layouts Management Panel to create new Layouts, and view and edit existing Layouts."	"Original Translation
+zh_CN: 打开布局管理面板，可创建新布局，查看和编辑现有布局
+zh_TW: 開啟佈局管理面板，可建立新的佈局，並檢視與編輯現有佈局"	""
 "editor.prefabLayoutEditor.keyBinding.deselectStructure.title"	"Deselect Structure"	"Original Translation
 zh_CN: 取消选择结构
 zh_TW: 取消選取結構"	""
@@ -9801,11 +9825,15 @@ zh_TW: 取消選取目前選取的結構"	""
 "editor.prefabLayoutEditor.pane.addedStructuresPane.addButtonTitle"	"Add"	"Original Translation
 zh_CN: 添加
 zh_TW: 新增"	""
-"editor.prefabLayoutEditor.pane.addedStructuresPane.addButtonTooltip"	"Add selected Structure to the Layout."	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.addedStructuresPane.addButtonTooltip"	"Add selected Structure to the Layout."	"Original Translation
+zh_CN: 将选中的结构添加到布局中。
+zh_TW: 將選取的結構新增至佈局中。"	""
 "editor.prefabLayoutEditor.pane.addedStructuresPane.title"	"Structures"	"Original Translation
 zh_CN: 结构
 zh_TW: 結構"	""
-"editor.prefabLayoutEditor.pane.addedStructuresPane.tooltip"	"List of Structures that are in this Layout."	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.addedStructuresPane.tooltip"	"List of Structures that are in this Layout."	"Original Translation
+zh_CN: 当前布局中包含的结构列表。
+zh_TW: 此佈局中包含的結構清單。"	""
 "editor.prefabLayoutEditor.pane.alignAction.bottomLabel"	"Bottom"	"Original Translation
 zh_CN: 底部
 zh_TW: 底部"	""
@@ -9834,27 +9862,36 @@ zh_TW: 頂部對齊操作"	""
 zh_CN: 取消
 zh_TW: 取消"	""
 "editor.prefabLayoutEditor.pane.layoutManager.copyToClipboard"	"Copy to Clipboard"	"Original Translation
-zh_CN: 将内容复制到剪贴板
-zh_TW: 將內容複製到剪貼簿"	""
-"editor.prefabLayoutEditor.pane.layoutManager.copyToClipboard.tooltip"	"Copy the contents of the Layout to the Clipboard and switch to Paste Preview."	"Original Translation"	""
+zh_CN: 复制到剪贴板
+zh_TW: 複製到剪貼簿"	""
+"editor.prefabLayoutEditor.pane.layoutManager.copyToClipboard.tooltip"	"Copy the contents of the Layout to the Clipboard and switch to Paste Preview."	"Original Translation
+zh_CN: 将布局内容复制到剪贴板，并切换至粘贴预览。
+zh_TW: 將佈局內容複製到剪貼簿，並切換到貼上預覽。"	""
 "editor.prefabLayoutEditor.pane.layoutManager.editLayout"	"Edit Layout"	"Original Translation
 zh_CN: 编辑布局
 zh_TW: 編輯佈局"	""
-"editor.prefabLayoutEditor.pane.layoutManager.editLayout.tooltip"	"Open the Layout Editor environment to update the Layout."	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.editLayout.tooltip"	"Open the Layout Editor environment to update the Layout."	"Original Translation
+zh_CN: 打开布局编辑器环境以更新布局。
+zh_TW: 開啟佈局編輯器環境以更新佈局。"	""
 "editor.prefabLayoutEditor.pane.layoutManager.emptyLayout"	"Empty Layout!"	"Original Translation
 zh_CN: 布局为空！
 zh_TW: 佈局為空！"	""
 "editor.prefabLayoutEditor.pane.layoutManager.emptyLayoutMessage"	"This layout is empty. Empty Layouts cannot be saved. [~*newLine~]Exiting the Layout Editor will delete this new Layout."	"Original Translation
-zh_CN: 此布局为空，空布局无法进行保存！[~*newLine~]若想继续退出布局编辑器，必须删除这个新布局。
-zh_TW: 此佈局是空的。空佈局無法儲存！[~*newLine~] 若要繼續離開佈局編輯器，必須選擇刪除這個新佈局。"	""
+zh_CN: 此布局为空。空布局无法保存。[~*newLine~]退出布局编辑器将会删除该新布局。
+zh_TW: 此佈局為空。空白佈局無法儲存。[~*newLine~]離開佈局編輯器將會刪除此新佈局。"	""
 "editor.prefabLayoutEditor.pane.layoutManager.exitLayoutEditor"	"Exit Layout Editor"	"Original Translation
 zh_CN: 退出布局编辑器
 zh_TW: 離開佈局編輯器"	""
-"editor.prefabLayoutEditor.pane.layoutManager.exitLayoutEditor.tooltip"	"Exit the Layout Editor environment and return to world editing."	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.exitLayoutEditor.tooltip"	"Exit the Layout Editor environment and return to world editing."	"Original Translation
+zh_CN: 退出布局编辑器环境，返回世界编辑模式。
+zh_TW: 離開佈局編輯器環境並返回世界編輯。"	""
+"editor.prefabLayoutEditor.pane.layoutManager.filterTooltip"	"Use text to filter existing Layouts."	"Original Translation"	""
 "editor.prefabLayoutEditor.pane.layoutManager.instances"	"Instances"	"Original Translation
 zh_CN: 实例
 zh_TW: 執行個體"	""
-"editor.prefabLayoutEditor.pane.layoutManager.instances.tooltip"	"A list of Layout Instances placed in the world.  Selecting an instance positions the camera to ensure that instance is in the center of the viewport."	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.instances.tooltip"	"A list of Layout Instances placed in the world.  Selecting an instance positions the camera to ensure that instance is in the center of the viewport."	"Original Translation
+zh_CN: 显示在世界中已放置的布局实例列表。选择某个实例后，摄像机会自动定位到该实例的视窗中心。
+zh_TW: 在世界中放置的佈局執行個體清單。選取執行個體時，相機會移動，確保該執行個體位於視窗中央。"	""
 "editor.prefabLayoutEditor.pane.layoutManager.instancesPlaced"	"Instances placed"	"Original Translation
 zh_CN: 已放置的实例
 zh_TW: 放置的執行個體數量"	""
@@ -9865,40 +9902,50 @@ zh_TW: 名稱"	""
 zh_CN: 布局的可编辑显示名称
 zh_TW: 可編輯的佈局顯示名稱"	""
 "editor.prefabLayoutEditor.pane.layoutManager.new"	"New"	"Original Translation
-zh_CN: New
-zh_TW: New"	""
+zh_CN: 新
+zh_TW: 新"	""
 "editor.prefabLayoutEditor.pane.layoutManager.newLayout"	"New Layout"	"Original Translation
 zh_CN: 新建布局
 zh_TW: 新佈局"	""
-"editor.prefabLayoutEditor.pane.layoutManager.newLayout.tooltip"	"Create a New Layout and open it in the Layout Editor environment."	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.newLayout.tooltip"	"Create a New Layout and open it in the Layout Editor environment."	"Original Translation
+zh_CN: 创建新布局并在布局编辑器环境中打开。
+zh_TW: 建立新佈局，並在佈局編輯器環境中開啟。"	""
 "editor.prefabLayoutEditor.pane.layoutManager.noLayoutsMessage"	"Layouts contain one or more Structures.[~*newLine~]Once created, instances can be placed in the world which will automatically update when the instanced Layout or the contained Structures are changed."	"Original Translation
 zh_CN: 布局包含一个或多个结构。[~*newLine~]创建后，实例可以放置到世界中。当实例对应的布局或其中包含的结构发生变更时，这些实例会自动更新。
 zh_TW: 佈局包含一個或多個結構。[~*newLine~] 建立後，可以在世界中放置執行個體，當佈局或其中結構變更時，這些執行個體會自動更新。"	""
-"editor.prefabLayoutEditor.pane.layoutManager.openStructurePanel.title"	"Open Structures panel"	"Original Translation"	""
-"editor.prefabLayoutEditor.pane.layoutManager.openStructurePanel.tooltip"	"Opens the Structures panel if it is not already open."	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.openStructurePanel.title"	"Open Structures panel"	"Original Translation
+zh_CN: 打开结构面板
+zh_TW: 開啟結構面板"	""
+"editor.prefabLayoutEditor.pane.layoutManager.openStructurePanel.tooltip"	"Opens the Structures panel if it is not already open."	"Original Translation
+zh_CN: 如果结构面板尚未打开，则打开结构面板。
+zh_TW: 若結構面板尚未開啟，則開啟該面板。"	""
 "editor.prefabLayoutEditor.pane.layoutManager.setTarget"	"Set this Layout as the Layout for placement in the Layouts tool and switch to the Layouts tool for Place mode."	"Original Translation
-zh_CN: Set this layout as a target for placement in Layouts tool
-zh_TW: Set this layout as a target for placement in Layouts tool"	""
+zh_CN: 将此布局设为布局工具中的放置布局，并切换到布局工具的放置模式。
+zh_TW: 將此佈局設為佈局工具中要放置的佈局，並切換到佈局工具的「放置」模式。"	""
 "editor.prefabLayoutEditor.pane.layoutManager.size"	"Size"	"Original Translation
 zh_CN: 大小
 zh_TW: 大小"	""
 "editor.prefabLayoutEditor.pane.layoutManager.sizeTooltip"	"The size of the Layout defined by the Structures placed within."	"Original Translation
-zh_CN: 当前布局中所有结构的整体大小
-zh_TW: 佈局內所有結構的總大小"	""
+zh_CN: 布局的尺寸由所放置的结构决定。
+zh_TW: 佈局的大小取決於放置其中的結構。"	""
 "editor.prefabLayoutEditor.pane.layoutManager.tags"	"Tags"	"Original Translation
 zh_CN: 标签
 zh_TW: 標籤"	""
 "editor.prefabLayoutEditor.pane.layoutManager.title"	"Layouts Management"	"Original Translation
 zh_CN: 布局管理
 zh_TW: 佈局管理"	""
-"editor.prefabLayoutEditor.pane.layoutManager.tooltip"	"List of all created Layouts."	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.layoutManager.tooltip"	"List of all created Layouts."	"Original Translation
+zh_CN: 显示所有已创建布局的列表。
+zh_TW: 所有已建立佈局的清單。"	""
 "editor.prefabLayoutEditor.pane.openLayoutsManagement.title"	"Open Layouts Management"	"Original Translation
 zh_CN: 打开布局管理
 zh_TW: 開啟佈局管理"	""
-"editor.prefabLayoutEditor.pane.openLayoutsManagement.tooltip"	"Opens the Layout Management panel if it is not already open."	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.openLayoutsManagement.tooltip"	"Opens the Layout Management panel if it is not already open."	"Original Translation
+zh_CN: 如果布局管理面板尚未打开，则打开该面板。
+zh_TW: 若佈局管理面板尚未開啟，則會開啟該面板。"	""
 "editor.prefabLayoutEditor.pane.registryDeletion.confirmation"	"Are you sure you want to delete the selected Layout(s)?[~*newLine~]This cannot be undone."	"Original Translation
-zh_CN: Are you sure you want to delete the selected Layout(s)?[~*newLine~]This cannot be undone.
-zh_TW: Are you sure you want to delete the selected Layout(s)?[~*newLine~]This cannot be undone."	""
+zh_CN: 确定要删除选中的布局吗？[~*newLine~]此操作无法撤销。
+zh_TW: 確定要刪除所選的佈局嗎？[~*newLine~]此動作無法復原。"	""
 "editor.prefabLayoutEditor.pane.registryDeletion.delete"	"Delete"	"Original Translation
 zh_CN: 删除
 zh_TW: 刪除"	""
@@ -9906,8 +9953,8 @@ zh_TW: 刪除"	""
 zh_CN: 删除实例
 zh_TW: 刪除執行個體"	""
 "editor.prefabLayoutEditor.pane.registryDeletion.deleteLayout"	"Delete Layout(s)"	"Original Translation
-zh_CN: Delete Layout(s)
-zh_TW: Delete Layout(s)"	""
+zh_CN: 删除布局
+zh_TW: 刪除佈局"	""
 "editor.prefabLayoutEditor.pane.registryDeletion.duplicate"	"Duplicate"	"Original Translation
 zh_CN: 复制
 zh_TW: 複製"	""
@@ -9915,14 +9962,14 @@ zh_TW: 複製"	""
 zh_CN: 编辑
 zh_TW: 編輯"	""
 "editor.prefabLayoutEditor.pane.registryDeletion.exitAndDeleteLayout"	"Delete and Exit"	"Original Translation
-zh_CN: 退出并删除
-zh_TW: 離開並刪除"	""
+zh_CN: 删除并退出
+zh_TW: 刪除並離開"	""
 "editor.prefabLayoutEditor.pane.root.title"	"Layout Editor"	"Original Translation
 zh_CN: 布局编辑器
 zh_TW: 佈局編輯器"	""
 "editor.prefabLayoutEditor.pane.root.tooltip"	"An environment and tool for creating and editing a Layout. All updates made to the Layout are saved as they occur."	"Original Translation
-zh_CN: 布局编辑器工具
-zh_TW: 佈局編輯器工具"	""
+zh_CN: 用于创建和编辑布局的环境与工具。对布局的所有更改会实时自动保存。
+zh_TW: 用於建立與編輯佈局的環境與工具。所有對佈局的更新都會即時儲存。"	""
 "editor.prefabLayoutEditor.pane.structure.blockReplacement"	"Block Replacement"	"Original Translation
 zh_CN: 方块替换
 zh_TW: 方塊替換"	""
@@ -9930,41 +9977,47 @@ zh_TW: 方塊替換"	""
 zh_CN: 全选
 zh_TW: 全部檢查"	""
 "editor.prefabLayoutEditor.pane.structure.mirrorX"	"Mirror X-axis"	"Original Translation
-zh_CN: 镜像 X
-zh_TW: 鏡像 X"	""
-"editor.prefabLayoutEditor.pane.structure.mirrorX.tooltip"	"Mirror this use of the Structure around the X-axis at the Structure origin point."	"Original Translation"	""
+zh_CN: 镜像（X 轴）
+zh_TW: 鏡像 (X 軸)"	""
+"editor.prefabLayoutEditor.pane.structure.mirrorX.tooltip"	"Mirror this use of the Structure around the X-axis at the Structure origin point."	"Original Translation
+zh_CN: 以结构原点为中心，将该结构在 X 轴方向进行镜像。
+zh_TW: 以結構原點為中心，沿 X 軸鏡像此結構。"	""
 "editor.prefabLayoutEditor.pane.structure.mirrorZ"	"Mirror Z-axis"	"Original Translation
-zh_CN: 镜像 Z
-zh_TW: 鏡像 Z"	""
-"editor.prefabLayoutEditor.pane.structure.mirrorZ.tooltip"	"Mirror this use of the Structure around the Z-axis at the Structure origin point."	"Original Translation"	""
+zh_CN: 镜像（Z 轴）
+zh_TW: 鏡像 (Z 軸)"	""
+"editor.prefabLayoutEditor.pane.structure.mirrorZ.tooltip"	"Mirror this use of the Structure around the Z-axis at the Structure origin point."	"Original Translation
+zh_CN: 以结构原点为中心，将该结构在 Z 轴方向进行镜像。
+zh_TW: 以結構原點為中心，沿 Z 軸鏡像此結構。"	""
 "editor.prefabLayoutEditor.pane.structure.none"	"NONE"	"Original Translation
 zh_CN: 无
 zh_TW: 無"	""
 "editor.prefabLayoutEditor.pane.structure.offset"	"Position"	"Original Translation
-zh_CN: 布局位置
-zh_TW: 佈局位置"	""
+zh_CN: 位置
+zh_TW: 位置"	""
 "editor.prefabLayoutEditor.pane.structure.offsetTooltip"	"Position of the Structure relative to the Layout origin."	"Original Translation
-zh_CN: 结构相对于布局的位置
-zh_TW: 佈局的結構相對位置"	""
+zh_CN: 结构相对于布局原点的位置。
+zh_TW: 結構相對於佈局原點的位置。"	""
 "editor.prefabLayoutEditor.pane.structure.rotation"	"Rotation"	"Original Translation
 zh_CN: 旋转
 zh_TW: 旋轉"	""
-"editor.prefabLayoutEditor.pane.structure.rotation.tooltip"	"Rotation of the selected Structure's use in the Layout."	"Original Translation"	""
+"editor.prefabLayoutEditor.pane.structure.rotation.tooltip"	"Rotation of the selected Structure's use in the Layout."	"Original Translation
+zh_CN: 选中结构在布局中的旋转设置。
+zh_TW: 選取的結構在佈局中的旋轉方式。"	""
 "editor.prefabLayoutEditor.pane.structure.yaw"	"Yaw"	"Original Translation
 zh_CN: 偏航
 zh_TW: 偏航角"	""
 "editor.prefabLayoutEditor.pane.structure.yawTooltip"	"Rotation along the Yaw. Valid values are 0, 90, 180, 270, 360."	"Original Translation
-zh_CN: 有效值为：0，90，180，270，360
-zh_TW: 有效值為：0、90、180、270、360"	""
+zh_CN: 沿偏航轴旋转。有效值为 0、90、180、270、360。
+zh_TW: 沿偏航角旋轉。有效值為 0、90、180、270 和 360。"	""
 "editor.prefabLayoutEditor.pane.structuresPane.dropdownEditStructureTooltip"	"Choose a different Structure from the dropdown menu to switch which Structure is placed in the Layout."	"Original Translation
-zh_CN: 选择一个结构进行编辑
-zh_TW: 選取要編輯的結構"	""
+zh_CN: 从下拉菜单中选择其他结构，以切换在布局中放置的结构。
+zh_TW: 從下拉選單選擇其他結構，以切換佈局中要放置的結構。"	""
 "editor.prefabLayoutEditor.pane.structuresPane.dropdownTitle"	"Structure"	"Original Translation
 zh_CN: 结构
 zh_TW: 結構"	""
 "editor.prefabLayoutEditor.pane.structuresPane.dropdownTooltip"	"Choose which Structure to place from the dropdown menu."	"Original Translation
-zh_CN: 选择一个结构添加到布局中
-zh_TW: 選取要新增至佈局的結構"	""
+zh_CN: 从下拉菜单中选择要放置的结构。
+zh_TW: 從下拉選單中選擇要放置的結構。"	""
 "editor.prefabLayoutEditor.pane.verticalProjection.downTitle"	"Down"	"Original Translation
 zh_CN: 向下
 zh_TW: 向下投影"	""
@@ -10008,30 +10061,32 @@ zh_TW: %s"	""
 zh_CN: 布局工具需先定义一个或多个布局。请在布局管理面板中创建布局。
 zh_TW: 佈局工具需要先定義至少一個佈局。請在「佈局管理」面板中建立佈局。"	""
 "editor.prefabLayoutInstanceEditor.label.noStructures"	"Layouts require the use of Structures. Open the Structures panel to create Structures."	"Original Translation
-zh_CN: 布局需要结构。创建结构后再回来使用布局吧！
-zh_TW: 佈局會使用結構。建立一些結構後再回來吧！"	""
+zh_CN: 布局需配合结构使用。请打开结构面板以创建结构。
+zh_TW: 佈局需搭配結構使用。請開啟結構面板以建立結構。"	""
 "editor.prefabLayoutInstanceEditor.pane.bakeLayout"	"Bake"	"Original Translation
-zh_CN: 分离（烘焙）
-zh_TW: 分離 (烘焙)"	""
+zh_CN: 烘焙
+zh_TW: 烘焙"	""
 "editor.prefabLayoutInstanceEditor.pane.bakeLayout.confirmation.message"	"Baking this Layout Instance will commit its blocks into the world. This cannot be undone. Do you want to continue?"	"Original Translation
-zh_CN: 分离此布局实例后，其方块将被烘焙到世界中，此操作无法撤销。确定要继续吗？
-zh_TW: 分離此佈局執行個體會把其方塊烘焙到世界中。此動作無法復原。是否要繼續？"	""
+zh_CN: 烘焙此布局实例会将其方块写入世界，操作不可撤销。确定要继续吗？
+zh_TW: 烘焙此佈局執行個體會將其中的方塊寫入世界。此動作無法復原。是否要繼續？"	""
 "editor.prefabLayoutInstanceEditor.pane.bakeLayout.confirmation.title"	"Bake Layout Instance"	"Original Translation
-zh_CN: 分离布局实例
-zh_TW: 分離佈局執行個體"	""
-"editor.prefabLayoutInstanceEditor.pane.bakeLayout.tooltip"	"Baking a Layout Instance commits it to the world by placing blocks in the world."	"Original Translation"	""
+zh_CN: 烘焙布局实例
+zh_TW: 烘焙佈局執行個體"	""
+"editor.prefabLayoutInstanceEditor.pane.bakeLayout.tooltip"	"Baking a Layout Instance commits it to the world by placing blocks in the world."	"Original Translation
+zh_CN: 烘焙布局实例会将其提交到世界中，通过在世界内放置方块实现。
+zh_TW: 烘焙佈局執行個體會在世界中放置其方塊，將執行個體寫入世界。"	""
 "editor.prefabLayoutInstanceEditor.pane.continuousPlacement.title"	"Continuous Placement"	"Original Translation
 zh_CN: 连续放置
 zh_TW: 連續放置"	""
 "editor.prefabLayoutInstanceEditor.pane.continuousPlacement.tooltip"	"When enabled Layout Instance can be placed continuously.  When disabled, the tool switches to Edit mode after placing an Instance so edits and adjustments can be made."	"Original Translation
-zh_CN: 勾选后，将连续放置实例
-zh_TW: 開啟後，執行個體會連續放置"	""
+zh_CN: 启用后，可连续放置布局实例。禁用后，放置一个实例后工具将切换为编辑模式，便于进行调整和编辑。
+zh_TW: 啟用時，可以連續放置佈局執行個體。停用時，工具會在放置執行個體後切換至「編輯」模式，方便進行編輯和調整。"	""
 "editor.prefabLayoutInstanceEditor.pane.layout.title"	"Instance Layout"	"Original Translation
 zh_CN: 实例布局
 zh_TW: 執行個體佈局"	""
 "editor.prefabLayoutInstanceEditor.pane.layout.tooltip"	"Choose which Layout to use from the dropdown menu. This will replace the Layout used for a placed Instance when in Edit mode."	"Original Translation
-zh_CN: 请选择要替换的布局
-zh_TW: 選取要交換的佈局"	""
+zh_CN: 从下拉菜单中选择要使用的布局。在编辑模式下，这将替换已放置实例所用的布局。
+zh_TW: 從下拉選單中選擇要使用的佈局。在「編輯」模式下，這會取代已放置執行個體所使用的佈局。"	""
 "editor.prefabLayoutInstanceEditor.pane.pick.bakeComplete"	"Baking complete."	"Original Translation
 zh_CN: 烘焙完成。
 zh_TW: 烘焙完成。"	""
@@ -10042,8 +10097,8 @@ zh_TW: 無法移動佈局執行個體，因為它會與另一個佈局執行個�
 zh_CN: 无法放置布局实例，因为这将与另一个布局实例重叠。
 zh_TW: 無法放置佈局執行個體，因為它會與另一個佈局執行個體重疊。"	""
 "editor.prefabLayoutInstanceEditor.pane.pick.noInstance"	"Select a Layout Instance in the world."	"Original Translation
-zh_CN: 在世界中选择一个布局实例
-zh_TW: 在世界中選取佈局執行個體"	""
+zh_CN: 在世界中选择一个布局实例。
+zh_TW: 在世界中選取佈局執行個體。"	""
 "editor.prefabLayoutInstanceEditor.pane.place.title"	"Place"	"Original Translation
 zh_CN: 放置
 zh_TW: 放置"	""
@@ -10053,10 +10108,12 @@ zh_TW: 選取要放置的佈局"	""
 "editor.prefabLayoutInstanceEditor.pane.position"	"Position"	"Original Translation
 zh_CN: 位置
 zh_TW: 位置"	""
-"editor.prefabLayoutInstanceEditor.pane.position.tooltip"	"Position in the world of the Layout Instance's origin point."	"Original Translation"	""
+"editor.prefabLayoutInstanceEditor.pane.position.tooltip"	"Position in the world of the Layout Instance's origin point."	"Original Translation
+zh_CN: 布局实例原点在世界中的位置。
+zh_TW: 佈局執行個體原點在世界中的位置。"	""
 "editor.prefabLayoutInstanceEditor.tool.description"	"Layouts contains references to one or more structures. Updating the contents of either a Layout or any contained Structure(s) will propagate those changes to all instances placed in the world. When you're completely done changing them, Bake them to commit the blocks from contained Structures to the world."	"Original Translation
-zh_CN: 增强型布局工具，可在世界中放置和选择实例。
-zh_TW: 強化版佈局工具，可在世界中放置與選取執行個體。"	""
+zh_CN: 布局包含对一个或多个结构的引用。无论是布局还是其中包含的结构内容发生更改，都会同步到世界中已放置的所有实例。完成所有更改后，请烘焙，以将结构中的方块提交到世界中。
+zh_TW: 佈局會參照一個或多個結構。更新佈局或其中任何結構的內容時，變更會套用至世界中所有已放置的執行個體。完成所有變更後，請烘焙執行個體，將其中結構的方塊寫入世界。"	""
 "editor.prefabLayoutInstanceEditor.tool.learnMore"	"Learn More"	"Original Translation
 zh_CN: 了解更多
 zh_TW: 深入了解"	""
@@ -10064,12 +10121,14 @@ zh_TW: 深入了解"	""
 zh_CN: 布局
 zh_TW: 佈局"	""
 "editor.prefabLayoutInstanceEditor.tool.tooltip"	"Tool for placing, selecting, and editing Layout instances in the world."	"Original Translation
-zh_CN: 编辑预制布局的工具
-zh_TW: 用來編輯預製佈局的工具"	""
+zh_CN: 用于在世界中放置、选择及编辑布局实例的工具。
+zh_TW: 用於在世界中放置、選取和編輯佈局執行個體的工具。"	""
 "editor.prefabLayoutInstanceEditor.toolMode.title"	"Mode"	"Original Translation
-zh_CN: 布局工具模式
-zh_TW: 佈局工具模式"	""
-"editor.prefabLayoutInstanceEditor.toolMode.tooltip"	"Choose between placing new Layout Instances or selecting an existing Layout instance in the world for editing."	"Original Translation"	""
+zh_CN: 模式
+zh_TW: 模式"	""
+"editor.prefabLayoutInstanceEditor.toolMode.tooltip"	"Choose between placing new Layout Instances or selecting an existing Layout instance in the world for editing."	"Original Translation
+zh_CN: 可选择在世界中放置新布局实例，或选择已有布局实例进行编辑。
+zh_TW: 可選擇放置新的佈局執行個體，或選取世界中現有的佈局執行個體進行編輯。"	""
 "editor.prefabTemplateEditor.actionBar.title"	"Layout Templates"	"Original Translation
 zh_CN: 布局模板
 zh_TW: 佈局範本"	""
@@ -10086,13 +10145,17 @@ zh_TW: 佈局管理器"	""
 zh_CN: 专注
 zh_TW: 聚焦"	""
 "editor.prefabTemplateEditor.pane.prefabTemplate.structure.mirrorX"	"Mirror X-axis"	"Original Translation
-zh_CN: 镜像 X
-zh_TW: 鏡像 X"	""
-"editor.prefabTemplateEditor.pane.prefabTemplate.structure.mirrorX.tooltip"	"Mirror the Layout Instance around the X-axis at the origin point."	"Original Translation"	""
+zh_CN: 镜像（X 轴）
+zh_TW: 鏡像 (X 軸)"	""
+"editor.prefabTemplateEditor.pane.prefabTemplate.structure.mirrorX.tooltip"	"Mirror the Layout Instance around the X-axis at the origin point."	"Original Translation
+zh_CN: 围绕原点的 X 轴镜像布局实例。
+zh_TW: 以原點為中心，沿 X 軸鏡像佈局執行個體。"	""
 "editor.prefabTemplateEditor.pane.prefabTemplate.structure.mirrorZ"	"Mirror Z-axis"	"Original Translation
-zh_CN: 镜像 Z
-zh_TW: 鏡像 Z"	""
-"editor.prefabTemplateEditor.pane.prefabTemplate.structure.mirrorZ.tooltip"	"Mirror the Layout Instance around the Z-axis at the origin point."	"Original Translation"	""
+zh_CN: 镜像（Z 轴）
+zh_TW: 鏡像 (Z 軸)"	""
+"editor.prefabTemplateEditor.pane.prefabTemplate.structure.mirrorZ.tooltip"	"Mirror the Layout Instance around the Z-axis at the origin point."	"Original Translation
+zh_CN: 围绕原点的 Z 轴镜像布局实例。
+zh_TW: 以原點為中心，沿 Z 軸鏡像佈局執行個體。"	""
 "editor.prefabTemplateEditor.pane.prefabTemplate.structure.offset"	"Structure Offset"	"Original Translation
 zh_CN: 结构偏移
 zh_TW: 結構位移"	""
@@ -10228,36 +10291,72 @@ zh_TW: 確定"	""
 "editor.sharedUtils.modaldialogstringinput.title"	"Input Required"	"Original Translation
 zh_CN: 需要输入
 zh_TW: 需要輸入"	""
-"editor.texture_set.color.tooltip"	"This is an RGB 3-channel image (defaults to uniform alpha of 1.0), or an RGBA 4-channel image, or a 4 value array for a uniform color with alpha. This is the only required field."	"Original Translation"	""
-"editor.texture_set.heightmap.tooltip"	"1-channel layer image or a single value in json for a uniform heightmap. Mutually exclusive with the `normal` layer."	"Original Translation"	""
-"editor.texture_set.metalnessEmissiveRoughness.tooltip"	"3-channel image (or 4-channel where the 4th channel is ignored) or a 3 value array for a uniform MER. RGB images map Red to Metalness, Green to Emissive, and Blue to Roughness. Mutually exclusive with the 'metalnessEmissiveRoughnessSubsurface' layer."	"Original Translation"	""
-"editor.texture_set.metalnessEmissiveRoughnessSubsurface.tooltip"	"4-channel image or a 4 value array for a uniform MERS. RGB images map Red to Metalness, Green to Emissive, Blue to Roughness, and Alpha to Subsurface.  Mutually exclusive with the 'metalnessEmissiveRoughness' layer."	"Original Translation"	""
-"editor.texture_set.normal.tooltip"	"3-channel normal map image (or 4-channel where the 4th channel is ignored). Mutually exclusive with the `heightmap` layer."	"Original Translation"	""
-"editor.texture_set.tooltip"	"Settings pertaining to TextureSets. Learn More https://learn.microsoft.com/en-us/minecraft/creator/reference/content/texturesetsreference/texturesetsconcepts/texturesetsintroduction?view=minecraft-bedrock-stable."	"Original Translation"	""
+"editor.texture_set.color.tooltip"	"This is an RGB 3-channel image (defaults to uniform alpha of 1.0), or an RGBA 4-channel image, or a 4 value array for a uniform color with alpha. This is the only required field."	"Original Translation
+zh_CN: 这是一个 RGB 三通道图像（默认 alpha 为 1.0），或者一个 RGBA 四通道图像，或者一个用于统一颜色和 alpha 的四值数组。此字段为必填项。
+zh_TW: 這是 RGB 3 通道影像 (預設使用統一的 Alpha 值 1.0)、RGBA 4 通道影像，或由 4 個值組成、代表含 Alpha 統一色彩的陣列。這是唯一的必填欄位。"	""
+"editor.texture_set.heightmap.tooltip"	"1-channel layer image or a single value in json for a uniform heightmap. Mutually exclusive with the `normal` layer."	"Original Translation
+zh_CN: 单通道层图像或 json 中的单一数值用于统一高度图。与 `normal` 层互斥。
+zh_TW: 1 通道圖層影像，或 JSON 中代表統一高度圖的單一值。與「normal」圖層互斥。"	""
+"editor.texture_set.metalnessEmissiveRoughness.tooltip"	"3-channel image (or 4-channel where the 4th channel is ignored) or a 3 value array for a uniform MER. RGB images map Red to Metalness, Green to Emissive, and Blue to Roughness. Mutually exclusive with the 'metalnessEmissiveRoughnessSubsurface' layer."	"Original Translation
+zh_CN: 三通道图像（或四通道，第四通道会被忽略），或用于统一 MER 的三值数组。RGB 图像将红色映射为金属度，绿色为自发光，蓝色为粗糙度。与 'metalnessEmissiveRoughnessSubsurface' 层互斥。
+zh_TW: 3 通道影像 (若為 4 通道影像，會忽略第 4 個通道)，或由 3 個值組成、代表統一 MER 的陣列。在 RGB 影像中，紅色對應金屬度，綠色對應自發光，藍色對應粗糙度。與「metalnessEmissiveRoughnessSubsurface」圖層互斥。"	""
+"editor.texture_set.metalnessEmissiveRoughnessSubsurface.tooltip"	"4-channel image or a 4 value array for a uniform MERS. RGB images map Red to Metalness, Green to Emissive, Blue to Roughness, and Alpha to Subsurface.  Mutually exclusive with the 'metalnessEmissiveRoughness' layer."	"Original Translation
+zh_CN: 4 通道图像或包含 4 个值的数组用于统一 MERS。RGB 图像中，红色通道对应金属度，绿色通道对应自发光，蓝色通道对应粗糙度，Alpha 通道对应次表面。与‘metalnessEmissiveRoughness’图层互斥。
+zh_TW: 4 通道影像，或由 4 個值組成、代表統一 MERS 的陣列。在 RGB 影像中，紅色對應金屬度，綠色對應自發光，藍色對應粗糙度，Alpha 對應次表面。與「metalnessEmissiveRoughness」圖層互斥。"	""
+"editor.texture_set.normal.tooltip"	"3-channel normal map image (or 4-channel where the 4th channel is ignored). Mutually exclusive with the `heightmap` layer."	"Original Translation
+zh_CN: 三通道法线贴图图像（或四通道，第四通道会被忽略）。与 `heightmap` 层互斥。
+zh_TW: 3 通道法線貼圖影像 (若為 4 通道影像，會忽略第 4 個通道)。與「heightmap」圖層互斥。"	""
+"editor.texture_set.tooltip"	"Settings pertaining to TextureSets. Learn More https://learn.microsoft.com/en-us/minecraft/creator/reference/content/texturesetsreference/texturesetsconcepts/texturesetsintroduction?view=minecraft-bedrock-stable."	"Original Translation
+zh_CN: 与 TextureSets 相关的设置。了解更多 https://learn.microsoft.com/en-us/minecraft/creator/reference/content/texturesetsreference/texturesetsconcepts/texturesetsintroduction?view=minecraft-bedrock-stable。
+zh_TW: TextureSet 相關設定。深入了解：https://learn.microsoft.com/en-us/minecraft/creator/reference/content/texturesetsreference/texturesetsconcepts/texturesetsintroduction?view=minecraft-bedrock-stable。"	""
 "editor.toolRail.prefabInstanceEditor.keyBinding.deleteInstance.title"	"Delete Instance"	"Original Translation
 zh_CN: 删除实例
 zh_TW: 刪除執行個體"	""
 "editor.toolRail.prefabInstanceEditor.keyBinding.deleteInstance.tooltip"	"Delete the selected Layout Instance."	"Original Translation
 zh_CN: 删除所选布局实例。
-zh_TW: 刪除選取的配置執行個體。"	""
+zh_TW: 刪除選取的佈局執行個體。"	""
 "editor.toolRail.prefabInstanceEditor.keyBinding.deselect.title"	"Deselect"	"Original Translation
 zh_CN: 取消选择
 zh_TW: 取消選取"	""
 "editor.toolRail.prefabInstanceEditor.keyBinding.deselect.tooltip"	"Deselect the current Layout Instance."	"Original Translation
 zh_CN: 取消选择当前布局实例。
-zh_TW: 取消選取目前的配置執行個體。"	""
-"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.backward.title"	"Nudge Back"	"Original Translation"	""
-"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.backward.tooltip"	"Nudge the offset of the Layout Instance backwards."	"Original Translation"	""
-"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.down.title"	"Nudge Down"	"Original Translation"	""
-"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.down.tooltip"	"Nudge the offset of the Layout Instance down."	"Original Translation"	""
-"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.forward.title"	"Nudge Forward"	"Original Translation"	""
-"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.forward.tooltip"	"Nudge the offset of the Layout Instance forwards."	"Original Translation"	""
-"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.left.title"	"Nudge Left"	"Original Translation"	""
-"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.left.tooltip"	"Nudge the offset of the Layout Instance left."	"Original Translation"	""
-"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.right.title"	"Nudge Right"	"Original Translation"	""
-"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.right.tooltip"	"Nudge the offset of the Layout Instance right."	"Original Translation"	""
-"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.up.title"	"Nudge Up"	"Original Translation"	""
-"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.up.tooltip"	"Nudge the offset of the Layout Instance up."	"Original Translation"	""
+zh_TW: 取消選取目前的佈局執行個體。"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.backward.title"	"Nudge Back"	"Original Translation
+zh_CN: 向后轻推
+zh_TW: 向後微調"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.backward.tooltip"	"Nudge the offset of the Layout Instance backwards."	"Original Translation
+zh_CN: 向后微调布局实例的偏移量。
+zh_TW: 向後微調佈局執行個體的偏移量。"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.down.title"	"Nudge Down"	"Original Translation
+zh_CN: 向下轻推
+zh_TW: 向下微調"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.down.tooltip"	"Nudge the offset of the Layout Instance down."	"Original Translation
+zh_CN: 向下微调布局实例的偏移量。
+zh_TW: 向下微調佈局執行個體的偏移量。"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.forward.title"	"Nudge Forward"	"Original Translation
+zh_CN: 向前轻推
+zh_TW: 向前微調"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.forward.tooltip"	"Nudge the offset of the Layout Instance forwards."	"Original Translation
+zh_CN: 向前微调布局实例的偏移量。
+zh_TW: 向前微調佈局執行個體的偏移量。"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.left.title"	"Nudge Left"	"Original Translation
+zh_CN: 向左轻推
+zh_TW: 向左微調"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.left.tooltip"	"Nudge the offset of the Layout Instance left."	"Original Translation
+zh_CN: 向左微调布局实例的偏移量。
+zh_TW: 向左微調佈局執行個體的偏移量。"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.right.title"	"Nudge Right"	"Original Translation
+zh_CN: 向右轻推
+zh_TW: 向右微調"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.right.tooltip"	"Nudge the offset of the Layout Instance right."	"Original Translation
+zh_CN: 向右微调布局实例的偏移量。
+zh_TW: 向右微調佈局執行個體的偏移量。"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.up.title"	"Nudge Up"	"Original Translation
+zh_CN: 向上轻推
+zh_TW: 向上微調"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffset.up.tooltip"	"Nudge the offset of the Layout Instance up."	"Original Translation
+zh_CN: 向上微调布局实例的偏移量。
+zh_TW: 向上微調佈局執行個體的偏移量。"	""
 "editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffsetBack.title"	"Nudge Back"	"Original Translation
 zh_CN: 向后轻推
 zh_TW: 向後推移"	""
@@ -10294,8 +10393,12 @@ zh_TW: 向上推移"	""
 "editor.toolRail.prefabInstanceEditor.keyBinding.nudgeOffsetUp.tooltip"	"Nudge the prefab instance offset up by 1 block."	"Original Translation
 zh_CN: 将预制实例向上偏移 1 个方块。
 zh_TW: 將預製執行個體的偏移量向上推移 1 格方塊。"	""
-"editor.toolRail.prefabInstanceEditor.keyBinding.toggleMode.title"	"Toggle Mode"	"Original Translation"	""
-"editor.toolRail.prefabInstanceEditor.keyBinding.toggleMode.tooltip"	"Toggle the Mode of the Layouts tool between Place and Edit."	"Original Translation"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.toggleMode.title"	"Toggle Mode"	"Original Translation
+zh_CN: 切换模式
+zh_TW: 切換模式"	""
+"editor.toolRail.prefabInstanceEditor.keyBinding.toggleMode.tooltip"	"Toggle the Mode of the Layouts tool between Place and Edit."	"Original Translation
+zh_CN: 在布局工具的“放置”和“编辑”模式之间切换。
+zh_TW: 在「放置」和「編輯」之間切換佈局工具的模式。"	""
 "editor.updateInfo.26u5.controlHelp"	"Shortcuts are great, but there sure are a lot of them. Find a guide in the Control Help panel, available in the action bar."	"Original Translation
 zh_CN: 快捷键的确很棒，不过数量也不少。在操作栏的控制帮助面板中找到相关指南。
 zh_TW: 捷徑雖然很方便，但真的太多了。在動作列的控制說明面板中就能找到相關指南。"	""
@@ -12192,7 +12295,7 @@ zh_TW: 複製世界"	""
 "gui.copyWorld.failedMessage"	"You can't copy this world because your device doesn't have enough available storage space. Free up some space and try again."	"Original Translation
 zh_CN: 你无法复制这个世界，因为你的设备没有足够的可用存储空间。请释放一些空间，然后重试。
 zh_TW: 無法複製這個世界，因為您的裝置沒有足夠的可用儲存空間。請先釋出一些空間再重試。"	""
-"gui.copyWorld.failedTitle"	"An error has occured"	"Original Translation
+"gui.copyWorld.failedTitle"	"An error has occurred"	"Original Translation
 zh_CN: 出错了
 zh_TW: 發生錯誤"	""
 "gui.custom"	"Custom"	"Original Translation
@@ -12994,8 +13097,8 @@ zh_TW: 搜尋"	""
 zh_CN: 搜索玩家无法加载
 zh_TW: 無法載入搜尋玩家"	""
 "hbui.AddFriendRoute.unknownError"	"We encountered an unknown error, please try again."	"Original Translation
-zh_CN: 我们遇到了一个未知错误，请重试。
-zh_TW: 發生未知的錯誤，請再試一次。"	""
+zh_CN: 我们遇到未知错误，请重试。
+zh_TW: 發生未知錯誤，請再試一次。"	""
 "hbui.AddFriendSearchByGamertag.narration.emptyState"	"Empty state"	"Original Translation
 zh_CN: 空白状态
 zh_TW: 空白狀態"	""
@@ -13341,6 +13444,7 @@ zh_TW: 切換"	""
 "hbui.BaseTextField.addedNarration"	"Added"	"Original Translation
 zh_CN: 已添加
 zh_TW: 已新增"	""
+"hbui.BaseTextField.clear"	"Clear"	"Original Translation"	""
 "hbui.BaseTextField.deselect"	"Deselect"	"Original Translation
 zh_CN: 取消选择
 zh_TW: 取消選取"	""
@@ -13515,6 +13619,9 @@ zh_TW: 卡片"	""
 "hbui.Card.narrationComponentTypeButton"	"Button"	"Original Translation
 zh_CN: 按钮
 zh_TW: 按鈕"	""
+"hbui.ChatOptionsRoute.copyOrReportMessages"	"Copy or Report Messages"	"Original Translation"	""
+"hbui.ChatOptionsRoute.muteOrReportPlayers"	"Mute or Report Players"	"Original Translation"	""
+"hbui.ChatOptionsRoute.title"	"Options for chat"	"Original Translation"	""
 "hbui.ChatPane.narration.buttonRole"	"Button"	"Original Translation
 zh_CN: 按钮
 zh_TW: 按鈕"	""
@@ -13695,13 +13802,27 @@ zh_TW: 你有免費的 Beta Realm 可用！"	""
 "hbui.ClaimPreviewOrBetaRealmBanner.text.preview"	"You have a free Preview Realm available!"	"Original Translation
 zh_CN: 你有一个免费 Preview Realm 可用！
 zh_TW: 你有免費的 Preview Realm 可用！"	""
-"hbui.CloudSyncModal.cancelButton"	"Cancel"	"Original Translation"	""
-"hbui.CloudSyncModal.cancelInputLegend"	"Cancel"	"Original Translation"	""
-"hbui.CloudSyncModal.doneMessage"	"Done!"	"Original Translation"	""
-"hbui.CloudSyncModal.errorMessage"	"Failed to sync user data."	"Original Translation"	""
-"hbui.CloudSyncModal.title"	"Syncing user data"	"Original Translation"	""
-"hbui.CloudSyncModal.waitingMessage"	"This may take a few moments..."	"Original Translation"	""
-"hbui.CloudSyncScreen.resolvingMessage"	"Signing you in..."	"Original Translation"	""
+"hbui.CloudSyncModal.cancelButton"	"Cancel"	"Original Translation
+zh_CN: 取消
+zh_TW: 取消"	""
+"hbui.CloudSyncModal.cancelInputLegend"	"Cancel"	"Original Translation
+zh_CN: 取消
+zh_TW: 取消"	""
+"hbui.CloudSyncModal.doneMessage"	"Done!"	"Original Translation
+zh_CN: 完成！
+zh_TW: 完成！"	""
+"hbui.CloudSyncModal.errorMessage"	"Failed to sync user data."	"Original Translation
+zh_CN: 用户数据同步失败。
+zh_TW: 無法同步使用者資料。"	""
+"hbui.CloudSyncModal.title"	"Syncing user data"	"Original Translation
+zh_CN: 正在同步用户数据
+zh_TW: 正在同步使用者資料"	""
+"hbui.CloudSyncModal.waitingMessage"	"This may take a few moments..."	"Original Translation
+zh_CN: 这可能需要一点时间……
+zh_TW: 這可能需要一些時間……"	""
+"hbui.CloudSyncScreen.resolvingMessage"	"Signing you in..."	"Original Translation
+zh_CN: 正在为你登录……
+zh_TW: 正在登入……"	""
 "hbui.Common.narration.position"	"%1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
 zh_TW: %1$s/%2$s"	""
@@ -16213,9 +16334,15 @@ zh_TW: 多人遊戲"	""
 "hbui.CreateNewWorldSideMenu.narrationCreateButtonHint"	"Create a %1$s world on %2$s difficulty named ""%3$s"". Navigate to select other options."	"Original Translation
 zh_CN: 创建一个名为“%3$s”的难度 %2$s 的 %1$s 世界。请浏览选择其他选项。
 zh_TW: 在 %2$s 的難度中建立名為「%3$s」的 %1$s 世界。瀏覽以選擇其他選項。"	""
-"hbui.CreateNewWorldSideMenu.playOnRealmTrial.cftr"	"Create Free Trial Realm"	"Original Translation"	""
-"hbui.CreateNewWorldSideMenu.playOnRealmTrial.ctr"	"Create Trial Realm"	"Original Translation"	""
-"hbui.CreateNewWorldSideMenu.playOnRealmTrial.trf"	"Try Realms Free"	"Original Translation"	""
+"hbui.CreateNewWorldSideMenu.playOnRealmTrial.cftr"	"Create Free Trial Realm"	"Original Translation
+zh_CN: 创建免费试玩 Realm
+zh_TW: 建立免費試用 Realm"	""
+"hbui.CreateNewWorldSideMenu.playOnRealmTrial.ctr"	"Create Trial Realm"	"Original Translation
+zh_CN: 创建试玩 Realm
+zh_TW: 建立試用 Realm"	""
+"hbui.CreateNewWorldSideMenu.playOnRealmTrial.trf"	"Try Realms Free"	"Original Translation
+zh_CN: 免费试玩 Realms
+zh_TW: 免費試用 Realms"	""
 "hbui.CreateNewWorldSideMenu.resourcePacksTabLabel"	"Resource packs"	"Original Translation
 zh_CN: 资源包
 zh_TW: 資源包"	""
@@ -16319,7 +16446,7 @@ zh_TW: 選項"	""
 zh_CN: 已禁用
 zh_TW: 已停用"	""
 "hbui.DropdownItem.elementType"	"item"	"Original Translation
-zh_CN: 物品
+zh_CN: 项目
 zh_TW: 物品"	""
 "hbui.DropdownItem.narrationComponentType"	"Option"	"Original Translation
 zh_CN: 选项
@@ -16331,7 +16458,7 @@ zh_TW: 選取"	""
 zh_CN: 已选择
 zh_TW: 已選擇"	""
 "hbui.DropdownItem.unselected"	"not selected"	"Original Translation
-zh_CN: 未选择
+zh_CN: 未当选
 zh_TW: 未選擇"	""
 "hbui.EditRealmWorld.ConfirmModals.cancel"	"Cancel"	"Original Translation
 zh_CN: 取消
@@ -16750,9 +16877,15 @@ zh_TW: 進行遊戲"	""
 "hbui.EditWorldSideMenu.playOnRealm"	"Play on Realms"	"Original Translation
 zh_CN: 在 Realms 上开始游戏
 zh_TW: 在 Realms 上遊玩"	""
-"hbui.EditWorldSideMenu.playOnRealmTrial.cftr"	"Create Free Trial Realm"	"Original Translation"	""
-"hbui.EditWorldSideMenu.playOnRealmTrial.ctr"	"Create Trial Realm"	"Original Translation"	""
-"hbui.EditWorldSideMenu.playOnRealmTrial.trf"	"Try Realms Free"	"Original Translation"	""
+"hbui.EditWorldSideMenu.playOnRealmTrial.cftr"	"Create Free Trial Realm"	"Original Translation
+zh_CN: 创建免费试玩 Realm
+zh_TW: 建立免費試用 Realm"	""
+"hbui.EditWorldSideMenu.playOnRealmTrial.ctr"	"Create Trial Realm"	"Original Translation
+zh_CN: 创建试玩 Realm
+zh_TW: 建立試用 Realm"	""
+"hbui.EditWorldSideMenu.playOnRealmTrial.trf"	"Try Realms Free"	"Original Translation
+zh_CN: 免费试玩 Realms
+zh_TW: 免費試用 Realms"	""
 "hbui.Editor.menu"	"Menu"	"Original Translation
 zh_CN: 菜单
 zh_TW: 選單"	""
@@ -17980,9 +18113,15 @@ zh_TW: 0-9，A-z"	""
 "hbui.EditorRemotePane.listPane.sortType.default"	"Default"	"Original Translation
 zh_CN: 默认
 zh_TW: 預設"	""
+"hbui.EditorRemotePane.listPane.sortType.newestToOldest"	"Newest to Oldest"	"Original Translation"	""
+"hbui.EditorRemotePane.listPane.sortType.oldestChangesFirst"	"Oldest Changes First"	"Original Translation"	""
+"hbui.EditorRemotePane.listPane.sortType.oldestToNewest"	"Oldest to Newest"	"Original Translation"	""
+"hbui.EditorRemotePane.listPane.sortType.recentChangesFirst"	"Recent Changes First"	"Original Translation"	""
+"hbui.EditorRemotePane.listPane.sortType.tags"	"By Tags"	"Original Translation"	""
 "hbui.EditorRemotePane.listPane.sortType.ztoa"	"z-A, 9-0"	"Original Translation
 zh_CN: z-A，9-0
 zh_TW: z-A，9-0"	""
+"hbui.EditorRemotePane.listPane.untagged"	"Untagged"	"Original Translation"	""
 "hbui.EditorRemotePane.narration"	"Panel"	"Original Translation
 zh_CN: 面板
 zh_TW: 面板"	""
@@ -18401,11 +18540,11 @@ zh_TW: 開始"	""
 zh_CN: 退出
 zh_TW: 離開"	""
 "hbui.EditorTutorial.button.next"	"Next"	"Original Translation
-zh_CN: Next
-zh_TW: Next"	""
+zh_CN: 下一步
+zh_TW: 下一個"	""
 "hbui.EditorTutorial.button.skip"	"Skip"	"Original Translation
-zh_CN: Skip
-zh_TW: Skip"	""
+zh_CN: 跳过
+zh_TW: 略過"	""
 "hbui.EditorTutorial.exit.cancel"	"Cancel"	"Original Translation
 zh_CN: 取消
 zh_TW: 取消"	""
@@ -18904,9 +19043,6 @@ zh_TW: PlayStation™Network 線上好友"	""
 "hbui.FriendList.narration.online.switch"	"Online Nintendo Friends"	"Original Translation
 zh_CN: Nintendo 在线好友
 zh_TW: Nintendo 線上好友"	""
-"hbui.FriendList.noFriends"	"All your friends hade been added as favorites!"	"Original Translation
-zh_CN: 所有好友都已标记为最喜爱的好友！
-zh_TW: 你的全部好友都已新增為最愛！"	""
 "hbui.FriendList.noOfflineFriends"	"All your friends are online!"	"Original Translation
 zh_CN: 所有的好友都在线！
 zh_TW: 你所有的朋友都在線上！"	""
@@ -19045,14 +19181,30 @@ zh_TW: 按鈕"	""
 "hbui.GetMoreButton.inputLegend"	"Discover"	"Original Translation
 zh_CN: 发现
 zh_TW: 探索"	""
-"hbui.GiftingErrorRoute.goBack"	"Go Back"	"Original Translation"	""
-"hbui.GiftingErrorRoute.ineligible.unknown"	"This gift can’t be sent right now."	"Original Translation"	""
-"hbui.GiftingErrorRoute.learnMore"	"Learn More"	"Original Translation"	""
-"hbui.GiftingErrorRoute.network.message"	"We're having trouble connecting to the Minecraft Store right now. Please try again later!"	"Original Translation"	""
-"hbui.GiftingErrorRoute.network.title"	"Connection Failed"	"Original Translation"	""
-"hbui.GiftingErrorRoute.recipient.title"	"Unable To Gift"	"Original Translation"	""
-"hbui.GiftingFriendsList.narration.sendGiftHint"	"Press to select friend to receive gift"	"Original Translation"	""
-"hbui.GiftingFriendsList.sendGiftInputLegend"	"Send Gift"	"Original Translation"	""
+"hbui.GiftingErrorRoute.goBack"	"Go Back"	"Original Translation
+zh_CN: 返回
+zh_TW: 返回"	""
+"hbui.GiftingErrorRoute.ineligible.unknown"	"This gift can’t be sent right now."	"Original Translation
+zh_CN: 当前无法发送礼物。
+zh_TW: 目前無法送出這份禮物。"	""
+"hbui.GiftingErrorRoute.learnMore"	"Learn More"	"Original Translation
+zh_CN: 了解更多
+zh_TW: 深入了解"	""
+"hbui.GiftingErrorRoute.network.message"	"We're having trouble connecting to the Minecraft Store right now. Please try again later!"	"Original Translation
+zh_CN: 当前无法连接到 Minecraft 商店，请稍后再试！
+zh_TW: 目前無法連線至 Minecraft 商店。請稍後再試！"	""
+"hbui.GiftingErrorRoute.network.title"	"Connection Failed"	"Original Translation
+zh_CN: 连接失败
+zh_TW: 連線失敗"	""
+"hbui.GiftingErrorRoute.recipient.title"	"Unable To Gift"	"Original Translation
+zh_CN: 无法赠送
+zh_TW: 無法贈送"	""
+"hbui.GiftingFriendsList.narration.sendGiftHint"	"Press to select friend to receive gift"	"Original Translation
+zh_CN: 按下以选择接收礼物的好友
+zh_TW: 按下以選擇要接收禮物的好友"	""
+"hbui.GiftingFriendsList.sendGiftInputLegend"	"Send Gift"	"Original Translation
+zh_CN: 赠送礼物
+zh_TW: 贈送禮物"	""
 "hbui.GiftingFriendsRoute.message"	"%1$s/%2$s Daily Gifts Left"	"Original Translation
 zh_CN: 今日剩余赠礼数量：%1$s/%2$s
 zh_TW: 今日可贈送禮物：%1$s/%2$s"	""
@@ -19062,6 +19214,42 @@ zh_TW: 沒有可贈送禮物的好友。"	""
 "hbui.GiftingFriendsRoute.title"	"Select Gift Recipient"	"Original Translation
 zh_CN: 选择赠礼对象
 zh_TW: 選取禮物接收者"	""
+"hbui.GiftingPurchaseCompleteRoute.done"	"Done"	"Original Translation
+zh_CN: 完成
+zh_TW: 完成"	""
+"hbui.GiftingPurchaseCompleteRoute.heading"	"Your Gift Is on Its Way"	"Original Translation
+zh_CN: 您的礼物正在送达
+zh_TW: 你的禮物已送出"	""
+"hbui.GiftingPurchaseCompleteRoute.recipient"	"Gifted to %1$s"	"Original Translation
+zh_CN: 已赠送给 %1$s
+zh_TW: 已贈送給 %1$s"	""
+"hbui.GiftingPurchaseCompleteRoute.title"	"Purchase Complete"	"Original Translation
+zh_CN: 购买完成
+zh_TW: 購買完成"	""
+"hbui.GiftingPurchaseConfirmRoute.giftingTo"	"Gifting to %1$s"	"Original Translation
+zh_CN: 正在赠送给 %1$s
+zh_TW: 將贈送給 %1$s"	""
+"hbui.GiftingPurchaseConfirmRoute.minecoinDisclaimer"	"Minecoin purchases are subject to the platform store's terms and conditions."	"Original Translation
+zh_CN: Minecoin 购买需遵守平台商店的条款与条件。
+zh_TW: Minecoin 購買需遵守平台商店的相關條款與條件。"	""
+"hbui.GiftingPurchaseConfirmRoute.minecoinPrice"	"%1$s Minecoins"	"Original Translation
+zh_CN: %1$s Minecoins
+zh_TW: %1$s Minecoin"	""
+"hbui.GiftingPurchaseConfirmRoute.purchaseInProgress"	"Purchase in progress..."	"Original Translation
+zh_CN: 正在购买……
+zh_TW: 購買處理中……"	""
+"hbui.GiftingPurchaseConfirmRoute.purchaseWithCash"	"Purchase with Cash"	"Original Translation
+zh_CN: 现金购买
+zh_TW: 使用現金購買"	""
+"hbui.GiftingPurchaseConfirmRoute.purchaseWithMinecoins"	"Purchase with Minecoins"	"Original Translation
+zh_CN: 用 Minecoins 购买
+zh_TW: 使用 Minecoin 購買"	""
+"hbui.GiftingPurchaseConfirmRoute.terms"	"I agree to the terms of gifting and understand gifts are non-refundable and non-transferable."	"Original Translation
+zh_CN: 我同意馈赠礼物条款，并理解礼物不可退款且不可转让。
+zh_TW: 我同意贈禮條款，並了解禮物不得退款或轉讓。"	""
+"hbui.GiftingPurchaseConfirmRoute.title"	"Confirm Purchase"	"Original Translation
+zh_CN: 确认购买
+zh_TW: 確認購買"	""
 "hbui.HasMarketplacePassModal.body"	"Realms Plus includes Marketplace Pass content. We suggest that you cancel your Marketplace Pass subscription after signing up for Realms Plus."	"Original Translation
 zh_CN: Realms Plus 包含 Marketplace Pass 内容。我们建议您在注册 Realms Plus 后取消订阅 Marketplace Pass。
 zh_TW: Realms Plus 包含 Marketplace Pass 內容。建議您在註冊您的 Realms Plus 後，取消您的 Marketplace Pass 訂閱。"	""
@@ -19081,8 +19269,8 @@ zh_TW: 定期服務重疊"	""
 zh_CN: 我理解
 zh_TW: 我了解"	""
 "hbui.HeroItem.enumeration"	"%1$s of %2$s"	"Original Translation
-zh_CN: %1$s of %2$s
-zh_TW: %1$s of %2$s"	""
+zh_CN: 第 %1$s 个，共 %2$s 个
+zh_TW: %1$s/%2$s"	""
 "hbui.HeroItem.role"	"TextBlock"	"Original Translation
 zh_CN: 文本块
 zh_TW: 文字方塊"	""
@@ -19362,6 +19550,7 @@ zh_TW: 反饋"	""
 "hbui.InboxRoute.feedbackBugsButton"	"Bugs"	"Original Translation
 zh_CN: 反馈
 zh_TW: 錯誤"	""
+"hbui.InboxRoute.feedbackConsoleSubTitle"	"Minecraft would like to hear from you! Visit feedback.minecraft.net"	"Original Translation"	""
 "hbui.InboxRoute.feedbackIdeasButton"	"Ideas"	"Original Translation
 zh_CN: 建议
 zh_TW: 構想"	""
@@ -19842,21 +20031,30 @@ zh_TW: 收件匣"	""
 "hbui.MainMenu.InboxButton.narration.role"	"Button"	"Original Translation
 zh_CN: 按钮
 zh_TW: 按鈕"	""
-"hbui.MainMenu.InboxButton.narration.unreadNotification"	"Unread notification"	"Original Translation"	""
-"hbui.MainMenu.InboxButton.narration.unreadNotifications"	"Unread notifications"	"Original Translation"	""
+"hbui.MainMenu.InboxButton.narration.unreadNotification"	"Unread notification"	"Original Translation
+zh_CN: 未读通知
+zh_TW: 未讀通知"	""
+"hbui.MainMenu.InboxButton.narration.unreadNotifications"	"Unread notifications"	"Original Translation
+zh_CN: 未读通知
+zh_TW: 未讀通知"	""
 "hbui.MainMenu.MarketplaceButton.inputLegend"	"Marketplace"	"Original Translation
 zh_CN: 市场
 zh_TW: 市集"	""
 "hbui.MainMenu.MarketplaceButton.label"	"Marketplace"	"Original Translation
 zh_CN: 市场
 zh_TW: 市集"	""
-"hbui.MainMenu.MarketplaceButton.narration.disabled"	"Disabled"	"Original Translation"	""
+"hbui.MainMenu.MarketplaceButton.narration.disabled"	"Disabled"	"Original Translation
+zh_CN: 已禁用
+zh_TW: 已停用"	""
 "hbui.MainMenu.PlayButton.inputLegend"	"Play"	"Original Translation
 zh_CN: 开始游戏
 zh_TW: 進行遊戲"	""
 "hbui.MainMenu.PlayButton.label"	"Play"	"Original Translation
 zh_CN: 开始游戏
 zh_TW: 進行遊戲"	""
+"hbui.MainMenu.RealmsButton.inputLegend"	"Realms"	"Original Translation
+zh_CN: Realms
+zh_TW: Realms"	""
 "hbui.MainMenu.RealmsButton.label"	"Realms"	"Original Translation
 zh_CN: Realms
 zh_TW: Realms"	""
@@ -19878,9 +20076,15 @@ zh_TW: 社交 (%1$s)"	""
 "hbui.MainMenu.SocialButton.labelNarrow"	"(%1$s)"	"Original Translation
 zh_CN: (%1$s)
 zh_TW: (%1$s)"	""
-"hbui.MainMenu.SocialButton.narration.friendOnline"	"%1$s Friend online"	"Original Translation"	""
-"hbui.MainMenu.SocialButton.narration.friendsOnline"	"%1$s Friends online"	"Original Translation"	""
-"hbui.MainMenu.SocialButton.narration.label"	"Social"	"Original Translation"	""
+"hbui.MainMenu.SocialButton.narration.friendOnline"	"%1$s Friend online"	"Original Translation
+zh_CN: %1$s位好友在线
+zh_TW: %1$s 位好友在線上"	""
+"hbui.MainMenu.SocialButton.narration.friendsOnline"	"%1$s Friends online"	"Original Translation
+zh_CN: %1$s位好友在线
+zh_TW: %1$s 位好友在線上"	""
+"hbui.MainMenu.SocialButton.narration.label"	"Social"	"Original Translation
+zh_CN: 社交
+zh_TW: 社交"	""
 "hbui.MainMenu.inputLegend.discover"	"Discover"	"Original Translation
 zh_CN: 发现
 zh_TW: 探索"	""
@@ -19890,10 +20094,18 @@ zh_TW: 離開"	""
 "hbui.MainMenu.inputLegend.menu"	"Menu"	"Original Translation
 zh_CN: 菜单
 zh_TW: 選單"	""
-"hbui.MainMenu.narration.enumeration"	"%1$s of %2$s"	"Original Translation"	""
-"hbui.MainMenu.narration.horizontalMenu"	"Horizontal menu"	"Original Translation"	""
-"hbui.MainMenu.narration.screenName"	"Main menu screen"	"Original Translation"	""
-"hbui.MainMenu.narration.verticalMenu"	"Vertical menu"	"Original Translation"	""
+"hbui.MainMenu.narration.enumeration"	"%1$s of %2$s"	"Original Translation
+zh_CN: 第 %1$s 个，共 %2$s 个
+zh_TW: %1$s/%2$s"	""
+"hbui.MainMenu.narration.horizontalMenu"	"Horizontal menu"	"Original Translation
+zh_CN: 水平菜单
+zh_TW: 水平選單"	""
+"hbui.MainMenu.narration.screenName"	"Main menu screen"	"Original Translation
+zh_CN: 主菜单界面
+zh_TW: 主選單畫面"	""
+"hbui.MainMenu.narration.verticalMenu"	"Vertical menu"	"Original Translation
+zh_CN: 垂直菜单
+zh_TW: 垂直選單"	""
 "hbui.ManageShowcaseErrorModal.close"	"Close"	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"	""
@@ -19948,7 +20160,9 @@ zh_TW: 取消"	""
 "hbui.Marketplace.CodeInputModal.description"	"With a Microsoft product key or gift card, you can get access to a wide selection of the latest apps, games, premium devices, and more. To redeem your Microsoft or Xbox gift card, please enter your 25-character code in the space below."	"Original Translation
 zh_CN: 使用 Microsoft 产品密钥或礼品卡，即可获取各种最新应用、游戏、高端设备等内容。若要兑换您的 Microsoft 或 Xbox 礼品卡，请在下方输入您的 25 位代码。
 zh_TW: 使用 Microsoft 產品金鑰或禮品卡，便有各式各樣最新應用程式、遊戲、頂級裝置等好禮等你挑選。若要兌換 Microsoft 或 Xbox 禮品卡，請在下方輸入 25 字元兌換代碼。"	""
-"hbui.Marketplace.CodeInputModal.gamertagConfirmation"	"It'll be added to %1$s."	"Original Translation"	""
+"hbui.Marketplace.CodeInputModal.gamertagConfirmation"	"It'll be added to %1$s."	"Original Translation
+zh_CN: 将被添加到%1$s。
+zh_TW: 內容將新增至 %1$s 的帳戶。"	""
 "hbui.Marketplace.CodeInputModal.header"	"Redeem Your Code Or Gift Card"	"Original Translation
 zh_CN: 兑换代码或礼品卡
 zh_TW: 兌換代碼或禮品卡"	""
@@ -20072,8 +20286,13 @@ zh_TW: 恕不退款。"	""
 "hbui.Marketplace.PreviewContentModal.usageRulesForDigitalGoods"	"Usage Rules for Digital Goods"	"Original Translation
 zh_CN: 数字商品使用规则
 zh_TW: 數位商品使用規則"	""
-"hbui.Marketplace.Redeem.Error.notEligibleForRedemption"	"This code cannot be redeemed in Minecraft on this device."	"Original Translation"	""
-"hbui.Marketplace.Redeem.Error.redeemCodeFailed"	"This code could not be redeemed. Check the code and try again."	"Original Translation"	""
+"hbui.Marketplace.Redeem.Error.notEligibleForRedemption"	"This code cannot be redeemed in Minecraft on this device."	"Original Translation
+zh_CN: 此代码无法在本设备上的 Minecraft 中兑换。
+zh_TW: 此代碼無法在這部裝置的 Minecraft 中兌換。"	""
+"hbui.Marketplace.Redeem.Error.postRedemptionFailed"	"Your code was redeemed. It may take a few minutes for your items to appear. If you don't see your content after a few minutes, please contact support."	"Original Translation"	""
+"hbui.Marketplace.Redeem.Error.redeemCodeFailed"	"This code could not be redeemed. Check the code and try again."	"Original Translation
+zh_CN: 此代码无法兑换。请检查代码并重试。
+zh_TW: 無法兌換此代碼。請檢查代碼後再試一次。"	""
 "hbui.Marketplace.RedeemRoute.defaultErrorMessage"	"Sorry, an unexpected error has occurred.  The error has been recorded and we will investigate.  Please try to redeem your code later."	"Original Translation
 zh_CN: 很抱歉，发生了意外错误。错误已被记录，我们会进行调查。请稍后再次尝试兑换代码。
 zh_TW: 抱歉，發生意外錯誤。系統已記錄錯誤，我們會調查原因。請稍後再兌換代碼。"	""
@@ -20083,6 +20302,8 @@ zh_TW: 正在載入內容……"	""
 "hbui.Marketplace.RedeemRoute.redeemingContent"	"Redeeming content..."	"Original Translation
 zh_CN: 正在兑换内容…
 zh_TW: 正在兌換內容……"	""
+"hbui.Marketplace.RedeemRoute.userAccountChanged"	"We detected a change in Microsoft account. Please go back and try redeeming the code again."	"Original Translation"	""
+"hbui.Marketplace.StoreRowFab.seeMore"	"See more"	"Original Translation"	""
 "hbui.Marketplace.ViewRedeemedContentModal.close"	"Close"	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"	""
@@ -20092,7 +20313,9 @@ zh_TW: %1$s 已準備就緒。"	""
 "hbui.Marketplace.ViewRedeemedContentModal.header"	"You're Good To Go"	"Original Translation
 zh_CN: 一切就绪
 zh_TW: 一切就緒"	""
-"hbui.Marketplace.ViewRedeemedContentModal.postRedemptionFailed"	"Your code was redeemed. It may take a few minutes for your items to appear. If you don't see your content after a few minutes, please contact support."	"Original Translation"	""
+"hbui.Marketplace.ViewRedeemedContentModal.postRedemptionFailed"	"Your code was redeemed. It may take a few minutes for your items to appear. If you don't see your content after a few minutes, please contact support."	"Original Translation
+zh_CN: 您的代码已成功兑换。物品可能需要几分钟后才会出现。如果几分钟后仍未看到内容，请联系客服。
+zh_TW: 你的代碼已兌換。內容可能需要幾分鐘才會顯示。若幾分鐘後仍看不到內容，請聯絡支援人員。"	""
 "hbui.Marketplace.ViewRedeemedContentModal.view"	"View"	"Original Translation
 zh_CN: 查看
 zh_TW: 檢視"	""
@@ -20280,8 +20503,8 @@ zh_TW: 顯示"	""
 zh_CN: 选择
 zh_TW: 選取"	""
 "hbui.MyServersRoute.sideMenu.title"	"My Servers (%1$s)"	"Original Translation
-zh_CN: 其他服务器 (%1$s)
-zh_TW: 其他伺服器 (%1$s)"	""
+zh_CN: 我的服务器（%1$s）
+zh_TW: 我的伺服器 (%1$s)"	""
 "hbui.MyServersRoute.title"	"My Servers"	"Original Translation
 zh_CN: 我的服务器
 zh_TW: 我的伺服器"	""
@@ -21606,8 +21829,8 @@ zh_TW: 邀請正等待處理 %1$s"	""
 zh_CN: 立即订阅
 zh_TW: 立即訂閱"	""
 "hbui.PlayScreen.realmsTab.defaultRealmName"	"%1$s's Realm"	"Original Translation
-zh_CN: %1$s's Realm
-zh_TW: %1$s's Realm"	""
+zh_CN: %1$s 的 Realm
+zh_TW: %1$s 的 Realm"	""
 "hbui.PlayScreen.realmsTab.joinRealmOptionsModalMenu.addRealm"	"Add a Realms subscription"	"Original Translation
 zh_CN: 添加一项 Realms 订阅服务
 zh_TW: 新增 Realms 定期服務"	""
@@ -21642,26 +21865,26 @@ zh_TW: 你已離開「%1$s」"	""
 zh_CN: 正在离开 Realm
 zh_TW: 離開 Realm 中"	""
 "hbui.PlayScreen.realmsTab.modals.close"	"Close"	"Original Translation
-zh_CN: Close
-zh_TW: Close"	""
+zh_CN: 关闭
+zh_TW: 關閉"	""
 "hbui.PlayScreen.realmsTab.modals.reconciliationInProgress"	"Processing"	"Original Translation
-zh_CN: Processing
-zh_TW: Processing"	""
+zh_CN: 正在处理
+zh_TW: 正在處理"	""
 "hbui.PlayScreen.realmsTab.modals.select"	"Select"	"Original Translation
-zh_CN: Select
-zh_TW: Select"	""
+zh_CN: 选择
+zh_TW: 選取"	""
 "hbui.PlayScreen.realmsTab.modals.unusedSubscription.body"	"You have an unused Realm subscription! Would you like to set it up?"	"Original Translation
-zh_CN: You have an unused Realm subscription! Would you like to set it up?
-zh_TW: You have an unused Realm subscription! Would you like to set it up?"	""
+zh_CN: 您有一个未使用的 Realm 订阅！要现在设置吗？
+zh_TW: 你有一個尚未使用的 Realm 訂閱！要進行設定嗎？"	""
 "hbui.PlayScreen.realmsTab.modals.unusedSubscription.cancel"	"Not yet"	"Original Translation
-zh_CN: Not yet
-zh_TW: Not yet"	""
+zh_CN: 还没好
+zh_TW: 暫時不要"	""
 "hbui.PlayScreen.realmsTab.modals.unusedSubscription.confirm"	"Set up Realm now"	"Original Translation
-zh_CN: Set up Realm now
-zh_TW: Set up Realm now"	""
+zh_CN: 立即设置 Realm
+zh_TW: 立即設定 Realm"	""
 "hbui.PlayScreen.realmsTab.modals.unusedSubscription.title"	"Unused Realm subscription"	"Original Translation
-zh_CN: Unused Realm subscription
-zh_TW: Unused Realm subscription"	""
+zh_CN: 未使用的 Realm 订阅
+zh_TW: 未使用的 Realm 訂閱"	""
 "hbui.PlayScreen.realmsTab.narration.buttonSiblings"	"%1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
 zh_TW: %1$s/%2$s"	""
@@ -22232,11 +22455,21 @@ zh_TW: 是否要儲存變更？"	""
 "hbui.PlayScreen.servers"	"Servers"	"Original Translation
 zh_CN: 服务器
 zh_TW: 伺服器"	""
-"hbui.PlayScreen.skinMissingMarioMashUpModal.body"	"Your current skin is from a missing content pack. Visit the Marketplace and sign in to claim it."	"Original Translation"	""
-"hbui.PlayScreen.skinMissingMarioMashUpModal.close"	"Close"	"Original Translation"	""
-"hbui.PlayScreen.skinMissingMarioMashUpModal.confirm"	"Claim in Marketplace"	"Original Translation"	""
-"hbui.PlayScreen.skinMissingMarioMashUpModal.doNotShowAgain"	"Don't show again"	"Original Translation"	""
-"hbui.PlayScreen.skinMissingMarioMashUpModal.title"	"Super Mario Mash-Up pack"	"Original Translation"	""
+"hbui.PlayScreen.skinMissingMarioMashUpModal.body"	"Your current skin is from a missing content pack. Visit the Marketplace and sign in to claim it."	"Original Translation
+zh_CN: 您当前的皮肤来自一个缺失的内容包。请前往市场并登录以领取。
+zh_TW: 你目前使用的外觀來自尚未取得的內容套件。請前往市集並登入以領取。"	""
+"hbui.PlayScreen.skinMissingMarioMashUpModal.close"	"Close"	"Original Translation
+zh_CN: 关闭
+zh_TW: 關閉"	""
+"hbui.PlayScreen.skinMissingMarioMashUpModal.confirm"	"Claim in Marketplace"	"Original Translation
+zh_CN: 在市场中领取
+zh_TW: 在市集中領取"	""
+"hbui.PlayScreen.skinMissingMarioMashUpModal.doNotShowAgain"	"Don't show again"	"Original Translation
+zh_CN: 不再显示
+zh_TW: 不再顯示"	""
+"hbui.PlayScreen.skinMissingMarioMashUpModal.title"	"Super Mario Mash-Up pack"	"Original Translation
+zh_CN: 超级马力欧混搭包
+zh_TW: 超級瑪利歐混搭套件"	""
 "hbui.PlayScreen.startLocalWorldModal.title"	"Loading world..."	"Original Translation
 zh_CN: 加载世界中...
 zh_TW: 正在載入世界..."	""
@@ -22373,20 +22606,20 @@ zh_TW: 返回"	""
 zh_CN: %1$s 个世界已被隐藏
 zh_TW: 已隱藏 %1$s (一些) 世界"	""
 "hbui.PlayScreen.worldMissingMarioMashUpModal.body"	"Some world are hidden because of missing entitlements. Visit the Marketplace and sign in to claim your content."	"Original Translation
-zh_CN: Some world are hidden because of missing entitlements. Visit the Marketplace and sign in to claim your content.
-zh_TW: Some world are hidden because of missing entitlements. Visit the Marketplace and sign in to claim your content."	""
+zh_CN: 部分世界因缺少权限被隐藏。请前往市场并登录以领取您的内容。
+zh_TW: 部分世界因缺少使用權而遭到隱藏。請前往市集並登入，以領取你的內容。"	""
 "hbui.PlayScreen.worldMissingMarioMashUpModal.close"	"Close"	"Original Translation
-zh_CN: Close
-zh_TW: Close"	""
+zh_CN: 关闭
+zh_TW: 關閉"	""
 "hbui.PlayScreen.worldMissingMarioMashUpModal.confirm"	"Claim in Marketplace"	"Original Translation
-zh_CN: Claim in Marketplace
-zh_TW: Claim in Marketplace"	""
+zh_CN: 在市场中领取
+zh_TW: 在市集領取"	""
 "hbui.PlayScreen.worldMissingMarioMashUpModal.doNotShowAgain"	"Don't show again"	"Original Translation
-zh_CN: Don't show again
-zh_TW: Don't show again"	""
+zh_CN: 不再显示
+zh_TW: 不再顯示"	""
 "hbui.PlayScreen.worldMissingMarioMashUpModal.title"	"Super Mario Mash-Up pack"	"Original Translation
-zh_CN: Super Mario Mash-Up pack
-zh_TW: Super Mario Mash-Up pack"	""
+zh_CN: 超级马力欧混搭包
+zh_TW: 超級瑪利歐混搭套件"	""
 "hbui.PlayScreen.xboxPermissionMessage.learnMore"	"Learn more"	"Original Translation
 zh_CN: 了解更多
 zh_TW: 深入了解"	""
@@ -22810,7 +23043,7 @@ zh_TW: 你是這位玩家的好友"	""
 "hbui.PlayerListItem.narration.addedNotMutual"	"You added this player"	"Original Translation
 zh_CN: 你已添加此玩家
 zh_TW: 你新增了此玩家"	""
-"hbui.PlayerListItem.narration.additionalActionsHint"	"Use D-pad right for additional actions"	"Original Translation
+"hbui.PlayerListItem.narration.additionalActionsHint"	"Navigate right for additional actions"	"Original Translation
 zh_CN: 使用右方向键执行其他操作
 zh_TW: 使用向右箭頭選擇其他操作"	""
 "hbui.PlayerListItem.narration.buttonEnumeration"	"%1$s of %2$s"	"Original Translation
@@ -23291,8 +23524,10 @@ zh_TW: 繼續"	""
 zh_CN: 文本块
 zh_TW: 文字方塊"	""
 "hbui.PreStartScreen.brandMoment.loading"	"Loading..."	"Original Translation
-zh_CN: Loading...
-zh_TW: Loading..."	""
+zh_CN: 正在加载…
+zh_TW: 載入中..."	""
+"hbui.PreStartScreen.newPlayerPathLanding.getStarted"	"Get started"	"Original Translation"	""
+"hbui.PreStartScreen.newPlayerPathLanding.moreOptions"	"More options"	"Original Translation"	""
 "hbui.PreStartScreen.platformSignIn.body.nsa"	"Sign in to your Nintendo Account to create a link to this console, access online services, and collect MyNintendo points."	"Original Translation
 zh_CN: 登录您的 Nintendo 账号以关联此主机、访问在线服务并领取 MyNintendo 积分。
 zh_TW: 登入 Nintendo Account，將帳戶連結至這台主機、使用線上服務，並獲得 MyNintendo 點數。"	""
@@ -23695,20 +23930,30 @@ zh_TW: 正在將專案檔案下載到編輯器專案清單"	""
 "hbui.Realms.Common.Modals.DownloadingRealmWorldModal.Editor.title"	"Downloading project file"	"Original Translation
 zh_CN: 正在下载项目文件
 zh_TW: 正在下載專案檔案"	""
-"hbui.Realms.Common.Modals.DownloadingRealmWorldModal.Error.invalidDestinationPath"	"Download destination is invalid."	"Original Translation"	""
-"hbui.Realms.Common.Modals.DownloadingRealmWorldModal.Error.levelDatInvalid"	"The save contains invalid data. Select another save from the World - Saves tab."	"Original Translation"	""
-"hbui.Realms.Common.Modals.DownloadingRealmWorldModal.Error.levelDatUnparsed"	"The save is corrupted. Select another save from the World - Saves tab."	"Original Translation"	""
-"hbui.Realms.Common.Modals.DownloadingRealmWorldModal.Error.title"	"Download failed"	"Original Translation"	""
-"hbui.Realms.Common.Modals.DownloadingRealmWorldModal.Error.vanillaWorldNotAvailable"	"The save cannot be downloaded. Select another save from the World - Saves tab."	"Original Translation"	""
+"hbui.Realms.Common.Modals.DownloadingRealmWorldModal.Error.invalidDestinationPath"	"Download destination is invalid."	"Original Translation
+zh_CN: Download destination is invalid.
+zh_TW: Download destination is invalid."	""
+"hbui.Realms.Common.Modals.DownloadingRealmWorldModal.Error.levelDatInvalid"	"The save contains invalid data. Select another save from the World - Saves tab."	"Original Translation
+zh_CN: The save contains invalid data. Select another save from the World - Saves tab.
+zh_TW: The save contains invalid data. Select another save from the World - Saves tab."	""
+"hbui.Realms.Common.Modals.DownloadingRealmWorldModal.Error.levelDatUnparsed"	"The save is corrupted. Select another save from the World - Saves tab."	"Original Translation
+zh_CN: The save is corrupted. Select another save from the World - Saves tab.
+zh_TW: The save is corrupted. Select another save from the World - Saves tab."	""
+"hbui.Realms.Common.Modals.DownloadingRealmWorldModal.Error.title"	"Download failed"	"Original Translation
+zh_CN: 下载失败
+zh_TW: 下載失敗"	""
+"hbui.Realms.Common.Modals.DownloadingRealmWorldModal.Error.vanillaWorldNotAvailable"	"The save cannot be downloaded. Select another save from the World - Saves tab."	"Original Translation
+zh_CN: The save cannot be downloaded. Select another save from the World - Saves tab.
+zh_TW: The save cannot be downloaded. Select another save from the World - Saves tab."	""
 "hbui.Realms.Common.Modals.DownloadingRealmWorldModal.Vanilla.Body.downloading"	"Downloading"	"Original Translation
-zh_CN: 正在下载到本地存储
-zh_TW: 正在下載至本機儲存空間"	""
+zh_CN: 正在下载
+zh_TW: 下載中"	""
 "hbui.Realms.Common.Modals.DownloadingRealmWorldModal.Vanilla.Body.importing"	"Importing to local storage"	"Original Translation
-zh_CN: 正在导入已下载的世界
-zh_TW: 正在匯入已下載的世界"	""
+zh_CN: 正在导入到本地存储
+zh_TW: 正在匯入至本機儲存空間"	""
 "hbui.Realms.Common.Modals.DownloadingRealmWorldModal.Vanilla.Body.processing"	"Processing"	"Original Translation
-zh_CN: 正在处理世界
-zh_TW: 正在處理世界"	""
+zh_CN: 正在处理
+zh_TW: 正在處理"	""
 "hbui.Realms.Common.Modals.DownloadingRealmWorldModal.Vanilla.title"	"Downloading %1$s"	"Original Translation
 zh_CN: 正在下载 %1$s
 zh_TW: 正在下載 %1$s"	""
@@ -23822,13 +24067,13 @@ zh_CN: 成员
 zh_TW: 成員"	""
 "hbui.Realms.MemberSettings.defaultRole.memberDescription"	"Members can build and mine, attack players and mobs, and interact with items and entities."	"Original Translation
 zh_CN: 成员可以建造和挖矿，攻击玩家和生物，并与物品和实体互动
-zh_TW: 成員可以建造、採礦、攻擊玩家與生物，並與物品及實體互動"	""
+zh_TW: 成員可以建造、採礦、攻擊玩家與生物，並與物品及實體互動。"	""
 "hbui.Realms.MemberSettings.defaultRole.operator"	"Operator"	"Original Translation
 zh_CN: 操作员
 zh_TW: 管理員"	""
 "hbui.Realms.MemberSettings.defaultRole.operatorDescription"	"Operators are members who can set player permissions and use commands to have more control over your world."	"Original Translation
 zh_CN: 操作员是可以设置玩家权限，并通过命令更全面地管理世界的成员
-zh_TW: 管理員是能設定玩家權限、使用指令徹底掌控世界的成員"	""
+zh_TW: 管理員是可以設定玩家權限及使用指令的成員，能進一步掌控你的世界。"	""
 "hbui.Realms.MemberSettings.defaultRole.title"	"Default permission level"	"Original Translation
 zh_CN: 默认权限级别
 zh_TW: 預設權限等級"	""
@@ -23837,7 +24082,7 @@ zh_CN: 访客
 zh_TW: 訪客"	""
 "hbui.Realms.MemberSettings.defaultRole.visitorDescription"	"Visitors can freely explore your world, but cannot interact with blocks, items, or entities."	"Original Translation
 zh_CN: 访客可以自由探索你的世界，但无法与方块、物品或实体互动
-zh_TW: 訪客能自由探索你的世界，但不能與方塊、物品或實體互動"	""
+zh_TW: 訪客可以自由探索你的世界，但不能與方塊、物品或實體互動。"	""
 "hbui.Realms.MemberSettings.header"	"%1$s member settings"	"Original Translation
 zh_CN: %1$s成员设置
 zh_TW: %1$s 成員設定"	""
@@ -23849,7 +24094,7 @@ zh_CN: 移除所有成员
 zh_TW: 移除所有成員"	""
 "hbui.Realms.MemberSettings.remove.description"	"All members will be cleared from this Realm."	"Original Translation
 zh_CN: 此 Realm 中的所有成员都将被清空
-zh_TW: 清除此 Realm 的所有成員"	""
+zh_TW: 將從此 Realm 移除所有成員。"	""
 "hbui.Realms.MemberSettings.remove.title"	"Remove all members (%1$s)"	"Original Translation
 zh_CN: 移除所有成员（%1$s）
 zh_TW: 移除所有成員（%1$s）"	""
@@ -23884,14 +24129,16 @@ zh_TW: Realm 暫時關閉。請於 Realm 設定中重新開啟。"	""
 zh_CN: 希望你喜欢 Realms！如果你想进一步了解 Realms 订阅中包含的精彩新功能，请查看下方资源！
 zh_TW: 希望您喜歡 Realms！如果想進一步了解 Realms 訂閱包含的精彩新功能，請查看下方資源。"	""
 "hbui.Realms.RealmsHub.LearnMore.enumeration"	"%1$s of %2$s"	"Original Translation
-zh_CN: %1$s of %2$s
-zh_TW: %1$s of %2$s"	""
+zh_CN: 第 %1$s 个，共 %2$s 个
+zh_TW: %1$s/%2$s"	""
 "hbui.Realms.RealmsHub.LearnMore.helpGuide"	"Realms help guide"	"Original Translation
 zh_CN: Realms 帮助指南
 zh_TW: Realms 說明指南"	""
 "hbui.Realms.RealmsHub.LearnMore.title"	"Learn more about Realms"	"Original Translation
 zh_CN: 详细了解 Realms
 zh_TW: 深入了解 Realms"	""
+"hbui.Realms.RealmsHub.LearnMore.tutorialModalDescription"	"Scan to visit aka.ms/realms-tutorials"	"Original Translation"	""
+"hbui.Realms.RealmsHub.LearnMore.tutorialModalTitle"	"Realms tutorial videos"	"Original Translation"	""
 "hbui.Realms.RealmsHub.LearnMore.tutorialVideos"	"Realms tutorial videos"	"Original Translation
 zh_CN: Realms 教学视频
 zh_TW: Realms 教學影片"	""
@@ -24486,16 +24733,18 @@ zh_TW: 伺服器工具"	""
 "hbui.Realms.RealmsHub.Settings.ServerTools.serverPerformance.description"	"CPU, RAM, player count, and server tick time metrics on Minecraft.net."	"Original Translation
 zh_CN: 在 Minecraft.net 上查看 CPU、RAM、玩家数量和服务器 tick 时间等指标。
 zh_TW: 可在 Minecraft.net 查看 CPU、RAM、玩家人數與伺服器 Tick 時間等指標。"	""
-"hbui.Realms.RealmsHub.Settings.ServerTools.serverPerformance.noPreview"	"Server performance is not viewable in Minecraft Preview."	"Original Translation"	""
+"hbui.Realms.RealmsHub.Settings.ServerTools.serverPerformance.noPreview"	"Server performance is not viewable in Minecraft Preview."	"Original Translation
+zh_CN: 在 Minecraft Preview 中无法查看服务器性能。
+zh_TW: 在 Minecraft Preview 中無法查看伺服器效能。"	""
 "hbui.Realms.RealmsHub.Settings.ServerTools.serverPerformance.platformMismatch"	"Server performance is not viewable on this device. Go to Minecraft.net."	"Original Translation
-zh_CN: Server performance is not viewable on this device. Go to Minecraft.net.
-zh_TW: Server performance is not viewable on this device. Go to Minecraft.net."	""
+zh_CN: 此设备无法查看服务器性能。请前往 Minecraft.net。
+zh_TW: 無法在此裝置上檢視伺服器效能。請前往 Minecraft.net。"	""
 "hbui.Realms.RealmsHub.Settings.ServerTools.serverPerformance.serverPerformanceAction"	"Server performance"	"Original Translation
-zh_CN: Server performance
-zh_TW: Server performance"	""
+zh_CN: 服务器性能
+zh_TW: 伺服器效能"	""
 "hbui.Realms.RealmsHub.Settings.ServerTools.serverPerformance.title"	"Server performance"	"Original Translation
-zh_CN: Server performance
-zh_TW: Server performance"	""
+zh_CN: 服务器性能
+zh_TW: 伺服器效能"	""
 "hbui.Realms.RealmsHub.Settings.Subscriptions.Button.Delete"	"Delete"	"Original Translation
 zh_CN: 删除
 zh_TW: 刪除"	""
@@ -24535,7 +24784,7 @@ zh_TW: 確定"	""
 "hbui.Realms.RealmsHub.Settings.Subscriptions.ManageModal.title"	"Realms subscription"	"Original Translation
 zh_CN: Realms 订阅服务
 zh_TW: Realms 訂閱"	""
-"hbui.Realms.RealmsHub.Settings.Subscriptions.PlatformWarning"	"You started your subscription in the %1$s. You can only extend your subscription there."	"Original Translation
+"hbui.Realms.RealmsHub.Settings.Subscriptions.PlatformWarning"	"You started your subscription in the %1$s. You can only manage your subscription there."	"Original Translation
 zh_CN: 你于 %1$s 开始了订阅，只能按此时间延长订阅。
 zh_TW: 您的訂閱始於 %1$s，僅能於該處延長訂閱。"	""
 "hbui.Realms.RealmsHub.Settings.Subscriptions.PlayerCount"	"Player count"	"Original Translation
@@ -24551,8 +24800,8 @@ zh_TW: 只要你連結的 Realm 付費訂閱有效，預覽版 Realm 就會保�
 zh_CN: 所有 Realms 屏幕和功能都可以在预览版中使用，除了购买新的定期服务或管理现有 Realms 的定期服务。
 zh_TW: 除了購買新訂閱或管理現有的 Realms 訂閱外，預覽版可使用所有的 Realms 介面與功能。"	""
 "hbui.Realms.RealmsHub.Settings.Subscriptions.infoAndPlayerCount"	"%1$s Subscription: You + %2$s Friends server %3$s"	"Original Translation
-zh_CN: %1$s Subscription: You + %2$s Friends server %3$s
-zh_TW: %1$s Subscription: You + %2$s Friends server %3$s"	""
+zh_CN: %1$s 订阅：您 + %2$s 位好友服务器 %3$s
+zh_TW: %1$s 訂閱：你 + %2$s 位好友的伺服器 %3$s"	""
 "hbui.Realms.RealmsHub.Settings.enumeration"	"%1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
 zh_TW: %1$s/%2$s"	""
@@ -24793,33 +25042,87 @@ zh_TW: 尚無紀錄"	""
 "hbui.Realms.RealmsHub.enumeration"	"%1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s/%2$s 个
 zh_TW: %1$s/%2$s"	""
-"hbui.Realms.RealmsHub.guides.admins"	"Admins"	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.admins.textOne"	"Admin is a role that the owner can assign to a member of the Realm. Members with the Admin role will be able to do almost anything the owner can do."	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.admins.textThree"	"Consider assigning the admin role only to trusted members of the Realm so they can help you create a fun experience for the rest of your members."	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.admins.textTwo"	"Admins can not manage your subscription or access your Marketplace Pass catalog. Admins can invite/remove members and change the world or its settings."	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.changingWorld"	"Changing your World"	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.changingWorld.textOne"	"You can play any world you want on the Realm. Upload a world you already play, start from a Marketplace template or Add-On, or start a brand new world."	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.changingWorld.textTwo"	"To upload, find the world you want to play and select the play on Realms button from the edit world screen. You will be asked to pick a slot, this will fill 1 of the 3 world slots that your Realm comes with. You can choose which of the 3 slots is active, as well as options to download or change a slot on the world tab in Realm Hub."	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.header"	"Help Guides"	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.inputLegend"	"Select"	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.inviteLinks"	"Invite links"	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.inviteLinks.textOne"	"To open the Realm up and allow joining more easily, the owner and the admins can create invite links. Share them wherever you want and members will join your Realm from the link."	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.inviteLinks.textTwo"	"Your Realm can have 5 invite links at once, they can be created, managed, and removed on the invite links screen in Realm Hub."	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.invitingMembers"	"Inviting members"	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.invitingMembers.textOne"	"The owner and the admins can invite any Minecraft player to join the Realm as a member. Members can play on the Realm any time they want."	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.invitingMembers.textThree"	"The owner and the Admins can remove members from the Realm from the members tab."	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.invitingMembers.textTwo"	"If you know their Player name or if they are already a friend, they can be invited from the invite member button on the members tab in Realm Hub."	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.proEditor"	"Pro - Editor"	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.proEditor.Title"	"Editor"	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.proEditor.textFive"	"Editor only - Play is disabled, you and your admins can edit."	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.proEditor.textFour"	"Play only - Editor is disabled, you and your members can play."	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.proEditor.textOne"	"Your Realm has a Launch in Editor button on the Realms tab. You and your admins can make large-scale changes to your world directly on the server. Changes are applied in real-time."	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.proEditor.textThree"	"Play and Editor - Your members can play while you and your admins can be either playing or editing."	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.proEditor.textTwo"	"There are 3 server modes that will change the way you can use the Realm. Switch between the server modes on the server tab in Realm Hub."	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.proEditor.textsix"	"The launch in Editor button is only available for Realms Pro while running Minecraft on Windows."	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.proLiveMetrics"	"Pro - Live metrics"	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.proLiveMetrics.Title"	"Live metrics"	"Original Translation"	""
-"hbui.Realms.RealmsHub.guides.proLiveMetrics.textOne"	"Get clear insights into how your Realm is performing in real time – and over time. Track CPU, memory usage, player count, and server tick time to stay on top of performance as your Realm grows and gains more members. Some intense processes in Minecraft can affect gameplay, even on the most powerful server. Using live metrics you can know how to tune your settings proactively for smoother gameplay and the experience you want for your community."	"Original Translation"	""
+"hbui.Realms.RealmsHub.guides.admins"	"Admins"	"Original Translation
+zh_CN: 管理员
+zh_TW: 管理員"	""
+"hbui.Realms.RealmsHub.guides.admins.textOne"	"Admin is a role that the owner can assign to a member of the Realm. Members with the Admin role will be able to do almost anything the owner can do."	"Original Translation
+zh_CN: 管理员是拥有者可以分配给 Realm 成员的一种身份。拥有管理员身份的成员几乎可以执行拥有者所有的操作。
+zh_TW: 管理員是擁有者可指派給 Realm 成員的角色。具有管理員角色的成員幾乎可以執行擁有者能做的所有事情。"	""
+"hbui.Realms.RealmsHub.guides.admins.textThree"	"Consider assigning the admin role only to trusted members of the Realm so they can help you create a fun experience for the rest of your members."	"Original Translation
+zh_CN: 建议只将管理员身份分配给你信任的 Realm 成员，这样他们能帮助你为其他成员创造愉快的体验。
+zh_TW: 建議只將管理員角色指派給你信任的 Realm 成員，讓他們協助你為其他成員打造有趣的遊戲體驗。"	""
+"hbui.Realms.RealmsHub.guides.admins.textTwo"	"Admins cannot manage your subscription or access your Marketplace Pass catalog. Admins can invite/remove members and change the world or its settings."	"Original Translation
+zh_CN: Admins can not manage your subscription or access your Marketplace Pass catalog. Admins can invite/remove members and change the world or its settings.
+zh_TW: Admins can not manage your subscription or access your Marketplace Pass catalog. Admins can invite/remove members and change the world or its settings."	""
+"hbui.Realms.RealmsHub.guides.changingWorld"	"Changing your World"	"Original Translation
+zh_CN: 更换你的世界
+zh_TW: 更換你的世界"	""
+"hbui.Realms.RealmsHub.guides.changingWorld.textOne"	"You can play any world you want on the Realm. Upload a world you already play, start from a Marketplace template or Add-On, or start a brand new world."	"Original Translation
+zh_CN: 你可以在 Realm 上游玩任何你想要的世界。上传你已有的世界，从市场模板或追加内容开始，或创建一个全新的世界。
+zh_TW: 你可以在 Realm 上遊玩任何世界。上傳你已在遊玩的世界、使用市集範本或附加內容，或建立全新的世界。"	""
+"hbui.Realms.RealmsHub.guides.changingWorld.textTwo"	"To upload, find the world you want to play and select the play on Realms button from the edit world screen. You will be asked to pick a slot, this will fill 1 of the 3 world slots that your Realm comes with. You can choose which of the 3 slots is active, as well as options to download or change a slot on the world tab in Realm Hub."	"Original Translation
+zh_CN: 要上传，找到你想要游玩的世界，在编辑世界界面选择“在 Realms 上游玩”按钮。系统会要求你选择一个槽位，这将占用 Realm 提供的 3 个世界槽位之一。你可以选择哪个槽位为激活状态，还可以在 Realm 主界面的世界标签页中下载或更改槽位。
+zh_TW: 若要上傳，請找到你想遊玩的世界，並在編輯世界畫面選取「在 Realms 遊玩」按鈕。系統會要求你選擇一個欄位，並佔用 Realm 隨附的 3 個世界欄位之一。你可以選擇要啟用的欄位，也可以在 Realm Hub 的「世界」分頁下載或更換欄位。"	""
+"hbui.Realms.RealmsHub.guides.header"	"Help Guides"	"Original Translation
+zh_CN: 帮助指南
+zh_TW: 說明指南"	""
+"hbui.Realms.RealmsHub.guides.inputLegend"	"Select"	"Original Translation
+zh_CN: 选择
+zh_TW: 選取"	""
+"hbui.Realms.RealmsHub.guides.inviteLinks"	"Invite links"	"Original Translation
+zh_CN: 邀请链接
+zh_TW: 邀請連結"	""
+"hbui.Realms.RealmsHub.guides.inviteLinks.textOne"	"To open the Realm up and allow joining more easily, the owner and the admins can create invite links. Share them wherever you want and members will join your Realm from the link."	"Original Translation
+zh_CN: 为了更方便地开放 Realm 并允许他人加入，拥有者和管理员可以创建邀请链接。你可以自由分享这些链接，成员可通过链接加入你的 Realm。
+zh_TW: 若要開放 Realm，讓其他人更容易加入，擁有者和管理員可以建立邀請連結。你可以隨意分享連結，成員即可透過連結加入 Realm。"	""
+"hbui.Realms.RealmsHub.guides.inviteLinks.textTwo"	"Your Realm can have 5 invite links at once, they can be created, managed, and removed on the invite links screen in Realm Hub."	"Original Translation
+zh_CN: 你的 Realm 同时最多可以拥有 5 个邀请链接，可在 Realm 主界面的邀请链接页面进行创建、管理和移除。
+zh_TW: 你的 Realm 最多可同時擁有 5 個邀請連結。你可以在 Realm Hub 的「邀請連結」畫面建立、管理及移除連結。"	""
+"hbui.Realms.RealmsHub.guides.invitingMembers"	"Inviting members"	"Original Translation
+zh_CN: 邀请成员
+zh_TW: 邀請成員"	""
+"hbui.Realms.RealmsHub.guides.invitingMembers.textOne"	"The owner and the admins can invite any Minecraft player to join the Realm as a member. Members can play on the Realm any time they want."	"Original Translation
+zh_CN: 拥有者和管理员可以邀请任何 Minecraft 玩家加入 Realm 成为成员。成员可以随时在 Realm 中游玩。
+zh_TW: 擁有者和管理員可以邀請任何 Minecraft 玩家加入 Realm 成為成員。成員可以隨時在 Realm 中遊玩。"	""
+"hbui.Realms.RealmsHub.guides.invitingMembers.textThree"	"The owner and the Admins can remove members from the Realm from the members tab."	"Original Translation
+zh_CN: 拥有者和管理员可以在成员标签页移除 Realm 成员。
+zh_TW: 擁有者和管理員可以在成員標籤頁移除 Realm 成員。"	""
+"hbui.Realms.RealmsHub.guides.invitingMembers.textTwo"	"If you know their Player name or if they are already a friend, they can be invited from the invite member button on the members tab in Realm Hub."	"Original Translation
+zh_CN: 如果你知道玩家名，或他们已经是你的好友，可以在 Realm Hub 的成员标签页通过邀请成员按钮邀请他们。
+zh_TW: 如果你知道對方的玩家名稱，或對方已經是你的好友，可以在 Realm Hub 的「成員」分頁按下「邀請成員」，邀請對方加入。"	""
+"hbui.Realms.RealmsHub.guides.proEditor"	"Pro - Editor"	"Original Translation
+zh_CN: 专业版 - 编辑器
+zh_TW: Pro－編輯器"	""
+"hbui.Realms.RealmsHub.guides.proEditor.Title"	"Editor"	"Original Translation
+zh_CN: 编辑器
+zh_TW: 編輯器"	""
+"hbui.Realms.RealmsHub.guides.proEditor.textFive"	"Editor only - Play is disabled, you and your admins can edit."	"Original Translation
+zh_CN: 仅限编辑模式 - 游玩已禁用，你和管理员可以编辑。
+zh_TW: 僅限編輯器：遊玩功能已停用，你和管理員可以進行編輯。"	""
+"hbui.Realms.RealmsHub.guides.proEditor.textFour"	"Play only - Editor is disabled, you and your members can play."	"Original Translation
+zh_CN: 仅限游玩模式 - 编辑已禁用，你和成员可以游玩。
+zh_TW: 僅限遊玩：編輯器已停用，你和成員可以遊玩。"	""
+"hbui.Realms.RealmsHub.guides.proEditor.textOne"	"Your Realm has a Launch in Editor button on the Realms tab. You and your admins can make large-scale changes to your world directly on the server. Changes are applied in real-time."	"Original Translation
+zh_CN: 你的Realm在Realms标签页有“在编辑器中启动”按钮。你和管理员可以直接在服务器上对世界进行大规模修改，所有更改会实时应用。
+zh_TW: 你的 Realm 在 Realms 分頁上有「在編輯器中啟動」按鈕。你和管理員可以直接在伺服器上大幅修改世界，變更會即時套用。"	""
+"hbui.Realms.RealmsHub.guides.proEditor.textThree"	"Play and Editor - Your members can play while you and your admins can be either playing or editing."	"Original Translation
+zh_CN: 游玩与编辑模式 - 成员可以游玩，你和管理员既可以游玩也可以编辑。
+zh_TW: 遊玩與編輯：成員可以遊玩，你和管理員則可以遊玩或編輯。"	""
+"hbui.Realms.RealmsHub.guides.proEditor.textTwo"	"There are 3 server modes that will change the way you can use the Realm. Switch between the server modes on the server tab in Realm Hub."	"Original Translation
+zh_CN: 有三种服务器模式可以改变你对 Realm 的使用方式。你可以在 Realm Hub 的服务器标签页切换服务器模式。
+zh_TW: 共有 3 種伺服器模式，會影響 Realm 的使用方式。你可以在 Realm Hub 的「伺服器」分頁中切換模式。"	""
+"hbui.Realms.RealmsHub.guides.proEditor.textsix"	"The launch in Editor button is only available for Realms Pro while running Minecraft on Windows."	"Original Translation
+zh_CN: “在编辑器中启动”按钮仅在 Windows 系统下运行 Minecraft 的 Realms Pro 时可用。
+zh_TW: 「在編輯器中啟動」按鈕僅在 Windows 版 Minecraft 的 Realms Pro 中提供。"	""
+"hbui.Realms.RealmsHub.guides.proLiveMetrics"	"Pro - Live metrics"	"Original Translation
+zh_CN: 专业版 - 实时指标
+zh_TW: Pro－即時指標"	""
+"hbui.Realms.RealmsHub.guides.proLiveMetrics.Title"	"Live metrics"	"Original Translation
+zh_CN: 实时指标
+zh_TW: 即時指標"	""
+"hbui.Realms.RealmsHub.guides.proLiveMetrics.textOne"	"Get clear insights into how your Realm is performing in real time – and over time. Track CPU, memory usage, player count, and server tick time to stay on top of performance as your Realm grows and gains more members. Some intense processes in Minecraft can affect gameplay, even on the most powerful server. Using live metrics you can know how to tune your settings proactively for smoother gameplay and the experience you want for your community."	"Original Translation
+zh_CN: 清晰掌握你的 Realm 实时及历史表现。追踪 CPU、内存使用率、玩家数量和服务器刻时，随时了解服务器性能，助力你的 Realm 不断壮大并吸引更多成员。Minecraft 中的部分高强度操作可能影响游戏体验，即便在最强服务器上也是如此。通过实时指标，你可以主动优化设置，带来更流畅的游戏体验，让你的社区拥有理想的体验。
+zh_TW: 即時掌握 Realm 的目前效能與長期變化。追蹤 CPU、記憶體使用量、玩家人數和伺服器 Tick 時間，即使 Realm 持續成長、成員增加，也能掌握效能狀況。Minecraft 中某些高負載程序即使在效能最強大的伺服器上，也可能影響遊戲體驗。透過即時指標，你可以主動調整設定，確保遊戲順暢運作，為社群打造理想體驗。"	""
 "hbui.Realms.RealmsHub.invite.emptyState"	"Empty state"	"Original Translation
 zh_CN: 无结果
 zh_TW: 狀態為空"	""
@@ -24870,7 +25173,7 @@ zh_CN: 找到 1 个玩家代号
 zh_TW: 找到 1 個玩家代號"	""
 "hbui.Realms.RealmsHub.invite.unknownError"	"We encountered an unknown error, please try again."	"Original Translation
 zh_CN: 我们遇到未知错误，请重试。
-zh_TW: 發生不明錯誤，請再試一次。"	""
+zh_TW: 發生未知錯誤，請再試一次。"	""
 "hbui.Realms.RealmsHub.members.block.success"	"%1$s blocked from the Realm"	"Original Translation
 zh_CN: %1$s 被阻止加入 Realm
 zh_TW: %1$s 被 Realm 封鎖"	""
@@ -24901,6 +25204,7 @@ zh_TW: %1$s 已從 Realm 移除"	""
 "hbui.Realms.RealmsHub.members.unblock.success"	"%1$s unblocked from the Realm"	"Original Translation
 zh_CN: %1$s 被允许加入 Realm
 zh_TW: Realm 已解除封鎖 %1$s"	""
+"hbui.Realms.RealmsQRCodeModal.back"	"Back"	"Original Translation"	""
 "hbui.Realms.RealmsRolesAndPermissions.Action.addRemoveMembers"	"Add and remove Realm members"	"Original Translation
 zh_CN: 添加和移除 Realm 成员
 zh_TW: 新增與移除 Realm 成員"	""
@@ -25305,7 +25609,7 @@ zh_CN: 队伍无法跟随
 zh_TW: 隊伍無法跟隨"	""
 "hbui.RealmsMultiplayerPrivilegeBlockedModal.Platform_NintendoSwitch"	"You cannot play online multiplayer because of a Parental Control restriction. View and manage your multiplayer settings with “Communicating With Others” in the Parental Controls."	"Original Translation
 zh_CN: 由于家长监护设置的限制，你无法进行在线多人游戏。使用家长监护设置中的“与他人交流”查看并管理你的多人游戏设置。
-zh_TW: 由於有「Parental Controls設定」的限制，因此你無法玩線上多人遊戲。請在「Parental Controls設定」的「可與他人通訊」中檢視和管理你的多人遊戲設定。"	""
+zh_TW: 由於有「家長監護設定」的限制，因此你無法玩線上多人遊戲。請在「家長監護設定」的「可與他人通訊」中檢視和管理你的多人遊戲設定。"	""
 "hbui.RealmsMultiplayerPrivilegeBlockedModal.Platform_PlayStation"	"Communication features are disabled in your PlayStation™Network account. Access communication features by enabling it in your PlayStation™Network account."	"Original Translation
 zh_CN: 通信功能已在 PlayStation™Network 账号中禁用。请在 PlayStation™Network 账号中启用通信功能进行访问。
 zh_TW: PlayStation™Network的帳戶已停用通訊功能。請在 PlayStation™Network的帳戶中啟用通訊功能。"	""
@@ -26063,11 +26367,11 @@ zh_TW: 返回"	""
 zh_CN: 出错了
 zh_TW: 發生錯誤"	""
 "hbui.RealmsPurchaseSubscriptionRoute.errorModals.reconciliationFailed.body"	"We were unable to set up a Realm for your unused subscription. Check your internet connection and try again. If this issue persists after restarting, please contact support."	"Original Translation
-zh_CN: We were unable to set up a Realm for your unused subscription. Check your internet connection and try again. If this issue persists after restarting, please contact support.
-zh_TW: We were unable to set up a Realm for your unused subscription. Check your internet connection and try again. If this issue persists after restarting, please contact support."	""
+zh_CN: 我们无法为您的未使用订阅设置 Realm。请检查您的网络连接并重试。如果重启后问题仍然存在，请联系客服。
+zh_TW: 無法為你尚未使用的訂閱設定 Realm。請檢查網際網路連線，然後再試一次。若重新啟動後問題仍然存在，請聯絡客服。"	""
 "hbui.RealmsPurchaseSubscriptionRoute.errorModals.reconciliationFailed.title"	"Something went wrong"	"Original Translation
-zh_CN: Something went wrong
-zh_TW: Something went wrong"	""
+zh_CN: 出错了
+zh_TW: 發生錯誤"	""
 "hbui.RealmsPurchaseSubscriptionRoute.errorModals.select"	"Select"	"Original Translation
 zh_CN: 选择
 zh_TW: 選取"	""
@@ -26077,7 +26381,7 @@ zh_TW: 建立 Realms Core 伺服器"	""
 "hbui.RealmsPurchaseSubscriptionRoute.header.plus"	"Create a Realms Plus Server"	"Original Translation
 zh_CN: 创建一个 Realms Plus 服务器
 zh_TW: 建立 Realms Plus 伺服器"	""
-"hbui.RealmsPurchaseSubscriptionRoute.header.renew"	"Renewing Realms Subscripton"	"Original Translation
+"hbui.RealmsPurchaseSubscriptionRoute.header.renew"	"Renewing Realms Subscription"	"Original Translation
 zh_CN: 更新 Realms 订阅
 zh_TW: 續訂 Realms 定期服務"	""
 "hbui.RealmsPurchaseSubscriptionRoute.header.trial"	"Realms Plus Free Trial"	"Original Translation
@@ -27497,20 +27801,20 @@ zh_TW: 畫面照片相簿"	""
 zh_CN: %1$s 评论：世界名称
 zh_TW: %1$s 留言：世界冠軍"	""
 "hbui.ReconcileRealmBanner.link"	"Set up your Realm now"	"Original Translation
-zh_CN: Set up your Realm now
-zh_TW: Set up your Realm now"	""
+zh_CN: 立即设置您的 Realm
+zh_TW: 立即設定你的 Realm"	""
 "hbui.ReconcileRealmBanner.text"	"You have an unused Realm subscription!"	"Original Translation
-zh_CN: You have an unused Realm subscription!
-zh_TW: You have an unused Realm subscription!"	""
+zh_CN: 您有一个未使用的 Realm 订阅！
+zh_TW: 你有一個尚未使用的 Realm 訂閱！"	""
 "hbui.ReconcileRealmRoute.createNewRealm"	"Create new Realm"	"Original Translation
-zh_CN: Create new Realm
-zh_TW: Create new Realm"	""
+zh_CN: 创建新 Realm
+zh_TW: 建立新的 Realm"	""
 "hbui.ReconcileRealmRoute.defaultRealmName"	"%1$s's Realm"	"Original Translation
-zh_CN: %1$s's Realm
-zh_TW: %1$s's Realm"	""
+zh_CN: %1$s 的 Realm
+zh_TW: %1$s 的 Realm"	""
 "hbui.ReconcileRealmRoute.header"	"Choose a Realm to set up"	"Original Translation
-zh_CN: Choose a Realm to set up
-zh_TW: Choose a Realm to set up"	""
+zh_CN: 选择要设置的 Realm
+zh_TW: 選擇要設定的 Realm"	""
 "hbui.ReconcileRealmRoute.label.core"	"Core"	"Original Translation
 zh_CN: Core
 zh_TW: Core"	""
@@ -27521,14 +27825,14 @@ zh_TW: Plus"	""
 zh_CN: Pro
 zh_TW: Pro"	""
 "hbui.ReconcileRealmRoute.players"	"%s Players"	"Original Translation
-zh_CN: %s Players
-zh_TW: %s Players"	""
+zh_CN: %s 位玩家
+zh_TW: %s 位玩家"	""
 "hbui.ReconcileRealmRoute.reconciliationInProgress"	"Processing"	"Original Translation
-zh_CN: Processing
-zh_TW: Processing"	""
+zh_CN: 正在处理
+zh_TW: 正在處理"	""
 "hbui.ReconcileRealmRoute.select"	"Select"	"Original Translation
-zh_CN: Select
-zh_TW: Select"	""
+zh_CN: 选择
+zh_TW: 選取"	""
 "hbui.RenderDistanceWarningRoute.body1"	"You can get better performance with render distance settings that are optimized for your device."	"Original Translation
 zh_CN: 通过为您的设备优化渲染距离设置，您可以获得更好的性能。
 zh_TW: 使用為您的裝置最佳化的渲染距離設定，就能獲得更良好的效能。"	""
@@ -28765,10 +29069,10 @@ zh_TW: 搜尋玩家"	""
 "hbui.SocialDrawerTabErrorState.people.noDataTitle"	"Let's add some friends!"	"Original Translation
 zh_CN: 让我们添加一些好友吧！
 zh_TW: 來新增幾個朋友吧！"	""
-"hbui.SocialDrawerTutorial.partyTab"	"Go here to check out parties. It’s a way to group up with your friends!"	"Original Translation
+"hbui.SocialDrawerTutorial.partyTab"	"Go here to check out parties. A party lets you group up with your friends!"	"Original Translation
 zh_CN: 单击此处查看队伍。这是与好友组队的一种方式！
 zh_TW: 按一下此處查看派對。這是與好友組隊的好方法！"	""
-"hbui.SocialDrawerTutorial.playerOptions"	"Go here to see player options"	"Original Translation
+"hbui.SocialDrawerTutorial.playerOptions"	"Find more player options here"	"Original Translation
 zh_CN: 点击此处查看玩家选项
 zh_TW: 按此查看玩家選項"	""
 "hbui.SocialWorldTab.PlayerOptionsMenu.addToFavorites"	"Add to favorites"	"Original Translation
@@ -28835,8 +29139,8 @@ zh_TW: 離線 (%1$s)"	""
 zh_CN: %1$s 中的玩家 (%2$s)
 zh_TW: %1$s 中的玩家 (%2$s)"	""
 "hbui.SocialWorldTab.playersInWorldWithoutCount"	"Players in %1$s"	"Original Translation
-zh_CN: Players in %1$s
-zh_TW: Players in %1$s"	""
+zh_CN: %1$s 中的玩家
+zh_TW: %1$s 中的玩家"	""
 "hbui.SocialWorldTab.searchForPlayers"	"Search for players"	"Original Translation
 zh_CN: 搜索玩家
 zh_TW: 搜尋玩家"	""
@@ -29269,7 +29573,7 @@ zh_TW: 您需要將「%1$s」轉換成 Minecraft 預覽版，才能遊玩。"	""
 "hbui.Storage.ManageOldWorldStorageRoute.description2"	"A copy will be added to your worlds."	"Original Translation
 zh_CN: 你的世界列表中会新增一个副本。
 zh_TW: 副本將加入你的世界中。"	""
-"hbui.Storage.ManageOldWorldStorageRoute.header"	"Convert you world"	"Original Translation
+"hbui.Storage.ManageOldWorldStorageRoute.header"	"Convert your world"	"Original Translation
 zh_CN: 转换你的世界
 zh_TW: 轉換你的世界"	""
 "hbui.Storage.ManageOldWorldStorageRoute.legacyWorlds.title"	"Old worlds"	"Original Translation
@@ -29434,9 +29738,15 @@ zh_TW: 本機儲存空間已滿"	""
 "hbui.Storage.StorageIndicator.localStorageLabel"	"Local storage"	"Original Translation
 zh_CN: 本地存储
 zh_TW: 本機儲存空間"	""
-"hbui.Storage.StorageIndicator.marketplaceStorageAlmostFullLabel"	"Marketplace storage is almost full"	"Original Translation"	""
-"hbui.Storage.StorageIndicator.marketplaceStorageFullLabel"	"Marketplace storage is full"	"Original Translation"	""
-"hbui.Storage.StorageIndicator.marketplaceStorageLabel"	"Marketplace storage"	"Original Translation"	""
+"hbui.Storage.StorageIndicator.marketplaceStorageAlmostFullLabel"	"Marketplace storage is almost full"	"Original Translation
+zh_CN: 市场存储空间几乎已满
+zh_TW: 市集儲存空間即將用盡"	""
+"hbui.Storage.StorageIndicator.marketplaceStorageFullLabel"	"Marketplace storage is full"	"Original Translation
+zh_CN: 市场存储空间已满
+zh_TW: 市集儲存空間已滿"	""
+"hbui.Storage.StorageIndicator.marketplaceStorageLabel"	"Marketplace storage"	"Original Translation
+zh_CN: 市场存储空间
+zh_TW: 市集儲存空間"	""
 "hbui.Storage.StorageIndicator.megabytes"	"%1$sMB"	"Original Translation
 zh_CN: %1$s MB
 zh_TW: %1$s MB"	""
@@ -29920,9 +30230,6 @@ zh_TW: 在 %1$s %2$s/%3$s"	""
 "hbui.Timeline.played"	"%1$s played %2$s %3$s"	"Original Translation
 zh_CN: %1$s 已游玩 %2$s %3$s
 zh_TW: %1$s 已遊玩 %2$s %3$s"	""
-"hbui.Timeline.timeFormat"	"%1$s %2$s"	"Original Translation
-zh_CN: %1$s %2$s
-zh_TW: %1$s %2$s"	""
 "hbui.Timeline.timeblock"	"Time block"	"Original Translation
 zh_CN: 时间方块
 zh_TW: 時間方塊"	""
@@ -39558,8 +39865,12 @@ zh_TW: 這麼做會讓您的整個隊伍離開等候隊列。"	""
 "matchmaking.modal.goBack"	"Go back"	"Original Translation
 zh_CN: 返回
 zh_TW: 返回"	""
-"matchmaking.toast.canceled"	"The queue was canceled"	"Original Translation"	""
-"matchmaking.toast.canceledByPlayer"	"%s canceled the queue"	"Original Translation"	""
+"matchmaking.toast.canceled"	"The queue was canceled"	"Original Translation
+zh_CN: 队列已取消
+zh_TW: 排隊已取消"	""
+"matchmaking.toast.canceledByPlayer"	"%s canceled the queue"	"Original Translation
+zh_CN: %s 已取消队列
+zh_TW: %s 已取消排隊"	""
 "matchmaking.toast.exitQueue"	"Exit Queue"	"Original Translation
 zh_CN: 退出队列
 zh_TW: 離開等候隊列"	""
@@ -39571,21 +39882,31 @@ zh_CN: 排队中
 zh_TW: 等候隊列中"	""
 "matchmaking.toast.leftExperience"	"You left the experience, the queue is canceled"	"Original Translation
 zh_CN: 你已离开体验，队列已取消
-zh_TW: 您已離開體驗，等候隊列已取消"	""
+zh_TW: 你已離開此體驗，排隊已取消"	""
 "matchmaking.toast.loading"	"Loading %s!"	"Original Translation
 zh_CN: 正在加载 %s！
 zh_TW: 正在載入 %s！"	""
-"matchmaking.toast.localPlayerLeftServer"	"You left the server, the queue is canceled"	"Original Translation"	""
+"matchmaking.toast.localPlayerLeftServer"	"You left the server, the queue is canceled"	"Original Translation
+zh_CN: 你已离开服务器，队列已取消
+zh_TW: 你已離開伺服器，排隊已取消"	""
 "matchmaking.toast.partyLeftQueue"	"The party has left the queue"	"Original Translation
 zh_CN: 队伍已离开队列
 zh_TW: 隊伍已離開等候隊列"	""
-"matchmaking.toast.playerLeftServer"	"%s left the server, the queue is canceled"	"Original Translation"	""
+"matchmaking.toast.playerLeftServer"	"%s left the server, the queue is canceled"	"Original Translation
+zh_CN: %s 已离开服务器，队列已取消
+zh_TW: %s 已離開伺服器，排隊已取消"	""
 "matchmaking.toast.queueCanceled"	"You left the queue"	"Original Translation
 zh_CN: 你已离开队列
 zh_TW: 您已離開等候隊列"	""
-"matchmaking.toast.requeueAsParty"	"Rejoining the queue with your party"	"Original Translation"	""
-"matchmaking.toast.serverShutdown"	"The server shut down, the queue is canceled"	"Original Translation"	""
-"matchmaking.toast.timedOut"	"The queue timed out"	"Original Translation"	""
+"matchmaking.toast.requeueAsParty"	"Rejoining the queue with your party"	"Original Translation
+zh_CN: 正在与队伍重新加入队列
+zh_TW: 正在和隊伍一起重新排隊"	""
+"matchmaking.toast.serverShutdown"	"The server shut down, the queue is canceled"	"Original Translation
+zh_CN: 服务器已关闭，队列已取消
+zh_TW: 伺服器已關閉，排隊已取消"	""
+"matchmaking.toast.timedOut"	"The queue timed out"	"Original Translation
+zh_CN: 排队超时
+zh_TW: 排隊已逾時"	""
 "materialreducer.title"	"Material Reducer"	"Original Translation
 zh_CN: 材料分解器
 zh_TW: 物質消除器"	""
@@ -40648,6 +40969,7 @@ zh_TW: %s/%s 名玩家正在睡覺"	""
 "multiplayer.playersSleepingNotPossible"	"No amount of rest can pass this night"	"Original Translation
 zh_CN: 今晚不能再休息了
 zh_TW: 今晚不能再略過休息了"	""
+"multiplayer.serverPerformanceWarning"	"The server is running slowly. Consider reducing resource-intensive activity."	"Original Translation"	""
 "multiplayer.stopSleeping"	"Leave Bed"	"Original Translation
 zh_CN: 起床
 zh_TW: 起床"	""
@@ -40762,7 +41084,7 @@ zh_TW: 由於 Microsoft 帳戶的設定方式，你無法進行線上多人遊�
 "networkWorld.multiplayerPrivilegesBlockedOnConsoleGamecore"	"You cannot play online multiplayer because of how your Microsoft account is set up."	"Original Translation
 zh_CN: 由于您 Microsoft 账号的设置问题，您无法进行在线多人游戏。
 zh_TW: 由於 Microsoft 帳戶的設定方式，因此你無法進行線上多人遊戲。"	""
-"networkWorld.multiplayerPrivilegesUnknown"	"An unknown error occured which is preventing online play. Please try again later."	"Original Translation
+"networkWorld.multiplayerPrivilegesUnknown"	"An unknown error occurred which is preventing online play. Please try again later."	"Original Translation
 zh_CN: 发生了阻止线上游戏的未知错误。请稍后重试。
 zh_TW: 發生未知錯誤，導致無法線上遊玩。請稍後再試。"	""
 "networkWorld.news"	"News:"	"Original Translation
@@ -41155,19 +41477,16 @@ zh_TW: 方塊光源品質"	""
 "options.blockLightQuality.description"	"Adjust the quality of block lighting"	"Original Translation
 zh_CN: 调整方块光照质量
 zh_TW: 調整方塊光源的品質"	""
-"options.blockLightQuality.high"	"Point Lights+"	"Original Translation
+"options.blockLightQuality.high"	"High"	"Original Translation
 zh_CN: 点光源+
 zh_TW: 點光源+"	""
-"options.blockLightQuality.low"	"Volumetric Lights"	"Original Translation
+"options.blockLightQuality.low"	"Low"	"Original Translation
 zh_CN: 体积光源
 zh_TW: 體積光源"	""
-"options.blockLightQuality.medium"	"Point Lights"	"Original Translation
+"options.blockLightQuality.medium"	"Medium"	"Original Translation
 zh_CN: 点光源
 zh_TW: 點光源"	""
-"options.blockLightQuality.off"	"Standard"	"Original Translation
-zh_CN: 标准
-zh_TW: 標準"	""
-"options.blockLightQuality.ultra"	"Point Lights++"	"Original Translation
+"options.blockLightQuality.ultra"	"Ultra"	"Original Translation
 zh_CN: 点光源++
 zh_TW: 點光源++"	""
 "options.bloomStrengthSlider"	"Bloom intensity"	"Original Translation
@@ -41764,7 +42083,7 @@ zh_TW: 從此遊戲中刪除你的 Microsoft 帳戶，將影響使用此帳戶�
 "options.destroyvibration"	"Vibrate When Breaking Blocks"	"Original Translation
 zh_CN: 破坏方块时振动
 zh_TW: 打破方塊時震動"	""
-"options.destroyvibration.Touch.description"	"Turns on haptic feedback for mining and and other destructive behavior"	"Original Translation
+"options.destroyvibration.Touch.description"	"Turns on haptic feedback for mining and other destructive behavior"	"Original Translation
 zh_CN: 开启采矿和其他破坏行为的触觉反馈
 zh_TW: 啟用挖掘與其他破壞動作的震動回饋"	""
 "options.destroyvibration.Touch.name"	"Vibrate when breaking blocks"	"Original Translation
@@ -42130,6 +42449,13 @@ zh_TW: 強制啟用試用模式"	""
 "options.dev_game_tip"	"Gameplay Tips"	"Original Translation
 zh_CN: 游戏提示
 zh_TW: 遊戲秘訣"	""
+"options.dev_grantRealmsDebugSubscription"	"Grant %s Debug Entitlement"	"Original Translation"	""
+"options.dev_grantRealmsDebugSubscription.failure"	"The Realms %s debug entitlement grant failed. Verify that the account is signed in and allow-listed, then try again."	"Original Translation"	""
+"options.dev_grantRealmsDebugSubscription.goToRealms"	"Go to Realms"	"Original Translation"	""
+"options.dev_grantRealmsDebugSubscription.subscriptionDataUnavailable"	"Unable to get subscription data at the moment. Check your internet connection and try again later."	"Original Translation"	""
+"options.dev_grantRealmsDebugSubscription.success"	"Realms %s entitlement granted successfully. Go to the Realms Tab to create your Realm."	"Original Translation"	""
+"options.dev_grantRealmsDebugSubscription.title"	"Debug Entitlement Grant"	"Original Translation"	""
+"options.dev_grantRealmsDebugSubscription.unavailable"	"No debug offer is available for Realms %s. This account is either not allow-listed or has reached the maximum number of debug Realms for this tier."	"Original Translation"	""
 "options.dev_importPacksAsZip"	"Import Packs as Zip"	"Original Translation
 zh_CN: 将包导入为 Zip 压缩包
 zh_TW: 以 ZIP 壓縮檔案形式匯入套件"	""
@@ -42214,6 +42540,8 @@ zh_TW: 覆蓋 Xbox 沙箱 (在 Windows 上控制的作業系統)"	""
 "options.dev_playfab_token_refresh_threshold"	"Playfab Token Refresh Threshold Minutes"	"Original Translation
 zh_CN: Playfab 令牌刷新阈值分钟数
 zh_TW: Playfab 代幣重新整理閾值分鐘數"	""
+"options.dev_realmsCommerceV2"	"Realms Commerce V2"	"Original Translation"	""
+"options.dev_realmsCommerceV2.enabled"	"Enable Commerce V2"	"Original Translation"	""
 "options.dev_realmsEndpoint"	"Realms Endpoint"	"Original Translation
 zh_CN: Realms 端点
 zh_TW: Realms 端點"	""
@@ -43573,9 +43901,6 @@ zh_TW: 切換至其他應用程式時顯示暫停選單"	""
 "options.percent.format"	"%s%%"	"Original Translation
 zh_CN: %s%%
 zh_TW: %s%%"	""
-"options.perf_turtle"	"Performance Turtle"	"Original Translation
-zh_CN: 性能图表
-zh_TW: 效能海龜"	""
 "options.performanceButton"	"Video Performance Settings..."	"Original Translation
 zh_CN: 视频性能设置…
 zh_TW: 視訊效能設定..."	""
@@ -43917,7 +44242,7 @@ zh_CN: 按住按钮
 zh_TW: 按住不放"	""
 "options.sneakOption.name"	"Sneak button behavior"	"Original Translation
 zh_CN: 潜行按钮行为
-zh_TW: 潛形按鈕行為"	""
+zh_TW: 潛行按鈕行為"	""
 "options.sneakOption.toggle"	"Tap button once to sneak"	"Original Translation
 zh_CN: 点击按钮一下即可潜行
 zh_TW: 點擊按鈕一次即可潛行"	""
@@ -44377,7 +44702,9 @@ zh_TW: 使用多個影格來建立更清晰的升頻畫面"	""
 "options.upscalingPercentage"	"Resolution"	"Original Translation
 zh_CN: 分辨率
 zh_TW: 解析度"	""
-"options.upscalingPercentage.automaticPresetOnly"	"Automatic resolution is only valid for presets"	"Original Translation"	""
+"options.upscalingPercentage.automaticPresetOnly"	"Automatic resolution is only valid for presets"	"Original Translation
+zh_CN: 自动分辨率仅适用于预设模式
+zh_TW: 自動解析度僅適用於預設模式"	""
 "options.upscalingPercentage.description"	"Fine tune your upscaling resolution"	"Original Translation
 zh_CN: 微调你的放大分辨率
 zh_TW: 微調升頻解析度"	""
@@ -45216,29 +45543,29 @@ zh_TW: 擁有 Pass 即可免費獲得"	""
 zh_CN: 在通行证中
 zh_TW: 在通行證中"	""
 "persona.customskins.error.communitystandardsviolation"	"The uploaded skin was flagged as violating community standards."	"Original Translation
-zh_CN: The uploaded skin was flagged as violating community standards.
-zh_TW: The uploaded skin was flagged as violating community standards."	""
+zh_CN: 上传的皮肤因违反社区准则而被标记。
+zh_TW: 上傳的外觀已標記為違反社群守則。"	""
 "persona.customskins.error.failedloadingpng"	"The decoded bytes could not be loaded as a PNG image."	"Original Translation
-zh_CN: The decoded bytes could not be loaded as a PNG image.
-zh_TW: The decoded bytes could not be loaded as a PNG image."	""
+zh_CN: 解码后的字节无法加载为 PNG 图片。
+zh_TW: 無法將解碼後的位元組載入為 PNG 影像。"	""
 "persona.customskins.error.imagetoolarge"	"The uploaded PNG exceeds the configured maximum size in bytes."	"Original Translation
-zh_CN: The uploaded PNG exceeds the configured maximum size in bytes.
-zh_TW: The uploaded PNG exceeds the configured maximum size in bytes."	""
+zh_CN: 上传的 PNG 文件超过了配置的最大字节数。
+zh_TW: 上傳的 PNG 超過設定的位元組大小上限。"	""
 "persona.customskins.error.invalidbase64"	"The supplied string is not valid Base64."	"Original Translation
-zh_CN: The supplied string is not valid Base64.
-zh_TW: The supplied string is not valid Base64."	""
+zh_CN: 提供的字符串不是有效的 Base64。
+zh_TW: 提供的字串不是有效的 Base64。"	""
 "persona.customskins.error.invaliddimensions"	"The uploaded PNG's width/height combination is not in the allowed set."	"Original Translation
-zh_CN: The uploaded PNG's width/height combination is not in the allowed set.
-zh_TW: The uploaded PNG's width/height combination is not in the allowed set."	""
+zh_CN: 上传的 PNG 文件宽高组合不在允许范围内。
+zh_TW: 上傳的 PNG 寬高組合不屬於允許的尺寸組合。"	""
 "persona.customskins.error.recordnotfound"	"No Skin exists in storage for the requested SkinId."	"Original Translation
-zh_CN: No Skin exists in storage for the requested SkinId.
-zh_TW: No Skin exists in storage for the requested SkinId."	""
+zh_CN: 存储中没有对应 SkinId 的皮肤。
+zh_TW: 針對要求的 SkinId，儲存空間中不存在對應的外觀。"	""
 "persona.customskins.error.title"	"Skin Upload Error"	"Original Translation
-zh_CN: Skin Upload Error
-zh_TW: Skin Upload Error"	""
+zh_CN: 皮肤上传错误
+zh_TW: 外觀上傳錯誤"	""
 "persona.customskins.error.unexpectederror"	"Unexpected error during Custom Skin upload."	"Original Translation
-zh_CN: Unexpected error during Custom Skin upload.
-zh_TW: Unexpected error during Custom Skin upload."	""
+zh_CN: 自定义皮肤上传时发生意外错误。
+zh_TW: 上傳自訂外觀時發生非預期的錯誤。"	""
 "persona.efe_cardigan.title"	"Efe's Cardigan"	"Original Translation
 zh_CN: 埃菲的开衫
 zh_TW: 埃菲的開襟毛衣"	""
@@ -47994,6 +48321,7 @@ zh_TW: 正在將您重新連線至遊戲"	""
 "record.nowPlaying"	"Now playing: %s"	"Original Translation
 zh_CN: 正在播放：%s
 zh_TW: 正在播放：%s"	""
+"record.playingNext"	"Playing Next"	"Original Translation"	""
 "resourcePack.Fallout.description"	"Welcome to the Wasteland!"	"Original Translation
 zh_CN: 欢迎来到废土！
 zh_TW: 歡迎來到荒地！"	""
@@ -48259,8 +48587,8 @@ zh_TW: 變更「筆刷」形狀屬性的設定。"	""
 zh_CN: 取消
 zh_TW: 取消"	""
 "resourcePack.editor.CinematicTool.dialog.deleteCamera"	"A camera needs at least 4 keyframes. Do you want to delete the camera instead?"	"Original Translation
-zh_CN: A camera needs at least 4 keyframes. Do you want to delete the camera instead?
-zh_TW: A camera needs at least 4 keyframes. Do you want to delete the camera instead?"	""
+zh_CN: 摄像机至少需要 4 个关键帧。是否要改为删除该摄像机？
+zh_TW: 相機至少需要 4 個關鍵影格。是否要改為刪除相機？"	""
 "resourcePack.editor.CinematicTool.dialog.deleteConfirm"	"Are you sure you want to delete the selected keyframes?"	"Original Translation
 zh_CN: 确定要删除选中的关键帧吗？
 zh_TW: 確定要刪除所選關鍵影格嗎？"	""
@@ -48280,8 +48608,8 @@ zh_TW: 匯入運鏡 JSON"	""
 zh_CN: 是
 zh_TW: 是"	""
 "resourcePack.editor.CinematicTool.log.addedCamera"	"Created camera with %1 keyframes"	"Original Translation
-zh_CN: Created camera with %1 keyframes
-zh_TW: Created camera with %1 keyframes"	""
+zh_CN: 已创建包含 %1 个关键帧的摄像机
+zh_TW: 已建立含有 %1 個關鍵影格的相機"	""
 "resourcePack.editor.CinematicTool.log.addedKeyframe"	"Added keyframe: %1"	"Original Translation
 zh_CN: 已添加关键帧：%1
 zh_TW: 已新增關鍵影格：%1"	""
@@ -48636,7 +48964,7 @@ zh_TW: 顯示目前剪貼簿項目的大小。"	""
 "resourcePack.editor.CursorModeControl.cursorTargetMode.block"	"Block %s"	"Original Translation
 zh_CN: 方块 %s
 zh_TW: 方塊 %s"	""
-"resourcePack.editor.CursorModeControl.cursorTargetMode.block.tooltip"	"The block under the mouse cursor.%sUse %s to cycle though cursor target modes."	"Original Translation
+"resourcePack.editor.CursorModeControl.cursorTargetMode.block.tooltip"	"The block under the mouse cursor.%sUse %s to cycle through cursor target modes."	"Original Translation
 zh_CN: 鼠标光标下方的方块。%s使用 %s 来循环切换光标目标模式。
 zh_TW: 滑鼠游標下方的方塊。%s使用 %s 循環切換目標模式。"	""
 "resourcePack.editor.CursorModeControl.cursorTargetMode.face"	"Face %s"	"Original Translation
@@ -48831,6 +49159,8 @@ zh_TW: 絢麗視覺設定"	""
 "resourcePack.editor.agfx.settings.error.title"	"Error(s) occurred..."	"Original Translation
 zh_CN: 出现错误...
 zh_TW: 發生錯誤..."	""
+"resourcePack.editor.annotation.commentEntity.label"	"Comment Entity"	"Original Translation"	""
+"resourcePack.editor.annotation.commentEntity.tooltip"	"Comment Entity annotation."	"Original Translation"	""
 "resourcePack.editor.blockInspector.toolRail.description"	"Left click on a block to view and edit its properties."	"Original Translation
 zh_CN: 左键点击方块以查看并编辑其属性。
 zh_TW: 在方塊上按下滑鼠左鍵以檢視並編輯其屬性。"	""
@@ -48909,7 +49239,7 @@ zh_TW: 圓形筆刷的大小。"	""
 "resourcePack.editor.brushShape.common.settings.rotation"	"Rotation"	"Original Translation
 zh_CN: 旋转
 zh_TW: 旋轉"	""
-"resourcePack.editor.brushShape.common.settings.rotation.tooltip"	"Adust the rotation of the shape."	"Original Translation
+"resourcePack.editor.brushShape.common.settings.rotation.tooltip"	"Adjust the rotation of the shape."	"Original Translation
 zh_CN: 调整形状的旋转。
 zh_TW: 調整圖形旋轉。"	""
 "resourcePack.editor.brushShape.common.settings.thickness"	"Thickness"	"Original Translation
@@ -51456,7 +51786,9 @@ zh_TW: 確認"	""
 "resourcePack.editor.realmsPublish.DownloadFailed"	"Downloading world from Realms failed."	"Original Translation
 zh_CN: 从 Realms 下载世界失败。
 zh_TW: 從 Realms 下載世界失敗。"	""
-"resourcePack.editor.realmsPublish.DownloadProDisabled.tooltip"	"Downloads from Realms Pro are currently disabled"	"Original Translation"	""
+"resourcePack.editor.realmsPublish.DownloadProDisabled.tooltip"	"Downloads from Realms Pro are currently disabled"	"Original Translation
+zh_CN: 当前已禁用 Realms Pro 的下载功能
+zh_TW: 目前已停用從 Realms Pro 下載的功能"	""
 "resourcePack.editor.realmsPublish.DownloadRealm"	"Download"	"Original Translation
 zh_CN: 下载
 zh_TW: 下載"	""
@@ -51544,7 +51876,7 @@ zh_TW: 將專案發布到您的 Realms 之一。"	""
 "resourcePack.editor.realmsPublish.userNotLoggedIn"	"An active Realms subscription is required to Publish to Realms. To access any available Realms subscriptions you must be signed in to a Microsoft Account."	"Original Translation
 zh_CN: 发布到 Realms 需要有效的 Realms 订阅服务。要访问任何可用的 Realms 订阅服务，你必须登录 Microsoft 账户。
 zh_TW: 需要啟用中的 Realms 定期服務才能發布至 Realms。若要存取任何可用的 Realms 定期服務，您必須登入 Microsoft 帳戶。"	""
-"resourcePack.editor.reloadScripts.response.genericError"	"An error occcurred while attempting to reload scripts."	"Original Translation
+"resourcePack.editor.reloadScripts.response.genericError"	"An error occurred while attempting to reload scripts."	"Original Translation
 zh_CN: 尝试重新加载脚本时出现错误。
 zh_TW: 嘗試重新載入指令碼時發生錯誤。"	""
 "resourcePack.editor.reloadScripts.response.noAdminRights"	"You do not have permission to reload scripts."	"Original Translation
@@ -51829,7 +52161,7 @@ zh_TW: 從選取範圍中移除所有空氣方塊。"	""
 "resourcePack.editor.selectionTool.keyBinding.trimVolume.title"	"Trim Selection (Bounds)"	"Original Translation
 zh_CN: 修剪选区（边界）
 zh_TW: 修剪選取範圍 (界限)"	""
-"resourcePack.editor.selectionTool.keyBinding.trimVolume.tooltip"	"Reduce the Selection so the bounds are touching at least one non-air block on each size."	"Original Translation
+"resourcePack.editor.selectionTool.keyBinding.trimVolume.tooltip"	"Reduce the Selection so the bounds are touching at least one non-air block on each side."	"Original Translation
 zh_CN: 减小选区，让边界至少碰到每个大小上的一个非空气方块。
 zh_TW: 縮小選取範圍，使邊界在每一面都至少接觸一個非空氣方塊。"	""
 "resourcePack.editor.selectionTool.magicSelect.radius.title"	"Radius"	"Original Translation
@@ -53113,10 +53445,18 @@ zh_TW: 套用填滿 %s"	""
 "resourcePack.editor.toolRail.floodTool.pane.applyFlood.tooltip"	"Apply the flood operation to the world."	"Original Translation
 zh_CN: 将灌注操作应用到世界。
 zh_TW: 將填滿操作套用至世界。"	""
-"resourcePack.editor.toolRail.floodTool.pane.cliffDetection.title"	"Cliff Detection"	"Original Translation"	""
-"resourcePack.editor.toolRail.floodTool.pane.cliffDetection.tooltip"	"When raising fluid, treat a vertical drop at or beyond the selected depth as a solid boundary."	"Original Translation"	""
-"resourcePack.editor.toolRail.floodTool.pane.cliffDetectionDepth.title"	"Cliff Depth"	"Original Translation"	""
-"resourcePack.editor.toolRail.floodTool.pane.cliffDetectionDepth.tooltip"	"Number of open blocks directly below an edge required to stop flooding."	"Original Translation"	""
+"resourcePack.editor.toolRail.floodTool.pane.cliffDetection.title"	"Cliff Detection"	"Original Translation
+zh_CN: 悬崖检测
+zh_TW: 懸崖偵測"	""
+"resourcePack.editor.toolRail.floodTool.pane.cliffDetection.tooltip"	"When raising fluid, treat a vertical drop at or beyond the selected depth as a solid boundary."	"Original Translation
+zh_CN: 提升流体时，将达到或超过设定深度的垂直落差视为实体边界。
+zh_TW: 提高液面時，將達到或超過所選深度的垂直落差視為實體邊界。"	""
+"resourcePack.editor.toolRail.floodTool.pane.cliffDetectionDepth.title"	"Cliff Depth"	"Original Translation
+zh_CN: 悬崖深度
+zh_TW: 懸崖深度"	""
+"resourcePack.editor.toolRail.floodTool.pane.cliffDetectionDepth.tooltip"	"Number of open blocks directly below an edge required to stop flooding."	"Original Translation
+zh_CN: 边缘下方直接空开的方块数量，达到该数值后洪水停止。
+zh_TW: 邊緣正下方須有多少個空方塊，才會停止泛洪。"	""
 "resourcePack.editor.toolRail.floodTool.pane.description"	"Flood tool for raising/lowering the liquid level."	"Original Translation
 zh_CN: 用于控制液面升降的灌注工具。
 zh_TW: 用於升降液面高度的充填工具。"	""
@@ -53135,8 +53475,12 @@ zh_TW: 套用截斷結果"	""
 "resourcePack.editor.toolRail.floodTool.pane.ignoreBlockLimit.tooltip"	"Apply only the first 120,000 blocks when the flood exceeds the block limit."	"Original Translation
 zh_CN: 当灌注操作涉及的方块数量超过上限时，仅应用前 120,000 个方块。
 zh_TW: 填滿範圍超過方塊數量上限時，只套用前 120,000 個方塊。"	""
-"resourcePack.editor.toolRail.floodTool.pane.restrictToSelection.title"	"Restrict Flooding to Selection Bounds"	"Original Translation"	""
-"resourcePack.editor.toolRail.floodTool.pane.restrictToSelection.tooltip"	"Preview and apply flooding only inside the selection's enclosing bounding box, including gaps between selected areas."	"Original Translation"	""
+"resourcePack.editor.toolRail.floodTool.pane.restrictToSelection.title"	"Restrict Flooding to Selection Bounds"	"Original Translation
+zh_CN: 将灌注限制在选区边界内
+zh_TW: 將泛洪限制在選取範圍內"	""
+"resourcePack.editor.toolRail.floodTool.pane.restrictToSelection.tooltip"	"Preview and apply flooding only inside the selection's enclosing bounding box, including gaps between selected areas."	"Original Translation
+zh_CN: 仅在选区的包围边界内预览并应用灌注，包括选区之间的空隙。
+zh_TW: 僅在包覆選取區域的邊界框內預覽及套用泛洪，包括已選取區域之間的空隙。"	""
 "resourcePack.editor.toolRail.floodTool.pane.title"	"Flood"	"Original Translation
 zh_CN: 注水
 zh_TW: 液面充填"	""
@@ -53161,7 +53505,9 @@ zh_TW: 雷暴雲正淹沒此區域..."	""
 "resourcePack.editor.toolRail.floodTool.title"	"Flood"	"Original Translation
 zh_CN: 注水
 zh_TW: 液面充填"	""
-"resourcePack.editor.toolRail.floodTool.toast.markerOutsideSelection"	"Select an area and move the flood marker inside its bounds. When lowering fluid, the block above the marker must also be inside."	"Original Translation"	""
+"resourcePack.editor.toolRail.floodTool.toast.markerOutsideSelection"	"Select an area and move the flood marker inside its bounds. When lowering fluid, the block above the marker must also be inside."	"Original Translation
+zh_CN: 请选择区域并将灌注标记移动到其边界内。若要降低流体，标记上方的方块也必须在选区内。
+zh_TW: 選取一個區域，並將泛洪標記移到其範圍內。降低液面時，標記上方的方塊也必須位於範圍內。"	""
 "resourcePack.editor.toolRail.floodTool.tooltip"	"Flood tool for raising/lowering the liquid level."	"Original Translation
 zh_CN: 用于控制液面升降的灌注工具。
 zh_TW: 用於升降液面高度的充填工具。"	""
@@ -53969,7 +54315,7 @@ zh_TW: 決定所選實體的旋轉。使用SHIFT + 滑鼠中鍵滾動來旋轉�
 "resourcePack.editor.toolRail.summonTool.tool.summonSubPane"	"Entity Spawn"	"Original Translation
 zh_CN: 实体生成
 zh_TW: 實體生成"	""
-"resourcePack.editor.toolRail.summonTool.tool.tip"	"Click to summon entitles. CTRL + D to Deselect an entity."	"Original Translation
+"resourcePack.editor.toolRail.summonTool.tool.tip"	"Click to summon entities. CTRL + D to Deselect an entity."	"Original Translation
 zh_CN: 点击以召唤实体。按 CTRL + D 取消选择实体。
 zh_TW: 按一下以召喚實體。按 CTRL + D 取消選取實體。"	""
 "resourcePack.editor.toolRail.summonTool.tool.title"	"Summon"	"Original Translation
@@ -54504,8 +54850,8 @@ zh_TW: 自然"	""
 zh_CN: 打开资源包文件夹
 zh_TW: 開啓資源包資料夾"	""
 "resourcePack.packSettingsMultiselectNoneSelected"	"(none selected)"	"Original Translation
-zh_CN: (none selected)
-zh_TW: (none selected)"	""
+zh_CN: （未选择）
+zh_TW: (未選取任何項目)"	""
 "resourcePack.packSettingsTitle"	"%s Settings"	"Original Translation
 zh_CN: %s 个设置
 zh_TW: %s 種設定"	""
@@ -56786,13 +57132,25 @@ zh_TW: 免費"	""
 "store.gift.button.text"	"Gift"	"Original Translation
 zh_CN: 礼物
 zh_TW: 禮物"	""
+"store.gift.purchase.failed"	"Unable to complete gifting. Click Learn More for more information."	"Original Translation
+zh_CN: 礼物赠送未完成。点击“了解更多”获取详细信息。
+zh_TW: 無法完成贈禮。請點擊「深入了解」以取得更多資訊。"	""
 "store.giftPromo.day"	"Day %s"	"Original Translation
 zh_CN: 第 %s 天
 zh_TW: 第 %s"	""
-"store.gifting.limitReached.goBack"	"Go Back"	"Original Translation"	""
-"store.gifting.limitReached.learnMore"	"Learn More"	"Original Translation"	""
-"store.gifting.limitReached.message"	"%s"	"Original Translation"	""
-"store.gifting.limitReached.title"	"Gifting Limit Reached"	"Original Translation"	""
+"store.gifting.limitReached.genericMessage"	"The Gift cannot be sent right now."	"Original Translation"	""
+"store.gifting.limitReached.goBack"	"Go Back"	"Original Translation
+zh_CN: 返回
+zh_TW: 返回"	""
+"store.gifting.limitReached.learnMore"	"Learn More"	"Original Translation
+zh_CN: 了解更多
+zh_TW: 深入了解"	""
+"store.gifting.limitReached.message"	"%s"	"Original Translation
+zh_CN: %s
+zh_TW: %s"	""
+"store.gifting.limitReached.title"	"Gifting Limit Reached"	"Original Translation
+zh_CN: 达到赠礼上限
+zh_TW: 已達贈禮上限"	""
 "store.hyperlink.creator.notFound"	"Sorry, but the creator specified in the hyperlink was not found."	"Original Translation
 zh_CN: 抱歉，未找到超链接中指定的创建者。
 zh_TW: 抱歉，找不到超連結內指定的建立者。"	""
@@ -56889,7 +57247,9 @@ zh_TW: 1 個附加內容"	""
 "store.mashup.count.addonPacks"	"%s Add-Ons"	"Original Translation
 zh_CN: %s 个附加内容
 zh_TW: %s 個附加內容"	""
-"store.mashup.count.audio"	"%s Audio"	"Original Translation"	""
+"store.mashup.count.audio"	"%s Audio"	"Original Translation
+zh_CN: %s 音频
+zh_TW: %s 項音訊"	""
 "store.mashup.count.mashup"	"Mash-Up"	"Original Translation
 zh_CN: 混搭包
 zh_TW: 混搭"	""
@@ -56932,7 +57292,9 @@ zh_TW: 配備%s外觀！"	""
 "store.mashup.hover.label.addonPack"	"Add-Ons can be applied to any world."	"Original Translation
 zh_CN: 附加内容可以应用于任何世界。
 zh_TW: 附加內容可以套用至任何世界。"	""
-"store.mashup.hover.label.audio"	"Add new sounds and music to your world."	"Original Translation"	""
+"store.mashup.hover.label.audio"	"Add new sounds and music to your world."	"Original Translation
+zh_CN: 为你的世界添加全新音效和音乐。
+zh_TW: 為你的世界新增音效與音樂。"	""
 "store.mashup.hover.label.mashup.lineOne"	"A combination of different types of content."	"Original Translation
 zh_CN: 不同类型内容的组合。
 zh_TW: 不同類型內容的組合。"	""
@@ -57123,17 +57485,17 @@ zh_TW: 要下載內容嗎？- %s MB"	""
 zh_CN: 是否要购买这个世界所用的包？
 zh_TW: 您要購買這個世界所使用的套件嗎？"	""
 "store.popup.download.unOwned.notAvailable.msg"	"We couldn't find a Marketplace offer for the pack this world uses. It may not be available for purchase on this platform."	"Original Translation
-zh_CN: We couldn't find a Marketplace offer for the pack this world uses. It may not be available for purchase on this platform.
-zh_TW: We couldn't find a Marketplace offer for the pack this world uses. It may not be available for purchase on this platform."	""
+zh_CN: 未找到该世界所用包的市场商品。该包可能无法在此平台购买。
+zh_TW: 市集中找不到這個世界所使用的套件購買選項。此平台可能不提供該套件。"	""
 "store.popup.download.unOwned.notAvailable.title"	"Pack Unavailable"	"Original Translation
-zh_CN: Pack Unavailable
-zh_TW: Pack Unavailable"	""
+zh_CN: 包不可用
+zh_TW: 套件無法取得"	""
 "store.popup.download.unOwned.storeUnavailable.msg"	"We couldn't reach the Marketplace to look up the pack this world uses. Check your connection and try again later."	"Original Translation
-zh_CN: We couldn't reach the Marketplace to look up the pack this world uses. Check your connection and try again later.
-zh_TW: We couldn't reach the Marketplace to look up the pack this world uses. Check your connection and try again later."	""
+zh_CN: 无法连接至市场以查询该世界所用包。请检查您的网络连接并稍后重试。
+zh_TW: 無法連上市集查詢這個世界所使用的套件。請檢查你的連線，稍後再試。"	""
 "store.popup.download.unOwned.storeUnavailable.title"	"Marketplace Unavailable"	"Original Translation
-zh_CN: Marketplace Unavailable
-zh_TW: Marketplace Unavailable"	""
+zh_CN: 市场不可用
+zh_TW: 市集無法使用"	""
 "store.popup.download.unOwned.title"	"Purchase Pack?"	"Original Translation
 zh_CN: 是否购买包？
 zh_TW: 要購買套件嗎？"	""
@@ -57578,7 +57940,9 @@ zh_TW: 附加內容"	""
 "store.search.filter.andSelectedText"	"and %s"	"Original Translation
 zh_CN: 和 %s
 zh_TW: 和 %s"	""
-"store.search.filter.audio"	"Audio"	"Original Translation"	""
+"store.search.filter.audio"	"Audio"	"Original Translation
+zh_CN: 音频
+zh_TW: 音訊"	""
 "store.search.filter.clear.creator"	"Clear Creator Filters"	"Original Translation
 zh_CN: 清空创建者过滤器
 zh_TW: 清除創作者篩選條件"	""
@@ -58113,6 +58477,7 @@ zh_TW: 整合："	""
 "structure_block.invisible_blocks"	"Invisible Blocks:"	"Original Translation
 zh_CN: 隐形方块：
 zh_TW: 隱形方塊："	""
+"structure_block.keep_structure_void"	"Keep Structure Void:"	"Original Translation"	""
 "structure_block.load"	"Load"	"Original Translation
 zh_CN: 加载
 zh_TW: 載入"	""
@@ -58218,7 +58583,7 @@ zh_TW: 結構名稱"	""
 "structure_block.title"	"Structure Block"	"Original Translation
 zh_CN: 结构方块
 zh_TW: 結構方塊"	"結構方塊"
-"structure_block.waterlog_block"	"Waterlog Blocks"	"Original Translation
+"structure_block.waterlog_block"	"Waterlog Blocks:"	"Original Translation
 zh_CN: 水涝方块
 zh_TW: 含水方塊"	""
 "subtitles.ambient.cave"	"Eerie noise"	"Original Translation
@@ -58293,6 +58658,7 @@ zh_TW: 高爐發出劈啪聲"	"高爐劈啪聲"
 "subtitles.block.brewing_stand.brew"	"Brewing Stand bubbles"	"Original Translation
 zh_CN: 酿造台冒泡
 zh_TW: 釀製台冒泡"	"釀造台冒泡聲"
+"subtitles.block.brittle_ice.cracking_ice"	"Brittle Ice cracks"	"Original Translation"	""
 "subtitles.block.bubble_column.bubble_pop"	"Bubbles pop"	"Original Translation
 zh_CN: 泡泡爆裂
 zh_TW: 氣泡破裂"	"氣泡破裂"
@@ -58329,12 +58695,24 @@ zh_TW: 鍋釜水已染色"	""
 "subtitles.block.cauldron.clean_armor"	"Leather armor gets cleaned"	"Original Translation
 zh_CN: 皮革盔甲被清洗
 zh_TW: 皮甲已洗淨"	""
+"subtitles.block.cauldron.clean_armor_generic"	"Armor gets cleaned"	"Original Translation
+zh_CN: 盔甲被清洗
+zh_TW: 護甲已清洗"	""
 "subtitles.block.cauldron.clean_banner"	"Banner gets cleaned"	"Original Translation
 zh_CN: 旗帜被清洗
 zh_TW: 旗幟已洗淨"	""
+"subtitles.block.cauldron.clean_shulker_box"	"Shulker Box gets cleaned"	"Original Translation
+zh_CN: 潜影盒被清洗
+zh_TW: 界伏蚌盒已清洗"	""
 "subtitles.block.cauldron.dye_armor"	"Leather armor gets dyed"	"Original Translation
 zh_CN: 皮革盔甲被染色
 zh_TW: 皮甲已染色"	""
+"subtitles.block.cauldron.dye_armor_generic"	"Armor gets dyed"	"Original Translation
+zh_CN: 盔甲被染色
+zh_TW: 護甲已染色"	""
+"subtitles.block.cauldron.dye_shulker_box"	"Shulker Box gets dyed"	"Original Translation
+zh_CN: 潜影盒被染色
+zh_TW: 界伏蚌盒已染色"	""
 "subtitles.block.cauldron.fill_potion"	"Potion pours into Cauldron"	"Original Translation
 zh_CN: 药水倒入炼药锅
 zh_TW: 藥水倒入鍋釜"	""
@@ -59517,6 +59895,7 @@ zh_TW: 青蛙產下生成"	"青蛙產卵"
 zh_CN: 青蛙跳跃
 zh_TW: 青蛙跳躍"	"青蛙跳躍"
 "subtitles.entity.frostbite.ambient"	"Frostbite groans"	"Original Translation"	""
+"subtitles.entity.frostbite.converted_to_zombie"	"Frostbite converts to Zombie"	"Original Translation"	""
 "subtitles.entity.frostbite.death"	"Frostbite dies"	"Original Translation"	""
 "subtitles.entity.frostbite.hurt"	"Frostbite hurts"	"Original Translation"	""
 "subtitles.entity.generic.big_fall"	"Something fell"	"Original Translation
@@ -60852,6 +61231,7 @@ zh_TW: 門破裂"	"門損壞"
 "subtitles.entity.zombie.converted_to_drowned"	"Zombie converts to Drowned"	"Original Translation
 zh_CN: 僵尸转换为溺尸
 zh_TW: 殭屍轉變為水鬼"	"殭屍轉變為沉屍"
+"subtitles.entity.zombie.converted_to_frostbite"	"Zombie converts to Frostbite"	"Original Translation"	""
 "subtitles.entity.zombie.death"	"Zombie dies"	"Original Translation
 zh_CN: 僵尸死亡
 zh_TW: 殭屍死亡"	"殭屍死亡"
@@ -61680,6 +62060,7 @@ zh_TW: 磚"	"紅磚"
 "tile.brick_stairs.name"	"Brick Stairs"	"Original Translation
 zh_CN: 砖楼梯
 zh_TW: 磚階梯"	"紅磚階梯"
+"tile.brittle_ice.name"	"Brittle Ice"	"Original Translation"	""
 "tile.brown_candle.name"	"Brown Candle"	"Original Translation
 zh_CN: 棕色蜡烛
 zh_TW: 棕色蠟燭"	"棕色蠟燭"
