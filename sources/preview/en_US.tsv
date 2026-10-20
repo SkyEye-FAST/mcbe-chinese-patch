@@ -1214,6 +1214,9 @@ zh_TW: 名稱"
 action.interact.opencontainer	Open	"Original Translation
 zh_CN: 打开
 zh_TW: 開啟"	
+action.interact.pocket_jukebox.pause	Pause	Original Translation	
+action.interact.pocket_jukebox.play	Play	Original Translation	
+action.interact.pocket_jukebox.skip	Skip	Original Translation	
 action.interact.read	Read	"Original Translation
 zh_CN: 阅读
 zh_TW: 閱讀"	
@@ -5371,6 +5374,7 @@ zh_TW: 合成"
 container.creative	Item Selection	"Original Translation
 zh_CN: 物品选栏
 zh_TW: 選擇物品"	
+container.disc_press	Disc Press	Original Translation	
 container.dispenser	Dispenser	"Original Translation
 zh_CN: 发射器
 zh_TW: 發射器"	
@@ -7548,6 +7552,13 @@ zh_TW: 自訂外觀"
 disabledSkin.type.persona	personas	"Original Translation
 zh_CN: 角色
 zh_TW: 角色"	
+discPress.filter.all	Select all	Original Translation	
+discPress.filter.none	Clear all	Original Translation	
+discPress.search	Search	Original Translation	
+discPress.sort.artist	Artist	Original Translation	
+discPress.sort.duration	Length	Original Translation	
+discPress.sort.titleAscending	Title A-Z	Original Translation	
+discPress.sort.titleDescending	Title Z-A	Original Translation	
 disconnect.closed	Connection closed	"Original Translation
 zh_CN: 连接已关闭
 zh_TW: 連線關閉"	
@@ -9810,6 +9821,20 @@ zh_TW: 頂部"
 editor.prefabLayoutEditor.pane.alignAction.topTooltip	Top Align Action	"Original Translation
 zh_CN: 顶部对齐
 zh_TW: 頂部對齊操作"	
+editor.prefabLayoutEditor.pane.bakeAll.busy	Layouts are already being baked by an export, a test world or another Bake All operation.	Original Translation	
+editor.prefabLayoutEditor.pane.bakeAll.cancel	Stop	Original Translation	
+editor.prefabLayoutEditor.pane.bakeAll.cancel.tooltip	Stop after the current instance. Instances that have already been baked stay baked.	Original Translation	
+editor.prefabLayoutEditor.pane.bakeAll.cancelled	Layout baking stopped. Instances that were already baked remain baked.	Original Translation	
+editor.prefabLayoutEditor.pane.bakeAll.complete	Baked %1 of %2 Layout instance(s) into the world.	Original Translation	
+editor.prefabLayoutEditor.pane.bakeAll.confirm	Bake All	Original Translation	
+editor.prefabLayoutEditor.pane.bakeAll.confirmation	%1 Layout instance(s) will be permanently baked into the world and then removed.[~*newLine~]This cannot be undone.	Original Translation	
+editor.prefabLayoutEditor.pane.bakeAll.failed	Failed to bake Layouts: %1	Original Translation	
+editor.prefabLayoutEditor.pane.bakeAll.noInstances	There are no Layout instances in the world to bake.	Original Translation	
+editor.prefabLayoutEditor.pane.bakeAll.partialFailure	%1 Layout instance(s) could not be baked and were left in place.	Original Translation	
+editor.prefabLayoutEditor.pane.bakeAll.progress	Baking Layout instances into the world...	Original Translation	
+editor.prefabLayoutEditor.pane.bakeAll.title	Bake All Layouts	Original Translation	
+editor.prefabLayoutEditor.pane.layoutManager.bakeAll	Bake All Layouts	Original Translation	
+editor.prefabLayoutEditor.pane.layoutManager.bakeAll.tooltip	Permanently place the blocks of every Layout instance into the world and remove the instances. This cannot be undone.	Original Translation	
 editor.prefabLayoutEditor.pane.layoutManager.cancel	Cancel	"Original Translation
 zh_CN: 取消
 zh_TW: 取消"	
@@ -10042,6 +10067,9 @@ zh_TW: 從下拉選單中選擇要使用的佈局。在「編輯」模式下，�
 editor.prefabLayoutInstanceEditor.pane.pick.bakeComplete	Baking complete.	"Original Translation
 zh_CN: 烘焙完成。
 zh_TW: 烘焙完成。"	
+editor.prefabLayoutInstanceEditor.pane.pick.bakeFailed	Failed to bake the Layout instance: %1	Original Translation	
+editor.prefabLayoutInstanceEditor.pane.pick.bakeInstanceMissing	The Layout instance no longer exists and was not baked.	Original Translation	
+editor.prefabLayoutInstanceEditor.pane.pick.bakeInstanceUnbakeable	The Layout instance could not be baked. See the content log for details.	Original Translation	
 editor.prefabLayoutInstanceEditor.pane.pick.invalidMove	Cannot move the layout instance because it would overlap with another layout instance.	"Original Translation
 zh_CN: 无法移动布局实例，因为这将与另一个布局实例重叠。
 zh_TW: 無法移動佈局執行個體，因為它會與另一個佈局執行個體重疊。"	
@@ -10207,6 +10235,14 @@ zh_TW: 佈局編輯器"
 editor.prefabTemplateEditor.tool.tooltip	Tool for editing prefab templates	"Original Translation
 zh_CN: 编辑预制模板的工具
 zh_TW: 用於編輯預製結構範本的工具"	
+editor.rotationSettings.pane.title	Rotation	Original Translation	
+editor.rotationSettings.pane.tooltip	Adjust the rotation of this object.	Original Translation	
+editor.rotationSettings.xrot	Roll (X)	Original Translation	
+editor.rotationSettings.xrot.tooltip	Adjust the Roll rotation.	Original Translation	
+editor.rotationSettings.yrot	Yaw (Y)	Original Translation	
+editor.rotationSettings.yrot.tooltip	Adjust the Yaw rotation.	Original Translation	
+editor.rotationSettings.zrot	Pitch (Z)	Original Translation	
+editor.rotationSettings.zrot.tooltip	Adjust the Pitch rotation.	Original Translation	
 editor.sharedUtils.highPriorityFillGuard.message	This operation contains a block type known to cause performance issues when used in very large numbers. These issues can affect all connected players. Are you sure?	"Original Translation
 zh_CN: 此操作包含一种在大量使用时会导致性能问题的方块类型。这些问题可能会影响所有连接的玩家。你确定要继续吗？
 zh_TW: 此操作包含大量使用時可能導致效能問題的方塊類型。這些問題可能影響所有已連線的玩家。確定要繼續嗎？"	
@@ -16398,7 +16434,7 @@ hbui.DropdownItem.disabled	Disabled	"Original Translation
 zh_CN: 已禁用
 zh_TW: 已停用"	
 hbui.DropdownItem.elementType	item	"Original Translation
-zh_CN: 项目
+zh_CN: 物品
 zh_TW: 物品"	
 hbui.DropdownItem.narrationComponentType	Option	"Original Translation
 zh_CN: 选项
@@ -16410,7 +16446,7 @@ hbui.DropdownItem.selected	selected	"Original Translation
 zh_CN: 已选择
 zh_TW: 已選擇"	
 hbui.DropdownItem.unselected	not selected	"Original Translation
-zh_CN: 未当选
+zh_CN: 未选择
 zh_TW: 未選擇"	
 hbui.EditRealmWorld.ConfirmModals.cancel	Cancel	"Original Translation
 zh_CN: 取消
@@ -19262,6 +19298,17 @@ zh_TW: 清單項目"
 hbui.InboxContentItem.view	View	"Original Translation
 zh_CN: 查看
 zh_TW: 檢視"	
+hbui.InboxGiftDetails.accept	Accept	Original Translation	
+hbui.InboxGiftDetails.acceptTheGiftText	Accept the gift to add it to your library.	Original Translation	
+hbui.InboxGiftDetails.confirmDecline.cancel	Cancel	Original Translation	
+hbui.InboxGiftDetails.confirmDecline.declineGift	Decline Gift	Original Translation	
+hbui.InboxGiftDetails.confirmDecline.declineInputLegend	Decline	Original Translation	
+hbui.InboxGiftDetails.confirmDecline.message	Are you sure you would like to decline this gift? If you do, you will not get another chance to add it to your library.	Original Translation	
+hbui.InboxGiftDetails.confirmDecline.title	Confirm Decline	Original Translation	
+hbui.InboxGiftDetails.decline	Decline	Original Translation	
+hbui.InboxGiftDetails.errorDeterminingState	There was an error determining the status of your gift.	Original Translation	
+hbui.InboxGiftDetails.giftAccepted	Gift Accepted	Original Translation	
+hbui.InboxGiftDetails.giftDeclined	Gift Declined	Original Translation	
 hbui.InboxListItem.accept	Accept	"Original Translation
 zh_CN: 接受
 zh_TW: 接受"	
@@ -19340,12 +19387,14 @@ zh_TW: 你所嘗試尋找的訊息已遺失或已遭刪除。"
 hbui.InboxMessageDetailsRoute.accept	Accept	"Original Translation
 zh_CN: 接受
 zh_TW: 接受"	
+hbui.InboxMessageDetailsRoute.decline	Decline	Original Translation	
 hbui.InboxMessageDetailsRoute.details	Details	"Original Translation
 zh_CN: 详情
 zh_TW: 詳細資料"	
-hbui.InboxMessageDetailsRoute.from	From %1$s	"Original Translation
+hbui.InboxMessageDetailsRoute.from	From	"Original Translation
 zh_CN: 发件人：%1 $s
 zh_TW: 從 %1$s"	
+hbui.InboxMessageDetailsRoute.fromSender	From %1$s	Original Translation	
 hbui.InboxMessageDetailsRoute.gameInvitationNote0	You were invited to join %1$s's game.	"Original Translation
 zh_CN: 您已受邀加入%1$s的游戏。
 zh_TW: 你被邀請加入 %1$s 的遊戲。"	
@@ -19623,6 +19672,7 @@ zh_TW: 啟用訊息徽章警告"
 hbui.InboxSettingsRoute.title	Inbox Settings	"Original Translation
 zh_CN: 收件箱设置
 zh_TW: 收件匣設定"	
+hbui.InviteItem.game.displayString	%1$s invited you to play in %2$s	Original Translation	
 hbui.InviteItem.inputLegend.accept	Accept	"Original Translation
 zh_CN: 接受
 zh_TW: 接受"	
@@ -19920,6 +19970,10 @@ zh_TW: 按鈕"
 hbui.Link.open	Open	"Original Translation
 zh_CN: 打开
 zh_TW: 開啟"	
+hbui.LocalWorldListItem.enumeration	%1$s of %2$s	Original Translation	
+hbui.LocalWorldListItem.lastPlayed	Last Played	Original Translation	
+hbui.LocalWorldListItem.lastPlayedNarration	Last played %1$s	Original Translation	
+hbui.LocalWorldListItem.role	List item	Original Translation	
 hbui.MSALinkedProfileRoute.disclaimer	You've connected to Minecraft with an Xbox profile. Change your Xbox settings and learn more at http://aka.ms/accountsettings. The Microsoft Services Agreement and Privacy Statement apply.	"Original Translation
 zh_CN: 你已使用 Xbox 简介连接到《Minecraft》。请在 http://aka.ms/accountsettings 更改你的 Xbox 设置并了解更多内容。Microsoft 服务协议和隐私声明将适用于此处。
 zh_TW: 您已使用 Xbox 設定檔連線至 Minecraft。請前往 http://aka.ms/accountsettings 變更 Xbox 設定並了解詳情。Microsoft 服務合約與隱私權聲明適用。"	
@@ -19950,6 +20004,14 @@ zh_TW: 歡迎 %1$s！"
 hbui.MainMenu.ButtonNext.narration.role	Button	"Original Translation
 zh_CN: 按钮
 zh_TW: 按鈕"	
+hbui.MainMenu.ClientDrivenRecentlyPlayedFab.experience	Server	Original Translation	
+hbui.MainMenu.ClientDrivenRecentlyPlayedFab.friendWorld	Friend’s world	Original Translation	
+hbui.MainMenu.ClientDrivenRecentlyPlayedFab.inputLegend	Play	Original Translation	
+hbui.MainMenu.ClientDrivenRecentlyPlayedFab.lanWorld	LAN World	Original Translation	
+hbui.MainMenu.ClientDrivenRecentlyPlayedFab.localWorld	My World	Original Translation	
+hbui.MainMenu.ClientDrivenRecentlyPlayedFab.noWorlds.buttonLabel	Create new world	Original Translation	
+hbui.MainMenu.ClientDrivenRecentlyPlayedFab.noWorlds.title	No worlds here... yet	Original Translation	
+hbui.MainMenu.ClientDrivenRecentlyPlayedFab.realmWorld	Realm	Original Translation	
 hbui.MainMenu.Discovery.inputLegend.action	View	"Original Translation
 zh_CN: 查看
 zh_TW: 檢視"	
@@ -20037,6 +20099,9 @@ zh_TW: %1$s 位好友在線上"
 hbui.MainMenu.SocialButton.narration.label	Social	"Original Translation
 zh_CN: 社交
 zh_TW: 社交"	
+hbui.MainMenu.UnsupportedContentModal.closeButtonText	Close	Original Translation	
+hbui.MainMenu.UnsupportedContentModal.contentText	This content can't be opened from here. Try again from the Play screen.	Original Translation	
+hbui.MainMenu.UnsupportedContentModal.title	Can't open this content	Original Translation	
 hbui.MainMenu.inputLegend.discover	Discover	"Original Translation
 zh_CN: 发现
 zh_TW: 探索"	
@@ -20145,6 +20210,7 @@ zh_TW: 附加內容"
 hbui.Marketplace.ContentCard.by	By %1$s	"Original Translation
 zh_CN: 作者：%1$s
 zh_TW: 作者：%1$s"	
+hbui.Marketplace.ContentCard.download	Download	Original Translation	
 hbui.Marketplace.ContentCard.free	Free	"Original Translation
 zh_CN: 解救
 zh_TW: 免費"	
@@ -20166,6 +20232,7 @@ zh_TW: 通行證"
 hbui.Marketplace.ContentCard.sale	Sale	"Original Translation
 zh_CN: 特惠
 zh_TW: 特價"	
+hbui.Marketplace.ContentCard.tryFree	Try free	Original Translation	
 hbui.Marketplace.ContentCard.updated	Updated	"Original Translation
 zh_CN: 已更新
 zh_TW: 已更新"	
@@ -20301,6 +20368,19 @@ zh_TW: 文字方塊"
 hbui.MarketplacePassPDPRoute.title	MARKETPLACE PASS	"Original Translation
 zh_CN: Marketplace Pass
 zh_TW: Marketplace Pass"	
+hbui.MarketplacePassPDPSubscriptionComparison.marketplacePass.feature0	Curated premium content every month	Original Translation	
+hbui.MarketplacePassPDPSubscriptionComparison.marketplacePass.feature1	Add-ons, worlds, skins, and more	Original Translation	
+hbui.MarketplacePassPDPSubscriptionComparison.marketplacePass.feature2	33%% off Marketplace Pass content	Original Translation	
+hbui.MarketplacePassPDPSubscriptionComparison.marketplacePass.feature3	Exclusive Character Creator sets	Original Translation	
+hbui.MarketplacePassPDPSubscriptionComparison.priceCadence	/month	Original Translation	
+hbui.MarketplacePassPDPSubscriptionComparison.realmsPlus.feature0	You + 10 friends	Original Translation	
+hbui.MarketplacePassPDPSubscriptionComparison.realmsPlus.feature1	Personal server available 24/7	Original Translation	
+hbui.MarketplacePassPDPSubscriptionComparison.realmsPlus.feature2	Friends play on the server for free	Original Translation	
+hbui.MarketplacePassPDPSubscriptionComparison.realmsPlus.feature3	Includes Marketplace Pass	Original Translation	
+hbui.MarketplacePassPDPSubscriptionComparison.realmsPlus.friendCount	+10 FRIENDS	Original Translation	
+hbui.MarketplacePassPDPSubscriptionComparison.realmsPlus.friendCountPrefix	You	Original Translation	
+hbui.MarketplacePassPDPSubscriptionComparison.realmsPlus.marketplacePassDescription	(that's everything listed on the left!)	Original Translation	
+hbui.MarketplacePassPDPSubscriptionComparison.realmsPlus.marketplacePassPrefix	Includes	Original Translation	
 hbui.MarketplaceRoute.title	Marketplace	"Original Translation
 zh_CN: 市场
 zh_TW: 市集"	
@@ -24670,7 +24750,7 @@ zh_TW: 自動 (Realm擁有者連線)"
 hbui.Realms.RealmsHub.Settings.Server.preferredRegions.ownerSelected	Automatic,	"Original Translation
 zh_CN: 自动，
 zh_TW: 自動，"	
-hbui.Realms.RealmsHub.Settings.Server.simDistance.description	The game loads and applies changes within a range of 64×64 blocks from the player.	"Original Translation
+hbui.Realms.RealmsHub.Settings.Server.simDistance.description	The game loads and applies changes within a range of %1$sx%1$s blocks from the player.	"Original Translation
 zh_CN: 游戏加载并在玩家 64×64 个方块范围内应用更改。
 zh_TW: 遊戲會在距離玩家 64×64 方塊的範圍內載入並套用變更。"	
 hbui.Realms.RealmsHub.Settings.Server.simDistance.title	Simulation distance	"Original Translation
@@ -24724,12 +24804,15 @@ zh_TW: 是，刪除此 Realm"
 hbui.Realms.RealmsHub.Settings.Subscriptions.DeleteModal.title	Delete Realm?	"Original Translation
 zh_CN: 删除 Realm？
 zh_TW: 要刪除 Realm 嗎？"	
+hbui.Realms.RealmsHub.Settings.Subscriptions.ManageModal.bodyNX	"To manage your Realms subscription you will need to access the Nintendo eShop from the HOME menu of your Nintendo Switch™, select your icon in the top right corner, and navigate to ""Your Subscriptions""."	Original Translation	
+hbui.Realms.RealmsHub.Settings.Subscriptions.ManageModal.bodyNX2	"To manage your Realms subscription you will need to access the Nintendo eShop from the HOME menu of your Nintendo Switch™ 2, select your icon in the top right corner, and navigate to ""Your Subscriptions""."	Original Translation	
 hbui.Realms.RealmsHub.Settings.Subscriptions.ManageModal.bodyPS4	To manage your Realms subscription you will need to access your settings on your PlayStation®4 console and navigate through Account Management, Account Information and to the Services List.	"Original Translation
 zh_CN: 要管理你的 Realms 订阅，你将需要访问你的 PlayStation®4 主机设置，并先后经由账号管理和账号信息，最终进入服务列表。
 zh_TW: 若要管理您的 Realms 定期服務，您將必須存取您的 PlayStation®4 主機設定，請前往「帳戶管理」、「帳戶資料」，然後前往「服務清單」。"	
 hbui.Realms.RealmsHub.Settings.Subscriptions.ManageModal.bodyPS5	To manage your Realms subscription you will need to access your settings on your PlayStation®5 console and navigate through Account Management, Account Information and to the Services List.	"Original Translation
 zh_CN: 要管理你的 Realms 订阅，你将需要访问你的 PlayStation®5 主机设置，并先后经由账号管理和账号信息，最终进入服务列表。
 zh_TW: 若要管理您的 Realms 定期服務，您將必須存取您的 PlayStation®5主機上的設定，並前往「帳戶管理」、「帳戶資訊」，然後「服務清單」。"	
+hbui.Realms.RealmsHub.Settings.Subscriptions.ManageModal.bodyPro	To manage your Realms subscription, go to account.microsoft.com/services	Original Translation	
 hbui.Realms.RealmsHub.Settings.Subscriptions.ManageModal.ok	Ok	"Original Translation
 zh_CN: 好的
 zh_TW: 確定"	
@@ -27752,6 +27835,11 @@ zh_TW: 畫面照片相簿"
 hbui.RealmsStoryCommentsRoute.header	%1$s Comments: World Title	"Original Translation
 zh_CN: %1$s 评论：世界名称
 zh_TW: %1$s 留言：世界冠軍"	
+hbui.RealmsUploadWorldRoute.header	Select existing world	Original Translation	
+hbui.RealmsUploadWorldRoute.importWorld	Import world	Original Translation	
+hbui.RealmsUploadWorldRoute.noLocalWorlds	No worlds created yet	Original Translation	
+hbui.RealmsUploadWorldRoute.select	Select	Original Translation	
+hbui.RealmsUploadWorldRoute.uploading	Uploading world	Original Translation	
 hbui.ReconcileRealmBanner.link	Set up your Realm now	"Original Translation
 zh_CN: 立即设置您的 Realm
 zh_TW: 立即設定你的 Realm"	
@@ -29807,6 +29895,7 @@ zh_TW: 將任何正式版世界轉換為可遊玩版本，副本將加入您的�
 hbui.Storage.StorageListRoute.legacyWorlds.title	Old worlds	"Original Translation
 zh_CN: 旧世界
 zh_TW: 舊版世界"	
+hbui.Storage.StorageListRoute.music.title	Music	Original Translation	
 hbui.Storage.StorageListRoute.resourcePacks.title	Resource packs	"Original Translation
 zh_CN: 资源包
 zh_TW: 資源包"	
@@ -30578,9 +30667,6 @@ zh_TW: 生存"
 hbui.WorldTag.unknown	Unknown	"Original Translation
 zh_CN: 未知
 zh_TW: 未知"	
-hbui.gameplay.DeathScreen.enumeration	%1$s of %2$s	"Original Translation
-zh_CN: 第 %1$s/%2$s 个
-zh_TW: %1$s/%2$s"	
 hbui.gameplay.DeathScreen.exitWorldButton	Exit world	"Original Translation
 zh_CN: 退出世界
 zh_TW: 退出世界"	
@@ -35786,9 +35872,12 @@ zh_TW: 黑色組合包"
 item.black_harness.name	Black Harness	"Original Translation
 zh_CN: 黑色挽具
 zh_TW: 黑色帽鞍"	
+item.black_pocket_jukebox.empty.description	Can hold music discs	Original Translation	
+item.black_pocket_jukebox.name	Black Pocket Jukebox	Original Translation	
 item.blade_pottery_sherd.name	Blade Pottery Sherd	"Original Translation
 zh_CN: 利刃纹样陶片
 zh_TW: 利刃陶器碎片"	
+item.blank_disc.name	Blank Disc	Original Translation	
 item.blaze_powder.name	Blaze Powder	"Original Translation
 zh_CN: 烈焰粉
 zh_TW: 烈焰粉"	
@@ -35807,6 +35896,8 @@ zh_TW: 藍色蛋"
 item.blue_harness.name	Blue Harness	"Original Translation
 zh_CN: 蓝色挽具
 zh_TW: 藍色帽鞍"	
+item.blue_pocket_jukebox.empty.description	Can hold music discs	Original Translation	
+item.blue_pocket_jukebox.name	Blue Pocket Jukebox	Original Translation	
 item.boat.acacia.name	Acacia Boat	"Original Translation
 zh_CN: 金合欢木船
 zh_TW: 相思木船"	
@@ -35882,6 +35973,8 @@ zh_TW: 棕色蛋"
 item.brown_harness.name	Brown Harness	"Original Translation
 zh_CN: 棕色挽具
 zh_TW: 棕色帽鞍"	
+item.brown_pocket_jukebox.empty.description	Can hold music discs	Original Translation	
+item.brown_pocket_jukebox.name	Brown Pocket Jukebox	Original Translation	
 item.brush.name	Brush	"Original Translation
 zh_CN: 刷子
 zh_TW: 刷子"	
@@ -36413,6 +36506,8 @@ zh_TW: 青綠色組合包"
 item.cyan_harness.name	Cyan Harness	"Original Translation
 zh_CN: 青色挽具
 zh_TW: 青綠色帽鞍"	
+item.cyan_pocket_jukebox.empty.description	Can hold music discs	Original Translation	
+item.cyan_pocket_jukebox.name	Cyan Pocket Jukebox	Original Translation	
 item.danger_pottery_sherd.name	Danger Pottery Sherd	"Original Translation
 zh_CN: 危机纹样陶片
 zh_TW: 危險陶器碎片"	
@@ -36830,12 +36925,16 @@ zh_TW: 灰色組合包"
 item.gray_harness.name	Gray Harness	"Original Translation
 zh_CN: 灰色挽具
 zh_TW: 灰色帽鞍"	
+item.gray_pocket_jukebox.empty.description	Can hold music discs	Original Translation	
+item.gray_pocket_jukebox.name	Gray Pocket Jukebox	Original Translation	
 item.green_bundle	Green Bundle	"Original Translation
 zh_CN: 绿色收纳袋
 zh_TW: 綠色組合包"	
 item.green_harness.name	Green Harness	"Original Translation
 zh_CN: 绿色挽具
 zh_TW: 綠色帽鞍"	
+item.green_pocket_jukebox.empty.description	Can hold music discs	Original Translation	
+item.green_pocket_jukebox.name	Green Pocket Jukebox	Original Translation	
 item.gunpowder.name	Gunpowder	"Original Translation
 zh_CN: 火药
 zh_TW: 火藥"	
@@ -36993,18 +37092,24 @@ zh_TW: 淺藍色組合包"
 item.light_blue_harness.name	Light Blue Harness	"Original Translation
 zh_CN: 淡蓝色挽具
 zh_TW: 淺藍色帽鞍"	
+item.light_blue_pocket_jukebox.empty.description	Can hold music discs	Original Translation	
+item.light_blue_pocket_jukebox.name	Light Blue Pocket Jukebox	Original Translation	
 item.light_gray_bundle	Light Gray Bundle	"Original Translation
 zh_CN: 淡灰色收纳袋
 zh_TW: 淺灰色組合包"	
 item.light_gray_harness.name	Light Gray Harness	"Original Translation
 zh_CN: 淡灰色挽具
 zh_TW: 淺灰色帽鞍"	
+item.light_gray_pocket_jukebox.empty.description	Can hold music discs	Original Translation	
+item.light_gray_pocket_jukebox.name	Light Gray Pocket Jukebox	Original Translation	
 item.lime_bundle	Lime Bundle	"Original Translation
 zh_CN: 黄绿色收纳袋
 zh_TW: 淡黃綠色組合包"	
 item.lime_harness.name	Lime Harness	"Original Translation
 zh_CN: 黄绿色挽具
 zh_TW: 淡黃綠色帽鞍"	
+item.lime_pocket_jukebox.empty.description	Can hold music discs	Original Translation	
+item.lime_pocket_jukebox.name	Lime Pocket Jukebox	Original Translation	
 item.lodestonecompass.name	Lodestone Compass	"Original Translation
 zh_CN: 磁石指南针
 zh_TW: 磁石羅盤"	
@@ -37017,6 +37122,8 @@ zh_TW: 洋紅色組合包"
 item.magenta_harness.name	Magenta Harness	"Original Translation
 zh_CN: 品红色挽具
 zh_TW: 洋紅色帽鞍"	
+item.magenta_pocket_jukebox.empty.description	Can hold music discs	Original Translation	
+item.magenta_pocket_jukebox.name	Magenta Pocket Jukebox	Original Translation	
 item.magma_cream.name	Magma Cream	"Original Translation
 zh_CN: 岩浆膏
 zh_TW: 熔岩球"	
@@ -37248,6 +37355,8 @@ zh_TW: 橙色組合包"
 item.orange_harness.name	Orange Harness	"Original Translation
 zh_CN: 橙色挽具
 zh_TW: 橙色帽鞍"	
+item.orange_pocket_jukebox.empty.description	Can hold music discs	Original Translation	
+item.orange_pocket_jukebox.name	Orange Pocket Jukebox	Original Translation	
 item.oxidized_copper_door.name	Oxidized Copper Door	"Original Translation
 zh_CN: 氧化铜门
 zh_TW: 氧化的銅門"	
@@ -37281,12 +37390,20 @@ zh_TW: 粉紅色組合包"
 item.pink_harness.name	Pink Harness	"Original Translation
 zh_CN: 粉红色挽具
 zh_TW: 粉紅色帽鞍"	
+item.pink_pocket_jukebox.empty.description	Can hold music discs	Original Translation	
+item.pink_pocket_jukebox.name	Pink Pocket Jukebox	Original Translation	
 item.pitcher_pod.name	Pitcher Pod	"Original Translation
 zh_CN: 猪笼草荚果
 zh_TW: 豬籠草豆莢"	
 item.plenty_pottery_sherd.name	Plenty Pottery Sherd	"Original Translation
 zh_CN: 富饶纹样陶片
 zh_TW: 豐饒陶器碎片"	
+item.pocket_jukebox.empty	Empty	Original Translation	
+item.pocket_jukebox.empty.description	Can hold music discs	Original Translation	
+item.pocket_jukebox.full	Full	Original Translation	
+item.pocket_jukebox.fullness	%s left	Original Translation	
+item.pocket_jukebox.name	Pocket Jukebox	Original Translation	
+item.pocket_jukebox.paused	Music paused	Original Translation	
 item.poisonous_potato.name	Poisonous Potato	"Original Translation
 zh_CN: 毒马铃薯
 zh_TW: 毒馬鈴薯"	
@@ -37335,6 +37452,8 @@ zh_TW: 紫色組合包"
 item.purple_harness.name	Purple Harness	"Original Translation
 zh_CN: 紫色挽具
 zh_TW: 紫色帽鞍"	
+item.purple_pocket_jukebox.empty.description	Can hold music discs	Original Translation	
+item.purple_pocket_jukebox.name	Purple Pocket Jukebox	Original Translation	
 item.quartz.name	Nether Quartz	"Original Translation
 zh_CN: 下界石英
 zh_TW: 地獄石英"	
@@ -37443,6 +37562,8 @@ zh_TW: 紅色組合包"
 item.red_harness.name	Red Harness	"Original Translation
 zh_CN: 红色挽具
 zh_TW: 紅色帽鞍"	
+item.red_pocket_jukebox.empty.description	Can hold music discs	Original Translation	
+item.red_pocket_jukebox.name	Red Pocket Jukebox	Original Translation	
 item.redstone.name	Redstone Dust	"Original Translation
 zh_CN: 红石粉
 zh_TW: 紅石塵"	
@@ -37984,6 +38105,7 @@ zh_TW: 火炬花種子"
 item.totem.name	Totem of Undying	"Original Translation
 zh_CN: 不死图腾
 zh_TW: 不死圖騰"	
+item.track_disc.name	Music Disc	Original Translation	
 item.trial_key.name	Trial Key	"Original Translation
 zh_CN: 试炼钥匙
 zh_TW: 試煉鑰匙"	
@@ -38230,6 +38352,8 @@ zh_TW: 白色組合包"
 item.white_harness.name	White Harness	"Original Translation
 zh_CN: 白色挽具
 zh_TW: 白色帽鞍"	
+item.white_pocket_jukebox.empty.description	Can hold music discs	Original Translation	
+item.white_pocket_jukebox.name	White Pocket Jukebox	Original Translation	
 item.wild_armor_trim_smithing_template.name	Wild Armor Trim	"Original Translation
 zh_CN: 荒野盔甲纹饰
 zh_TW: 狂野護甲紋飾"	
@@ -38275,6 +38399,8 @@ zh_TW: 黃色組合包"
 item.yellow_harness.name	Yellow Harness	"Original Translation
 zh_CN: 黄色挽具
 zh_TW: 黃色帽鞍"	
+item.yellow_pocket_jukebox.empty.description	Can hold music discs	Original Translation	
+item.yellow_pocket_jukebox.name	Yellow Pocket Jukebox	Original Translation	
 itemGroup.name.anvil	Anvils	"Original Translation
 zh_CN: 铁砧
 zh_TW: 鐵砧"	
@@ -39019,24 +39145,6 @@ zh_TW: 顯示計分板"
 key.screenshot	Take Screenshot	"Original Translation
 zh_CN: 截图
 zh_TW: 拍攝畫面照片"	
-key.script_cancel	Cancel Current Action	"Original Translation
-zh_CN: 取消当前操作
-zh_TW: 取消目前操作"	
-key.script_open_chat	Open Chat UI	"Original Translation
-zh_CN: 打开聊天 UI
-zh_TW: 開啟聊天介面"	
-key.script_open_inventory	Open Inventory UI	"Original Translation
-zh_CN: 打开物品栏 UI
-zh_TW: 開啟物品欄介面"	
-key.script_open_map	Open Map UI	"Original Translation
-zh_CN: 打开地图 UI
-zh_TW: 開啟地圖介面"	
-key.script_open_mission	Open Mission UI	"Original Translation
-zh_CN: 打开任务 UI
-zh_TW: 開啟任務介面"	
-key.script_toggle	Toggle Mouse Mode	"Original Translation
-zh_CN: 切换鼠标模式
-zh_TW: 切換滑鼠模式"	
 key.smoothCamera	Toggle Cinematic Camera	"Original Translation
 zh_CN: 切换电影视角
 zh_TW: 切換視角平滑移動"	
@@ -41432,6 +41540,7 @@ zh_TW: 調整方塊光源的品質"
 options.blockLightQuality.high	High	"Original Translation
 zh_CN: 点光源+
 zh_TW: 點光源+"	
+options.blockLightQuality.info_banner	Some options require the %s experiment and a supported device.	Original Translation	
 options.blockLightQuality.low	Low	"Original Translation
 zh_CN: 体积光源
 zh_TW: 體積光源"	
@@ -42402,12 +42511,12 @@ options.dev_game_tip	Gameplay Tips	"Original Translation
 zh_CN: 游戏提示
 zh_TW: 遊戲秘訣"	
 options.dev_grantRealmsDebugSubscription	Grant %s Debug Entitlement	Original Translation	
-options.dev_grantRealmsDebugSubscription.failure	The Realms %s debug entitlement grant failed. Verify that the account is signed in and allow-listed, then try again.	Original Translation	
+options.dev_grantRealmsDebugSubscription.failure	"The Realms %s debug entitlement grant failed. Verify that the account is signed in and allow-listed, then try again.\nTo request that your account be allow-listed, go to the #ask-services-marketplace Slack channel and use the ""Minecoin Debug and Subscription Allowlist"" workflow."	Original Translation	
 options.dev_grantRealmsDebugSubscription.goToRealms	Go to Realms	Original Translation	
 options.dev_grantRealmsDebugSubscription.subscriptionDataUnavailable	Unable to get subscription data at the moment. Check your internet connection and try again later.	Original Translation	
 options.dev_grantRealmsDebugSubscription.success	Realms %s entitlement granted successfully. Go to the Realms Tab to create your Realm.	Original Translation	
 options.dev_grantRealmsDebugSubscription.title	Debug Entitlement Grant	Original Translation	
-options.dev_grantRealmsDebugSubscription.unavailable	No debug offer is available for Realms %s. This account is either not allow-listed or has reached the maximum number of debug Realms for this tier.	Original Translation	
+options.dev_grantRealmsDebugSubscription.unavailable	"No debug offer is available for Realms %s. This account is either not allow-listed or has reached the maximum number of debug Realms for this tier.\nTo request that your account be allow-listed, go to the #ask-services-marketplace Slack channel and use the ""Minecoin Debug and Subscription Allowlist"" workflow."	Original Translation	
 options.dev_importPacksAsZip	Import Packs as Zip	"Original Translation
 zh_CN: 将包导入为 Zip 压缩包
 zh_TW: 以 ZIP 壓縮檔案形式匯入套件"	
@@ -43730,6 +43839,8 @@ zh_TW: 關閉"
 options.on	ON	"Original Translation
 zh_CN: 开
 zh_TW: 開啟"	
+options.onlineAudio	Online audio	Original Translation	
+options.onlineAudio.description	Allow some audio to stream from the internet	Original Translation	
 options.onlyTrustedSkinsAllowed	Only Allow Trusted Skins	"Original Translation
 zh_CN: 仅允许受信任的皮肤
 zh_TW: 僅允許受信任的外觀"	
@@ -48270,6 +48381,7 @@ zh_TW: 解鎖新配方"
 reconnectOnResumeScreen.title	Reconnecting you to your game	"Original Translation
 zh_CN: 正在重新连接你的游戏
 zh_TW: 正在將您重新連線至遊戲"	
+record.blankDisc	Use a Disc Press to make this Blank Disc playable.	Original Translation	
 record.nowPlaying	Now playing: %s	"Original Translation
 zh_CN: 正在播放：%s
 zh_TW: 正在播放：%s"	
@@ -51726,6 +51838,11 @@ zh_TW: 世界匯出忙碌"
 resourcePack.editor.playtestResult.WorldExportFailed	World Export Failed	"Original Translation
 zh_CN: 世界导出失败
 zh_TW: 世界匯出失敗"	
+resourcePack.editor.prefab.bake.layoutMissing	Layout instance '%s' cannot be baked because its Layout no longer exists	Original Translation	
+resourcePack.editor.prefab.bake.noStructures	Layout instance '%s' of Layout '%s' cannot be baked because the Layout contains no structures	Original Translation	
+resourcePack.editor.prefab.bake.structureLoadFailed	Layout instance '%s' of Layout '%s' cannot be baked because structure '%s' could not be loaded	Original Translation	
+resourcePack.editor.prefab.bake.structureNotFound	Layout instance '%s' of Layout '%s' cannot be baked because structure '%s' was not found. It may have been deleted	Original Translation	
+resourcePack.editor.prefab.bake.structureRefMissing	Layout instance '%s' of Layout '%s' cannot be baked because the Layout no longer contains one of its structures	Original Translation	
 resourcePack.editor.realmsPublish.Back	Back	"Original Translation
 zh_CN: 返回
 zh_TW: 返回"	
@@ -56094,6 +56211,8 @@ zh_TW: 舊世界"
 storageManager.contentType.legacy_worlds.name	Old worlds	"Original Translation
 zh_CN: 旧世界
 zh_TW: 舊版世界"	
+storageManager.contentType.music	Music	Original Translation	
+storageManager.contentType.music.name	Music	Original Translation	
 storageManager.contentType.resourcePack	Resource	"Original Translation
 zh_CN: 资源
 zh_TW: 資源"	
@@ -56700,6 +56819,7 @@ zh_TW: 登入至 Microsoft 帳戶以解鎖。"
 store.content.requireXbl.signedIn	Download for free with a Microsoft account.	"Original Translation
 zh_CN: 用 Microsoft 账号可免费下载。
 zh_TW: 使用 Microsoft 帳戶免費下載。"	
+store.content.tryFree	Try free	Original Translation	
 store.content.update	Update	"Original Translation
 zh_CN: 更新
 zh_TW: 更新"	
@@ -58841,6 +58961,7 @@ zh_TW: 告示牌晃動"
 subtitles.block.honey_block.slide	Sliding down a honey block	"Original Translation
 zh_CN: 向下滑动蜂蜜方块
 zh_TW: 順著蜂蜜方塊滑落"	
+subtitles.block.ice.ambient	Ice resonates	Original Translation	
 subtitles.block.iron_trapdoor.close	Trapdoor closes	"Original Translation
 zh_CN: 活板门关闭
 zh_TW: 地板門關閉"	
@@ -62910,6 +63031,7 @@ zh_TW: 泥土"
 tile.dirt_with_roots.name	Rooted Dirt	"Original Translation
 zh_CN: 缠根泥土
 zh_TW: 纏根泥土"	
+tile.disc_press.name	Disc Press	Original Translation	
 tile.dispenser.name	Dispenser	"Original Translation
 zh_CN: 发射器
 zh_TW: 發射器"	
@@ -64487,6 +64609,12 @@ zh_TW: 氧化的避雷針"
 tile.packed_ice.name	Packed Ice	"Original Translation
 zh_CN: 浮冰
 zh_TW: 冰磚"	
+tile.packed_ice_bricks.name	Packed Ice Bricks	Original Translation	
+tile.packed_ice_bricks_chiseled.name	Chiseled Packed Ice Bricks	Original Translation	
+tile.packed_ice_bricks_double_slab.name	Packed Ice Bricks Double Slab	Original Translation	
+tile.packed_ice_bricks_slab.name	Packed Ice Bricks Slab	Original Translation	
+tile.packed_ice_bricks_stairs.name	Packed Ice Bricks Stairs	Original Translation	
+tile.packed_ice_bricks_wall.name	Packed Ice Bricks Wall	Original Translation	
 tile.packed_mud.name	Packed Mud	"Original Translation
 zh_CN: 填充泥浆
 zh_TW: 泥坯"	
@@ -67248,6 +67376,9 @@ zh_TW: 我們無法驗證您在此裝置中擁有 Minecraft。確認您已從商
 verification.nolicense.title	License Error	"Original Translation
 zh_CN: 证书错误
 zh_TW: 授權錯誤"	
+websocket.button.accept	I trust this server	Original Translation	
+websocket.description	You are about to connect to a server at %s which will allow it to run Minecraft commands as if it were you. Do you trust this server and want to continue?	Original Translation	
+websocket.title	Websocket Server Request	Original Translation	
 worldConversionComplete.load_prompt	Would you like to play your world now?	"Original Translation
 zh_CN: 您想立即开始玩您的世界吗？
 zh_TW: 您是否現在要玩您的世界？"	
