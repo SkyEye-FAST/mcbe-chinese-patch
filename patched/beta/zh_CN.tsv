@@ -7194,7 +7194,7 @@ zh_CN: 剩余 %s
 zh_TW: 剩餘 %s"	"剩余%s"
 "date.time_zone_utc"	"UTC"	"Original Translation
 zh_CN: UTC
-zh_TW: UTC"	""
+zh_TW: UTC"	"国际协调时间"
 "dayOneExperience.carousel.cross_platform"	"Cross-platform play lets you connect with players on different platforms. Sign in to your Microsoft account to play with all your Minecraft friends!"	"Original Translation
 zh_CN: 跨平台游戏能够让您与不同平台上的玩家连系在一起。登录至您的 Microsoft 账号，与您所有的 Minecraft 好友一起玩！
 zh_TW: 跨平台遊戲可讓你與其他平台的玩家連線玩遊戲。登入你的 Microsoft 帳戶以與你所有 Minecraft 好友一起玩遊戲！"	"跨平台玩法能让你与不同平台上的玩家联机。登录你的Microsoft账户，与你所有的Minecraft好友联机！"
@@ -7275,7 +7275,7 @@ zh_CN: 市场
 zh_TW: 市集"	"市场"
 "dayOneExperience.tab.realms"	"Realms"	"Original Translation
 zh_CN: Realms
-zh_TW: Realms"	""
+zh_TW: Realms"	"Realms"
 "dayOneExperience.tab.villager"	"More Content"	"Original Translation
 zh_CN: 更多内容
 zh_TW: 更多內容"	"更多内容"
@@ -8398,10 +8398,10 @@ zh_CN: 获取更多
 zh_TW: 取得更多內容"	"获取更多"
 "dr.classic_skins.realms_plus"	"Realms Plus"	"Original Translation
 zh_CN: Realms Plus
-zh_TW: Realms Plus"	""
+zh_TW: Realms Plus"	"Realms Plus"
 "dr.classic_skins.realms_plus_button"	"Realms Plus"	"Original Translation
 zh_CN: Realms Plus
-zh_TW: Realms Plus"	""
+zh_TW: Realms Plus"	"Realms Plus"
 "dr.classic_skins.right_side.author_minecraft"	"by Minecraft"	"Original Translation
 zh_CN: 《我的世界》出品
 zh_TW: 由 Minecraft 提供"	"作者：Minecraft"
