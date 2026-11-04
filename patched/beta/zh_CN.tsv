@@ -7041,7 +7041,7 @@ zh_CN: 返回
 zh_TW: 返回"	"返回"
 "csbCreateScreen.popupTitle"	"Marketplace Pass"	"Original Translation
 zh_CN: Marketplace Pass
-zh_TW: Marketplace Pass"	""
+zh_TW: Marketplace Pass"	"Marketplace Pass"
 "csbCreateScreen.termsAndConditionsAgree"	"I agree"	"Original Translation
 zh_CN: 同意
 zh_TW: 我同意"	"我同意"
@@ -8792,7 +8792,7 @@ zh_CN: 艾莉克斯的鞋子
 zh_TW: 愛莉克斯的鞋子"	"Alex的鞋子"
 "dr.default.alex.skin"	"Alex"	"Original Translation
 zh_CN: 艾莉克斯
-zh_TW: 愛莉克斯"	""
+zh_TW: 愛莉克斯"	"艾莉克斯"
 "dr.default.alex.top"	"Alex's Shirt"	"Original Translation
 zh_CN: 艾莉克斯的衬衫
 zh_TW: 愛莉克斯的襯衫"	"Alex的衬衫"
@@ -8825,7 +8825,7 @@ zh_CN: 史蒂夫的鞋子
 zh_TW: 史提夫的鞋子"	"Steve的鞋子"
 "dr.default.steve.skin"	"Steve"	"Original Translation
 zh_CN: 史蒂夫
-zh_TW: 史提夫"	""
+zh_TW: 史提夫"	"史蒂夫"
 "dr.default.steve.top"	"Steve's Shirt"	"Original Translation
 zh_CN: 史蒂夫的衬衫
 zh_TW: 史提夫的襯衫"	"Steve的衬衫"
@@ -10900,7 +10900,7 @@ zh_CN: 黑暗
 zh_TW: 黑暗"	"黑暗"
 "effect.duration.infinite"	"∞"	"Original Translation
 zh_CN: ∞
-zh_TW: ∞"	""
+zh_TW: ∞"	"∞"
 "effect.freezing"	"Freezing"	"Original Translation
 zh_CN: 霜冻
 zh_TW: 霜凍"	"冰冻"
@@ -11020,34 +11020,34 @@ zh_CN: 击退
 zh_TW: 擊退"	"击退"
 "enchantment.level.1"	"I"	"Original Translation
 zh_CN: I
-zh_TW: I"	""
+zh_TW: I"	"I"
 "enchantment.level.10"	"X"	"Original Translation
 zh_CN: X
-zh_TW: X"	""
+zh_TW: X"	"X"
 "enchantment.level.2"	"II"	"Original Translation
 zh_CN: II
-zh_TW: II"	""
+zh_TW: II"	"II"
 "enchantment.level.3"	"III"	"Original Translation
 zh_CN: III
-zh_TW: III"	""
+zh_TW: III"	"III"
 "enchantment.level.4"	"IV"	"Original Translation
 zh_CN: IV
-zh_TW: IV"	""
+zh_TW: IV"	"IV"
 "enchantment.level.5"	"V"	"Original Translation
 zh_CN: V
-zh_TW: V"	""
+zh_TW: V"	"V"
 "enchantment.level.6"	"VI"	"Original Translation
 zh_CN: VI
-zh_TW: VI"	""
+zh_TW: VI"	"VI"
 "enchantment.level.7"	"VII"	"Original Translation
 zh_CN: VII
-zh_TW: VII"	""
+zh_TW: VII"	"VII"
 "enchantment.level.8"	"VIII"	"Original Translation
 zh_CN: VIII
-zh_TW: VIII"	""
+zh_TW: VIII"	"VIII"
 "enchantment.level.9"	"IX"	"Original Translation
 zh_CN: IX
-zh_TW: IX"	""
+zh_TW: IX"	"IX"
 "enchantment.lootBonus"	"Looting"	"Original Translation
 zh_CN: 抢夺
 zh_TW: 掠奪"	"抢夺"
@@ -12682,7 +12682,7 @@ zh_CN: 手风琴
 zh_TW: 手風琴"	"折叠菜单"
 "hbui.Accordion.narrationCountLabel"	"%1$s - (%2$s)"	"Original Translation
 zh_CN: %1$s - (%2$s)
-zh_TW: %1$s - (%2$s)"	""
+zh_TW: %1$s - (%2$s)"	"%1$s - (%2$s)"
 "hbui.Accordion.openInputLegend"	"Open"	"Original Translation
 zh_CN: 打开
 zh_TW: 開啟"	"打开"
@@ -12973,10 +12973,10 @@ zh_CN: 红石
 zh_TW: 紅石"	"红石"
 "hbui.Achievements.category.release.2015"	"2015"	"Original Translation
 zh_CN: 2015
-zh_TW: 2015"	""
+zh_TW: 2015"	"2015"
 "hbui.Achievements.category.release.2016"	"2016"	"Original Translation
 zh_CN: 2016
-zh_TW: 2016"	""
+zh_TW: 2016"	"2016"
 "hbui.Achievements.category.release.buzzybees"	"Buzzy Bees, 2019"	"Original Translation
 zh_CN: 嗡嗡蜂群，2019
 zh_TW: 2019 年嗡嗡蜜蜂"	"嗡嗡蜂群（2019）"
@@ -15123,7 +15123,7 @@ zh_CN: 重生半径
 zh_TW: 重生半徑"	"重生半径"
 "hbui.CreateNewWorld.advanced.respawnRadiusPlaceholder"	"5"	"Original Translation
 zh_CN: 5
-zh_TW: 5"	""
+zh_TW: 5"	"5"
 "hbui.CreateNewWorld.advanced.showCoordinatesDescription"	"Display your current position"	"Original Translation
 zh_CN: 显示您当前的位置
 zh_TW: 顯示當前位置"	"显示你当前的坐标"
@@ -15231,7 +15231,7 @@ zh_CN: 世界种子
 zh_TW: 世界種子"	"种子"
 "hbui.CreateNewWorld.advanced.worldSeedPlaceholder"	"3257840388504953787"	"Original Translation
 zh_CN: 3257840388504953787
-zh_TW: 3257840388504953787"	""
+zh_TW: 3257840388504953787"	"3257840388504953787"
 "hbui.CreateNewWorld.all.narrationSuffix"	"Unlock settings to change this"	"Original Translation
 zh_CN: 解锁设置以做此更改
 zh_TW: 解鎖設定以變更此項目"	"解锁设置以更改"
@@ -16239,7 +16239,7 @@ zh_CN: 本地
 zh_TW: 本機"	"本地"
 "hbui.CreateNewWorld.resourcePacks.marketplacePassPacksAccordionHeader"	"Marketplace Pass"	"Original Translation
 zh_CN: Marketplace Pass
-zh_TW: Marketplace Pass"	""
+zh_TW: Marketplace Pass"	"Marketplace Pass"
 "hbui.CreateNewWorld.resourcePacks.marketplacePassPacksAccordionHint"	"Expand to access all Marketplace Pass packs"	"Original Translation
 zh_CN: 展开以访问所有 Marketplace Pass 包
 zh_TW: 展開以使用所有 Marketplace Pass 套件"	"展开以访问所有的Marketplace Pass包"
@@ -16257,7 +16257,7 @@ zh_CN: 获取创作者制作的优质精选内容，包括最受好评的创作�
 zh_TW: 享有精選優質的創作者內容，包含評價最高的創作和玩家最愛 (Realms Plus 包含 Marketplace Pass)"	"使用优质、精选的创作者制作内容，包括最受欢迎的创作和玩家最喜欢的内容（Realms Plus包含Marketplace Pass）"
 "hbui.CreateNewWorld.resourcePacks.marketplacePassPromotionButtonInputLegend"	"Marketplace Pass"	"Original Translation
 zh_CN: Marketplace Pass
-zh_TW: Marketplace Pass"	""
+zh_TW: Marketplace Pass"	"Marketplace Pass"
 "hbui.CreateNewWorld.resourcePacks.marketplacePassPromotionButtonLabel"	"Learn more"	"Original Translation
 zh_CN: 了解更多
 zh_TW: 深入了解"	"了解更多"
@@ -19512,7 +19512,7 @@ zh_CN: 已购买
 zh_TW: 已購買"	"已购买"
 "hbui.InboxListItem.realms"	"Realms"	"Original Translation
 zh_CN: Realms
-zh_TW: Realms"	""
+zh_TW: Realms"	"Realms"
 "hbui.InboxListItem.reject"	"Reject"	"Original Translation
 zh_CN: 拒绝
 zh_TW: 拒絕"	"拒绝"

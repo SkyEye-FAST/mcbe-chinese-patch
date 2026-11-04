@@ -235,7 +235,7 @@ zh_CN: 提示
 zh_TW: 秘訣"	"秘訣"
 "accessibility.image.tts.title"	"Image"	"Original Translation
 zh_CN: 图像
-zh_TW: 圖像"	""
+zh_TW: 圖像"	"圖"
 "accessibility.importing.Progress"	"Importing %s percent"	"Original Translation
 zh_CN: 正在导入 %s%
 zh_TW: 匯入中，百分之 %s"	"匯入中，百分之%s"
@@ -541,10 +541,10 @@ zh_CN: 标签
 zh_TW: 標籤"	"標籤"
 "accessibility.text.CurrencyExceptions"	"PLN"	"Original Translation
 zh_CN: PLN
-zh_TW: PLN"	""
+zh_TW: PLN"	"PLN"
 "accessibility.text.PLN"	"Polish Zloty:Groszy:."	"Original Translation
 zh_CN: Polish Zloty:Groszy:.
-zh_TW: Polish Zloty:Groszy:."	""
+zh_TW: Polish Zloty:Groszy:."	"Polish Zloty:Groszy:."
 "accessibility.text.ampersand"	"And"	"Original Translation
 zh_CN: & 符号
 zh_TW: & 符號"	"& 符號"
