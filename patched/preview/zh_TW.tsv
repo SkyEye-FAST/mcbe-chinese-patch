@@ -2934,6 +2934,13 @@ zh_TW: 在專屬伺服器執行時變更其上的設定。"	"在專屬伺服器�
 "commands.change-setting.success"	"%1$s has been changed"	"Original Translation
 zh_CN: %1$s 已更改
 zh_TW: %1$s 已變更"	"%1$s 已變更"
+"commands.chat.description"	"Shows or hides a chat channel, or sends a message to one."	"Original Translation"	""
+"commands.chatchannel.hidden.global"	"Global chat hidden. Use '/chat show %1$s' to see it again."	"Original Translation"	""
+"commands.chatchannel.hidden.party"	"Party chat hidden. Use '/chat show %1$s' to see it again."	"Original Translation"	""
+"commands.chatchannel.hidden.world"	"World chat hidden. Use '/chat show %1$s' to see it again."	"Original Translation"	""
+"commands.chatchannel.shown.global"	"Global chat shown"	"Original Translation"	""
+"commands.chatchannel.shown.party"	"Party chat shown"	"Original Translation"	""
+"commands.chatchannel.shown.world"	"World chat shown"	"Original Translation"	""
 "commands.chunkinfo.compiled"	"Chunk is compiled."	"Original Translation
 zh_CN: 区块已编译。
 zh_TW: 此區塊已被編譯。"	"此區塊已被編譯。"
@@ -3672,6 +3679,8 @@ zh_TW: 您收到了 %1$s * %2$d"	"您收到了 %1$s * %2$d"
 "commands.give.tagError"	"Data tag parsing failed: %1$s"	"Original Translation
 zh_CN: 数据标签解析失败：%1$s
 zh_TW: 資料標籤解析失敗：%1$s"	"資料標籤解析失敗：%1$s"
+"commands.global.description"	"Sends a message in the global chat channel."	"Original Translation"	""
+"commands.global.unavailable"	"Global chat isn't available in this world."	"Original Translation"	""
 "commands.globalpause.description"	"Sets or gets the paused state of the game for all players."	"Original Translation
 zh_CN: 设置或取得所有玩家的全游戏暂停状态。
 zh_TW: 可為所有玩家設定或取得遊戲的暫停狀態。"	"可為所有玩家設定或取得遊戲的暫停狀態。"
@@ -7567,13 +7576,38 @@ zh_TW: 自訂外觀"	"自訂外觀"
 "disabledSkin.type.persona"	"personas"	"Original Translation
 zh_CN: 角色
 zh_TW: 角色"	"角色"
+"disc.cellularDataDisabled.failedSong"	"Streaming music over mobile data is turned off. %s can't be played. Connect to Wi-Fi or allow mobile data for online play in Settings."	"Original Translation"	""
+"disc.cellularDataDisabled.failedSongs"	"Streaming music over mobile data is turned off. These songs can't be played: %s. Connect to Wi-Fi or allow mobile data for online play in Settings."	"Original Translation"	""
+"disc.offline.failedSong"	"An internet connection is required to stream music. %s can't be played. Please check your connection and try again."	"Original Translation"	""
+"disc.offline.failedSongs"	"An internet connection is required to stream music. These songs can't be played: %s. Please check your connection and try again."	"Original Translation"	""
+"disc.onlineAudioDisabled.failedSong"	"Online audio is turned off in Settings. %s can't be played."	"Original Translation"	""
+"disc.onlineAudioDisabled.failedSongs"	"Online audio is turned off in Settings. These songs can't be played: %s."	"Original Translation"	""
+"disc.ownershipOrConnectivity.failedSong"	"%s can't be played. An internet connection is required to stream music, and a player who owns the song must be connected. Please check your connection and try again."	"Original Translation"	""
+"disc.ownershipOrConnectivity.failedSongs"	"These songs can't be played: %s. An internet connection is required to stream music, and a player who owns each song must be connected. Please check your connection and try again."	"Original Translation"	""
+"disc.ownershipRequired.failedSong"	"Failed to play: %s. No connected player owns this song."	"Original Translation"	""
+"disc.ownershipRequired.failedSongs"	"Failed to play: %s. No connected player owns these songs."	"Original Translation"	""
+"disc.playbackFailed"	"Some discs couldn't play"	"Original Translation"	""
+"disc.serviceUnavailable"	"Having trouble playing music"	"Original Translation"	""
+"disc.serviceUnavailable.message"	"Having trouble streaming: %s. The music service is unavailable right now. Please try again later."	"Original Translation"	""
 "discPress.filter.all"	"Select all"	"Original Translation"	"全選"
 "discPress.filter.none"	"Clear all"	"Original Translation"	"全部清空"
 "discPress.search"	"Search"	"Original Translation"	"搜索"
-"discPress.sort.artist"	"Artist"	"Original Translation"	"曲師"
-"discPress.sort.duration"	"Length"	"Original Translation"	"長度"
-"discPress.sort.titleAscending"	"Title A-Z"	"Original Translation"	"標題A-Z"
-"discPress.sort.titleDescending"	"Title Z-A"	"Original Translation"	"標題Z-A"
+"discPress.sort.artist"	"Artist: A to Z"	"Original Translation"	""
+"discPress.sort.artistDescending"	"Artist: Z to A"	"Original Translation"	""
+"discPress.sort.duration"	"Duration: Shortest to Longest"	"Original Translation"	""
+"discPress.sort.durationDescending"	"Duration: Longest to Shortest"	"Original Translation"	""
+"discPress.sort.titleAscending"	"Title: A to Z"	"Original Translation"	""
+"discPress.sort.titleDescending"	"Title: Z to A"	"Original Translation"	""
+"discPress.tts.artistFilter"	"Artist filter"	"Original Translation"	""
+"discPress.tts.slot.disc"	"Blank disc slot, %s"	"Original Translation"	""
+"discPress.tts.slot.dye"	"Dye slot, %s"	"Original Translation"	""
+"discPress.tts.slot.empty"	"Empty"	"Original Translation"	""
+"discPress.tts.slot.result"	"Result slot, %s"	"Original Translation"	""
+"discPress.tts.sort"	"Sort music"	"Original Translation"	""
+"discPress.tts.track"	"%1, by %2. Duration: %3."	"Original Translation"	""
+"discPress.tts.track.noArtist"	"%1. Duration: %2."	"Original Translation"	""
+"discPress.tts.track.noDuration"	"%1, by %2."	"Original Translation"	""
+"discPress.tts.track.titleOnly"	"%1"	"Original Translation"	""
 "disconnect.closed"	"Connection closed"	"Original Translation
 zh_CN: 连接已关闭
 zh_TW: 連線關閉"	"連線關閉"
@@ -9629,9 +9663,7 @@ zh_TW: 佈局工具"	""
 "editor.introduction.title"	"Introduction"	"Original Translation
 zh_CN: 简介
 zh_TW: 簡介"	""
-"editor.logging.worldDownloadMessage"	"Download from Realms was Successful. World Location: %s"	"Original Translation
-zh_CN: 从 Realms 下载成功。世界位置：%s
-zh_TW: 從 Realms 下載成功。世界位置：%s"	""
+"editor.logging.worldDownloadImportedMessage"	"Download from Realms was successful. The world has been imported."	"Original Translation"	""
 "editor.logging.worldExportMessage"	"Exporting world was Successful. World Location: %s"	"Original Translation
 zh_CN: 成功导出世界。世界位置：%s
 zh_TW: 匯出世界成功。世界位置：%s"	""
@@ -13668,6 +13700,7 @@ zh_TW: 卡片"	""
 "hbui.Card.narrationComponentTypeButton"	"Button"	"Original Translation
 zh_CN: 按钮
 zh_TW: 按鈕"	""
+"hbui.ChatMessage.narration.unavailable"	"Selection unavailable"	"Original Translation"	""
 "hbui.ChatOptionsRoute.copyOrReportMessages"	"Copy or Report Messages"	"Original Translation
 zh_CN: 复制或举报消息
 zh_TW: 複製或檢舉訊息"	"複製或檢舉訊息"
@@ -16505,7 +16538,7 @@ zh_TW: 選項"	""
 zh_CN: 已禁用
 zh_TW: 已停用"	""
 "hbui.DropdownItem.elementType"	"item"	"Original Translation
-zh_CN: 项目
+zh_CN: 物品
 zh_TW: 物品"	"物品"
 "hbui.DropdownItem.narrationComponentType"	"Option"	"Original Translation
 zh_CN: 选项
@@ -16515,9 +16548,9 @@ zh_CN: 选择
 zh_TW: 選取"	"選取"
 "hbui.DropdownItem.selected"	"selected"	"Original Translation
 zh_CN: 已选择
-zh_TW: 已選取"	"已選取"
+zh_TW: 已選擇"	"已選取"
 "hbui.DropdownItem.unselected"	"not selected"	"Original Translation
-zh_CN: 未当选
+zh_CN: 未选择
 zh_TW: 未選擇"	"未選擇"
 "hbui.EditRealmWorld.ConfirmModals.cancel"	"Cancel"	"Original Translation
 zh_CN: 取消
@@ -19150,18 +19183,6 @@ zh_TW: %1$s 位好友在線上"	"%1$s 位好友在線上"
 "hbui.FriendList.onlineFriendsNumberSingular"	"%1$s friend online"	"Original Translation
 zh_CN: %1$s 个好友在线
 zh_TW: %1$s 位好友在線上"	"%1$s 位好友在線上"
-"hbui.FriendList.pending"	"Pending requests (%1$s)"	"Original Translation
-zh_CN: 待处理请求 (%1$s)
-zh_TW: 待處理的請求 (%1$s)"	"待處理的請求 （%1$s）"
-"hbui.FriendList.pendingFriends"	"Pending request"	"Original Translation
-zh_CN: 待处理请求
-zh_TW: 待處理的請求"	"待處理的請求"
-"hbui.FriendList.pendingFriendsNumberMultiple"	"%1$s requests pending"	"Original Translation
-zh_CN: %1$s 个请求待处理
-zh_TW: %1$s 個待處理的請求"	"%1$s 個待處理的請求"
-"hbui.FriendList.pendingFriendsNumberSingular"	"%1$s request pending"	"Original Translation
-zh_CN: %1 个请求待处理
-zh_TW: %1$s 個待處理的請求"	"%1$s 個待處理的請求"
 "hbui.FriendList.you"	"You"	"Original Translation
 zh_CN: 您
 zh_TW: 你"	"你"
@@ -20098,9 +20119,15 @@ zh_TW: 按鈕"	"按鈕"
 "hbui.MainMenu.ClientDrivenRecentlyPlayedFab.noWorlds.buttonLabel"	"Create new world"	"Original Translation"	""
 "hbui.MainMenu.ClientDrivenRecentlyPlayedFab.noWorlds.title"	"No worlds here... yet"	"Original Translation"	""
 "hbui.MainMenu.ClientDrivenRecentlyPlayedFab.realmWorld"	"Realm"	"Original Translation"	""
+"hbui.MainMenu.Discovery.error.message"	"Couldn't load content"	"Original Translation"	""
+"hbui.MainMenu.Discovery.error.tryAgain"	"Try again"	"Original Translation"	""
 "hbui.MainMenu.Discovery.inputLegend.action"	"View"	"Original Translation
 zh_CN: 查看
 zh_TW: 檢視"	"檢視"
+"hbui.MainMenu.Discovery.narration.discoverMore"	"Discover more"	"Original Translation"	""
+"hbui.MainMenu.Discovery.narration.otherOptionsHint"	"Other options are still available"	"Original Translation"	""
+"hbui.MainMenu.Discovery.narration.realmsBanner"	"Realms"	"Original Translation"	""
+"hbui.MainMenu.Discovery.narration.screenName"	"Discovery screen"	"Original Translation"	""
 "hbui.MainMenu.DiscoverySection.narration.role"	"Section"	"Original Translation
 zh_CN: 分区
 zh_TW: 區段"	"區段"
@@ -20209,6 +20236,7 @@ zh_TW: 主選單畫面"	""
 "hbui.MainMenu.narration.verticalMenu"	"Vertical menu"	"Original Translation
 zh_CN: 垂直菜单
 zh_TW: 垂直選單"	""
+"hbui.MainMenu.signingIn"	"Signing in"	"Original Translation"	""
 "hbui.ManageShowcaseErrorModal.close"	"Close"	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"	"關閉"
@@ -21503,12 +21531,6 @@ zh_TW: 從以下建立…"	"建立於…"
 "hbui.PlayScreen.AllWorldsTab.ButtonHeader.createFromContentNarration"	"Explore content created by partner creators. Use existing templates and Add-Ons or buy one from the Marketplace."	"Original Translation
 zh_CN: 探索由合作伙伴创作者创建的内容。使用现有模板和附加内容或从市场中进行购买。
 zh_TW: 探索由合作夥伴創作者所製作的內容。你可以使用現有範本和附加內容，也可以從市集購買。"	""
-"hbui.PlayScreen.AllWorldsTab.ButtonHeader.createFromTemplate"	"Create from template"	"Original Translation
-zh_CN: 从模板创建
-zh_TW: 從範本建立"	"從範本建立"
-"hbui.PlayScreen.AllWorldsTab.ButtonHeader.createFromTemplateNarration"	"Explore worlds created by partner creators. Use an existing template or buy one from the Marketplace."	"Original Translation
-zh_CN: 探索由合作伙伴创作者创建的世界。使用现有模板或从市场中购买模板。
-zh_TW: 探索由合作創作者建造的世界。使用現有的範本或是從市集內購買。"	"探索由合作創作者建造的世界。使用現有的範本或是從市集內購買。"
 "hbui.PlayScreen.AllWorldsTab.ButtonHeader.createNewWorld"	"Create new world"	"Original Translation
 zh_CN: 创建新世界
 zh_TW: 建立新世界"	"建立新世界"
@@ -22746,7 +22768,7 @@ zh_TW: 返回"	"返回"
 "hbui.PlayScreen.worldMissingEntitlementModal.title"	"%1$s world(s) have been hidden"	"Original Translation
 zh_CN: %1$s 个世界已被隐藏
 zh_TW: 已隱藏 %1$s (一些) 世界"	"已隱藏 %1$s (一些) 世界"
-"hbui.PlayScreen.worldMissingMarioMashUpModal.body"	"Some world are hidden because of missing entitlements. Visit the Marketplace and sign in to claim your content."	"Original Translation
+"hbui.PlayScreen.worldMissingMarioMashUpModal.body"	"Some worlds are hidden because of missing entitlements. Visit the Marketplace and sign in to claim your content."	"Original Translation
 zh_CN: 部分世界因缺少权限被隐藏。请前往市场并登录以领取你的内容。
 zh_TW: 部分世界因缺少使用權而遭到隱藏。請前往市集並登入，以領取你的內容。"	""
 "hbui.PlayScreen.worldMissingMarioMashUpModal.close"	"Close"	"Original Translation
@@ -23220,7 +23242,7 @@ zh_TW: %1$s 的選項"	"%1$s 的選項"
 "hbui.PlayerListItem.narration.playerEnumerationNoSection"	"%1$s of %2$s players"	"Original Translation
 zh_CN: 第 %1$s 个玩家，共 %2$s 个
 zh_TW: %1$s/%2$s 位玩家"	""
-"hbui.PlayerListItem.narration.playerEnumerationWithSection"	"%1$s of %2$s %3$s players"	"Original Translation
+"hbui.PlayerListItem.narration.playerEnumerationWithSection"	"%1$s of %2$s %3$s"	"Original Translation
 zh_CN: 第 %1$s 个%3$s玩家，共 %2$s 个
 zh_TW: %1$s/%2$s 位 %3$s 玩家"	""
 "hbui.PlayerListItem.narration.playerInvited"	"This player has been invited"	"Original Translation
@@ -25089,6 +25111,7 @@ zh_TW: 正在重設世界"	"正在重設世界"
 "hbui.Realms.RealmsHub.adminLog.backup_restored"	"%1$s restored %2$s from a save"	"Original Translation
 zh_CN: %1$s 从存档中恢复了 %2$s
 zh_TW: %1$s 從存檔中還原了 %2$s"	"%1$s 從存檔中還原了 %2$s"
+"hbui.Realms.RealmsHub.adminLog.enumeration"	"%1$s of %2$s"	"Original Translation"	""
 "hbui.Realms.RealmsHub.adminLog.invite_accepted"	"%1$s accepted invitation"	"Original Translation
 zh_CN: %1$s 已接受邀请
 zh_TW: %1$s 已接受邀請"	"%1$s 已接受邀請"
@@ -25905,6 +25928,7 @@ zh_TW: 選擇畫面照片 (選擇性)"	"選擇螢幕擷取畫面 (選擇性)"
 "hbui.RealmsNewStoryRoute.textBoxPlaceholder"	"Write your story..."	"Original Translation
 zh_CN: 编写故事…
 zh_TW: 寫自己的故事…"	"寫自己的故事…"
+"hbui.RealmsPDPFAQAccordion.clickToCollapse"	"Click to collapse"	"Original Translation"	""
 "hbui.RealmsPDPFAQAccordion.clickToExpand"	"Click to expand"	"Original Translation
 zh_CN: 单击展开
 zh_TW: 按一下以展開"	"按一下以展開"
@@ -26377,9 +26401,6 @@ zh_TW: 免費試用 28 天，之後每 30 天 %1$s"	""
 "hbui.RealmsPurchaseSubscriptionRoute.checkboxLabel"	"I agree to the above subscription terms. Subscriptions continue automatically unless cancelled."	"Original Translation
 zh_CN: 我同意以上订阅服务条款。除非取消，否则订阅服务会自动续订。
 zh_TW: 我同意上述訂閱條款。除非取消，否則訂閱將自動繼續。"	"我同意"
-"hbui.RealmsPurchaseSubscriptionRoute.checkboxLabelBelow"	"I agree to the below subscription terms. Subscriptions continue automatically unless cancelled."	"Original Translation
-zh_CN: 我同意以下订阅服务条款。除非取消，否则订阅服务会自动续订。
-zh_TW: 我同意以下訂閱條款。除非取消，否則訂閱將自動繼續。"	""
 "hbui.RealmsPurchaseSubscriptionRoute.checkboxUncheckedHint"	"Accept terms and conditions in order to create a Realm"	"Original Translation
 zh_CN: 接受条款和条件以创建 Realm
 zh_TW: 接受條款和條件才能建立 Realm"	""
@@ -27748,9 +27769,9 @@ zh_TW: 螢幕"	"螢幕"
 "hbui.RealmsStories.members.section"	"Section"	"Original Translation
 zh_CN: Section
 zh_TW: 區段"	"區段"
-"hbui.RealmsStories.members.showAll"	"Show all"	"Original Translation
+"hbui.RealmsStories.members.showAll"	"Realm Member list"	"Original Translation
 zh_CN: 显示全部
-zh_TW: 顯示全部"	"顯示全部"
+zh_TW: 顯示全部"	""
 "hbui.RealmsStories.members.sort"	"Sort"	"Original Translation
 zh_CN: 排序
 zh_TW: 排序"	"排序"
@@ -28092,6 +28113,27 @@ zh_TW: 留言 (選填)"	"留言 (選填)"
 "hbui.ReportPlayerRoute.confirmSelection"	"Confirm Selection"	"Original Translation
 zh_CN: 确认选择
 zh_TW: 確認選擇"	"確認選擇"
+"hbui.ReportPlayerRoute.copyOrReportMessages.copiedMessagesToast"	"Messages copied"	"Original Translation"	""
+"hbui.ReportPlayerRoute.copyOrReportMessages.copyButtonText"	"Copy"	"Original Translation"	""
+"hbui.ReportPlayerRoute.copyOrReportMessages.copyButtonTextPlural"	"Copy %1$s messages"	"Original Translation"	""
+"hbui.ReportPlayerRoute.copyOrReportMessages.copyButtonTextSingular"	"Copy 1 message"	"Original Translation"	""
+"hbui.ReportPlayerRoute.copyOrReportMessages.maxMessagesSelected"	"You've reached the maximum number of messages that can be selected"	"Original Translation"	""
+"hbui.ReportPlayerRoute.copyOrReportMessages.narration.limitReached"	"Maximum of %1$s messages reached. Deselect a message to select another."	"Original Translation"	""
+"hbui.ReportPlayerRoute.copyOrReportMessages.narration.messagesGroup"	"Select messages"	"Original Translation"	""
+"hbui.ReportPlayerRoute.copyOrReportMessages.narration.moreMessagesDownHint"	"Navigate down to see more messages"	"Original Translation"	""
+"hbui.ReportPlayerRoute.copyOrReportMessages.narration.moreMessagesHint"	"Navigate up to see more messages"	"Original Translation"	""
+"hbui.ReportPlayerRoute.copyOrReportMessages.narration.moreMessagesUpOrDownHint"	"Navigate up or down to see more messages"	"Original Translation"	""
+"hbui.ReportPlayerRoute.copyOrReportMessages.narration.selectedCountPlural"	"%1$s messages selected"	"Original Translation"	""
+"hbui.ReportPlayerRoute.copyOrReportMessages.narration.selectedCountSingular"	"1 message selected"	"Original Translation"	""
+"hbui.ReportPlayerRoute.copyOrReportMessages.narration.selectedCountZero"	"No messages selected"	"Original Translation"	""
+"hbui.ReportPlayerRoute.copyOrReportMessages.narration.selectionLimitReason"	"Maximum of %1$s messages selected."	"Original Translation"	""
+"hbui.ReportPlayerRoute.copyOrReportMessages.reportButtonText"	"Report"	"Original Translation"	""
+"hbui.ReportPlayerRoute.copyOrReportMessages.reportButtonTextPlural"	"Report %1$s messages"	"Original Translation"	""
+"hbui.ReportPlayerRoute.copyOrReportMessages.reportButtonTextSingular"	"Report 1 message"	"Original Translation"	""
+"hbui.ReportPlayerRoute.copyOrReportMessages.title"	"Copy or Report Messages"	"Original Translation"	""
+"hbui.ReportPlayerRoute.copyOrReportMessagesFTUE.body"	"Select messages using the checkbox. You can select one or multiple messages to copy or report."	"Original Translation"	""
+"hbui.ReportPlayerRoute.copyOrReportMessagesFTUE.okayButton"	"Okay"	"Original Translation"	""
+"hbui.ReportPlayerRoute.copyOrReportMessagesFTUE.title"	"Select messages"	"Original Translation"	""
 "hbui.ReportPlayerRoute.drugsOrAlcohol"	"Drugs or alcohol"	"Original Translation
 zh_CN: 毒品或酒精
 zh_TW: 毒品或酒精"	"毒品或酒精"
@@ -30191,6 +30233,7 @@ zh_TW: 率"	"評分"
 "hbui.TemplateCard.rating"	"%1$s stars"	"Original Translation
 zh_CN: %1$s 颗星
 zh_TW: %1$s 顆星"	"%1$s 顆星"
+"hbui.TemplateCard.ratingsCount"	"%1$s ratings"	"Original Translation"	""
 "hbui.TemplateCard.start"	"Start"	"Original Translation
 zh_CN: 开始
 zh_TW: 開始"	"開始"
@@ -31100,6 +31143,7 @@ zh_TW: 鐵護甲、鎖鏈護甲和黃金護甲可以在熔爐中熔煉成鐵塊�
 "howtoplay.armor.text.5.gamepad"	"The Shield will block incoming damage. The Shield can be equipped in the offhand slot as well as the hotbar. Press :_input_key.sneak: or press :_gamepad_stick_right: to toggle block with the Shield."	"Original Translation
 zh_CN: 盾牌可以格挡来袭的伤害。盾牌可以装备在便捷槽位以及热键中。按 :_input_key.sneak: 或按 :_gamepad_stick_right: 可以切换成使用盾牌进行格挡。
 zh_TW: 護盾可以格擋傷害，還可以裝備在副手物品欄以及物品快捷欄。按下 :_input_key.sneak: 按鈕或按 :_gamepad_stick_right: 可切換使用護盾來格擋。"	"盾可以格擋即將到來的傷害，還可以裝備在副手物品欄以及物品槽。按 :_input_key.sneak: 按鈕或按 :_gamepad_stick_right: 可切換使用盾來格擋。"
+"howtoplay.armor.text.5.gamepad_and_mouse"	"The Shield will block incoming damage. The Shield can be equipped in the offhand slot as well as the hotbar. Press :_input_key.sneak: or press :_gamepad_stick_right:/:_gamepad_stick_left: to toggle block with the Shield."	"Original Translation"	""
 "howtoplay.armor.text.5.keyboard"	"The Shield will block incoming damage. The Shield can be equipped in the offhand slot as well as the hotbar. Press and hold :_input_key.sneak: to block with the Shield."	"Original Translation
 zh_CN: 盾牌可以格挡来袭的伤害。盾牌可以装备在便捷槽位以及热键中。按住 :_input_key.sneak: 以使用盾牌进行格挡。
 zh_TW: 護盾可以格擋即將到來的傷害。護盾可以裝備在副手物品欄以及物品快捷欄。按住 :_input_key.sneak: 可使用護盾來格擋。"	"盾可以格擋即將到來的傷害。盾可以裝備在副手物品欄以及物品槽。按住 :_input_key.sneak: 可使用盾來格擋。"
@@ -31643,6 +31687,7 @@ zh_TW: 如果您在創造模式中建立、載入或儲存世界，該世界的�
 "howtoplay.creativeMode.text.4.gamepad"	"To fly when in Creative Mode, press :_input_key.jump: twice quickly. To exit flying, repeat the action. To fly faster, push :_gamepad_stick_left: forward twice in rapid succession while flying. When in flying mode, you can hold down :_input_key.jump: to move up and :_input_key.sneak: to move down."	"Original Translation
 zh_CN: 若要在创造模式下飞行，请快速按两次 :_input_key.jump:。若要退出飞行，请重复上述操作。若要加快飞行，请在飞行期间快速连续按两次 :_gamepad_stick_left:。在飞行模式下时，按住 :_input_key.jump: 可向上移动，按住 :_input_key.sneak: 可向下移动。
 zh_TW: 如要在創造模式中飛行，請快速按 :_input_key.jump: 兩次；如要結束飛行，請重複相同的動作。要加快飛行速度，請在飛行過程中快速往前推動 :_gamepad_stick_left: 兩次。在飛行模式中，按住 :_input_key.jump:  可向上移動，按住 :_input_key.sneak: 則能向下移動。"	"如要在創造模式中飛行，請快速按 :_input_key.jump: 兩次；如要結束飛行，請重複相同的動作。要加快飛行速度，請在飛行過程中快速往前推動 :_gamepad_stick_left: 兩次。在飛行模式中，按住 :_input_key.jump:  可向上移動，按住 :_input_key.sneak: 則能向下移動。"
+"howtoplay.creativeMode.text.4.gamepad_and_mouse"	"To fly when in Creative Mode, press :_input_key.jump: twice quickly. To exit flying, repeat the action. To fly faster, push :_gamepad_stick_left:/:_gamepad_stick_right: forward twice in rapid succession while flying. When in flying mode, you can hold down :_input_key.jump: to move up and :_input_key.sneak: to move down."	"Original Translation"	""
 "howtoplay.creativeMode.text.4.keyboard"	"To fly when in Creative Mode, press :_input_key.jump: twice quickly. To exit flying, repeat the action. To fly faster, push :_input_key.forward: twice in rapid succession or press :_input_key.sprint: while flying. When in flying mode, you can hold down :_input_key.jump: to move up and :_input_key.sneak: to move down."	"Original Translation
 zh_CN: 若要在创造模式下飞行，请快速按两次 :_input_key.jump:。若要退出飞行，请重复上述操作。若要加快飞行，请在飞行期间快速连续按两次 :_input_key.forward: 或按 :_input_key.sprint:。当处于飞行模式时，按住 :_input_key.jump: 可向上移动，按住 :_input_key.sneak: 可向下移动。
 zh_TW: 如要在創造模式中飛行，請快速按 :_input_key.jump: 兩次；如要結束飛行，請重複相同的動作。要加快飛行速度，請在飛行過程中快速連按 :_input_key.forward: 兩次，或按 :_input_key.sprint:。在飛行模式中，按住 :_input_key.jump: 可向上移動，按住 :_input_key.sneak: 則能向下移動。"	"如要在創造模式中飛行，請快速按 :_input_key.jump: 兩次；如要結束飛行，請重複相同的動作。要加快飛行速度，請在飛行過程中快速連按 :_input_key.forward: 兩次，或按 :_input_key.sprint:。在飛行模式中，按住 :_input_key.jump: 可向上移動，按住 :_input_key.sneak: 則能向下移動。"
@@ -32150,6 +32195,7 @@ zh_TW: 收集到更多資源時，你的快捷欄就會填滿。輕觸 :tip_touc
 "howtoplay.inventory.text.2.gamepad"	"Want to move something between your §ehotbar§f and your inventory? Use the cursor to select an item and press :_gamepad_face_button_down:. Then, move your cursor to an empty item slot and press again to drop the item."	"Original Translation
 zh_CN: 想要在§e快捷栏§f和物品栏之间移动物品吗？用光标选择物品，按下 :_gamepad_face_button_down: 按钮。然后，将光标移至空的物品栏位，再按一次按钮即可放下物品。
 zh_TW: 想在§e快捷欄§f與物品欄之間移動物品？使用游標選擇物品並按下:_gamepad_face_button_down:。接著移動游標至空物品槽，再按一下將物品放進去。"	"想在§e快捷欄§f與物品欄之間移動物品？使用游標選擇物品並按下:_gamepad_face_button_down:。接著移動游標至空物品槽，再按一下將物品放進去。"
+"howtoplay.inventory.text.2.gamepad_and_mouse"	"Want to move something between your §ehotbar§f and your inventory? Use the cursor to select an item and press :_gamepad_bumper_right:/:_gamepad_bumper_left:. Then, move your cursor to an empty item slot and press again to drop the item."	"Original Translation"	""
 "howtoplay.inventory.text.2.keyboard"	"Want to move something between your §ehotbar§f and your inventory? Open your inventory, click the item of your choice, then drag it to the empty item slot you'd like to move it to."	"Original Translation
 zh_CN: 想要在§e快捷栏§f和物品栏之间移动物品吗？打开物品栏，点击选择的物品，然后将其拖放到想要移至的空物品栏位上。
 zh_TW: 想在§e快捷欄§f與物品欄之間移動物品嗎？開啟物品欄，按一下所選的物品，然後將其拖曳到你想移動的空物品槽中。"	"想在§e快捷欄§f與物品欄之間移動物品嗎？開啟物品欄，按一下所選的物品，然後將其拖曳到你想移動的空物品槽中。"
@@ -32378,6 +32424,7 @@ zh_TW: 歡迎來到主世界，這裡是充滿冒險和可能性的方塊世界�
 "howtoplay.movingAround.text.2.gamepad"	"Look around with :_gamepad_stick_right:."	"Original Translation
 zh_CN: 使用 :_gamepad_stick_right: 环顾四周。
 zh_TW: 使用 :_gamepad_stick_right: 環顧四周。"	"使用 :_gamepad_stick_right: 環顧四周。"
+"howtoplay.movingAround.text.2.gamepad_and_mouse"	"Look around with mouse controls."	"Original Translation"	""
 "howtoplay.movingAround.text.2.keyboard"	"Look around with the mouse."	"Original Translation
 zh_CN: 使用鼠标环顾四周。
 zh_TW: 用滑鼠查看四周。"	"用滑鼠查看四周。"
@@ -32387,6 +32434,7 @@ zh_TW: 觸碰並拖曳畫面以環顧四周。"	"觸碰並拖曳畫面以環顧�
 "howtoplay.movingAround.text.3.gamepad"	"Move around the world using :_gamepad_stick_left:."	"Original Translation
 zh_CN: 使用 :_gamepad_stick_left: 在世界中四处移动。
 zh_TW: 使用 :_gamepad_stick_left: 在世界中到處移動。"	"使用 :_gamepad_stick_left: 在世界中到處移動。"
+"howtoplay.movingAround.text.3.gamepad_and_mouse"	"Move around the world using :_gamepad_stick_left:/:_gamepad_stick_right:."	"Original Translation"	""
 "howtoplay.movingAround.text.3.touch.joystick_crosshair"	"Move around the world using the on-screen joystick:tip_virtual_joystick: ."	"Original Translation
 zh_CN: 使用屏幕上的 joystick:tip_virtual_joystick: 在世界中四处移动。
 zh_TW: 使用螢幕上的搖桿 :tip_virtual_joystick: 在世界中四處走動。"	"使用螢幕上的搖桿 :tip_virtual_joystick: 在世界中四處走動。"
@@ -32999,6 +33047,7 @@ zh_TW: 在結構方塊畫面的右邊，視方塊所處的模式而定，會顯�
 "howtoplay.structureBlocks.text.9.gamepad"	"Use :_gamepad_stick_right: to rotate the 3D preview."	"Original Translation
 zh_CN: 使用 :_gamepad_stick_right: 旋转 3D 预览。
 zh_TW: 使用 :_gamepad_stick_right: 可旋轉 3D 預覽。"	"使用 :_gamepad_stick_right: 可旋轉 3D 預覽。"
+"howtoplay.structureBlocks.text.9.gamepad_and_mouse"	"Use :_gamepad_stick_right:/:_gamepad_stick_left: to rotate the 3D preview."	"Original Translation"	""
 "howtoplay.structureBlocks.text.9.keyboard"	"Press :_input_key.attack: and drag, to rotate the 3D preview."	"Original Translation
 zh_CN: 按 :_input_key.attack: 并拖动，以旋转 3D 预览。
 zh_TW: 按 :_input_key.attack: 並拖曳，即可旋轉 3D 預覽。"	"按 :_input_key.attack: 並拖曳，即可旋轉 3D 預覽。"
@@ -33140,6 +33189,7 @@ zh_TW: 礦車是在軌道上行駛的可乘坐小車，你可以搭乘一台礦�
 "howtoplay.transportation.text.3.gamepad"	"Press :_input_key.use: while looking at a Minecart to hop in and ride. Push :_gamepad_stick_left: forward to roll forward. Press :_input_key.jump: or :_input_key.sneak: to get out."	"Original Translation
 zh_CN: 在看到矿车时按 :_input_key.use: 跃上并乘坐。向前推 :_gamepad_stick_left: 可向前滚动。按 :_input_key.jump: 或 :_input_key.sneak: 可跃下。
 zh_TW: 在望向礦車時按 :_input_key.use:，即可進入並搭乘礦車。向前推動 :_gamepad_stick_left: 可往前行駛，按 :_input_key.jump: 或 :_input_key.sneak: 則能離開礦車。"	"在望向礦車時按 :_input_key.use:，即可進入並搭乘礦車。向前推動 :_gamepad_stick_left: 可往前行駛，按 :_input_key.jump: 或 :_input_key.sneak: 則能離開礦車。"
+"howtoplay.transportation.text.3.gamepad_and_mouse"	"Press :_input_key.use: while looking at a Minecart to hop in and ride. Push :_gamepad_stick_left:/:_gamepad_stick_right: forward to roll forward. Press :_input_key.jump: or :_input_key.sneak: to get out."	"Original Translation"	""
 "howtoplay.transportation.text.3.keyboard"	"Press :_input_key.use: while looking at a Minecart to hop in and ride. Press :_input_key.forward: to roll forward. Press :_input_key.jump: or :_input_key.sneak: to get out."	"Original Translation
 zh_CN: 在看着矿车时按 :_input_key.use: 跃上并乘坐。按 :_input_key.forward: 向前滚动。按 :_input_key.jump: 或 :_input_key.sneak: 跃下。
 zh_TW: 在望向礦車時按 :_input_key.use:，即可進入並搭乘礦車。按 :_input_key.forward: 可往前行駛，按 :_input_key.jump: 或 :_input_key.sneak: 則能離開礦車。"	"在望向礦車時按 :_input_key.use:，即可進入並搭乘礦車。按 :_input_key.forward: 可往前行駛，按 :_input_key.jump: 或 :_input_key.sneak: 則能離開礦車。"
@@ -33161,6 +33211,7 @@ zh_TW: 船隻可讓你在水上航行。只要將船隻放在水方塊上，就�
 "howtoplay.transportation.text.5.gamepad"	"Press :_input_key.use: while looking at a Boat to board it. Push :_gamepad_stick_left: left or right to turn. Push :_gamepad_stick_left: forward to move forward. Press :_input_key.jump: or :_input_key.sneak: to get out."	"Original Translation
 zh_CN: 在看到船时按 :_input_key.use: 可上船。按 :_gamepad_stick_left: 左键或右键可调整方向。按 :_gamepad_stick_left: 前键可向前移动。按 :_input_key.jump: 或 :_input_key.sneak: 可下船。
 zh_TW: 在視野朝向小船時按 :_input_key.use: 即可上船。往左或往右推動 :_gamepad_stick_left: 轉向，往前推動 :_gamepad_stick_left: 則可前進。按 :_input_key.jump: 或 :_input_key.sneak: 即可下船。"	"在視野朝向小船時按 :_input_key.use: 即可上船。往左或往右推動 :_gamepad_stick_left: 轉向，往前推動 :_gamepad_stick_left: 則可前進。按 :_input_key.jump: 或 :_input_key.sneak: 即可下船。"
+"howtoplay.transportation.text.5.gamepad_and_mouse"	"Press :_input_key.use: while looking at a Boat to board it. Push :_gamepad_stick_left:/:_gamepad_stick_right: left or right to turn. Push :_gamepad_stick_left:/:_gamepad_stick_right: forward to move forward. Press :_input_key.jump: or :_input_key.sneak: to get out."	"Original Translation"	""
 "howtoplay.transportation.text.5.keyboard"	"Press :_input_key.use: while looking at a Boat to board it. Press :_input_key.left: or :_input_key.right: to turn left or right. Press :_input_key.forward: to move forward. Press :_input_key.jump: or :_input_key.sneak: to get out."	"Original Translation
 zh_CN: 在看到船时按 :_input_key.use: 可上船。按 :_input_key.left: 或 :_input_key.right: 可向左或向右转。按 :_input_key.forward: 可向前移动。按 :_input_key.jump: 或 :_input_key.sneak: 可下船。
 zh_TW: 在望向小船時按 :_input_key.use: 即可上船。按 :_input_key.left: 或 :_input_key.right: 可向左或向右轉。按 :_input_key.forward: 可往前移動。按 :_input_key.jump: 或 :_input_key.sneak: 就能下船。"	"在望向小船時按 :_input_key.use: 即可上船。按 :_input_key.left: 或 :_input_key.right: 可向左或向右轉。按 :_input_key.forward: 可往前移動。按 :_input_key.jump: 或 :_input_key.sneak: 就能下船。"
@@ -33485,9 +33536,6 @@ zh_TW: 衝刺"	"衝鋒"
 "hudScreen.tooltip.collect"	"Collect"	"Original Translation
 zh_CN: 收集
 zh_TW: 收集"	"收集"
-"hudScreen.tooltip.crafting"	"Crafting"	"Original Translation
-zh_CN: 制作
-zh_TW: 合成"	"合成"
 "hudScreen.tooltip.dig"	"Dig Path"	"Original Translation
 zh_CN: 挖掘道路
 zh_TW: 挖路"	"挖路"
@@ -33587,6 +33635,7 @@ zh_TW: 修剪"	"修剪"
 "hudScreen.tooltip.sleep"	"Sleep"	"Original Translation
 zh_CN: 睡觉
 zh_TW: 睡覺"	"睡覺"
+"hudScreen.tooltip.swapOffhand"	"Swap Off-hand"	"Original Translation"	""
 "hudScreen.tooltip.throw"	"Throw"	"Original Translation
 zh_CN: 投掷
 zh_TW: 投擲"	"投擲"
@@ -37641,6 +37690,7 @@ zh_TW: 莉娜雷恩 - 創作者 (音樂盒)"	"Lena Raine - Creator（音樂盒�
 "item.record_far.desc"	"C418 - far"	"Original Translation
 zh_CN: C418 - far
 zh_TW: C418 - far"	"C418 - far"
+"item.record_flurry.desc"	"Hyper Potions - flurry"	"Original Translation"	""
 "item.record_lava_chicken.desc"	"Hyper Potions - Lava Chicken"	"Original Translation
 zh_CN: Hyper Potions - 熔岩鸡
 zh_TW: 超級藥水 - 熔岩雞"	"Hyper Potions - Lava Chicken"
@@ -39302,6 +39352,9 @@ zh_TW: 啟動/停止串流"	"啟動/停止串流"
 "key.streamToggleMic"	"Push To Talk/Mute"	"Original Translation
 zh_CN: 点击来开启麦克风/静音
 zh_TW: 按下以說話/靜音"	"按下以說話/靜音"
+"key.swapOffhand"	"Swap Item with Off-hand"	"Original Translation
+zh_CN: 将选中的物品与副手物品互换
+zh_TW: 與副手交換選定物品"	""
 "key.toggleControlTips"	"Control Tips"	"Original Translation
 zh_CN: 控制提示
 zh_TW: 控制提示"	"控制提示"
@@ -39881,6 +39934,7 @@ zh_TW: 開始匯入專案…"	"開始匯入專案…"
 "level.editor.import.success"	"Project import finished successfully"	"Original Translation
 zh_CN: 项目导入成功完成
 zh_TW: 專案匯入成功"	"專案匯入成功"
+"level.editor.import.success.editorOnly"	"Project import finished successfully. This project is only available in Editor mode"	"Original Translation"	""
 "level.export.failed"	"World export failed"	"Original Translation
 zh_CN: 世界导出失败
 zh_TW: 世界匯出失敗"	"世界匯出失敗"
@@ -39905,6 +39959,7 @@ zh_TW: 世界匯入順利完成"	"世界匯入順利完成"
 "level.launch.failed"	"Launch failed"	"Original Translation
 zh_CN: 启动失败
 zh_TW: 啟動失敗"	"啟動失敗"
+"library.prompt.inGameLink"	"You are about to load a new world.  This will save and quit your current game and end any multiplayer connections. Do you want to continue?"	"Original Translation"	""
 "licensed_content.goBack"	"Go Back"	"Original Translation
 zh_CN: 返回
 zh_TW: 返回"	"返回"
@@ -40538,6 +40593,11 @@ zh_TW: 特別為遊戲舊雨新知提供的 Minecraft 百科全書。"	"特別�
 "menu.inbox"	"Inbox"	"Original Translation
 zh_CN: 收件箱
 zh_TW: 收件匣"	"收件匣"
+"menu.joyconMouse.handSelect.left"	"Left Joy-Con 2"	"Original Translation"	""
+"menu.joyconMouse.handSelect.right"	"Right Joy-Con 2"	"Original Translation"	""
+"menu.joyconMouse.tab.description"	"Input options, sensitivity settings and button mapping for Joy-Con 2 Mouse"	"Original Translation"	""
+"menu.joyconMouse.tab.mappings.description"	"Remap any and all Joy-Con 2 mouse buttons to play your way"	"Original Translation"	""
+"menu.joyconMouse.tab.mappings.title"	"Button mapping"	"Original Translation"	""
 "menu.keyboardAndMouse.access"	"Press :_gamepad_face_button_down: to open the Keyboard & Mouse Settings."	"Original Translation
 zh_CN: 按 :_gamepad_face_button_down: 打开“键盘和鼠标设置”。
 zh_TW: 按下 :_gamepad_face_button_down: 開啟鍵盤與滑鼠設定。"	"按下 :_gamepad_face_button_down: 開啟鍵盤與滑鼠設定。"
@@ -42183,6 +42243,8 @@ zh_TW: 每月更新"	"每月更新的內容"
 "options.csbInfoLine03"	"Exclusive deals"	"Original Translation
 zh_CN: 独家优惠
 zh_TW: 獨家優惠"	""
+"options.customcursorsensitivity"	"Cursor Sensitivity"	"Original Translation"	""
+"options.customcursorsensitivity.description"	"Adjust the speed of the cursor in menus"	"Original Translation"	""
 "options.customiseTouchControls.description"	"Change on-screen button size and position to fit your play style"	"Original Translation
 zh_CN: 更改屏幕上按钮的大小和位置以符合你的游戏风格
 zh_TW: 變更螢幕按鈕的大小與位置，以符合您的遊玩風格"	"變更螢幕按鈕的大小與位置，以符合您的遊玩風格"
@@ -43554,6 +43616,8 @@ zh_TW: UI 縮放調整器"	"UI 縮放調整器"
 "options.guiScale.small"	"Small"	"Original Translation
 zh_CN: 小
 zh_TW: 小"	"小"
+"options.handSelect"	"Joy-Con 2 Mouse Selection"	"Original Translation"	""
+"options.handSelect.description"	"Choose which Joy-Con 2 to use for mouse input"	"Original Translation"	""
 "options.hdr_brightness"	"Gamma"	"Original Translation
 zh_CN: 伽马值
 zh_TW: 伽瑪值"	"亮度"
@@ -43716,6 +43780,10 @@ zh_TW: 環顧時反轉上下方向"	"環顧時反轉上下方向"
 "options.invertYAxis.name"	"Invert camera Y-axis"	"Original Translation
 zh_CN: 反转摄像机 Y 轴
 zh_TW: 反轉相機 Y 軸"	"反轉相機 Y 軸"
+"options.joyconMouse"	"Joy-Con 2 Mouse"	"Original Translation"	""
+"options.joyconMouse.resetSettings"	"Reset settings to default"	"Original Translation"	""
+"options.joyconMouse.resetSettings.buttonLabel"	"Reset"	"Original Translation"	""
+"options.joyconMouse.resetSettings.description"	"Restore all the above Joy-Con 2 mouse options to their original values"	"Original Translation"	""
 "options.joystickMoveVisible"	"Joystick Always Visible"	"Original Translation
 zh_CN: 摇杆始终可见
 zh_TW: 永遠顯示搖桿"	"一律顯示搖桿"
@@ -52032,15 +52100,13 @@ zh_TW: 確認"	""
 "resourcePack.editor.realmsPublish.DownloadFailed"	"Downloading world from Realms failed."	"Original Translation
 zh_CN: 从 Realms 下载世界失败。
 zh_TW: 從 Realms 下載世界失敗。"	""
+"resourcePack.editor.realmsPublish.DownloadImportSuccess"	"Downloading world from Realms was successful. The world has been imported and is ready to open."	"Original Translation"	""
 "resourcePack.editor.realmsPublish.DownloadProDisabled.tooltip"	"Downloads from Realms Pro are currently disabled"	"Original Translation
 zh_CN: 当前已禁用 Realms Pro 的下载功能
 zh_TW: 目前已停用從 Realms Pro 下載的功能"	""
 "resourcePack.editor.realmsPublish.DownloadRealm"	"Download"	"Original Translation
 zh_CN: 下载
 zh_TW: 下載"	""
-"resourcePack.editor.realmsPublish.DownloadSuccess"	"Downloading world from Realms was successful. Please check the Log Panel to see the directory where your download is located."	"Original Translation
-zh_CN: 从 Realms 下载世界成功。请检查日志面板以查看下载所在的目录。
-zh_TW: 已成功從 Realms 下載世界。請查看「日誌面板」以檢視下載檔案所在的目錄。"	""
 "resourcePack.editor.realmsPublish.DownloadingFromRealms"	"Downloading world from Realms..."	"Original Translation
 zh_CN: 正在从 Realms 下载世界...
 zh_TW: 正在從 Realms 下載世界…"	""
@@ -60385,6 +60451,7 @@ zh_TW: 屍殼受傷"	"屍殼受傷"
 "subtitles.entity.ice_ball.break"	"Ice Ball hits"	"Original Translation
 zh_CN: 冰球击中
 zh_TW: 冰球擊中"	"冰球擊中"
+"subtitles.entity.ice_ball.throw"	"Ice Ball flies"	"Original Translation"	""
 "subtitles.entity.iron_golem.attack"	"Iron Golem attacks"	"Original Translation
 zh_CN: 铁傀儡攻击
 zh_TW: 鐵魔像攻擊"	"鐵魔像攻擊"
@@ -60643,6 +60710,7 @@ zh_TW: 鸚鵡快步奔跑"	"鸚鵡竄動"
 "subtitles.entity.parrot.imitate.evoker"	"Parrot murmurs"	"Original Translation
 zh_CN: 鹦鹉低声喃喃
 zh_TW: 鸚鵡低聲說話"	"鸚鵡嘀咕"
+"subtitles.entity.parrot.imitate.frostbite"	"Parrot groans"	"Original Translation"	""
 "subtitles.entity.parrot.imitate.ghast"	"Parrot cries"	"Original Translation
 zh_CN: 鹦哥大叫
 zh_TW: 鸚鵡哭泣"	"鸚鵡哭泣聲"
@@ -61498,9 +61566,9 @@ zh_TW: 殭屍轉變為霜噬"	"殭屍轉化為凍屍"
 "subtitles.entity.zombie.death"	"Zombie dies"	"Original Translation
 zh_CN: 僵尸死亡
 zh_TW: 殭屍死亡"	"殭屍死亡"
-"subtitles.entity.zombie.destroy_egg"	"Turtle Egg stomped"	"Original Translation
+"subtitles.entity.zombie.destroy_egg"	"Turtle Egg is stomped"	"Original Translation
 zh_CN: 海龟蛋被踩扁
-zh_TW: 海龜蛋被踩碎"	"海龜蛋被踩踏"
+zh_TW: 海龜蛋被踩碎"	""
 "subtitles.entity.zombie.hurt"	"Zombie hurts"	"Original Translation
 zh_CN: 僵尸受伤
 zh_TW: 殭屍受傷"	"殭屍受傷"
@@ -62390,6 +62458,11 @@ zh_TW: 蛋糕"	"蛋糕"
 "tile.calcite.name"	"Calcite"	"Original Translation
 zh_CN: 方解石
 zh_TW: 方解石"	"方解石"
+"tile.calcite_double_slab.name"	"Calcite Double Slab"	"Original Translation"	""
+"tile.calcite_pillar.name"	"Calcite Pillar"	"Original Translation"	""
+"tile.calcite_slab.name"	"Calcite Slab"	"Original Translation"	""
+"tile.calcite_stairs.name"	"Calcite Stairs"	"Original Translation"	""
+"tile.calcite_wall.name"	"Calcite Wall"	"Original Translation"	""
 "tile.calibrated_sculk_sensor.name"	"Calibrated Sculk Sensor"	"Original Translation
 zh_CN: 已校准潜声感测器
 zh_TW: 校準伏聆振測器"	"校準伏聆振測器"
@@ -62583,6 +62656,7 @@ zh_TW: 鑿刻拋光黑石"	"浮雕拋光黑石"
 "tile.chiseled_resin_bricks.name"	"Chiseled Resin Bricks"	"Original Translation
 zh_CN: 錾制树脂砖块
 zh_TW: 雕刻樹脂磚"	"浮雕樹脂磚"
+"tile.chiseled_soulshale.name"	"Chiseled Soulshale"	"Original Translation"	""
 "tile.chiseled_sulfur.name"	"Chiseled Sulfur"	"Original Translation
 zh_CN: 雕纹硫黄
 zh_TW: 鑿刻硫磺"	"浮雕硫磺"
@@ -64993,6 +65067,16 @@ zh_TW: 拋光黑石階梯"	"拋光黑石階梯"
 "tile.polished_blackstone_wall.name"	"Polished Blackstone Wall"	"Original Translation
 zh_CN: 磨制黑石墙
 zh_TW: 拋光黑石牆"	"拋光黑石牆"
+"tile.polished_calcite.name"	"Polished Calcite"	"Original Translation"	""
+"tile.polished_calcite_brick_double_slab.name"	"Polished Calcite Brick Double Slab"	"Original Translation"	""
+"tile.polished_calcite_brick_slab.name"	"Polished Calcite Brick Slab"	"Original Translation"	""
+"tile.polished_calcite_brick_stairs.name"	"Polished Calcite Brick Stairs"	"Original Translation"	""
+"tile.polished_calcite_brick_wall.name"	"Polished Calcite Brick Wall"	"Original Translation"	""
+"tile.polished_calcite_bricks.name"	"Polished Calcite Bricks"	"Original Translation"	""
+"tile.polished_calcite_double_slab.name"	"Polished Calcite Double Slab"	"Original Translation"	""
+"tile.polished_calcite_slab.name"	"Polished Calcite Slab"	"Original Translation"	""
+"tile.polished_calcite_stairs.name"	"Polished Calcite Stairs"	"Original Translation"	""
+"tile.polished_calcite_wall.name"	"Polished Calcite Wall"	"Original Translation"	""
 "tile.polished_cinnabar.name"	"Polished Cinnabar"	"Original Translation
 zh_CN: 磨制朱砂
 zh_TW: 拋光朱砂塊"	"拋光硃砂"
