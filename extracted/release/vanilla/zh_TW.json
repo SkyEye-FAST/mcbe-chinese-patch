@@ -9191,7 +9191,7 @@
   "store.csb.buyNow.title": "開始 Marketplace Pass",
   "store.csb.subscription": "訂閱即可每月暢享各式各樣的優質 Minecraft 市集內容。系統將向你收取每月 %s 的費用 (可能變動)，你隨時可以取消以停止未來的收費。",
   "store.csb.subscription.nx": "為期 30 天的訂閱服務，可暢享眾多優質的 Minecraft 市集內容。系統每 30 天將收取 %s (價格可能變動)，隨時可取消以停止日後扣款。",
-  "store.csb.terms": "Marketplace Pass 是內容定期服務，可在您擁有遊戲的 Windows 與其他受支援平台上，與支援的 Minecraft 版本 (遊戲需單獨購買) 搭配使用 (不支援 Minecraft Java 和 Amazon Kindle Fire 版)；需要有效的定期服務才能使用 Marketplace Pass 的內容。定期服務內容會隨著時間而改變，且未必能在所有國家/地區使用。除非取消定期服務，免費試用期結束後將會繼續依當時的一般價格 (可能會有變動) 加上相應稅金收費。您可以前往 Microsoft 帳戶中的 [服務與訂閱] 來取消定期服務。如果您已中止定期服務或移除目錄中的內容物品，則必須重新訂閱或單獨購買本內容，才能繼續使用，且可能會產生 ISP 費用。我們偶爾會提供在您的定期服務結束後仍能繼續使用的內容，在這種情況下，如果這些內容變得不相容或我們對這些內容的權利到期，我們保留刪除這些內容的權利。訂閱內容可能會有所變更或中止。訂閱受 Microsoft 服務協議 (www.microsoft.com/msa) 和 Minecraft 使用者授權合約 (https://www.minecraft.net/eula) 約束。上述條款的任何翻譯內容僅供您參考之便而提供，如英文版和非英文版之間發生衝突，應以英文版為準。",
+  "store.csb.terms": "Marketplace Pass 是一項內容訂閱服務，可在 Nintendo Switch 2 上搭配受支援的《Minecraft》版本 (遊戲另售) 使用；必須維持有效訂閱，才能使用 Marketplace Pass 內容。內容會隨時間變動，且不一定在所有國家提供。如果你的訂閱終止，或某項內容從目錄中移除，你必須重新啟用訂閱或另行購買該內容，才能繼續使用。我們偶爾可能提供在訂閱結束後你仍可使用的內容。在此情況下，若該內容不再相容，或我們對該內容的權利到期，我們保留將該內容下架的權利。網際網路服務提供者 (ISP) 可能會收取費用。訂閱服務可能變更及/或停止提供。須遵守 Microsoft 服務合約 (www.microsoft.com/msa) 及 Minecraft 終端使用者授權合約 (https://www.minecraft.net/eula)。本條款的所有譯文僅為方便你參閱，若英文版與任何非英文版之間發生爭議，應以本條款的英文版為準。",
   "store.csb.landing.header": "開始 Marketplace Pass 訂閱",
   "store.csb.landing.headerTrial": "免費試用 30 天，之後 %s/月",
   "store.csb.landing.headerTrial.nx": "28 天免費試用，之後每 30 天 %s",

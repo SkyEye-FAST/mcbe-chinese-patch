@@ -18996,7 +18996,7 @@
   "store.csb.subscribed": "已订阅",
   "store.csb.subscription": "每月订阅各种优质 Minecraft 市场内容。订阅服务费用为 %s/月（可能会有变化），你可以随时取消以避免未来出现收费的情况。",
   "store.csb.subscription.nx": "30 天各种优质《Minecraft》市场内容定期服务。订阅服务费用为 %s/30 天（可能会有变化），你可以随时取消以避免未来出现收费的情况。",
-  "store.csb.terms": "Marketplace Pass 是一项相关内容的订阅服务，用于在 Windows 和其他您拥有游戏的受支持平台上与受支持版本的 Minecraft（游戏单独销售）一起使用（不支持 Minecraft Java 版和 Amazon Kindle Fire 版）；使用 Marketplace Pass 内容需要订阅服务处于活跃状态。内容会随着时间而变化，并且可能不是在所有国家和地区都可用。在免费试玩期过后，除非玩家取消订阅服务，否则订阅服务将仍按当时的正常价格（可能会有变化）加上适用税费进行收费。您可以通过访问 Microsoft 账号中的服务与订阅随时取消订阅服务。如果您的订阅服务终止，或某个内容项被从目录中移除，则您必须重新激活订阅服务，或单独购买该内容才能继续使用它。可能会收取 ISP 费用。即使在您的订阅服务结束后，我们可能还会不定时提供您仍可使用的内容；在这种情况下，如果此类内容变得不兼容或者我们对内容的使用权过期，我们保留删除这些内容的权利。订阅服务可能会更改和/或停用。受 Microsoft 服务协议 (www.microsoft.com/msa) 和 Minecraft EULA (https://www.minecraft.net/eula) 的制约。这些术语的所有翻译仅供您方便使用，如果英文版本和任何非英文版本之间存在争议，则应以这些术语的英文版本为准。",
+  "store.csb.terms": "Marketplace Pass 是一项订阅服务，用于在 Nintendo Switch 2 上搭配受支持的 Minecraft 版本（游戏需单独购买）使用内容；使用 Marketplace Pass 内容需要有效的订阅。内容会随时间变化，且可能并非在所有国家/地区均提供。如果您的订阅终止，或者某项内容从目录中移除，您必须重新激活订阅或单独购买该内容才能继续使用。我们可能偶尔提供部分内容，即使您的订阅结束后仍可继续使用，但若该内容变得不兼容或我们的内容权益到期，我们保留移除该内容的权利。可能需支付互联网服务提供商费用。订阅内容可能发生变更和/或终止。本服务受 Microsoft 服务协议（www.microsoft.com/msa）和 Minecraft EULA（https://www.minecraft.net/eula）约束。这些条款的任何翻译版本仅为方便您阅读而提供，若英文版本与任何非英文版本之间存在争议，以英文版本的条款为准。",
   "store.csb.upsell.availableNow": "现已推出",
   "store.csb.upsell.bestValue": "最佳价值",
   "store.csb.upsell.firstPeriodFree": "30 天免费试用！",

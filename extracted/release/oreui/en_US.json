@@ -3444,6 +3444,8 @@
   "hbui.Realms.RealmsHub.Settings.Subscriptions.PlayerCount.value": "Owner +%1$s",
   "hbui.Realms.RealmsHub.Settings.Subscriptions.PreviewWarning": "Your Preview Realm will remain active for as long as you have the paid Realm subscription that your Realm is linked to.",
   "hbui.Realms.RealmsHub.Settings.Subscriptions.PreviewWarningTwo": "All Realms screens and functions are available in Preview except purchasing a new subscription or managing the subscriptions of existing Realms.",
+  "hbui.Realms.RealmsHub.Settings.Subscriptions.TimeRemaining.title": "Next billing cycle",
+  "hbui.Realms.RealmsHub.Settings.Subscriptions.TimeRemaining.value": "%1$sd",
   "hbui.Realms.RealmsHub.Settings.textBlock.role": "Text Block",
   "hbui.Realms.RealmsHub.Settings.warnings.ApplyToAll": "These settings apply to all members of this Realm.",
   "hbui.Realms.RealmsHub.Settings.warnings.ApplyToYou": "These settings only apply to you, for this Realm.",
