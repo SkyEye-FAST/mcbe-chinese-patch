@@ -653,7 +653,7 @@ zh_TW: 直線"
 accessibility.textbox.editing	Editing	"Original Translation
 zh_CN: 编辑
 zh_TW: 編輯"	
-accessibility.textbox.tts.title	Textbox	"Original Translation
+accessibility.textbox.tts.title	Text input	"Original Translation
 zh_CN: 文本框
 zh_TW: 文字方塊"	
 accessibility.toast	Notification	"Original Translation
@@ -2147,9 +2147,6 @@ zh_TW: 警告！訊息遭篩選 - 原始訊息：%s"
 chat.managedChat.signInRequired	You need to be signed in to a Microsoft account to chat in this world.	"Original Translation
 zh_CN: 你需要登录 Microsoft 账号才能在此世界中聊天。
 zh_TW: 你必須登入 Microsoft 帳戶才能在這個世界聊天。"	
-chat.managedChat.unverified	(unverified)	"Original Translation
-zh_CN: （未验证）
-zh_TW: (未驗證)"	
 chat.mentions.autocomplete.allPlayers	mention all players	"Original Translation
 zh_CN: 全部玩家选项
 zh_TW: 提及全部玩家"	
@@ -6028,6 +6025,9 @@ zh_TW: 您需要製造用的石材！"
 crafting.noRecipesWorkbench	You need to collect blocks to craft!	"Original Translation
 zh_CN: 你需要收集制造用的方块！
 zh_TW: 您需要收集製造用的方塊！"	
+craftingScreen.armorHidden	Armor hidden	Original Translation	
+craftingScreen.armorVisible	Armor visible	Original Translation	
+craftingScreen.hideArmor	Hide Armor	Original Translation	
 craftingScreen.tab.allItems	All items	"Original Translation
 zh_CN: 所有物品
 zh_TW: 所有物品"	
@@ -6319,6 +6319,9 @@ zh_TW: 重設 Realm"
 createWorldScreen.advanced	Advanced	"Original Translation
 zh_CN: 高级
 zh_TW: 進階"	
+createWorldScreen.allowHideArmor	Invisible Armor	Original Translation	
+createWorldScreen.allowHideArmor.description	Let players hide their equipped armor from the inventory screen	Original Translation	
+createWorldScreen.allowHideArmor.name	Invisible armor	Original Translation	
 createWorldScreen.alwaysDay	Always Day	"Original Translation
 zh_CN: 终为白日
 zh_TW: 永為白晝"	
@@ -8949,6 +8952,7 @@ zh_TW: 切換至自訂角色"
 dr.notification.to_skins	Switching to Classic Skins	"Original Translation
 zh_CN: 正在切换至经典皮肤
 zh_TW: 切換至經典外觀"	
+dr.offline_title_format	%s - Offline	Original Translation	
 dr.primary_channel	Primary	"Original Translation
 zh_CN: 主要的
 zh_TW: 主要"	
@@ -9288,6 +9292,457 @@ zh_TW: 控制每個後續倍頻移動的速度。數值為 1 時，倍頻之間�
 editor.agfx.water.waves.tooltip	Waves are an optional effect that can be used to complement water surface animations to make your water appear more realistic. They can be configured to blend with existing water texture animations or replace them entirely.	"Original Translation
 zh_CN: 波浪是一种可选效果，可用于补充水面动画，让水看起来更逼真。波浪可以配置为与现有水纹理动画混合，或完全将其替换。
 zh_TW: 波浪是一種可選效果，可用來輔助水面動畫，讓您的水體看起來更逼真。您可以設定波浪與現有的水體材質動畫混合，或完全取代它們。"	
+editor.annotations.comment.requiresEditor	Only Editor-capable players can place Comments.	Original Translation	
+editor.annotations.commentEditPanel.anchor	Anchor Orientation:	Original Translation	
+editor.annotations.commentEditPanel.anchor.bottomCenter	Bottom Center	Original Translation	
+editor.annotations.commentEditPanel.anchor.bottomLeft	Bottom Left	Original Translation	
+editor.annotations.commentEditPanel.anchor.bottomRight	Bottom Right	Original Translation	
+editor.annotations.commentEditPanel.anchor.center	Center	Original Translation	
+editor.annotations.commentEditPanel.anchor.centerLeft	Center Left	Original Translation	
+editor.annotations.commentEditPanel.anchor.centerRight	Center Right	Original Translation	
+editor.annotations.commentEditPanel.anchor.reset	Reset Anchor Orientation	Original Translation	
+editor.annotations.commentEditPanel.anchor.topCenter	Top Center	Original Translation	
+editor.annotations.commentEditPanel.anchor.topLeft	Top Left	Original Translation	
+editor.annotations.commentEditPanel.anchor.topRight	Top Right	Original Translation	
+editor.annotations.commentEditPanel.back	Back	Original Translation	
+editor.annotations.commentEditPanel.body	Body Text:	Original Translation	
+editor.annotations.commentEditPanel.bodyColor	Body Text Color:	Original Translation	
+editor.annotations.commentEditPanel.bodyTextSize	Body Text Size: %s	Original Translation	
+editor.annotations.commentEditPanel.color.aqua	Aqua	Original Translation	
+editor.annotations.commentEditPanel.color.gold	Gold	Original Translation	
+editor.annotations.commentEditPanel.color.green	Green	Original Translation	
+editor.annotations.commentEditPanel.color.lightPurple	Light Purple	Original Translation	
+editor.annotations.commentEditPanel.color.red	Red	Original Translation	
+editor.annotations.commentEditPanel.color.white	White	Original Translation	
+editor.annotations.commentEditPanel.color.yellow	Yellow	Original Translation	
+editor.annotations.commentEditPanel.done	Done	Original Translation	
+editor.annotations.commentEditPanel.error.bodyTooLong	Body text must be 32,500 characters or fewer. Shorten it, or press Back to discard changes that weren't applied.	Original Translation	
+editor.annotations.commentEditPanel.error.existingBody	This saved body text exceeds the input limit or has unsupported text. Edit it in Annotation Management.	Original Translation	
+editor.annotations.commentEditPanel.error.existingName	This saved name exceeds the input limit or has unsupported text. Edit it in Annotation Management.	Original Translation	
+editor.annotations.commentEditPanel.error.invalidAnchor	This anchor isn't supported. Press Done to try again, or Back to discard changes that weren't applied.	Original Translation	
+editor.annotations.commentEditPanel.error.invalidBody	This body text contains unsupported text. Edit it, or press Back to discard changes that weren't applied.	Original Translation	
+editor.annotations.commentEditPanel.error.invalidName	This name contains unsupported text. Edit the name, or press Back to discard changes that weren't applied.	Original Translation	
+editor.annotations.commentEditPanel.error.invalidTarget	This Comment is no longer available to edit here.	Original Translation	
+editor.annotations.commentEditPanel.error.invalidValue	One of these settings isn't supported. Press Done to try again, or Back to discard changes that weren't applied.	Original Translation	
+editor.annotations.commentEditPanel.error.locked	Another player has locked this Comment. Press Done to try again, or Back to discard changes that weren't applied.	Original Translation	
+editor.annotations.commentEditPanel.error.nameTooLong	Names must be 256 UTF-8 bytes or fewer. Shorten the name, or press Back to discard changes that weren't applied.	Original Translation	
+editor.annotations.commentEditPanel.error.notFound	This Comment no longer exists.	Original Translation	
+editor.annotations.commentEditPanel.error.notPermitted	You don't have permission to edit this Comment. Press Back to discard changes that weren't applied.	Original Translation	
+editor.annotations.commentEditPanel.error.unavailable	Couldn't apply your changes. Press Done to try again, or Back to discard changes that weren't applied.	Original Translation	
+editor.annotations.commentEditPanel.expandBody	Expand Body Text	Original Translation	
+editor.annotations.commentEditPanel.facing	Facing:	Original Translation	
+editor.annotations.commentEditPanel.facing.camera	Camera Facing	Original Translation	
+editor.annotations.commentEditPanel.facing.manual	Manual	Original Translation	
+editor.annotations.commentEditPanel.help	?	Original Translation	
+editor.annotations.commentEditPanel.help.body	Changes stay local until you select Done. Done submits all changes and closes the editor. Back closes without applying changes. Select + to edit long body text.	Original Translation	
+editor.annotations.commentEditPanel.help.close	Close	Original Translation	
+editor.annotations.commentEditPanel.help.expandedBody	Edit the body text for this Comment. Back returns to the other settings and keeps your draft. Select Done on the main screen to apply all changes.	Original Translation	
+editor.annotations.commentEditPanel.help.title	Comment Help	Original Translation	
+editor.annotations.commentEditPanel.name	Name/Title:	Original Translation	
+editor.annotations.commentEditPanel.off	Off	Original Translation	
+editor.annotations.commentEditPanel.on	On	Original Translation	
+editor.annotations.commentEditPanel.showBody	Show Body Text in World:	Original Translation	
+editor.annotations.commentEditPanel.showTitle	Show Title in World:	Original Translation	
+editor.annotations.commentEditPanel.title	Comment Block	Original Translation	
+editor.annotations.commentEditPanel.titleColor	Title Text Color:	Original Translation	
+editor.annotations.commentEditPanel.titleTextSize	Title Text Size: %s	Original Translation	
+editor.annotations.commentEditPanel.widthLimit	Width Limit: %s	Original Translation	
+editor.annotations.commentEditPanel.widthLimit.unlimited	Unlimited	Original Translation	
+editor.annotations.error.delete	Failed to delete annotation.	Original Translation	
+editor.annotations.error.drawing.interaction	The drawing interaction failed.	Original Translation	
+editor.annotations.error.drawing.selectForMultiLine	Could not select the new drawing for continued editing.	Original Translation	
+editor.annotations.error.drawingScaling	Failed to update drawing distance scaling.	Original Translation	
+editor.annotations.error.exportNotes	Failed to export annotation notes.	Original Translation	
+editor.annotations.error.instance.invalid	Annotation details are unavailable.	Original Translation	
+editor.annotations.error.instance.lease	Failed to load annotation details.	Original Translation	
+editor.annotations.error.lineSegment.find	Could not find the drawing line segment.	Original Translation	
+editor.annotations.error.lineSegment.remove	Failed to remove a drawing line segment.	Original Translation	
+editor.annotations.error.lineSegment.update	Failed to update a drawing line segment.	Original Translation	
+editor.annotations.error.lock.acquire	Failed to select the annotation because its lock could not be acquired.	Original Translation	
+editor.annotations.error.lock.restore	Failed to restore the previous annotation lock.	Original Translation	
+editor.annotations.error.movement.complete	Failed to complete annotation movement.	Original Translation	
+editor.annotations.error.movement.track	Failed to track annotation movement.	Original Translation	
+editor.annotations.error.place	Failed to place annotation.	Original Translation	
+editor.annotations.error.settings.load	Failed to load annotation settings.	Original Translation	
+editor.annotations.error.settings.save	Failed to save annotation settings.	Original Translation	
+editor.annotations.introduction.tab1.collaboration	All players in a multiplayer editing session will share annotations.	Original Translation	
+editor.annotations.introduction.tab1.content	The Annotation Tool lets you leave notes in the world such as to-do lists, playtest feedback, or rough sketches and templates for you or your team to use later.	Original Translation	
+editor.annotations.introduction.tab1.title	Annotation Tool	Original Translation	
+editor.annotations.introduction.tab2.delete	Use the Delete %s mode to remove annotations.	Original Translation	
+editor.annotations.introduction.tab2.edit	Use the Edit %s mode to edit existing annotations. Editing an annotation will let you change its settings.	Original Translation	
+editor.annotations.introduction.tab2.management	For bulk operations or to find something elsewhere in the world, open the Annotation Management Panel for the full list. Annotations can be organized by tags and filtered here.	Original Translation	
+editor.annotations.introduction.tab2.place	Use the Place %s mode to add new annotations of several types.	Original Translation	
+editor.annotations.introduction.tab2.title	Annotation Tool Modes	Original Translation	
+editor.annotations.introduction.tab3.comment	A comment is similar to a text annotation, but it appears in the world. You can place it in Crosshair mode or Test World, and it will persist when you return to the Editor.	Original Translation	
+editor.annotations.introduction.tab3.drawing	A drawing annotation is a freehand line drawn directly onto solid blocks in the world. In Edit mode, you can add or remove line segments for more nuanced control.	Original Translation	
+editor.annotations.introduction.tab3.text	A text annotation is a block of text placed in the world. Appearance controls can be used to manage its visual settings.	Original Translation	
+editor.annotations.introduction.tab3.title	Annotation Types	Original Translation	
+editor.annotations.introduction.title	Annotation Tool	Original Translation	
+editor.annotations.management.actionBar.title	Annotations	Original Translation	
+editor.annotations.management.actionBar.tooltip.desc	Open Annotation Management.	Original Translation	
+editor.annotations.management.actionBar.tooltip.title	Annotations	Original Translation	
+editor.annotations.management.category.dimension	By Dimension	Original Translation	
+editor.annotations.management.category.type	By Type	Original Translation	
+editor.annotations.management.editTags.add.description	The chosen tags will be added to all selected items that don't already have them.	Original Translation	
+editor.annotations.management.editTags.add.title	Add Tags	Original Translation	
+editor.annotations.management.editTags.apply	Apply	Original Translation	
+editor.annotations.management.editTags.cancel	Cancel	Original Translation	
+editor.annotations.management.editTags.remove.description	Remove a tag from this list to remove it from all selected items that have it.	Original Translation	
+editor.annotations.management.editTags.remove.title	Remove Tags	Original Translation	
+editor.annotations.management.editTags.title	Edit Tags	Original Translation	
+editor.annotations.management.export.button	Export	Original Translation	
+editor.annotations.management.export.cancel	Cancel	Original Translation	
+editor.annotations.management.export.format.csv	CSV	Original Translation	
+editor.annotations.management.export.format.label	Format	Original Translation	
+editor.annotations.management.export.format.text	Text	Original Translation	
+editor.annotations.management.export.format.tooltip.desc	Choose the file format for the exported notes.	Original Translation	
+editor.annotations.management.export.format.tooltip.title	Format	Original Translation	
+editor.annotations.management.export.progress	Exporting...	Original Translation	
+editor.annotations.management.export.title	Export Annotation Notes	Original Translation	
+editor.annotations.management.inspectedData.title	Inspected Annotation Data	Original Translation	
+editor.annotations.management.inspection.dimension.title	Dimension	Original Translation	
+editor.annotations.management.inspection.dimension.tooltip.desc	The annotation's dimension ID.	Original Translation	
+editor.annotations.management.inspection.dimension.tooltip.title	Dimension	Original Translation	
+editor.annotations.management.inspection.erase.title	Delete Annotation	Original Translation	
+editor.annotations.management.inspection.erase.tooltip.desc	Erase the annotation.	Original Translation	
+editor.annotations.management.inspection.erase.tooltip.title	Delete Annotation	Original Translation	
+editor.annotations.management.inspection.quickActions.title	Quick Actions	Original Translation	
+editor.annotations.management.inspection.teleport.title	Teleport to Annotation	Original Translation	
+editor.annotations.management.inspection.teleport.tooltip.desc	Teleport to the annotation.	Original Translation	
+editor.annotations.management.inspection.teleport.tooltip.title	Teleport to Annotation	Original Translation	
+editor.annotations.management.inspection.visibility.title	Toggle Annotation Visibility	Original Translation	
+editor.annotations.management.inspection.visibility.tooltip.desc	Toggle visibility.	Original Translation	
+editor.annotations.management.inspection.visibility.tooltip.title	Toggle Annotation Visibility	Original Translation	
+editor.annotations.management.inspection.worldSelect.title	Select Annotation in World	Original Translation	
+editor.annotations.management.inspection.worldSelect.tooltip.desc	Select the annotation in the world.	Original Translation	
+editor.annotations.management.inspection.worldSelect.tooltip.title	Select Annotation in World	Original Translation	
+editor.annotations.management.keybinding.open.title	Open Annotation Management	Original Translation	
+editor.annotations.management.keybinding.open.tooltip.desc	Open the Annotation Management panel.	Original Translation	
+editor.annotations.management.keybinding.open.tooltip.title	Open Annotation Management	Original Translation	
+editor.annotations.management.list.action.check	Toggle Checks	Original Translation	
+editor.annotations.management.list.action.delete	Delete Checked	Original Translation	
+editor.annotations.management.list.action.editTags	Edit Tags...	Original Translation	
+editor.annotations.management.list.action.export	Export As...	Original Translation	
+editor.annotations.management.list.action.hide	Hide	Original Translation	
+editor.annotations.management.list.action.show	Show	Original Translation	
+editor.annotations.management.list.action.worldSelect	World Select	Original Translation	
+editor.annotations.management.list.check.tooltip.desc	Select annotation for bulk actions.	Original Translation	
+editor.annotations.management.list.check.tooltip.title	Toggle Checks	Original Translation	
+editor.annotations.management.list.select.tooltip.desc	Select the annotation in the world.	Original Translation	
+editor.annotations.management.list.select.tooltip.title	Select Annotation in World	Original Translation	
+editor.annotations.management.list.teleport.tooltip.desc	Teleport to this annotation.	Original Translation	
+editor.annotations.management.list.teleport.tooltip.title	Teleport to Annotation	Original Translation	
+editor.annotations.management.list.visibility.tooltip.desc	Toggle annotation visibility.	Original Translation	
+editor.annotations.management.list.visibility.tooltip.title	Toggle Annotation Visibility	Original Translation	
+editor.annotations.management.menu.delete	Delete	Original Translation	
+editor.annotations.management.menu.open	Annotations	Original Translation	
+editor.annotations.management.menu.open.tooltip.desc	Open Annotation Management.	Original Translation	
+editor.annotations.management.menu.open.tooltip.title	Open Annotation Management	Original Translation	
+editor.annotations.management.menu.teleport	Teleport To	Original Translation	
+editor.annotations.management.menu.worldSelect	World Select	Original Translation	
+editor.annotations.management.pane.title	Annotation Management	Original Translation	
+editor.annotations.management.pane.tooltip.desc	View, organize, and manage annotations across the world.	Original Translation	
+editor.annotations.management.pane.tooltip.title	Annotation Management %s	Original Translation	
+editor.annotations.management.setting.drawingScaling.label	Drawing Distance Scaling	Original Translation	
+editor.annotations.management.setting.drawingScaling.tooltip.desc	Enables dynamic screen space scaling for drawing annotations.	Original Translation	
+editor.annotations.management.setting.drawingScaling.tooltip.title	Drawing Distance Scaling	Original Translation	
+editor.annotations.management.showAnnotations.label	Show Annotations	Original Translation	
+editor.annotations.management.showAnnotations.tooltip.desc	When disabled, annotations are hidden without changing their individual visibility settings.	Original Translation	
+editor.annotations.management.showAnnotations.tooltip.title	Show Annotations %s	Original Translation	
+editor.annotations.modalTool.create.autoEdit.label	Auto Edit	Original Translation	
+editor.annotations.modalTool.create.autoEdit.tooltip.desc	Switch to Edit mode after placing an annotation. For drawings, continue adding line segments.	Original Translation	
+editor.annotations.modalTool.create.autoEdit.tooltip.title	Auto Edit %s	Original Translation	
+editor.annotations.modalTool.create.drawing.nextSegment.color.tooltip.desc	The annotation's color.	Original Translation	
+editor.annotations.modalTool.create.drawing.nextSegment.color.tooltip.title	Color	Original Translation	
+editor.annotations.modalTool.create.drawing.nextSegment.lineWeight.tooltip.desc	The thickness of the line to be drawn.	Original Translation	
+editor.annotations.modalTool.create.drawing.nextSegment.lineWeight.tooltip.title	Line Weight	Original Translation	
+editor.annotations.modalTool.create.text.placeAsDecal.label	Place as surface decal	Original Translation	
+editor.annotations.modalTool.create.text.placeAsDecal.tooltip.desc	Orient the text annotation to the surface it is placed on.	Original Translation	
+editor.annotations.modalTool.create.text.placeAsDecal.tooltip.title	Place as surface decal	Original Translation	
+editor.annotations.modalTool.create.type.comment.label	Comment %s	Original Translation	
+editor.annotations.modalTool.create.type.comment.tooltip.desc	Place a Comment annotation.	Original Translation	
+editor.annotations.modalTool.create.type.comment.tooltip.title	Comment %s	Original Translation	
+editor.annotations.modalTool.create.type.drawing.label	Drawing %s	Original Translation	
+editor.annotations.modalTool.create.type.drawing.tooltip.desc	Place a Drawing annotation.	Original Translation	
+editor.annotations.modalTool.create.type.drawing.tooltip.title	Drawing %s	Original Translation	
+editor.annotations.modalTool.create.type.text.label	Text %s	Original Translation	
+editor.annotations.modalTool.create.type.text.tooltip.desc	Place a Text annotation.	Original Translation	
+editor.annotations.modalTool.create.type.text.tooltip.title	Text %s	Original Translation	
+editor.annotations.modalTool.create.type.title	Annotation Type	Original Translation	
+editor.annotations.modalTool.create.type.tooltip.desc	Choose which type of annotation to create.	Original Translation	
+editor.annotations.modalTool.create.type.tooltip.title	Annotation Type	Original Translation	
+editor.annotations.modalTool.cursor.title	Cursor	Original Translation	
+editor.annotations.modalTool.edit.drawing.mode.add.label	Add %s	Original Translation	
+editor.annotations.modalTool.edit.drawing.mode.add.tooltip.desc	Add additional line segments to the current annotation.	Original Translation	
+editor.annotations.modalTool.edit.drawing.mode.add.tooltip.title	Add %s	Original Translation	
+editor.annotations.modalTool.edit.drawing.mode.move.label	Move %s	Original Translation	
+editor.annotations.modalTool.edit.drawing.mode.move.tooltip.desc	Move the current annotation.	Original Translation	
+editor.annotations.modalTool.edit.drawing.mode.move.tooltip.title	Move %s	Original Translation	
+editor.annotations.modalTool.edit.drawing.mode.remove.label	Remove %s	Original Translation	
+editor.annotations.modalTool.edit.drawing.mode.remove.tooltip.desc	Remove line segments from the current annotation.	Original Translation	
+editor.annotations.modalTool.edit.drawing.mode.remove.tooltip.title	Remove %s	Original Translation	
+editor.annotations.modalTool.edit.drawing.mode.title	Drawing Edit Mode	Original Translation	
+editor.annotations.modalTool.edit.drawing.mode.tooltip.desc	Choose how to edit drawing line segments. %s	Original Translation	
+editor.annotations.modalTool.edit.drawing.mode.tooltip.title	Drawing Edit Mode	Original Translation	
+editor.annotations.modalTool.edit.help	Click an annotation in the world to select and edit it.	Original Translation	
+editor.annotations.modalTool.erase.help	Click an annotation in the world to delete it, or click and drag to delete multiple annotations.	Original Translation	
+editor.annotations.modalTool.keybinding.chooseCommentAnnotation.title	Choose Comment Annotation	Original Translation	
+editor.annotations.modalTool.keybinding.chooseCommentAnnotation.tooltip.desc	Selects the Comment annotation type for placement.	Original Translation	
+editor.annotations.modalTool.keybinding.chooseCommentAnnotation.tooltip.title	Choose Comment Annotation	Original Translation	
+editor.annotations.modalTool.keybinding.chooseDrawingAnnotation.title	Choose Drawing Annotation	Original Translation	
+editor.annotations.modalTool.keybinding.chooseDrawingAnnotation.tooltip.desc	Selects the Drawing annotation type for placement.	Original Translation	
+editor.annotations.modalTool.keybinding.chooseDrawingAnnotation.tooltip.title	Choose Drawing Annotation	Original Translation	
+editor.annotations.modalTool.keybinding.chooseTextAnnotation.title	Choose Text Annotation	Original Translation	
+editor.annotations.modalTool.keybinding.chooseTextAnnotation.tooltip.desc	Selects the Text annotation type for placement.	Original Translation	
+editor.annotations.modalTool.keybinding.chooseTextAnnotation.tooltip.title	Choose Text Annotation	Original Translation	
+editor.annotations.modalTool.keybinding.cycleDrawingSubmode.title	Cycle Drawing Edit Modes	Original Translation	
+editor.annotations.modalTool.keybinding.cycleDrawingSubmode.tooltip.desc	Switch between Add, Remove, and Move modes for the selected drawing.	Original Translation	
+editor.annotations.modalTool.keybinding.cycleDrawingSubmode.tooltip.title	Cycle Drawing Edit Modes	Original Translation	
+editor.annotations.modalTool.keybinding.cycleMode.title	Cycle Annotation Modes	Original Translation	
+editor.annotations.modalTool.keybinding.cycleMode.tooltip.desc	Switch between Place, Edit, and Erase modes.	Original Translation	
+editor.annotations.modalTool.keybinding.cycleMode.tooltip.title	Cycle Annotation Modes	Original Translation	
+editor.annotations.modalTool.keybinding.deleteSelected.title	Delete Selected Annotation	Original Translation	
+editor.annotations.modalTool.keybinding.deleteSelected.tooltip.desc	Delete the selected annotation.	Original Translation	
+editor.annotations.modalTool.keybinding.deleteSelected.tooltip.title	Delete Selected Annotation	Original Translation	
+editor.annotations.modalTool.keybinding.drawingSubmodeAdd.title	Activate Drawing Add Mode	Original Translation	
+editor.annotations.modalTool.keybinding.drawingSubmodeAdd.tooltip.desc	Activate Add mode for the selected drawing.	Original Translation	
+editor.annotations.modalTool.keybinding.drawingSubmodeAdd.tooltip.title	Activate Drawing Add Mode	Original Translation	
+editor.annotations.modalTool.keybinding.drawingSubmodeMove.title	Activate Drawing Move Mode	Original Translation	
+editor.annotations.modalTool.keybinding.drawingSubmodeMove.tooltip.desc	Activate Move mode for the selected drawing.	Original Translation	
+editor.annotations.modalTool.keybinding.drawingSubmodeMove.tooltip.title	Activate Drawing Move Mode	Original Translation	
+editor.annotations.modalTool.keybinding.drawingSubmodeRemove.title	Activate Drawing Remove Mode	Original Translation	
+editor.annotations.modalTool.keybinding.drawingSubmodeRemove.tooltip.desc	Activate Remove mode for the selected drawing.	Original Translation	
+editor.annotations.modalTool.keybinding.drawingSubmodeRemove.tooltip.title	Activate Drawing Remove Mode	Original Translation	
+editor.annotations.modalTool.keybinding.modeEdit.title	Activate Edit Mode	Original Translation	
+editor.annotations.modalTool.keybinding.modeEdit.tooltip.desc	Activate Edit mode.	Original Translation	
+editor.annotations.modalTool.keybinding.modeEdit.tooltip.title	Activate Edit Mode	Original Translation	
+editor.annotations.modalTool.keybinding.modeErase.title	Activate Erase Mode	Original Translation	
+editor.annotations.modalTool.keybinding.modeErase.tooltip.desc	Activate Erase mode.	Original Translation	
+editor.annotations.modalTool.keybinding.modeErase.tooltip.title	Activate Erase Mode	Original Translation	
+editor.annotations.modalTool.keybinding.modePlace.title	Activate Place Mode	Original Translation	
+editor.annotations.modalTool.keybinding.modePlace.tooltip.desc	Activate Place mode.	Original Translation	
+editor.annotations.modalTool.keybinding.modePlace.tooltip.title	Activate Place Mode	Original Translation	
+editor.annotations.modalTool.keybinding.open.title	Open Annotation Editor	Original Translation	
+editor.annotations.modalTool.keybinding.open.tooltip.desc	Open the Annotation Editor tool.	Original Translation	
+editor.annotations.modalTool.keybinding.open.tooltip.title	Open Annotation Editor	Original Translation	
+editor.annotations.modalTool.keybinding.placeAnnotation.title	Place Annotation	Original Translation	
+editor.annotations.modalTool.keybinding.placeAnnotation.tooltip.desc	Place an annotation at the cursor.	Original Translation	
+editor.annotations.modalTool.keybinding.placeAnnotation.tooltip.title	Place Annotation	Original Translation	
+editor.annotations.modalTool.keybinding.toggleAutoEdit.title	Toggle Auto Edit	Original Translation	
+editor.annotations.modalTool.keybinding.toggleAutoEdit.tooltip.desc	Toggle automatic editing after placing an annotation.	Original Translation	
+editor.annotations.modalTool.keybinding.toggleAutoEdit.tooltip.title	Toggle Auto Edit	Original Translation	
+editor.annotations.modalTool.managementButton.title	Open Management Panel	Original Translation	
+editor.annotations.modalTool.managementButton.tooltip.desc	Open the Annotation Management Panel.	Original Translation	
+editor.annotations.modalTool.managementButton.tooltip.title	Open Management Panel %s	Original Translation	
+editor.annotations.modalTool.mode.edit.label	Edit %s	Original Translation	
+editor.annotations.modalTool.mode.edit.tooltip.desc	Edit an existing annotation.	Original Translation	
+editor.annotations.modalTool.mode.edit.tooltip.title	Edit %s	Original Translation	
+editor.annotations.modalTool.mode.erase.label	Delete %s	Original Translation	
+editor.annotations.modalTool.mode.erase.tooltip.desc	Delete an existing annotation.	Original Translation	
+editor.annotations.modalTool.mode.erase.tooltip.title	Delete %s	Original Translation	
+editor.annotations.modalTool.mode.place.label	Place %s	Original Translation	
+editor.annotations.modalTool.mode.place.tooltip.desc	Place a new annotation.	Original Translation	
+editor.annotations.modalTool.mode.place.tooltip.title	Place %s	Original Translation	
+editor.annotations.modalTool.mode.title	Mode	Original Translation	
+editor.annotations.modalTool.mode.tooltip.desc	Choose how the annotation editor interacts with annotations. Toggle between modes with %s.	Original Translation	
+editor.annotations.modalTool.mode.tooltip.title	Mode	Original Translation	
+editor.annotations.modalTool.pane.title	Annotations	Original Translation	
+editor.annotations.modalTool.pane.tooltip.desc	A tool to leave Editor-only notes in the world, for your team or your future self.	Original Translation	
+editor.annotations.modalTool.pane.tooltip.title	Annotations	Original Translation	
+editor.annotations.modalTool.visibility.warning	Annotations are visible only while the Annotation Editor tool is active. To change this, turn on Show Annotations in the management panel.	Original Translation	
+editor.annotations.tags.label	Tags	Original Translation	
+editor.annotations.tags.tooltip.desc	Add tags to annotations, which can be used to filter and sort them in the Annotation Management Panel.	Original Translation	
+editor.annotations.tags.tooltip.title	Tags	Original Translation	
+editor.annotations.type.comment	Comment Annotation	Original Translation	
+editor.annotations.type.drawing	Drawing Annotation	Original Translation	
+editor.annotations.type.text	Text Annotation	Original Translation	
+editor.annotations.variantPane.anchorPosition.label	Anchor Position	Original Translation	
+editor.annotations.variantPane.anchorPosition.tooltip.desc	The annotation's position in the world.	Original Translation	
+editor.annotations.variantPane.anchorPosition.tooltip.title	Anchor Position	Original Translation	
+editor.annotations.variantPane.appearance.tooltip.desc	Change the visual settings of an annotation.	Original Translation	
+editor.annotations.variantPane.appearance.tooltip.title	Appearance Settings	Original Translation	
+editor.annotations.variantPane.comment.appearance.anchorOrientation.bottomCenter	Bottom Center	Original Translation	
+editor.annotations.variantPane.comment.appearance.anchorOrientation.bottomLeft	Bottom Left	Original Translation	
+editor.annotations.variantPane.comment.appearance.anchorOrientation.bottomRight	Bottom Right	Original Translation	
+editor.annotations.variantPane.comment.appearance.anchorOrientation.center	Center	Original Translation	
+editor.annotations.variantPane.comment.appearance.anchorOrientation.centerLeft	Center Left	Original Translation	
+editor.annotations.variantPane.comment.appearance.anchorOrientation.centerRight	Center Right	Original Translation	
+editor.annotations.variantPane.comment.appearance.anchorOrientation.label	Anchor Orientation	Original Translation	
+editor.annotations.variantPane.comment.appearance.anchorOrientation.tooltip.desc	The origin point of the annotation. This point will stay fixed as the annotation grows and shrinks.	Original Translation	
+editor.annotations.variantPane.comment.appearance.anchorOrientation.tooltip.title	Anchor Orientation	Original Translation	
+editor.annotations.variantPane.comment.appearance.anchorOrientation.topCenter	Top Center	Original Translation	
+editor.annotations.variantPane.comment.appearance.anchorOrientation.topLeft	Top Left	Original Translation	
+editor.annotations.variantPane.comment.appearance.anchorOrientation.topRight	Top Right	Original Translation	
+editor.annotations.variantPane.comment.appearance.bodyColor.label	Body Text Color	Original Translation	
+editor.annotations.variantPane.comment.appearance.bodyColor.tooltip.desc	The color of the annotation text in the world.	Original Translation	
+editor.annotations.variantPane.comment.appearance.bodyColor.tooltip.title	Body Text Color	Original Translation	
+editor.annotations.variantPane.comment.appearance.bodySize.label	Body Text Size	Original Translation	
+editor.annotations.variantPane.comment.appearance.bodySize.tooltip.desc	Set the size of the body text in the world.	Original Translation	
+editor.annotations.variantPane.comment.appearance.bodySize.tooltip.title	Body Text Size	Original Translation	
+editor.annotations.variantPane.comment.appearance.facing.camera	Camera	Original Translation	
+editor.annotations.variantPane.comment.appearance.facing.label	Facing	Original Translation	
+editor.annotations.variantPane.comment.appearance.facing.manual	Manual	Original Translation	
+editor.annotations.variantPane.comment.appearance.facing.tooltip.desc	Whether or not the annotation faces the camera or remains fixed.	Original Translation	
+editor.annotations.variantPane.comment.appearance.facing.tooltip.title	Facing	Original Translation	
+editor.annotations.variantPane.comment.appearance.showBody.label	Show Body Text in World	Original Translation	
+editor.annotations.variantPane.comment.appearance.showBody.tooltip.desc	Show the annotation body text in the world.	Original Translation	
+editor.annotations.variantPane.comment.appearance.showBody.tooltip.title	Show Body Text in World	Original Translation	
+editor.annotations.variantPane.comment.appearance.showTitle.label	Show Title in World	Original Translation	
+editor.annotations.variantPane.comment.appearance.showTitle.tooltip.desc	Show the annotation title in the world.	Original Translation	
+editor.annotations.variantPane.comment.appearance.showTitle.tooltip.title	Show Title in World	Original Translation	
+editor.annotations.variantPane.comment.appearance.titleColor.label	Title Text Color	Original Translation	
+editor.annotations.variantPane.comment.appearance.titleColor.tooltip.desc	The color of the annotation title in the world.	Original Translation	
+editor.annotations.variantPane.comment.appearance.titleColor.tooltip.title	Title Text Color	Original Translation	
+editor.annotations.variantPane.comment.appearance.titleSize.label	Title Text Size	Original Translation	
+editor.annotations.variantPane.comment.appearance.titleSize.tooltip.desc	The font size of the annotation's title.	Original Translation	
+editor.annotations.variantPane.comment.appearance.titleSize.tooltip.title	Title Text Size	Original Translation	
+editor.annotations.variantPane.comment.appearance.widthLimit.label	Width Limit	Original Translation	
+editor.annotations.variantPane.comment.appearance.widthLimit.tooltip.desc	The maximum width of the comment body, in blocks. Text wraps after this width.	Original Translation	
+editor.annotations.variantPane.comment.appearance.widthLimit.tooltip.title	Width Limit	Original Translation	
+editor.annotations.variantPane.comment.appearance.world.title	Appearance Settings	Original Translation	
+editor.annotations.variantPane.comment.body.label	Body Text	Original Translation	
+editor.annotations.variantPane.comment.body.tooltip.desc	The body of the comment. Maximum 32,500 characters.	Original Translation	
+editor.annotations.variantPane.comment.body.tooltip.title	Body Text	Original Translation	
+editor.annotations.variantPane.comment.name.tooltip.desc	The title of the visible comment, and its name in the Management Panel. Maximum 256 characters.	Original Translation	
+editor.annotations.variantPane.comment.name.tooltip.title	Name / Title	Original Translation	
+editor.annotations.variantPane.comment.nameTitle.label	Name / Title	Original Translation	
+editor.annotations.variantPane.drawing.appearance.visibleInWorld.label	Show in World	Original Translation	
+editor.annotations.variantPane.drawing.appearance.visibleInWorld.tooltip.desc	When disabled, this annotation will be hidden.	Original Translation	
+editor.annotations.variantPane.drawing.appearance.visibleInWorld.tooltip.title	Show in World	Original Translation	
+editor.annotations.variantPane.drawing.appearance.world.title	Appearance Settings	Original Translation	
+editor.annotations.variantPane.drawing.color.label	Color	Original Translation	
+editor.annotations.variantPane.drawing.lineSegments.color.title	Line Segment Color	Original Translation	
+editor.annotations.variantPane.drawing.lineSegments.color.tooltip.desc	Select the color of this line segment.	Original Translation	
+editor.annotations.variantPane.drawing.lineSegments.color.tooltip.title	Line Segment Color	Original Translation	
+editor.annotations.variantPane.drawing.lineSegments.delete.title	Delete Line Segment	Original Translation	
+editor.annotations.variantPane.drawing.lineSegments.delete.tooltip.desc	Delete this line segment.	Original Translation	
+editor.annotations.variantPane.drawing.lineSegments.delete.tooltip.title	Delete	Original Translation	
+editor.annotations.variantPane.drawing.lineSegments.line.title	Line	Original Translation	
+editor.annotations.variantPane.drawing.lineSegments.line.tooltip.desc	Edit this drawing line segment.	Original Translation	
+editor.annotations.variantPane.drawing.lineSegments.line.tooltip.title	Line	Original Translation	
+editor.annotations.variantPane.drawing.lineSegments.lineWeight.tooltip.desc	The thickness of the line to be drawn.	Original Translation	
+editor.annotations.variantPane.drawing.lineSegments.lineWeight.tooltip.title	Line Weight	Original Translation	
+editor.annotations.variantPane.drawing.lineSegments.quickActions.title	Quick Actions	Original Translation	
+editor.annotations.variantPane.drawing.lineSegments.quickActions.tooltip.desc	Actions for this line segment.	Original Translation	
+editor.annotations.variantPane.drawing.lineSegments.quickActions.tooltip.title	Quick Actions	Original Translation	
+editor.annotations.variantPane.drawing.lineSegments.select.tooltip.desc	Select this line segment.	Original Translation	
+editor.annotations.variantPane.drawing.lineSegments.select.tooltip.title	Select	Original Translation	
+editor.annotations.variantPane.drawing.lineSegments.selected.tooltip	Line Segment Selected	Original Translation	
+editor.annotations.variantPane.drawing.lineSegments.teleport.tooltip.desc	Go to the world position of this line segment.	Original Translation	
+editor.annotations.variantPane.drawing.lineSegments.teleport.tooltip.title	Go To	Original Translation	
+editor.annotations.variantPane.drawing.lineSegments.title	Line Segments	Original Translation	
+editor.annotations.variantPane.drawing.lineSegments.tooltip.desc	The line segments that comprise this drawing annotation.	Original Translation	
+editor.annotations.variantPane.drawing.lineWeight.label	Line weight	Original Translation	
+editor.annotations.variantPane.drawing.name.label	Name	Original Translation	
+editor.annotations.variantPane.drawing.name.tooltip.desc	The annotation's name in the Annotation Management Panel. Maximum 256 characters.	Original Translation	
+editor.annotations.variantPane.drawing.name.tooltip.title	Name	Original Translation	
+editor.annotations.variantPane.drawing.notes.label	Notes	Original Translation	
+editor.annotations.variantPane.drawing.notes.tooltip.desc	Add more information, visible only in Editor. Maximum 32,500 characters.	Original Translation	
+editor.annotations.variantPane.drawing.notes.tooltip.title	Notes	Original Translation	
+editor.annotations.variantPane.name.tooltip.desc	The annotation's name in the Management Panel. For text and comments, it is also the title shown in the world. Maximum 256 characters.	Original Translation	
+editor.annotations.variantPane.name.tooltip.title	Name / Title	Original Translation	
+editor.annotations.variantPane.text.appearance.anchorOrientation.bottomCenter	Bottom Center	Original Translation	
+editor.annotations.variantPane.text.appearance.anchorOrientation.bottomLeft	Bottom Left	Original Translation	
+editor.annotations.variantPane.text.appearance.anchorOrientation.bottomRight	Bottom Right	Original Translation	
+editor.annotations.variantPane.text.appearance.anchorOrientation.center	Center	Original Translation	
+editor.annotations.variantPane.text.appearance.anchorOrientation.centerLeft	Center Left	Original Translation	
+editor.annotations.variantPane.text.appearance.anchorOrientation.centerRight	Center Right	Original Translation	
+editor.annotations.variantPane.text.appearance.anchorOrientation.label	Anchor Orientation	Original Translation	
+editor.annotations.variantPane.text.appearance.anchorOrientation.tooltip.desc	The origin point of the annotation. This point will stay fixed as the annotation grows and shrinks.	Original Translation	
+editor.annotations.variantPane.text.appearance.anchorOrientation.tooltip.title	Anchor Orientation	Original Translation	
+editor.annotations.variantPane.text.appearance.anchorOrientation.topCenter	Top Center	Original Translation	
+editor.annotations.variantPane.text.appearance.anchorOrientation.topLeft	Top Left	Original Translation	
+editor.annotations.variantPane.text.appearance.anchorOrientation.topRight	Top Right	Original Translation	
+editor.annotations.variantPane.text.appearance.bodyColor.label	Body Text Color	Original Translation	
+editor.annotations.variantPane.text.appearance.bodyColor.tooltip.desc	The color of the annotation text in the world.	Original Translation	
+editor.annotations.variantPane.text.appearance.bodyColor.tooltip.title	Body Text Color	Original Translation	
+editor.annotations.variantPane.text.appearance.bodySize.label	Body Text Size	Original Translation	
+editor.annotations.variantPane.text.appearance.bodySize.tooltip.desc	Set the size of the body text in the world.	Original Translation	
+editor.annotations.variantPane.text.appearance.bodySize.tooltip.title	Body Text Size	Original Translation	
+editor.annotations.variantPane.text.appearance.facing.camera	Camera	Original Translation	
+editor.annotations.variantPane.text.appearance.facing.label	Facing	Original Translation	
+editor.annotations.variantPane.text.appearance.facing.manual	Manual	Original Translation	
+editor.annotations.variantPane.text.appearance.facing.tooltip.desc	Whether or not the annotation faces the camera or remains fixed.	Original Translation	
+editor.annotations.variantPane.text.appearance.facing.tooltip.title	Facing	Original Translation	
+editor.annotations.variantPane.text.appearance.showBody.label	Show Body Text in World	Original Translation	
+editor.annotations.variantPane.text.appearance.showBody.tooltip.desc	Show the annotation body text in the world.	Original Translation	
+editor.annotations.variantPane.text.appearance.showBody.tooltip.title	Show Body Text in World	Original Translation	
+editor.annotations.variantPane.text.appearance.showTitle.label	Show Title in World	Original Translation	
+editor.annotations.variantPane.text.appearance.showTitle.tooltip.desc	Show the annotation title in the world.	Original Translation	
+editor.annotations.variantPane.text.appearance.showTitle.tooltip.title	Show Title in World	Original Translation	
+editor.annotations.variantPane.text.appearance.titleColor.label	Title Text Color	Original Translation	
+editor.annotations.variantPane.text.appearance.titleColor.tooltip.desc	The color of the annotation title in the world.	Original Translation	
+editor.annotations.variantPane.text.appearance.titleColor.tooltip.title	Title Text Color	Original Translation	
+editor.annotations.variantPane.text.appearance.titleSize.label	Title Text Size	Original Translation	
+editor.annotations.variantPane.text.appearance.titleSize.tooltip.desc	The font size of the annotation's title.	Original Translation	
+editor.annotations.variantPane.text.appearance.titleSize.tooltip.title	Title Text Size	Original Translation	
+editor.annotations.variantPane.text.appearance.widthLimit.label	Width Limit	Original Translation	
+editor.annotations.variantPane.text.appearance.widthLimit.tooltip.desc	The maximum width of the text annotation, in blocks. After this width limit, text will wrap.	Original Translation	
+editor.annotations.variantPane.text.appearance.widthLimit.tooltip.title	Width Limit	Original Translation	
+editor.annotations.variantPane.text.appearance.world.title	Appearance Settings	Original Translation	
+editor.annotations.variantPane.text.body.label	Body text	Original Translation	
+editor.annotations.variantPane.text.body.tooltip.desc	The body of the annotation. Maximum 32,500 characters.	Original Translation	
+editor.annotations.variantPane.text.body.tooltip.title	Body Text	Original Translation	
+editor.annotations.variantPane.text.name.tooltip.desc	The title of the visible annotation, and its name in the Management Panel. Maximum 256 characters.	Original Translation	
+editor.annotations.variantPane.text.name.tooltip.title	Name / Title	Original Translation	
+editor.annotations.variantPane.text.nameTitle.label	Name / Title	Original Translation	
+editor.cursorSettings.axisLock.directions.title	Axis Lock Directions %s	Original Translation	
+editor.cursorSettings.axisLock.enabled.title	Axis Locking	Original Translation	
+editor.cursorSettings.axisLock.enabled.tooltip	Show the axis-lock toggles. Constrain cursor position along the selected axes while held. Hold %s to enable axis lock.	Original Translation	
+editor.cursorSettings.axisLock.enabled.tooltip.title	Axis Locking	Original Translation	
+editor.cursorSettings.axisLock.x.title	X	Original Translation	
+editor.cursorSettings.axisLock.x.tooltip	Restrict cursor movement along the X axis while axis lock is held.	Original Translation	
+editor.cursorSettings.axisLock.x.tooltip.title	X %s	Original Translation	
+editor.cursorSettings.axisLock.y.title	Y	Original Translation	
+editor.cursorSettings.axisLock.y.tooltip	Restrict cursor movement along the Y axis while axis lock is held.	Original Translation	
+editor.cursorSettings.axisLock.y.tooltip.title	Y %s	Original Translation	
+editor.cursorSettings.axisLock.z.title	Z	Original Translation	
+editor.cursorSettings.axisLock.z.tooltip	Restrict cursor movement along the Z axis while axis lock is held.	Original Translation	
+editor.cursorSettings.axisLock.z.tooltip.title	Z %s	Original Translation	
+editor.cursorSettings.backFace.title	Back Face	Original Translation	
+editor.cursorSettings.backFace.tooltip	Target the block adjacent to the face under the cursor.	Original Translation	
+editor.cursorSettings.backFace.tooltip.title	Back Face %s	Original Translation	
+editor.cursorSettings.cursorOffset.title	Cursor Offset	Original Translation	
+editor.cursorSettings.cursorOffset.tooltip	Offset the cursor position in world space.	Original Translation	
+editor.cursorSettings.fixedDistance.title	Fixed Distance	Original Translation	
+editor.cursorSettings.fixedDistance.tooltip	Set the cursor distance from the player. Use Shift+mouse wheel to adjust the distance.	Original Translation	
+editor.cursorSettings.keybinding.axisLock.title	Activate Cursor Axis Lock	Original Translation	
+editor.cursorSettings.keybinding.axisLock.tooltip	Temporarily constrain cursor targeting to the selected axes.	Original Translation	
+editor.cursorSettings.keybinding.clearAxisLock.title	Clear Cursor Axis Locks	Original Translation	
+editor.cursorSettings.keybinding.clearAxisLock.tooltip	Clear the selected axes and disable axis locking.	Original Translation	
+editor.cursorSettings.keybinding.moveCursorBack.title	Move Cursor Back	Original Translation	
+editor.cursorSettings.keybinding.moveCursorBack.tooltip	Moves the cursor backward.	Original Translation	
+editor.cursorSettings.keybinding.moveCursorDown.title	Move Cursor Down	Original Translation	
+editor.cursorSettings.keybinding.moveCursorDown.tooltip	Moves the cursor down.	Original Translation	
+editor.cursorSettings.keybinding.moveCursorForward.title	Move Cursor Forward	Original Translation	
+editor.cursorSettings.keybinding.moveCursorForward.tooltip	Moves the cursor forward.	Original Translation	
+editor.cursorSettings.keybinding.moveCursorLeft.title	Move Cursor Left	Original Translation	
+editor.cursorSettings.keybinding.moveCursorLeft.tooltip	Moves the cursor to the left.	Original Translation	
+editor.cursorSettings.keybinding.moveCursorRight.title	Move Cursor Right	Original Translation	
+editor.cursorSettings.keybinding.moveCursorRight.tooltip	Moves the cursor to the right.	Original Translation	
+editor.cursorSettings.keybinding.moveCursorUp.title	Move Cursor Up	Original Translation	
+editor.cursorSettings.keybinding.moveCursorUp.tooltip	Moves the cursor up.	Original Translation	
+editor.cursorSettings.keybinding.toggleAxisLockX.title	Toggle Cursor X-Axis Lock	Original Translation	
+editor.cursorSettings.keybinding.toggleAxisLockX.tooltip	Toggle the X axis selection and enable axis locking.	Original Translation	
+editor.cursorSettings.keybinding.toggleAxisLockY.title	Toggle Cursor Y-Axis Lock	Original Translation	
+editor.cursorSettings.keybinding.toggleAxisLockY.tooltip	Toggle the Y axis selection and enable axis locking.	Original Translation	
+editor.cursorSettings.keybinding.toggleAxisLockZ.title	Toggle Cursor Z-Axis Lock	Original Translation	
+editor.cursorSettings.keybinding.toggleAxisLockZ.tooltip	Toggle the Z axis selection and enable axis locking.	Original Translation	
+editor.cursorSettings.keybinding.toggleBackFace.title	Toggle Cursor Back-Face Targeting	Original Translation	
+editor.cursorSettings.keybinding.toggleBackFace.tooltip	Toggle back-face targeting in block precision mode.	Original Translation	
+editor.cursorSettings.keybinding.toggleControlMode.title	Toggle Cursor Mode	Original Translation	
+editor.cursorSettings.keybinding.toggleControlMode.tooltip	Switch between Fixed and Collision Point cursor modes.	Original Translation	
+editor.cursorSettings.keybinding.toggleProjectThroughLiquid.title	Toggle Cursor Projection Through Liquids	Original Translation	
+editor.cursorSettings.keybinding.toggleProjectThroughLiquid.tooltip	Toggle whether the cursor projects through liquid blocks.	Original Translation	
+editor.cursorSettings.mode.collisionPoint	Collision Point	Original Translation	
+editor.cursorSettings.mode.fixed	Fixed	Original Translation	
+editor.cursorSettings.mode.title	Cursor Mode	Original Translation	
+editor.cursorSettings.mode.tooltip	Choose between a collision point and a fixed cursor position. Use %s to toggle cursor mode.	Original Translation	
+editor.cursorSettings.projectThroughLiquid.title	Project Through Liquids	Original Translation	
+editor.cursorSettings.projectThroughLiquid.tooltip	Ignore liquid blocks so the cursor can reach blocks behind them.	Original Translation	
+editor.cursorSettings.projectThroughLiquid.tooltip.title	Project Through Liquids %s	Original Translation	
+editor.cursorSettings.rootPane.title	Cursor Settings	Original Translation	
+editor.cursorSettings.rootPane.tooltip	Choose how the cursor targets and moves.	Original Translation	
 editor.fillBiomes.actionBar.label	Biome Data Assignment	"Original Translation
 zh_CN: 生物群系数据分配
 zh_TW: 生態域資料指派"	
@@ -9639,6 +10094,11 @@ zh_TW: 自訂網格工具"
 editor.introduction.customMesh.title	Custom Mesh Tool	"Original Translation
 zh_CN: 自定义网格工具
 zh_TW: 自訂網格工具"	
+editor.introduction.guidePlanes.tab1.content	Guide planes create a temporary surface that other tools can use for drawing and placement.%sThis makes it easier to place blocks in mid-air, especially in void dimensions.	Original Translation	
+editor.introduction.guidePlanes.tab1.title	Guide Planes	Original Translation	
+editor.introduction.guidePlanes.tab2.content	Use the Guide Planes panel to create and manage existing guide planes.%sCustomize their name and color, adjust the grid density, and show/hide guide planes to manage clutter. Hidden guide planes will not affect other tools.	Original Translation	
+editor.introduction.guidePlanes.tab2.title	Create and Manage	Original Translation	
+editor.introduction.guidePlanes.title	Guide Planes	Original Translation	
 editor.introduction.layouts.tab1.content	%s A Layout is a re-usable arrangement of Structures that can be repeated all over your world.%s Layouts exist only in the Editor until you bake them into the world.%s You can edit a Layout and every unbaked instance will receive those edits.	"Original Translation
 zh_CN: %s 布局是一种可重复使用的结构排列，可以在你的世界中多次放置。%s 布局仅存在于编辑器中，直到你将其烘焙到世界中。%s 你可以编辑布局，所有未烘焙的实例都会收到这些编辑。
 zh_TW: %s佈局是可重複使用的結構排列，可在世界各處重複放置。%s佈局只存在於編輯器中，直到你將其套用到世界中。%s你可以編輯佈局，所有尚未套用的執行個體都會套用這些變更。"	
@@ -10472,30 +10932,10 @@ zh_TW: 切換模式"
 editor.toolRail.prefabInstanceEditor.keyBinding.toggleMode.tooltip	Toggle the Mode of the Layouts tool between Place and Edit.	"Original Translation
 zh_CN: 在布局工具的“放置”和“编辑”模式之间切换。
 zh_TW: 在「放置」和「編輯」之間切換佈局工具的模式。"	
-editor.updateInfo.26u5.controlHelp	Shortcuts are great, but there sure are a lot of them. Find a guide in the Control Help panel, available in the action bar.	"Original Translation
-zh_CN: 快捷键的确很棒，不过数量也不少。在操作栏的控制帮助面板中找到相关指南。
-zh_TW: 捷徑雖然很方便，但真的太多了。在動作列的控制說明面板中就能找到相關指南。"	
-editor.updateInfo.26u5.customMesh	Custom Mesh tool can now match blocks to vertex color data on imported meshes. Use “Generate color list” in the tool settings after you’ve imported a mesh, but before you’ve placed blocks.	"Original Translation
-zh_CN: 自定义网格工具现在可以根据导入网格的顶点颜色数据匹配方块。导入网格后，在放置方块之前，请在工具设置中使用“生成颜色列表”。
-zh_TW: 自訂網格工具現在能根據匯入網格的頂點顏色資料配對方塊。匯入網格後，先不要放置方塊，請先到工具設定中使用「產生色彩清單」。"	
-editor.updateInfo.26u5.guidePlanes	Add Guide Planes for precise raycasting, especially in the sky or in a void. Find the Guide Planes panel on your action bar.	"Original Translation
-zh_CN: 新增引导平面，便于精确射线投射，尤其适用于天空或虚空中。在操作栏找到引导平面面板。
-zh_TW: 新增參考平面，提升光線投射的精準度，在天空或虛空中特別好用。按一下動作列就能找到參考平面面板。"	
-editor.updateInfo.26u5.layouts	Improvements have been made to the Layouts tool and the Layout Instance tool. Adding, selecting, and manipulating structures within a layout should be easier.	"Original Translation
-zh_CN: 布局工具和布局实例工具已改进。现在在布局中添加、选择和操作结构更加简单。
-zh_TW: 已改良配置工具及配置執行個體工具。現在新增、選取和操作配置內的結構變得更方便了。"	
-editor.updateInfo.26u5.pastePreview	You’ll get a widget with Paste Preview now, to make placing things from your clipboard easier and more precise.	"Original Translation
-zh_CN: 现在你会得到一个带有粘贴预览的小部件，让你从剪贴板粘贴物品时更加轻松与精准。
-zh_TW: 你現在會獲得擁有貼上預覽功能的小工具，能讓你更輕鬆、更精準地把剪貼簿裡的東西貼上來。"	
-editor.updateInfo.26u5.perfImprovements	Performance has been improved for large scale operations and volume rendering.	"Original Translation
-zh_CN: 大规模操作和体积渲染的性能已提升。
-zh_TW: 已改良大規模操作與體積渲染的效能。"	
-editor.updateInfo.26u5.rotationWidget	Rotation has been added to the widget where applicable – no more fighting with sliders (unless you really like the sliders).	"Original Translation
-zh_CN: 相关小部件已支持旋转功能——再也不用为滑块烦恼了（除非你真的很喜欢滑块）。
-zh_TW: 小工具已新增旋轉功能，再也不用費盡心思調整滑桿了 (如果你真的很喜歡滑桿，當我沒說)。"	
-editor.updateInfo.26u5.widgetScaling	Speaking of widgets, they also scale in screen space now, so you can still select things even if your camera is far away.	"Original Translation
-zh_CN: 顺带一提，小部件现在会在屏幕空间缩放，所以即使照相机距离很远，你也能选中物品。
-zh_TW: 說到小工具，現在畫面空間的小工具自動調整大小，即使鏡頭拉得很遠，依然選得到想要的小工具。"	
+editor.updateInfo.26u6.layouts	Improvements have been made to the Layouts tool and the Layout Instance tool. Adding, selecting, and manipulating structures within a layout should be easier.	Original Translation	
+editor.updateInfo.26u7.annotations	Mark up your world with notes for later using the Annotation tool. Add text or freehand lines from Editor.	Original Translation	
+editor.updateInfo.26u7.annotationsWithComment	Mark up your world with notes for later using the Annotation tool. Add text or freehand lines from Editor, or place a Comment while you're playtesting.	Original Translation	
+editor.updateInfo.26u7.guidePlanes	Add Guide Planes for precise raycasting, especially in the sky or in a void. Find the Guide Planes panel on your action bar.	Original Translation	
 editor.vibrantVisuals.chunkManagement.keyBinding.label	Vibrant Visuals	"Original Translation
 zh_CN: 灵动视效
 zh_TW: 絢麗視覺"	
@@ -13707,6 +14147,7 @@ zh_TW: 複製或檢舉訊息"
 hbui.ChatOptionsRoute.muteOrReportPlayers	Mute or Report Players	"Original Translation
 zh_CN: 屏蔽或举报玩家
 zh_TW: 靜音或檢舉玩家"	
+hbui.ChatOptionsRoute.reportMessages	Report Messages	Original Translation	
 hbui.ChatOptionsRoute.title	Options for chat	"Original Translation
 zh_CN: 聊天选项
 zh_TW: 聊天選項"	
@@ -15028,6 +15469,8 @@ zh_TW: 跳過「你死了！」選單，立即重生"
 hbui.CreateNewWorld.advanced.immediateRespawnTitle	Immediate respawn	"Original Translation
 zh_CN: 立即重生
 zh_TW: 立即重生"	
+hbui.CreateNewWorld.advanced.invisibleArmorDescription	Let players hide their equipped armor from the inventory screen	Original Translation	
+hbui.CreateNewWorld.advanced.invisibleArmorTitle	Invisible armor	Original Translation	
 hbui.CreateNewWorld.advanced.mobLootDescription	Mobs drop items when killed	"Original Translation
 zh_CN: 生物在被杀时会掉落物品
 zh_TW: 生物遭到擊殺時會掉落物品"	
@@ -19402,6 +19845,7 @@ hbui.InboxGiftDetails.confirmDecline.declineInputLegend	Decline	Original Transla
 hbui.InboxGiftDetails.confirmDecline.message	Are you sure you would like to decline this gift? If you do, you will not get another chance to add it to your library.	Original Translation	
 hbui.InboxGiftDetails.confirmDecline.title	Confirm Decline	Original Translation	
 hbui.InboxGiftDetails.decline	Decline	Original Translation	
+hbui.InboxGiftDetails.declined	Declined	Original Translation	
 hbui.InboxGiftDetails.error.acceptMessage	Accept failed, please try again later.	Original Translation	
 hbui.InboxGiftDetails.error.actionMessage	Action failed, please try again later.	Original Translation	
 hbui.InboxGiftDetails.error.declineMessage	Decline failed, please try again later.	Original Translation	
@@ -19670,6 +20114,8 @@ zh_TW: 開始"
 hbui.InboxRoute.header	Inbox	"Original Translation
 zh_CN: 收件箱
 zh_TW: 收件匣"	
+hbui.InboxRoute.inboxUnavailable	Inbox Unavailable	Original Translation	
+hbui.InboxRoute.inboxUnavailableBody	Please sign in to view your inbox.	Original Translation	
 hbui.InboxRoute.invites	Invites	"Original Translation
 zh_CN: 邀请
 zh_TW: 邀請"	
@@ -20119,6 +20565,9 @@ hbui.MainMenu.ClientDrivenRecentlyPlayedFab.localWorld	My World	Original Transla
 hbui.MainMenu.ClientDrivenRecentlyPlayedFab.noWorlds.buttonLabel	Create new world	Original Translation	
 hbui.MainMenu.ClientDrivenRecentlyPlayedFab.noWorlds.title	No worlds here... yet	Original Translation	
 hbui.MainMenu.ClientDrivenRecentlyPlayedFab.realmWorld	Realm	Original Translation	
+hbui.MainMenu.Discovery.Marketplace.price.free	Free	Original Translation	
+hbui.MainMenu.Discovery.Marketplace.price.narration	Price: %1$s Minecoins	Original Translation	
+hbui.MainMenu.Discovery.Marketplace.price.narrationStrikeThrough	Price: %1$s Minecoins . Free with your Marketplace Pass	Original Translation	
 hbui.MainMenu.Discovery.error.message	Couldn't load content	Original Translation	
 hbui.MainMenu.Discovery.error.tryAgain	Try again	Original Translation	
 hbui.MainMenu.Discovery.inputLegend.action	View	"Original Translation
@@ -20128,6 +20577,10 @@ hbui.MainMenu.Discovery.narration.discoverMore	Discover more	Original Translatio
 hbui.MainMenu.Discovery.narration.otherOptionsHint	Other options are still available	Original Translation	
 hbui.MainMenu.Discovery.narration.realmsBanner	Realms	Original Translation	
 hbui.MainMenu.Discovery.narration.screenName	Discovery screen	Original Translation	
+hbui.MainMenu.Discovery.platformSignIn.button.nsa	Sign in	Original Translation	
+hbui.MainMenu.Discovery.platformSignIn.button.psn	Log in to PlayStation™Network	Original Translation	
+hbui.MainMenu.Discovery.platformSignIn.message.nsa	Sign in to a Nintendo Account to see what’s here.	Original Translation	
+hbui.MainMenu.Discovery.platformSignIn.message.psn	Log in to PlayStation™Network to see what’s here.	Original Translation	
 hbui.MainMenu.DiscoverySection.narration.role	Section	"Original Translation
 zh_CN: 分区
 zh_TW: 區段"	
@@ -20333,6 +20786,7 @@ zh_TW: 免費"
 hbui.Marketplace.ContentCard.goTo	Go to	"Original Translation
 zh_CN: 前往
 zh_TW: 前往"	
+hbui.Marketplace.ContentCard.installed	Installed	Original Translation	
 hbui.Marketplace.ContentCard.narration	%1$s by %2$s. Rating: %3$s. Price: %4$s Minecoins	"Original Translation
 zh_CN: %1$s，作者：%2$s。评级：%3$s。价格：%4$s Minecoins
 zh_TW: %1$s，作者：%2$s。評分：%3$s。價格：%4$s Minecoins"	
@@ -20349,6 +20803,8 @@ zh_TW: 通行證"
 hbui.Marketplace.ContentCard.sale	Sale	"Original Translation
 zh_CN: 特惠
 zh_TW: 特價"	
+hbui.Marketplace.ContentCard.saleEndsInDays	Ends in %1$sd	Original Translation	
+hbui.Marketplace.ContentCard.saleEndsInHoursMinutes	%1$sh %2$sm	Original Translation	
 hbui.Marketplace.ContentCard.tryFree	Try free	"Original Translation
 zh_CN: 免费试用
 zh_TW: 免費試玩"	
@@ -20429,8 +20885,11 @@ hbui.Marketplace.PreviewContentModal.usageRulesForDigitalGoods	Usage Rules for D
 zh_CN: 数字商品使用规则
 zh_TW: 數位商品使用規則"	
 hbui.Marketplace.Price.narrationMinecoins	Price: %1$s Minecoins	Original Translation	
+hbui.Marketplace.Price.narrationSaleMinecoins	Original price: %1$s Minecoins. Sale price: %2$s Minecoins	Original Translation	
+hbui.Marketplace.Price.narrationSaleTokens	Original price: %1$s Tokens. Sale price: %2$s Tokens	Original Translation	
 hbui.Marketplace.Price.narrationTokens	Price: %1$s Tokens	Original Translation	
 hbui.Marketplace.Price.owned	Owned	Original Translation	
+hbui.Marketplace.Redeem.Error.defaultErrorMessage	Sorry, an unexpected error has occurred. The error has been recorded and we will investigate. Please try to redeem your code later.	Original Translation	
 hbui.Marketplace.Redeem.Error.notEligibleForRedemption	This code cannot be redeemed in Minecraft on this device.	"Original Translation
 zh_CN: 此代码无法在本设备上的 Minecraft 中兑换。
 zh_TW: 此代碼無法在這部裝置的 Minecraft 中兌換。"	
@@ -20440,9 +20899,8 @@ zh_TW: 你的代碼已兌換。內容可能需要幾分鐘才會顯示。若幾�
 hbui.Marketplace.Redeem.Error.redeemCodeFailed	This code could not be redeemed. Check the code and try again.	"Original Translation
 zh_CN: 此代码无法兑换。请检查代码并重试。
 zh_TW: 無法兌換此代碼。請檢查代碼後再試一次。"	
-hbui.Marketplace.RedeemRoute.defaultErrorMessage	Sorry, an unexpected error has occurred. The error has been recorded and we will investigate. Please try to redeem your code later.	"Original Translation
-zh_CN: 很抱歉，发生了意外错误。错误已被记录，我们会进行调查。请稍后再次尝试兑换代码。
-zh_TW: 抱歉，發生意外錯誤。系統已記錄錯誤，我們會調查原因。請稍後再兌換代碼。"	
+hbui.Marketplace.Redeem.Error.tokenAlreadyRedeemed	This code has already been redeemed.	Original Translation	
+hbui.Marketplace.Redeem.Error.userAlreadyOwnsContent	You already own this content.	Original Translation	
 hbui.Marketplace.RedeemRoute.loadingContent	Loading content...	"Original Translation
 zh_CN: 正在加载内容...
 zh_TW: 正在載入內容……"	
@@ -20470,9 +20928,21 @@ zh_TW: 你的代碼已兌換。內容可能需要幾分鐘才會顯示。若幾�
 hbui.Marketplace.ViewRedeemedContentModal.view	View	"Original Translation
 zh_CN: 查看
 zh_TW: 檢視"	
+hbui.MarketplaceCalloutBannerFab.defaultButtonText	Clear	Original Translation	
+hbui.MarketplaceCalloutBannerFab.defaultDisplayText	Result for search	Original Translation	
+hbui.MarketplaceFilterModal.apply	Apply	Original Translation	
+hbui.MarketplaceFilterModal.clear	Clear	Original Translation	
+hbui.MarketplaceFilterModal.header	Filter	Original Translation	
+hbui.MarketplaceFilterModal.narration.accordionExpandedHint	Navigate down to choose filters	Original Translation	
+hbui.MarketplaceFilterModal.narration.accordionHint	Expand to see filter options	Original Translation	
+hbui.MarketplaceFilterModal.narration.closeButtonHint	Button	Original Translation	
+hbui.MarketplaceFilterModal.narration.enumeration	%1$s of %2$s	Original Translation	
+hbui.MarketplaceFilterModal.narration.selectOneHint	Only one option can be selected	Original Translation	
 hbui.MarketplacePackDownloadStates.checkingStorage.title	Checking available space	"Original Translation
 zh_CN: 正在检查可用空间
 zh_TW: 正在檢查可用空間"	
+hbui.MarketplacePassBanner.ABBannerNarration	Marketplace Pass	Original Translation	
+hbui.MarketplacePassBanner.ABBannerText	Customize your adventures with worlds, add-ons, cosmetics, and more	Original Translation	
 hbui.MarketplacePassBanner.bannerText.freeWeekend	Free Weekend - Play now!	"Original Translation
 zh_CN: 免费周末 - 立即游玩！
 zh_TW: 免費週末 - 立即遊玩！"	
@@ -20497,6 +20967,7 @@ zh_TW: 向下導覽即可閱讀答案"
 hbui.MarketplacePassPDPFAQAccordion.textBlock	Text block	"Original Translation
 zh_CN: 文本块
 zh_TW: 文字方塊"	
+hbui.MarketplacePassPDPHero.offerSubtitle	%1$s %2$s/month	Original Translation	
 hbui.MarketplacePassPDPRoute.title	MARKETPLACE PASS	"Original Translation
 zh_CN: Marketplace Pass
 zh_TW: Marketplace Pass"	
@@ -20519,6 +20990,12 @@ zh_TW: 市集"
 hbui.MarketplaceRoute.wishlistTabTitle	Wishlist	"Original Translation
 zh_CN: 愿望清单
 zh_TW: 願望清單"	
+hbui.MarketplaceSearchRow.narration.filter	Filter Button	Original Translation	
+hbui.MarketplaceSearchRow.narration.searchBar	Text Box Search	Original Translation	
+hbui.MarketplaceSearchRow.narration.sort	Sort Button	Original Translation	
+hbui.MarketplaceSearchRow.placeholder	Search	Original Translation	
+hbui.MarketplaceSortModal.header	Sort	Original Translation	
+hbui.MarketplaceSortModal.narration.enumeration	%1$s of %2$s	Original Translation	
 hbui.MobileDataBlockedModal.changeSettings	Change settings	"Original Translation
 zh_CN: 更改设置
 zh_TW: 變更設定"	
@@ -23146,6 +23623,7 @@ zh_TW: 已新增"
 hbui.PlayerListItem.away	Away	"Original Translation
 zh_CN: 离开
 zh_TW: 離開"	
+hbui.PlayerListItem.blocked	Blocked	Original Translation	
 hbui.PlayerListItem.buttonSiblings	Button %1$s of %2$s	"Original Translation
 zh_CN: 第 %1$s 个按钮，共 %2$s 个
 zh_TW: 按鈕 %1$s/%2$s"	
@@ -23194,6 +23672,7 @@ zh_TW: 已加入"
 hbui.PlayerListItem.member	Member	"Original Translation
 zh_CN: 成员
 zh_TW: 成員"	
+hbui.PlayerListItem.muted	Muted	Original Translation	
 hbui.PlayerListItem.narration.acceptInvite	Accept invite	"Original Translation
 zh_CN: 接受邀请
 zh_TW: 接受邀請"	
@@ -23695,7 +24174,7 @@ zh_TW: 立即開始"
 hbui.PreStartScreen.newPlayerPathLanding.moreOptions	More options	"Original Translation
 zh_CN: 更多选项
 zh_TW: 更多選項"	
-hbui.PreStartScreen.platformSignIn.body.nsa	Sign in to your Nintendo Account to create a link to this console, access online services, and collect MyNintendo points.	"Original Translation
+hbui.PreStartScreen.platformSignIn.body.nsa	Sign in to your Nintendo Account to create a link to this console, access online services, and collect My Nintendo points.	"Original Translation
 zh_CN: 登录 Nintendo 账号以关联此主机、访问在线服务并领取 My Nintendo 积分。
 zh_TW: 登入 Nintendo 帳號，將帳戶連結至這台主機、使用線上服務，並獲得 MyNintendo 點數。"	
 hbui.PreStartScreen.platformSignIn.body.psn	Sign in to the PlayStation™Network to play online with friends, access social features, and discover games from the store.	"Original Translation
@@ -24973,6 +25452,8 @@ zh_TW: 只要你連結的 Realm 付費訂閱有效，預覽版 Realm 就會保�
 hbui.Realms.RealmsHub.Settings.Subscriptions.PreviewWarningTwo	All Realms screens and functions are available in Preview except purchasing a new subscription or managing the subscriptions of existing Realms.	"Original Translation
 zh_CN: 所有 Realms 屏幕和功能都可以在预览版中使用，除了购买新的定期服务或管理现有 Realms 的定期服务。
 zh_TW: 除了購買新訂閱或管理現有的 Realms 訂閱外，預覽版可使用所有的 Realms 介面與功能。"	
+hbui.Realms.RealmsHub.Settings.Subscriptions.TimeRemaining.title	Next billing cycle	Original Translation	
+hbui.Realms.RealmsHub.Settings.Subscriptions.TimeRemaining.value	%1$sd	Original Translation	
 hbui.Realms.RealmsHub.Settings.Subscriptions.infoAndPlayerCount	%1$s Subscription: You + %2$s Friends server %3$s	"Original Translation
 zh_CN: %1$s 订阅：你 + %2$s 位好友服务器 %3$s
 zh_TW: %1$s 訂閱：你 + %2$s 位好友的伺服器 %3$s"	
@@ -28041,6 +28522,7 @@ zh_TW: 使用推薦設定"
 hbui.ReportPlayerRoute.areaPanel.description	Please let us know where the incident took place. This will help us in researching your case.	"Original Translation
 zh_CN: 请告知我们事件发生的地方。这能帮我们研究您的案例。
 zh_TW: 請讓我們知道事件發生在哪裡。這將有助於我們研究你的案例。"	
+hbui.ReportPlayerRoute.areaPanel.placeholder	Select where the incident took place	Original Translation	
 hbui.ReportPlayerRoute.areaPanel.title	Where did you observe the bad behavior?	"Original Translation
 zh_CN: 您在哪里观察到了不好的行为？
 zh_TW: 你在哪裡觀察到了不良行為？"	
@@ -28131,6 +28613,7 @@ hbui.ReportPlayerRoute.copyOrReportMessages.reportButtonText	Report	Original Tra
 hbui.ReportPlayerRoute.copyOrReportMessages.reportButtonTextPlural	Report %1$s messages	Original Translation	
 hbui.ReportPlayerRoute.copyOrReportMessages.reportButtonTextSingular	Report 1 message	Original Translation	
 hbui.ReportPlayerRoute.copyOrReportMessages.title	Copy or Report Messages	Original Translation	
+hbui.ReportPlayerRoute.copyOrReportMessages.titleReportOnly	Report Messages	Original Translation	
 hbui.ReportPlayerRoute.copyOrReportMessagesFTUE.body	Select messages using the checkbox. You can select one or multiple messages to copy or report.	Original Translation	
 hbui.ReportPlayerRoute.copyOrReportMessagesFTUE.okayButton	Okay	Original Translation	
 hbui.ReportPlayerRoute.copyOrReportMessagesFTUE.title	Select messages	Original Translation	
@@ -28191,9 +28674,14 @@ zh_TW: 無法載入檢舉選項。請檢查連線後再試一次。"
 hbui.ReportPlayerRoute.options.error.title	Reporting Options Unavailable	"Original Translation
 zh_CN: 举报选项不可用
 zh_TW: 檢舉選項無法使用"	
+hbui.ReportPlayerRoute.playerPanel.description	To report the messages, select the player responsible. Inappropriate content from any player in the reported messages will result in action being taken against them.	Original Translation	
+hbui.ReportPlayerRoute.playerPanel.placeholder	Select a player	Original Translation	
+hbui.ReportPlayerRoute.playerPanel.title	Who do you want to report?	Original Translation	
+hbui.ReportPlayerRoute.reasonPanel.chatReportTitle	Why are you reporting these messages?	Original Translation	
 hbui.ReportPlayerRoute.reasonPanel.description	If someone is in immediate danger, call local emergency services. Don't wait.	"Original Translation
 zh_CN: 如果有人处于紧急危险之中，请致电当地紧急服务部门。不要等待。
 zh_TW: 如果有人有立即危險，請聯絡當地緊急服務單位。不要拖延。"	
+hbui.ReportPlayerRoute.reasonPanel.placeholder	Select a reason	Original Translation	
 hbui.ReportPlayerRoute.reasonPanel.title	Why are you reporting %1$s?	"Original Translation
 zh_CN: 您为什么要举报 %1$s？
 zh_TW: 你為什麼要檢舉 %1$s？"	
@@ -28239,6 +28727,15 @@ zh_TW: 檢舉不良行為"
 hbui.ReportPlayerRoute.unsportingBehavior	Unsporting behavior	"Original Translation
 zh_CN: 没有体育道德的行为
 zh_TW: 不當行為"	
+hbui.ReportPlayerRoute.viewMessagesModal.closeButton	Close	Original Translation	
+hbui.ReportPlayerRoute.viewMessagesModal.narration.moreMessagesDownHint	Navigate down to see more messages	Original Translation	
+hbui.ReportPlayerRoute.viewMessagesModal.narration.moreMessagesHint	Navigate up to see more messages	Original Translation	
+hbui.ReportPlayerRoute.viewMessagesModal.narration.moreMessagesUpOrDownHint	Navigate up or down to see more messages	Original Translation	
+hbui.ReportPlayerRoute.viewMessagesModal.title	View messages	Original Translation	
+hbui.ReportPlayerRoute.viewMessagesPanel.button	View messages	Original Translation	
+hbui.ReportPlayerRoute.viewMessagesPanel.buttonSingular	View message	Original Translation	
+hbui.ReportPlayerRoute.viewMessagesPanel.text	%1$s messages selected	Original Translation	
+hbui.ReportPlayerRoute.viewMessagesPanel.textSingular	1 message selected	Original Translation	
 hbui.ReportPlayerRoute.wantToReportThem	I want to report them	"Original Translation
 zh_CN: 我想举报
 zh_TW: 我想檢舉他們"	
@@ -29413,6 +29910,7 @@ zh_TW: 範本無法使用"
 hbui.StartFromTemplateRoute.MarketplacePass.description	Go further with world templates for Marketplace Pass subscribers.	"Original Translation
 zh_CN: 进一步探索 Marketplace Pass 订阅用户的世界模板。
 zh_TW: 對於 Marketplace Pass 定期服務的使用者，我們提供更多世界範本。"	
+hbui.StartFromTemplateRoute.MarketplacePass.featured	Featured	Original Translation	
 hbui.StartFromTemplateRoute.MarketplacePass.noInternetMessage	Please check your internet connection to browse Marketplace.	"Original Translation
 zh_CN: 请检查您的互联网连接以浏览市场。
 zh_TW: 請檢查網際網路連線以瀏覽市集。"	
@@ -29422,6 +29920,7 @@ zh_TW: 垂直子選單"
 hbui.StartFromTemplateRoute.MarketplacePass.title	Marketplace Pass templates	"Original Translation
 zh_CN: Marketplace Pass 模板
 zh_TW: Marketplace Pass 範本"	
+hbui.StartFromTemplateRoute.MarketplacePass.viewCatalog	View catalog	Original Translation	
 hbui.StartFromTemplateRoute.NoContentMessage.goToMarketplaceButton	Go to Marketplace	"Original Translation
 zh_CN: 前往市场
 zh_TW: 前往市集"	
@@ -29557,6 +30056,7 @@ zh_TW: 擁有的範本"
 hbui.StartFromTemplateRoute.SideMenu.cnwButton	Create new world	"Original Translation
 zh_CN: 创建新世界
 zh_TW: 建立新世界"	
+hbui.StartFromTemplateRoute.SideMenu.createFrom	Create From...	Original Translation	
 hbui.StartFromTemplateRoute.SideMenu.featured	Featured creators	"Original Translation
 zh_CN: 精选创作者
 zh_TW: 精選創作者"	
@@ -29653,6 +30153,7 @@ zh_TW: 範本已下載"
 hbui.StartFromTemplateRoute.title	Create From Template	"Original Translation
 zh_CN: 从模板创建
 zh_TW: 從範本創建"	
+hbui.StartFromTemplateRoute.title.ABTest	Create	Original Translation	
 hbui.StartFromTemplateRoute.title.AddOn	Create From...	"Original Translation
 zh_CN: 创建自...
 zh_TW: 從以下建立..."	
@@ -30221,12 +30722,14 @@ zh_TW: 已匯入"
 hbui.TemplateCard.installed	Download	"Original Translation
 zh_CN: 下载
 zh_TW: 下載"	
+hbui.TemplateCard.installedABTest	Installed	Original Translation	
 hbui.TemplateCard.locked	Locked	"Original Translation
 zh_CN: 已锁定
 zh_TW: 已鎖定"	
 hbui.TemplateCard.notInstalled	Create	"Original Translation
 zh_CN: 创建
 zh_TW: 建立"	
+hbui.TemplateCard.ownedABTest	Owned	Original Translation	
 hbui.TemplateCard.rate	Rate	"Original Translation
 zh_CN: 速率
 zh_TW: 率"	
@@ -36807,6 +37310,7 @@ zh_TW: 染色的"
 item.echo_shard.name	Echo Shard	"Original Translation
 zh_CN: 回响碎片
 zh_TW: 回聲碎片"	
+item.editor:comment.name	Comment	Original Translation	
 item.egg.name	Egg	"Original Translation
 zh_CN: 鸡蛋
 zh_TW: 蛋"	
@@ -37690,7 +38194,7 @@ zh_TW: 莉娜雷恩 - 創作者 (音樂盒)"
 item.record_far.desc	C418 - far	"Original Translation
 zh_CN: C418 - far
 zh_TW: C418 - far"	
-item.record_flurry.desc	Hyper Potions - flurry	Original Translation	
+item.record_flurry.desc	Hyper Potions - Flurry	Original Translation	
 item.record_lava_chicken.desc	Hyper Potions - Lava Chicken	"Original Translation
 zh_CN: Hyper Potions - 熔岩鸡
 zh_TW: 超級藥水 - 熔岩雞"	
@@ -39892,6 +40396,7 @@ zh_TW: 黃金在地獄和惡地生態域中最為常見。"
 lategameTips.27	Diorite, you either love it or hate it.	"Original Translation
 zh_CN: 闪长岩是一种会让您对它非爱即恨的东西。
 zh_TW: 閃長岩，讓人又愛又恨。"	
+lategameTips.28	Iron Golems can plant poppies on Copper Golems.	Original Translation	
 lategameTips.3	Cobblestone is resistant to Ghast fireballs, making it useful for guarding portals.	"Original Translation
 zh_CN: 圆石可以抵御恶魂发射的火球，可用于守卫传送门。
 zh_TW: 鵝卵石能抵抗地獄幽靈火球，因此在守護傳送門時非常有用。"	
@@ -39934,7 +40439,7 @@ zh_TW: 開始匯入專案…"
 level.editor.import.success	Project import finished successfully	"Original Translation
 zh_CN: 项目导入成功完成
 zh_TW: 專案匯入成功"	
-level.editor.import.success.editorOnly	Project import finished successfully. This project is only available in Editor mode	Original Translation	
+level.editor.import.success.editorOnly	Project import finished successfully. Project is available in Editor	Original Translation	
 level.export.failed	World export failed	"Original Translation
 zh_CN: 世界导出失败
 zh_TW: 世界匯出失敗"	
@@ -41138,6 +41643,14 @@ zh_TW: 用鋤頭為種植區域整地。"
 midgameTips.7	Get to your destination faster with a minecart and some rails!	"Original Translation
 zh_CN: 乘坐铁轨上的矿车，更快到达目的地！
 zh_TW: 使用礦車和軌道，可以讓你更快抵達目的地！"	
+midgameTips.70	Keep your eyes on a Creaking. You'll stop it in its tracks.	Original Translation	
+midgameTips.71	Creakings appear at night in some Pale Gardens.	Original Translation	
+midgameTips.72	Keep yourself entertained at night by placing a Creaking Heart between two Pale Oak blocks.	Original Translation	
+midgameTips.73	Scrape a copper block with an axe to reverse oxidation.	Original Translation	
+midgameTips.74	Place a carved pumpkin on a copper block to create a Copper Golem.	Original Translation	
+midgameTips.75	Just add water to a Dried Ghast to watch it grow into a Happy Ghast.	Original Translation	
+midgameTips.76	Snowballs tempt Happy Ghasts. Harnesses tempt unharnessed ones.	Original Translation	
+midgameTips.77	A spear works well from horseback or while flying.	Original Translation	
 midgameTips.8	Building a portal will allow you to travel to another dimension called the Nether.	"Original Translation
 zh_CN: 制作传送门，通过传送门穿越到下界。
 zh_TW: 建造傳送門，可以讓你前往另一個次元，稱為「地獄」。"	
@@ -43781,6 +44294,9 @@ options.invertYAxis.name	Invert camera Y-axis	"Original Translation
 zh_CN: 反转摄像机 Y 轴
 zh_TW: 反轉相機 Y 軸"	
 options.joyconMouse	Joy-Con 2 Mouse	Original Translation	
+options.joyconMouse.resetMappings	Reset mapping to default	Original Translation	
+options.joyconMouse.resetMappings.buttonLabel	Reset	Original Translation	
+options.joyconMouse.resetMappings.description	Restore all Joy-Con 2 mouse button mappings to their original values	Original Translation	
 options.joyconMouse.resetSettings	Reset settings to default	Original Translation	
 options.joyconMouse.resetSettings.buttonLabel	Reset	Original Translation	
 options.joyconMouse.resetSettings.description	Restore all the above Joy-Con 2 mouse options to their original values	Original Translation	
@@ -46922,30 +47438,21 @@ zh_TW: 正在載入分割畫面外觀..."
 progressScreen.message.locating	Locating server	"Original Translation
 zh_CN: 定位服务器
 zh_TW: 定位伺服器"	
-progressScreen.message.modifiedWorldWarning.1	You're playing in a world with Add-Ons! This will add new features to your Minecraft world.	"Original Translation
+progressScreen.message.modifiedWorldWarning.1	Resource packs replace default assets and change how Minecraft looks and sounds!	"Original Translation
 zh_CN: 你正在一个带有附加内容的世界中游玩！这会为你的 Minecraft 世界带来全新的功能和体验。
 zh_TW: 您正在含有附加內容的世界中遊玩！您的 Minecraft 世界將會增加新的功能。"	
-progressScreen.message.modifiedWorldWarning.2	Don't stop with just one! You can load multiple Add-Ons onto a single world at once.	"Original Translation
+progressScreen.message.modifiedWorldWarning.2	Behavior packs change how Minecraft works, from items and blocks to mobs and worlds!	"Original Translation
 zh_CN: 不要只使用一个附加内容！你可以同时加载多个附加内容。
 zh_TW: 別再一次一個慢慢加了！您可以一次將多個附加內容載入一個世界中。"	
-progressScreen.message.modifiedWorldWarning.3	Advanced Tip: A Resource Pack can change the textures of different blocks and entities.	"Original Translation
+progressScreen.message.modifiedWorldWarning.3	Add-ons can add new blocks, items, or mobs to a world.	"Original Translation
 zh_CN: 高级提示：资源包可以更改不同方块和实体的材质。
 zh_TW: 進階提示：資源包可以變更不同方塊和實體的材質。"	
-progressScreen.message.modifiedWorldWarning.4	Advanced Tip: A Behavior Pack can change how different items, entities, or blocks work.	"Original Translation
+progressScreen.message.modifiedWorldWarning.4	You can add multiple add-ons onto a single world at once.	"Original Translation
 zh_CN: 高级提示：行为包可以更改不同物品、实体或方块的作用。
 zh_TW: 進階提示：行為套件可以變更不同物品、實體或方塊的行為模式。"	
-progressScreen.message.modifiedWorldWarning.5	Advanced Tip: An Add-On includes both a Behavior Pack and a Resource Pack. Make sure both packs are activated to ensure the Add-On works!	"Original Translation
+progressScreen.message.modifiedWorldWarning.5	Worlds and add-ons are complex! While some work great together, you might get funky results with others.	"Original Translation
 zh_CN: 高级提示：附加内容包括行为包和资源包。确保两个包都已激活，以保证附加内容正常工作！
 zh_TW: 進階提示：一個包含行為套件和資源包的附加內容。請確認已啟用該兩個套件，以確保附加內容能夠正常執行！"	
-progressScreen.message.modifiedWorldWarning.6	Add-Ons add new blocks, items, or mobs to your worlds.	"Original Translation
-zh_CN: 附加内容增加了新的方块、物品或生物到你的世界中。
-zh_TW: 附加內容會將新的方塊、物品或生物新增至您的世界。"	
-progressScreen.message.modifiedWorldWarning.7	Worlds and Add-ons are complex! While some work great together, you might get funky results with others.	"Original Translation
-zh_CN: 世界和附加内容都很复杂！虽然有些搭配效果很好，但有些搭配可能会产生奇怪的效果。
-zh_TW: 世界和附加內容非常複雜！雖然有些很合適一起使用，但有些可能會造成奇怪的結果。"	
-progressScreen.message.modifiedWorldWarning.8	More Add-Ons mean more fun, but the game might take longer to load.	"Original Translation
-zh_CN: 更多附加内容意味着更多乐趣，但游戏加载时间可能会更长。
-zh_TW: 更多附加內容代表著更多樂趣，但可能會需要較長的時間來載入遊戲。"	
 progressScreen.message.noUploadEndpoint	Failed to find a place to upload your world. Maybe check your internet connection?	"Original Translation
 zh_CN: 找不到上传世界的地方。或许您可以检查一下网络连接？
 zh_TW: 找不到上傳世界的地方。是否要檢查您的網際網路連線？"	
@@ -49452,12 +49959,6 @@ zh_TW: 絢麗視覺設定"
 resourcePack.editor.agfx.settings.error.title	Error(s) occurred...	"Original Translation
 zh_CN: 出现错误...
 zh_TW: 發生錯誤..."	
-resourcePack.editor.annotation.commentEntity.label	Comment Entity	"Original Translation
-zh_CN: 注释实体
-zh_TW: 註解實體"	
-resourcePack.editor.annotation.commentEntity.tooltip	Comment Entity annotation.	"Original Translation
-zh_CN: 注释实体标注。
-zh_TW: 「註解實體」註記。"	
 resourcePack.editor.blockInspector.toolRail.description	Left click on a block to view and edit its properties.	"Original Translation
 zh_CN: 左键点击方块以查看并编辑其属性。
 zh_TW: 在方塊上按下滑鼠左鍵以檢視並編輯其屬性。"	
@@ -51989,6 +52490,8 @@ zh_TW: 將您的編輯器專案當作可遊玩的 Minecraft 世界來進行遊�
 resourcePack.editor.playtest.Dialog.Information.tooltip	Information about how Test World works.	"Original Translation
 zh_CN: 关于测试世界工作方式的信息。
 zh_TW: 關於「測試世界」如何運作的資訊。"	
+resourcePack.editor.playtest.Dialog.KeepAnnotations	Keep Annotations	Original Translation	
+resourcePack.editor.playtest.Dialog.KeepAnnotations.tooltip	Include annotations in the playtest world.	Original Translation	
 resourcePack.editor.playtest.Dialog.OverrideSpawn	Spawn at Current Location	"Original Translation
 zh_CN: 在当前位置生成
 zh_TW: 在目前位置生成"	
@@ -53859,7 +54362,7 @@ zh_TW: 選擇類型……"
 resourcePack.editor.toolRail.guidePlanes.dropdown.addPlane.title	Add Guide Plane	"Original Translation
 zh_CN: 添加辅助平面
 zh_TW: 新增參考平面"	
-resourcePack.editor.toolRail.guidePlanes.dropdown.addPlane.tooltip	Pick a type to create a new guide plane in front of the player	"Original Translation
+resourcePack.editor.toolRail.guidePlanes.dropdown.addPlane.tooltip	Add a new guide plane by choosing which world axis it's aligned to	"Original Translation
 zh_CN: 选择类型，在玩家前方创建新的辅助平面
 zh_TW: 選擇類型，在玩家前方建立新的參考平面"	
 resourcePack.editor.toolRail.guidePlanes.dropdown.gridResolution.eightBlocks	8 blocks	"Original Translation
@@ -53880,7 +54383,7 @@ zh_TW: 16 個方塊"
 resourcePack.editor.toolRail.guidePlanes.dropdown.gridResolution.title	Grid Size	"Original Translation
 zh_CN: 网格大小
 zh_TW: 網格大小"	
-resourcePack.editor.toolRail.guidePlanes.dropdown.gridResolution.tooltip	Grid spacing used to render guide planes	"Original Translation
+resourcePack.editor.toolRail.guidePlanes.dropdown.gridResolution.tooltip	Change the visual density of the guide plane grid	"Original Translation
 zh_CN: 用于渲染引导平面的网格间距
 zh_TW: 用於算繪參考平面的網格間距"	
 resourcePack.editor.toolRail.guidePlanes.field.anchorPosition.title	Anchor Position	"Original Translation
@@ -53934,6 +54437,7 @@ zh_TW: 顯示或隱藏所有參考平面"
 resourcePack.editor.toolRail.guidePlanes.pane.title	Guide Planes	"Original Translation
 zh_CN: 引导平面
 zh_TW: 參考平面"	
+resourcePack.editor.toolRail.guidePlanes.pane.tooltip	Guide planes provide a temporary surface for other tools to work against, making it easier to place and align blocks in mid-air or voids.	Original Translation	
 resourcePack.editor.toolRail.guidePlanes.planeType.anchored	Anchored	"Original Translation
 zh_CN: 锚定
 zh_TW: 已錨定"	
@@ -57962,24 +58466,18 @@ zh_TW: 正在檢查下載"
 store.progress.dialog.title	Loading Marketplace...	"Original Translation
 zh_CN: 正在加载市场...
 zh_TW: 正在載入市集..."	
-store.progress.dialog.tooltip.1	Check Marketplace daily for new content.	"Original Translation
+store.progress.dialog.tooltip.1	Add-ons can be used in new and existing worlds.	"Original Translation
 zh_CN: 每天检查市场以获取新内容。
 zh_TW: 每日檢查市集是否有新內容。"	
-store.progress.dialog.tooltip.2	Find your previous purchases in your library.	"Original Translation
+store.progress.dialog.tooltip.2	Worlds, skins, add-ons, and texture packs change different parts of the Minecraft experience.	"Original Translation
 zh_CN: 在库中查找之前的购买。
 zh_TW: 在資料庫內尋找以前購買的產品。"	
-store.progress.dialog.tooltip.3	Check out our minecoin bundles - some come with bonus coins.	"Original Translation
+store.progress.dialog.tooltip.3	You can find all downloaded content in your library and dressing room.	"Original Translation
 zh_CN: 查看我们的 minecoin 收纳袋，有些附带奖励硬币。
 zh_TW: 快來看看我們的 minecoin 組合包：有些還附帶額外的錢幣。"	
-store.progress.dialog.tooltip.4	Rating your purchase sends feedback to our content creators.	"Original Translation
+store.progress.dialog.tooltip.4	The Marketplace is perfect for discovering Minecraft content creators!	"Original Translation
 zh_CN: 对购买进行评分会向我们的内容创作者发送反馈。
 zh_TW: 對你的購買評分會向我們的內容創作者傳送意見回饋。"	
-store.progress.dialog.tooltip.5	Add-Ons can be used on both new and existing worlds.	"Original Translation
-zh_CN: 附加内容可以在全新和现有的世界中使用。
-zh_TW: 附加內容可用於現有的和新的世界。"	
-store.progress.dialog.tooltip.6	Try out all different types of content - worlds, skins, add-ons, textures.	"Original Translation
-zh_CN: 尝试所有不同类型的内容——世界、皮肤、附加内容、材质。
-zh_TW: 嘗試所有不同類型的內容：世界、外觀、附加內容、材質。"	
 store.progress.fetchingProducts	Getting products	"Original Translation
 zh_CN: 正在获取产品
 zh_TW: 正在取得產品"	
@@ -58187,7 +58685,7 @@ zh_TW: 畫面照片"
 store.resource.try	Try it out!	"Original Translation
 zh_CN: 来试试吧！
 zh_TW: 試用一下！"	
-store.resourcePack.activateTexturePack	Activate Texture Pack!	"Original Translation
+store.resourcePack.activateTexturePack	Activate Pack!	"Original Translation
 zh_CN: 激活材质包！
 zh_TW: 啟用材質套件！"	
 store.resourcePack.leaveWorldToActivate	Exit world to apply	"Original Translation
@@ -60222,6 +60720,7 @@ zh_TW: 霜噬死亡"
 subtitles.entity.frostbite.hurt	Frostbite hurts	"Original Translation
 zh_CN: 极寒之噬受伤
 zh_TW: 霜噬受傷"	
+subtitles.entity.frostbite.shoot	Frostbite throws	Original Translation	
 subtitles.entity.generic.big_fall	Something fell	"Original Translation
 zh_CN: 有东西掉落了
 zh_TW: 有東西倒下了"	
@@ -61149,6 +61648,7 @@ zh_TW: 雪人死亡"
 subtitles.entity.snow_golem.hurt	Snow Golem hurts	"Original Translation
 zh_CN: 雪傀儡受伤
 zh_TW: 雪人受傷"	
+subtitles.entity.snow_golem.shoot	Snow Golem throws	Original Translation	
 subtitles.entity.snowball.throw	Snowball flies	"Original Translation
 zh_CN: 雪球飞行
 zh_TW: 雪球飛過"	
@@ -67060,39 +67560,30 @@ zh_TW: 你對新功能有什麼好點子嗎？請到我們的回饋網站 feedba
 tips.previewapp.5	Did you know you can talk to our developers on discord.gg/Minecraft?	"Original Translation
 zh_CN: 您知道您可以在 discord.gg/Minecraft 上与我们的开发人员交谈吗？
 zh_TW: 你知道嗎？你可以在 discord.gg/Minecraft 與我們的開發人員討論。"	
-tips.realms.1	Take a screenshot using the In-Game menu.	"Original Translation
+tips.realms.1	A Realm stays online, so friends can play even when its owner is away.	"Original Translation
 zh_CN: 使用游戏内菜单进行截图。
 zh_TW: 使用遊戲內選單拍下螢幕擷取畫面。"	
-tips.realms.10	The Realm render distance can be adjusted in the Realm Hub.	"Original Translation
-zh_CN: 可在 Realm 中心中调整 Realm 的渲染距离。
-zh_TW: 可以在 Realm 中心調整 Realm 渲染距離。"	
-tips.realms.11	Realms Plus owners get access to new Marketplace Pass content every month!	"Original Translation
-zh_CN: Realms Plus 所有者每月可体验新的 Marketplace Pass 内容！
-zh_TW: Realms Plus 擁有者每個月都能存取新的 Marketplace Pass 內容！"	
-tips.realms.2	A Realm is always online, so you and your friends can play here whenever you want.	"Original Translation
+tips.realms.2	Use the story feed in Realms hub to share special moments in your joint world.	"Original Translation
 zh_CN: 有一个 Realm 始终在线，所以你和你的好友可以随时在这里游玩。
 zh_TW: Realm 會隨時保持上線狀態，因此您與好友隨時都能在這裡遊玩。"	
-tips.realms.3	Keep up to date with what's going on in your Realm by checking the Story Feed in Realms Hub.	"Original Translation
+tips.realms.3	Check the timeline to see when friends have been active in the Realm.	"Original Translation
 zh_CN: 在 Realms 中心查看故事动态，及时了解你的 Realm 中发生的事情。
 zh_TW: 透過查看 Realms 中心的動態消息，隨時掌握 Realm 中發生的最新動態。"	
-tips.realms.4	Share your great moments with the other players on this Realm by adding a story to the Story Feed.	"Original Translation
+tips.realms.4	Realm owners can give trusted members admin permissions.	"Original Translation
 zh_CN: 在故事动态中添加故事，与该 Realm 的其他玩家分享你的精彩时刻。
 zh_TW: 將動態加入動態消息，與此 Realm 上的其他玩家分享您的精彩時刻。"	
-tips.realms.5	Check the Timeline in the Realms Hub to find out when others are playing.	"Original Translation
+tips.realms.5	The Realms hub is a great way to check progress and organize playtime!	"Original Translation
 zh_CN: 查看 Realms 中心中的时间线，了解其他玩家在何时进行游戏。
 zh_TW: 查看 Realms 中心的時間軸，了解其他人遊玩的時間。"	
-tips.realms.6	Access the Realms Hub from the game menu while playing on the Realm.	"Original Translation
+tips.realms.6	Access Realms Stories from the game menu while playing on the Realm.	"Original Translation
 zh_CN: 在 Realm 上游玩时，从游戏菜单访问 Realms 中心。
 zh_TW: 在 Realm 上遊玩時，可從遊戲選單存取 Realms 中心。"	
-tips.realms.7	Get to know your Realm's community on the Members tab in the Realms Hub.	"Original Translation
+tips.realms.7	Get to know your Realm's community on the Members tab in Realms Stories.	"Original Translation
 zh_CN: 在 Realms 中心中的“成员”选项卡中了解你的 Realm 社区。
 zh_TW: 在 Realms 中心的「成員」分頁上認識您的 Realm 社群。"	
-tips.realms.8	Use Realms Hub to get social, keep up with your friends' progress, and organize playtime.	"Original Translation
+tips.realms.8	Use Realms Stories to get social, keep up with your friends' progress, and organize playtime.	"Original Translation
 zh_CN: 使用 Realms 中心进行社交活动，了解好友进度，并安排游玩时间。
 zh_TW: 使用 Realms 中心進行社交、掌握好友進度，並安排遊玩時間。"	
-tips.realms.9	Realm owners can give trusted members Administrator permissions by editing their role.	"Original Translation
-zh_CN: Realm 所有者可通过编辑受信任成员的角色，授予其管理员权限。
-zh_TW: Realm 擁有者可以透過編輯角色，將管理員權限給予信任的成員。"	
 title.oldgl1	Old graphics card detected; this may prevent you from	"Original Translation
 zh_CN: 检测到旧式显卡；由于需要OpenGL 2.0，
 zh_TW: 偵測到舊版顯示卡；在未來需要"	
