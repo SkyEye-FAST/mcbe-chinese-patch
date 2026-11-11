@@ -1999,7 +1999,7 @@ zh_CN: 积雪山坡
 zh_TW: 白雪山坡"	""
 "biome.soulsand_valley.name"	"Soulsand Valley"	"Original Translation
 zh_CN: 灵魂沙峡谷
-zh_TW: 靈魂沙谷"	""
+zh_TW: 靈魂沙谷"	"魂沙谷"
 "biome.stone_beach.name"	"Stone Beach"	"Original Translation
 zh_CN: 石滩
 zh_TW: 石灘"	""
@@ -11475,7 +11475,7 @@ zh_CN: 弹射物保护
 zh_TW: 防彈"	"禦彈"
 "enchantment.soul_speed"	"Soul Speed"	"Original Translation
 zh_CN: 灵魂疾行
-zh_TW: 靈魂疾走"	"靈逸"
+zh_TW: 靈魂疾走"	"魂逸"
 "enchantment.swift_sneak"	"Swift Sneak"	"Original Translation
 zh_CN: 迅捷潜行
 zh_TW: 神速潛行"	"迅伏"
@@ -15749,7 +15749,7 @@ zh_CN: Minecraft Education 功能
 zh_TW: Minecraft Education 功能"	"教育版藝能"
 "hbui.CreateNewWorld.cheats.entitiesDropLootDescription"	"Non-mob entities, like paintings, drop items when destroyed"	"Original Translation
 zh_CN: 非生物实体，如图画，在被摧毁时会掉落物品
-zh_TW: 非生物實體 (例如圖畫) 在被摧毀時會掉落物品"	"擇礦車（並其所貯）、置具匡、舟之遺物"
+zh_TW: 非生物實體 (例如圖畫) 在被摧毀時會掉落物品"	"擇礦車（並其所貯）、置物匡、舟之遺物"
 "hbui.CreateNewWorld.cheats.entitiesDropLootTitle"	"Entities drop loot"	"Original Translation
 zh_CN: 实体掉落战利品
 zh_TW: 實體掉落戰利品"	"遺實體之被掛"
@@ -37478,7 +37478,7 @@ zh_CN: 花盆
 zh_TW: 花盆"	"盆"
 "item.frame.name"	"Item Frame"	"Original Translation
 zh_CN: 物品展示框
-zh_TW: 物品框架"	"置具匡"
+zh_TW: 物品框架"	"置物匡"
 "item.friend_pottery_sherd.name"	"Friend Pottery Sherd"	"Original Translation
 zh_CN: 挚友纹样陶片
 zh_TW: 好友陶器碎片"	"友陶片"
@@ -37496,7 +37496,7 @@ zh_CN: 荧光浆果
 zh_TW: 發光漿果"	"爍莓"
 "item.glow_frame.name"	"Glow Item Frame"	"Original Translation
 zh_CN: 荧光物品展示框
-zh_TW: 發光物品框架"	"爍置具匡"
+zh_TW: 發光物品框架"	"爍置物匡"
 "item.glow_ink_sac.name"	"Glow Ink Sac"	"Original Translation
 zh_CN: 荧光墨囊
 zh_TW: 發光墨囊"	"爍墨膽"
@@ -38194,7 +38194,7 @@ zh_TW: 莉娜雷恩 - 創作者 (音樂盒)"	"Lena Raine - Creator （五音匣�
 "item.record_far.desc"	"C418 - far"	"Original Translation
 zh_CN: C418 - far
 zh_TW: C418 - far"	"C418 - far"
-"item.record_flurry.desc"	"Hyper Potions - Flurry"	"Original Translation"	""
+"item.record_flurry.desc"	"Hyper Potions - Flurry"	"Original Translation"	"Hyper Potions - Flurry"
 "item.record_lava_chicken.desc"	"Hyper Potions - Lava Chicken"	"Original Translation
 zh_CN: Hyper Potions - 熔岩鸡
 zh_TW: 超級藥水 - 熔岩雞"	"Hyper Potions - Lava Chicken"
@@ -41162,7 +41162,7 @@ zh_CN: %s+
 zh_TW: %s+"	""
 "menu.moreOptions"	"More options"	"Original Translation
 zh_CN: 更多选项
-zh_TW: 更多選項"	""
+zh_TW: 更多選項"	"選項餘者"
 "menu.morePartyMemberCount"	"+%s"	"Original Translation
 zh_CN: +%s
 zh_TW: +%s"	""
@@ -41252,7 +41252,7 @@ zh_CN: 游戏
 zh_TW: 遊戲"	"戲"
 "menu.playNow"	"Play now"	"Original Translation
 zh_CN: 立即游玩
-zh_TW: 開始遊戲"	""
+zh_TW: 開始遊戲"	"立戲"
 "menu.playOnRealms"	"Play on Realm"	"Original Translation
 zh_CN: 在 Realm 上探索
 zh_TW: 在 Realm 上遊玩"	"戲於領域"
@@ -41261,7 +41261,7 @@ zh_CN: 开始试玩世界
 zh_TW: 試玩"	"試玩"
 "menu.preview"	"Preview"	"Original Translation
 zh_CN: 预览版
-zh_TW: 預覽"	""
+zh_TW: 預覽"	"預覽"
 "menu.preview.tab.title"	"Preview"	"Original Translation
 zh_CN: 预览
 zh_TW: 預覽"	"預覽"
@@ -41342,7 +41342,7 @@ zh_CN: 开始
 zh_TW: 開始"	"開始"
 "menu.startPlaying"	"Start playing"	"Original Translation
 zh_CN: 开始游戏
-zh_TW: 開始遊戲"	""
+zh_TW: 開始遊戲"	"始戲"
 "menu.storage.tab.description"	"Manage worlds, world templates, resource packs, behavior packs and cached data"	"Original Translation
 zh_CN: 管理世界、世界模板、资源包、行为包和缓存数据
 zh_TW: 管理世界、世界範本、資源包、行為套件與快取資料"	"司界、典範、資囊、示囊與快取"
@@ -43876,7 +43876,7 @@ zh_CN: 全屏
 zh_TW: 全螢幕"	"全幕"
 "options.fullscreen.description"	"Minecraft, in full screen"	"Original Translation
 zh_CN: 全屏显示《Minecraft》
-zh_TW: Minecraft，全螢幕"	""
+zh_TW: Minecraft，全螢幕"	"全幕之礦藝"
 "options.gamepadcursorsensitivity"	"Controller Cursor Sensitivity"	"Original Translation
 zh_CN: 控制器光标灵敏度
 zh_TW: 控制器游標靈敏度"	"控制器游標敏度"
@@ -44077,7 +44077,7 @@ zh_CN: 邀请至 Realms Alpha？
 zh_TW: 邀請至 Realms Alpha？"	"邀請至 Realms Alpha？"
 "options.group.server"	"Server"	"Original Translation
 zh_CN: 服务器
-zh_TW: 伺服器"	""
+zh_TW: 伺服器"	"伺服器"
 "options.gui.accessibility.scaling"	"Extra Large New UI"	"Original Translation
 zh_CN: 超大的新 UI
 zh_TW: 超大型全新 UI"	"張礦幕"
@@ -44727,7 +44727,7 @@ zh_CN: 视频质量设置
 zh_TW: 視訊品質設定"	"視訊品質設定"
 "options.randomTick.reset.buttonLabel"	"Reset"	"Original Translation
 zh_CN: 重置
-zh_TW: 重設"	""
+zh_TW: 重設"	"復設"
 "options.raytracing"	"Ray Tracing"	"Original Translation
 zh_CN: 光线追踪
 zh_TW: 光線追蹤"	"光線追蹤"
@@ -45750,7 +45750,7 @@ zh_CN: Item overworked
 zh_TW: Item overworked"	""
 "oreui.gameplay.anvil.repair"	"Repair, Name & Enchant"	"Original Translation
 zh_CN: Repair, Name & Enchant
-zh_TW: Repair, Name & Enchant"	""
+zh_TW: Repair, Name & Enchant"	"修、名與淬靈"
 "pack.authors.label"	"Author: %s"	"Original Translation
 zh_CN: 作者：%s
 zh_TW: 著者：%s"	"著者：%s"
@@ -60784,19 +60784,19 @@ zh_CN: 小恶魂出现
 zh_TW: 小幽靈出現"	"魄兒現"
 "subtitles.entity.glow_item_frame.add_item"	"Glow Item Frame fills"	"Original Translation
 zh_CN: 荧光物品展示框已满
-zh_TW: 發光物品框架填滿"	"爍置具匡填"
+zh_TW: 發光物品框架填滿"	"爍置物匡填"
 "subtitles.entity.glow_item_frame.break"	"Glow Item Frame broken"	"Original Translation
 zh_CN: 荧光物品展示框已损坏
-zh_TW: 發光物品框架損壞"	"爍置具匡壞"
+zh_TW: 發光物品框架損壞"	"爍置物匡壞"
 "subtitles.entity.glow_item_frame.place"	"Glow Item Frame placed"	"Original Translation
 zh_CN: 荧光物品展示框已安置
-zh_TW: 發光物品框架已放置"	"爍置具匡置"
+zh_TW: 發光物品框架已放置"	"爍置物匡置"
 "subtitles.entity.glow_item_frame.remove_item"	"Glow Item Frame empties"	"Original Translation
 zh_CN: 荧光物品展示框已空
-zh_TW: 發光物品框架空出"	"爍置具匡清"
+zh_TW: 發光物品框架空出"	"爍置物匡清"
 "subtitles.entity.glow_item_frame.rotate_item"	"Glow Item Frame clicks"	"Original Translation
 zh_CN: 荧光物品展示框咔嗒
-zh_TW: 發光物品框架發出咔嗒聲"	"爍置具匡旋"
+zh_TW: 發光物品框架發出咔嗒聲"	"爍置物匡旋"
 "subtitles.entity.glow_squid.ambient"	"Glow Squid swims"	"Original Translation
 zh_CN: 荧光鱿鱼游泳
 zh_TW: 發光烏賊游泳"	"爍鰂游"
@@ -60974,19 +60974,19 @@ zh_CN: 物品掉落
 zh_TW: 物品撲哧一聲"	"拾物"
 "subtitles.entity.item_frame.add_item"	"Item Frame fills"	"Original Translation
 zh_CN: 物品展示框已满
-zh_TW: 物品框架填滿"	"置具匡填"
+zh_TW: 物品框架填滿"	"置物匡填"
 "subtitles.entity.item_frame.break"	"Item Frame broken"	"Original Translation
 zh_CN: 物品展示框已损坏
-zh_TW: 物品框架損壞"	"置具匡壞"
+zh_TW: 物品框架損壞"	"置物匡壞"
 "subtitles.entity.item_frame.place"	"Item Frame placed"	"Original Translation
 zh_CN: 物品展示框已安置
-zh_TW: 物品框架已放置"	"置具匡置"
+zh_TW: 物品框架已放置"	"置物匡置"
 "subtitles.entity.item_frame.remove_item"	"Item Frame empties"	"Original Translation
 zh_CN: 物品展示框已空
-zh_TW: 物品框架空出"	"置具匡清"
+zh_TW: 物品框架空出"	"置物匡清"
 "subtitles.entity.item_frame.rotate_item"	"Item Frame clicks"	"Original Translation
 zh_CN: 物品展示框咔嗒
-zh_TW: 物品框架發出咔嗒聲"	"置具匡旋"
+zh_TW: 物品框架發出咔嗒聲"	"置物匡旋"
 "subtitles.entity.leash_knot.break"	"Leash Knot broken"	"Original Translation
 zh_CN: 拴绳结已断开
 zh_TW: 拴繩結損壞"	"繯解"
@@ -62437,7 +62437,7 @@ zh_CN: 狼铠已修复
 zh_TW: 狼鎧已修復"	"狼甲繕"
 "subtitles.particle.soul_escape"	"Soul escapes"	"Original Translation
 zh_CN: 灵魂逃脱
-zh_TW: 靈魂逃逸聲"	"靈逸"
+zh_TW: 靈魂逃逸聲"	"魂逸"
 "subtitles.ui.cartography_table.take_result"	"Map drawn"	"Original Translation
 zh_CN: 地图已绘制
 zh_TW: 繪製地圖聲"	"繪圖"
@@ -63156,7 +63156,7 @@ zh_TW: 鑿刻拋光黑石"	"雕鎣墨石"
 "tile.chiseled_resin_bricks.name"	"Chiseled Resin Bricks"	"Original Translation
 zh_CN: 錾制树脂砖块
 zh_TW: 雕刻樹脂磚"	"雕樹香磚"
-"tile.chiseled_soulshale.name"	"Chiseled Soulshale"	"Original Translation"	""
+"tile.chiseled_soulshale.name"	"Chiseled Soulshale"	"Original Translation"	"雕魂石"
 "tile.chiseled_sulfur.name"	"Chiseled Sulfur"	"Original Translation
 zh_CN: 雕纹硫黄
 zh_TW: 鑿刻硫磺"	"雕硫黃"
@@ -66156,22 +66156,22 @@ zh_CN: 雪
 zh_TW: 雪"	"雪"
 "tile.soul_campfire.name"	"Soul Campfire"	"Original Translation
 zh_CN: 灵魂营火
-zh_TW: 靈魂營火"	"靈營火"
+zh_TW: 靈魂營火"	"魂營火"
 "tile.soul_fire.name"	"Soul Fire"	"Original Translation
 zh_CN: 灵魂火
-zh_TW: 靈魂火"	"靈火"
+zh_TW: 靈魂火"	"魂火"
 "tile.soul_lantern.name"	"Soul Lantern"	"Original Translation
 zh_CN: 灵魂灯
-zh_TW: 靈魂燈籠"	"靈燈"
+zh_TW: 靈魂燈籠"	"魂燈籠"
 "tile.soul_sand.name"	"Soul Sand"	"Original Translation
 zh_CN: 灵魂沙
-zh_TW: 靈魂砂"	"靈砂"
+zh_TW: 靈魂砂"	"魂砂"
 "tile.soul_soil.name"	"Soul Soil"	"Original Translation
 zh_CN: 灵魂土
-zh_TW: 靈魂土"	"靈土"
+zh_TW: 靈魂土"	"魂土"
 "tile.soul_torch.name"	"Soul Torch"	"Original Translation
 zh_CN: 灵魂火把
-zh_TW: 靈魂火把"	"靈炬"
+zh_TW: 靈魂火把"	"魂炬"
 "tile.sponge.dry.name"	"Sponge"	"Original Translation
 zh_CN: 海绵
 zh_TW: 海綿"	"海綿"

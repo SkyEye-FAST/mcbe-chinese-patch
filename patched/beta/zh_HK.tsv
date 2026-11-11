@@ -235,7 +235,7 @@ zh_CN: 提示
 zh_TW: 秘訣"	"秘訣"
 "accessibility.image.tts.title"	"Image"	"Original Translation
 zh_CN: 图像
-zh_TW: 圖像"	""
+zh_TW: 圖像"	"圖片"
 "accessibility.importing.Progress"	"Importing %s percent"	"Original Translation
 zh_CN: 正在导入 %s%
 zh_TW: 匯入中，百分之 %s"	"匯入中，百分之 %s"
@@ -280,7 +280,7 @@ zh_CN: 完成
 zh_TW: 完成"	"完成"
 "accessibility.minecoin"	"Minecoin"	"Original Translation
 zh_CN: Minecoin
-zh_TW: Minecoin"	""
+zh_TW: Minecoin"	"Minecoin"
 "accessibility.minecoins"	"Minecoins"	"Original Translation
 zh_CN: Minecoin
 zh_TW: Minecoin"	"Minecoin"
@@ -430,7 +430,7 @@ zh_CN: 弹出对话框
 zh_TW: 彈出式對話"	"彈出式對話"
 "accessibility.screenName.myServers"	"My Servers Screen"	"Original Translation
 zh_CN: 我的服务器界面
-zh_TW: 我的伺服器畫面"	""
+zh_TW: 我的伺服器畫面"	"我的伺服器畫面"
 "accessibility.screenName.myTemplates"	"My Templates Screen"	"Original Translation
 zh_CN: 我的模板屏幕
 zh_TW: 我的範本畫面"	"我的範本畫面"
@@ -715,7 +715,7 @@ zh_CN: 了解更多
 zh_TW: 深入了解"	"深入了解"
 "accounts.signOut.fail.hyperLink.uri"	"https://aka.ms/mcedu-login"	"Original Translation
 zh_CN: https://aka.ms/mcedu-login
-zh_TW: https://aka.ms/mcedu-login"	""
+zh_TW: https://aka.ms/mcedu-login"	"https://aka.ms/mcedu-login"
 "accounts.signOut.fail.title"	"Sign-out failed"	"Original Translation
 zh_CN: 注销失败
 zh_TW: 登出失敗"	"登出失敗"
@@ -1468,22 +1468,22 @@ zh_CN: 已经登录新的 iCloud 帐户。您将需要重新启动《我的世�
 zh_TW: 已登入新的 iCloud 帳戶。如要進行遊戲，您必須重新啟動 Minecraft。"	"已登入新的 iCloud 帳戶。如要進行遊戲，您必須重新啟動 Minecraft。"
 "attribute.modifier.plus.0"	"+%d %s"	"Original Translation
 zh_CN: +%d %s
-zh_TW: +%d %s"	""
+zh_TW: +%d %s"	"+%d %s"
 "attribute.modifier.plus.1"	"+%d%% %s"	"Original Translation
 zh_CN: +%d%% %s
-zh_TW: +%d%% %s"	""
+zh_TW: +%d%% %s"	"+%d%% %s"
 "attribute.modifier.plus.2"	"+%d%% %s"	"Original Translation
 zh_CN: +%d%% %s
-zh_TW: +%d%% %s"	""
+zh_TW: +%d%% %s"	"+%d%% %s"
 "attribute.modifier.take.0"	"-%d %s"	"Original Translation
 zh_CN: -%d %s
-zh_TW: -%d %s"	""
+zh_TW: -%d %s"	"-%d %s"
 "attribute.modifier.take.1"	"-%d%% %s"	"Original Translation
 zh_CN: -%d%% %s
-zh_TW: -%d%% %s"	""
+zh_TW: -%d%% %s"	"-%d%% %s"
 "attribute.modifier.take.2"	"-%d%% %s"	"Original Translation
 zh_CN: -%d%% %s
-zh_TW: -%d%% %s"	""
+zh_TW: -%d%% %s"	"-%d%% %s"
 "attribute.name.generic.armor"	"Armor"	"Original Translation
 zh_CN: 盔甲
 zh_TW: 護甲"	"護甲值"
@@ -1603,7 +1603,7 @@ zh_CN: 登录中…
 zh_TW: 正在登入…"	"正在登入…"
 "authentication.minecraftInstead"	"App Store"	"Original Translation
 zh_CN: 应用商店
-zh_TW: App Store"	""
+zh_TW: App Store"	"App Store"
 "authentication.oneTrialWarning"	"You have 1 trial of Minecraft Education remaining before your school or organization will need to purchase a license.%1%1Every time you open Minecraft Education, you will use one trial."	"Original Translation
 zh_CN: 在你的学校或组织需要购买许可证之前，你还剩 1 次试玩《Minecraft Education》的机会。%1%1每次打开《Minecraft Education》，都会消耗一次试玩机会。
 zh_TW: 你還能試用 1 次 Minecraft Education，之後你所在的學校或組織就需要購買許可證。%1%1 每次開啟 Minecraft Education，就會使用一次試用。"	"你還能試用 1 次 Minecraft Education，之後你所在的學校或組織就需要購買許可證。%1%1 每次開啟 Minecraft Education，就會使用一次試用。"
@@ -2246,7 +2246,7 @@ zh_CN: 行间距
 zh_TW: 行距"	"行距"
 "chat.settings.lineSpacingNumber"	"x%s"	"Original Translation
 zh_CN: x%s
-zh_TW: x%s"	""
+zh_TW: x%s"	"x%s"
 "chat.settings.mentions"	"My Mentions"	"Original Translation
 zh_CN: 我的选项
 zh_TW: 我的相關記錄"	"我的相關記錄"
@@ -2267,7 +2267,7 @@ zh_CN: 取消静音所有聊天
 zh_TW: 聊天全部靜音"	"聊天全部靜音"
 "chat.stream.emote"	"(%s) * %s %s"	"Original Translation
 zh_CN: (%s) * %s %s
-zh_TW: (%s) * %s %s"	""
+zh_TW: (%s) * %s %s"	"(%s) * %s %s"
 "chat.stream.text"	"(%s) <%s> %s"	"Original Translation
 zh_CN: (%s) <%s> %s
 zh_TW: (%s)<%s> %s"	"(%s)<%s> %s"
@@ -2288,16 +2288,16 @@ zh_CN: [%s: %s]
 zh_TW: [%s：%s]"	"[%s：%s]"
 "chat.type.announcement"	"[%s] %s"	"Original Translation
 zh_CN: [%s] %s
-zh_TW: [%s] %s"	""
+zh_TW: [%s] %s"	"[%s] %s"
 "chat.type.emote"	"* %s %s"	"Original Translation
 zh_CN: * %s %s
-zh_TW: * %s %s"	""
+zh_TW: * %s %s"	"* %s %s"
 "chat.type.sleeping"	"%s is sleeping in a bed. To skip to dawn, %s more players need to sleep in beds at the same time."	"Original Translation
 zh_CN: %s正在床上睡觉。要快进到黎明，还需要 %s 名玩家同时在床上睡觉。
 zh_TW: %s 正在床舖上睡覺。若要跳到天亮，還需要 %s 位玩家同時在床舖上睡覺。"	"%s 正在牀上睡覺。如果要讓遊戲時間跳到天光，還要有 %s 位玩家同時睡在牀上。"
 "chat.type.text"	"<%s> %s"	"Original Translation
 zh_CN: <%s> %s
-zh_TW: <%s> %s"	""
+zh_TW: <%s> %s"	"<%s> %s"
 "chat.type.title"	"<%s> sent %s message to <%s>: %s"	"Original Translation
 zh_CN: <%s>发送了%s消息给<%s>：%s
 zh_TW: <%s> 傳送 %s 訊息給 <%s>：%s"	"<%s> 傳送 %s 訊息給 <%s>：%s"

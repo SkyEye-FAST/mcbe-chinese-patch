@@ -2191,7 +2191,7 @@ zh_CN: 行间距
 zh_TW: 行距"	"行距"
 "chat.settings.lineSpacingNumber"	"x%s"	"Original Translation
 zh_CN: x%s
-zh_TW: x%s"	""
+zh_TW: x%s"	"x%s"
 "chat.settings.mentions"	"My Mentions"	"Original Translation
 zh_CN: 我的选项
 zh_TW: 我的相關記錄"	"我的相關記錄"
@@ -2212,7 +2212,7 @@ zh_CN: 取消静音所有聊天
 zh_TW: 聊天全部靜音"	"聊天全部靜音"
 "chat.stream.emote"	"(%s) * %s %s"	"Original Translation
 zh_CN: (%s) * %s %s
-zh_TW: (%s) * %s %s"	""
+zh_TW: (%s) * %s %s"	"(%s) * %s %s"
 "chat.stream.text"	"(%s) <%s> %s"	"Original Translation
 zh_CN: (%s) <%s> %s
 zh_TW: (%s)<%s> %s"	"(%s)<%s> %s"
@@ -2233,16 +2233,16 @@ zh_CN: [%s: %s]
 zh_TW: [%s：%s]"	"[%s：%s]"
 "chat.type.announcement"	"[%s] %s"	"Original Translation
 zh_CN: [%s] %s
-zh_TW: [%s] %s"	""
+zh_TW: [%s] %s"	"[%s] %s"
 "chat.type.emote"	"* %s %s"	"Original Translation
 zh_CN: * %s %s
-zh_TW: * %s %s"	""
+zh_TW: * %s %s"	"* %s %s"
 "chat.type.sleeping"	"%s is sleeping in a bed. To skip to dawn, %s more players need to sleep in beds at the same time."	"Original Translation
 zh_CN: %s正在床上睡觉。要快进到黎明，还需要 %s 名玩家同时在床上睡觉。
 zh_TW: %s 正在床舖上睡覺。若要跳到天亮，還需要 %s 位玩家同時在床舖上睡覺。"	"%s 正在床舖上睡覺。如果要讓遊戲時間跳至日出，還要有 %s 位使用者同時睡在床舖上。"
 "chat.type.text"	"<%s> %s"	"Original Translation
 zh_CN: <%s> %s
-zh_TW: <%s> %s"	""
+zh_TW: <%s> %s"	"<%s> %s"
 "chat.type.title"	"<%s> sent %s message to <%s>: %s"	"Original Translation
 zh_CN: <%s>发送了%s消息给<%s>：%s
 zh_TW: <%s> 傳送 %s 訊息給 <%s>：%s"	"<%s> 傳送 %s 訊息給 <%s>：%s"
@@ -2371,19 +2371,19 @@ zh_CN: 向右移动
 zh_TW: 往右"	"往右"
 "codeScreen.deprecatedIDE.button.close"	"Close"	"Original Translation
 zh_CN: 关闭
-zh_TW: 關閉"	""
+zh_TW: 關閉"	"關閉"
 "codeScreen.deprecatedIDE.button.learnMore"	"Learn more"	"Original Translation
 zh_CN: 了解更多
-zh_TW: 深入了解"	""
+zh_TW: 深入了解"	"瞭解更多"
 "codeScreen.filePicker.csvFile"	"CSV File"	"Original Translation
 zh_CN: CSV 文件
-zh_TW: CSV 檔案"	""
+zh_TW: CSV 檔案"	"CSV 檔案"
 "codeScreen.filePicker.title"	"Browse for a file"	"Original Translation
 zh_CN: 浏览文件
-zh_TW: 瀏覽檔案"	""
+zh_TW: 瀏覽檔案"	"瀏覽檔案"
 "codeScreen.filePicker.txtFile"	"Text File"	"Original Translation
 zh_CN: 文本文件
-zh_TW: 文字檔案"	""
+zh_TW: 文字檔案"	"文字檔案"
 "codeScreen.memoryError"	"Error in editor process, check if your device has enough memory."	"Original Translation
 zh_CN: 编辑器进程出错，请检查您的设备是否有足够的内存。
 zh_TW: 使用編輯工具時發生錯誤，請檢查您的裝置是否有足夠的記憶體。"	"使用編輯工具時發生錯誤，請檢查您的裝置是否有足夠的記憶體。"
@@ -2398,7 +2398,7 @@ zh_CN: 代码编辑器
 zh_TW: 程式碼生成器"	"程式碼生成器"
 "codeScreen.tynkerDeprecated.body1"	"Tynker projects are no longer supported in Minecraft Education."	"Original Translation
 zh_CN: Minecraft Education 不再支持 Tynker 项目。
-zh_TW: Minecraft Education 已不再支援 Tynker 專案。"	""
+zh_TW: Minecraft Education 已不再支援 Tynker 專案。"	"Minecraft Education 已不再支援 Tynker 專案。"
 "color.aqua"	"Aqua"	"Original Translation
 zh_CN: 水绿色
 zh_TW: 水藍色"	"水藍色"
@@ -2458,7 +2458,7 @@ zh_CN: 命令方块
 zh_TW: 指令方塊"	"指令方塊"
 "commandBlock.shortName"	"@"	"Original Translation
 zh_CN: @
-zh_TW: @"	""
+zh_TW: @"	"@"
 "commandBlockScreen.blockType"	"Block Type:"	"Original Translation
 zh_CN: 方块类型：
 zh_TW: 方塊類型："	"指令方塊類型："
@@ -2482,13 +2482,13 @@ zh_CN: 无条件
 zh_TW: 無條件"	"無條件"
 "commandBlockScreen.displayOutputMode"	"O"	"Original Translation
 zh_CN: O
-zh_TW: O"	""
+zh_TW: O"	"O"
 "commandBlockScreen.executeFirstTick"	"Execute on First Tick"	"Original Translation
 zh_CN: 执行第一个已选项
 zh_TW: 於第一個刻度執行"	"於第一個刻度執行"
 "commandBlockScreen.hideOutputMode"	"X"	"Original Translation
 zh_CN: X
-zh_TW: X"	""
+zh_TW: X"	"X"
 "commandBlockScreen.hoverNote"	"Hover Note"	"Original Translation
 zh_CN: 悬停说明
 zh_TW: 暫留註解"	"暫留註解"
@@ -2893,7 +2893,7 @@ zh_CN: 不支持缓动到非固定相机
 zh_TW: 不支援非固定鏡頭的加/減速"	"不支援非固定鏡頭的加/減速"
 "commands.camera.invalid.entity.offset"	"Entity offset must be between -64 and 64"	"Original Translation
 zh_CN: 实体偏移量必须介于 -64 和 64 之间
-zh_TW: 實體偏移必須介於-64 和 64 間"	""
+zh_TW: 實體偏移必須介於-64 和 64 間"	"實體偏移必須介於-64 和 64 間"
 "commands.camera.invalid.offset.camera"	"Entity and view offset can only be applied to the follow_orbit camera"	"Original Translation
 zh_CN: 实体和视角偏移仅适用于跟随_轨道摄像头
 zh_TW: 實體和檢視偏移只能套用至軌道跟隨鏡頭"	""
@@ -3154,7 +3154,7 @@ zh_CN: 将游戏难度设置为 %1$s
 zh_TW: 已將遊戲難度設為 %1$s"	"已將難度設為 %1$s"
 "commands.difficulty.usage"	"/difficulty <new difficulty>"	"Original Translation
 zh_CN: /difficulty <new difficulty>
-zh_TW: /difficulty <new difficulty>"	""
+zh_TW: /difficulty <new difficulty>"	"/difficulty <new difficulty>"
 "commands.downfall.success"	"Toggled downfall"	"Original Translation
 zh_CN: 天气已切换
 zh_TW: 已切換天氣"	"已切換天氣"
@@ -3163,22 +3163,22 @@ zh_CN: 管理编辑器允许列表。
 zh_TW: 管理編輯器允許清單。"	"管理編輯器允許清單。"
 "commands.editor.project.beginExport"	"Exporting..."	"Original Translation
 zh_CN: 正在导出...
-zh_TW: 正在匯出..."	""
+zh_TW: 正在匯出..."	"正在匯出..."
 "commands.editor.project.description"	"Manipulate the currently loaded project"	"Original Translation
 zh_CN: 操作当前加载的项目
-zh_TW: 操作當前載入的專案"	""
+zh_TW: 操作當前載入的專案"	"操作當前已載入的專案"
 "commands.editor.project.export"	"project export"	"Original Translation
 zh_CN: 项目导出
-zh_TW: 專案匯出"	""
+zh_TW: 專案匯出"	"專案匯出"
 "commands.editor.project.exportComplete"	"Export complete, files written to %s"	"Original Translation
 zh_CN: 导出完成，文件写入 %s
-zh_TW: 匯出完成，檔案已寫入 %s"	""
+zh_TW: 匯出完成，檔案已寫入 %s"	"匯出完成，檔案已寫入 %s"
 "commands.editor.project.exportCopyFailed"	"Failed to copy level data %s"	"Original Translation
 zh_CN: 无法复制关卡数据 %s
-zh_TW: 無法複製等級資料 %s"	""
+zh_TW: 無法複製等級資料 %s"	"無法複製存檔資料 %s"
 "commands.editor.project.unknownSubcommand"	"Unknown Subcommand"	"Original Translation
 zh_CN: 未知子命令
-zh_TW: 未知子命令"	""
+zh_TW: 未知子命令"	"未知子命令"
 "commands.educlientinfo.description"	"Get tenant ID and host status. Intended for CM."	"Original Translation
 zh_CN: 获取租户 ID 和主机状态。供 CM 使用。
 zh_TW: 取得用戶 ID 和主機狀態。此適用於 CM。"	"取得用戶 ID 和主機狀態。此適用於 CM。"
@@ -3274,7 +3274,7 @@ zh_CN: 执行子命令 %1$s %2$s 测试失败。
 zh_TW: 執行子命令 %1$s %2$s 測試失敗。"	"執行子命令 %1$s %2$s 測試失敗。"
 "commands.execute.falseConditionWithCount"	"Execute subcommand %1$s %2$s test failed, count: %3$s."	"Original Translation
 zh_CN: Execute subcommand %1$s %2$s test failed, count: %3$s.
-zh_TW: Execute subcommand %1$s %2$s test failed, count: %3$s."	""
+zh_TW: Execute subcommand %1$s %2$s test failed, count: %3$s."	"執行子指令 %1$s %2$s 測試失敗，總計：%3$s。"
 "commands.execute.ifUnlessBlocks.tooManyBlocks"	"Checking too many blocks. Max block count: %1$s. Current block count: %2$s."	"Original Translation
 zh_CN: 检查的方块过多。最大方块计数：%1$s。当前方块计数：%2$s。
 zh_TW: 檢查的方塊過多。最大方塊計數：%1$s。目前方塊計數：%2$s。"	"檢查的方塊過多。最大方塊計數：%1$s。目前方塊計數：%2$s。"
@@ -3481,7 +3481,7 @@ zh_CN: 需要加密的会话
 zh_TW: 需要加密單元"	"需要加密單元"
 "commands.generic.entity.differentDimension"	"Target entity cannot be in a different dimension"	"Original Translation
 zh_CN: 目标实体不能位于其他维度
-zh_TW: 目標實體不能位於不同次元"	""
+zh_TW: 目標實體不能位於不同次元"	"目標實體不能處於不同維度"
 "commands.generic.entity.invalidType"	"Entity type '%1$s' is invalid"	"Original Translation
 zh_CN: 实体类型 '%1$s' 是无效的
 zh_TW: 實體類型 '%1$s' 無效"	"實體類型 '%1$s' 無效"
@@ -3493,7 +3493,7 @@ zh_CN: 无法找到此实体
 zh_TW: 找不到該實體"	"找不到該實體"
 "commands.generic.error.permissions"	"Incorrect permission level for command: %s."	"Original Translation
 zh_CN: 命令权限级别错误：%s。
-zh_TW: 指令的權限等級不正確：%s。"	""
+zh_TW: 指令的權限等級不正確：%s。"	"指令的權限等級不正確：%s。"
 "commands.generic.exception"	"An unknown error occurred while attempting to perform this command"	"Original Translation
 zh_CN: 在执行此指令时出现了未知的错误
 zh_TW: 嘗試執行此指令時發生未知錯誤"	"嘗試執行此指令時發生未知錯誤"
@@ -3721,31 +3721,31 @@ zh_CN: 禁用
 zh_TW: 已停用"	"已停用"
 "commands.inputpermission.dismount"	"Dismount"	"Original Translation
 zh_CN: 跳下
-zh_TW: 跳下"	""
+zh_TW: 跳下"	"取消乘坐"
 "commands.inputpermission.enabled"	"enabled"	"Original Translation
 zh_CN: 启用
 zh_TW: 已啟用"	"已啟用"
 "commands.inputpermission.jump"	"Jump"	"Original Translation
 zh_CN: 跳跃
-zh_TW: 跳躍"	""
+zh_TW: 跳躍"	"跳躍"
 "commands.inputpermission.lateral_movement"	"Lateral Movement"	"Original Translation
 zh_CN: 横向移动
-zh_TW: 橫向移動"	""
+zh_TW: 橫向移動"	"橫向移動"
 "commands.inputpermission.mount"	"Mount"	"Original Translation
 zh_CN: 骑乘
-zh_TW: 騎上"	""
+zh_TW: 騎上"	"騎乘"
 "commands.inputpermission.move_backward"	"Move Backward"	"Original Translation
 zh_CN: 向后移动
-zh_TW: 向後移動"	""
+zh_TW: 向後移動"	"向後移動"
 "commands.inputpermission.move_forward"	"Move Forward"	"Original Translation
 zh_CN: 向前移动
-zh_TW: 往前移動"	""
+zh_TW: 往前移動"	"往前移動"
 "commands.inputpermission.move_left"	"Move Left"	"Original Translation
 zh_CN: 向左移动
-zh_TW: 往左移動"	""
+zh_TW: 往左移動"	"往左移動"
 "commands.inputpermission.move_right"	"Move Right"	"Original Translation
 zh_CN: 向右移动
-zh_TW: 往右移動"	""
+zh_TW: 往右移動"	"往右移動"
 "commands.inputpermission.movement"	"Movement"	"Original Translation
 zh_CN: 移动
 zh_TW: 移動"	"移動"
@@ -3772,7 +3772,7 @@ zh_CN: %s 输入 %s：%s
 zh_TW: %s 的 %s 輸入 %s"	"%s 的 %s 輸入 %s"
 "commands.inputpermission.sneak"	"Sneak"	"Original Translation
 zh_CN: 潜行
-zh_TW: 潛行"	""
+zh_TW: 潛行"	"潛行"
 "commands.itemswithtag.description"	"Lists all items with the given tag."	"Original Translation
 zh_CN: 列出具有给定标记的所有项目。
 zh_TW: 列出所有含此標籤的物品。"	"列出所有含此標籤的物品。"
@@ -4000,16 +4000,16 @@ zh_CN: 命令方块
 zh_TW: 指令方塊"	"指令方塊"
 "commands.origin.devconsole"	"DevConsole"	"Original Translation
 zh_CN: DevConsole
-zh_TW: DevConsole"	""
+zh_TW: DevConsole"	"DevConsole"
 "commands.origin.external"	"External"	"Original Translation
 zh_CN: 外部
 zh_TW: 外部"	"外部"
 "commands.origin.script"	"Script Engine"	"Original Translation
 zh_CN: 脚本引擎
-zh_TW: Script Engine"	""
+zh_TW: Script Engine"	"腳本引擎"
 "commands.origin.scriptDebugger"	"Script Debugger"	"Original Translation
 zh_CN: 脚本调试器
-zh_TW: 指令碼偵錯工具"	""
+zh_TW: 指令碼偵錯工具"	"指令碼偵錯工具"
 "commands.origin.server"	"Server"	"Original Translation
 zh_CN: 服务器
 zh_TW: 伺服器"	"伺服器"
@@ -4087,7 +4087,7 @@ zh_CN: 目前有 %1$d/%2$d 个玩家在线：
 zh_TW: 共有 %1$d/%2$d 玩家在線上："	"共有 %1$d/%2$d 玩家在線上："
 "commands.players.list.names"	"%s"	"Original Translation
 zh_CN: %s
-zh_TW: %s"	""
+zh_TW: %s"	"%s"
 "commands.playsound.description"	"Plays a sound."	"Original Translation
 zh_CN: 播放声音。
 zh_TW: 播放音效。"	"播放音效。"
@@ -4303,10 +4303,10 @@ zh_CN: 在聊天框中向其他玩家发送信息。
 zh_TW: 在聊天中傳訊息給其他玩家。"	"在聊天中傳訊息給其他玩家。"
 "commands.schedule.clear.failure"	"No functions were removed with the name %1$s."	"Original Translation
 zh_CN: 没有移除名为 %1$s 的函数。
-zh_TW: 並未移除名稱為 %1$s 的函數。"	""
+zh_TW: 並未移除名稱為 %1$s 的函數。"	"移除失敗，沒有名稱為 %1$s 的函數。"
 "commands.schedule.clear.success"	"Removed %1$d functions with the name %2$s."	"Original Translation
 zh_CN: 已移除名为 %2$s 的 %1$d 函数。
-zh_TW: 已移除名稱為 %2$s 的 %1$d 函數。"	""
+zh_TW: 已移除名稱為 %2$s 的 %1$d 函數。"	"已移除名稱為 %2$s 的 %1$d 函數。"
 "commands.schedule.delay.functionQueued"	"Scheduled function %1$s in %2$d ticks at gametime %3$d."	"Original Translation
 zh_CN: 在游戏时间为 %3$d 的一瞬间，在 %2$d 执行函数 %1$s。
 zh_TW: 在遊戲時間 %3$d 排定了 %2$d 個刻度後執行函數 %1$s。"	"%2$d 中的預定功能 %1$s 在遊戲時間 %3$d 計時。"
@@ -4330,10 +4330,10 @@ zh_CN: 常加载区域名称不能为空。
 zh_TW: 自動刷新區域名稱不能為空白。"	"自動刷新區域名稱不能為空白。"
 "commands.schedule.tickingarea.clear.failure"	"No functions were removed with the ticking area name %1$s."	"Original Translation
 zh_CN: 没有移除常加载区域名为 %1$s 的函数。
-zh_TW: 未移除自動刷新區域名稱為 %1$s 的函數。"	""
+zh_TW: 未移除自動刷新區域名稱為 %1$s 的函數。"	"移除失敗，沒有名稱為 %1$s 的自動刷新區域的函數。"
 "commands.schedule.tickingarea.clear.success"	"Removed %1$d functions with the ticking area name %2$s."	"Original Translation
 zh_CN: 已移除常加载区域名为 %2$s 的 %1$d 函数。
-zh_TW: 已移除自動刷新區域名稱為 %2$s 的 %1$d 函數。"	""
+zh_TW: 已移除自動刷新區域名稱為 %2$s 的 %1$d 函數。"	"已移除自動刷新區域名稱為 %2$s 的 %1$d 函數。"
 "commands.schedule.tickingarea.func.clear.failure"	"No functions were removed with the ticking area name %1$s and with name %2$s."	"Original Translation
 zh_CN: 没有移除常加载区域名为 %1$s 和名为 %2$s 的函数。
 zh_TW: 未移除自動刷新區域名稱為 %1$s 且名稱為 %2$s 的函數。"	""
