@@ -337,7 +337,7 @@ zh_CN: 你的设备上默认启用了屏幕阅读器支持。
 zh_TW: 根據預設，螢幕閱讀器在您的裝置為已經啟用。"	"根據預設，螢幕閱讀器在您的裝置為已經啟用。"
 "accessibility.popup.message.line1"	"Welcome to Minecraft!"	"Original Translation
 zh_CN: 欢迎来到《我的世界》！
-zh_TW: 歡迎來到《Minecraft》！"	"歡迎來到《Minecraft》！"
+zh_TW: 歡迎來到《Minecraft》！"	"歡迎來到 Minecraft！"
 "accessibility.popup.message.line3"	"Would you like to turn this off?"	"Original Translation
 zh_CN: 您想将它关掉吗？
 zh_TW: 您是否要將此關閉？"	"您是否要將此關閉？"
@@ -1630,7 +1630,7 @@ zh_CN: 确认购买
 zh_TW: 確認購買"	"確認購買"
 "authentication.store.intro"	"Your trial of Minecraft Education is complete. To continue playing Minecraft Education, you will need to purchase a license."	"Original Translation
 zh_CN: 您的 Minecraft Education 试用机会已用完。您需要购买许可，才能继续使用 Minecraft Education。
-zh_TW: 您的《Minecraft Education》已試用完畢。若要繼續玩《Minecraft Education》，您必須購買授權。"	"您的《Minecraft Education》已試用完畢。若要繼續玩《Minecraft Education》，您必須購買授權。"
+zh_TW: 您的《Minecraft Education》已試用完畢。若要繼續玩《Minecraft Education》，您必須購買授權。"	"您的 Minecraft Education 已試用完畢。若要繼續玩 Minecraft Education，您必須購買授權。"
 "authentication.store.popup.purchaseFailed.msg"	"Sorry, we were unable to complete your purchase. Maybe check your internet connection?"	"Original Translation
 zh_CN: 抱歉，无法完成购买。请检查网络连接？
 zh_TW: 抱歉，我們無法為您完成購買程序，能否請您確認目前的網際網路連線狀態？"	"抱歉，我們無法為您完成購買程序，能否請您確認目前的網際網路連線狀態？"
@@ -1645,7 +1645,7 @@ zh_CN: 付款会在确认购买后向你的 iTunes 账户收取，并且除非�
 zh_TW: 款項於你確認購買時自你的 iTunes 帳戶計收，除非於距離當期結束至少 24 小時前關閉自動續約，否則將自動續訂。當期結束前 24 小時內會依你之前選取的訂閱服務價格選項，自你的帳戶收取續訂費用。"	"款項於您確認購買時自您的 iTunes 帳號計收，除非於距離當期結束至少 24 小時前關閉自動續約，否則將自動續訂。當期結束前 24 小時內會依您先前所選取的訂用價格選項，自您的帳號收取續訂費用。"
 "authentication.store.purchase.info2"	"You can manage your subscription and turn off auto-renewal by accessing your iTunes Account settings after purchase. If you cancel after your subscription has activated, you won't be refunded for the remaining active period of the subscription. Your iTunes account will be linked to your O365 Education Account for this subscription, so you will not be eligible to purchase additional Minecraft Education licenses with this iTunes account."	"Original Translation
 zh_CN: 购买之后您可以访问 iTunes 账户，管理您的订阅，关闭自动更新。如果您在订阅激活后取消，订阅剩余有效期间将不予退款。此订阅会让您的 iTunes 账户将与您的 Office 365 教育版账户关联，因此您将失去资格，无法使用此 iTunes 账户购买额外的 Minecraft Education 许可。
-zh_TW: 購買後，您可以存取自己的 iTunes 帳戶設定以管理自己的訂閱和關閉自動續訂功能。如果您在訂閱啟用後取消，您將無法獲得剩餘訂閱有效期的退款。您的 iTunes 帳戶將於此訂閱中與您的 O365 教育版帳戶連結，因此您不符合使用此 iTunes 帳戶購買額外《Minecraft Education》授權的資格。"	"購買後，您可以存取自己的 iTunes 帳號設定以管理自己的訂閱和關閉自動續訂功能。如果您在訂閱啟用後取消，您將無法獲得剩餘訂閱有效期的退款。您的 iTunes 帳號將於此訂閱中與您的 O365 教育版帳號連結，因此您不符合使用此 iTunes 帳號購買額外《Minecraft Education》授權的資格。"
+zh_TW: 購買後，您可以存取自己的 iTunes 帳戶設定以管理自己的訂閱和關閉自動續訂功能。如果您在訂閱啟用後取消，您將無法獲得剩餘訂閱有效期的退款。您的 iTunes 帳戶將於此訂閱中與您的 O365 教育版帳戶連結，因此您不符合使用此 iTunes 帳戶購買額外《Minecraft Education》授權的資格。"	"購買後，您可以存取自己的 iTunes 帳號設定以管理自己的訂閱和關閉自動續訂功能。如果您在訂閱啟用後取消，您將無法獲得剩餘訂閱有效期的退款。您的 iTunes 帳號將於此訂閱中與您的 O365 教育版帳號連結，因此您不符合使用此 iTunes 帳號購買額外 Minecraft Education 授權的資格。"
 "authentication.store.terms"	"Terms of Use"	"Original Translation
 zh_CN: 使用条款
 zh_TW: 使用規定"	"使用規定"
@@ -7129,7 +7129,7 @@ zh_CN: 剩余 %s
 zh_TW: 剩餘 %s"	"剩餘 %s"
 "date.time_zone_utc"	"UTC"	"Original Translation
 zh_CN: UTC
-zh_TW: UTC"	""
+zh_TW: UTC"	"UTC"
 "dayOneExperience.carousel.cross_platform"	"Cross-platform play lets you connect with players on different platforms. Sign in to your Microsoft account to play with all your Minecraft friends!"	"Original Translation
 zh_CN: 跨平台游戏能够让您与不同平台上的玩家连系在一起。登录至您的 Microsoft 账号，与您所有的 Minecraft 好友一起玩！
 zh_TW: 跨平台遊戲可讓你與其他平台的玩家連線玩遊戲。登入你的 Microsoft 帳戶以與你所有 Minecraft 好友一起玩遊戲！"	"跨平台遊戲可讓您與其他平台的玩家連線玩遊戲。登入您的 Microsoft 帳號以與您所有 Minecraft 好友一起玩遊戲！"
@@ -7141,10 +7141,10 @@ zh_CN: Realms 即由我们专为你和你的好友运行的服务器。它能够
 zh_TW: Realms 是我們專為你與好友運作的伺服器。即使你已經離線，你的 Minecraft 世界也仍會保持連線，而且隨時可用。"	"Realm 是我們專為您與好友運作的伺服器。即使您已經離線，您的 Minecraft 世界也仍會保持連線，而且隨時可用。"
 "dayOneExperience.carousel.title"	"Welcome to New Minecraft!"	"Original Translation
 zh_CN: 欢迎来到全新的《我的世界》！
-zh_TW: 歡迎來到 New Minecraft！"	"歡迎來到 New Minecraft！"
+zh_TW: 歡迎來到 New Minecraft！"	"歡迎來到全新的 Minecraft！"
 "dayOneExperience.carousel.villager"	"New Minecraft is the only place to receive future updates containing new features, mobs, items, blocks and much more!"	"Original Translation
 zh_CN: 只有在新的《我的世界》中，您才能够接收未来包含了新的功能、生物、物品、方块等内容的更新！
-zh_TW: 只有在 New Minecraft 的未來更新中，會包含全新功能、生物、物品、方塊和其他更多內容！"	"只有在 New Minecraft 的未來更新中，會包含全新功能、生物、物品、方塊和其他更多內容！"
+zh_TW: 只有在 New Minecraft 的未來更新中，會包含全新功能、生物、物品、方塊和其他更多內容！"	"只有在新的 Minecraft 的未來更新中，會包含全新功能、生物、物品、方塊和其他更多內容！"
 "dayOneExperience.carousel.welcome_text"	"There's a lot of exciting new stuff in this new version of Minecraft! Check out the Marketplace, create a Realm, and play online with Cross-Platform friends!"	"Original Translation
 zh_CN: 新版本的《我的世界》中有很多令人兴奋的新内容！查看市场，创建一个 Realm，并与跨平台好友一起在线玩！
 zh_TW: 本次 Minecraft 的新版本中有許多令人興奮期待的新內容。請查看市集、建立 Realm，並在線上與跨平台的好友們一起遊玩！"	"本次 Minecraft 的新版本中有許多令人興奮期待的新內容。請查看市集、建立 Realm，並在線上與跨平台的好友們一起遊玩！"
@@ -7210,7 +7210,7 @@ zh_CN: 市场
 zh_TW: 市集"	"市集"
 "dayOneExperience.tab.realms"	"Realms"	"Original Translation
 zh_CN: Realms
-zh_TW: Realms"	""
+zh_TW: Realms"	"Realms"
 "dayOneExperience.tab.villager"	"More Content"	"Original Translation
 zh_CN: 更多内容
 zh_TW: 更多內容"	"更多內容"
@@ -7564,7 +7564,7 @@ zh_CN: 数据流终止
 zh_TW: 數據傳送終止"	"數據傳送終止"
 "disconnect.genericReason"	"%s"	"Original Translation
 zh_CN: %s
-zh_TW: %s"	""
+zh_TW: %s"	"%s"
 "disconnect.kicked"	"You were kicked from the game"	"Original Translation
 zh_CN: 您已被踢出游戏
 zh_TW: 您已被踢出遊戲"	"您已被踢出遊戲"
@@ -8293,7 +8293,7 @@ zh_CN: 开始
 zh_TW: 開始"	"開始"
 "dr.classic_skins.addition_skin_count"	"+%s"	"Original Translation
 zh_CN: +%s
-zh_TW: +%s"	""
+zh_TW: +%s"	"+%s"
 "dr.classic_skins.choose_custom_skin"	"Choose New Skin"	"Original Translation
 zh_CN: 选择新皮肤
 zh_TW: 選擇新外觀"	"選擇新外觀"
@@ -8326,10 +8326,10 @@ zh_CN: 获取更多
 zh_TW: 取得更多內容"	"取得更多內容"
 "dr.classic_skins.realms_plus"	"Realms Plus"	"Original Translation
 zh_CN: Realms Plus
-zh_TW: Realms Plus"	""
+zh_TW: Realms Plus"	"Realms Plus"
 "dr.classic_skins.realms_plus_button"	"Realms Plus"	"Original Translation
 zh_CN: Realms Plus
-zh_TW: Realms Plus"	""
+zh_TW: Realms Plus"	"Realms Plus"
 "dr.classic_skins.right_side.author_minecraft"	"by Minecraft"	"Original Translation
 zh_CN: 《我的世界》出品
 zh_TW: 由 Minecraft 提供"	"由 Minecraft 提供"
@@ -8338,7 +8338,7 @@ zh_CN: 作者：%s
 zh_TW: 作者：%s"	"作者：%s"
 "dr.classic_skins.right_side.custom_skin"	"Custom Skin"	"Original Translation
 zh_CN: 自定义皮肤
-zh_TW: 自訂外觀"	""
+zh_TW: 自訂外觀"	"自訂外觀"
 "dr.classic_skins.right_side.featured_title"	"Featured & Recommended Skin Packs"	"Original Translation
 zh_CN: 特色与推荐皮肤包
 zh_TW: 精選和推薦外觀套件"	"精選和推薦外觀套件"
@@ -8788,7 +8788,7 @@ zh_CN: 预览外观
 zh_TW: 預覽外觀"	"預覽外觀"
 "dr.header.search.home"	"Dressing Room Search"	"Original Translation
 zh_CN: 更衣室搜索
-zh_TW: 更衣室搜尋"	""
+zh_TW: 更衣室搜尋"	"更衣室搜尋"
 "dr.iris_color"	"Iris"	"Original Translation
 zh_CN: 虹膜
 zh_TW: 虹膜"	"虹膜"
@@ -8935,7 +8935,7 @@ zh_CN: 右腿
 zh_TW: 右腿"	"右腿"
 "dr.right_side.category_title"	"%s"	"Original Translation
 zh_CN: %s
-zh_TW: %s"	""
+zh_TW: %s"	"%s"
 "dr.sclera_color"	"Sclera"	"Original Translation
 zh_CN: 巩膜
 zh_TW: 鞏膜"	"鞏膜"
@@ -8986,7 +8986,7 @@ zh_CN: 太阳米氏散射的强度。
 zh_TW: 太陽米氏散射的強度。"	""
 "editor.agfx.color.alpha"	"Alpha"	"Original Translation
 zh_CN: Alpha
-zh_TW: Alpha"	""
+zh_TW: Alpha"	"透明度"
 "editor.agfx.color.blue"	"Blue"	"Original Translation
 zh_CN: 蓝色
 zh_TW: 藍色"	""
@@ -10447,7 +10447,7 @@ zh_CN: 新
 zh_TW: 新"	"新"
 "edu.play_screen.servers"	"SERVERS"	"Original Translation
 zh_CN: 服务器
-zh_TW: 伺服器"	""
+zh_TW: 伺服器"	"伺服器"
 "edu.play_screen.traditional"	"TRADITIONAL"	"Original Translation
 zh_CN: 传统
 zh_TW: 傳統"	"傳統"
@@ -10732,7 +10732,7 @@ zh_CN: 黑暗
 zh_TW: 黑暗"	"黑暗"
 "effect.duration.infinite"	"∞"	"Original Translation
 zh_CN: ∞
-zh_TW: ∞"	""
+zh_TW: ∞"	"∞"
 "effect.freezing"	"Freezing"	"Original Translation
 zh_CN: 霜冻
 zh_TW: 霜凍"	"冰凍"
@@ -10852,34 +10852,34 @@ zh_CN: 击退
 zh_TW: 擊退"	"擊退"
 "enchantment.level.1"	"I"	"Original Translation
 zh_CN: I
-zh_TW: I"	""
+zh_TW: I"	"I"
 "enchantment.level.10"	"X"	"Original Translation
 zh_CN: X
-zh_TW: X"	""
+zh_TW: X"	"X"
 "enchantment.level.2"	"II"	"Original Translation
 zh_CN: II
-zh_TW: II"	""
+zh_TW: II"	"II"
 "enchantment.level.3"	"III"	"Original Translation
 zh_CN: III
-zh_TW: III"	""
+zh_TW: III"	"III"
 "enchantment.level.4"	"IV"	"Original Translation
 zh_CN: IV
-zh_TW: IV"	""
+zh_TW: IV"	"IV"
 "enchantment.level.5"	"V"	"Original Translation
 zh_CN: V
-zh_TW: V"	""
+zh_TW: V"	"V"
 "enchantment.level.6"	"VI"	"Original Translation
 zh_CN: VI
-zh_TW: VI"	""
+zh_TW: VI"	"VI"
 "enchantment.level.7"	"VII"	"Original Translation
 zh_CN: VII
-zh_TW: VII"	""
+zh_TW: VII"	"VII"
 "enchantment.level.8"	"VIII"	"Original Translation
 zh_CN: VIII
-zh_TW: VIII"	""
+zh_TW: VIII"	"VIII"
 "enchantment.level.9"	"IX"	"Original Translation
 zh_CN: IX
-zh_TW: IX"	""
+zh_TW: IX"	"IX"
 "enchantment.lootBonus"	"Looting"	"Original Translation
 zh_CN: 抢夺
 zh_TW: 掠奪"	"掠奪"
@@ -12805,10 +12805,10 @@ zh_CN: 红石
 zh_TW: 紅石"	"紅石"
 "hbui.Achievements.category.release.2015"	"2015"	"Original Translation
 zh_CN: 2015
-zh_TW: 2015"	""
+zh_TW: 2015"	"2015"
 "hbui.Achievements.category.release.2016"	"2016"	"Original Translation
 zh_CN: 2016
-zh_TW: 2016"	""
+zh_TW: 2016"	"2016"
 "hbui.Achievements.category.release.buzzybees"	"Buzzy Bees, 2019"	"Original Translation
 zh_CN: 嗡嗡蜂群，2019
 zh_TW: 2019 年嗡嗡蜜蜂"	"2019 年嗡嗡蜜蜂"
@@ -15913,7 +15913,7 @@ zh_CN: 激活错误
 zh_TW: 啟用錯誤"	"啟用錯誤"
 "hbui.CreateNewWorld.resourcePacks.errorFileAccessBody"	"Minecraft cannot access where the pack is located."	"Original Translation
 zh_CN: 《我的世界》无法访问包的位置。
-zh_TW: 《Minecraft》無法存取套件位置。"	"《Minecraft》無法存取套件位置。"
+zh_TW: 《Minecraft》無法存取套件位置。"	"Minecraft 無法存取套件位置。"
 "hbui.CreateNewWorld.resourcePacks.errorFileAccessTitle"	"Could not access pack"	"Original Translation
 zh_CN: 无法访问包
 zh_TW: 無法存取套件"	"無法存取套件"
@@ -15937,7 +15937,7 @@ zh_CN: 光线追踪支持
 zh_TW: 光線追蹤支援"	"光線追蹤支援"
 "hbui.CreateNewWorld.resourcePacks.errorIncompatibleVersionHighBody"	"The pack version is higher than your game version. Updating Minecraft might solve the issue."	"Original Translation
 zh_CN: 此包版本高于当前的游戏版本。若要解决该问题，您可尝试更新《我的世界》。
-zh_TW: 套件版本高於您的遊戲版本。更新《Minecraft》或許可以解決問題。"	"套件版本高於您的遊戲版本。更新《Minecraft》或許可以解決問題。"
+zh_TW: 套件版本高於您的遊戲版本。更新《Minecraft》或許可以解決問題。"	"套件版本高於您的遊戲版本。更新 Minecraft 或許可以解決問題。"
 "hbui.CreateNewWorld.resourcePacks.errorIncompatibleVersionLowBody"	"The version of this pack is lower than the version of your game."	"Original Translation
 zh_CN: 此包版本低于当前的游戏版本。
 zh_TW: 此套件的版本低於您的遊戲版本。"	"此套件的版本低於您的遊戲版本。"
@@ -18826,7 +18826,7 @@ zh_CN: 登录失败
 zh_TW: 登入失敗"	"登入失敗"
 "hbui.FirstTimeSignInRoute.signInHeader"	"Welcome to Minecraft!"	"Original Translation
 zh_CN: 欢迎来到《我的世界》！
-zh_TW: 歡迎來到《Minecraft》！"	"歡迎來到《Minecraft》！"
+zh_TW: 歡迎來到《Minecraft》！"	"歡迎來到 Minecraft！"
 "hbui.FirstTimeSignInRoute.signInList1"	"Unlock achievements and track your progress"	"Original Translation
 zh_CN: 解锁成就并跟踪进度
 zh_TW: 解鎖成就並追蹤進度"	"解鎖成就並追蹤進度"
@@ -28716,7 +28716,7 @@ zh_CN: 立即登录
 zh_TW: 立即登入"	"立即登入"
 "hbui.SignInWorldsFriendsServersRoute.signInHeader"	"Welcome to Minecraft!"	"Original Translation
 zh_CN: 欢迎来到《我的世界》！
-zh_TW: 歡迎來到《Minecraft》！"	"歡迎來到《Minecraft》！"
+zh_TW: 歡迎來到《Minecraft》！"	"歡迎來到 Minecraft！"
 "hbui.SignInWorldsFriendsServersRoute.signInList1"	"Unlock achievements and track your progress"	"Original Translation
 zh_CN: 解锁成就并跟踪进度
 zh_TW: 解鎖成就並追蹤進度"	"解鎖成就並追蹤進度"
@@ -32988,7 +32988,7 @@ zh_CN: 世界建造者
 zh_TW: 創世者"	"創世者"
 "howtoplay.worldBuilder.text.1"	"To place or use certain Minecraft Education blocks or items, a player must possess a special ability called 'World Builder'."	"Original Translation
 zh_CN: 若要放置或使用特定的 Minecraft Education 方块或物品，用户必须拥有一种名为“World Builder”的特殊能力。
-zh_TW: 若要放置或使用特定《Minecraft Education》方塊或物品，玩家必須有稱為「創世者」的特殊能力。"	"若要放置或使用特定《Minecraft Education》方塊或物品，玩家必須有稱為「創世者」的特殊能力。"
+zh_TW: 若要放置或使用特定《Minecraft Education》方塊或物品，玩家必須有稱為「創世者」的特殊能力。"	"若要放置或使用特定 Minecraft Education 方塊或物品，玩家必須有稱為「創世者」的特殊能力。"
 "howtoplay.worldBuilder.text.2"	"With cheats activated, the host can enable or disable the World Builder ability for any players in the world."	"Original Translation
 zh_CN: 启用作弊后，主机可启用或禁用这个世界中任何玩家的世界建造者能力。
 zh_TW: 啟用作弊後，主持人可以啟用或停用世界中任何玩家的「創世者」能力。"	"啟用作弊後，主持人可以啟用或停用世界中任何玩家的「創世者」能力。"
@@ -33357,7 +33357,7 @@ zh_CN: 第 %1 页，共 %2 页
 zh_TW: 第 %1 頁，共 %2 頁"	"第 %1 頁，共 %2 頁"
 "immersive_reader.error.identity_failure"	"There was a problem connecting to Immersive Reader. Please restart Minecraft Education and try again."	"Original Translation
 zh_CN: 连接到沉浸式阅读器时出现了问题。请重启 Minecraft Education 并重试。
-zh_TW: 連接至沈浸式閱讀程式時發生問題。請重新啟動《Minecraft Education》並再試一次。"	"連接至沈浸式閱讀程式時發生問題。請重新啟動《Minecraft Education》並再試一次。"
+zh_TW: 連接至沈浸式閱讀程式時發生問題。請重新啟動《Minecraft Education》並再試一次。"	"連接至沈浸式閱讀程式時發生問題。請重新啟動 Minecraft Education 並再試一次。"
 "immersive_reader.error.webview_failure"	"There was a problem connecting to Immersive Reader."	"Original Translation
 zh_CN: 连接到沉浸式阅读器时出现了问题。
 zh_TW: 連接至沈浸式閱讀程式時發生問題。"	"連接至沈浸式閱讀程式時發生問題。"
@@ -33387,7 +33387,7 @@ zh_CN: 清除选择
 zh_TW: 清除選擇"	"清除選擇"
 "invite.confirmation.description"	"%s has invited you to play Minecraft"	"Original Translation
 zh_CN: %s 邀请您玩《我的世界》
-zh_TW: %s 已邀請您玩《Minecraft》"	"%s 已邀請您玩《Minecraft》"
+zh_TW: %s 已邀請您玩《Minecraft》"	"%s 已邀請您玩 Minecraft"
 "invite.error.message"	"Some of your invites may have failed to send."	"Original Translation
 zh_CN: 你的部分邀请函可能发送失败。
 zh_TW: 您可能有一些邀請傳送失敗。"	"您可能有一些邀請傳送失敗。"
@@ -33411,7 +33411,7 @@ zh_CN: 双击屏幕顶部的邀请以接受
 zh_TW: 點選螢幕上方的邀請兩次以接受"	""
 "invite.notification.description"	"%s has invited you to play Minecraft"	"Original Translation
 zh_CN: %s 邀请您玩 Minecraft
-zh_TW: %s 已邀請您玩《Minecraft》"	"%s 已邀請您玩《Minecraft》"
+zh_TW: %s 已邀請您玩《Minecraft》"	"%s 已邀請您玩 Minecraft"
 "invite.notification.title"	"Game Invite"	"Original Translation
 zh_CN: 游戏邀请
 zh_TW: 遊戲邀請"	"遊戲邀請"
@@ -45813,7 +45813,7 @@ zh_CN: 你尚未成为任何 Realms 的成员。
 zh_TW: 你尚未成為任何 Realms 的成員。"	"您尚未成為任何Realms的成員。"
 "playscreen.noLegacyWorldsFound.body"	"No worlds from other versions of Minecraft detected."	"Original Translation
 zh_CN: 未发现来自其他版本的《我的世界》的世界。
-zh_TW: 沒有偵測到《Minecraft》其他版本的世界。"	"沒有偵測到《Minecraft》其他版本的世界。"
+zh_TW: 沒有偵測到《Minecraft》其他版本的世界。"	"沒有偵測到 Minecraft 其他版本的世界。"
 "playscreen.noLegacyWorldsFound.title"	"No Worlds Found"	"Original Translation
 zh_CN: 未找到世界
 zh_TW: 找不到世界"	"找不到世界"
@@ -56349,10 +56349,10 @@ zh_CN: 未列出的世界
 zh_TW: 未列出的世界"	""
 "storageSpaceWarningScreen.frontend"	"You are almost out of data storage space! Minecraft has restricted access to this feature until you clear up additional storage space."	"Original Translation
 zh_CN: 您的存储空间即将不足！《我的世界》已限制您访问该功能，直至您清理出额外的存储空间为止。
-zh_TW: 您的資料儲存空間即將用罄！《Minecraft》已限制此功能的存取，直到您清出額外的儲存空間為止。"	"您的資料儲存空間即將用罄！《Minecraft》已限制此功能的存取，直到您清出額外的儲存空間為止。"
+zh_TW: 您的資料儲存空間即將用罄！《Minecraft》已限制此功能的存取，直到您清出額外的儲存空間為止。"	"您的資料儲存空間即將用罄！Minecraft 已限制此功能的存取，直到您清出額外的儲存空間為止。"
 "storageSpaceWarningScreen.fullduringgameplay"	"You are out of data storage space and Minecraft is unable to save your progress! Minecraft will return you to the Main Menu to clear up storage space."	"Original Translation
 zh_CN: 您的存储空间不足，《我的世界》无法保存您的进度！ 《我的世界》 将帮助您回到主菜单，以清理出额外的存储空间。
-zh_TW: 您的資料儲存空間即將用罄！《Minecraft》無法儲存您的進度！《Minecraft》將讓您返回主選單以清出儲存空間。"	"您的資料儲存空間即將用罄！《Minecraft》無法儲存您的進度！《Minecraft》將讓您返回主選單以清出儲存空間。"
+zh_TW: 您的資料儲存空間即將用罄！《Minecraft》無法儲存您的進度！《Minecraft》將讓您返回主選單以清出儲存空間。"	"您的資料儲存空間即將用罄！Minecraft 無法儲存您的進度！Minecraft 將讓您返回主選單以清出儲存空間。"
 "storageSpaceWarningScreen.lowduringgameplay"	"Your device is almost out of the space that Minecraft can use to save worlds and settings on this device. Why not delete some old stuff you don't need so that you can keep saving new stuff?"	"Original Translation
 zh_CN: 您的设备空间不足，Minecraft 无法在此设备上存储世界和设置。为什么不删除一些您不需要的旧东西，便于您保存新内容？
 zh_TW: 你的裝置上幾乎沒有可供 Minecraft 保存世界和設定的空間了。不如刪除一些不需要的舊東西，繼續儲存新的內容？"	"你的裝置上幾乎沒有可供 Minecraft 保存世界和設定的空間了。不如刪除一些不需要的舊東西，繼續儲存新的內容？"
@@ -67143,7 +67143,7 @@ zh_CN: 更新到最新版本，以访问所有的新功能、与好友在线玩�
 zh_TW: 請更新至最新版本以存取所有新功能、在線上與好友一起玩遊戲，或查看市集中有哪些新商品。"	"請更新至最新版本以存取所有新功能、在線上與好友一起玩遊戲，或查看市集中有哪些新商品。"
 "updateScreen.commerceNotSupported.body"	"This version of Minecraft can no longer access Minecraft Marketplace. Update to the latest version to restore Marketplace access."	"Original Translation
 zh_CN: 该版本的《我的世界》无法再访问《我的世界》市场。更新至最新版本以恢复市场访问。
-zh_TW: 此《Minecraft》版本已無法再存取 Minecraft 市集。請更新至最新版本以還原市集的存取。"	"此《Minecraft》版本已無法再存取 Minecraft 市集。請更新至最新版本以還原市集的存取。"
+zh_TW: 此《Minecraft》版本已無法再存取 Minecraft 市集。請更新至最新版本以還原市集的存取。"	"此 Minecraft 版本已無法再存取 Minecraft 市集。請更新至最新版本以還原市集的存取。"
 "updateScreen.commerceNotSupported.title"	"Can't Access Marketplace"	"Original Translation
 zh_CN: 无法访问市场
 zh_TW: 無法存取市集"	"無法存取市集"
@@ -67584,7 +67584,7 @@ zh_CN: 开始玩游戏吧！
 zh_TW: 開始玩吧！"	"開始玩吧！"
 "xbox.signin.message"	"Sign in with your Free Microsoft account to experience the full world of Minecraft."	"Original Translation
 zh_CN: 用您的免费 Microsoft 账号登录，体验 Minecraft 的完整世界。
-zh_TW: 使用你的免費 Microsoft 帳戶登入，體驗完整的 Minecraft 世界。"	"使用您的免費 Microsoft 帳號登入，體驗完整的《Minecraft》世界。"
+zh_TW: 使用你的免費 Microsoft 帳戶登入，體驗完整的 Minecraft 世界。"	"使用您的免費 Microsoft 帳號登入，體驗完整的 Minecraft 世界。"
 "xbox.signin.newaccount.info"	"Your friends and their friends can see if you're online. your game clips, and your recent apps and games. You can change these on Xbox.com."	"Original Translation
 zh_CN: 您的好友以及他们的好友可以看见您是否在线、您的游戏剪辑以及您最近使用过的应用程序和玩过的游戏。您可以在 Xbox.com 中更改这些权限。
 zh_TW: 您的好友和他們的好友可以查看您是否在線上、您的遊戲精彩片段，以及您最近使用過的應用程式和玩過的遊戲。您可以前往 Xbox.com 變更這些選項。"	"您的好友和他們的好友可以查看您是否在線上、您的遊戲精彩片段，以及您最近使用過的應用程式和玩過的遊戲。您可以前往 Xbox.com 變更這些選項。"

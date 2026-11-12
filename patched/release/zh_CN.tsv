@@ -8293,7 +8293,7 @@ zh_CN: 开始
 zh_TW: 開始"	"开始"
 "dr.classic_skins.addition_skin_count"	"+%s"	"Original Translation
 zh_CN: +%s
-zh_TW: +%s"	""
+zh_TW: +%s"	"+%s"
 "dr.classic_skins.choose_custom_skin"	"Choose New Skin"	"Original Translation
 zh_CN: 选择新皮肤
 zh_TW: 選擇新外觀"	"选择新皮肤"
@@ -17392,7 +17392,7 @@ zh_CN: 顶部
 zh_TW: 頁首"	"顶部"
 "hbui.EditorInput.keyName.ALT"	"ALT"	"Original Translation
 zh_CN: ALT
-zh_TW: ALT"	""
+zh_TW: ALT"	"ALT"
 "hbui.EditorInput.keyName.BACKSPACE"	"BACKSPACE"	"Original Translation
 zh_CN: BACK SPACE
 zh_TW: 退格鍵"	"Backspace"
@@ -17416,7 +17416,7 @@ zh_CN: 逗号
 zh_TW: 逗號"	"逗号"
 "hbui.EditorInput.keyName.CTRL"	"CTRL"	"Original Translation
 zh_CN: CTRL
-zh_TW: CTRL 鍵"	""
+zh_TW: CTRL 鍵"	"CTRL"
 "hbui.EditorInput.keyName.DELETE"	"DELETE"	"Original Translation
 zh_CN: 删除
 zh_TW: DELETE 鍵"	"Delete"
@@ -17434,40 +17434,40 @@ zh_CN: ESC
 zh_TW: ESCAPE 鍵"	"Esc"
 "hbui.EditorInput.keyName.F1"	"F1"	"Original Translation
 zh_CN: F1
-zh_TW: F1"	""
+zh_TW: F1"	"F1"
 "hbui.EditorInput.keyName.F10"	"F10"	"Original Translation
 zh_CN: F10
-zh_TW: F10"	""
+zh_TW: F10"	"F10"
 "hbui.EditorInput.keyName.F11"	"F11"	"Original Translation
 zh_CN: F11
-zh_TW: F11"	""
+zh_TW: F11"	"F11"
 "hbui.EditorInput.keyName.F12"	"F12"	"Original Translation
 zh_CN: F12
-zh_TW: F12"	""
+zh_TW: F12"	"F12"
 "hbui.EditorInput.keyName.F2"	"F2"	"Original Translation
 zh_CN: F2
-zh_TW: F2"	""
+zh_TW: F2"	"F2"
 "hbui.EditorInput.keyName.F3"	"F3"	"Original Translation
 zh_CN: F3
-zh_TW: F3"	""
+zh_TW: F3"	"F3"
 "hbui.EditorInput.keyName.F4"	"F4"	"Original Translation
 zh_CN: F4
-zh_TW: F4"	""
+zh_TW: F4"	"F4"
 "hbui.EditorInput.keyName.F5"	"F5"	"Original Translation
 zh_CN: F5
-zh_TW: F5"	""
+zh_TW: F5"	"F5"
 "hbui.EditorInput.keyName.F6"	"F6"	"Original Translation
 zh_CN: F6
-zh_TW: F6"	""
+zh_TW: F6"	"F6"
 "hbui.EditorInput.keyName.F7"	"F7"	"Original Translation
 zh_CN: F7
-zh_TW: F7"	""
+zh_TW: F7"	"F7"
 "hbui.EditorInput.keyName.F8"	"F8"	"Original Translation
 zh_CN: F8
-zh_TW: F8"	""
+zh_TW: F8"	"F8"
 "hbui.EditorInput.keyName.F9"	"F9"	"Original Translation
 zh_CN: F9
-zh_TW: F9"	""
+zh_TW: F9"	"F9"
 "hbui.EditorInput.keyName.HOME"	"HOME"	"Original Translation
 zh_CN: HOME
 zh_TW: HOME 鍵"	"Home"
@@ -17476,112 +17476,112 @@ zh_CN: INSERT
 zh_TW: INSERT 鍵"	"Insert"
 "hbui.EditorInput.keyName.KEY_0"	"0"	"Original Translation
 zh_CN: 0
-zh_TW: 0"	""
+zh_TW: 0"	"0"
 "hbui.EditorInput.keyName.KEY_1"	"1"	"Original Translation
 zh_CN: 1
-zh_TW: 1"	""
+zh_TW: 1"	"1"
 "hbui.EditorInput.keyName.KEY_2"	"2"	"Original Translation
 zh_CN: 2
-zh_TW: 2"	""
+zh_TW: 2"	"2"
 "hbui.EditorInput.keyName.KEY_3"	"3"	"Original Translation
 zh_CN: 3
-zh_TW: 3"	""
+zh_TW: 3"	"3"
 "hbui.EditorInput.keyName.KEY_4"	"4"	"Original Translation
 zh_CN: 4
-zh_TW: 4"	""
+zh_TW: 4"	"4"
 "hbui.EditorInput.keyName.KEY_5"	"5"	"Original Translation
 zh_CN: 5
-zh_TW: 5"	""
+zh_TW: 5"	"5"
 "hbui.EditorInput.keyName.KEY_6"	"6"	"Original Translation
 zh_CN: 6
-zh_TW: 6"	""
+zh_TW: 6"	"6"
 "hbui.EditorInput.keyName.KEY_7"	"7"	"Original Translation
 zh_CN: 7
-zh_TW: 7"	""
+zh_TW: 7"	"7"
 "hbui.EditorInput.keyName.KEY_8"	"8"	"Original Translation
 zh_CN: 8
-zh_TW: 8"	""
+zh_TW: 8"	"8"
 "hbui.EditorInput.keyName.KEY_9"	"9"	"Original Translation
 zh_CN: 9
-zh_TW: 9"	""
+zh_TW: 9"	"9"
 "hbui.EditorInput.keyName.KEY_A"	"A"	"Original Translation
 zh_CN: A
-zh_TW: A"	""
+zh_TW: A"	"A"
 "hbui.EditorInput.keyName.KEY_B"	"B"	"Original Translation
 zh_CN: B
-zh_TW: B"	""
+zh_TW: B"	"B"
 "hbui.EditorInput.keyName.KEY_C"	"C"	"Original Translation
 zh_CN: C
-zh_TW: C"	""
+zh_TW: C"	"C"
 "hbui.EditorInput.keyName.KEY_D"	"D"	"Original Translation
 zh_CN: D
-zh_TW: D"	""
+zh_TW: D"	"D"
 "hbui.EditorInput.keyName.KEY_E"	"E"	"Original Translation
 zh_CN: E
-zh_TW: E"	""
+zh_TW: E"	"E"
 "hbui.EditorInput.keyName.KEY_F"	"F"	"Original Translation
 zh_CN: F
-zh_TW: F"	""
+zh_TW: F"	"F"
 "hbui.EditorInput.keyName.KEY_G"	"G"	"Original Translation
 zh_CN: G
-zh_TW: G"	""
+zh_TW: G"	"G"
 "hbui.EditorInput.keyName.KEY_H"	"H"	"Original Translation
 zh_CN: H
-zh_TW: H"	""
+zh_TW: H"	"H"
 "hbui.EditorInput.keyName.KEY_I"	"I"	"Original Translation
 zh_CN: I
-zh_TW: I"	""
+zh_TW: I"	"I"
 "hbui.EditorInput.keyName.KEY_J"	"J"	"Original Translation
 zh_CN: J
-zh_TW: J"	""
+zh_TW: J"	"J"
 "hbui.EditorInput.keyName.KEY_K"	"K"	"Original Translation
 zh_CN: K
-zh_TW: K"	""
+zh_TW: K"	"K"
 "hbui.EditorInput.keyName.KEY_L"	"L"	"Original Translation
 zh_CN: L
-zh_TW: L"	""
+zh_TW: L"	"L"
 "hbui.EditorInput.keyName.KEY_M"	"M"	"Original Translation
 zh_CN: M
-zh_TW: M"	""
+zh_TW: M"	"M"
 "hbui.EditorInput.keyName.KEY_N"	"N"	"Original Translation
 zh_CN: N
-zh_TW: N"	""
+zh_TW: N"	"N"
 "hbui.EditorInput.keyName.KEY_O"	"O"	"Original Translation
 zh_CN: O
-zh_TW: O"	""
+zh_TW: O"	"O"
 "hbui.EditorInput.keyName.KEY_P"	"P"	"Original Translation
 zh_CN: P
-zh_TW: P"	""
+zh_TW: P"	"P"
 "hbui.EditorInput.keyName.KEY_Q"	"Q"	"Original Translation
 zh_CN: Q
-zh_TW: Q"	""
+zh_TW: Q"	"Q"
 "hbui.EditorInput.keyName.KEY_R"	"R"	"Original Translation
 zh_CN: R
-zh_TW: R"	""
+zh_TW: R"	"R"
 "hbui.EditorInput.keyName.KEY_S"	"S"	"Original Translation
 zh_CN: S
-zh_TW: S"	""
+zh_TW: S"	"S"
 "hbui.EditorInput.keyName.KEY_T"	"T"	"Original Translation
 zh_CN: T
-zh_TW: T"	""
+zh_TW: T"	"T"
 "hbui.EditorInput.keyName.KEY_U"	"U"	"Original Translation
 zh_CN: U
-zh_TW: U"	""
+zh_TW: U"	"U"
 "hbui.EditorInput.keyName.KEY_V"	"V"	"Original Translation
 zh_CN: V
-zh_TW: V"	""
+zh_TW: V"	"V"
 "hbui.EditorInput.keyName.KEY_W"	"W"	"Original Translation
 zh_CN: W
-zh_TW: W"	""
+zh_TW: W"	"W"
 "hbui.EditorInput.keyName.KEY_X"	"X"	"Original Translation
 zh_CN: X
-zh_TW: X"	""
+zh_TW: X"	"X"
 "hbui.EditorInput.keyName.KEY_Y"	"Y"	"Original Translation
 zh_CN: Y
-zh_TW: Y"	""
+zh_TW: Y"	"Y"
 "hbui.EditorInput.keyName.KEY_Z"	"Z"	"Original Translation
 zh_CN: Z
-zh_TW: Z"	""
+zh_TW: Z"	"Z"
 "hbui.EditorInput.keyName.LEFT"	"LEFT"	"Original Translation
 zh_CN: 左
 zh_TW: 向左鍵"	"左"
@@ -18118,7 +18118,7 @@ zh_CN: 小
 zh_TW: 小"	"小"
 "hbui.EditorStructurePanel.actionBarSortOptionAtoz"	"A-z"	"Original Translation
 zh_CN: A-z
-zh_TW: A-z"	""
+zh_TW: A-z"	"A-z"
 "hbui.EditorStructurePanel.actionBarSortOptionBySource"	"By Source"	"Original Translation
 zh_CN: 按来源
 zh_TW: 依來源"	"按源分组"
@@ -18127,7 +18127,7 @@ zh_CN: 按标记
 zh_TW: 依標籤"	"按标签分组"
 "hbui.EditorStructurePanel.actionBarSortOptionZtoa"	"Z-a"	"Original Translation
 zh_CN: Z-a
-zh_TW: Z-a"	""
+zh_TW: Z-a"	"Z-a"
 "hbui.EditorStructurePanel.addTagStatusMessage"	"<%1$s> already exist"	"Original Translation
 zh_CN: <%1$s> 已经存在
 zh_TW: <%1$s> 已存在"	"<%1$s>已存在"
@@ -18664,7 +18664,7 @@ zh_CN: 查看控件的详细目录：
 zh_TW: 查看控制的詳細目錄："	"查看控件的详细目录："
 "hbui.EditorWelcomeDemo.toolSectionText7"	"aka.ms/EditorHowADO"	"Original Translation
 zh_CN: aka.ms/EditorHowADO
-zh_TW: aka.ms/EditorHowADO"	""
+zh_TW: aka.ms/EditorHowADO"	"aka.ms/EditorHowADO"
 "hbui.EditorWelcomeDemo.toolSectionTitle"	"Controls"	"Original Translation
 zh_CN: 控制
 zh_TW: 控制"	"控制"
@@ -19360,7 +19360,7 @@ zh_CN: Realms 邀请
 zh_TW: Realms 邀請"	"Realm邀请"
 "hbui.InboxMessageDetailsRoute.realms"	"Realms"	"Original Translation
 zh_CN: Realms
-zh_TW: Realms"	""
+zh_TW: Realms"	"Realms"
 "hbui.InboxMessageDetailsRoute.realmsInvitationRejectedMessage"	"You rejected the invite from %1$s to a Realm named %2$s."	"Original Translation
 zh_CN: 你拒绝了 %1$s 请你加入 %2$s Realm 的邀请。
 zh_TW: 您拒絕了 %1$s 提出的 Realm「%2$s」加入邀請。"	"你已拒绝%1$s的Realm邀请。"
@@ -19495,7 +19495,7 @@ zh_CN: 了解更多
 zh_TW: 深入了解"	"了解更多"
 "hbui.InboxRoute.marketplacepass"	"Marketplace Pass"	"Original Translation
 zh_CN: Marketplace Pass
-zh_TW: Marketplace Pass"	""
+zh_TW: Marketplace Pass"	"Marketplace Pass"
 "hbui.InboxRoute.messagingServiceFailure"	"Failed to connect to inbox"	"Original Translation
 zh_CN: 无法连接到收件箱
 zh_TW: 無法連接至收件匣"	"连接到收件箱失败"
@@ -19516,7 +19516,7 @@ zh_CN: 已购买
 zh_TW: 已購買"	"已购买"
 "hbui.InboxRoute.realms"	"Realms"	"Original Translation
 zh_CN: Realms
-zh_TW: Realms"	""
+zh_TW: Realms"	"Realms"
 "hbui.InboxRoute.reject"	"Reject"	"Original Translation
 zh_CN: 拒绝
 zh_TW: 拒絕"	"拒绝"
@@ -20314,7 +20314,7 @@ zh_CN: 模态
 zh_TW: 模組"	"模态框"
 "hbui.Modal.progressPercentage"	"%1$s%"	"Original Translation
 zh_CN: %1$s%
-zh_TW: %1$s%"	""
+zh_TW: %1$s%"	"%1$s%"
 "hbui.Modal.select"	"Select"	"Original Translation
 zh_CN: 选择
 zh_TW: 選取"	"选择"
@@ -20923,7 +20923,7 @@ zh_CN: 第 %1$s 页，共 %2$s %3$s 页
 zh_TW: 第 %1$s 頁/共 %2$s 頁 %3$s"	"第%1$s页/共%2$s页 %3$s"
 "hbui.Pagination.indexCounter"	"%1$s / %2$s"	"Original Translation
 zh_CN: %1$s/%2$s
-zh_TW: %1$s / %2$s"	""
+zh_TW: %1$s / %2$s"	"%1$s / %2$s"
 "hbui.Pagination.next"	"Next to, %1$s of %2$s"	"Original Translation
 zh_CN: 下一页是 %1$s，共 %2$s 页
 zh_TW: 下一頁，%1$s /%2$s"	"下一页，第%1$s页/共%2$s页"
@@ -21700,7 +21700,7 @@ zh_CN: 在“设置”中可以找到较旧版本 Minecraft 中的世界。
 zh_TW: 您可以在設定中找到 Minecraft 零售版的世界。"	"在设置中可以找到旧版本的Minecraft世界。"
 "hbui.PlayScreen.realms"	"Realms"	"Original Translation
 zh_CN: Realms
-zh_TW: Realms"	""
+zh_TW: Realms"	"Realms"
 "hbui.PlayScreen.realmsTab.addMembers"	"Add Members"	"Original Translation
 zh_CN: 添加成员
 zh_TW: 新增成員"	"添加成员"
@@ -22159,7 +22159,7 @@ zh_CN: 服务器名称
 zh_TW: 伺服器名稱"	"服务器名称"
 "hbui.PlayScreen.serverTab.externalServerDetails.placeholder"	"XX.XXX.XXX.XXX"	"Original Translation
 zh_CN: XX.XXX.XXX.XXX
-zh_TW: XX.XXX.XXX.XXX"	""
+zh_TW: XX.XXX.XXX.XXX"	"XX.XXX.XXX.XXX"
 "hbui.PlayScreen.serverTab.externalServerDetails.port"	"Server port"	"Original Translation
 zh_CN: 服务器端口
 zh_TW: 伺服器埠"	"服务器端口"
@@ -23626,7 +23626,7 @@ zh_CN: 关联账户
 zh_TW: 連結帳戶"	"已关联的账户"
 "hbui.ProfileRoute.listItemFractionValue"	"%1$s/%2$s"	"Original Translation
 zh_CN: %1$s/%2$s
-zh_TW: %1$s/%2$s"	""
+zh_TW: %1$s/%2$s"	"%1$s/%2$s"
 "hbui.ProfileRoute.loadErrorMessage"	"We encountered an unknown error, please try again."	"Original Translation
 zh_CN: 我们遇到了一个未知错误，请重试。
 zh_TW: 發生未知的錯誤，請再試一次。"	"我们遇到了未知错误，请重试。"
@@ -23674,7 +23674,7 @@ zh_CN: 玩家档案需要一个 Microsoft 账户。
 zh_TW: 玩家個人資料需要有 Microsoft 帳戶。"	"玩家档案需要登录到Microsoft账户。"
 "hbui.ProfileRoute.playStationAccount"	"PlayStation™Network"	"Original Translation
 zh_CN: PlayStation™Network
-zh_TW: PlayStation™Network"	""
+zh_TW: PlayStation™Network"	"PlayStation™Network"
 "hbui.ProfileRoute.profileUnavailableErrorTitle"	"Profile Unavailable"	"Original Translation
 zh_CN: 档案不可用
 zh_TW: 設定檔不可用"	"玩家档案不可用"
@@ -38982,22 +38982,22 @@ zh_CN: 截图
 zh_TW: 拍攝畫面照片"	"截图"
 "key.script_cancel"	"Cancel Current Action"	"Original Translation
 zh_CN: 取消当前操作
-zh_TW: 取消目前操作"	""
+zh_TW: 取消目前操作"	"取消当前操作"
 "key.script_open_chat"	"Open Chat UI"	"Original Translation
 zh_CN: 打开聊天 UI
-zh_TW: 開啟聊天介面"	""
+zh_TW: 開啟聊天介面"	"开启聊天界面"
 "key.script_open_inventory"	"Open Inventory UI"	"Original Translation
 zh_CN: 打开物品栏 UI
-zh_TW: 開啟物品欄介面"	""
+zh_TW: 開啟物品欄介面"	"开启物品栏界面"
 "key.script_open_map"	"Open Map UI"	"Original Translation
 zh_CN: 打开地图 UI
-zh_TW: 開啟地圖介面"	""
+zh_TW: 開啟地圖介面"	"开启地图界面"
 "key.script_open_mission"	"Open Mission UI"	"Original Translation
 zh_CN: 打开任务 UI
-zh_TW: 開啟任務介面"	""
+zh_TW: 開啟任務介面"	"开启任务界面"
 "key.script_toggle"	"Toggle Mouse Mode"	"Original Translation
 zh_CN: 切换鼠标模式
-zh_TW: 切換滑鼠模式"	""
+zh_TW: 切換滑鼠模式"	"切换鼠标模式"
 "key.smoothCamera"	"Toggle Cinematic Camera"	"Original Translation
 zh_CN: 切换电影视角
 zh_TW: 切換視角平滑移動"	"切换电影视角"
@@ -39042,37 +39042,37 @@ zh_CN: 使用物品/放置方块
 zh_TW: 使用物品 / 放置方塊"	"使用物品/放置方块"
 "keyboard.keyName.0"	"0"	"Original Translation
 zh_CN: 0
-zh_TW: 0"	""
+zh_TW: 0"	"0"
 "keyboard.keyName.1"	"1"	"Original Translation
 zh_CN: 1
-zh_TW: 1"	""
+zh_TW: 1"	"1"
 "keyboard.keyName.2"	"2"	"Original Translation
 zh_CN: 2
-zh_TW: 2"	""
+zh_TW: 2"	"2"
 "keyboard.keyName.3"	"3"	"Original Translation
 zh_CN: 3
-zh_TW: 3"	""
+zh_TW: 3"	"3"
 "keyboard.keyName.4"	"4"	"Original Translation
 zh_CN: 4
-zh_TW: 4"	""
+zh_TW: 4"	"4"
 "keyboard.keyName.5"	"5"	"Original Translation
 zh_CN: 5
-zh_TW: 5"	""
+zh_TW: 5"	"5"
 "keyboard.keyName.6"	"6"	"Original Translation
 zh_CN: 6
-zh_TW: 6"	""
+zh_TW: 6"	"6"
 "keyboard.keyName.7"	"7"	"Original Translation
 zh_CN: 7
-zh_TW: 7"	""
+zh_TW: 7"	"7"
 "keyboard.keyName.8"	"8"	"Original Translation
 zh_CN: 8
-zh_TW: 8"	""
+zh_TW: 8"	"8"
 "keyboard.keyName.9"	"9"	"Original Translation
 zh_CN: 9
-zh_TW: 9"	""
+zh_TW: 9"	"9"
 "keyboard.keyName.a"	"A"	"Original Translation
 zh_CN: A
-zh_TW: A"	""
+zh_TW: A"	"A"
 "keyboard.keyName.add"	"ADD"	"Original Translation
 zh_CN: 加
 zh_TW: 加號鍵"	"+"
@@ -39084,52 +39084,52 @@ zh_CN: 替代
 zh_TW: 轉換鍵"	"Alt"
 "keyboard.keyName.alt.short"	"ALT"	"Original Translation
 zh_CN: ALT
-zh_TW: ALT"	""
+zh_TW: ALT"	"ALT"
 "keyboard.keyName.apostrophe"	"APOSTROPHE"	"Original Translation
 zh_CN: 撇号
 zh_TW: 撇號"	"'"
 "keyboard.keyName.apostrophe.short"	"'"	"Original Translation
 zh_CN: '
-zh_TW: '"	""
+zh_TW: '"	"'"
 "keyboard.keyName.b"	"B"	"Original Translation
 zh_CN: B
-zh_TW: B"	""
+zh_TW: B"	"B"
 "keyboard.keyName.backslash"	"BACKSLASH"	"Original Translation
 zh_CN: 反斜杠
 zh_TW: 反斜線"	"\"
 "keyboard.keyName.backslash.short"	"\"	"Original Translation
 zh_CN: \
 zh_TW: \"	
-keyboard.keyName.backspace	BACK	Original Translation"	""
+keyboard.keyName.backspace	BACK	Original Translation"	"\"
 "zh_CN: 返回"	""	""	""
 "zh_TW: 退格鍵"""	""	""	""
 "keyboard.keyName.backspace.short"	"BACK"	"Original Translation
 zh_CN: 退格
-zh_TW: 退格鍵"	""
+zh_TW: 退格鍵"	"退格"
 "keyboard.keyName.c"	"C"	"Original Translation
 zh_CN: C
-zh_TW: C"	""
+zh_TW: C"	"C"
 "keyboard.keyName.capsLock"	"CAPITAL"	"Original Translation
 zh_CN: 大写
 zh_TW: CAPITAL 鍵"	"Caps Lock"
 "keyboard.keyName.capsLock.short"	"CAPS"	"Original Translation
 zh_CN: CAPS
-zh_TW: CAPS 鍵"	""
+zh_TW: CAPS 鍵"	"CAPS"
 "keyboard.keyName.comma"	"COMMA"	"Original Translation
 zh_CN: 逗号
 zh_TW: 逗號"	","
 "keyboard.keyName.comma.short"	","	"Original Translation
 zh_CN: ,
-zh_TW: ,"	""
+zh_TW: ,"	","
 "keyboard.keyName.control"	"CONTROL"	"Original Translation
 zh_CN: 控制
 zh_TW: CONTROL 鍵"	"Ctrl"
 "keyboard.keyName.control.short"	"CTRL"	"Original Translation
 zh_CN: CTRL
-zh_TW: CTRL 鍵"	""
+zh_TW: CTRL 鍵"	"CTRL"
 "keyboard.keyName.d"	"D"	"Original Translation
 zh_CN: D
-zh_TW: D"	""
+zh_TW: D"	"D"
 "keyboard.keyName.decimal"	"DECIMAL"	"Original Translation
 zh_CN: 小数点
 zh_TW: 小數點"	"."
@@ -39216,28 +39216,28 @@ zh_CN: F8
 zh_TW: F8"	""
 "keyboard.keyName.f9"	"F9"	"Original Translation
 zh_CN: F9
-zh_TW: F9"	""
+zh_TW: F9"	"F9"
 "keyboard.keyName.g"	"G"	"Original Translation
 zh_CN: G
-zh_TW: G"	""
+zh_TW: G"	"G"
 "keyboard.keyName.grave"	"GRAVE"	"Original Translation
 zh_CN: 波浪号
 zh_TW: 十字符號"	"~"
 "keyboard.keyName.grave.short"	"`"	"Original Translation
 zh_CN: `
-zh_TW: `"	""
+zh_TW: `"	"`"
 "keyboard.keyName.h"	"H"	"Original Translation
 zh_CN: H
-zh_TW: H"	""
+zh_TW: H"	"H"
 "keyboard.keyName.home"	"HOME"	"Original Translation
 zh_CN: 首页
 zh_TW: HOME 鍵"	"Home"
 "keyboard.keyName.home.short"	"HOME"	"Original Translation
 zh_CN: HOME
-zh_TW: HOME 鍵"	""
+zh_TW: HOME 鍵"	"HOME"
 "keyboard.keyName.i"	"I"	"Original Translation
 zh_CN: I
-zh_TW: I"	""
+zh_TW: I"	"I"
 "keyboard.keyName.insert"	"INSERT"	"Original Translation
 zh_CN: 插入
 zh_TW: INSERT 鍵"	"Insert"
@@ -39246,19 +39246,19 @@ zh_CN: INS
 zh_TW: INS 鍵"	""
 "keyboard.keyName.j"	"J"	"Original Translation
 zh_CN: J
-zh_TW: J"	""
+zh_TW: J"	"J"
 "keyboard.keyName.k"	"K"	"Original Translation
 zh_CN: K
-zh_TW: K"	""
+zh_TW: K"	"K"
 "keyboard.keyName.l"	"L"	"Original Translation
 zh_CN: L
-zh_TW: L"	""
+zh_TW: L"	"L"
 "keyboard.keyName.lbracket"	"LBRACKET"	"Original Translation
 zh_CN: 左括号
 zh_TW: 左括號"	"("
 "keyboard.keyName.lbracket.short"	"["	"Original Translation
 zh_CN: [
-zh_TW: ["	""
+zh_TW: ["	"["
 "keyboard.keyName.left"	"LEFT"	"Original Translation
 zh_CN: 左
 zh_TW: 向左鍵"	"左"
@@ -39270,16 +39270,16 @@ zh_CN: SHIFT
 zh_TW: SHIFT 鍵"	"Shift"
 "keyboard.keyName.lshift.short"	"SHIFT"	"Original Translation
 zh_CN: SHIFT
-zh_TW: SHIFT 鍵"	""
+zh_TW: SHIFT 鍵"	"SHIFT"
 "keyboard.keyName.m"	"M"	"Original Translation
 zh_CN: M
-zh_TW: M"	""
+zh_TW: M"	"M"
 "keyboard.keyName.minus"	"MINUS"	"Original Translation
 zh_CN: 减
 zh_TW: 減號鍵"	"-"
 "keyboard.keyName.minus.short"	"-"	"Original Translation
 zh_CN: -
-zh_TW: -"	""
+zh_TW: -"	"-"
 "keyboard.keyName.multiply"	"MULTIPLY"	"Original Translation
 zh_CN: 乘
 zh_TW: 乘以"	"*"
@@ -39288,7 +39288,7 @@ zh_CN: N*
 zh_TW: 數字 *"	""
 "keyboard.keyName.n"	"N"	"Original Translation
 zh_CN: N
-zh_TW: N"	""
+zh_TW: N"	"N"
 "keyboard.keyName.numLock"	"NUMLOCK"	"Original Translation
 zh_CN: 数字锁定
 zh_TW: NUMLOCK 鍵"	"Num Lock"
@@ -39300,7 +39300,7 @@ zh_CN: 数字键盘 0
 zh_TW: 數字鍵盤 0"	"小键盘 0"
 "keyboard.keyName.numpad0.short"	"N0"	"Original Translation
 zh_CN: N0
-zh_TW: 數字 0"	""
+zh_TW: 數字 0"	"N0"
 "keyboard.keyName.numpad1"	"NUMPAD1"	"Original Translation
 zh_CN: 数字键盘 1
 zh_TW: 數字鍵盤 1"	"小键盘 1"

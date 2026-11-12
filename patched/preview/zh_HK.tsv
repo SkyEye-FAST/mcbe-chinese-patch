@@ -337,7 +337,7 @@ zh_CN: 你的设备上默认启用了屏幕阅读器支持。
 zh_TW: 根據預設，螢幕閱讀器在您的裝置為已經啟用。"	"根據預設，螢幕閱讀器在您的裝置為已經啟用。"
 "accessibility.popup.message.line1"	"Welcome to Minecraft!"	"Original Translation
 zh_CN: 欢迎来到《我的世界》！
-zh_TW: 歡迎來到《Minecraft》！"	"歡迎來到《Minecraft》！"
+zh_TW: 歡迎來到《Minecraft》！"	"歡迎來到 Minecraft！"
 "accessibility.popup.message.line3"	"Would you like to turn this off?"	"Original Translation
 zh_CN: 您想将它关掉吗？
 zh_TW: 您是否要將此關閉？"	"您是否要將此關閉？"
@@ -2489,13 +2489,13 @@ zh_CN: 无条件
 zh_TW: 無條件"	"無條件"
 "commandBlockScreen.displayOutputMode"	"O"	"Original Translation
 zh_CN: O
-zh_TW: O"	""
+zh_TW: O"	"O"
 "commandBlockScreen.executeFirstTick"	"Execute on First Tick"	"Original Translation
 zh_CN: 执行第一个已选项
 zh_TW: 於第一個刻度執行"	"於第一個刻度執行"
 "commandBlockScreen.hideOutputMode"	"X"	"Original Translation
 zh_CN: X
-zh_TW: X"	""
+zh_TW: X"	"X"
 "commandBlockScreen.hoverNote"	"Hover Note"	"Original Translation
 zh_CN: 悬停说明
 zh_TW: 暫留註解"	"暫留註解"
@@ -3168,7 +3168,7 @@ zh_CN: 将游戏难度设置为 %1$s
 zh_TW: 已將遊戲難度設為 %1$s"	"已將難度設為 %1$s"
 "commands.difficulty.usage"	"/difficulty <new difficulty>"	"Original Translation
 zh_CN: /difficulty <new difficulty>
-zh_TW: /difficulty <new difficulty>"	""
+zh_TW: /difficulty <new difficulty>"	"/difficulty <new difficulty>"
 "commands.downfall.success"	"Toggled downfall"	"Original Translation
 zh_CN: 天气已切换
 zh_TW: 已切換天氣"	"已切換天氣"
