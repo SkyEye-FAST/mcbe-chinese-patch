@@ -18818,7 +18818,7 @@ zh_CN: 重复、删除或更新选定的结构。
 zh_TW: 複製、刪除或更新所選結構。"	"复制、删除或更新所选结构。"
 "hbui.EditorStructurePanel.details.minecraftIdLabel"	"Minecraft ID"	"Original Translation
 zh_CN: Minecraft ID
-zh_TW: Minecraft ID"	""
+zh_TW: Minecraft ID"	"Minecraft ID"
 "hbui.EditorStructurePanel.details.minecraftIdTooltip"	"A Structure's Minecraft ID (Namespace:Unique Name) is how it's referenced in code or with in-game Structure commands."	"Original Translation
 zh_CN: 结构的 Minecraft ID（命名空间：唯一名称）是它在代码或游戏内结构命令中引用的方式。
 zh_TW: 結構的 Minecraft ID (命名空間:唯一名稱) 是程式碼或遊戲內結構指令參照該結構的方式。"	"结构的Minecraft ID（命名空间：唯一名称）用于在代码或游戏内结构命令中引用。"
@@ -25453,7 +25453,7 @@ zh_TW: 只要你連結的 Realm 付費訂閱有效，預覽版 Realm 就會保�
 zh_CN: 所有 Realms 屏幕和功能都可以在预览版中使用，除了购买新的定期服务或管理现有 Realms 的定期服务。
 zh_TW: 除了購買新訂閱或管理現有的 Realms 訂閱外，預覽版可使用所有的 Realms 介面與功能。"	"所有Realm屏幕和功能都可以在Preview版中使用，除了购买新的订阅或管理现有Realm的订阅。"
 "hbui.Realms.RealmsHub.Settings.Subscriptions.TimeRemaining.title"	"Next billing cycle"	"Original Translation"	""
-"hbui.Realms.RealmsHub.Settings.Subscriptions.TimeRemaining.value"	"%1$sd"	"Original Translation"	""
+"hbui.Realms.RealmsHub.Settings.Subscriptions.TimeRemaining.value"	"%1$sd"	"Original Translation"	"%1$s天"
 "hbui.Realms.RealmsHub.Settings.Subscriptions.infoAndPlayerCount"	"%1$s Subscription: You + %2$s Friends server %3$s"	"Original Translation
 zh_CN: %1$s 订阅：你 + %2$s 位好友服务器 %3$s
 zh_TW: %1$s 訂閱：你 + %2$s 位好友的伺服器 %3$s"	"%1$s订阅：你和%2$s位好友+%3$s个栏位服务器"
@@ -26545,7 +26545,7 @@ zh_CN: 免费试用
 zh_TW: 免費試用"	"免费尝试"
 "hbui.RealmsPDPScreen.title"	"Minecraft Realms"	"Original Translation
 zh_CN: Minecraft Realms
-zh_TW: Minecraft Realms"	""
+zh_TW: Minecraft Realms"	"Minecraft Realms"
 "hbui.RealmsPlanPickerScreen.banners.coreSubscriptionsLimit"	"You have reached the limit of Realms Core subscriptions on this platform"	"Original Translation
 zh_CN: 你已达到此平台上的 Realms Core 订阅服务上限
 zh_TW: 你在此平台上訂閱的 Realms Core 已達上限"	"你已达到在此平台上购买Realms Core订阅的上限"
@@ -26578,7 +26578,7 @@ zh_CN: 开始免费试玩
 zh_TW: 開始免費試玩"	"开始免费试用"
 "hbui.RealmsPlanPickerScreen.currency"	"$"	"Original Translation
 zh_CN: $
-zh_TW: $"	""
+zh_TW: $"	"$"
 "hbui.RealmsPlanPickerScreen.disclaimer"	"*Subscription continues automatically at the regular monthly price unless canceled."	"Original Translation
 zh_CN: *除非取消，否则定期服务将继续以正常月费价格自动续费。
 zh_TW: *除非取消，否則訂閱將自動以標準月費續訂。"	"*除非取消订阅，否则将以常规月费价格自动续订。"
@@ -26686,13 +26686,13 @@ zh_CN: /30 天
 zh_TW: / 30 天"	"/30天"
 "hbui.RealmsPlanPickerScreen.priceCore"	"Core"	"Original Translation
 zh_CN: Core
-zh_TW: Core"	""
+zh_TW: Core"	"Core"
 "hbui.RealmsPlanPickerScreen.priceMonthly"	"/month"	"Original Translation
 zh_CN: /月
 zh_TW: /月"	"/月"
 "hbui.RealmsPlanPickerScreen.pricePlus"	"Plus"	"Original Translation
 zh_CN: Plus
-zh_TW: Plus"	""
+zh_TW: Plus"	"Plus"
 "hbui.RealmsPlanPickerScreen.title"	"Choose your plan"	"Original Translation
 zh_CN: 选择您的计划
 zh_TW: 選擇你的方案"	"选择你的方案"
@@ -28822,7 +28822,7 @@ zh_CN: 返回
 zh_TW: 返回"	"返回"
 "hbui.ScreenshotDetailsSideMenu.index"	"%1$s / %2$s"	"Original Translation
 zh_CN: %1$s / %2$s
-zh_TW: %1$s / %2$s"	""
+zh_TW: %1$s / %2$s"	"%1$s / %2$s"
 "hbui.ScreenshotDetailsSideMenu.manage"	"Manage"	"Original Translation
 zh_CN: 管理
 zh_TW: 管理"	"管理"
@@ -29008,7 +29008,7 @@ zh_CN: 请稍后再试。
 zh_TW: 請稍後再試。"	"请稍后重试。"
 "hbui.ScreenshotGalleryError.plus"	"+"	"Original Translation
 zh_CN: +
-zh_TW: +"	""
+zh_TW: +"	"+"
 "hbui.ScreenshotGalleryError.signInWithMicrosoft"	"Sign in with Microsoft"	"Original Translation
 zh_CN: 使用 Microsoft 登录
 zh_TW: 使用 Microsoft 登入"	"使用Microsoft账户登录"
@@ -29026,10 +29026,10 @@ zh_CN: 今天
 zh_TW: 今天"	"今天"
 "hbui.ScreenshotGalleryInfoModal.controlAndShowcaseHints"	"%1$s %2$s"	"Original Translation
 zh_CN: %1$s %2$s
-zh_TW: %1$s %2$s"	""
+zh_TW: %1$s %2$s"	"%1$s %2$s"
 "hbui.ScreenshotGalleryInfoModal.plus"	"+"	"Original Translation
 zh_CN: +
-zh_TW: +"	""
+zh_TW: +"	"+"
 "hbui.ScreenshotGalleryInfoModal.showcaseHint"	"Screenshots marked as showcased will be visible to others in the showcase gallery on your profile."	"Original Translation
 zh_CN: 在档案的展示库中，标记为“展示”的截图将对其他人可见。
 zh_TW: 在個人資料的展示相簿中標記為「顯示」的畫面照片可供大家觀賞。"	"标记为展示的截图将会通过你玩家档案的展示图库对其他人可见。"
@@ -29897,7 +29897,7 @@ zh_CN: 进一步探索 Marketplace Pass 订阅者的世界模板和附加内容�
 zh_TW: Marketplace Pass 訂閱者可以使用更多世界範本和附加內容來進一步探索。"	"订阅Marketplace Pass，探索更多世界模板和附加包。"
 "hbui.StartFromTemplateRoute.MarketplacePass.AddOn.title"	"Marketplace Pass"	"Original Translation
 zh_CN: Marketplace Pass
-zh_TW: Marketplace Pass"	""
+zh_TW: Marketplace Pass"	"Marketplace Pass"
 "hbui.StartFromTemplateRoute.MarketplacePass.NoTemplatesMessage.button"	"Go to settings"	"Original Translation
 zh_CN: 前往设置
 zh_TW: 前往設定"	"前往设置"
@@ -30065,7 +30065,7 @@ zh_CN: 打开
 zh_TW: 開啟"	"打开"
 "hbui.StartFromTemplateRoute.SideMenu.marketplacePass"	"Marketplace Pass"	"Original Translation
 zh_CN: Marketplace Pass
-zh_TW: Marketplace Pass"	""
+zh_TW: Marketplace Pass"	"Marketplace Pass"
 "hbui.StartFromTemplateRoute.SideMenu.ownedByMe"	"Owned by me (%1$s)"	"Original Translation
 zh_CN: 归我所有 (%1$s)
 zh_TW: 我已擁有 (%1$s)"	"我拥有的（%1$s）"
@@ -30601,16 +30601,16 @@ zh_CN: %1$s 字节
 zh_TW: %1$s 個位元組"	"%1$s字节"
 "hbui.StorageIndicator.gigabytes"	"%1$sGB"	"Original Translation
 zh_CN: %1$s GB
-zh_TW: %1$sGB"	""
+zh_TW: %1$sGB"	"%1$sGB"
 "hbui.StorageIndicator.kilobytes"	"%1$sKB"	"Original Translation
 zh_CN: %1$s KB
-zh_TW: %1$sKB"	""
+zh_TW: %1$sKB"	"%1$sKB"
 "hbui.StorageIndicator.megabytes"	"%1$sMB"	"Original Translation
 zh_CN: %1$s MB
-zh_TW: %1$sMB"	""
+zh_TW: %1$sMB"	"%1$sMB"
 "hbui.StorageIndicator.petabytes"	"%1$sPB"	"Original Translation
 zh_CN: %1$s PB
-zh_TW: %1$sPB"	""
+zh_TW: %1$sPB"	"%1$sPB"
 "hbui.StorageIndicator.storage"	"Settings"	"Original Translation
 zh_CN: 设置
 zh_TW: 設定"	"设置"
@@ -30637,7 +30637,7 @@ zh_CN: 已使用 %1$s 个，共 %2$s 个
 zh_TW: 已使用 %1$s/%2$s"	"已使用%1$s，共%2$s"
 "hbui.StorageIndicator.terabytes"	"%1$sTB"	"Original Translation
 zh_CN: %1$s TB
-zh_TW: %1$sTB"	""
+zh_TW: %1$sTB"	"%1$sTB"
 "hbui.Switch.elementType"	"Switch"	"Original Translation
 zh_CN: 开关
 zh_TW: 開關"	"开关"
@@ -30661,7 +30661,7 @@ zh_CN: 开关
 zh_TW: Switch"	"开关"
 "hbui.SwitchAccordion.narrationCountLabel"	"%1$s - (%2$s)"	"Original Translation
 zh_CN: %1$s - (%2$s)
-zh_TW: %1$s - (%2$s)"	""
+zh_TW: %1$s - (%2$s)"	"%1$s - (%2$s)"
 "hbui.SwitchAccordion.openInputLegend"	"Open"	"Original Translation
 zh_CN: 打开
 zh_TW: 開啟"	"打开"
@@ -31934,7 +31934,7 @@ zh_CN: 迎接夜晚
 zh_TW: 為了夜晚準備"	"迎接夜晚"
 "howtoplay.category.realms"	"Realms"	"Original Translation
 zh_CN: Realms
-zh_TW: Realms"	""
+zh_TW: Realms"	"Realms"
 "howtoplay.category.redstoneEngineering"	"Redstone Engineering"	"Original Translation
 zh_CN: 红石工程
 zh_TW: 紅石工程"	"红石技术"
@@ -33789,7 +33789,7 @@ zh_CN: 您可从附魔台或铁砧为剑、弓、弩和三叉戟获取特定附�
 zh_TW: 您可以利用附魔台或鐵砧來為劍、弓、十字弓和三叉戟加上專屬附魔，藉此提高傷害、耐久度，甚至還能讓生物著火！"	"你可从附魔台或铁砧为剑、弓、弩和三叉戟获取特定魔咒，它们将提高伤害值、耐久度甚至可以点燃生物！"
 "howtoplay.worldBuilder"	"World Builder"	"Original Translation
 zh_CN: 世界建造者
-zh_TW: 創世者"	""
+zh_TW: 創世者"	"世界建造者"
 "howtoplay.worldBuilder.text.1"	"To place or use certain Minecraft Education blocks or items, a player must possess a special ability called 'World Builder'."	"Original Translation
 zh_CN: 若要放置或使用特定的 Minecraft Education 方块或物品，用户必须拥有一种名为“World Builder”的特殊能力。
 zh_TW: 若要放置或使用特定《Minecraft Education》方塊或物品，玩家必須有稱為「創世者」的特殊能力。"	"若要放置或使用特定的Minecraft教育版方块或物品，玩家必须拥有一种名为“World Builder”的特殊能力。"
@@ -39491,7 +39491,7 @@ zh_CN: 水桶
 zh_TW: 水桶"	"水桶"
 "joincode.icon_text.11"	"Steve"	"Original Translation
 zh_CN: 史蒂夫
-zh_TW: 史提夫"	""
+zh_TW: 史提夫"	"史蒂夫"
 "joincode.icon_text.12"	"Apple"	"Original Translation
 zh_CN: 苹果
 zh_TW: 蘋果"	"苹果"
@@ -39521,7 +39521,7 @@ zh_CN: 铁轨
 zh_TW: 滑軌"	"铁轨"
 "joincode.icon_text.4"	"Alex"	"Original Translation
 zh_CN: 艾莉克斯
-zh_TW: 愛莉克斯"	""
+zh_TW: 愛莉克斯"	"艾莉克斯"
 "joincode.icon_text.5"	"Cookie"	"Original Translation
 zh_CN: 曲奇
 zh_TW: 餅乾"	"曲奇"
@@ -39909,7 +39909,7 @@ zh_CN: 加
 zh_TW: 加號鍵"	"+"
 "keyboard.keyName.add.short"	"N+"	"Original Translation
 zh_CN: N+
-zh_TW: 數字 +"	""
+zh_TW: 數字 +"	"N+"
 "keyboard.keyName.alt"	"ALTERNATIVE"	"Original Translation
 zh_CN: 替代
 zh_TW: 轉換鍵"	"Alt"
@@ -39966,19 +39966,19 @@ zh_CN: 小数点
 zh_TW: 小數點"	"."
 "keyboard.keyName.decimal.short"	"N."	"Original Translation
 zh_CN: N.
-zh_TW: 數字 ."	""
+zh_TW: 數字 ."	"N."
 "keyboard.keyName.delete"	"DELETE"	"Original Translation
 zh_CN: 删除
 zh_TW: DELETE 鍵"	"Delete"
 "keyboard.keyName.delete.short"	"DEL"	"Original Translation
 zh_CN: DEL
-zh_TW: DEL 鍵"	""
+zh_TW: DEL 鍵"	"DEL"
 "keyboard.keyName.divide"	"DIVIDE"	"Original Translation
 zh_CN: 除
 zh_TW: 除以"	"/"
 "keyboard.keyName.divide.short"	"N/"	"Original Translation
 zh_CN: N/
-zh_TW: 數字 /"	""
+zh_TW: 數字 /"	"N/"
 "keyboard.keyName.down"	"DOWN"	"Original Translation
 zh_CN: 下
 zh_TW: 向下鍵"	"下"
@@ -39987,64 +39987,64 @@ zh_CN: 下
 zh_TW: 向下鍵"	"下"
 "keyboard.keyName.e"	"E"	"Original Translation
 zh_CN: E
-zh_TW: E"	""
+zh_TW: E"	"E"
 "keyboard.keyName.end"	"END"	"Original Translation
 zh_CN: 结束
 zh_TW: END 鍵"	"End"
 "keyboard.keyName.end.short"	"END"	"Original Translation
 zh_CN: END
-zh_TW: END 鍵"	""
+zh_TW: END 鍵"	"END"
 "keyboard.keyName.equals"	"EQUALS"	"Original Translation
 zh_CN: 等于
 zh_TW: 等號鍵"	"="
 "keyboard.keyName.equals.short"	"="	"Original Translation
 zh_CN: =
-zh_TW: ="	""
+zh_TW: ="	"="
 "keyboard.keyName.escape"	"ESCAPE"	"Original Translation
 zh_CN: ESC
 zh_TW: ESCAPE 鍵"	"Esc"
 "keyboard.keyName.escape.short"	"ESC"	"Original Translation
 zh_CN: ESC
-zh_TW: ESC 鍵"	""
+zh_TW: ESC 鍵"	"ESC"
 "keyboard.keyName.f"	"F"	"Original Translation
 zh_CN: F
-zh_TW: F"	""
+zh_TW: F"	"F"
 "keyboard.keyName.f1"	"F1"	"Original Translation
 zh_CN: F1
-zh_TW: F1"	""
+zh_TW: F1"	"F1"
 "keyboard.keyName.f10"	"F10"	"Original Translation
 zh_CN: F10
-zh_TW: F10"	""
+zh_TW: F10"	"F10"
 "keyboard.keyName.f11"	"F11"	"Original Translation
 zh_CN: F11
-zh_TW: F11"	""
+zh_TW: F11"	"F11"
 "keyboard.keyName.f12"	"F12"	"Original Translation
 zh_CN: F12
-zh_TW: F12"	""
+zh_TW: F12"	"F12"
 "keyboard.keyName.f13"	"F13"	"Original Translation
 zh_CN: F13
-zh_TW: F13"	""
+zh_TW: F13"	"F13"
 "keyboard.keyName.f2"	"F2"	"Original Translation
 zh_CN: F2
-zh_TW: F2"	""
+zh_TW: F2"	"F2"
 "keyboard.keyName.f3"	"F3"	"Original Translation
 zh_CN: F3
-zh_TW: F3"	""
+zh_TW: F3"	"F3"
 "keyboard.keyName.f4"	"F4"	"Original Translation
 zh_CN: F4
-zh_TW: F4"	""
+zh_TW: F4"	"F4"
 "keyboard.keyName.f5"	"F5"	"Original Translation
 zh_CN: F5
-zh_TW: F5"	""
+zh_TW: F5"	"F5"
 "keyboard.keyName.f6"	"F6"	"Original Translation
 zh_CN: F6
-zh_TW: F6"	""
+zh_TW: F6"	"F6"
 "keyboard.keyName.f7"	"F7"	"Original Translation
 zh_CN: F7
-zh_TW: F7"	""
+zh_TW: F7"	"F7"
 "keyboard.keyName.f8"	"F8"	"Original Translation
 zh_CN: F8
-zh_TW: F8"	""
+zh_TW: F8"	"F8"
 "keyboard.keyName.f9"	"F9"	"Original Translation
 zh_CN: F9
 zh_TW: F9"	"F9"
@@ -40074,7 +40074,7 @@ zh_CN: 插入
 zh_TW: INSERT 鍵"	"Insert"
 "keyboard.keyName.insert.short"	"INS"	"Original Translation
 zh_CN: INS
-zh_TW: INS 鍵"	""
+zh_TW: INS 鍵"	"INS"
 "keyboard.keyName.j"	"J"	"Original Translation
 zh_CN: J
 zh_TW: J"	"J"
@@ -40116,7 +40116,7 @@ zh_CN: 乘
 zh_TW: 乘以"	"*"
 "keyboard.keyName.multiply.short"	"N*"	"Original Translation
 zh_CN: N*
-zh_TW: 數字 *"	""
+zh_TW: 數字 *"	"N*"
 "keyboard.keyName.n"	"N"	"Original Translation
 zh_CN: N
 zh_TW: N"	"N"
@@ -40137,37 +40137,37 @@ zh_CN: 数字键盘 1
 zh_TW: 數字鍵盤 1"	"小键盘 1"
 "keyboard.keyName.numpad1.short"	"N1"	"Original Translation
 zh_CN: N1
-zh_TW: 數字 1"	""
+zh_TW: 數字 1"	"N1"
 "keyboard.keyName.numpad2"	"NUMPAD2"	"Original Translation
 zh_CN: 数字键盘 2
 zh_TW: 數字鍵盤 2"	"小键盘 2"
 "keyboard.keyName.numpad2.short"	"N2"	"Original Translation
 zh_CN: N2
-zh_TW: 數字 2"	""
+zh_TW: 數字 2"	"N2"
 "keyboard.keyName.numpad3"	"NUMPAD3"	"Original Translation
 zh_CN: 数字键盘 3
 zh_TW: 數字鍵盤 3"	"小键盘 3"
 "keyboard.keyName.numpad3.short"	"N3"	"Original Translation
 zh_CN: N3
-zh_TW: 數字 3"	""
+zh_TW: 數字 3"	"N3"
 "keyboard.keyName.numpad4"	"NUMPAD4"	"Original Translation
 zh_CN: 数字键盘 4
 zh_TW: 數字鍵盤 4"	"小键盘 4"
 "keyboard.keyName.numpad4.short"	"N4"	"Original Translation
 zh_CN: N4
-zh_TW: 數字 4"	""
+zh_TW: 數字 4"	"N4"
 "keyboard.keyName.numpad5"	"NUMPAD5"	"Original Translation
 zh_CN: 数字键盘 5
 zh_TW: 數字鍵盤 5"	"小键盘 5"
 "keyboard.keyName.numpad5.short"	"N5"	"Original Translation
 zh_CN: N5
-zh_TW: 數字 5"	""
+zh_TW: 數字 5"	"N5"
 "keyboard.keyName.numpad6"	"NUMPAD6"	"Original Translation
 zh_CN: 数字键盘 6
 zh_TW: 數字鍵盤 6"	"小键盘 6"
 "keyboard.keyName.numpad6.short"	"N6"	"Original Translation
 zh_CN: N6
-zh_TW: 數字 6"	""
+zh_TW: 數字 6"	"N6"
 "keyboard.keyName.numpad7"	"NUMPAD7"	"Original Translation
 zh_CN: 数字键盘 7
 zh_TW: 數字鍵盤 7"	"小键盘 7"
@@ -40197,25 +40197,25 @@ zh_CN: 暂停
 zh_TW: PAUSE 鍵"	"Pause"
 "keyboard.keyName.pause.short"	"PAUSE"	"Original Translation
 zh_CN: 暂停
-zh_TW: PAUSE 鍵"	""
+zh_TW: PAUSE 鍵"	"PAUSE"
 "keyboard.keyName.period"	"PERIOD"	"Original Translation
 zh_CN: 句号
 zh_TW: 句號"	"."
 "keyboard.keyName.period.short"	"."	"Original Translation
 zh_CN: .
-zh_TW: ."	""
+zh_TW: ."	"."
 "keyboard.keyName.pgDown"	"PAGE DOWN"	"Original Translation
 zh_CN: PAGE DOWN 键
 zh_TW: PAGE DOWN 鍵"	"Page Down"
 "keyboard.keyName.pgDown.short"	"PgDn"	"Original Translation
 zh_CN: PgDn
-zh_TW: PgDn 鍵"	""
+zh_TW: PgDn 鍵"	"PgDn"
 "keyboard.keyName.pgUp"	"PAGE UP"	"Original Translation
 zh_CN: PAGE UP 键
 zh_TW: PAGE UP 鍵"	"Page Up"
 "keyboard.keyName.pgUp.short"	"PgUp"	"Original Translation
 zh_CN: PgUp
-zh_TW: PgUp 鍵"	""
+zh_TW: PgUp 鍵"	"PgUp"
 "keyboard.keyName.q"	"Q"	"Original Translation
 zh_CN: Q
 zh_TW: Q"	""
