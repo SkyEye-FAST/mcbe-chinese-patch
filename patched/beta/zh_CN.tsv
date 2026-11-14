@@ -655,7 +655,7 @@ zh_CN: 编辑
 zh_TW: 編輯"	"编辑"
 "accessibility.textbox.tts.title"	"Text input"	"Original Translation
 zh_CN: 文本框
-zh_TW: 文字方塊"	""
+zh_TW: 文字方塊"	"文本输入"
 "accessibility.toast"	"Notification"	"Original Translation
 zh_CN: 通知
 zh_TW: 通知"	"通知"
@@ -6073,9 +6073,9 @@ zh_TW: 您需要製造用的石材！"	"你需要收集合成用的石材！"
 "crafting.noRecipesWorkbench"	"You need to collect blocks to craft!"	"Original Translation
 zh_CN: 你需要收集制造用的方块！
 zh_TW: 您需要收集製造用的方塊！"	"你需要收集合成用的方块！"
-"craftingScreen.armorHidden"	"Armor hidden"	"Original Translation"	""
-"craftingScreen.armorVisible"	"Armor visible"	"Original Translation"	""
-"craftingScreen.hideArmor"	"Hide Armor"	"Original Translation"	""
+"craftingScreen.armorHidden"	"Armor hidden"	"Original Translation"	"已隐藏盔甲"
+"craftingScreen.armorVisible"	"Armor visible"	"Original Translation"	"已显示盔甲"
+"craftingScreen.hideArmor"	"Hide Armor"	"Original Translation"	"隐藏盔甲"
 "craftingScreen.tab.allItems"	"All items"	"Original Translation
 zh_CN: 所有物品
 zh_TW: 所有物品"	"全部物品"
@@ -6367,9 +6367,9 @@ zh_TW: 重設 Realm"	"重置Realm"
 "createWorldScreen.advanced"	"Advanced"	"Original Translation
 zh_CN: 高级
 zh_TW: 進階"	"高级"
-"createWorldScreen.allowHideArmor"	"Invisible Armor"	"Original Translation"	""
-"createWorldScreen.allowHideArmor.description"	"Let players hide their equipped armor from the inventory screen"	"Original Translation"	""
-"createWorldScreen.allowHideArmor.name"	"Invisible armor"	"Original Translation"	""
+"createWorldScreen.allowHideArmor"	"Invisible Armor"	"Original Translation"	"隐形盔甲"
+"createWorldScreen.allowHideArmor.description"	"Let players hide their equipped armor from the inventory screen"	"Original Translation"	"玩家可以在物品栏屏幕中隐藏已装备盔甲"
+"createWorldScreen.allowHideArmor.name"	"Invisible armor"	"Original Translation"	"隐形盔甲"
 "createWorldScreen.alwaysDay"	"Always Day"	"Original Translation
 zh_CN: 终为白日
 zh_TW: 永為白晝"	"终为白日"
