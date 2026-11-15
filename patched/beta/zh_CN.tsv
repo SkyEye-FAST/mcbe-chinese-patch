@@ -7648,8 +7648,8 @@ zh_TW: 角色"	"编辑器角色"
 "discPress.sort.duration"	"Duration: Shortest to Longest"	"Original Translation"	""
 "discPress.sort.durationDescending"	"Duration: Longest to Shortest"	"Original Translation"	""
 "discPress.sort.titleAscending"	"Title: A to Z"	"Original Translation"	""
-"discPress.sort.titleDescending"	"Title: Z to A"	"Original Translation"	""
-"discPress.tts.artistFilter"	"Artist filter"	"Original Translation"	""
+"discPress.sort.titleDescending"	"Title: Z to A"	"Original Translation"	"标题：从Z到A"
+"discPress.tts.artistFilter"	"Artist filter"	"Original Translation"	"曲师筛选器"
 "discPress.tts.slot.disc"	"Blank disc slot, %s"	"Original Translation"	""
 "discPress.tts.slot.dye"	"Dye slot, %s"	"Original Translation"	""
 "discPress.tts.slot.empty"	"Empty"	"Original Translation"	""
@@ -14082,40 +14082,40 @@ zh_CN: 按钮
 zh_TW: 按鈕"	"按钮"
 "hbui.ButtonIcon.Keyboard.112"	"F1"	"Original Translation
 zh_CN: F1
-zh_TW: F1"	""
+zh_TW: F1"	"F1"
 "hbui.ButtonIcon.Keyboard.113"	"F2"	"Original Translation
 zh_CN: F2
-zh_TW: F2"	""
+zh_TW: F2"	"F2"
 "hbui.ButtonIcon.Keyboard.114"	"F3"	"Original Translation
 zh_CN: F3
-zh_TW: F3"	""
+zh_TW: F3"	"F3"
 "hbui.ButtonIcon.Keyboard.115"	"F4"	"Original Translation
 zh_CN: F4
-zh_TW: F4"	""
+zh_TW: F4"	"F4"
 "hbui.ButtonIcon.Keyboard.116"	"F5"	"Original Translation
 zh_CN: F5
-zh_TW: F5"	""
+zh_TW: F5"	"F5"
 "hbui.ButtonIcon.Keyboard.117"	"F6"	"Original Translation
 zh_CN: F6
-zh_TW: F6"	""
+zh_TW: F6"	"F6"
 "hbui.ButtonIcon.Keyboard.118"	"F7"	"Original Translation
 zh_CN: F7
-zh_TW: F7"	""
+zh_TW: F7"	"F7"
 "hbui.ButtonIcon.Keyboard.119"	"F8"	"Original Translation
 zh_CN: F8
-zh_TW: F8"	""
+zh_TW: F8"	"F8"
 "hbui.ButtonIcon.Keyboard.120"	"F9"	"Original Translation
 zh_CN: F9
-zh_TW: F9"	""
+zh_TW: F9"	"F9"
 "hbui.ButtonIcon.Keyboard.121"	"F10"	"Original Translation
 zh_CN: F10
-zh_TW: F10"	""
+zh_TW: F10"	"F10"
 "hbui.ButtonIcon.Keyboard.122"	"F11"	"Original Translation
 zh_CN: F11
-zh_TW: F11"	""
+zh_TW: F11"	"F11"
 "hbui.ButtonIcon.Keyboard.123"	"F12"	"Original Translation
 zh_CN: F12
-zh_TW: F12"	""
+zh_TW: F12"	"F12"
 "hbui.ButtonIcon.Keyboard.13"	"ENTER"	"Original Translation
 zh_CN: ENTER
 zh_TW: ENTER 鍵"	"Enter"
@@ -40221,19 +40221,19 @@ zh_CN: 数字键盘 7
 zh_TW: 數字鍵盤 7"	"小键盘 7"
 "keyboard.keyName.numpad7.short"	"N7"	"Original Translation
 zh_CN: N7
-zh_TW: 數字 7"	""
+zh_TW: 數字 7"	"N7"
 "keyboard.keyName.numpad8"	"NUMPAD8"	"Original Translation
 zh_CN: 数字键盘 8
 zh_TW: 數字鍵盤 8"	"小键盘 8"
 "keyboard.keyName.numpad8.short"	"N8"	"Original Translation
 zh_CN: N8
-zh_TW: 數字 8"	""
+zh_TW: 數字 8"	"N8"
 "keyboard.keyName.numpad9"	"NUMPAD9"	"Original Translation
 zh_CN: 数字键盘 9
 zh_TW: 數字鍵盤 9"	"小键盘 9"
 "keyboard.keyName.numpad9.short"	"N9"	"Original Translation
 zh_CN: N9
-zh_TW: 數字 9"	""
+zh_TW: 數字 9"	"N9"
 "keyboard.keyName.o"	"O"	"Original Translation
 zh_CN: O
 zh_TW: O"	""
@@ -40914,7 +40914,7 @@ zh_CN: 正在扩张世界
 zh_TW: 拓展世界"	"正在转换世界"
 "menu.copyright"	"©Mojang AB"	"Original Translation
 zh_CN: ©Mojang AB
-zh_TW: ©Mojang AB"	""
+zh_TW: ©Mojang AB"	"©Mojang AB"
 "menu.creator.contentLog.delete.buttonLabel"	"Delete"	"Original Translation
 zh_CN: 删除
 zh_TW: 刪除"	"删除"
@@ -41207,13 +41207,13 @@ zh_CN: 制作备份中...
 zh_TW: 製作備份中..."	"备份中…"
 "menu.moreOnlineFriendCount"	"%s+"	"Original Translation
 zh_CN: %s+
-zh_TW: %s+"	""
+zh_TW: %s+"	"%s+"
 "menu.moreOptions"	"More options"	"Original Translation
 zh_CN: 更多选项
 zh_TW: 更多選項"	"更多选项"
 "menu.morePartyMemberCount"	"+%s"	"Original Translation
 zh_CN: +%s
-zh_TW: +%s"	""
+zh_TW: +%s"	"+%s"
 "menu.multiplayer"	"Multiplayer"	"Original Translation
 zh_CN: 多人游戏
 zh_TW: 多人遊戲"	"多人游戏"
@@ -41264,7 +41264,7 @@ zh_CN: 允许其他玩家加入你的世界
 zh_TW: 允許其他玩家加入你的世界"	"允许其他玩家加入你的世界"
 "menu.online"	"Minecraft Realms"	"Original Translation
 zh_CN: Minecraft Realms
-zh_TW: Minecraft Realms"	""
+zh_TW: Minecraft Realms"	"Minecraft Realms"
 "menu.onlinefriends"	"Friends (%s)"	"Original Translation
 zh_CN: 好友 (%s)
 zh_TW: 好友 (%s)"	"好友（%s）"
@@ -41309,7 +41309,7 @@ zh_CN: 开始试玩世界
 zh_TW: 試玩"	"开始试玩世界"
 "menu.preview"	"Preview"	"Original Translation
 zh_CN: 预览版
-zh_TW: 預覽"	""
+zh_TW: 預覽"	"Preview版"
 "menu.preview.tab.title"	"Preview"	"Original Translation
 zh_CN: 预览
 zh_TW: 預覽"	"Preview版"
@@ -41330,7 +41330,7 @@ zh_CN: 参加测验
 zh_TW: 進行測驗"	"参加测验"
 "menu.realms"	"Realms"	"Original Translation
 zh_CN: Realms
-zh_TW: Realms"	""
+zh_TW: Realms"	"Realms"
 "menu.realmsServer"	"Realms Server"	"Original Translation
 zh_CN: Realms 服务器
 zh_TW: Realms 伺服器"	"Realm服务器"
@@ -41926,7 +41926,7 @@ zh_CN: [作者被屏蔽]
 zh_TW: [著者已封鎖]"	"[作者被屏蔽]"
 "networkWorld.userSignTextBlockedLine0"	"---"	"Original Translation
 zh_CN: ---
-zh_TW: ---"	""
+zh_TW: ---"	"---"
 "networkWorld.userSignTextBlockedLine1"	"Author"	"Original Translation
 zh_CN: 作者
 zh_TW: 著者"	"作者"
@@ -41935,10 +41935,10 @@ zh_CN: 被屏蔽
 zh_TW: 已封鎖"	"被屏蔽"
 "networkWorld.userSignTextBlockedLine3"	"---"	"Original Translation
 zh_CN: ---
-zh_TW: ---"	""
+zh_TW: ---"	"---"
 "networkWorld.userSignTextMutedLine0"	"---"	"Original Translation
 zh_CN: ---
-zh_TW: ---"	""
+zh_TW: ---"	"---"
 "networkWorld.userSignTextMutedLine1"	"Author"	"Original Translation
 zh_CN: 作者
 zh_TW: 著者"	"作者"
@@ -41947,7 +41947,7 @@ zh_CN: 被屏蔽
 zh_TW: 已封鎖"	"被屏蔽"
 "networkWorld.userSignTextMutedLine3"	"---"	"Original Translation
 zh_CN: ---
-zh_TW: ---"	""
+zh_TW: ---"	"---"
 "networkWorld.versionOutOfDate"	"You cannot play online multiplayer because you are not running the latest version. Please install the latest version to access online features."	"Original Translation
 zh_CN: 您无法进行在线多人课程，因为您没有运行最新版本。请安装最新版本以访问在线功能。
 zh_TW: 由於你執行的不是最新版本，因此你無法遊玩線上多人遊戲。請安裝最新版本以存取線上功能。"	"你无法进行在线多人游戏，因为你没有运行最新版本。请安装最新版本以访问在线功能。"
@@ -41995,7 +41995,7 @@ zh_CN: 在此处键入 URL...
 zh_TW: 在此輸入 URL…"	"在此处输入URL…"
 "npcscreen.action.url.title"	"URL"	"Original Translation
 zh_CN: URL
-zh_TW: URL"	""
+zh_TW: URL"	"URL"
 "npcscreen.action.url.warning.emptyUri"	"If no URL is added, this button will open a new browser window."	"Original Translation
 zh_CN: 如果没有添加 URL，此按钮将打开一个新的浏览器窗口。
 zh_TW: 如果沒有新增 URL，此按鈕將開啟一個新的瀏覽器視窗。"	"如果没有添加URL，此按钮将打开新的浏览器窗口。"
@@ -42049,7 +42049,7 @@ zh_CN: 名称
 zh_TW: 名稱"	"名称"
 "npcscreen.npc"	"NPC"	"Original Translation
 zh_CN: NPC
-zh_TW: NPC"	""
+zh_TW: NPC"	"NPC"
 "npcscreen.requiresop"	"OP Required"	"Original Translation
 zh_CN: 所需的操作
 zh_TW: 須有管理員權限"	"所需的操作"
@@ -42850,7 +42850,7 @@ zh_CN: 未使用时摇杆可见
 zh_TW: 閒置時顯示搖桿"	"未使用时显示摇杆"
 "options.defaultName"	"Steve"	"Original Translation
 zh_CN: 史蒂夫
-zh_TW: 史提夫"	""
+zh_TW: 史提夫"	"史蒂夫"
 "options.deferred.renderDistance"	"Deferred Render Distance"	"Original Translation
 zh_CN: 延迟能见度
 zh_TW: 延遲渲染距離"	"延迟渲染距离"
@@ -42925,7 +42925,7 @@ zh_CN: 旧版 Windows Store - V6
 zh_TW: 舊版 Windows Store - V6"	"旧版Windows Store - V6"
 "options.dev.windowsStore.v8"	"OneStore - V8"	"Original Translation
 zh_CN: OneStore - V8
-zh_TW: OneStore - V8"	""
+zh_TW: OneStore - V8"	"OneStore - V8"
 "options.dev_achievementsAlwaysEnabled"	"Achievements always enabled (Requires to be outside a game world)"	"Original Translation
 zh_CN: 成就总是处于启用状态（需要在游戏世界之外设置）
 zh_TW: 成就永遠啟用 (需要在遊戲世界之外)"	"始终启用成就（需要退出世界）"
@@ -43045,10 +43045,10 @@ zh_CN: 无限制
 zh_TW: 無限"	"无限制"
 "options.dev_connection_quality.phone_3g"	"3G"	"Original Translation
 zh_CN: 3G
-zh_TW: 3G"	""
+zh_TW: 3G"	"3G"
 "options.dev_connection_quality.phone_4g"	"4G"	"Original Translation
 zh_CN: 4G
-zh_TW: 4G"	""
+zh_TW: 4G"	"4G"
 "options.dev_connection_quality.slow"	"Slow"	"Original Translation
 zh_CN: 慢
 zh_TW: 慢"	"慢"
@@ -43126,7 +43126,7 @@ zh_CN: 分支
 zh_TW: 分支"	"分支"
 "options.dev_discoveryOverrideServiceCustom"	"URL"	"Original Translation
 zh_CN: URL
-zh_TW: URL"	""
+zh_TW: URL"	"URL"
 "options.dev_discoveryOverrideServiceName"	"Service Name (safety, persona, etc.)"	"Original Translation
 zh_CN: 服务名称（安全、角色等）
 zh_TW: 服務名稱 (安全、角色等)"	"服务名称（安全性、角色等）"
@@ -44497,7 +44497,7 @@ zh_CN: 降低游戏的最大帧率以延长电池寿命和改善设备健康。�
 zh_TW: 降低遊戲的最大影格率，以延長電池續航力和裝置健康。實際影格率可能會低於設定的限制。"	"降低游戏的最大帧率以改善电池续航和设备健康。实际帧率可能会低于设定的限制。"
 "options.maxFramerateFormat"	"%s FPS"	"Original Translation
 zh_CN: %s FPS
-zh_TW: %s FPS"	""
+zh_TW: %s FPS"	"%s FPS"
 "options.mipmapLevels"	"Mipmap Levels"	"Original Translation
 zh_CN: Mipmap 级别
 zh_TW: Mipmap 等級"	"Mipmap级别"
@@ -44742,7 +44742,7 @@ zh_CN: 在切换到其他应用程序时显示暂停菜单
 zh_TW: 切換至其他應用程式時顯示暫停選單"	"切换至其他应用时显示暂停菜单"
 "options.percent.format"	"%s%%"	"Original Translation
 zh_CN: %s%%
-zh_TW: %s%%"	""
+zh_TW: %s%%"	"%s%%"
 "options.performanceButton"	"Video Performance Settings..."	"Original Translation
 zh_CN: 视频性能设置…
 zh_TW: 視訊效能設定..."	"视频性能设置…"
@@ -45537,7 +45537,7 @@ zh_CN: 拉伸框架以适应屏幕，更适合低端设备
 zh_TW: 拉伸畫面以符合螢幕，較適合低階裝置"	"将帧拉伸以适应屏幕，更适合低端设备"
 "options.upscalingModeOptions.taau"	"TAAU"	"Original Translation
 zh_CN: TAAU
-zh_TW: TAAU"	""
+zh_TW: TAAU"	"TAAU"
 "options.upscalingModeOptions.taau.description"	"Use multiple frames to create a crisper upscaled frame"	"Original Translation
 zh_CN: 使用多个框架创建一个更清晰的放大框架
 zh_TW: 使用多個影格來建立更清晰的升頻畫面"	"使用多帧生成更清晰的超分辨率帧"
@@ -46341,7 +46341,7 @@ zh_CN: 艾莉克斯的头发
 zh_TW: 愛莉克斯的頭髮"	"Alex的头发"
 "persona.alex_name.title"	"Alex"	"Original Translation
 zh_CN: 艾莉克斯
-zh_TW: 愛莉克斯"	""
+zh_TW: 愛莉克斯"	"艾莉克斯"
 "persona.alex_pants.title"	"Alex's Pants"	"Original Translation
 zh_CN: 艾莉克斯的裤子
 zh_TW: 愛莉克斯的褲子"	"Alex的裤子"
@@ -46353,13 +46353,13 @@ zh_CN: 艾莉克斯的靴子
 zh_TW: 愛莉克斯的靴子"	"Alex的靴子"
 "persona.alex_skin.title"	"Alex"	"Original Translation
 zh_CN: 艾莉克斯
-zh_TW: 愛莉克斯"	""
+zh_TW: 愛莉克斯"	"艾莉克斯"
 "persona.ari_hair.title"	"Ari's Braid"	"Original Translation
 zh_CN: 阿里的辫子
 zh_TW: 阿里的辮子"	"Ari的辫子"
 "persona.ari_name.title"	"Ari"	"Original Translation
 zh_CN: 阿里
-zh_TW: 阿里"	""
+zh_TW: 阿里"	"阿里"
 "persona.ari_pants.title"	"Ari's Pants"	"Original Translation
 zh_CN: 阿里的裤子
 zh_TW: 阿里的褲子"	"Ari的裤子"
@@ -48166,7 +48166,7 @@ zh_CN: 版本：%s
 zh_TW: 版本：%s"	"版本：%s"
 "realmsSettingsScreen.berwickStoreDisplayName"	"PlayStation®Store"	"Original Translation
 zh_CN: PlayStation®Store
-zh_TW: PlayStation®Store"	""
+zh_TW: PlayStation®Store"	"PlayStation®商店"
 "realmsSettingsScreen.changesNotApplied"	"Changes to server region will be applied the next time the Realm starts up."	"Original Translation
 zh_CN: 对服务器区域的更改将在 Realm 下次启动时应用。
 zh_TW: 在 Realm 開始時，系統會套用伺服器地區的變更。"	"对服务器地区的更改将会在下次启动Realm时应用。"
@@ -48892,7 +48892,7 @@ zh_CN: 管理“%s”
 zh_TW: 管理「%s」"	"管理“%s”"
 "realmsSettingsScreen.selectorSectionLabelRealm"	"Realm"	"Original Translation
 zh_CN: Realm
-zh_TW: Realm"	""
+zh_TW: Realm"	"Realm"
 "realmsSettingsScreen.serverRegionPreferenceTitle"	"Server region preference"	"Original Translation
 zh_CN: 服务器区域首选项
 zh_TW: 伺服器區域喜好設定"	"服务器地区偏好"
@@ -52096,16 +52096,16 @@ zh_CN: 偏移
 zh_TW: 位移"	"偏移"
 "resourcePack.editor.paste.pane.transform.rotation.180"	"180°"	"Original Translation
 zh_CN: 180°
-zh_TW: 180°"	""
+zh_TW: 180°"	"180°"
 "resourcePack.editor.paste.pane.transform.rotation.270"	"270°"	"Original Translation
 zh_CN: 270
-zh_TW: 270"	""
+zh_TW: 270"	"270°"
 "resourcePack.editor.paste.pane.transform.rotation.90"	"90°"	"Original Translation
 zh_CN: 90°
-zh_TW: 90°"	""
+zh_TW: 90°"	"90°"
 "resourcePack.editor.paste.pane.transform.rotation.none"	"0°"	"Original Translation
 zh_CN: 0°
-zh_TW: 0°"	""
+zh_TW: 0°"	"0°"
 "resourcePack.editor.paste.pane.transform.rotation.title"	"Rotate"	"Original Translation
 zh_CN: 旋转
 zh_TW: 旋轉"	"旋转"
@@ -52423,19 +52423,19 @@ zh_CN: 在世界中放置方块时，选择方块正面的方向。
 zh_TW: 選擇在世界中放置方塊時，方塊的正面朝向。"	"选择将方块放置在世界中时的正面方向。"
 "resourcePack.editor.pencil.orientation.manual.negativeX"	"-X"	"Original Translation
 zh_CN: -X
-zh_TW: -X"	""
+zh_TW: -X"	"-X"
 "resourcePack.editor.pencil.orientation.manual.negativeY"	"-Y"	"Original Translation
 zh_CN: -Y
-zh_TW: -Y"	""
+zh_TW: -Y"	"-Y"
 "resourcePack.editor.pencil.orientation.manual.negativeZ"	"-Z"	"Original Translation
 zh_CN: -Z
-zh_TW: -Z"	""
+zh_TW: -Z"	"-Z"
 "resourcePack.editor.pencil.orientation.manual.positiveX"	"+X"	"Original Translation
 zh_CN: +X
-zh_TW: +X"	""
+zh_TW: +X"	"+X"
 "resourcePack.editor.pencil.orientation.manual.positiveY"	"+Y"	"Original Translation
 zh_CN: +Y
-zh_TW: +Y"	""
+zh_TW: +Y"	"+Y"
 "resourcePack.editor.pencil.orientation.manual.positiveZ"	"+Z"	"Original Translation
 zh_CN: +Z
 zh_TW: +Z"	""
@@ -52690,7 +52690,7 @@ zh_CN: 正在将世界发布到 Realms...
 zh_TW: 正在將世界發布到 Realms..."	"正在将世界发布到Realm…"
 "resourcePack.editor.realmsPublish.Realm"	"Realm"	"Original Translation
 zh_CN: Realm
-zh_TW: Realm"	""
+zh_TW: Realm"	"Realm"
 "resourcePack.editor.realmsPublish.Realm.tooltip"	"The Realm that the Project will be published."	"Original Translation
 zh_CN: 即将发布项目的 Realm。
 zh_TW: 專案將發布於此 Realm。"	"此项目将发布的Realm。"
@@ -54166,13 +54166,13 @@ zh_CN: 左键点击方块以查看并编辑其属性。
 zh_TW: 在方塊上按下滑鼠左鍵以檢視並編輯其屬性。"	"鼠标左键单击方块以查看与编辑其属性。"
 "resourcePack.editor.toolRail.blockInspectorTool.posX"	"X"	"Original Translation
 zh_CN: X
-zh_TW: X"	""
+zh_TW: X"	"X"
 "resourcePack.editor.toolRail.blockInspectorTool.posY"	"Y"	"Original Translation
 zh_CN: Y
-zh_TW: Y"	""
+zh_TW: Y"	"Y"
 "resourcePack.editor.toolRail.blockInspectorTool.posZ"	"Z"	"Original Translation
 zh_CN: Z
-zh_TW: Z"	""
+zh_TW: Z"	"Z"
 "resourcePack.editor.toolRail.blockInspectorTool.title"	"Block Inspector"	"Original Translation
 zh_CN: 方块检查器
 zh_TW: 方塊檢查器"	"方块检查器"
@@ -54226,7 +54226,7 @@ zh_CN: 实体的位置维度。
 zh_TW: 實體所在的維度。"	"实体所在的维度。"
 "resourcePack.editor.toolRail.entityInspector.tool.id"	"ID"	"Original Translation
 zh_CN: ID
-zh_TW: ID"	""
+zh_TW: ID"	"ID"
 "resourcePack.editor.toolRail.entityInspector.tool.id.tooltip"	"The unique ID for the selected mob."	"Original Translation
 zh_CN: 所选生物的唯一 ID。
 zh_TW: 所選生物的獨特 ID。"	"选中的生物唯一ID。"
@@ -56147,7 +56147,7 @@ zh_CN: 创建新世界
 zh_TW: 創建新世界"	"创建新的世界"
 "selectTemplate.help"	"?"	"Original Translation
 zh_CN: ?
-zh_TW: ?"	""
+zh_TW: ?"	"?"
 "selectTemplate.importedTemplates"	"Imported Templates"	"Original Translation
 zh_CN: 导入的模板
 zh_TW: 已匯入的範本"	"导入的模板"
@@ -56423,7 +56423,7 @@ zh_CN: 世界
 zh_TW: 世界"	"世界"
 "selectWorld.worldTags"	"%1$s - %2$s"	"Original Translation
 zh_CN: %1$s - %2$s
-zh_TW: %1$s - %2$s"	""
+zh_TW: %1$s - %2$s"	"%1$s - %2$s"
 "selectWorld.worldTags.experimental"	"Experimental"	"Original Translation
 zh_CN: 实验
 zh_TW: 實驗性"	"实验性"
@@ -56504,7 +56504,7 @@ zh_CN: 跑酷
 zh_TW: 跑酷"	"跑酷"
 "sidebar.realmsPlus"	"Realms Plus"	"Original Translation
 zh_CN: Realms Plus
-zh_TW: Realms Plus"	""
+zh_TW: Realms Plus"	"Realms Plus"
 "sidebar.resources"	"Resources"	"Original Translation
 zh_CN: 资源
 zh_TW: 資源"	"资源"
@@ -56564,10 +56564,10 @@ zh_CN: 新
 zh_TW: 新"	"新"
 "skin.Standard.Alex"	"Alex"	"Original Translation
 zh_CN: 艾莉克斯
-zh_TW: 愛莉克斯"	""
+zh_TW: 愛莉克斯"	"艾莉克斯"
 "skin.Standard.Ari"	"Ari"	"Original Translation
 zh_CN: 阿里
-zh_TW: 阿里"	""
+zh_TW: 阿里"	"阿里"
 "skin.Standard.Custom"	"Custom"	"Original Translation
 zh_CN: 自定义
 zh_TW: 自訂"	"自定义"
@@ -56579,25 +56579,25 @@ zh_CN: 自定义
 zh_TW: 自訂"	"自定义"
 "skin.Standard.Efe"	"Efe"	"Original Translation
 zh_CN: 埃菲
-zh_TW: 埃菲"	""
+zh_TW: 埃菲"	"埃菲"
 "skin.Standard.Kai"	"Kai"	"Original Translation
 zh_CN: 凯
-zh_TW: 凱"	""
+zh_TW: 凱"	"凯"
 "skin.Standard.Makena"	"Makena"	"Original Translation
 zh_CN: 马克纳
-zh_TW: 麥肯納"	""
+zh_TW: 麥肯納"	"马克纳"
 "skin.Standard.Noor"	"Noor"	"Original Translation
 zh_CN: 努尔
-zh_TW: 諾爾"	""
+zh_TW: 諾爾"	"努尔"
 "skin.Standard.Steve"	"Steve"	"Original Translation
 zh_CN: 史蒂夫
-zh_TW: 史提夫"	""
+zh_TW: 史提夫"	"史蒂夫"
 "skin.Standard.Sunny"	"Sunny"	"Original Translation
 zh_CN: 桑尼
-zh_TW: 桑妮"	""
+zh_TW: 桑妮"	"桑尼"
 "skin.Standard.Zuri"	"Zuri"	"Original Translation
 zh_CN: 祖里
-zh_TW: 祖里"	""
+zh_TW: 祖里"	"祖里"
 "skinpack.Education"	"Education Edition Skins"	"Original Translation
 zh_CN: Education Edition 皮肤
 zh_TW: 教育版外觀"	"教育版皮肤"
@@ -58864,10 +58864,10 @@ zh_CN: 收纳袋
 zh_TW: 組合包"	"捆绑包"
 "store.search.filter.offer_type.csb"	"Marketplace Pass"	"Original Translation
 zh_CN: Marketplace Pass
-zh_TW: Marketplace Pass"	""
+zh_TW: Marketplace Pass"	"Marketplace Pass"
 "store.search.filter.offer_type.realmsplus"	"Realms Plus"	"Original Translation
 zh_CN: Realms Plus
-zh_TW: Realms Plus"	""
+zh_TW: Realms Plus"	"Realms Plus"
 "store.search.filter.offer_type.selectedCount"	"%d Offer Types"	"Original Translation
 zh_CN: %d 优惠类型
 zh_TW: %d 種優惠類型"	"%d个优惠类型"
@@ -59230,7 +59230,7 @@ zh_CN: 你的频道的订阅者
 zh_TW: 您頻道的訂閱者"	"你的频道的订阅者"
 "stream.user.subscription.turbo"	"Twitch Turbo"	"Original Translation
 zh_CN: Twitch Turbo
-zh_TW: Twitch Turbo"	""
+zh_TW: Twitch Turbo"	"Twitch Turbo"
 "stream.userinfo.ban"	"Ban"	"Original Translation
 zh_CN: 封禁
 zh_TW: 封鎖"	"封禁"
@@ -67661,7 +67661,7 @@ zh_CN: 最大等级 - %s
 zh_TW: 最大等級 - %s"	"最高级%s"
 "trade.nameAndLevel"	"%s - %s"	"Original Translation
 zh_CN: %s - %s
-zh_TW: %s - %s"	""
+zh_TW: %s - %s"	"%s - %s"
 "trade.notEnough"	"Not enough %s"	"Original Translation
 zh_CN: 不够 %s
 zh_TW: %s不足"	"%s不足"
