@@ -307,7 +307,7 @@ zh_CN: 离开 Realm
 zh_TW: 離開 Realm"	"离开Realm"
 "accessibility.play.legacyWorldsDelete"	"Delete Legacy World"	"Original Translation
 zh_CN: 删除旧的世界
-zh_TW: 刪除舊版世界"	"删除旧世界"
+zh_TW: 刪除舊版世界"	"删除旧的世界"
 "accessibility.play.multipleNewPosts"	"%s new posts"	"Original Translation
 zh_CN: %s 个新帖子
 zh_TW: %s 則新貼文"	"%s个新帖子"
@@ -1453,7 +1453,7 @@ zh_CN: 管理 iCloud
 zh_TW: 管理 iCloud"	"管理iCloud"
 "apple.iCloudNoSpace.message"	"You do not have enough iCloud space free to save your worlds properly. They might not be here next time you play Minecraft. Free up space on your iCloud account to make sure all of your worlds get saved."	"Original Translation
 zh_CN: 你的 iCloud 可用空间不足，无法妥当保存世界。下次你玩《我的世界》时，它们可能不存在了。请释放 iCloud 账户上的空间，确保所有世界保存完好。
-zh_TW: 你的 iCloud 可用空間不足，無法將世界妥善儲存下來，下回玩 Minecraft 的時候恐怕不復存在。請在 iCloud 帳戶下釋出空間，確保你所有的世界都會儲存下來。"	"你的iCloud可用空间不足，无法妥善保存存档。当你下次玩Minecraft时，可能就找不到你的存档了。请释放iCloud账户上的空间，确保所有存档保存完好。"
+zh_TW: 你的 iCloud 可用空間不足，無法將世界妥善儲存下來，下回玩 Minecraft 的時候恐怕不復存在。請在 iCloud 帳戶下釋出空間，確保你所有的世界都會儲存下來。"	"你的iCloud可用空间不足，无法妥当保存世界。下次你玩Minecraft时，它们可能会消失。请在iCloud账户上释放一些空间，确保所有世界都会保存下来。"
 "apple.iCloudSignInRequired.message"	"You need to be signed in to iCloud to play Minecraft. Go to your Apple TV settings and turn on iCloud."	"Original Translation
 zh_CN: 您必须登录 iCloud 才能玩《我的世界》。请转到 Apple TV 设置并打开 iCloud。
 zh_TW: 您需要登入 iCloud，才能玩 Minecraft。請前往 Apple TV 設定並開啟 iCloud。"	"你必须登录iCloud才能游玩Minecraft。请转到Apple TV设置并开启iCloud。"
@@ -2185,7 +2185,7 @@ zh_CN: 大小：%s
 zh_TW: 大小：%s"	"大小：%s"
 "chat.settings.fontSize.disabled"	"Size: Available with %s"	"Original Translation
 zh_CN: 大小：%s 时可用
-zh_TW: 大小：於 %s 提供"	"大小：字体为%s时可用"
+zh_TW: 大小：於 %s 提供"	"大小：为%s时可用"
 "chat.settings.lineSpacing"	"Line Spacing"	"Original Translation
 zh_CN: 行间距
 zh_TW: 行距"	"行间距"
@@ -2833,52 +2833,52 @@ zh_CN: 方块状态的无效值：“%1$s”。
 zh_TW: 方塊狀態的值無效：'%1$s'。"	"方块状态“%1$s”的值无效。"
 "commands.bossbar.add.failure.exists"	"A bossbar already exists with the ID '%1$s'"	"Original Translation
 zh_CN: 一个 ID 为 '%1$s' 的 Boss 条已经存在
-zh_TW: ID [%1$s] 的 bossbar 已存在"	"ID为“%1$s”的Boss栏已经存在"
+zh_TW: ID [%1$s] 的 bossbar 已存在"	"ID为“%1$s”的Boss条已经存在"
 "commands.bossbar.add.failure.invalid"	"Invalid bossbar ID. IDs should be of the form namespace:id or id (defaults to minecraft namespace)."	"Original Translation
 zh_CN: 无效的 Boss 条 ID。ID 应该为 namespace:id 或 id 形式（默认为《我的世界》namespace）。
-zh_TW: 無效的 bossbar ID。ID 應為格式命名空間：id 或 id (預設為 Minecraft 命名空間)。"	"无效的Boss栏ID。ID应该为“命名空间:id”或“id”形式（命名空间默认为minecraft）。"
+zh_TW: 無效的 bossbar ID。ID 應為格式命名空間：id 或 id (預設為 Minecraft 命名空間)。"	"无效的Boss条ID。ID应该为“命名空间:id”或“id”形式（命名空间默认为minecraft）。"
 "commands.bossbar.add.success"	"Created custom bossbar [%1$s]"	"Original Translation
 zh_CN: 已创建自定义 Boss 条 [%1$s]
-zh_TW: 已建立自訂 bossbar [%1$s]"	"已创建自定义Boss栏[%1$s]"
+zh_TW: 已建立自訂 bossbar [%1$s]"	"已创建自定义Boss条[%1$s]"
 "commands.bossbar.description"	"Creates and modifies boss bars"	"Original Translation
 zh_CN: 创建和修改 Boss 条
-zh_TW: 建立並修改頭目血條"	"创建和修改Boss栏。"
+zh_TW: 建立並修改頭目血條"	"创建和修改Boss条"
 "commands.bossbar.get.max"	"Custom bossbar [%1$s] has a maximum of %2$d"	"Original Translation
 zh_CN: 自定义 Boss 条 [%1$s] 最多有 %2$d
-zh_TW: 自訂 bossbar [%1$s] 最多為 %2$d"	"自定义Boss栏[%1$s]的最大值为%2$d"
+zh_TW: 自訂 bossbar [%1$s] 最多為 %2$d"	"自定义Boss条[%1$s]的最大值为%2$d"
 "commands.bossbar.get.players"	"Custom bossbar [%1$s] has %2$s players currently online: %3$s"	"Original Translation
 zh_CN: 自定义 Boss 条 [%1$s] 当前有 %2$s 名玩家在线：%3$s
-zh_TW: 自訂 bossbar [%1$s] 目前有 %2$s 名玩家在線上：%3$s"	"自定义Boss栏[%1$s]当前在线的%2$s名玩家有：%3$s"
+zh_TW: 自訂 bossbar [%1$s] 目前有 %2$s 名玩家在線上：%3$s"	"自定义Boss条[%1$s]当前在线的%2$s名玩家有：%3$s"
 "commands.bossbar.get.players.none"	"Custom bossbar [%1$s] has no players currently online"	"Original Translation
 zh_CN: 自定义 Boss 条 [%1$s] 当前没有玩家在线
-zh_TW: 自訂 bossbar [%1$s] 目前沒有玩家在線上"	"自定义Boss栏[%1$s]目前没有在线玩家"
+zh_TW: 自訂 bossbar [%1$s] 目前沒有玩家在線上"	"自定义Boss条[%1$s]目前没有在线玩家"
 "commands.bossbar.get.players.one"	"Custom bossbar [%1$s] has 1 player currently online: %2$s"	"Original Translation
 zh_CN: 自定义 Boss 条 [%1$s] 当前有 1 名玩家在线：%2$s
-zh_TW: 自訂 bossbar [%1$s] 目前有 1 名玩家在線上：%2$s"	"自定义Boss栏[%1$s]当前在线的1名玩家有：%2$s"
+zh_TW: 自訂 bossbar [%1$s] 目前有 1 名玩家在線上：%2$s"	"自定义Boss条[%1$s]当前在线的1名玩家有：%2$s"
 "commands.bossbar.get.value"	"Custom bossbar [%1$s] has a value of %2$d"	"Original Translation
 zh_CN: 自定义 Boss 条 [%1$s] 有一个 %2$d 的值
-zh_TW: 自訂 bossbar [%1$s] 目前的數值為 %2$d"	"自定义Boss栏[%1$s]的数值为%2$d"
+zh_TW: 自訂 bossbar [%1$s] 目前的數值為 %2$d"	"自定义Boss条[%1$s]的数值为%2$d"
 "commands.bossbar.get.visible.false"	"Custom bossbar [%1$s] is currently hidden"	"Original Translation
 zh_CN: 自定义 Boss 条 [%1$s] 当前隐藏
-zh_TW: 自訂 bossbar [%1$s]目前已隱藏"	"自定义Boss栏[%1$s]现为隐藏"
+zh_TW: 自訂 bossbar [%1$s]目前已隱藏"	"自定义Boss条[%1$s]现为隐藏"
 "commands.bossbar.get.visible.true"	"Custom bossbar [%1$s] is currently shown"	"Original Translation
 zh_CN: 自定义 Boss 条 [%1$s] 当前显示
-zh_TW: 自訂 bossbar [%1$s]目前已顯示"	"自定义Boss栏[%1$s]现为可见"
+zh_TW: 自訂 bossbar [%1$s]目前已顯示"	"自定义Boss条[%1$s]现为可见"
 "commands.bossbar.list"	"There are %1$s custom bossbars active: %2$s"	"Original Translation
 zh_CN: 有 %1$s 个自定义 Boss 条处于活跃状态：%2$s
-zh_TW: %1$s 個自訂 bossbar 已啟用：%2$s"	"有%1$s项运行中的自定义Boss栏：%2$s"
+zh_TW: %1$s 個自訂 bossbar 已啟用：%2$s"	"有%1$s项运行中的自定义Boss条：%2$s"
 "commands.bossbar.list.none"	"There are no custom bossbars active"	"Original Translation
 zh_CN: 没有自定义 Boss 条处于活跃状态
-zh_TW: 沒有已啟用的自訂 bossbar"	"无运行中的自定义Boss栏"
+zh_TW: 沒有已啟用的自訂 bossbar"	"无运行中的自定义Boss条"
 "commands.bossbar.list.one"	"There is 1 custom bossbar active: %1$s"	"Original Translation
 zh_CN: 有 1 个自定义 Boss 条处于活跃状态：%1$s
-zh_TW: 1 個自訂 bossbar 已啟用：%1$s"	"有1项运行中的自定义Boss栏：%1$s"
+zh_TW: 1 個自訂 bossbar 已啟用：%1$s"	"有1项运行中的自定义Boss条：%1$s"
 "commands.bossbar.notFound"	"No bossbar exists with the ID '%1$s'"	"Original Translation
 zh_CN: ID 为 '%1$s' 的 Boss 条不存在
-zh_TW: 沒有 ID 為 [%1$s] 的 bossbar 存在"	"不存在ID为“%1$s”的Boss栏"
+zh_TW: 沒有 ID 為 [%1$s] 的 bossbar 存在"	"不存在ID为“%1$s”的Boss条"
 "commands.bossbar.remove"	"Removed custom bossbar [%1$s]"	"Original Translation
 zh_CN: 已移除自定义 Boss 条 [%1$s]
-zh_TW: 已移除自訂 bossbar [%1$s]"	"已移除自定义Boss栏[%1$s]"
+zh_TW: 已移除自訂 bossbar [%1$s]"	"已移除自定义Boss条[%1$s]"
 "commands.camera.description"	"Issues a camera instruction"	"Original Translation
 zh_CN: 发出摄像机指令
 zh_TW: 發出相機指示"	"发出相机视角指令"
@@ -10363,7 +10363,7 @@ zh_CN: 新增引导平面，便于精确射线投射，尤其适用于天空或�
 zh_TW: 新增參考平面，提升光線投射的精準度，在天空或虛空中特別好用。按一下動作列就能找到參考平面面板。"	"添加引导平面以实现精确的射线投射，尤其是在天空或虚空环境中。在操作栏中找到引导平面面板。"
 "editor.updateInfo.26u5.layouts"	"Improvements have been made to the Layouts tool and the Layout Instance tool. Adding, selecting, and manipulating structures within a layout should be easier."	"Original Translation
 zh_CN: 布局工具和布局实例工具已改进。现在在布局中添加、选择和操作结构更加简单。
-zh_TW: 已改良配置工具及配置執行個體工具。現在新增、選取和操作配置內的結構變得更方便了。"	""
+zh_TW: 已改良配置工具及配置執行個體工具。現在新增、選取和操作配置內的結構變得更方便了。"	"布局工具和布局实例工具现已得到改进。在布局中添加、选择和操作结构将更加简单。"
 "editor.updateInfo.26u5.pastePreview"	"You’ll get a widget with Paste Preview now, to make placing things from your clipboard easier and more precise."	"Original Translation
 zh_CN: 现在你会得到一个带有粘贴预览的小部件，让你从剪贴板粘贴物品时更加轻松与精准。
 zh_TW: 你現在會獲得擁有貼上預覽功能的小工具，能讓你更輕鬆、更精準地把剪貼簿裡的東西貼上來。"	"新增一个展示粘贴预览的控件，能够更轻松、更精确地放置剪贴板中的内容。"
@@ -21253,7 +21253,7 @@ zh_CN: 购买 Minecraft
 zh_TW: 購買 Minecraft"	"购买Minecraft"
 "hbui.PlayRealmsTrialModeModal.message"	"Run your own Minecraft server! You set the rules: who can join and how to play. Realm members play for free, even when you’re offline. Easy to set up, manage, and access from any device."	"Original Translation
 zh_CN: 管理自己的 Minecraft 服务器！哪些玩家可以加入、游戏要怎么玩，都由您来定。即使您不在线，Realm 成员也可以免费游玩。轻松设置、管理，并且可在任何设备上游玩。
-zh_TW: 執行你專屬的 Minecraft 伺服器！你能設定規則：誰能加入以及遊玩規則。即使你處於離線狀態，Realm 成員也可以免費遊玩。在任何裝置都能簡單的進行設定，管理和存取。"	"开设属于自己的Minecraft服务器！谁能玩、怎么玩，你说了算。Realm成员无需付费就可畅玩，即便在你离线时照样能玩。Realm设置起来简单快捷，管理起来轻而易举，且各类设备都能加入畅玩。"
+zh_TW: 執行你專屬的 Minecraft 伺服器！你能設定規則：誰能加入以及遊玩規則。即使你處於離線狀態，Realm 成員也可以免費遊玩。在任何裝置都能簡單的進行設定，管理和存取。"	"运行属于自己的《Minecraft》服务器！谁能玩、怎么玩，你说了算。Realm成员无需付费就可畅玩，即便在你离线时照样能玩。Realm设置起来简单快捷，管理起来轻而易举，且各类设备都能加入畅玩。"
 "hbui.PlayRealmsTrialModeModal.select"	"Select"	"Original Translation
 zh_CN: 选择
 zh_TW: 選取"	"选择"
@@ -30243,7 +30243,7 @@ zh_CN: 无论你是想要无尽的阳光还是瞬间的重生，高级设置都�
 zh_TW: 無論你想要無盡的陽光還是立即重生，進階設定都能讓你打造完美的冒險之旅。"	"无论你想要终为白日还是立即重生，高级设置都能完美地改造你的冒险。"
 "hbui.TrialModeMessage.advancedTabTitle"	"Minecraft mastery"	"Original Translation
 zh_CN: Minecraft 大师
-zh_TW: Minecraft 精通"	"Minecraft高级设置"
+zh_TW: Minecraft 精通"	"Minecraft大师"
 "hbui.TrialModeMessage.behaviorPacksTabMessage"	"With behavior packs from Minecraft Marketplace you can make zombies friendly, cows fly, or even create entirely new creatures and gameplay mechanics."	"Original Translation
 zh_CN: 有了 Minecraft 市场的行为包，你可以让僵尸变得友好，让奶牛飞起来，甚至创建全新的生物和游戏机制。
 zh_TW: 借助 Minecraft Marketplace 的行為套件，你可以讓殭屍變得友善、讓乳牛飛起來，甚至創造全新的生物和遊戲機制。"	"使用来自Minecraft市场的行为包，你可以让僵尸变得友好，让牛飞起来，甚至打造全新的生物和游戏机制。"
@@ -31575,7 +31575,7 @@ zh_CN: 百科全书
 zh_TW: 百科全書"	"游戏百科"
 "howtoplay.encyclopedia.text.1"	"Minecraft Encyclopedia"	"Original Translation
 zh_CN: 《我的世界》百科全书
-zh_TW: Minecraft 百科全書"	"Minecraft游戏百科\n\n本译名修正包由ff98sha制作，Jingji132等贡献者提供支持。\n\n在Github搜索mclangcn可查看本译名修正包项目。\n\n关注B站/微博@Minecraft中文Wiki，获取译名信息。\n\n中文Minecraft Wiki提醒你：\n译名千万条，准确第一条。翻译不规范，玩家两行泪。"
+zh_TW: Minecraft 百科全書"	"Minecraft游戏百科"
 "howtoplay.encyclopedia.title"	"Minecraft Encyclopedia"	"Original Translation
 zh_CN: Minecraft 百科全书
 zh_TW: Minecraft 百科全書"	"Minecraft游戏百科"
@@ -39357,10 +39357,10 @@ zh_CN: N9
 zh_TW: 數字 9"	"N9"
 "keyboard.keyName.o"	"O"	"Original Translation
 zh_CN: O
-zh_TW: O"	""
+zh_TW: O"	"O"
 "keyboard.keyName.p"	"P"	"Original Translation
 zh_CN: P
-zh_TW: P"	""
+zh_TW: P"	"P"
 "keyboard.keyName.pause"	"PAUSE"	"Original Translation
 zh_CN: 暂停
 zh_TW: PAUSE 鍵"	"Pause"
@@ -39387,22 +39387,22 @@ zh_CN: PgUp
 zh_TW: PgUp 鍵"	"PgUp"
 "keyboard.keyName.q"	"Q"	"Original Translation
 zh_CN: Q
-zh_TW: Q"	""
+zh_TW: Q"	"Q"
 "keyboard.keyName.r"	"R"	"Original Translation
 zh_CN: R
-zh_TW: R"	""
+zh_TW: R"	"R"
 "keyboard.keyName.rbracket"	"RBRACKET"	"Original Translation
 zh_CN: 右括号
 zh_TW: 右括號"	")"
 "keyboard.keyName.rbracket.short"	"]"	"Original Translation
 zh_CN: ]
-zh_TW: ]"	""
+zh_TW: ]"	"]"
 "keyboard.keyName.return"	"RETURN"	"Original Translation
 zh_CN: 返回
 zh_TW: RETURN 鍵"	"Return"
 "keyboard.keyName.return.short"	"RETURN"	"Original Translation
 zh_CN: 返回
-zh_TW: RETURN 鍵"	""
+zh_TW: RETURN 鍵"	"返回"
 "keyboard.keyName.right"	"RIGHT"	"Original Translation
 zh_CN: 右
 zh_TW: 向右鍵"	"右"
@@ -39411,7 +39411,7 @@ zh_CN: 右
 zh_TW: 向右鍵"	"右"
 "keyboard.keyName.s"	"S"	"Original Translation
 zh_CN: S
-zh_TW: S"	""
+zh_TW: S"	"S"
 "keyboard.keyName.scroll"	"SCROLL"	"Original Translation
 zh_CN: 滚动
 zh_TW: SCROLL 鍵"	"Scroll"
@@ -39423,7 +39423,7 @@ zh_CN: 分号
 zh_TW: 分號"	";"
 "keyboard.keyName.semicolon.short"	";"	"Original Translation
 zh_CN: ;
-zh_TW: ;"	""
+zh_TW: ;"	";"
 "keyboard.keyName.slash"	"SLASH"	"Original Translation
 zh_CN: 斜杠
 zh_TW: 斜線"	"/"
@@ -39435,25 +39435,25 @@ zh_CN: 空格
 zh_TW: 空格鍵"	"空格"
 "keyboard.keyName.space.short"	"SPACE"	"Original Translation
 zh_CN: 空格
-zh_TW: 空格鍵"	""
+zh_TW: 空格鍵"	"空格"
 "keyboard.keyName.subtract"	"SUBTRACT"	"Original Translation
 zh_CN: 减
 zh_TW: 減去"	"-"
 "keyboard.keyName.subtract.short"	"N-"	"Original Translation
 zh_CN: N-
-zh_TW: 數字 -"	""
+zh_TW: 數字 -"	"N-"
 "keyboard.keyName.t"	"T"	"Original Translation
 zh_CN: T
-zh_TW: T"	""
+zh_TW: T"	"T"
 "keyboard.keyName.tab"	"TAB"	"Original Translation
 zh_CN: TAB
 zh_TW: TAB 鍵"	"Tab"
 "keyboard.keyName.tab.short"	"TAB"	"Original Translation
 zh_CN: TAB
-zh_TW: TAB 鍵"	""
+zh_TW: TAB 鍵"	"TAB"
 "keyboard.keyName.u"	"U"	"Original Translation
 zh_CN: U
-zh_TW: U"	""
+zh_TW: U"	"U"
 "keyboard.keyName.up"	"UP"	"Original Translation
 zh_CN: 上
 zh_TW: 向上鍵"	"上"
@@ -39462,19 +39462,19 @@ zh_CN: 上
 zh_TW: 向上鍵"	"上"
 "keyboard.keyName.v"	"V"	"Original Translation
 zh_CN: V
-zh_TW: V"	""
+zh_TW: V"	"V"
 "keyboard.keyName.w"	"W"	"Original Translation
 zh_CN: W
-zh_TW: W"	""
+zh_TW: W"	"W"
 "keyboard.keyName.x"	"X"	"Original Translation
 zh_CN: X
-zh_TW: X"	""
+zh_TW: X"	"X"
 "keyboard.keyName.y"	"Y"	"Original Translation
 zh_CN: Y
-zh_TW: Y"	""
+zh_TW: Y"	"Y"
 "keyboard.keyName.z"	"Z"	"Original Translation
 zh_CN: Z
-zh_TW: Z"	""
+zh_TW: Z"	"Z"
 "keyboard.onScreen.lineNumber"	"Line %s"	"Original Translation
 zh_CN: 行 %s
 zh_TW: 線路 %s"	"第%s行"
@@ -42468,7 +42468,7 @@ zh_CN: Realms 信任方支付
 zh_TW: 倚賴 Realms 的一方付款"	"Realm信任方支付"
 "options.dev_realmsSku"	"Realms SKU"	"Original Translation
 zh_CN: Realms SKU
-zh_TW: Realms SKU"	""
+zh_TW: Realms SKU"	"Realms SKU"
 "options.dev_realms_environment.dev"	"Dev"	"Original Translation
 zh_CN: 开发
 zh_TW: 開發"	"开发"
@@ -42642,10 +42642,10 @@ zh_CN: NetherNet (MPSD)
 zh_TW: NetherNet (MPSD)"	"NetherNet（MPSD）"
 "options.dev_transport_layer.nethernet_websockets"	"NetherNet (WebSockets)"	"Original Translation
 zh_CN: NetherNet (WebSockets)
-zh_TW: NetherNet (WebSocket)"	""
+zh_TW: NetherNet (WebSocket)"	"NetherNet (WebSockets)"
 "options.dev_transport_layer.raknet"	"RakNet"	"Original Translation
 zh_CN: RakNet
-zh_TW: RakNet"	""
+zh_TW: RakNet"	"RakNet"
 "options.dev_unusedRealmsFeaturesTitle"	"Disabled Realms Feature Flags"	"Original Translation
 zh_CN: 已禁用 Realms 功能标志
 zh_TW: 已停用 Realms 功能旗幟"	"已禁用的Realm功能"
@@ -42948,7 +42948,7 @@ zh_CN: 游戏内摄像机的视角
 zh_TW: 遊戲內鏡頭視角"	"游戏内相机视角的可视角度"
 "options.fov.format"	"%s°"	"Original Translation
 zh_CN: %s°
-zh_TW: %s°"	""
+zh_TW: %s°"	"%s°"
 "options.fov.max"	"Quake Pro"	"Original Translation
 zh_CN: 广角
 zh_TW: 超廣角"	"广角"
@@ -45438,7 +45438,7 @@ zh_CN: 阿里的鞋子
 zh_TW: 阿里的鞋子"	"Ari的鞋子"
 "persona.ari_skin.title"	"Ari"	"Original Translation
 zh_CN: 阿里
-zh_TW: 阿里"	""
+zh_TW: 阿里"	"阿里"
 "persona.csb.savings"	"You save %s minecoins with your Marketplace Pass subscription!"	"Original Translation
 zh_CN: 通过订阅 Marketplace Pass，你可以节省 %s 个 Minecoin！
 zh_TW: 您的 Marketplace Pass 訂閱可以節省 %s Minecoin！"	"你的Marketplace Pass订阅为你节省了%s枚Minecoin！"
@@ -45489,7 +45489,7 @@ zh_CN: 埃菲的珠宝
 zh_TW: 埃菲的珠寶"	"Efe的首饰"
 "persona.efe_name.title"	"Efe"	"Original Translation
 zh_CN: 埃菲
-zh_TW: 埃菲"	""
+zh_TW: 埃菲"	"埃菲"
 "persona.efe_pants.title"	"Efe's Pants"	"Original Translation
 zh_CN: 埃菲的裤子
 zh_TW: 埃菲的褲子"	"Efe的裤子"
@@ -45501,7 +45501,7 @@ zh_CN: 埃菲的靴子
 zh_TW: 埃菲的靴子"	"Efe的靴子"
 "persona.efe_skin.title"	"Efe"	"Original Translation
 zh_CN: 埃菲
-zh_TW: 埃菲"	""
+zh_TW: 埃菲"	"埃菲"
 "persona.kai_dress.title"	"Kai's Dress"	"Original Translation
 zh_CN: 凯的连衣裙
 zh_TW: 凱的洋裝"	"Kai的连衣裙"
@@ -45513,19 +45513,19 @@ zh_CN: 凯的夹克
 zh_TW: 凱的夾克"	"Kai的夹克衫"
 "persona.kai_name.title"	"Kai"	"Original Translation
 zh_CN: 凯
-zh_TW: 凱"	""
+zh_TW: 凱"	"凯"
 "persona.kai_shoes.title"	"Kai's Shoes"	"Original Translation
 zh_CN: 凯的鞋子
 zh_TW: 凱的鞋子"	"Kai的鞋子"
 "persona.kai_skin.title"	"Kai"	"Original Translation
 zh_CN: 凯
-zh_TW: 凱"	""
+zh_TW: 凱"	"凯"
 "persona.makena_hair.title"	"Makena's Curls"	"Original Translation
 zh_CN: 马克纳的卷发
 zh_TW: 麥肯納的捲髮"	"Makena的卷发"
 "persona.makena_name.title"	"Makena"	"Original Translation
 zh_CN: 马克纳
-zh_TW: 麥肯納"	""
+zh_TW: 麥肯納"	"马克纳"
 "persona.makena_pants.title"	"Makena's Pants"	"Original Translation
 zh_CN: 马克纳的裤子
 zh_TW: 麥肯納的褲子"	"Makena的裤子"
@@ -45537,7 +45537,7 @@ zh_CN: 马克纳的鞋子
 zh_TW: 麥肯納的鞋子"	"Makena的鞋子"
 "persona.makena_skin.title"	"Makena"	"Original Translation
 zh_CN: 马克纳
-zh_TW: 麥肯納"	""
+zh_TW: 麥肯納"	"马克纳"
 "persona.medium.title"	"medium"	"Original Translation
 zh_CN: 中
 zh_TW: 中"	"普通"
@@ -45549,7 +45549,7 @@ zh_CN: 努尔的夹克
 zh_TW: 諾爾的夾克"	"Noor的夹克衫"
 "persona.noor_name.title"	"Noor"	"Original Translation
 zh_CN: 努尔
-zh_TW: 諾爾"	""
+zh_TW: 諾爾"	"努尔"
 "persona.noor_pants.title"	"Noor's Pants"	"Original Translation
 zh_CN: 努尔的裤子
 zh_TW: 諾爾的褲子"	"Noor的裤子"
@@ -45561,7 +45561,7 @@ zh_CN: 努尔的鞋子
 zh_TW: 諾爾的鞋子"	"Noor的鞋子"
 "persona.noor_skin.title"	"Noor"	"Original Translation
 zh_CN: 努尔
-zh_TW: 諾爾"	""
+zh_TW: 諾爾"	"努尔"
 "persona.player_name.title"	"Player"	"Original Translation
 zh_CN: 玩家
 zh_TW: 玩家"	"玩家"
@@ -45606,7 +45606,7 @@ zh_CN: 史蒂夫的嘴？
 zh_TW: 史提夫的嘴巴？"	"Steve的嘴？"
 "persona.steve_name.title"	"Steve"	"Original Translation
 zh_CN: 史蒂夫
-zh_TW: 史提夫"	""
+zh_TW: 史提夫"	"史蒂夫"
 "persona.steve_pants.title"	"Steve's Pants"	"Original Translation
 zh_CN: 史蒂夫的裤子
 zh_TW: 史提夫的褲子"	"Steve的裤子"
@@ -45618,7 +45618,7 @@ zh_CN: 史蒂夫的鞋子
 zh_TW: 史提夫的鞋子"	"Steve的鞋子"
 "persona.steve_skin.title"	"Steve"	"Original Translation
 zh_CN: 史蒂夫
-zh_TW: 史提夫"	""
+zh_TW: 史提夫"	"史蒂夫"
 "persona.straight_mouth.title"	"Straight"	"Original Translation
 zh_CN: 直道
 zh_TW: 直線"	"直线"
@@ -45627,7 +45627,7 @@ zh_CN: 桑尼的碗盖头
 zh_TW: 桑妮的西瓜皮頭"	"Sunny的碗盖头"
 "persona.sunny_name.title"	"Sunny"	"Original Translation
 zh_CN: 桑尼
-zh_TW: 桑妮"	""
+zh_TW: 桑妮"	"桑尼"
 "persona.sunny_pants.title"	"Sunny's Overalls"	"Original Translation
 zh_CN: 桑尼的工装裤
 zh_TW: 桑妮的工作服"	"Sunny的背带裤"
@@ -45639,7 +45639,7 @@ zh_CN: 桑尼的鞋子
 zh_TW: 桑妮的鞋子"	"Sunny的鞋子"
 "persona.sunny_skin.title"	"Sunny"	"Original Translation
 zh_CN: 桑尼
-zh_TW: 桑妮"	""
+zh_TW: 桑妮"	"桑尼"
 "persona.tall.title"	"tall"	"Original Translation
 zh_CN: 高
 zh_TW: 高"	"高大"
@@ -45654,7 +45654,7 @@ zh_CN: 祖里的嗡嗡声
 zh_TW: 祖里的 Buzz"	"Zuri的寸头"
 "persona.zuri_name.title"	"Zuri"	"Original Translation
 zh_CN: 祖里
-zh_TW: 祖里"	""
+zh_TW: 祖里"	"祖里"
 "persona.zuri_pants.title"	"Zuri's Pants"	"Original Translation
 zh_CN: 祖里的裤子
 zh_TW: 祖里的褲子"	"Zuri的裤子"
@@ -45663,7 +45663,7 @@ zh_CN: 祖里的鞋子
 zh_TW: 祖里的鞋子"	"Zuri的鞋子"
 "persona.zuri_skin.title"	"Zuri"	"Original Translation
 zh_CN: 祖里
-zh_TW: 祖里"	""
+zh_TW: 祖里"	"祖里"
 "platform.model.unknown"	"UNKNOWN"	"Original Translation
 zh_CN: 未知
 zh_TW: 未知"	"未知"
@@ -45765,10 +45765,10 @@ zh_CN: 复制《我的世界》（发布版本）世界…
 zh_TW: 正在複製世界 Minecraft (發行版本)..."	"正在从Minecraft（正式版）复制世界…"
 "playscreen.fileSize.GB"	"GB"	"Original Translation
 zh_CN: GB
-zh_TW: GB"	""
+zh_TW: GB"	"GB"
 "playscreen.fileSize.MB"	"MB"	"Original Translation
 zh_CN: MB
-zh_TW: MB"	""
+zh_TW: MB"	"MB"
 "playscreen.freeBetaRealmAvailable"	"Free Beta Realm Available"	"Original Translation
 zh_CN: 免费 Beta Realm 可用
 zh_TW: 免費 Beta Realm 已推出"	"免费的Beta版Realm可用"
@@ -46146,19 +46146,19 @@ zh_CN: I
 zh_TW: I"	""
 "potion.potency.1"	"II"	"Original Translation
 zh_CN: II
-zh_TW: II"	""
+zh_TW: II"	"II"
 "potion.potency.2"	"III"	"Original Translation
 zh_CN: III
-zh_TW: III"	""
+zh_TW: III"	"III"
 "potion.potency.3"	"IV"	"Original Translation
 zh_CN: IV
-zh_TW: IV"	""
+zh_TW: IV"	"IV"
 "potion.potency.4"	"V"	"Original Translation
 zh_CN: V
-zh_TW: V"	""
+zh_TW: V"	"V"
 "potion.potency.5"	"VI"	"Original Translation
 zh_CN: VI
-zh_TW: VI"	""
+zh_TW: VI"	"VI"
 "potion.regeneration"	"Regeneration"	"Original Translation
 zh_CN: 生命恢复
 zh_TW: 再生"	"生命恢复"
@@ -46737,7 +46737,7 @@ zh_CN: 由于你的设备不满足最低系统要求，因此无法下载此包�
 zh_TW: 此內容套件無法下載，因為你的裝置不符合最低系統需求。你可以在內容套件的描述中找到這些需求。"	"无法下载此包，因为你的设备不符合最低系统要求。这些要求可以在包描述中找到。"
 "raytracing.RTX.name"	"RTX"	"Original Translation
 zh_CN: RTX
-zh_TW: RTX"	""
+zh_TW: RTX"	"RTX"
 "realmJoining.progressTitle"	"Joining Realm..."	"Original Translation
 zh_CN: 正在加入 Realm…
 zh_TW: 正在加入 Realm…"	"正在加入Realm…"
@@ -47211,7 +47211,7 @@ zh_CN: 邀请
 zh_TW: 邀請"	"邀请"
 "realmsSettingsScreen.amazonStoreDisplayName"	"Amazon Appstore"	"Original Translation
 zh_CN: Amazon Appstore
-zh_TW: Amazon Appstore"	""
+zh_TW: Amazon Appstore"	"Amazon Appstore"
 "realmsSettingsScreen.applyPacks"	"Applying packs..."	"Original Translation
 zh_CN: 正在应用包...
 zh_TW: 正在套用套件…"	"正在应用包…"
