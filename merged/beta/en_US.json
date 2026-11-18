@@ -2199,6 +2199,8 @@
   "createWorldScreen.experimentalGameTestDescription": "Use \"-beta\" versions of API modules in add-on packs",
   "createWorldScreen.experimentalNetherSpawningBalance": "Nether Spawning Rebalancing",
   "createWorldScreen.experimentalNetherSpawningBalanceDescription": "Adjusts Nether mob density and fortress spawning to more closely resemble Java Edition",
+  "createWorldScreen.experimentalOffhandParityDescription": "Enable equipping and using items in the off-hand",
+  "createWorldScreen.experimentalOffhandParityTitle": "Off-hand Parity",
   "createWorldScreen.experimentalPoi": "Points of Interest (POI)",
   "createWorldScreen.experimentalPoiDescription": "Adds poi to locate command and Script API",
   "createWorldScreen.experimentalVillagerTradesRebalance": "Villager Trade Rebalancing",
