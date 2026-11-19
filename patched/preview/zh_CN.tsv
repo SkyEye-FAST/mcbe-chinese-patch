@@ -7485,7 +7485,7 @@ zh_CN: 删除世界
 zh_TW: 刪除世界"	"删除世界"
 "deathScreen.hardcoreInfo"	"You cannot respawn in hardcore mode!"	"Original Translation
 zh_CN: 你不可在极限模式中重生！
-zh_TW: 您無法在極限模式中重生！"	"你不可在极限模式中重生！"
+zh_TW: 您無法在極限模式中重生！"	"你不可以在极限模式中重生！"
 "deathScreen.leaveServer"	"Leave server"	"Original Translation
 zh_CN: 退出服务器
 zh_TW: 離開伺服器"	"退出服务器"
@@ -7512,7 +7512,7 @@ zh_CN: 保存并退出
 zh_TW: 儲存並離開"	"保存并退出"
 "deathScreen.quit.secondaryClient.confirmLeaveWarning"	"Are you sure you want to save and leave the game?"	"Original Translation
 zh_CN: 是否确实要保存并退出游戏？
-zh_TW: 您確定要儲存並離開遊戲嗎？"	"是否确实要保存并退出游戏？"
+zh_TW: 您確定要儲存並離開遊戲嗎？"	"是否确定要保存并退出游戏？"
 "deathScreen.respawn"	"Respawn"	"Original Translation
 zh_CN: 重生
 zh_TW: 重生"	"重生"
