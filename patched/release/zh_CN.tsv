@@ -2527,13 +2527,13 @@ zh_CN: 玩家 %1$s 已经获得了 %2$s 成就
 zh_TW: 玩家 %1$s 已經取得 %2$s 成就"	"玩家%1$s已经获得了%2$s成就"
 "commands.achievement.description"	"Gives or removes an achievement from a player."	"Original Translation
 zh_CN: 授予或删除某位玩家的成就。
-zh_TW: 送出一個成就給某位玩家或從某位玩家身上移除一個成就。"	"授予或撤销某一名玩家的成就。"
+zh_TW: 送出一個成就給某位玩家或從某位玩家身上移除一個成就。"	"给予或移除一名玩家的成就。"
 "commands.achievement.dontHave"	"Player %1$s doesn't have achievement %2$s"	"Original Translation
 zh_CN: 玩家 %1$s 还未获得 %2$s 成就
 zh_TW: 玩家 %1$s 未取得 %2$s 成就"	"玩家%1$s还未获得%2$s成就"
 "commands.achievement.give.success.all"	"Successfully given all achievements to %1$s"	"Original Translation
 zh_CN: 成功将所有成就授予 %1$s
-zh_TW: 成功地將所有成就給予 %1$s"	"已成功将所有成就授予%1$s"
+zh_TW: 成功地將所有成就給予 %1$s"	"已成功将所有成就给予%1$s"
 "commands.achievement.give.success.one"	"Successfully given %1$s the stat %2$s"	"Original Translation
 zh_CN: 成功地给予了 %1$s 统计数据 %2$s
 zh_TW: 成功給予 %1$s 統計值 %2$s"	"已成功给予%1$s统计数据%2$s"
@@ -2671,10 +2671,10 @@ zh_CN: 代理机器人已传送
 zh_TW: Agent已傳送"	"智能体已传送"
 "commands.agent.transfer.failed"	"Agent failed to transfer"	"Original Translation
 zh_CN: 代理机器人转移失败
-zh_TW: Agent轉移失敗"	"智能体转移物品失败"
+zh_TW: Agent轉移失敗"	"智能体转移失败"
 "commands.agent.transfer.success"	"Agent transfer successful"	"Original Translation
 zh_CN: 代理机器人转移成功
-zh_TW: Agent轉移成功"	"智能体转移物品成功"
+zh_TW: Agent轉移成功"	"智能体转移成功"
 "commands.agent.turn.failed"	"Unable to turn Agent"	"Original Translation
 zh_CN: 无法转动代理机器人
 zh_TW: 無法將Agent轉向"	"无法转动智能体"
@@ -2710,10 +2710,10 @@ zh_CN: 无法将 %1$s 添加到允许列表中
 zh_TW: 無法將 %1$s 加到允許清單"	"无法将%1$s添加到白名单中"
 "commands.allowlist.add.success"	"Added %1$s to the allowlist"	"Original Translation
 zh_CN: 已将 %1$s 加入允许列表
-zh_TW: 將 %1$s 加入允許清單"	"已将%1$s加入白名单"
+zh_TW: 將 %1$s 加入允許清單"	"已将%1$s加入允许列表"
 "commands.allowlist.description"	"Manages the server allowlist."	"Original Translation
 zh_CN: 管理服务器允许列表。
-zh_TW: 管理伺服器允許清單。"	"管理服务器白名单。"
+zh_TW: 管理伺服器允許清單。"	"管理服务器允许列表。"
 "commands.allowlist.disabled"	"Turned off the allowlist"	"Original Translation
 zh_CN: 允许列表已关闭
 zh_TW: 關閉允許清單"	"允许列表已关闭"
@@ -2722,19 +2722,19 @@ zh_CN: 允许列表已启用
 zh_TW: 開啟允許清單"	"允许列表已启用"
 "commands.allowlist.list"	"There are %1$d (out of %2$d seen) allowlisted players:"	"Original Translation
 zh_CN: 现有 %1$d 名（可看到的共 %2$d 名）在允许列表中的玩家：
-zh_TW: 共有 %1$d 位允許清單玩家 (全體玩家共 %2$d 位)："	"当前白名单有%1$d名（共%2$d名可见）玩家："
+zh_TW: 共有 %1$d 位允許清單玩家 (全體玩家共 %2$d 位)："	"当前允许列表有%1$d名（共%2$d名可见）玩家："
 "commands.allowlist.noOnlineAuth"	"Using an allowlist without online authentication can be dangerous and is not allowed."	"Original Translation
 zh_CN: 未经在线认证使用允许列表可能存在风险，因此系统不允许此操作。
 zh_TW: 在未經線上驗證的情況下使用允許清單相當危險，因此系統不允許此操作。"	"未经在线身份验证使用白名单存在安全风险，不允许执行此操作。"
 "commands.allowlist.reloaded"	"Allowlist reloaded from file."	"Original Translation
 zh_CN: 已从文件重新读取允许列表。
-zh_TW: 允許清單已自檔案重新載入。"	"已从文件重新读取白名单。"
+zh_TW: 允許清單已自檔案重新載入。"	"已从文件重新读取允许列表。"
 "commands.allowlist.remove.failed"	"Could not remove %1$s from the allowlist"	"Original Translation
 zh_CN: 无法从允许列表中移除 %1$s
-zh_TW: 無法從允許清單移除 %1$s"	"无法从白名单中移除%1$s"
+zh_TW: 無法從允許清單移除 %1$s"	"无法从允许列表中移除%1$s"
 "commands.allowlist.remove.success"	"Removed %1$s from the allowlist"	"Original Translation
 zh_CN: 已将 %1$s 移出允许列表
-zh_TW: 將 %1$s 從允許清單中移除"	"已将%1$s移出白名单"
+zh_TW: 將 %1$s 從允許清單中移除"	"已将%1$s移出允许列表"
 "commands.always.day"	"Day-Night cycle %1$s"	"Original Translation
 zh_CN: 昼夜更替 %1$s
 zh_TW: 日夜交替 %1$s"	"昼夜更替%1$s"
@@ -2770,7 +2770,7 @@ zh_CN: 所有代理机器人
 zh_TW: 所有 Agent"	"所有智能体"
 "commands.ban.description"	"Adds player to banlist."	"Original Translation
 zh_CN: 将玩家添加到封禁清单。
-zh_TW: 新增玩家至封鎖名單。"	"将玩家添加到黑名单。"
+zh_TW: 新增玩家至封鎖名單。"	"将玩家添加到封禁列表。"
 "commands.ban.failed"	"Could not ban player %1$s"	"Original Translation
 zh_CN: 无法封禁玩家 %1$s
 zh_TW: 無法封鎖玩家 %1$s"	"无法封禁%1$s"
@@ -2779,7 +2779,7 @@ zh_CN: 已封禁玩家 %1$s
 zh_TW: 封鎖 %1$s 玩家"	"已封禁%1$s"
 "commands.banip.description"	"Adds IP address to banlist."	"Original Translation
 zh_CN: 将 IP 地址添加到封禁清单。
-zh_TW: 新增 IP 位址至封鎖名單。"	"将IP地址添加到黑名单。"
+zh_TW: 新增 IP 位址至封鎖名單。"	"将IP地址添加到封禁列表。"
 "commands.banip.invalid"	"You have entered an invalid IP address or a player that is not online"	"Original Translation
 zh_CN: 你输入了一个无效的 IP 地址或者此玩家不在线
 zh_TW: 您輸入了一個無效的 IP 位址或是玩家並不在線上"	"无效的IP地址或离线的玩家"
@@ -24704,7 +24704,7 @@ zh_TW: 只要你連結的 Realm 付費訂閱有效，預覽版 Realm 就會保�
 "hbui.Realms.RealmsHub.Settings.Subscriptions.PreviewWarningTwo"	"All Realms screens and functions are available in Preview except purchasing a new subscription or managing the subscriptions of existing Realms."	"Original Translation
 zh_CN: 所有 Realms 屏幕和功能都可以在预览版中使用，除了购买新的定期服务或管理现有 Realms 的定期服务。
 zh_TW: 除了購買新訂閱或管理現有的 Realms 訂閱外，預覽版可使用所有的 Realms 介面與功能。"	"所有Realm屏幕和功能都可以在Preview版中使用，除了购买新的订阅或管理现有Realm的订阅。"
-"hbui.Realms.RealmsHub.Settings.Subscriptions.TimeRemaining.title"	"Next billing cycle"	"Original Translation"	""
+"hbui.Realms.RealmsHub.Settings.Subscriptions.TimeRemaining.title"	"Next billing cycle"	"Original Translation"	"下一计费周期"
 "hbui.Realms.RealmsHub.Settings.Subscriptions.TimeRemaining.value"	"%1$sd"	"Original Translation"	"%1$s天"
 "hbui.Realms.RealmsHub.Settings.Subscriptions.infoAndPlayerCount"	"%1$s Subscription: You + %2$s Friends server %3$s"	"Original Translation
 zh_CN: %1$s 订阅：您 + %2$s 位好友服务器 %3$s
@@ -42294,13 +42294,13 @@ zh_CN: 调试纹理
 zh_TW: 偵錯材質"	"调试纹理"
 "options.dev_enableDebugHudOverlay.hbui"	"Gameface"	"Original Translation
 zh_CN: 游戏脸
-zh_TW: Gameface"	""
+zh_TW: Gameface"	"Gameface"
 "options.dev_enableDebugHudOverlay.imagememory"	"Image Memory"	"Original Translation
 zh_CN: 图像存储
 zh_TW: 影像記憶體"	"图像内存"
 "options.dev_enableDebugHudOverlay.imgui"	"ImGui"	"Original Translation
 zh_CN: ImGui
-zh_TW: ImGui"	""
+zh_TW: ImGui"	"ImGui"
 "options.dev_enableDebugHudOverlay.lock_contention"	"Lock Contention"	"Original Translation
 zh_CN: 锁竞争
 zh_TW: 鎖定競爭"	"锁定内容"
@@ -51504,7 +51504,7 @@ zh_CN: +Y
 zh_TW: +Y"	"+Y"
 "resourcePack.editor.pencil.orientation.manual.positiveZ"	"+Z"	"Original Translation
 zh_CN: +Z
-zh_TW: +Z"	""
+zh_TW: +Z"	"+Z"
 "resourcePack.editor.pencil.orientation.manual.random"	"Random"	"Original Translation
 zh_CN: 随机
 zh_TW: 隨機"	"随机"
@@ -57060,7 +57060,7 @@ zh_CN: %s
 zh_TW: %s"	"%s"
 "store.gifting.limitReached.title"	"Gifting Limit Reached"	"Original Translation
 zh_CN: 达到赠礼上限
-zh_TW: 已達贈禮上限"	""
+zh_TW: 已達贈禮上限"	"已达到赠送上限"
 "store.hyperlink.creator.notFound"	"Sorry, but the creator specified in the hyperlink was not found."	"Original Translation
 zh_CN: 抱歉，未找到超链接中指定的创建者。
 zh_TW: 抱歉，找不到超連結內指定的建立者。"	"抱歉，未找到超链接中指定的作者。"
