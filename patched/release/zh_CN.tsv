@@ -9664,13 +9664,13 @@ zh_CN: 选择和修改现有布局实例的属性，或者在世界中放置新�
 zh_TW: 選取並修改現有佈局執行個體的屬性，或是在世界中放置新的執行個體"	"选择并修改现有布局实例的属性，或在世界中放置新的实例"
 "editor.prefabInstanceEditor.rotation.180"	"180°"	"Original Translation
 zh_CN: 180°
-zh_TW: 180°"	""
+zh_TW: 180°"	"180°"
 "editor.prefabInstanceEditor.rotation.270"	"270°"	"Original Translation
 zh_CN: 270°
-zh_TW: 270°"	""
+zh_TW: 270°"	"270°"
 "editor.prefabInstanceEditor.rotation.90"	"90°"	"Original Translation
 zh_CN: 90°
-zh_TW: 90°"	""
+zh_TW: 90°"	"90°"
 "editor.prefabInstanceEditor.rotation.none"	"None"	"Original Translation
 zh_CN: 无
 zh_TW: 無"	"无"
@@ -10009,7 +10009,7 @@ zh_CN: 布局编辑器工具
 zh_TW: 佈局編輯器工具"	"布局编辑器工具"
 "editor.prefabLayoutInstanceEditor.instanceSubPane.title"	"%s"	"Original Translation
 zh_CN: %s
-zh_TW: %s"	""
+zh_TW: %s"	"%s"
 "editor.prefabLayoutInstanceEditor.label.noLayouts"	"The Layouts tool requires that you have one or more Layouts defined for use. Create Layouts in the Layouts Management panel."	"Original Translation
 zh_CN: 布局工具需先定义一个或多个布局。请在布局管理面板中创建布局。
 zh_TW: 佈局工具需要先定義至少一個佈局。請在「佈局管理」面板中建立佈局。"	"布局工具要求你已定义一个或多个布局以供使用。请在“布局管理”面板中创建布局。"
@@ -17989,7 +17989,7 @@ zh_CN: 按 %1$s 打开账户抽屉
 zh_TW: 按下 %1$s 以開啟帳戶欄"	"按下%1$s打开账户列表"
 "hbui.EditorPlayScreen.editorProjects.copyrightLogo"	"©Mojang AB"	"Original Translation
 zh_CN: ©Mojang AB
-zh_TW: ©Mojang AB"	""
+zh_TW: ©Mojang AB"	"©Mojang AB"
 "hbui.EditorPlayScreen.editorProjects.createNewProject"	"Create new project"	"Original Translation
 zh_CN: 创建新项目
 zh_TW: 建立新專案"	"创建新的项目"
@@ -18070,7 +18070,7 @@ zh_CN: 默认
 zh_TW: 預設"	"默认"
 "hbui.EditorRemotePane.listPane.sortType.ztoa"	"z-A, 9-0"	"Original Translation
 zh_CN: z-A，9-0
-zh_TW: z-A，9-0"	""
+zh_TW: z-A，9-0"	"z-A，9-0"
 "hbui.EditorRemotePane.narration"	"Panel"	"Original Translation
 zh_CN: 面板
 zh_TW: 面板"	"面板"
@@ -19969,7 +19969,7 @@ zh_CN: 开始游戏
 zh_TW: 進行遊戲"	"开始游戏"
 "hbui.MainMenu.RealmsButton.label"	"Realms"	"Original Translation
 zh_CN: Realms
-zh_TW: Realms"	""
+zh_TW: Realms"	"Realms"
 "hbui.MainMenu.SettingsButton.inputLegend"	"Settings"	"Original Translation
 zh_CN: 设置
 zh_TW: 設定"	"设置"
@@ -20122,7 +20122,7 @@ zh_CN: #1
 zh_TW: #1"	"No.1"
 "hbui.Marketplace.ContentCard.pass"	"Pass"	"Original Translation
 zh_CN: 使用券
-zh_TW: 通行證"	""
+zh_TW: 通行證"	"Pass"
 "hbui.Marketplace.ContentCard.sale"	"Sale"	"Original Translation
 zh_CN: 特惠
 zh_TW: 特價"	"特惠"
@@ -20386,7 +20386,7 @@ zh_CN: 服务器地址
 zh_TW: 伺服器位址"	"服务器地址"
 "hbui.MyServersRoute.details.addressPlaceholder"	"XX.XXX.XXX.XXX"	"Original Translation
 zh_CN: XX.XXX.XXX.XXX
-zh_TW: XX.XXX.XXX.XXX"	""
+zh_TW: XX.XXX.XXX.XXX"	"XX.XXX.XXX.XXX"
 "hbui.MyServersRoute.details.description"	"Server description"	"Original Translation
 zh_CN: 服务器描述
 zh_TW: 伺服器說明"	"服务器描述"
@@ -23458,7 +23458,7 @@ zh_CN: Nintendo 账号
 zh_TW: Nintendo 帳戶"	"Nintendo账户"
 "hbui.PreStartScreen.platformSignIn.title.psn"	"PlayStation™Network"	"Original Translation
 zh_CN: PlayStation™Network
-zh_TW: PlayStation™Network"	""
+zh_TW: PlayStation™Network"	"PlayStation™Network"
 "hbui.PreStartScreen.screenSize.buttons.enumeration"	"%1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
 zh_TW: %1$s/%2$s"	"第%1$s个，共%2$s个"
@@ -24837,7 +24837,7 @@ zh_CN: 重置世界
 zh_TW: 重設世界"	"重置世界"
 "hbui.Realms.RealmsHub.SlotsScreen.fileDetails"	"%1$s %2$s"	"Original Translation
 zh_CN: %1$s %2$s
-zh_TW: %1$s %2$s"	""
+zh_TW: %1$s %2$s"	"%1$s %2$s"
 "hbui.Realms.RealmsHub.World.ResettingWorld"	"Resetting world"	"Original Translation
 zh_CN: 正在重置世界
 zh_TW: 正在重設世界"	"正在重置世界"
@@ -25347,10 +25347,10 @@ zh_CN: 关闭
 zh_TW: 關閉"	"关闭"
 "hbui.RealmsFeedModeration.error.delete.comment.message"	"Unable to delete comment. Please check your internet connection and try again."	"Original Translation
 zh_CN: 无法删除评论。请检查你的网络连接并重试。
-zh_TW: 無法刪除留言。請檢查網際網路連線，然後再試一次。"	"无法删除评论，请检查你的网络连接并重试。"
+zh_TW: 無法刪除留言。請檢查網際網路連線，然後再試一次。"	"无法删除注释，请检查你的网络连接并重试。"
 "hbui.RealmsFeedModeration.error.delete.comment.title"	"Failed to delete comment"	"Original Translation
 zh_CN: 无法删除评论
-zh_TW: 刪除留言失敗"	"删除评论失败"
+zh_TW: 刪除留言失敗"	"删除注释失败"
 "hbui.RealmsFeedModeration.error.delete.post.message"	"Unable to delete story. Please check your internet connection and try again."	"Original Translation
 zh_CN: 无法删除故事。请检查你的 Internet 连接，然后重试。
 zh_TW: 無法刪除動態。請檢查網際網路連線，然後再試一次。"	"无法删除动态，请检查你的网络连接并重试。"
@@ -25380,13 +25380,13 @@ zh_CN: 移动到右侧以进行其他操作
 zh_TW: 向右移動以執行其他操作"	"移动到右侧执行其他操作"
 "hbui.RealmsFeedModeration.item.comment.delete"	"Yes, delete comment"	"Original Translation
 zh_CN: 是，删除评论
-zh_TW: 好的，刪除留言"	"是，删除评论"
+zh_TW: 好的，刪除留言"	"是，删除注释"
 "hbui.RealmsFeedModeration.item.comment.delete.message"	"This will permanently delete this comment from the feed"	"Original Translation
 zh_CN: 这将从动态中永久删除该评论
-zh_TW: 這則留言會從動態消息中永久刪除。"	"此操作将从动态信息流中永久删除该评论"
+zh_TW: 這則留言會從動態消息中永久刪除。"	"此操作将从动态信息流中永久删除该注释"
 "hbui.RealmsFeedModeration.item.comment.delete.title"	"Delete Comment?"	"Original Translation
 zh_CN: 是否要删除评论？
-zh_TW: 是否要刪除留言？"	"删除评论？"
+zh_TW: 是否要刪除留言？"	"删除注释？"
 "hbui.RealmsFeedModeration.item.delete"	"Yes, delete story"	"Original Translation
 zh_CN: 是，删除故事
 zh_TW: 好的，刪除動態"	"是，删除动态"
@@ -25401,7 +25401,7 @@ zh_CN: 是否要删除故事？
 zh_TW: 是否要刪除動態？"	"删除动态？"
 "hbui.RealmsFeedModeration.item.deleteComment"	"Delete comment"	"Original Translation
 zh_CN: 删除评论
-zh_TW: 刪除留言"	"删除评论"
+zh_TW: 刪除留言"	"删除注释"
 "hbui.RealmsFeedModeration.item.deleteHint"	"Click to delete this post from the Stories feed"	"Original Translation
 zh_CN: 点击以从故事动态中删除此贴子
 zh_TW: 按一下以從動態摘要中刪除此貼文"	"点击以删除该动态帖子"
@@ -25458,7 +25458,7 @@ zh_CN: 重新加载
 zh_TW: 重新載入"	"重新加载"
 "hbui.RealmsFeedModeration.item.reportComment"	"Comment"	"Original Translation
 zh_CN: 评论
-zh_TW: 留言"	"评论"
+zh_TW: 留言"	"注释"
 "hbui.RealmsFeedModeration.item.reportGroupRole"	"group"	"Original Translation
 zh_CN: 组
 zh_TW: 小組"	"组"
@@ -25488,7 +25488,7 @@ zh_CN: 查看截图
 zh_TW: 檢視畫面照片"	"查看截图"
 "hbui.RealmsFeedModeration.notify.deleteComment.toast"	"Comment deleted"	"Original Translation
 zh_CN: 评论已删除
-zh_TW: 留言已刪除"	"评论已删除"
+zh_TW: 留言已刪除"	"注释已删除"
 "hbui.RealmsFeedModeration.notify.deletePost.toast"	"Story deleted"	"Original Translation
 zh_CN: 故事已删除
 zh_TW: 動態已刪除"	"动态已删除"
@@ -26331,7 +26331,7 @@ zh_CN: 第 %1$s 个，共 %2$s 个
 zh_TW: %1$s/%2$s"	"第%1$s个，共%2$s个"
 "hbui.RealmsPurchaseSubscriptionRoute.panelButton.eula"	"EULA"	"Original Translation
 zh_CN: 最终用户许可协议
-zh_TW: 使用者授權合約"	""
+zh_TW: 使用者授權合約"	"最终用户许可协议"
 "hbui.RealmsPurchaseSubscriptionRoute.panelButton.privacyPolicy"	"Privacy policy"	"Original Translation
 zh_CN: 隐私政策
 zh_TW: 隱私政策"	"隐私政策"
@@ -27240,10 +27240,10 @@ zh_CN: 管理员将收到关于此故事的通知。你确定要发送通知吗�
 zh_TW: 系統將通知管理員有關此動態的資訊。確定要傳送通知嗎？"	"系统管理员将收到关于此动态的通知。你确定要发送通知吗？"
 "hbui.RealmsStories.feedPost.options.notify.admin.message.comment"	"The administrators will be notified about this comment. Are you sure you want to send the notification?"	"Original Translation
 zh_CN: 管理员将收到关于此评论的通知。你确定要发送通知吗？
-zh_TW: 系統將通知管理員有關此留言的資訊。確定要傳送通知嗎？"	"系统管理员将收到关于此评论的通知。你确定要发送通知吗？"
+zh_TW: 系統將通知管理員有關此留言的資訊。確定要傳送通知嗎？"	"系统管理员将收到关于此注释的通知。你确定要发送通知吗？"
 "hbui.RealmsStories.feedPost.options.notify.admin.message.comment.narration"	"Textblock. The administrators will be notified about this comment. Are you sure you want to send the notification?"	"Original Translation
 zh_CN: 文本方块。管理员将收到关于此评论的通知。你确定要发送通知吗？
-zh_TW: 文字區塊。系統將通知管理員有關此留言的資訊。確定要傳送通知嗎？"	"文本块。系统管理员将收到关于此评论的通知。你确定要发送通知吗？"
+zh_TW: 文字區塊。系統將通知管理員有關此留言的資訊。確定要傳送通知嗎？"	"文本块。系统管理员将收到关于此注释的通知。你确定要发送通知吗？"
 "hbui.RealmsStories.feedPost.options.notify.admin.message.narration"	"Textblock. The administrators will be notified about this story. Are you sure you want to send the notification?"	"Original Translation
 zh_CN: 文本方块。管理员将收到关于此故事的通知。你确定要发送通知吗？
 zh_TW: 文字區塊。系統將通知管理員有關此動態的資訊。確定要傳送通知嗎？"	"文本块。系统管理员将收到关于此动态的通知。你确定要发送通知吗？"
@@ -27723,13 +27723,13 @@ zh_CN: 选择要设置的 Realm
 zh_TW: 選擇要設定的 Realm"	"选择要配置的Realm"
 "hbui.ReconcileRealmRoute.label.core"	"Core"	"Original Translation
 zh_CN: Core
-zh_TW: Core"	""
+zh_TW: Core"	"Core"
 "hbui.ReconcileRealmRoute.label.plus"	"Plus"	"Original Translation
 zh_CN: Plus
-zh_TW: Plus"	""
+zh_TW: Plus"	"Plus"
 "hbui.ReconcileRealmRoute.label.pro"	"Pro"	"Original Translation
 zh_CN: Pro
-zh_TW: Pro"	""
+zh_TW: Pro"	"Pro"
 "hbui.ReconcileRealmRoute.players"	"%s Players"	"Original Translation
 zh_CN: %s 位玩家
 zh_TW: %s 位玩家"	"%s名玩家"
@@ -29631,10 +29631,10 @@ zh_CN: 云存储
 zh_TW: 雲端儲存空間"	"云存储"
 "hbui.Storage.StorageIndicator.gigabytes"	"%1$sGB"	"Original Translation
 zh_CN: %1$s GB
-zh_TW: %1$s GB"	""
+zh_TW: %1$s GB"	"%1$sGB"
 "hbui.Storage.StorageIndicator.kilobytes"	"%1$sKB"	"Original Translation
 zh_CN: %1$s KB
-zh_TW: %1$s KB"	""
+zh_TW: %1$s KB"	"%1$sKB"
 "hbui.Storage.StorageIndicator.localStorageAlmostFullLabel"	"Local storage is almost full"	"Original Translation
 zh_CN: 本地存储空间几乎已满。
 zh_TW: 本機儲存空間即將全滿"	"本地存储空间不足"
@@ -29655,10 +29655,10 @@ zh_CN: 市场存储空间
 zh_TW: 市集儲存空間"	"市场存储"
 "hbui.Storage.StorageIndicator.megabytes"	"%1$sMB"	"Original Translation
 zh_CN: %1$s MB
-zh_TW: %1$s MB"	""
+zh_TW: %1$s MB"	"%1$sMB"
 "hbui.Storage.StorageIndicator.petabytes"	"%1$sPB"	"Original Translation
 zh_CN: %1$s PB
-zh_TW: %1$s PB"	""
+zh_TW: %1$s PB"	"%1$sPB"
 "hbui.Storage.StorageIndicator.storageContextNarration"	"Storage information"	"Original Translation
 zh_CN: 存储信息
 zh_TW: 儲存空間資訊"	"存储信息"
@@ -29670,7 +29670,7 @@ zh_CN: 已使用 %1$s 个，共 %2$s 个
 zh_TW: 已使用 %1$s / %2$s"	"已使用%1$s，共%2$s"
 "hbui.Storage.StorageIndicator.terabytes"	"%1$sTB"	"Original Translation
 zh_CN: %1$s TB
-zh_TW: %1$s TB"	""
+zh_TW: %1$s TB"	"%1$sTB"
 "hbui.Storage.StorageListHeader.delete"	"Delete"	"Original Translation
 zh_CN: 删除
 zh_TW: 刪除"	"删除"
@@ -29724,7 +29724,7 @@ zh_CN: 版本：%1$s
 zh_TW: 版本 %1$s"	"版本：%1$s"
 "hbui.Storage.StorageListItem.size"	"%1$sMB"	"Original Translation
 zh_CN: %1$s MB
-zh_TW: %1$sMB"	""
+zh_TW: %1$sMB"	"%1$sMB"
 "hbui.Storage.StorageListItem.technicalDetailsLink"	"Technical details"	"Original Translation
 zh_CN: 技术详细信息
 zh_TW: 技術詳細資訊"	"技术详情"
@@ -30672,7 +30672,7 @@ zh_CN: 用您的免费 Microsoft 账号登录，体验 Minecraft 的完整世界
 zh_TW: 使用你的免費 Microsoft 帳戶登入，即可探索完整的 Minecraft 世界。"	"使用你的免费Microsoft账户登录，体验Minecraft的完整世界。"
 "hbui.signInExternalDevice.inlineMessage1"	"https://microsoft.com/link"	"Original Translation
 zh_CN: https://microsoft.com/link
-zh_TW: https://microsoft.com/link"	""
+zh_TW: https://microsoft.com/link"	"https://microsoft.com/link"
 "hbui.signInExternalDevice.narrationOtherOptionLeft"	"Other sign in option available to the left"	"Original Translation
 zh_CN: 左侧有其他登录选项
 zh_TW: 左側另有登入選項"	"左侧可用的其他登录选项"
@@ -37341,7 +37341,7 @@ zh_CN: C418 - blocks
 zh_TW: C418 - blocks"	"C418 - blocks"
 "item.record_bounce.desc"	"fingerspit - Bounce"	"Original Translation
 zh_CN: fingerspit - Bounce
-zh_TW: fingerspit - Bounce"	""
+zh_TW: fingerspit - Bounce"	"fingerspit - Bounce"
 "item.record_cat.desc"	"C418 - cat"	"Original Translation
 zh_CN: C418 - cat
 zh_TW: C418 - cat"	"C418 - cat"
@@ -46143,7 +46143,7 @@ zh_CN: 喷溅型剧毒药水
 zh_TW: 噴濺型劇毒藥水"	"喷溅型剧毒药水"
 "potion.potency.0"	"I"	"Original Translation
 zh_CN: I
-zh_TW: I"	""
+zh_TW: I"	"I"
 "potion.potency.1"	"II"	"Original Translation
 zh_CN: II
 zh_TW: II"	"II"
@@ -48045,7 +48045,7 @@ zh_CN: 查看订阅
 zh_TW: 檢視訂閱"	"查看订阅"
 "realmsSettingsScreen.windowsStoreDisplayName"	"Microsoft Store"	"Original Translation
 zh_CN: Microsoft Store
-zh_TW: Microsoft Store"	""
+zh_TW: Microsoft Store"	"Microsoft Store"
 "realmsSettingsScreen.worldSectionTitle"	"World"	"Original Translation
 zh_CN: 世界
 zh_TW: 世界"	"世界"
@@ -49803,7 +49803,7 @@ zh_CN: 从列表移除并重新分配颜色。
 zh_TW: 從列表移除並重新分配顏色。"	"从列表中移除并重新分配颜色。"
 "resourcePack.editor.customMeshTool.colorBlockList.deleteButton"	"X"	"Original Translation
 zh_CN: X
-zh_TW: X"	""
+zh_TW: X"	"X"
 "resourcePack.editor.customMeshTool.colorBlockList.noColorSources"	"No detected source colors."	"Original Translation
 zh_CN: 未检测到源颜色。
 zh_TW: 未偵測到來源顏色。"	"未检测到源颜色。"
@@ -49866,13 +49866,13 @@ zh_CN: 导入自定义网格
 zh_TW: 匯入自訂網格"	"导入自定义网格"
 "resourcePack.editor.customMeshTool.fileSize.bytes"	"B"	"Original Translation
 zh_CN: B
-zh_TW: B"	""
+zh_TW: B"	"B"
 "resourcePack.editor.customMeshTool.fileSize.kilobytes"	"KB"	"Original Translation
 zh_CN: KB
-zh_TW: KB"	""
+zh_TW: KB"	"KB"
 "resourcePack.editor.customMeshTool.fileSize.megabytes"	"MB"	"Original Translation
 zh_CN: MB
-zh_TW: MB"	""
+zh_TW: MB"	"MB"
 "resourcePack.editor.customMeshTool.info.blocksPlaced"	"Placed %1$s blocks."	"Original Translation
 zh_CN: 已放置 %1$s 个方块。
 zh_TW: 已放置 %1$s 個方塊。"	"已放置%1$s个方块。"
@@ -53583,13 +53583,13 @@ zh_CN: 显示
 zh_TW: 顯示"	"显示"
 "resourcePack.editor.toolRail.guidePlanes.viewControl.sort.aToZ"	"A-z"	"Original Translation
 zh_CN: A-z
-zh_TW: A-z"	""
+zh_TW: A-z"	"A-z"
 "resourcePack.editor.toolRail.guidePlanes.viewControl.sort.oldestNewest"	"Oldest-Newest"	"Original Translation
 zh_CN: 最旧-最新
 zh_TW: 依最舊到最新排序"	"从最旧到最新"
 "resourcePack.editor.toolRail.guidePlanes.viewControl.sort.zToA"	"z-A"	"Original Translation
 zh_CN: z-A
-zh_TW: z-A"	""
+zh_TW: z-A"	"z-A"
 "resourcePack.editor.toolRail.line.keyBinding.addToSelection.title"	"Add to Selection (volume)"	"Original Translation
 zh_CN: 添加到选择（区域）
 zh_TW: 新增至選取範圍 (體)"	"添加到选区"
@@ -54009,7 +54009,7 @@ zh_CN: 移除所有标尺点。
 zh_TW: 移除所有尺規點。"	"移除所有直尺点。"
 "resourcePack.editor.toolRail.rulerTool.description"	"Ruler tool for measuring distances in worlds. Click to place start point, drag to end point, or use coordinates input. CTRL + Left Mouse Click to begin an additional ruler set."	"Original Translation
 zh_CN: 用于在世界中测量距离的增强标尺工具。点击以放置起点，再拖拽到终点，或者使用坐标输入。按住 CTRL 键 + 点击鼠标左键，即可开始设置额外的标尺。
-zh_TW: 用於在世界中測量距離的尺規工具。按一下以放置起點，拖曳至終點，或使用座標輸入。按住 CTRL + 滑鼠左鍵按一下以開始另一組尺規。"	""
+zh_TW: 用於在世界中測量距離的尺規工具。按一下以放置起點，拖曳至終點，或使用座標輸入。按住 CTRL + 滑鼠左鍵按一下以開始另一組尺規。"	"用于在世界中测量距离的直尺工具。点击放置起点，拖动放置终点，或使用坐标输入。Ctrl+单击鼠标左键开始添加一组直尺集。"
 "resourcePack.editor.toolRail.rulerTool.distance.title"	"Distance"	"Original Translation
 zh_CN: 距离
 zh_TW: 距離"	"距离"
@@ -57891,7 +57891,7 @@ zh_CN: 图形
 zh_TW: 圖形"	"图像品质"
 "store.search.filter.graphics.rtx"	"RTX"	"Original Translation
 zh_CN: RTX
-zh_TW: RTX"	""
+zh_TW: RTX"	"RTX"
 "store.search.filter.graphics.vibrantVisuals"	"Vibrant Visuals"	"Original Translation
 zh_CN: 灵动视效
 zh_TW: 絢麗視覺"	"灵动视效"

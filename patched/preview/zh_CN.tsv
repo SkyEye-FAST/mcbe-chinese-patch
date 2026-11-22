@@ -2941,16 +2941,16 @@ zh_CN: %1$s 已更改
 zh_TW: %1$s 已變更"	"%1$s已更改"
 "commands.chat.description"	"Shows or hides a chat channel, or sends a message to one."	"Original Translation
 zh_CN: 显示或隐藏聊天频道，或向频道发送消息。
-zh_TW: 顯示或隱藏聊天頻道，或傳送訊息至指定頻道。"	""
+zh_TW: 顯示或隱藏聊天頻道，或傳送訊息至指定頻道。"	"显示或隐藏聊天频道，或者向频道发送消息。"
 "commands.chatchannel.hidden.global"	"Global chat hidden. Use '/chat show %1$s' to see it again."	"Original Translation
 zh_CN: 全局聊天已隐藏。使用'/chat show %1$s'可重新显示。
-zh_TW: 已隱藏全域聊天。使用「/chat show %1$s」即可再次顯示。"	""
+zh_TW: 已隱藏全域聊天。使用「/chat show %1$s」即可再次顯示。"	"已隐藏全局聊天。使用“/chat show %1$s”以重新显示。"
 "commands.chatchannel.hidden.party"	"Party chat hidden. Use '/chat show %1$s' to see it again."	"Original Translation
 zh_CN: 队伍聊天已隐藏。使用'/chat show %1$s'可重新显示。
-zh_TW: 已隱藏派對聊天。使用「/chat show %1$s」即可再次顯示。"	""
+zh_TW: 已隱藏派對聊天。使用「/chat show %1$s」即可再次顯示。"	"已隐藏队伍聊天。使用“/chat show %1$s”以重新显示。"
 "commands.chatchannel.hidden.world"	"World chat hidden. Use '/chat show %1$s' to see it again."	"Original Translation
 zh_CN: 世界聊天已隐藏。使用'/chat show %1$s'可重新显示。
-zh_TW: 已隱藏世界聊天。使用「/chat show %1$s」即可再次顯示。"	""
+zh_TW: 已隱藏世界聊天。使用「/chat show %1$s」即可再次顯示。"	"已隐藏世界聊天。使用“/chat show %1$s”以重新显示。"
 "commands.chatchannel.shown.global"	"Global chat shown"	"Original Translation
 zh_CN: 全局聊天已显示
 zh_TW: 已顯示全域聊天"	"已显示全局聊天"
@@ -6552,7 +6552,7 @@ zh_TW: 地獄生物生成重平衡"	"下界生怪的平衡性调整"
 zh_CN: 调整下界生物密度和要塞生成，更加接近 Java 版
 zh_TW: 調整地獄生物密度和堡壘生成，使其更接近 Java 版"	"调整下界以及下界要塞的生怪密度，使其更加接近Java版"
 "createWorldScreen.experimentalOffhandParityDescription"	"Enable equipping and using items in the off-hand"	"Original Translation"	"允许副手持有并使用物品"
-"createWorldScreen.experimentalOffhandParityTitle"	"Off-hand Parity"	"Original Translation"	""
+"createWorldScreen.experimentalOffhandParityTitle"	"Off-hand Parity"	"Original Translation"	"副手功能同步"
 "createWorldScreen.experimentalPoi"	"Points of Interest (POI)"	"Original Translation
 zh_CN: 兴趣点（POI）
 zh_TW: 地標 (POI)"	"兴趣点"
@@ -7623,34 +7623,34 @@ zh_CN: 角色
 zh_TW: 角色"	"编辑器角色"
 "disc.cellularDataDisabled.failedSong"	"Streaming music over mobile data is turned off. %s can't be played. Connect to Wi-Fi or allow mobile data for online play in Settings."	"Original Translation
 zh_CN: 已关闭移动数据流媒体音乐。%s 无法播放。请连接 Wi-Fi 或在设置中允许使用移动数据进行在线播放。
-zh_TW: 使用行動數據串流音樂的功能已關閉。無法播放 %s。請連線至 Wi-Fi，或在「設定」中允許使用行動數據進行線上遊玩。"	""
+zh_TW: 使用行動數據串流音樂的功能已關閉。無法播放 %s。請連線至 Wi-Fi，或在「設定」中允許使用行動數據進行線上遊玩。"	"已关闭通过移动数据播放流媒体音乐。无法播放%s。请连接Wi-Fi，或在设置中允许通过移动数据进行在线播放。"
 "disc.cellularDataDisabled.failedSongs"	"Streaming music over mobile data is turned off. These songs can't be played: %s. Connect to Wi-Fi or allow mobile data for online play in Settings."	"Original Translation
 zh_CN: 已关闭移动数据流媒体音乐。这些音乐唱片无法播放：%s。请连接 Wi-Fi 或在设置中允许使用移动数据进行在线播放。
-zh_TW: 使用行動數據串流音樂的功能已關閉。無法播放以下歌曲：%s。請連線至 Wi-Fi，或在「設定」中允許使用行動數據進行線上遊玩。"	""
+zh_TW: 使用行動數據串流音樂的功能已關閉。無法播放以下歌曲：%s。請連線至 Wi-Fi，或在「設定」中允許使用行動數據進行線上遊玩。"	"已关闭通过移动数据播放流媒体音乐。无法播放这些曲目：%s。请连接Wi-Fi，或在设置中允许通过移动数据进行在线播放。"
 "disc.offline.failedSong"	"An internet connection is required to stream music. %s can't be played. Please check your connection and try again."	"Original Translation
 zh_CN: 需要连接互联网才能播放音乐。%s 无法播放。请检查您的网络连接后重试。
-zh_TW: 串流音樂需要網際網路連線。無法播放 %s。請檢查連線後再試一次。"	""
+zh_TW: 串流音樂需要網際網路連線。無法播放 %s。請檢查連線後再試一次。"	"流媒体音乐需要网络连接。无法播放%s。请检查你的网络连接并重试。"
 "disc.offline.failedSongs"	"An internet connection is required to stream music. These songs can't be played: %s. Please check your connection and try again."	"Original Translation
 zh_CN: 需要连接互联网才能播放音乐。这些音乐唱片无法播放：%s。请检查您的网络连接后重试。
-zh_TW: 串流音樂需要網際網路連線。無法播放以下歌曲：%s。請檢查連線後再試一次。"	""
+zh_TW: 串流音樂需要網際網路連線。無法播放以下歌曲：%s。請檢查連線後再試一次。"	"流媒体音乐需要网络连接。无法播放这些曲目：%s。请检查你的网络连接并重试。"
 "disc.onlineAudioDisabled.failedSong"	"Online audio is turned off in Settings. %s can't be played."	"Original Translation
 zh_CN: 设置中已关闭在线音频。%s 无法播放。
-zh_TW: 「設定」中的線上音訊已關閉。無法播放 %s。"	""
+zh_TW: 「設定」中的線上音訊已關閉。無法播放 %s。"	"已关闭在线音频。无法播放%s。"
 "disc.onlineAudioDisabled.failedSongs"	"Online audio is turned off in Settings. These songs can't be played: %s."	"Original Translation
 zh_CN: 设置中已关闭在线音频。这些音乐唱片无法播放：%s。
-zh_TW: 「設定」中的線上音訊已關閉。無法播放以下歌曲：%s。"	""
+zh_TW: 「設定」中的線上音訊已關閉。無法播放以下歌曲：%s。"	"已关闭在线音频。无法播放以下曲目：%s。"
 "disc.ownershipOrConnectivity.failedSong"	"%s can't be played. An internet connection is required to stream music, and a player who owns the song must be connected. Please check your connection and try again."	"Original Translation
 zh_CN: %s 无法播放。需要连接互联网，并且拥有该音乐唱片的玩家必须已连接。请检查您的网络连接后重试。
-zh_TW: 無法播放 %s。串流音樂需要網際網路連線，且擁有該歌曲的玩家必須在線上。請檢查連線後再試一次。"	""
+zh_TW: 無法播放 %s。串流音樂需要網際網路連線，且擁有該歌曲的玩家必須在線上。請檢查連線後再試一次。"	"无法播放%s。流媒体音乐需要网络连接，并且拥有这首曲目的玩家必须连接到网络。请检查你的网络连接并重试。"
 "disc.ownershipOrConnectivity.failedSongs"	"These songs can't be played: %s. An internet connection is required to stream music, and a player who owns each song must be connected. Please check your connection and try again."	"Original Translation
 zh_CN: 这些音乐唱片无法播放：%s。需要连接互联网，并且每张音乐唱片都需要有拥有者在线。请检查您的网络连接后重试。
-zh_TW: 無法播放以下歌曲：%s。串流音樂需要網際網路連線，且每首歌曲都必須有一位擁有該歌曲的玩家在線上。請檢查連線後再試一次。"	""
+zh_TW: 無法播放以下歌曲：%s。串流音樂需要網際網路連線，且每首歌曲都必須有一位擁有該歌曲的玩家在線上。請檢查連線後再試一次。"	"无法播放这些曲目：%s。流媒体音乐需要网络连接，并且拥有每首曲目的玩家必须连接到网络。请检查你的网络连接并重试。"
 "disc.ownershipRequired.failedSong"	"Failed to play: %s. No connected player owns this song."	"Original Translation
 zh_CN: 播放失败：%s。当前没有已连接的玩家拥有此音乐唱片。
-zh_TW: 無法播放：%s。目前連線的玩家都未擁有這首歌曲。"	""
+zh_TW: 無法播放：%s。目前連線的玩家都未擁有這首歌曲。"	"播放失败：%s。已连接的玩家没有这首曲目。"
 "disc.ownershipRequired.failedSongs"	"Failed to play: %s. No connected player owns these songs."	"Original Translation
 zh_CN: 播放失败：%s。当前没有已连接的玩家拥有这些音乐唱片。
-zh_TW: 無法播放：%s。目前連線的玩家都未擁有這些歌曲。"	""
+zh_TW: 無法播放：%s。目前連線的玩家都未擁有這些歌曲。"	"播放失败：%s。已连接的玩家没有这些曲目。"
 "disc.playbackFailed"	"Some discs couldn't play"	"Original Translation
 zh_CN: 部分音乐唱片无法播放
 zh_TW: 部分唱片無法播放"	"部分唱片无法播放"
@@ -7695,28 +7695,28 @@ zh_CN: 空白唱片栏位，%s
 zh_TW: 空白唱片欄位，%s"	"空唱片槽，%s"
 "discPress.tts.slot.dye"	"Dye slot, %s"	"Original Translation
 zh_CN: 染料栏位，%s
-zh_TW: 染料欄位，%s"	""
+zh_TW: 染料欄位，%s"	"染料槽，%s"
 "discPress.tts.slot.empty"	"Empty"	"Original Translation
 zh_CN: 空
-zh_TW: 空"	""
+zh_TW: 空"	"空"
 "discPress.tts.slot.result"	"Result slot, %s"	"Original Translation
 zh_CN: 输出槽，%s
-zh_TW: 成品欄位，%s"	""
+zh_TW: 成品欄位，%s"	"成品槽，%s"
 "discPress.tts.sort"	"Sort music"	"Original Translation
 zh_CN: 排序音乐
-zh_TW: 音樂排序"	""
+zh_TW: 音樂排序"	"音乐排序"
 "discPress.tts.track"	"%1, by %2. Duration: %3."	"Original Translation
 zh_CN: %1，作者：%2。时长：%3。
-zh_TW: %1，演出者：%2。長度：%3。"	""
+zh_TW: %1，演出者：%2。長度：%3。"	"%1，作者为%2。时长为%3。"
 "discPress.tts.track.noArtist"	"%1. Duration: %2."	"Original Translation
 zh_CN: %1。时长：%2。
-zh_TW: %1。長度：%2。"	""
+zh_TW: %1。長度：%2。"	"%1。时长为%2。"
 "discPress.tts.track.noDuration"	"%1, by %2."	"Original Translation
 zh_CN: %1，作者：%2。
-zh_TW: %1，演出者：%2。"	""
+zh_TW: %1，演出者：%2。"	"%1，作者为%2。"
 "discPress.tts.track.titleOnly"	"%1"	"Original Translation
 zh_CN: %1
-zh_TW: %1"	""
+zh_TW: %1"	"%1"
 "disconnect.closed"	"Connection closed"	"Original Translation
 zh_CN: 连接已关闭
 zh_TW: 連線關閉"	"连接已关闭"
@@ -9060,7 +9060,7 @@ zh_CN: 正在切换至经典皮肤
 zh_TW: 切換至經典外觀"	"正在切换至经典皮肤"
 "dr.offline_title_format"	"%s - Offline"	"Original Translation
 zh_CN: %s - 离线
-zh_TW: %s - 離線"	""
+zh_TW: %s - 離線"	"%s - 离线"
 "dr.primary_channel"	"Primary"	"Original Translation
 zh_CN: 主要的
 zh_TW: 主要"	"主要"
@@ -9402,52 +9402,52 @@ zh_CN: 波浪是一种可选效果，可用于补充水面动画，让水看起�
 zh_TW: 波浪是一種可選效果，可用來輔助水面動畫，讓您的水體看起來更逼真。您可以設定波浪與現有的水體材質動畫混合，或完全取代它們。"	"波浪是一种可选效果，可用于补充水面动画，使水看起来更真实。可以配置为与现有水纹理动画混合或完全将其替换。"
 "editor.annotations.comment.requiresEditor"	"Only Editor-capable players can place Comments."	"Original Translation
 zh_CN: 只有拥有编辑器权限的玩家才能添加评论。
-zh_TW: 只有具備編輯器權限的玩家才能放置註解。"	""
+zh_TW: 只有具備編輯器權限的玩家才能放置註解。"	"仅具有编辑器权限的玩家才能放置注释。"
 "editor.annotations.commentEditPanel.anchor"	"Anchor Orientation:"	"Original Translation
 zh_CN: 锚点方向：
-zh_TW: 錨定定向："	""
+zh_TW: 錨定定向："	"锚定方向："
 "editor.annotations.commentEditPanel.anchor.bottomCenter"	"Bottom Center"	"Original Translation
 zh_CN: 底部居中
-zh_TW: 中下"	""
+zh_TW: 中下"	"底部居中"
 "editor.annotations.commentEditPanel.anchor.bottomLeft"	"Bottom Left"	"Original Translation
 zh_CN: 左下
-zh_TW: 左下"	""
+zh_TW: 左下"	"左下"
 "editor.annotations.commentEditPanel.anchor.bottomRight"	"Bottom Right"	"Original Translation
 zh_CN: 右下
-zh_TW: 右下"	""
+zh_TW: 右下"	"下部右对齐"
 "editor.annotations.commentEditPanel.anchor.center"	"Center"	"Original Translation
 zh_CN: 居中
-zh_TW: 中心"	""
+zh_TW: 中心"	"居中"
 "editor.annotations.commentEditPanel.anchor.centerLeft"	"Center Left"	"Original Translation
 zh_CN: 左中
-zh_TW: 左中"	""
+zh_TW: 左中"	"中部左对齐"
 "editor.annotations.commentEditPanel.anchor.centerRight"	"Center Right"	"Original Translation
 zh_CN: 右中
-zh_TW: 右中"	""
+zh_TW: 右中"	"中部右对齐"
 "editor.annotations.commentEditPanel.anchor.reset"	"Reset Anchor Orientation"	"Original Translation
 zh_CN: 重置锚点方向
-zh_TW: 重設錨定定向"	""
+zh_TW: 重設錨定定向"	"重置固定方向"
 "editor.annotations.commentEditPanel.anchor.topCenter"	"Top Center"	"Original Translation
 zh_CN: 顶部居中
-zh_TW: 中上"	""
+zh_TW: 中上"	"中上"
 "editor.annotations.commentEditPanel.anchor.topLeft"	"Top Left"	"Original Translation
 zh_CN: 左上
-zh_TW: 左上"	""
+zh_TW: 左上"	"左上"
 "editor.annotations.commentEditPanel.anchor.topRight"	"Top Right"	"Original Translation
 zh_CN: 右上
-zh_TW: 右上"	""
+zh_TW: 右上"	"右上"
 "editor.annotations.commentEditPanel.back"	"Back"	"Original Translation
 zh_CN: 返回
-zh_TW: 返回"	""
+zh_TW: 返回"	"返回"
 "editor.annotations.commentEditPanel.body"	"Body Text:"	"Original Translation
 zh_CN: 正文：
-zh_TW: 內文："	""
+zh_TW: 內文："	"正文文本："
 "editor.annotations.commentEditPanel.bodyColor"	"Body Text Color:"	"Original Translation
 zh_CN: 正文颜色：
-zh_TW: 內文顏色："	""
+zh_TW: 內文顏色："	"正文文本颜色："
 "editor.annotations.commentEditPanel.bodyTextSize"	"Body Text Size: %s"	"Original Translation
 zh_CN: 正文字号：%s
-zh_TW: 內文大小：%s"	""
+zh_TW: 內文大小：%s"	"正文文本大小：%s"
 "editor.annotations.commentEditPanel.color.aqua"	"Aqua"	"Original Translation
 zh_CN: 水绿色
 zh_TW: 水藍色"	"水绿色"
@@ -9477,1282 +9477,1282 @@ zh_CN: 正文文本不能超过32,500个字符。请缩短正文，或按“返�
 zh_TW: 內文長度不得超過 32.500 字元。請縮短或按下「返回」捨棄未套用的變更內容。"	"正文文本不能超过32,500个字符。请缩短正文，或点击“返回”放弃尚未应用的更改。"
 "editor.annotations.commentEditPanel.error.existingBody"	"This saved body text exceeds the input limit or has unsupported text. Edit it in Annotation Management."	"Original Translation
 zh_CN: 已保存的正文超出输入长度限制或包含不受支持的文本。请前往注释管理面板修改。
-zh_TW: 此儲存內文長度超過輸入上限或內含不支援文字。請前往註記管理編輯。"	""
+zh_TW: 此儲存內文長度超過輸入上限或內含不支援文字。請前往註記管理編輯。"	"此已保存正文文本超出输入限制或包含不受支持的文本。请在注解管理中编辑。"
 "editor.annotations.commentEditPanel.error.existingName"	"This saved name exceeds the input limit or has unsupported text. Edit it in Annotation Management."	"Original Translation
 zh_CN: 已保存的名称超出输入长度限制或包含不受支持的文本。请前往注释管理面板修改。
-zh_TW: 此儲存名稱長度超過輸入上限或內含不支援文字。請前往註記管理編輯。"	""
+zh_TW: 此儲存名稱長度超過輸入上限或內含不支援文字。請前往註記管理編輯。"	"此已保存名称超出输入限制或包含不受支持的文本。请在注解管理中编辑。"
 "editor.annotations.commentEditPanel.error.invalidAnchor"	"This anchor isn't supported. Press Done to try again, or Back to discard changes that weren't applied."	"Original Translation
 zh_CN: 此锚点不受支持。点击“完成”可重试，或按“返回”放弃尚未应用的更改。
-zh_TW: 系統不支援此錨點。請按下「完成」再試一次，或按下「返回」捨棄未套用的變更內容。"	""
+zh_TW: 系統不支援此錨點。請按下「完成」再試一次，或按下「返回」捨棄未套用的變更內容。"	"此锚点不受支持。点击“完成”重试，或点击“返回”放弃未应用的更改。"
 "editor.annotations.commentEditPanel.error.invalidBody"	"This body text contains unsupported text. Edit it, or press Back to discard changes that weren't applied."	"Original Translation
 zh_CN: 此正文文本包含不受支持的文本。请编辑正文，或按“返回”放弃尚未应用的更改。
-zh_TW: 內文內含不支援文字。請編輯或按下「返回」捨棄未套用的變更內容。"	""
+zh_TW: 內文內含不支援文字。請編輯或按下「返回」捨棄未套用的變更內容。"	"此正文文本包含不受支持的文本。请编辑正文文本，或点击“返回”放弃未应用的更改。"
 "editor.annotations.commentEditPanel.error.invalidName"	"This name contains unsupported text. Edit the name, or press Back to discard changes that weren't applied."	"Original Translation
 zh_CN: 此名称包含不受支持的文本。请修改名称，或按“返回”放弃尚未应用的更改。
-zh_TW: 名稱內含不支援文字。請編輯名稱，或按下「返回」捨棄未套用的變更內容。"	""
+zh_TW: 名稱內含不支援文字。請編輯名稱，或按下「返回」捨棄未套用的變更內容。"	"此名称包含不受支持的文本。请编辑名称，或点击“返回”放弃未应用的更改。"
 "editor.annotations.commentEditPanel.error.invalidTarget"	"This Comment is no longer available to edit here."	"Original Translation
 zh_CN: 此评论在当前界面已无法编辑。
-zh_TW: 此留言已無法在此處編輯。"	""
+zh_TW: 此留言已無法在此處編輯。"	"此注释已无法在此编辑。"
 "editor.annotations.commentEditPanel.error.invalidValue"	"One of these settings isn't supported. Press Done to try again, or Back to discard changes that weren't applied."	"Original Translation
 zh_CN: 有一个设置不受支持。点击“完成”可重试，或按“返回”放弃尚未应用的更改。
-zh_TW: 系統不支援某項設定。請按下「完成」再試一次，或按下「返回」捨棄未套用的變更內容。"	""
+zh_TW: 系統不支援某項設定。請按下「完成」再試一次，或按下「返回」捨棄未套用的變更內容。"	"其中一项设置不受支持。点击“完成”重试，或点击“返回”放弃未应用的更改。"
 "editor.annotations.commentEditPanel.error.locked"	"Another player has locked this Comment. Press Done to try again, or Back to discard changes that weren't applied."	"Original Translation
 zh_CN: 另一位玩家已锁定此评论。点击“完成”可重试，或按“返回”放弃尚未应用的更改。
-zh_TW: 另一位玩家鎖定了這則留言。請按下「完成」再試一次，或按下「返回」捨棄未套用的變更內容。"	""
+zh_TW: 另一位玩家鎖定了這則留言。請按下「完成」再試一次，或按下「返回」捨棄未套用的變更內容。"	"另一名玩家已锁定此注释。点击“完成”重试，或点击“返回”放弃未应用的更改。"
 "editor.annotations.commentEditPanel.error.nameTooLong"	"Names must be 256 UTF-8 bytes or fewer. Shorten the name, or press Back to discard changes that weren't applied."	"Original Translation
 zh_CN: 名称不能超过256个UTF-8字节。请缩短名称，或按“返回”放弃尚未应用的更改。
-zh_TW: 名稱長度不得超過 256 UTF-8 位元組。請縮短名稱，或按下「返回」捨棄未套用的變更內容。"	""
+zh_TW: 名稱長度不得超過 256 UTF-8 位元組。請縮短名稱，或按下「返回」捨棄未套用的變更內容。"	"名称不得超过256个UTF-8字节。请缩短名称，或点击“返回”放弃未应用的更改。"
 "editor.annotations.commentEditPanel.error.notFound"	"This Comment no longer exists."	"Original Translation
 zh_CN: 此评论已不存在。
-zh_TW: 此留言已不存在。"	"此评论已不存在。"
+zh_TW: 此留言已不存在。"	"此注释已不存在。"
 "editor.annotations.commentEditPanel.error.notPermitted"	"You don't have permission to edit this Comment. Press Back to discard changes that weren't applied."	"Original Translation
 zh_CN: 你没有权限编辑此评论。点击“返回”放弃尚未应用的更改。
-zh_TW: 你沒有權限編輯此留言。請按下「返回」捨棄未套用的變更內容。"	""
+zh_TW: 你沒有權限編輯此留言。請按下「返回」捨棄未套用的變更內容。"	"你没有权限编辑此注释。点击“返回”放弃未应用的更改。"
 "editor.annotations.commentEditPanel.error.unavailable"	"Couldn't apply your changes. Press Done to try again, or Back to discard changes that weren't applied."	"Original Translation
 zh_CN: 无法应用你的更改。点击“完成”可重试，或按“返回”放弃尚未应用的更改。
-zh_TW: 無法套用變更內容。請按下「完成」再試一次，或按下「返回」捨棄未套用的變更內容。"	""
+zh_TW: 無法套用變更內容。請按下「完成」再試一次，或按下「返回」捨棄未套用的變更內容。"	"无法应用你的更改。点击“完成”重试，或点击返回放弃未应用的更改。"
 "editor.annotations.commentEditPanel.expandBody"	"Expand Body Text"	"Original Translation
 zh_CN: 展开正文
-zh_TW: 展開內文"	""
+zh_TW: 展開內文"	"展开正文文本"
 "editor.annotations.commentEditPanel.facing"	"Facing:"	"Original Translation
 zh_CN: 朝向：
-zh_TW: 朝向："	""
+zh_TW: 朝向："	"朝向："
 "editor.annotations.commentEditPanel.facing.camera"	"Camera Facing"	"Original Translation
 zh_CN: 面向摄像机
-zh_TW: 視角朝向"	""
+zh_TW: 視角朝向"	"相机视角朝向"
 "editor.annotations.commentEditPanel.facing.manual"	"Manual"	"Original Translation
 zh_CN: 手动
-zh_TW: 手動"	""
+zh_TW: 手動"	"手动"
 "editor.annotations.commentEditPanel.help"	"?"	"Original Translation
 zh_CN: ?
-zh_TW: ？"	""
+zh_TW: ？"	"?"
 "editor.annotations.commentEditPanel.help.body"	"Changes stay local until you select Done. Done submits all changes and closes the editor. Back closes without applying changes. Select + to edit long body text."	"Original Translation
 zh_CN: 点击“完成”前，所有更改都只会保存在本地。点击“完成”可提交所有更改并关闭编辑器。点击“返回”则会直接关闭编辑器，不应用任何更改。点击“+”可编辑较长的正文文本。
-zh_TW: 在選取「完成」前，所有變更內容只會存在本機。完成後會提交所有變更內容並關閉編輯器。返回則會直接關閉，不套用變更內容。選取「+」可編輯長篇內文。"	""
+zh_TW: 在選取「完成」前，所有變更內容只會存在本機。完成後會提交所有變更內容並關閉編輯器。返回則會直接關閉，不套用變更內容。選取「+」可編輯長篇內文。"	"在点击“完成”之前，更改仅保留在本地。完成会提交所有更改并关闭编辑器。点击“返回”会关闭而不应用更改。点击“+”可编辑长正文文本。"
 "editor.annotations.commentEditPanel.help.close"	"Close"	"Original Translation
 zh_CN: 关闭
-zh_TW: 關閉"	""
+zh_TW: 關閉"	"关闭"
 "editor.annotations.commentEditPanel.help.expandedBody"	"Edit the body text for this Comment. Back returns to the other settings and keeps your draft. Select Done on the main screen to apply all changes."	"Original Translation
 zh_CN: 编辑此评论的正文文本。点击“返回”可回到其他设置并保留草稿。在主界面选择“完成”以应用所有更改。
-zh_TW: 編輯此留言的內文。返回會回到其他設定並保留草稿。前往主畫面選取「完成」才能套用所有變更內容。"	""
+zh_TW: 編輯此留言的內文。返回會回到其他設定並保留草稿。前往主畫面選取「完成」才能套用所有變更內容。"	"编辑此注释的正文文本。点击“返回”会返回其他设置并保留你的草稿。在主屏幕上选择“完成”以应用所有更改。"
 "editor.annotations.commentEditPanel.help.title"	"Comment Help"	"Original Translation
 zh_CN: 评论帮助
-zh_TW: 留言說明"	""
+zh_TW: 留言說明"	"注释帮助"
 "editor.annotations.commentEditPanel.name"	"Name/Title:"	"Original Translation
 zh_CN: 名称/标题：
-zh_TW: 名稱/標題："	""
+zh_TW: 名稱/標題："	"名称/标题："
 "editor.annotations.commentEditPanel.off"	"Off"	"Original Translation
 zh_CN: 关
-zh_TW: 關閉"	""
+zh_TW: 關閉"	"关闭"
 "editor.annotations.commentEditPanel.on"	"On"	"Original Translation
 zh_CN: 开
-zh_TW: 開啟"	""
+zh_TW: 開啟"	"开启"
 "editor.annotations.commentEditPanel.showBody"	"Show Body Text in World:"	"Original Translation
 zh_CN: 在世界中显示正文：
-zh_TW: 顯示世界內文："	""
+zh_TW: 顯示世界內文："	"在世界中显示正文文本："
 "editor.annotations.commentEditPanel.showTitle"	"Show Title in World:"	"Original Translation
 zh_CN: 在世界中显示标题：
-zh_TW: 顯示世界標題："	""
+zh_TW: 顯示世界標題："	"在世界中显示标题："
 "editor.annotations.commentEditPanel.title"	"Comment Block"	"Original Translation
 zh_CN: 评论方块
-zh_TW: 留言方塊"	""
+zh_TW: 留言方塊"	"注释方块"
 "editor.annotations.commentEditPanel.titleColor"	"Title Text Color:"	"Original Translation
 zh_CN: 标题颜色：
-zh_TW: 標題文字顏色："	""
+zh_TW: 標題文字顏色："	"标题文本颜色："
 "editor.annotations.commentEditPanel.titleTextSize"	"Title Text Size: %s"	"Original Translation
 zh_CN: 标题字号：%s
-zh_TW: 標題文字大小：%s"	""
+zh_TW: 標題文字大小：%s"	"标题文本大小：%s"
 "editor.annotations.commentEditPanel.widthLimit"	"Width Limit: %s"	"Original Translation
 zh_CN: 宽度限制：%s
-zh_TW: 寬度限制：%s"	""
+zh_TW: 寬度限制：%s"	"宽度限制：%s"
 "editor.annotations.commentEditPanel.widthLimit.unlimited"	"Unlimited"	"Original Translation
 zh_CN: 不限
-zh_TW: 無限"	""
+zh_TW: 無限"	"无限制"
 "editor.annotations.error.delete"	"Failed to delete annotation."	"Original Translation
 zh_CN: 删除注释失败。
-zh_TW: 刪除註記失敗。"	""
+zh_TW: 刪除註記失敗。"	"删除注解失败。"
 "editor.annotations.error.drawing.interaction"	"The drawing interaction failed."	"Original Translation
 zh_CN: 绘图交互失败。
-zh_TW: 繪圖互動失敗。"	""
+zh_TW: 繪圖互動失敗。"	"绘制交互失败。"
 "editor.annotations.error.drawing.selectForMultiLine"	"Could not select the new drawing for continued editing."	"Original Translation
 zh_CN: 无法选中新建的绘图以继续编辑。
-zh_TW: 無法選取新繪圖，無法繼續編輯。"	""
+zh_TW: 無法選取新繪圖，無法繼續編輯。"	"无法选择新绘制的图形以继续编辑。"
 "editor.annotations.error.drawingScaling"	"Failed to update drawing distance scaling."	"Original Translation
 zh_CN: 更新绘图距离缩放失败。
-zh_TW: 更新繪圖距離縮放失敗。"	""
+zh_TW: 更新繪圖距離縮放失敗。"	"更新绘制距离缩放失败。"
 "editor.annotations.error.exportNotes"	"Failed to export annotation notes."	"Original Translation
 zh_CN: 导出注释内容失败。
-zh_TW: 匯出註記備註失敗。"	""
+zh_TW: 匯出註記備註失敗。"	"导出注解说明失败。"
 "editor.annotations.error.instance.invalid"	"Annotation details are unavailable."	"Original Translation
 zh_CN: 注释详情不可用。
-zh_TW: 註記詳細資訊無法使用。"	""
+zh_TW: 註記詳細資訊無法使用。"	"注解详情不可用。"
 "editor.annotations.error.instance.lease"	"Failed to load annotation details."	"Original Translation
 zh_CN: 加载注释详情失败。
-zh_TW: 載入註記詳細資訊失敗。"	""
+zh_TW: 載入註記詳細資訊失敗。"	"加载注解详情失败。"
 "editor.annotations.error.lineSegment.find"	"Could not find the drawing line segment."	"Original Translation
 zh_CN: 无法找到绘图线段。
-zh_TW: 找不到繪圖線段。"	""
+zh_TW: 找不到繪圖線段。"	"找不到绘制线段。"
 "editor.annotations.error.lineSegment.remove"	"Failed to remove a drawing line segment."	"Original Translation
 zh_CN: 移除绘图线段失败。
-zh_TW: 移除繪圖線段失敗。"	""
+zh_TW: 移除繪圖線段失敗。"	"移除绘制线段失败。"
 "editor.annotations.error.lineSegment.update"	"Failed to update a drawing line segment."	"Original Translation
 zh_CN: 更新绘图线段失败。
-zh_TW: 更新繪圖線段失敗。"	""
+zh_TW: 更新繪圖線段失敗。"	"更新绘制线段失败。"
 "editor.annotations.error.lock.acquire"	"Failed to select the annotation because its lock could not be acquired."	"Original Translation
 zh_CN: 无法选择注释，因为未能获取其锁。
-zh_TW: 取得註記鎖定權限失敗，無法選取註記。"	""
+zh_TW: 取得註記鎖定權限失敗，無法選取註記。"	"无法获取注解锁定，选择注解失败。"
 "editor.annotations.error.lock.restore"	"Failed to restore the previous annotation lock."	"Original Translation
 zh_CN: 无法恢复之前的注释锁。
-zh_TW: 還原註記鎖定權限失敗。"	""
+zh_TW: 還原註記鎖定權限失敗。"	"恢复之前的注解锁定失败。"
 "editor.annotations.error.movement.complete"	"Failed to complete annotation movement."	"Original Translation
 zh_CN: 注释移动未完成。
-zh_TW: 完成註記移動失敗。"	""
+zh_TW: 完成註記移動失敗。"	"无法完成批注移动。"
 "editor.annotations.error.movement.track"	"Failed to track annotation movement."	"Original Translation
 zh_CN: 追踪注释移动失败。
-zh_TW: 追蹤註記移動失敗。"	""
+zh_TW: 追蹤註記移動失敗。"	"追踪注解移动失败。"
 "editor.annotations.error.place"	"Failed to place annotation."	"Original Translation
 zh_CN: 放置注释失败。
-zh_TW: 放置註記失敗。"	""
+zh_TW: 放置註記失敗。"	"放置注解失败。"
 "editor.annotations.error.settings.load"	"Failed to load annotation settings."	"Original Translation
 zh_CN: 加载注释设置失败。
-zh_TW: 載入註記設定失敗。"	""
+zh_TW: 載入註記設定失敗。"	"加载注解设置失败。"
 "editor.annotations.error.settings.save"	"Failed to save annotation settings."	"Original Translation
 zh_CN: 保存注释设置失败。
-zh_TW: 儲存註記設定失敗。"	""
+zh_TW: 儲存註記設定失敗。"	"保存注解设置失败。"
 "editor.annotations.introduction.tab1.collaboration"	"All players in a multiplayer editing session will share annotations."	"Original Translation
 zh_CN: 在多人编辑会话中，所有玩家都会共享注释。
-zh_TW: 處於多人遊戲編輯階段中的玩家都能共用註記。"	""
+zh_TW: 處於多人遊戲編輯階段中的玩家都能共用註記。"	"多人编辑会话中的所有玩家将共享注解。"
 "editor.annotations.introduction.tab1.content"	"The Annotation Tool lets you leave notes in the world such as to-do lists, playtest feedback, or rough sketches and templates for you or your team to use later."	"Original Translation
 zh_CN: 注释工具可让你在世界中留下备注，例如待办事项清单、试玩反馈，或是供你和团队日后参考的草图及模板。
-zh_TW: 註記工具讓你能直接在世界中留言，像是待辦清單、試玩意見回饋，或是為自己和團隊保留日後所需的草稿與範本。"	""
+zh_TW: 註記工具讓你能直接在世界中留言，像是待辦清單、試玩意見回饋，或是為自己和團隊保留日後所需的草稿與範本。"	"注解工具可以在世界中标记说明，例如待办事项列表、游戏体验反馈，或供你和团队日后使用的粗略草图和模板。"
 "editor.annotations.introduction.tab1.title"	"Annotation Tool"	"Original Translation
 zh_CN: 注释工具
-zh_TW: 註記工具"	""
+zh_TW: 註記工具"	"注解工具"
 "editor.annotations.introduction.tab2.delete"	"Use the Delete %s mode to remove annotations."	"Original Translation
 zh_CN: 使用删除%s模式可以移除注释。
-zh_TW: 「刪除 %s」模式則可用來移除註記。"	""
+zh_TW: 「刪除 %s」模式則可用來移除註記。"	"使用删除%s模式移除注解。"
 "editor.annotations.introduction.tab2.edit"	"Use the Edit %s mode to edit existing annotations. Editing an annotation will let you change its settings."	"Original Translation
 zh_CN: 使用编辑%s模式可以编辑已有注释。编辑注释时，你可以更改其设置。
-zh_TW: 「編輯 %s」模式可用來編輯現有註記。編輯註記即可調整設定。"	""
+zh_TW: 「編輯 %s」模式可用來編輯現有註記。編輯註記即可調整設定。"	"使用编辑%s模式编辑现有注解。编辑注解可以更改其设置。"
 "editor.annotations.introduction.tab2.management"	"For bulk operations or to find something elsewhere in the world, open the Annotation Management Panel for the full list. Annotations can be organized by tags and filtered here."	"Original Translation
 zh_CN: 如需批量操作或查找世界中其他位置的注释，可以打开注释管理面板查看完整列表。你可以通过标签整理注释并进行筛选。
-zh_TW: 如果想在世界中一次處理或尋找其他註記，請開啟註記管理面板查看完整清單。可以在此透過標籤整理並篩選註記。"	""
+zh_TW: 如果想在世界中一次處理或尋找其他註記，請開啟註記管理面板查看完整清單。可以在此透過標籤整理並篩選註記。"	"要进行批量操作或查找世界其他位置的注解，请打开注解管理面板查看完整列表。可在此按标签整理和筛选注解。"
 "editor.annotations.introduction.tab2.place"	"Use the Place %s mode to add new annotations of several types."	"Original Translation
 zh_CN: 使用放置%s模式可以添加多种类型的新注释。
-zh_TW: 「放置 %s」模式可用來新增多種類型的註記。"	""
+zh_TW: 「放置 %s」模式可用來新增多種類型的註記。"	"使用放置%s模式添加多种类型的新注解。"
 "editor.annotations.introduction.tab2.title"	"Annotation Tool Modes"	"Original Translation
 zh_CN: 注释工具模式
-zh_TW: 註記工具模式"	""
+zh_TW: 註記工具模式"	"注解工具模式"
 "editor.annotations.introduction.tab3.comment"	"A comment is similar to a text annotation, but it appears in the world. You can place it in Crosshair mode or Test World, and it will persist when you return to the Editor."	"Original Translation
 zh_CN: 评论类似于文本注释，但会直接显示在世界中。你可以在准星模式或测试世界中放置评论，返回编辑器后，评论仍会保留。
-zh_TW: 留言跟文字註記有點像，但它會在世界中直接顯示。無論是在準星模式還是測試世界中都可以留言，回到編輯器後也不會消失。"	""
+zh_TW: 留言跟文字註記有點像，但它會在世界中直接顯示。無論是在準星模式還是測試世界中都可以留言，回到編輯器後也不會消失。"	"注释与文本注解类似，但会显示在世界中。你可以在十字准星模式或测试世界中放置注释，返回编辑器时注释仍会保留。"
 "editor.annotations.introduction.tab3.drawing"	"A drawing annotation is a freehand line drawn directly onto solid blocks in the world. In Edit mode, you can add or remove line segments for more nuanced control."	"Original Translation
 zh_CN: 绘图注释是直接画在世界中实体方块上的手绘线条。在编辑模式下，你可以添加或删除线段，以便更精细地调整绘图。
-zh_TW: 繪圖註記能讓你直接在世界中的固體方塊上畫線。在編輯模式下，你可以自由新增或移除線段，方便各位進行微調。"	""
+zh_TW: 繪圖註記能讓你直接在世界中的固體方塊上畫線。在編輯模式下，你可以自由新增或移除線段，方便各位進行微調。"	"绘制注解是直接绘制在世界中固体方块上的手绘直线。在编辑模式下，你可以添加或移除线段，以获得更精细的控制。"
 "editor.annotations.introduction.tab3.text"	"A text annotation is a block of text placed in the world. Appearance controls can be used to manage its visual settings."	"Original Translation
 zh_CN: 文本注释是在世界中放置的文字内容。你可以通过外观控制来调整其显示效果。
-zh_TW: 文字註記是放在世界中的一段文字。外觀控制項可用來管理其視覺設定。"	""
+zh_TW: 文字註記是放在世界中的一段文字。外觀控制項可用來管理其視覺設定。"	"文本注解是放置在世界中的文本块。可以使用外观控制管理其视觉设置。"
 "editor.annotations.introduction.tab3.title"	"Annotation Types"	"Original Translation
 zh_CN: 注释类型
-zh_TW: 註記類型"	""
+zh_TW: 註記類型"	"注解类型"
 "editor.annotations.introduction.title"	"Annotation Tool"	"Original Translation
 zh_CN: 注释工具
-zh_TW: 註記工具"	""
+zh_TW: 註記工具"	"注解工具"
 "editor.annotations.management.actionBar.title"	"Annotations"	"Original Translation
 zh_CN: 注释
-zh_TW: 註記"	""
+zh_TW: 註記"	"注解"
 "editor.annotations.management.actionBar.tooltip.desc"	"Open Annotation Management."	"Original Translation
 zh_CN: 打开注释管理。
-zh_TW: 開啟註記管理。"	""
+zh_TW: 開啟註記管理。"	"打开注解管理。"
 "editor.annotations.management.actionBar.tooltip.title"	"Annotations"	"Original Translation
 zh_CN: 注释
-zh_TW: 註記"	""
+zh_TW: 註記"	"注解"
 "editor.annotations.management.category.dimension"	"By Dimension"	"Original Translation
 zh_CN: 按维度
-zh_TW: 依維度分組"	""
+zh_TW: 依維度分組"	"按维度"
 "editor.annotations.management.category.type"	"By Type"	"Original Translation
 zh_CN: 按类型
-zh_TW: 依類型分組"	""
+zh_TW: 依類型分組"	"按类型"
 "editor.annotations.management.editTags.add.description"	"The chosen tags will be added to all selected items that don't already have them."	"Original Translation
 zh_CN: 选定的标签将被添加到所有尚未拥有这些标签的选中项目。
-zh_TW: 所選標籤將新增至所有尚未擁有該標籤的選定項目。"	""
+zh_TW: 所選標籤將新增至所有尚未擁有該標籤的選定項目。"	"所选标签将批量添加至尚未包含它们的选定项目。"
 "editor.annotations.management.editTags.add.title"	"Add Tags"	"Original Translation
 zh_CN: 添加标签
-zh_TW: 新增標籤"	""
+zh_TW: 新增標籤"	"添加标签"
 "editor.annotations.management.editTags.apply"	"Apply"	"Original Translation
 zh_CN: 应用
-zh_TW: 套用"	""
+zh_TW: 套用"	"应用"
 "editor.annotations.management.editTags.cancel"	"Cancel"	"Original Translation
 zh_CN: 取消
-zh_TW: 取消"	""
+zh_TW: 取消"	"取消"
 "editor.annotations.management.editTags.remove.description"	"Remove a tag from this list to remove it from all selected items that have it."	"Original Translation
 zh_CN: 从此列表中移除标签，即可将该标签从所有包含它的选中项中移除。
-zh_TW: 只要從此清單中移除該標籤，所有所選物品也會一併移除該標籤。"	""
+zh_TW: 只要從此清單中移除該標籤，所有所選物品也會一併移除該標籤。"	"从此列表中移除标签，将该标签从所有拥有此标签的选中项移除。"
 "editor.annotations.management.editTags.remove.title"	"Remove Tags"	"Original Translation
 zh_CN: 移除标签
-zh_TW: 移除標籤"	""
+zh_TW: 移除標籤"	"移除标签"
 "editor.annotations.management.editTags.title"	"Edit Tags"	"Original Translation
 zh_CN: 编辑标签
-zh_TW: 編輯標籤"	""
+zh_TW: 編輯標籤"	"编辑标签​​​​​"
 "editor.annotations.management.export.button"	"Export"	"Original Translation
 zh_CN: 导出
-zh_TW: 匯出"	""
+zh_TW: 匯出"	"导出"
 "editor.annotations.management.export.cancel"	"Cancel"	"Original Translation
 zh_CN: 取消
-zh_TW: 取消"	""
+zh_TW: 取消"	"取消"
 "editor.annotations.management.export.format.csv"	"CSV"	"Original Translation
 zh_CN: CSV
 zh_TW: CSV"	"CSV"
 "editor.annotations.management.export.format.label"	"Format"	"Original Translation
 zh_CN: 格式
-zh_TW: 格式"	""
+zh_TW: 格式"	"格式化"
 "editor.annotations.management.export.format.text"	"Text"	"Original Translation
 zh_CN: 文本
-zh_TW: 文字"	""
+zh_TW: 文字"	"文本"
 "editor.annotations.management.export.format.tooltip.desc"	"Choose the file format for the exported notes."	"Original Translation
 zh_CN: 选择导出备注的文件格式。
-zh_TW: 選擇匯出備註的檔案格式。"	""
+zh_TW: 選擇匯出備註的檔案格式。"	"选择导出笔记的文件格式。"
 "editor.annotations.management.export.format.tooltip.title"	"Format"	"Original Translation
 zh_CN: 格式
-zh_TW: 格式"	""
+zh_TW: 格式"	"格式化"
 "editor.annotations.management.export.progress"	"Exporting..."	"Original Translation
 zh_CN: 正在导出……
-zh_TW: 正在匯出……"	""
+zh_TW: 正在匯出……"	"正在导出…"
 "editor.annotations.management.export.title"	"Export Annotation Notes"	"Original Translation
 zh_CN: 导出注释备注
-zh_TW: 匯出註記備註"	""
+zh_TW: 匯出註記備註"	"导出注解说明"
 "editor.annotations.management.inspectedData.title"	"Inspected Annotation Data"	"Original Translation
 zh_CN: 已检查的注释数据
-zh_TW: 已檢查註記資料"	""
+zh_TW: 已檢查註記資料"	"已检查的注解数据"
 "editor.annotations.management.inspection.dimension.title"	"Dimension"	"Original Translation
 zh_CN: 维度
-zh_TW: 維度"	""
+zh_TW: 維度"	"维度"
 "editor.annotations.management.inspection.dimension.tooltip.desc"	"The annotation's dimension ID."	"Original Translation
 zh_CN: 注释所在维度的ID。
-zh_TW: 註記維度 ID。"	""
+zh_TW: 註記維度 ID。"	"注释所在维度的ID。"
 "editor.annotations.management.inspection.dimension.tooltip.title"	"Dimension"	"Original Translation
 zh_CN: 维度
-zh_TW: 維度"	""
+zh_TW: 維度"	"维度"
 "editor.annotations.management.inspection.erase.title"	"Delete Annotation"	"Original Translation
 zh_CN: 删除注释
-zh_TW: 刪除註記"	""
+zh_TW: 刪除註記"	"删除注解"
 "editor.annotations.management.inspection.erase.tooltip.desc"	"Erase the annotation."	"Original Translation
 zh_CN: 擦除该注释。
-zh_TW: 清除註記。"	""
+zh_TW: 清除註記。"	"擦除注解。"
 "editor.annotations.management.inspection.erase.tooltip.title"	"Delete Annotation"	"Original Translation
 zh_CN: 删除注释
-zh_TW: 刪除註記"	""
+zh_TW: 刪除註記"	"删除注解"
 "editor.annotations.management.inspection.quickActions.title"	"Quick Actions"	"Original Translation
 zh_CN: 快捷操作
-zh_TW: 快速行動"	""
+zh_TW: 快速行動"	"快捷操作"
 "editor.annotations.management.inspection.teleport.title"	"Teleport to Annotation"	"Original Translation
 zh_CN: 传送到注释
-zh_TW: 傳送到註記"	""
+zh_TW: 傳送到註記"	"传送到注解"
 "editor.annotations.management.inspection.teleport.tooltip.desc"	"Teleport to the annotation."	"Original Translation
 zh_CN: 传送到该注释。
-zh_TW: 傳送到該註記。"	""
+zh_TW: 傳送到該註記。"	"传送到注解。"
 "editor.annotations.management.inspection.teleport.tooltip.title"	"Teleport to Annotation"	"Original Translation
 zh_CN: 传送到注释
-zh_TW: 傳送到註記"	""
+zh_TW: 傳送到註記"	"传送到注解"
 "editor.annotations.management.inspection.visibility.title"	"Toggle Annotation Visibility"	"Original Translation
 zh_CN: 切换注释可见性
-zh_TW: 切換註記可見度"	""
+zh_TW: 切換註記可見度"	"切换注解可见性"
 "editor.annotations.management.inspection.visibility.tooltip.desc"	"Toggle visibility."	"Original Translation
 zh_CN: 切换可见性。
-zh_TW: 切換可見度。"	""
+zh_TW: 切換可見度。"	"切换可见性。"
 "editor.annotations.management.inspection.visibility.tooltip.title"	"Toggle Annotation Visibility"	"Original Translation
 zh_CN: 切换注释可见性
-zh_TW: 切換註記可見度"	""
+zh_TW: 切換註記可見度"	"切换注解可见性"
 "editor.annotations.management.inspection.worldSelect.title"	"Select Annotation in World"	"Original Translation
 zh_CN: 在世界中选择注释
-zh_TW: 選取世界註記"	""
+zh_TW: 選取世界註記"	"在世界中选择注解"
 "editor.annotations.management.inspection.worldSelect.tooltip.desc"	"Select the annotation in the world."	"Original Translation
 zh_CN: 在世界中选择该注释。
-zh_TW: 選取世界中的註記。"	""
+zh_TW: 選取世界中的註記。"	"在世界中选择注解。"
 "editor.annotations.management.inspection.worldSelect.tooltip.title"	"Select Annotation in World"	"Original Translation
 zh_CN: 在世界中选择注释
-zh_TW: 選取世界註記"	""
+zh_TW: 選取世界註記"	"在世界中选择注解"
 "editor.annotations.management.keybinding.open.title"	"Open Annotation Management"	"Original Translation
 zh_CN: 打开注释管理
-zh_TW: 開啟註記管理"	""
+zh_TW: 開啟註記管理"	"打开注解管理"
 "editor.annotations.management.keybinding.open.tooltip.desc"	"Open the Annotation Management panel."	"Original Translation
 zh_CN: 打开注释管理面板。
-zh_TW: 開啟註記管理面板。"	""
+zh_TW: 開啟註記管理面板。"	"打开注解管理面板。"
 "editor.annotations.management.keybinding.open.tooltip.title"	"Open Annotation Management"	"Original Translation
 zh_CN: 打开注释管理
-zh_TW: 開啟註記管理"	""
+zh_TW: 開啟註記管理"	"打开注解管理"
 "editor.annotations.management.list.action.check"	"Toggle Checks"	"Original Translation
 zh_CN: 切换勾选状态
-zh_TW: 切換勾選註記狀態"	""
+zh_TW: 切換勾選註記狀態"	"切换勾选状态"
 "editor.annotations.management.list.action.delete"	"Delete Checked"	"Original Translation
 zh_CN: 删除已勾选项
-zh_TW: 刪除已勾選註記"	""
+zh_TW: 刪除已勾選註記"	"删除已勾选项"
 "editor.annotations.management.list.action.editTags"	"Edit Tags..."	"Original Translation
 zh_CN: 编辑标签……
-zh_TW: 編輯標籤……"	""
+zh_TW: 編輯標籤……"	"编辑标签…"
 "editor.annotations.management.list.action.export"	"Export As..."	"Original Translation
 zh_CN: 导出为……
-zh_TW: 匯出為……"	""
+zh_TW: 匯出為……"	"导出为..."
 "editor.annotations.management.list.action.hide"	"Hide"	"Original Translation
 zh_CN: 隐藏
-zh_TW: 隱藏"	""
+zh_TW: 隱藏"	"躲藏"
 "editor.annotations.management.list.action.show"	"Show"	"Original Translation
 zh_CN: 显示
-zh_TW: 顯示"	""
+zh_TW: 顯示"	"显示"
 "editor.annotations.management.list.action.worldSelect"	"World Select"	"Original Translation
 zh_CN: 在世界中选择
-zh_TW: 世界選取"	""
+zh_TW: 世界選取"	"世界选择"
 "editor.annotations.management.list.check.tooltip.desc"	"Select annotation for bulk actions."	"Original Translation
 zh_CN: 选择注释以进行批量操作。
-zh_TW: 選取註記，一次選取行動。"	""
+zh_TW: 選取註記，一次選取行動。"	"选择注解以进行批量操作。"
 "editor.annotations.management.list.check.tooltip.title"	"Toggle Checks"	"Original Translation
 zh_CN: 切换勾选状态
-zh_TW: 切換勾選註記狀態"	""
+zh_TW: 切換勾選註記狀態"	"切换勾选状态"
 "editor.annotations.management.list.select.tooltip.desc"	"Select the annotation in the world."	"Original Translation
 zh_CN: 在世界中选择该注释。
-zh_TW: 選取世界中的註記。"	""
+zh_TW: 選取世界中的註記。"	"在世界中选择注解。"
 "editor.annotations.management.list.select.tooltip.title"	"Select Annotation in World"	"Original Translation
 zh_CN: 在世界中选择注释
-zh_TW: 選取世界註記"	""
+zh_TW: 選取世界註記"	"在世界中选择注解"
 "editor.annotations.management.list.teleport.tooltip.desc"	"Teleport to this annotation."	"Original Translation
 zh_CN: 传送到该注释位置。
-zh_TW: 傳送到此註記。"	""
+zh_TW: 傳送到此註記。"	"传送到此注解。"
 "editor.annotations.management.list.teleport.tooltip.title"	"Teleport to Annotation"	"Original Translation
 zh_CN: 传送到注释
-zh_TW: 傳送到註記"	""
+zh_TW: 傳送到註記"	"传送到注解"
 "editor.annotations.management.list.visibility.tooltip.desc"	"Toggle annotation visibility."	"Original Translation
 zh_CN: 切换注释可见性。
-zh_TW: 切換註記可見度。"	""
+zh_TW: 切換註記可見度。"	"切换注解可见性。"
 "editor.annotations.management.list.visibility.tooltip.title"	"Toggle Annotation Visibility"	"Original Translation
 zh_CN: 切换注释可见性
-zh_TW: 切換註記可見度"	""
+zh_TW: 切換註記可見度"	"切换注解可见性"
 "editor.annotations.management.menu.delete"	"Delete"	"Original Translation
 zh_CN: 删除
-zh_TW: 刪除"	""
+zh_TW: 刪除"	"删除"
 "editor.annotations.management.menu.open"	"Annotations"	"Original Translation
 zh_CN: 注释
-zh_TW: 註記"	""
+zh_TW: 註記"	"注解"
 "editor.annotations.management.menu.open.tooltip.desc"	"Open Annotation Management."	"Original Translation
 zh_CN: 打开注释管理。
-zh_TW: 開啟註記管理。"	""
+zh_TW: 開啟註記管理。"	"打开注解管理。"
 "editor.annotations.management.menu.open.tooltip.title"	"Open Annotation Management"	"Original Translation
 zh_CN: 打开注释管理
-zh_TW: 開啟註記管理"	""
+zh_TW: 開啟註記管理"	"打开注解管理"
 "editor.annotations.management.menu.teleport"	"Teleport To"	"Original Translation
 zh_CN: 传送至
-zh_TW: 傳送至"	""
+zh_TW: 傳送至"	"传送至"
 "editor.annotations.management.menu.worldSelect"	"World Select"	"Original Translation
 zh_CN: 在世界中选择
-zh_TW: 世界選取"	""
+zh_TW: 世界選取"	"世界选择"
 "editor.annotations.management.pane.title"	"Annotation Management"	"Original Translation
 zh_CN: 注释管理
-zh_TW: 註記管理"	""
+zh_TW: 註記管理"	"注解管理"
 "editor.annotations.management.pane.tooltip.desc"	"View, organize, and manage annotations across the world."	"Original Translation
 zh_CN: 查看、整理和管理世界各处的注释。
-zh_TW: 檢視、整理並管理全世界的註記。"	""
+zh_TW: 檢視、整理並管理全世界的註記。"	"查看、整理和管理世界中的注解。"
 "editor.annotations.management.pane.tooltip.title"	"Annotation Management %s"	"Original Translation
 zh_CN: 注释管理 %s
-zh_TW: 註記管理 %s"	""
+zh_TW: 註記管理 %s"	"注解管理%s"
 "editor.annotations.management.setting.drawingScaling.label"	"Drawing Distance Scaling"	"Original Translation
 zh_CN: 绘图距离缩放
-zh_TW: 繪圖距離縮放"	""
+zh_TW: 繪圖距離縮放"	"绘制距离缩放"
 "editor.annotations.management.setting.drawingScaling.tooltip.desc"	"Enables dynamic screen space scaling for drawing annotations."	"Original Translation
 zh_CN: 启用绘图注释的动态屏幕空间缩放。
-zh_TW: 啟用繪圖註記的動態螢幕空間縮放功能。"	""
+zh_TW: 啟用繪圖註記的動態螢幕空間縮放功能。"	"启用绘制注解动态屏幕空间缩放。"
 "editor.annotations.management.setting.drawingScaling.tooltip.title"	"Drawing Distance Scaling"	"Original Translation
 zh_CN: 绘图距离缩放
-zh_TW: 繪圖距離縮放"	""
+zh_TW: 繪圖距離縮放"	"绘制距离缩放"
 "editor.annotations.management.showAnnotations.label"	"Show Annotations"	"Original Translation
 zh_CN: 显示注释
-zh_TW: 顯示註記"	""
+zh_TW: 顯示註記"	"显示注解"
 "editor.annotations.management.showAnnotations.tooltip.desc"	"When disabled, annotations are hidden without changing their individual visibility settings."	"Original Translation
 zh_CN: 禁用后，所有注释都将隐藏，但不会改变各个注释的可见性设置。
-zh_TW: 停用時會隱藏所有註記，但會保留個別可見度設定。"	""
+zh_TW: 停用時會隱藏所有註記，但會保留個別可見度設定。"	"禁用时，注解将被隐藏，但不会更改其各自的可见性设置。"
 "editor.annotations.management.showAnnotations.tooltip.title"	"Show Annotations %s"	"Original Translation
 zh_CN: 显示注释 %s
-zh_TW: 顯示註記 %s"	""
+zh_TW: 顯示註記 %s"	"显示注解 %s"
 "editor.annotations.modalTool.create.autoEdit.label"	"Auto Edit"	"Original Translation
 zh_CN: 自动编辑
-zh_TW: 自動編輯"	""
+zh_TW: 自動編輯"	"自动编辑"
 "editor.annotations.modalTool.create.autoEdit.tooltip.desc"	"Switch to Edit mode after placing an annotation. For drawings, continue adding line segments."	"Original Translation
 zh_CN: 放置注释后会自动切换到编辑模式。如果是绘图注释，则可以继续添加线段。
-zh_TW: 新增註記後自動切換至編輯模式；繪圖時則會繼續繪製線段。"	""
+zh_TW: 新增註記後自動切換至編輯模式；繪圖時則會繼續繪製線段。"	"放置注解后切换到编辑模式。对于绘制，可继续添加线段。"
 "editor.annotations.modalTool.create.autoEdit.tooltip.title"	"Auto Edit %s"	"Original Translation
 zh_CN: 自动编辑 %s
-zh_TW: 自動編輯 %s"	""
+zh_TW: 自動編輯 %s"	"自动编辑%s"
 "editor.annotations.modalTool.create.drawing.nextSegment.color.tooltip.desc"	"The annotation's color."	"Original Translation
 zh_CN: 注释的颜色。
-zh_TW: 註記顏色。"	""
+zh_TW: 註記顏色。"	"注解的颜色。"
 "editor.annotations.modalTool.create.drawing.nextSegment.color.tooltip.title"	"Color"	"Original Translation
 zh_CN: 颜色
-zh_TW: 顏色"	""
+zh_TW: 顏色"	"颜色"
 "editor.annotations.modalTool.create.drawing.nextSegment.lineWeight.tooltip.desc"	"The thickness of the line to be drawn."	"Original Translation
 zh_CN: 要画的线条宽度。
-zh_TW: 所繪線條的粗細。"	""
+zh_TW: 所繪線條的粗細。"	"要绘制的直线粗细。"
 "editor.annotations.modalTool.create.drawing.nextSegment.lineWeight.tooltip.title"	"Line Weight"	"Original Translation
 zh_CN: 线条粗细
-zh_TW: 線條粗細"	""
+zh_TW: 線條粗細"	"直线粗细"
 "editor.annotations.modalTool.create.text.placeAsDecal.label"	"Place as surface decal"	"Original Translation
 zh_CN: 作为表面贴花放置
-zh_TW: 放成表面貼花"	""
+zh_TW: 放成表面貼花"	"作为表面贴花放置"
 "editor.annotations.modalTool.create.text.placeAsDecal.tooltip.desc"	"Orient the text annotation to the surface it is placed on."	"Original Translation
 zh_CN: 使文本注释的朝向与其所在表面保持一致。
-zh_TW: 將文字註記沿著表面方向放置。"	""
+zh_TW: 將文字註記沿著表面方向放置。"	"将文本注解朝向其放置的表面上。"
 "editor.annotations.modalTool.create.text.placeAsDecal.tooltip.title"	"Place as surface decal"	"Original Translation
 zh_CN: 作为表面贴花放置
-zh_TW: 放成表面貼花"	""
+zh_TW: 放成表面貼花"	"作为表面贴花放置"
 "editor.annotations.modalTool.create.type.comment.label"	"Comment %s"	"Original Translation
 zh_CN: 评论 %s
-zh_TW: 留言 %s"	""
+zh_TW: 留言 %s"	"添加注释%s"
 "editor.annotations.modalTool.create.type.comment.tooltip.desc"	"Place a Comment annotation."	"Original Translation
 zh_CN: 放置一个评论注释。
-zh_TW: 放置留言註記。"	""
+zh_TW: 放置留言註記。"	"放置注释注解。"
 "editor.annotations.modalTool.create.type.comment.tooltip.title"	"Comment %s"	"Original Translation
 zh_CN: 评论 %s
-zh_TW: 留言 %s"	""
+zh_TW: 留言 %s"	"添加注释%s"
 "editor.annotations.modalTool.create.type.drawing.label"	"Drawing %s"	"Original Translation
 zh_CN: 绘图 %s
-zh_TW: 繪圖 %s"	""
+zh_TW: 繪圖 %s"	"绘制%s"
 "editor.annotations.modalTool.create.type.drawing.tooltip.desc"	"Place a Drawing annotation."	"Original Translation
 zh_CN: 放置一个绘图注释。
-zh_TW: 放置繪圖註記。"	""
+zh_TW: 放置繪圖註記。"	"放置绘制注解。"
 "editor.annotations.modalTool.create.type.drawing.tooltip.title"	"Drawing %s"	"Original Translation
 zh_CN: 绘图 %s
-zh_TW: 繪圖 %s"	""
+zh_TW: 繪圖 %s"	"绘制%s"
 "editor.annotations.modalTool.create.type.text.label"	"Text %s"	"Original Translation
 zh_CN: 文本 %s
-zh_TW: 文字 %s"	""
+zh_TW: 文字 %s"	"文本%s"
 "editor.annotations.modalTool.create.type.text.tooltip.desc"	"Place a Text annotation."	"Original Translation
 zh_CN: 放置一个文本注释。
-zh_TW: 放置文字註記。"	""
+zh_TW: 放置文字註記。"	"放置文本注解。"
 "editor.annotations.modalTool.create.type.text.tooltip.title"	"Text %s"	"Original Translation
 zh_CN: 文本 %s
-zh_TW: 文字 %s"	""
+zh_TW: 文字 %s"	"文本%s"
 "editor.annotations.modalTool.create.type.title"	"Annotation Type"	"Original Translation
 zh_CN: 注释类型
-zh_TW: 註記類型"	""
+zh_TW: 註記類型"	"注解类型"
 "editor.annotations.modalTool.create.type.tooltip.desc"	"Choose which type of annotation to create."	"Original Translation
 zh_CN: 选择要创建的注释类型。
-zh_TW: 選擇建立的註記類型。"	""
+zh_TW: 選擇建立的註記類型。"	"选择要创建的注解类型。"
 "editor.annotations.modalTool.create.type.tooltip.title"	"Annotation Type"	"Original Translation
 zh_CN: 注释类型
-zh_TW: 註記類型"	""
+zh_TW: 註記類型"	"注解类型"
 "editor.annotations.modalTool.cursor.title"	"Cursor"	"Original Translation
 zh_CN: 光标
-zh_TW: 游標"	""
+zh_TW: 游標"	"光标"
 "editor.annotations.modalTool.edit.drawing.mode.add.label"	"Add %s"	"Original Translation
 zh_CN: 添加 %s
-zh_TW: 新增 %s"	""
+zh_TW: 新增 %s"	"添加%s"
 "editor.annotations.modalTool.edit.drawing.mode.add.tooltip.desc"	"Add additional line segments to the current annotation."	"Original Translation
 zh_CN: 向当前注释继续添加线段。
-zh_TW: 為目前註記新增線段。"	""
+zh_TW: 為目前註記新增線段。"	"为当前注解添加更多线段。"
 "editor.annotations.modalTool.edit.drawing.mode.add.tooltip.title"	"Add %s"	"Original Translation
 zh_CN: 添加 %s
-zh_TW: 新增 %s"	""
+zh_TW: 新增 %s"	"添加%s"
 "editor.annotations.modalTool.edit.drawing.mode.move.label"	"Move %s"	"Original Translation
 zh_CN: 移动 %s
-zh_TW: 移動 %s"	""
+zh_TW: 移動 %s"	"移动%s"
 "editor.annotations.modalTool.edit.drawing.mode.move.tooltip.desc"	"Move the current annotation."	"Original Translation
 zh_CN: 移动当前注释。
-zh_TW: 移動目前的註記。"	""
+zh_TW: 移動目前的註記。"	"移动当前注解。"
 "editor.annotations.modalTool.edit.drawing.mode.move.tooltip.title"	"Move %s"	"Original Translation
 zh_CN: 移动 %s
-zh_TW: 移動 %s"	""
+zh_TW: 移動 %s"	"移动%s"
 "editor.annotations.modalTool.edit.drawing.mode.remove.label"	"Remove %s"	"Original Translation
 zh_CN: 移除 %s
-zh_TW: 移除 %s"	""
+zh_TW: 移除 %s"	"移除%s"
 "editor.annotations.modalTool.edit.drawing.mode.remove.tooltip.desc"	"Remove line segments from the current annotation."	"Original Translation
 zh_CN: 从当前注释中移除线段。
-zh_TW: 移除目前註記中的線段。"	""
+zh_TW: 移除目前註記中的線段。"	"从当前注解中移除线段。"
 "editor.annotations.modalTool.edit.drawing.mode.remove.tooltip.title"	"Remove %s"	"Original Translation
 zh_CN: 移除 %s
-zh_TW: 移除 %s"	""
+zh_TW: 移除 %s"	"移除%s"
 "editor.annotations.modalTool.edit.drawing.mode.title"	"Drawing Edit Mode"	"Original Translation
 zh_CN: 绘图编辑模式
-zh_TW: 繪圖編輯模式"	""
+zh_TW: 繪圖編輯模式"	"绘制编辑模式"
 "editor.annotations.modalTool.edit.drawing.mode.tooltip.desc"	"Choose how to edit drawing line segments. %s"	"Original Translation
 zh_CN: 选择如何编辑绘图线段。%s
-zh_TW: 選擇繪圖線段編輯方式。%s"	""
+zh_TW: 選擇繪圖線段編輯方式。%s"	"选择编辑绘制线段的方式。%s"
 "editor.annotations.modalTool.edit.drawing.mode.tooltip.title"	"Drawing Edit Mode"	"Original Translation
 zh_CN: 绘图编辑模式
-zh_TW: 繪圖編輯模式"	""
+zh_TW: 繪圖編輯模式"	"绘制编辑模式"
 "editor.annotations.modalTool.edit.help"	"Click an annotation in the world to select and edit it."	"Original Translation
 zh_CN: 点击世界中的注释，即可选中并进行编辑。
-zh_TW: 按一下世界註記即可選取與編輯。"	""
+zh_TW: 按一下世界註記即可選取與編輯。"	"点击世界中的注解以选择并编辑。"
 "editor.annotations.modalTool.erase.help"	"Click an annotation in the world to delete it, or click and drag to delete multiple annotations."	"Original Translation
 zh_CN: 点击世界中的注释可删除，或点击并拖动以批量删除多个注释。
-zh_TW: 按一下世界註記即可刪除；按一下並拖曳則能刪除多個註記。"	""
+zh_TW: 按一下世界註記即可刪除；按一下並拖曳則能刪除多個註記。"	"点击世界中的注解以删除，或点击并拖动以删除多个注解。"
 "editor.annotations.modalTool.keybinding.chooseCommentAnnotation.title"	"Choose Comment Annotation"	"Original Translation
 zh_CN: 选择评论注释
-zh_TW: 選擇留言註記"	""
+zh_TW: 選擇留言註記"	"选择注释注解"
 "editor.annotations.modalTool.keybinding.chooseCommentAnnotation.tooltip.desc"	"Selects the Comment annotation type for placement."	"Original Translation
 zh_CN: 选择评论注释类型进行放置。
-zh_TW: 選取留言註記類型並放置。"	""
+zh_TW: 選取留言註記類型並放置。"	"选择要放置的注释注解类型。"
 "editor.annotations.modalTool.keybinding.chooseCommentAnnotation.tooltip.title"	"Choose Comment Annotation"	"Original Translation
 zh_CN: 选择评论注释
-zh_TW: 選擇留言註記"	""
+zh_TW: 選擇留言註記"	"选择注释注解"
 "editor.annotations.modalTool.keybinding.chooseDrawingAnnotation.title"	"Choose Drawing Annotation"	"Original Translation
 zh_CN: 选择绘图注释
-zh_TW: 選擇繪圖註記"	""
+zh_TW: 選擇繪圖註記"	"选择绘制注解"
 "editor.annotations.modalTool.keybinding.chooseDrawingAnnotation.tooltip.desc"	"Selects the Drawing annotation type for placement."	"Original Translation
 zh_CN: 选择绘图注释类型进行放置。
-zh_TW: 選取繪圖註記類型並放置。"	""
+zh_TW: 選取繪圖註記類型並放置。"	"选择要放置的绘制注解类型。"
 "editor.annotations.modalTool.keybinding.chooseDrawingAnnotation.tooltip.title"	"Choose Drawing Annotation"	"Original Translation
 zh_CN: 选择绘图注释
-zh_TW: 選擇繪圖註記"	""
+zh_TW: 選擇繪圖註記"	"选择绘制注解"
 "editor.annotations.modalTool.keybinding.chooseTextAnnotation.title"	"Choose Text Annotation"	"Original Translation
 zh_CN: 选择文本注释
-zh_TW: 選擇文字註記"	""
+zh_TW: 選擇文字註記"	"选择文本注解"
 "editor.annotations.modalTool.keybinding.chooseTextAnnotation.tooltip.desc"	"Selects the Text annotation type for placement."	"Original Translation
 zh_CN: 选择文本注释类型进行放置。
-zh_TW: 選取文字註記類型並放置。"	""
+zh_TW: 選取文字註記類型並放置。"	"选择要放置的文本注解类型。"
 "editor.annotations.modalTool.keybinding.chooseTextAnnotation.tooltip.title"	"Choose Text Annotation"	"Original Translation
 zh_CN: 选择文本注释
-zh_TW: 選擇文字註記"	""
+zh_TW: 選擇文字註記"	"选择文本注解"
 "editor.annotations.modalTool.keybinding.cycleDrawingSubmode.title"	"Cycle Drawing Edit Modes"	"Original Translation
 zh_CN: 循环切换绘图编辑模式
-zh_TW: 切換繪圖編輯模式"	""
+zh_TW: 切換繪圖編輯模式"	"循环切换绘制编辑模式"
 "editor.annotations.modalTool.keybinding.cycleDrawingSubmode.tooltip.desc"	"Switch between Add, Remove, and Move modes for the selected drawing."	"Original Translation
 zh_CN: 在添加，移除和移动模式之间切换，以操作选中的绘图。
-zh_TW: 針對所選繪圖，在「新增」、「移除」與「移動」模式間切換。"	""
+zh_TW: 針對所選繪圖，在「新增」、「移除」與「移動」模式間切換。"	"切换所选绘制的添加、移除和移动模式。"
 "editor.annotations.modalTool.keybinding.cycleDrawingSubmode.tooltip.title"	"Cycle Drawing Edit Modes"	"Original Translation
 zh_CN: 循环切换绘图编辑模式
-zh_TW: 切換繪圖編輯模式"	""
+zh_TW: 切換繪圖編輯模式"	"循环切换绘制编辑模式"
 "editor.annotations.modalTool.keybinding.cycleMode.title"	"Cycle Annotation Modes"	"Original Translation
 zh_CN: 循环切换注释模式
-zh_TW: 切換註記模式"	""
+zh_TW: 切換註記模式"	"循环切换注解模式"
 "editor.annotations.modalTool.keybinding.cycleMode.tooltip.desc"	"Switch between Place, Edit, and Erase modes."	"Original Translation
 zh_CN: 在放置、编辑和擦除模式间切换。
-zh_TW: 在「放置」、「編輯」與「清除」模式間切換。"	""
+zh_TW: 在「放置」、「編輯」與「清除」模式間切換。"	"切换放置、编辑和擦除模式。"
 "editor.annotations.modalTool.keybinding.cycleMode.tooltip.title"	"Cycle Annotation Modes"	"Original Translation
 zh_CN: 循环切换注释模式
-zh_TW: 切換註記模式"	""
+zh_TW: 切換註記模式"	"循环切换注解模式"
 "editor.annotations.modalTool.keybinding.deleteSelected.title"	"Delete Selected Annotation"	"Original Translation
 zh_CN: 删除所选注释
-zh_TW: 刪除所選註記"	""
+zh_TW: 刪除所選註記"	"删除所选注解"
 "editor.annotations.modalTool.keybinding.deleteSelected.tooltip.desc"	"Delete the selected annotation."	"Original Translation
 zh_CN: 删除所选注释。
-zh_TW: 刪除選取的註記。"	""
+zh_TW: 刪除選取的註記。"	"删除选中的注解。"
 "editor.annotations.modalTool.keybinding.deleteSelected.tooltip.title"	"Delete Selected Annotation"	"Original Translation
 zh_CN: 删除所选注释
-zh_TW: 刪除所選註記"	""
+zh_TW: 刪除所選註記"	"删除所选注解"
 "editor.annotations.modalTool.keybinding.drawingSubmodeAdd.title"	"Activate Drawing Add Mode"	"Original Translation
 zh_CN: 启用绘图添加模式
-zh_TW: 啟用繪圖新增模式"	""
+zh_TW: 啟用繪圖新增模式"	"启用绘制添加模式"
 "editor.annotations.modalTool.keybinding.drawingSubmodeAdd.tooltip.desc"	"Activate Add mode for the selected drawing."	"Original Translation
 zh_CN: 为所选绘图启用添加模式。
-zh_TW: 針對所選繪圖，啟用新增模式。"	""
+zh_TW: 針對所選繪圖，啟用新增模式。"	"为所选绘制启用添加模式。"
 "editor.annotations.modalTool.keybinding.drawingSubmodeAdd.tooltip.title"	"Activate Drawing Add Mode"	"Original Translation
 zh_CN: 启用绘图添加模式
-zh_TW: 啟用繪圖新增模式"	""
+zh_TW: 啟用繪圖新增模式"	"启用绘制添加模式"
 "editor.annotations.modalTool.keybinding.drawingSubmodeMove.title"	"Activate Drawing Move Mode"	"Original Translation
 zh_CN: 启用绘图移动模式
-zh_TW: 啟用繪圖移動模式"	""
+zh_TW: 啟用繪圖移動模式"	"启用绘制移动模式"
 "editor.annotations.modalTool.keybinding.drawingSubmodeMove.tooltip.desc"	"Activate Move mode for the selected drawing."	"Original Translation
 zh_CN: 为所选绘图启用移动模式。
-zh_TW: 針對所選繪圖，啟用移動模式。"	""
+zh_TW: 針對所選繪圖，啟用移動模式。"	"为所选绘制启用移动模式。"
 "editor.annotations.modalTool.keybinding.drawingSubmodeMove.tooltip.title"	"Activate Drawing Move Mode"	"Original Translation
 zh_CN: 启用绘图移动模式
-zh_TW: 啟用繪圖移動模式"	""
+zh_TW: 啟用繪圖移動模式"	"启用绘制移动模式"
 "editor.annotations.modalTool.keybinding.drawingSubmodeRemove.title"	"Activate Drawing Remove Mode"	"Original Translation
 zh_CN: 启用绘图移除模式
-zh_TW: 啟用繪圖移除模式"	""
+zh_TW: 啟用繪圖移除模式"	"启用绘制移除模式"
 "editor.annotations.modalTool.keybinding.drawingSubmodeRemove.tooltip.desc"	"Activate Remove mode for the selected drawing."	"Original Translation
 zh_CN: 为所选绘图启用移除模式。
-zh_TW: 針對所選繪圖，啟用移動模式。"	""
+zh_TW: 針對所選繪圖，啟用移動模式。"	"为所选绘制启用移除模式。"
 "editor.annotations.modalTool.keybinding.drawingSubmodeRemove.tooltip.title"	"Activate Drawing Remove Mode"	"Original Translation
 zh_CN: 启用绘图移除模式
-zh_TW: 啟用繪圖移除模式"	""
+zh_TW: 啟用繪圖移除模式"	"启用绘制移除模式"
 "editor.annotations.modalTool.keybinding.modeEdit.title"	"Activate Edit Mode"	"Original Translation
 zh_CN: 启用编辑模式
-zh_TW: 啟用編輯模式"	""
+zh_TW: 啟用編輯模式"	"启用编辑模式"
 "editor.annotations.modalTool.keybinding.modeEdit.tooltip.desc"	"Activate Edit mode."	"Original Translation
 zh_CN: 启用编辑模式。
-zh_TW: 啟用編輯模式。"	""
+zh_TW: 啟用編輯模式。"	"启用编辑模式。"
 "editor.annotations.modalTool.keybinding.modeEdit.tooltip.title"	"Activate Edit Mode"	"Original Translation
 zh_CN: 启用编辑模式
-zh_TW: 啟用編輯模式"	""
+zh_TW: 啟用編輯模式"	"启用编辑模式"
 "editor.annotations.modalTool.keybinding.modeErase.title"	"Activate Erase Mode"	"Original Translation
 zh_CN: 启用擦除模式
-zh_TW: 啟用清除模式"	""
+zh_TW: 啟用清除模式"	"启用擦除模式"
 "editor.annotations.modalTool.keybinding.modeErase.tooltip.desc"	"Activate Erase mode."	"Original Translation
 zh_CN: 启用擦除模式。
-zh_TW: 啟用清除模式。"	""
+zh_TW: 啟用清除模式。"	"启用擦除模式。"
 "editor.annotations.modalTool.keybinding.modeErase.tooltip.title"	"Activate Erase Mode"	"Original Translation
 zh_CN: 启用擦除模式
-zh_TW: 啟用清除模式"	""
+zh_TW: 啟用清除模式"	"启用擦除模式"
 "editor.annotations.modalTool.keybinding.modePlace.title"	"Activate Place Mode"	"Original Translation
 zh_CN: 启用放置模式
-zh_TW: 啟用放置模式"	""
+zh_TW: 啟用放置模式"	"启用放置模式"
 "editor.annotations.modalTool.keybinding.modePlace.tooltip.desc"	"Activate Place mode."	"Original Translation
 zh_CN: 启用放置模式。
-zh_TW: 啟用放置模式。"	""
+zh_TW: 啟用放置模式。"	"启用放置模式。"
 "editor.annotations.modalTool.keybinding.modePlace.tooltip.title"	"Activate Place Mode"	"Original Translation
 zh_CN: 启用放置模式
-zh_TW: 啟用放置模式"	""
+zh_TW: 啟用放置模式"	"启用放置模式"
 "editor.annotations.modalTool.keybinding.open.title"	"Open Annotation Editor"	"Original Translation
 zh_CN: 打开注释编辑器
-zh_TW: 開啟註記編輯器"	""
+zh_TW: 開啟註記編輯器"	"打开注解编辑器"
 "editor.annotations.modalTool.keybinding.open.tooltip.desc"	"Open the Annotation Editor tool."	"Original Translation
 zh_CN: 打开注释编辑器工具。
-zh_TW: 開啟註記編輯器工具。"	""
+zh_TW: 開啟註記編輯器工具。"	"打开注解编辑器工具。"
 "editor.annotations.modalTool.keybinding.open.tooltip.title"	"Open Annotation Editor"	"Original Translation
 zh_CN: 打开注释编辑器
-zh_TW: 開啟註記編輯器"	""
+zh_TW: 開啟註記編輯器"	"打开注解编辑器"
 "editor.annotations.modalTool.keybinding.placeAnnotation.title"	"Place Annotation"	"Original Translation
 zh_CN: 放置注释
-zh_TW: 放置註記"	""
+zh_TW: 放置註記"	"放置注解"
 "editor.annotations.modalTool.keybinding.placeAnnotation.tooltip.desc"	"Place an annotation at the cursor."	"Original Translation
 zh_CN: 在光标处放置注释。
-zh_TW: 在游標處放置註記。"	""
+zh_TW: 在游標處放置註記。"	"在光标处放置注解。"
 "editor.annotations.modalTool.keybinding.placeAnnotation.tooltip.title"	"Place Annotation"	"Original Translation
 zh_CN: 放置注释
-zh_TW: 放置註記"	""
+zh_TW: 放置註記"	"放置注解"
 "editor.annotations.modalTool.keybinding.toggleAutoEdit.title"	"Toggle Auto Edit"	"Original Translation
 zh_CN: 切换自动编辑
-zh_TW: 切換自動編輯"	""
+zh_TW: 切換自動編輯"	"切换自动编辑"
 "editor.annotations.modalTool.keybinding.toggleAutoEdit.tooltip.desc"	"Toggle automatic editing after placing an annotation."	"Original Translation
 zh_CN: 切换是否在放置注释后自动进入编辑模式。
-zh_TW: 放置註記後，自動切換至編輯。"	""
+zh_TW: 放置註記後，自動切換至編輯。"	"放置注解后切换自动编辑。"
 "editor.annotations.modalTool.keybinding.toggleAutoEdit.tooltip.title"	"Toggle Auto Edit"	"Original Translation
 zh_CN: 切换自动编辑
-zh_TW: 切換自動編輯"	""
+zh_TW: 切換自動編輯"	"切换自动编辑"
 "editor.annotations.modalTool.managementButton.title"	"Open Management Panel"	"Original Translation
 zh_CN: 打开管理面板
-zh_TW: 開啟管理面板"	""
+zh_TW: 開啟管理面板"	"打开管理面板"
 "editor.annotations.modalTool.managementButton.tooltip.desc"	"Open the Annotation Management Panel."	"Original Translation
 zh_CN: 打开注释管理面板。
-zh_TW: 開啟註記管理面板。"	""
+zh_TW: 開啟註記管理面板。"	"打开注解管理面板。"
 "editor.annotations.modalTool.managementButton.tooltip.title"	"Open Management Panel %s"	"Original Translation
 zh_CN: 打开管理面板 %s
-zh_TW: 開啟管理面板 %s"	""
+zh_TW: 開啟管理面板 %s"	"打开管理面板 %s"
 "editor.annotations.modalTool.mode.edit.label"	"Edit %s"	"Original Translation
 zh_CN: 编辑 %s
-zh_TW: 編輯 %s"	""
+zh_TW: 編輯 %s"	"编辑 %s"
 "editor.annotations.modalTool.mode.edit.tooltip.desc"	"Edit an existing annotation."	"Original Translation
 zh_CN: 编辑现有注释。
-zh_TW: 編輯現有註記。"	""
+zh_TW: 編輯現有註記。"	"编辑现有注解。"
 "editor.annotations.modalTool.mode.edit.tooltip.title"	"Edit %s"	"Original Translation
 zh_CN: 编辑 %s
-zh_TW: 編輯 %s"	""
+zh_TW: 編輯 %s"	"编辑 %s"
 "editor.annotations.modalTool.mode.erase.label"	"Delete %s"	"Original Translation
 zh_CN: 删除 %s
-zh_TW: 刪除 %s"	""
+zh_TW: 刪除 %s"	"删除 %s"
 "editor.annotations.modalTool.mode.erase.tooltip.desc"	"Delete an existing annotation."	"Original Translation
 zh_CN: 删除现有注释。
-zh_TW: 刪除現有註記。"	""
+zh_TW: 刪除現有註記。"	"删除现有注解。"
 "editor.annotations.modalTool.mode.erase.tooltip.title"	"Delete %s"	"Original Translation
 zh_CN: 删除 %s
-zh_TW: 刪除 %s"	""
+zh_TW: 刪除 %s"	"删除%s"
 "editor.annotations.modalTool.mode.place.label"	"Place %s"	"Original Translation
 zh_CN: 放置 %s
-zh_TW: 放置 %s"	""
+zh_TW: 放置 %s"	"放置 %s"
 "editor.annotations.modalTool.mode.place.tooltip.desc"	"Place a new annotation."	"Original Translation
 zh_CN: 放置新注释。
-zh_TW: 放置全新註記。"	""
+zh_TW: 放置全新註記。"	"放置新的注解。"
 "editor.annotations.modalTool.mode.place.tooltip.title"	"Place %s"	"Original Translation
 zh_CN: 放置 %s
-zh_TW: 放置 %s"	""
+zh_TW: 放置 %s"	"放置 %s"
 "editor.annotations.modalTool.mode.title"	"Mode"	"Original Translation
 zh_CN: 模式
-zh_TW: 模式"	""
+zh_TW: 模式"	"模式"
 "editor.annotations.modalTool.mode.tooltip.desc"	"Choose how the annotation editor interacts with annotations. Toggle between modes with %s."	"Original Translation
 zh_CN: 选择注释编辑器与注释的交互方式。使用 %s 可在不同模式间切换。
-zh_TW: 選擇註記編輯器與註記間的互動方式。使用 %s 切換模式。"	""
+zh_TW: 選擇註記編輯器與註記間的互動方式。使用 %s 切換模式。"	"选择注解编辑器与注解的交互方式。按%s切换模式。"
 "editor.annotations.modalTool.mode.tooltip.title"	"Mode"	"Original Translation
 zh_CN: 模式
-zh_TW: 模式"	""
+zh_TW: 模式"	"模式"
 "editor.annotations.modalTool.pane.title"	"Annotations"	"Original Translation
 zh_CN: 注释
-zh_TW: 註記"	""
+zh_TW: 註記"	"注解"
 "editor.annotations.modalTool.pane.tooltip.desc"	"A tool to leave Editor-only notes in the world, for your team or your future self."	"Original Translation
 zh_CN: 一个工具，用于在世界中添加仅在编辑器中可见的备注，供团队成员或日后的自己参考。
-zh_TW: 可在世界中留下「僅限編輯器模式下查看」備註的工具，方便團隊或自己日後查看。"	""
+zh_TW: 可在世界中留下「僅限編輯器模式下查看」備註的工具，方便團隊或自己日後查看。"	"一种在世界中留下仅编辑器可见说明的工具，供你的团队或未来的你使用。"
 "editor.annotations.modalTool.pane.tooltip.title"	"Annotations"	"Original Translation
 zh_CN: 注释
-zh_TW: 註記"	""
+zh_TW: 註記"	"注解"
 "editor.annotations.modalTool.visibility.warning"	"Annotations are visible only while the Annotation Editor tool is active. To change this, turn on Show Annotations in the management panel."	"Original Translation
 zh_CN: 仅当注释编辑器工具处于启用状态时，注释才可见。如需更改，请在管理面板中开启“显示注释”。
-zh_TW: 只有在註記編輯器工具處於啟用狀態時才會顯示註記。如需變更此設定，請至管理面板開啟「顯示註記」。"	""
+zh_TW: 只有在註記編輯器工具處於啟用狀態時才會顯示註記。如需變更此設定，請至管理面板開啟「顯示註記」。"	"仅在注解编辑器工具启用时注解才可见。要更改此设置，请在管理面板中打开“显示注解”。"
 "editor.annotations.tags.label"	"Tags"	"Original Translation
 zh_CN: 标签
-zh_TW: 標籤"	""
+zh_TW: 標籤"	"标签"
 "editor.annotations.tags.tooltip.desc"	"Add tags to annotations, which can be used to filter and sort them in the Annotation Management Panel."	"Original Translation
 zh_CN: 为注释添加标签，可在注释管理面板中用于筛选和排序。
-zh_TW: 為註記新增標籤，即可在註記管理面板中自由篩選與排序。"	""
+zh_TW: 為註記新增標籤，即可在註記管理面板中自由篩選與排序。"	"为注解添加标签，可用于在注解管理面板中筛选和排序。"
 "editor.annotations.tags.tooltip.title"	"Tags"	"Original Translation
 zh_CN: 标签
-zh_TW: 標籤"	""
+zh_TW: 標籤"	"标签"
 "editor.annotations.type.comment"	"Comment Annotation"	"Original Translation
 zh_CN: 评论注释
-zh_TW: 留言註記"	""
+zh_TW: 留言註記"	"注释注解"
 "editor.annotations.type.drawing"	"Drawing Annotation"	"Original Translation
 zh_CN: 绘图注释
-zh_TW: 繪圖註記"	""
+zh_TW: 繪圖註記"	"绘制注解"
 "editor.annotations.type.text"	"Text Annotation"	"Original Translation
 zh_CN: 文本注释
-zh_TW: 文字註記"	""
+zh_TW: 文字註記"	"文本注解"
 "editor.annotations.variantPane.anchorPosition.label"	"Anchor Position"	"Original Translation
 zh_CN: 锚点位置
-zh_TW: 錨定位置"	""
+zh_TW: 錨定位置"	"固定位置"
 "editor.annotations.variantPane.anchorPosition.tooltip.desc"	"The annotation's position in the world."	"Original Translation
 zh_CN: 注释在世界中的位置。
-zh_TW: 註記的世界位置。"	""
+zh_TW: 註記的世界位置。"	"注解在世界中的位置。"
 "editor.annotations.variantPane.anchorPosition.tooltip.title"	"Anchor Position"	"Original Translation
 zh_CN: 锚点位置
-zh_TW: 錨定位置"	""
+zh_TW: 錨定位置"	"固定位置"
 "editor.annotations.variantPane.appearance.tooltip.desc"	"Change the visual settings of an annotation."	"Original Translation
 zh_CN: 更改注释的视觉设置。
-zh_TW: 變更註記視覺設定。"	""
+zh_TW: 變更註記視覺設定。"	"更改注解的视觉设置。"
 "editor.annotations.variantPane.appearance.tooltip.title"	"Appearance Settings"	"Original Translation
 zh_CN: 外观设置
-zh_TW: 外觀設定"	""
+zh_TW: 外觀設定"	"外观设置"
 "editor.annotations.variantPane.comment.appearance.anchorOrientation.bottomCenter"	"Bottom Center"	"Original Translation
 zh_CN: 底部居中
-zh_TW: 中下"	""
+zh_TW: 中下"	"中下"
 "editor.annotations.variantPane.comment.appearance.anchorOrientation.bottomLeft"	"Bottom Left"	"Original Translation
 zh_CN: 左下
-zh_TW: 左下"	""
+zh_TW: 左下"	"下部左对齐"
 "editor.annotations.variantPane.comment.appearance.anchorOrientation.bottomRight"	"Bottom Right"	"Original Translation
 zh_CN: 右下
-zh_TW: 右下"	""
+zh_TW: 右下"	"下部右对齐"
 "editor.annotations.variantPane.comment.appearance.anchorOrientation.center"	"Center"	"Original Translation
 zh_CN: 居中
-zh_TW: 中心"	""
+zh_TW: 中心"	"居中"
 "editor.annotations.variantPane.comment.appearance.anchorOrientation.centerLeft"	"Center Left"	"Original Translation
 zh_CN: 左中
-zh_TW: 左中"	""
+zh_TW: 左中"	"中部左对齐"
 "editor.annotations.variantPane.comment.appearance.anchorOrientation.centerRight"	"Center Right"	"Original Translation
 zh_CN: 右中
-zh_TW: 右中"	""
+zh_TW: 右中"	"中部右对齐"
 "editor.annotations.variantPane.comment.appearance.anchorOrientation.label"	"Anchor Orientation"	"Original Translation
 zh_CN: 锚点方向
-zh_TW: 錨定定向"	""
+zh_TW: 錨定定向"	"固定方向"
 "editor.annotations.variantPane.comment.appearance.anchorOrientation.tooltip.desc"	"The origin point of the annotation. This point will stay fixed as the annotation grows and shrinks."	"Original Translation
 zh_CN: 注释的原点。无论注释扩大或缩小，该点的位置始终保持不变。
-zh_TW: 註記的原點。該點不會移動，不受註記放大、縮小影響。"	""
+zh_TW: 註記的原點。該點不會移動，不受註記放大、縮小影響。"	"注解的原点。当注解扩大或缩小时，该点将保持固定。"
 "editor.annotations.variantPane.comment.appearance.anchorOrientation.tooltip.title"	"Anchor Orientation"	"Original Translation
 zh_CN: 锚点方向
-zh_TW: 錨定定向"	""
+zh_TW: 錨定定向"	"固定方向"
 "editor.annotations.variantPane.comment.appearance.anchorOrientation.topCenter"	"Top Center"	"Original Translation
 zh_CN: 顶部居中
-zh_TW: 中上"	""
+zh_TW: 中上"	"顶部居中"
 "editor.annotations.variantPane.comment.appearance.anchorOrientation.topLeft"	"Top Left"	"Original Translation
 zh_CN: 左上
-zh_TW: 左上"	""
+zh_TW: 左上"	"顶部左对齐"
 "editor.annotations.variantPane.comment.appearance.anchorOrientation.topRight"	"Top Right"	"Original Translation
 zh_CN: 右上
-zh_TW: 右上"	""
+zh_TW: 右上"	"顶部右对齐"
 "editor.annotations.variantPane.comment.appearance.bodyColor.label"	"Body Text Color"	"Original Translation
 zh_CN: 正文颜色
-zh_TW: 內文顏色"	""
+zh_TW: 內文顏色"	"正文文本颜色"
 "editor.annotations.variantPane.comment.appearance.bodyColor.tooltip.desc"	"The color of the annotation text in the world."	"Original Translation
 zh_CN: 世界中注释文本的颜色。
-zh_TW: 世界註記文字的顏色。"	""
+zh_TW: 世界註記文字的顏色。"	"世界中注解文本的颜色。"
 "editor.annotations.variantPane.comment.appearance.bodyColor.tooltip.title"	"Body Text Color"	"Original Translation
 zh_CN: 正文颜色
-zh_TW: 內文顏色"	""
+zh_TW: 內文顏色"	"正文文本颜色"
 "editor.annotations.variantPane.comment.appearance.bodySize.label"	"Body Text Size"	"Original Translation
 zh_CN: 正文字号
-zh_TW: 內文大小"	""
+zh_TW: 內文大小"	"正文文本大小"
 "editor.annotations.variantPane.comment.appearance.bodySize.tooltip.desc"	"Set the size of the body text in the world."	"Original Translation
 zh_CN: 设置世界中正文的字体大小。
-zh_TW: 設定世界內文大小。"	""
+zh_TW: 設定世界內文大小。"	"设置世界中正文文本的大小。"
 "editor.annotations.variantPane.comment.appearance.bodySize.tooltip.title"	"Body Text Size"	"Original Translation
 zh_CN: 正文字号
-zh_TW: 內文大小"	""
+zh_TW: 內文大小"	"正文文本大小"
 "editor.annotations.variantPane.comment.appearance.facing.camera"	"Camera"	"Original Translation
 zh_CN: 摄像机
-zh_TW: 視角"	""
+zh_TW: 視角"	"相机视角"
 "editor.annotations.variantPane.comment.appearance.facing.label"	"Facing"	"Original Translation
 zh_CN: 朝向
-zh_TW: 朝向"	""
+zh_TW: 朝向"	"朝向"
 "editor.annotations.variantPane.comment.appearance.facing.manual"	"Manual"	"Original Translation
 zh_CN: 手动
-zh_TW: 手動"	""
+zh_TW: 手動"	"手动"
 "editor.annotations.variantPane.comment.appearance.facing.tooltip.desc"	"Whether or not the annotation faces the camera or remains fixed."	"Original Translation
 zh_CN: 注释是始终朝向摄像机，还是保持固定朝向。
-zh_TW: 註記是跟著視角旋轉，還是維持固定方向。"	""
+zh_TW: 註記是跟著視角旋轉，還是維持固定方向。"	"注解是否面对相机或保持固定状态。"
 "editor.annotations.variantPane.comment.appearance.facing.tooltip.title"	"Facing"	"Original Translation
 zh_CN: 朝向
-zh_TW: 朝向"	""
+zh_TW: 朝向"	"朝向"
 "editor.annotations.variantPane.comment.appearance.showBody.label"	"Show Body Text in World"	"Original Translation
 zh_CN: 在世界中显示正文
-zh_TW: 顯示世界內文"	""
+zh_TW: 顯示世界內文"	"在世界中显示正文文本"
 "editor.annotations.variantPane.comment.appearance.showBody.tooltip.desc"	"Show the annotation body text in the world."	"Original Translation
 zh_CN: 在世界中显示注释正文。
-zh_TW: 顯示世界中的註記內文。"	""
+zh_TW: 顯示世界中的註記內文。"	"在世界中显示注解正文文本。"
 "editor.annotations.variantPane.comment.appearance.showBody.tooltip.title"	"Show Body Text in World"	"Original Translation
 zh_CN: 在世界中显示正文
-zh_TW: 顯示世界內文"	""
+zh_TW: 顯示世界內文"	"在世界中显示正文文本"
 "editor.annotations.variantPane.comment.appearance.showTitle.label"	"Show Title in World"	"Original Translation
 zh_CN: 在世界中显示标题
-zh_TW: 顯示世界標題"	""
+zh_TW: 顯示世界標題"	"在世界中显示标题"
 "editor.annotations.variantPane.comment.appearance.showTitle.tooltip.desc"	"Show the annotation title in the world."	"Original Translation
 zh_CN: 在世界中显示注释标题。
-zh_TW: 顯示世界中的註記標題。"	""
+zh_TW: 顯示世界中的註記標題。"	"在世界中显示注解标题。"
 "editor.annotations.variantPane.comment.appearance.showTitle.tooltip.title"	"Show Title in World"	"Original Translation
 zh_CN: 在世界中显示标题
-zh_TW: 顯示世界標題"	""
+zh_TW: 顯示世界標題"	"在世界中显示标题"
 "editor.annotations.variantPane.comment.appearance.titleColor.label"	"Title Text Color"	"Original Translation
 zh_CN: 标题颜色
-zh_TW: 標題文字顏色"	""
+zh_TW: 標題文字顏色"	"标题文本的颜色"
 "editor.annotations.variantPane.comment.appearance.titleColor.tooltip.desc"	"The color of the annotation title in the world."	"Original Translation
 zh_CN: 注释标题在世界中的颜色。
-zh_TW: 世界註記標題的顏色。"	""
+zh_TW: 世界註記標題的顏色。"	"世界中注解标题的颜色。"
 "editor.annotations.variantPane.comment.appearance.titleColor.tooltip.title"	"Title Text Color"	"Original Translation
 zh_CN: 标题颜色
-zh_TW: 標題文字顏色"	""
+zh_TW: 標題文字顏色"	"标题文本的颜色"
 "editor.annotations.variantPane.comment.appearance.titleSize.label"	"Title Text Size"	"Original Translation
 zh_CN: 标题字号
-zh_TW: 標題文字大小"	""
+zh_TW: 標題文字大小"	"标题文本大小"
 "editor.annotations.variantPane.comment.appearance.titleSize.tooltip.desc"	"The font size of the annotation's title."	"Original Translation
 zh_CN: 注释标题的字体大小。
-zh_TW: 註記標題的字型大小。"	""
+zh_TW: 註記標題的字型大小。"	"注解标题的字体大小。"
 "editor.annotations.variantPane.comment.appearance.titleSize.tooltip.title"	"Title Text Size"	"Original Translation
 zh_CN: 标题字号
-zh_TW: 標題文字大小"	""
+zh_TW: 標題文字大小"	"标题文本大小"
 "editor.annotations.variantPane.comment.appearance.widthLimit.label"	"Width Limit"	"Original Translation
 zh_CN: 宽度限制
-zh_TW: 寬度限制"	""
+zh_TW: 寬度限制"	"宽度限制"
 "editor.annotations.variantPane.comment.appearance.widthLimit.tooltip.desc"	"The maximum width of the comment body, in blocks. Text wraps after this width."	"Original Translation
 zh_CN: 评论正文的最大宽度，以方块为单位。文字超出此宽度后将自动换行。
-zh_TW: 留言內文的寬度上限（以方塊為單位）。超過則自動換行。"	""
+zh_TW: 留言內文的寬度上限（以方塊為單位）。超過則自動換行。"	"注释正文的最大宽度，以方块为单位。超过此宽度后文本将换行。"
 "editor.annotations.variantPane.comment.appearance.widthLimit.tooltip.title"	"Width Limit"	"Original Translation
 zh_CN: 宽度限制
-zh_TW: 寬度限制"	""
+zh_TW: 寬度限制"	"宽度限制"
 "editor.annotations.variantPane.comment.appearance.world.title"	"Appearance Settings"	"Original Translation
 zh_CN: 外观设置
-zh_TW: 外觀設定"	""
+zh_TW: 外觀設定"	"外观设置"
 "editor.annotations.variantPane.comment.body.label"	"Body Text"	"Original Translation
 zh_CN: 正文
-zh_TW: 內文"	""
+zh_TW: 內文"	"正文文本"
 "editor.annotations.variantPane.comment.body.tooltip.desc"	"The body of the comment. Maximum 32,500 characters."	"Original Translation
 zh_CN: 评论正文。最多32,500个字符。
-zh_TW: 留言的內文。上限為 32,500 字元。"	""
+zh_TW: 留言的內文。上限為 32,500 字元。"	"注释的正文。最多32500个字符。"
 "editor.annotations.variantPane.comment.body.tooltip.title"	"Body Text"	"Original Translation
 zh_CN: 正文
-zh_TW: 內文"	""
+zh_TW: 內文"	"正文文本"
 "editor.annotations.variantPane.comment.name.tooltip.desc"	"The title of the visible comment, and its name in the Management Panel. Maximum 256 characters."	"Original Translation
 zh_CN: 可见评论的标题，也是其管理面板中的名称。最多256个字符。
-zh_TW: 顯示留言的標題，以及管理面板中的名稱。上限為 256 字元。"	""
+zh_TW: 顯示留言的標題，以及管理面板中的名稱。上限為 256 字元。"	"可见注释的标题，以及其在管理面板中的名称。最多256个字符。"
 "editor.annotations.variantPane.comment.name.tooltip.title"	"Name / Title"	"Original Translation
 zh_CN: 名称/标题
-zh_TW: 名稱/標題"	""
+zh_TW: 名稱/標題"	"名称/标题"
 "editor.annotations.variantPane.comment.nameTitle.label"	"Name / Title"	"Original Translation
 zh_CN: 名称/标题
-zh_TW: 名稱/標題"	""
+zh_TW: 名稱/標題"	"名称/标题"
 "editor.annotations.variantPane.drawing.appearance.visibleInWorld.label"	"Show in World"	"Original Translation
 zh_CN: 在世界中显示
-zh_TW: 在世界中顯示"	""
+zh_TW: 在世界中顯示"	"在世界中显示"
 "editor.annotations.variantPane.drawing.appearance.visibleInWorld.tooltip.desc"	"When disabled, this annotation will be hidden."	"Original Translation
 zh_CN: 禁用后，此注释将隐藏。
-zh_TW: 停用時會隱藏此註記。"	""
+zh_TW: 停用時會隱藏此註記。"	"禁用时，此注解将被隐藏。"
 "editor.annotations.variantPane.drawing.appearance.visibleInWorld.tooltip.title"	"Show in World"	"Original Translation
 zh_CN: 在世界中显示
-zh_TW: 在世界中顯示"	""
+zh_TW: 在世界中顯示"	"在世界中显示"
 "editor.annotations.variantPane.drawing.appearance.world.title"	"Appearance Settings"	"Original Translation
 zh_CN: 外观设置
-zh_TW: 外觀設定"	""
+zh_TW: 外觀設定"	"外观设置"
 "editor.annotations.variantPane.drawing.color.label"	"Color"	"Original Translation
 zh_CN: 颜色
-zh_TW: 顏色"	""
+zh_TW: 顏色"	"颜色"
 "editor.annotations.variantPane.drawing.lineSegments.color.title"	"Line Segment Color"	"Original Translation
 zh_CN: 线段颜色
-zh_TW: 線段顏色"	""
+zh_TW: 線段顏色"	"线段颜色"
 "editor.annotations.variantPane.drawing.lineSegments.color.tooltip.desc"	"Select the color of this line segment."	"Original Translation
 zh_CN: 选择此线段的颜色。
-zh_TW: 選取此線段的顏色。"	""
+zh_TW: 選取此線段的顏色。"	"选择此线段的颜色。"
 "editor.annotations.variantPane.drawing.lineSegments.color.tooltip.title"	"Line Segment Color"	"Original Translation
 zh_CN: 线段颜色
-zh_TW: 線段顏色"	""
+zh_TW: 線段顏色"	"线段颜色"
 "editor.annotations.variantPane.drawing.lineSegments.delete.title"	"Delete Line Segment"	"Original Translation
 zh_CN: 删除线段
-zh_TW: 刪除線段"	""
+zh_TW: 刪除線段"	"删除线段"
 "editor.annotations.variantPane.drawing.lineSegments.delete.tooltip.desc"	"Delete this line segment."	"Original Translation
 zh_CN: 删除此线段。
-zh_TW: 刪除此線段。"	""
+zh_TW: 刪除此線段。"	"删除此线段。"
 "editor.annotations.variantPane.drawing.lineSegments.delete.tooltip.title"	"Delete"	"Original Translation
 zh_CN: 删除
-zh_TW: 刪除"	""
+zh_TW: 刪除"	"删除"
 "editor.annotations.variantPane.drawing.lineSegments.line.title"	"Line"	"Original Translation
 zh_CN: 线
-zh_TW: 線條"	""
+zh_TW: 線條"	"直线"
 "editor.annotations.variantPane.drawing.lineSegments.line.tooltip.desc"	"Edit this drawing line segment."	"Original Translation
 zh_CN: 编辑此绘图线段。
-zh_TW: 編輯此繪圖線段。"	""
+zh_TW: 編輯此繪圖線段。"	"编辑此绘制线段。"
 "editor.annotations.variantPane.drawing.lineSegments.line.tooltip.title"	"Line"	"Original Translation
 zh_CN: 线
-zh_TW: 線條"	""
+zh_TW: 線條"	"直线"
 "editor.annotations.variantPane.drawing.lineSegments.lineWeight.tooltip.desc"	"The thickness of the line to be drawn."	"Original Translation
 zh_CN: 要画的线条宽度。
-zh_TW: 所繪線條的粗細。"	""
+zh_TW: 所繪線條的粗細。"	"要绘制的直线粗细。"
 "editor.annotations.variantPane.drawing.lineSegments.lineWeight.tooltip.title"	"Line Weight"	"Original Translation
 zh_CN: 线条粗细
-zh_TW: 線條粗細"	""
+zh_TW: 線條粗細"	"直线粗细"
 "editor.annotations.variantPane.drawing.lineSegments.quickActions.title"	"Quick Actions"	"Original Translation
 zh_CN: 快捷操作
-zh_TW: 快速行動"	""
+zh_TW: 快速行動"	"快捷操作"
 "editor.annotations.variantPane.drawing.lineSegments.quickActions.tooltip.desc"	"Actions for this line segment."	"Original Translation
 zh_CN: 此线段的操作。
-zh_TW: 此線段的行動。"	""
+zh_TW: 此線段的行動。"	"此线段的操作。"
 "editor.annotations.variantPane.drawing.lineSegments.quickActions.tooltip.title"	"Quick Actions"	"Original Translation
 zh_CN: 快捷操作
-zh_TW: 快速行動"	""
+zh_TW: 快速行動"	"快捷操作"
 "editor.annotations.variantPane.drawing.lineSegments.select.tooltip.desc"	"Select this line segment."	"Original Translation
 zh_CN: 选择该线段。
-zh_TW: 選取此線段。"	""
+zh_TW: 選取此線段。"	"选择此线段。"
 "editor.annotations.variantPane.drawing.lineSegments.select.tooltip.title"	"Select"	"Original Translation
 zh_CN: 选择
-zh_TW: 選取"	""
+zh_TW: 選取"	"选择"
 "editor.annotations.variantPane.drawing.lineSegments.selected.tooltip"	"Line Segment Selected"	"Original Translation
 zh_CN: 已选中线段
-zh_TW: 已選取線段"	""
+zh_TW: 已選取線段"	"已选择线段"
 "editor.annotations.variantPane.drawing.lineSegments.teleport.tooltip.desc"	"Go to the world position of this line segment."	"Original Translation
 zh_CN: 前往此线段在世界中的位置。
-zh_TW: 前往此線段所在的世界位置。"	""
+zh_TW: 前往此線段所在的世界位置。"	"前往此线段的世界位置。"
 "editor.annotations.variantPane.drawing.lineSegments.teleport.tooltip.title"	"Go To"	"Original Translation
 zh_CN: 前往
-zh_TW: 前往"	""
+zh_TW: 前往"	"前往"
 "editor.annotations.variantPane.drawing.lineSegments.title"	"Line Segments"	"Original Translation
 zh_CN: 线段
-zh_TW: 線段"	""
+zh_TW: 線段"	"线段"
 "editor.annotations.variantPane.drawing.lineSegments.tooltip.desc"	"The line segments that comprise this drawing annotation."	"Original Translation
 zh_CN: 构成此绘图注释的线段。
-zh_TW: 構成此繪圖註記的線段。"	""
+zh_TW: 構成此繪圖註記的線段。"	"组成此绘制注解的线段。"
 "editor.annotations.variantPane.drawing.lineWeight.label"	"Line weight"	"Original Translation
 zh_CN: 线条粗细
-zh_TW: 線條粗細"	""
+zh_TW: 線條粗細"	"直线粗细"
 "editor.annotations.variantPane.drawing.name.label"	"Name"	"Original Translation
 zh_CN: 名称
-zh_TW: 名稱"	""
+zh_TW: 名稱"	"名称"
 "editor.annotations.variantPane.drawing.name.tooltip.desc"	"The annotation's name in the Annotation Management Panel. Maximum 256 characters."	"Original Translation
 zh_CN: 注释在注释管理面板中的名称。最多256个字符。
-zh_TW: 註記管理面板中的註記名稱。上限為 256 字元。"	""
+zh_TW: 註記管理面板中的註記名稱。上限為 256 字元。"	"注解在注解管理面板中的名称。最多256个字符。"
 "editor.annotations.variantPane.drawing.name.tooltip.title"	"Name"	"Original Translation
 zh_CN: 名称
-zh_TW: 名稱"	""
+zh_TW: 名稱"	"名称"
 "editor.annotations.variantPane.drawing.notes.label"	"Notes"	"Original Translation
 zh_CN: 备注
-zh_TW: 備註"	""
+zh_TW: 備註"	"备注"
 "editor.annotations.variantPane.drawing.notes.tooltip.desc"	"Add more information, visible only in Editor. Maximum 32,500 characters."	"Original Translation
 zh_CN: 添加更多信息，仅在编辑器中可见。最多32,500个字符。
-zh_TW: 新增僅在編輯器中顯示的詳細資訊。上限為 32,500 字元。"	""
+zh_TW: 新增僅在編輯器中顯示的詳細資訊。上限為 32,500 字元。"	"添加更多信息，仅在编辑器中可见。最多32500个字符。"
 "editor.annotations.variantPane.drawing.notes.tooltip.title"	"Notes"	"Original Translation
 zh_CN: 备注
-zh_TW: 備註"	""
+zh_TW: 備註"	"备注"
 "editor.annotations.variantPane.name.tooltip.desc"	"The annotation's name in the Management Panel. For text and comments, it is also the title shown in the world. Maximum 256 characters."	"Original Translation
 zh_CN: 注释在管理面板中的名称。对于文字和评论，该名称也会作为标题显示在世界中。最多256个字符。
-zh_TW: 管理面板中的註記名稱。此名稱也是文字和留言的世界標題。上限為 256 字元。"	""
+zh_TW: 管理面板中的註記名稱。此名稱也是文字和留言的世界標題。上限為 256 字元。"	"注解在管理面板中的名称。对于文本和注释，此名称也是世界中显示的标题。最多256个字符。"
 "editor.annotations.variantPane.name.tooltip.title"	"Name / Title"	"Original Translation
 zh_CN: 名称/标题
-zh_TW: 名稱/標題"	""
+zh_TW: 名稱/標題"	"名称/标题"
 "editor.annotations.variantPane.text.appearance.anchorOrientation.bottomCenter"	"Bottom Center"	"Original Translation
 zh_CN: 底部居中
-zh_TW: 中下"	""
+zh_TW: 中下"	"下部居中对齐"
 "editor.annotations.variantPane.text.appearance.anchorOrientation.bottomLeft"	"Bottom Left"	"Original Translation
 zh_CN: 左下
-zh_TW: 左下"	""
+zh_TW: 左下"	"下部左对齐"
 "editor.annotations.variantPane.text.appearance.anchorOrientation.bottomRight"	"Bottom Right"	"Original Translation
 zh_CN: 右下
-zh_TW: 右下"	""
+zh_TW: 右下"	"下部右对齐"
 "editor.annotations.variantPane.text.appearance.anchorOrientation.center"	"Center"	"Original Translation
 zh_CN: 居中
-zh_TW: 中心"	""
+zh_TW: 中心"	"居中"
 "editor.annotations.variantPane.text.appearance.anchorOrientation.centerLeft"	"Center Left"	"Original Translation
 zh_CN: 左中
-zh_TW: 左中"	""
+zh_TW: 左中"	"中部左对齐"
 "editor.annotations.variantPane.text.appearance.anchorOrientation.centerRight"	"Center Right"	"Original Translation
 zh_CN: 右中
-zh_TW: 右中"	""
+zh_TW: 右中"	"中部右对齐"
 "editor.annotations.variantPane.text.appearance.anchorOrientation.label"	"Anchor Orientation"	"Original Translation
 zh_CN: 锚点方向
-zh_TW: 錨定定向"	""
+zh_TW: 錨定定向"	"固定方向"
 "editor.annotations.variantPane.text.appearance.anchorOrientation.tooltip.desc"	"The origin point of the annotation. This point will stay fixed as the annotation grows and shrinks."	"Original Translation
 zh_CN: 注释的原点。无论注释扩大或缩小，该点的位置始终保持不变。
-zh_TW: 註記的原點。該點不會移動，不受註記放大、縮小影響。"	""
+zh_TW: 註記的原點。該點不會移動，不受註記放大、縮小影響。"	"注解的原点。当注解扩大或缩小时，该点将保持固定。"
 "editor.annotations.variantPane.text.appearance.anchorOrientation.tooltip.title"	"Anchor Orientation"	"Original Translation
 zh_CN: 锚点方向
-zh_TW: 錨定定向"	""
+zh_TW: 錨定定向"	"固定方向"
 "editor.annotations.variantPane.text.appearance.anchorOrientation.topCenter"	"Top Center"	"Original Translation
 zh_CN: 顶部居中
-zh_TW: 中上"	""
+zh_TW: 中上"	"顶部居中"
 "editor.annotations.variantPane.text.appearance.anchorOrientation.topLeft"	"Top Left"	"Original Translation
 zh_CN: 左上
-zh_TW: 左上"	""
+zh_TW: 左上"	"顶部左对齐"
 "editor.annotations.variantPane.text.appearance.anchorOrientation.topRight"	"Top Right"	"Original Translation
 zh_CN: 右上
-zh_TW: 右上"	""
+zh_TW: 右上"	"顶部右对齐"
 "editor.annotations.variantPane.text.appearance.bodyColor.label"	"Body Text Color"	"Original Translation
 zh_CN: 正文颜色
-zh_TW: 內文顏色"	""
+zh_TW: 內文顏色"	"正文文本颜色"
 "editor.annotations.variantPane.text.appearance.bodyColor.tooltip.desc"	"The color of the annotation text in the world."	"Original Translation
 zh_CN: 世界中注释文本的颜色。
-zh_TW: 世界註記文字的顏色。"	""
+zh_TW: 世界註記文字的顏色。"	"世界中注解文本的颜色。"
 "editor.annotations.variantPane.text.appearance.bodyColor.tooltip.title"	"Body Text Color"	"Original Translation
 zh_CN: 正文颜色
-zh_TW: 內文顏色"	""
+zh_TW: 內文顏色"	"正文文本颜色"
 "editor.annotations.variantPane.text.appearance.bodySize.label"	"Body Text Size"	"Original Translation
 zh_CN: 正文字号
-zh_TW: 內文大小"	""
+zh_TW: 內文大小"	"正文文本大小"
 "editor.annotations.variantPane.text.appearance.bodySize.tooltip.desc"	"Set the size of the body text in the world."	"Original Translation
 zh_CN: 设置世界中正文的字体大小。
-zh_TW: 設定世界內文大小。"	""
+zh_TW: 設定世界內文大小。"	"设置世界中正文文本的大小。"
 "editor.annotations.variantPane.text.appearance.bodySize.tooltip.title"	"Body Text Size"	"Original Translation
 zh_CN: 正文字号
-zh_TW: 內文大小"	""
+zh_TW: 內文大小"	"正文文本大小"
 "editor.annotations.variantPane.text.appearance.facing.camera"	"Camera"	"Original Translation
 zh_CN: 摄像机
-zh_TW: 視角"	""
+zh_TW: 視角"	"相机视角"
 "editor.annotations.variantPane.text.appearance.facing.label"	"Facing"	"Original Translation
 zh_CN: 朝向
-zh_TW: 朝向"	""
+zh_TW: 朝向"	"朝向"
 "editor.annotations.variantPane.text.appearance.facing.manual"	"Manual"	"Original Translation
 zh_CN: 手动
-zh_TW: 手動"	""
+zh_TW: 手動"	"手动"
 "editor.annotations.variantPane.text.appearance.facing.tooltip.desc"	"Whether or not the annotation faces the camera or remains fixed."	"Original Translation
 zh_CN: 注释是始终朝向摄像机，还是保持固定朝向。
-zh_TW: 註記是跟著視角旋轉，還是維持固定方向。"	""
+zh_TW: 註記是跟著視角旋轉，還是維持固定方向。"	"注解是否面对相机或保持固定状态。"
 "editor.annotations.variantPane.text.appearance.facing.tooltip.title"	"Facing"	"Original Translation
 zh_CN: 朝向
-zh_TW: 朝向"	""
+zh_TW: 朝向"	"朝向"
 "editor.annotations.variantPane.text.appearance.showBody.label"	"Show Body Text in World"	"Original Translation
 zh_CN: 在世界中显示正文
-zh_TW: 顯示世界內文"	""
+zh_TW: 顯示世界內文"	"在世界中显示正文文本"
 "editor.annotations.variantPane.text.appearance.showBody.tooltip.desc"	"Show the annotation body text in the world."	"Original Translation
 zh_CN: 在世界中显示注释正文。
-zh_TW: 顯示世界中的註記內文。"	""
+zh_TW: 顯示世界中的註記內文。"	"在世界中显示注解正文文本。"
 "editor.annotations.variantPane.text.appearance.showBody.tooltip.title"	"Show Body Text in World"	"Original Translation
 zh_CN: 在世界中显示正文
-zh_TW: 顯示世界內文"	""
+zh_TW: 顯示世界內文"	"在世界中显示正文文本"
 "editor.annotations.variantPane.text.appearance.showTitle.label"	"Show Title in World"	"Original Translation
 zh_CN: 在世界中显示标题
-zh_TW: 顯示世界標題"	""
+zh_TW: 顯示世界標題"	"在世界中显示标题"
 "editor.annotations.variantPane.text.appearance.showTitle.tooltip.desc"	"Show the annotation title in the world."	"Original Translation
 zh_CN: 在世界中显示注释标题。
-zh_TW: 顯示世界中的註記標題。"	""
+zh_TW: 顯示世界中的註記標題。"	"在世界中显示注解标题。"
 "editor.annotations.variantPane.text.appearance.showTitle.tooltip.title"	"Show Title in World"	"Original Translation
 zh_CN: 在世界中显示标题
-zh_TW: 顯示世界標題"	""
+zh_TW: 顯示世界標題"	"在世界中显示标题"
 "editor.annotations.variantPane.text.appearance.titleColor.label"	"Title Text Color"	"Original Translation
 zh_CN: 标题颜色
-zh_TW: 標題文字顏色"	""
+zh_TW: 標題文字顏色"	"标题文本的颜色"
 "editor.annotations.variantPane.text.appearance.titleColor.tooltip.desc"	"The color of the annotation title in the world."	"Original Translation
 zh_CN: 注释标题在世界中的颜色。
-zh_TW: 世界註記標題的顏色。"	""
+zh_TW: 世界註記標題的顏色。"	"世界中注解标题的颜色。"
 "editor.annotations.variantPane.text.appearance.titleColor.tooltip.title"	"Title Text Color"	"Original Translation
 zh_CN: 标题颜色
-zh_TW: 標題文字顏色"	""
+zh_TW: 標題文字顏色"	"标题文本的颜色"
 "editor.annotations.variantPane.text.appearance.titleSize.label"	"Title Text Size"	"Original Translation
 zh_CN: 标题字号
-zh_TW: 標題文字大小"	""
+zh_TW: 標題文字大小"	"标题文本大小"
 "editor.annotations.variantPane.text.appearance.titleSize.tooltip.desc"	"The font size of the annotation's title."	"Original Translation
 zh_CN: 注释标题的字体大小。
-zh_TW: 註記標題的字型大小。"	""
+zh_TW: 註記標題的字型大小。"	"注解标题的字体大小。"
 "editor.annotations.variantPane.text.appearance.titleSize.tooltip.title"	"Title Text Size"	"Original Translation
 zh_CN: 标题字号
-zh_TW: 標題文字大小"	""
+zh_TW: 標題文字大小"	"标题文本大小"
 "editor.annotations.variantPane.text.appearance.widthLimit.label"	"Width Limit"	"Original Translation
 zh_CN: 宽度限制
-zh_TW: 寬度限制"	""
+zh_TW: 寬度限制"	"宽度限制"
 "editor.annotations.variantPane.text.appearance.widthLimit.tooltip.desc"	"The maximum width of the text annotation, in blocks. After this width limit, text will wrap."	"Original Translation
 zh_CN: 文本注释的最大宽度，以方块为单位。文字超出此宽度后将自动换行。
-zh_TW: 註記文字的寬度上限（以方塊為單位）。超過則自動換行。"	""
+zh_TW: 註記文字的寬度上限（以方塊為單位）。超過則自動換行。"	"文本注解的最大宽度，以方块为单位。超过此宽度后文本将换行。"
 "editor.annotations.variantPane.text.appearance.widthLimit.tooltip.title"	"Width Limit"	"Original Translation
 zh_CN: 宽度限制
-zh_TW: 寬度限制"	""
+zh_TW: 寬度限制"	"宽度限制"
 "editor.annotations.variantPane.text.appearance.world.title"	"Appearance Settings"	"Original Translation
 zh_CN: 外观设置
-zh_TW: 外觀設定"	""
+zh_TW: 外觀設定"	"外观设置"
 "editor.annotations.variantPane.text.body.label"	"Body text"	"Original Translation
 zh_CN: 正文
-zh_TW: 內文"	""
+zh_TW: 內文"	"正文文本"
 "editor.annotations.variantPane.text.body.tooltip.desc"	"The body of the annotation. Maximum 32,500 characters."	"Original Translation
 zh_CN: 注释正文。最多32,500个字符。
-zh_TW: 註記的內文。上限為 32,500 字元。"	""
+zh_TW: 註記的內文。上限為 32,500 字元。"	"注解的正文。最多32500个字符。"
 "editor.annotations.variantPane.text.body.tooltip.title"	"Body Text"	"Original Translation
 zh_CN: 正文
-zh_TW: 內文"	""
+zh_TW: 內文"	"正文文本"
 "editor.annotations.variantPane.text.name.tooltip.desc"	"The title of the visible annotation, and its name in the Management Panel. Maximum 256 characters."	"Original Translation
 zh_CN: 可见注释的标题，也是其管理面板中的名称。最多256个字符。
-zh_TW: 顯示註記的標題，以及管理面板中的名稱。上限為 256 字元。"	""
+zh_TW: 顯示註記的標題，以及管理面板中的名稱。上限為 256 字元。"	"可见注解的标题，以及其在管理面板中的名称。最多256个字符。"
 "editor.annotations.variantPane.text.name.tooltip.title"	"Name / Title"	"Original Translation
 zh_CN: 名称/标题
-zh_TW: 名稱/標題"	""
+zh_TW: 名稱/標題"	"名称/标题"
 "editor.annotations.variantPane.text.nameTitle.label"	"Name / Title"	"Original Translation
 zh_CN: 名称/标题
-zh_TW: 名稱/標題"	""
+zh_TW: 名稱/標題"	"名称/标题"
 "editor.cursorSettings.axisLock.directions.title"	"Axis Lock Directions %s"	"Original Translation
 zh_CN: 轴锁定方向 %s
-zh_TW: 軸向鎖定方向 %s"	""
+zh_TW: 軸向鎖定方向 %s"	"轴向锁定方向 %s"
 "editor.cursorSettings.axisLock.enabled.title"	"Axis Locking"	"Original Translation
 zh_CN: 轴锁定
-zh_TW: 軸向鎖定"	""
+zh_TW: 軸向鎖定"	"轴向锁定"
 "editor.cursorSettings.axisLock.enabled.tooltip"	"Show the axis-lock toggles. Constrain cursor position along the selected axes while held. Hold %s to enable axis lock."	"Original Translation
 zh_CN: 显示轴锁定开关。按住时，将光标位置限制在选定的轴向上。按住 %s 可启用轴锁定。
-zh_TW: 顯示軸向鎖定切換開關。按住時可將游標限制在所選軸向上。按住 %s 啟用軸向鎖定。"	""
+zh_TW: 顯示軸向鎖定切換開關。按住時可將游標限制在所選軸向上。按住 %s 啟用軸向鎖定。"	"显示轴向锁定开关。按住时将光标位置约束在所选轴上。按%s启用轴向锁定。"
 "editor.cursorSettings.axisLock.enabled.tooltip.title"	"Axis Locking"	"Original Translation
 zh_CN: 轴锁定
-zh_TW: 軸向鎖定"	""
+zh_TW: 軸向鎖定"	"轴向锁定"
 "editor.cursorSettings.axisLock.x.title"	"X"	"Original Translation
 zh_CN: X
-zh_TW: X"	""
+zh_TW: X"	"X"
 "editor.cursorSettings.axisLock.x.tooltip"	"Restrict cursor movement along the X axis while axis lock is held."	"Original Translation
 zh_CN: 按住轴锁定时，将光标的移动限制在X轴方向上。
-zh_TW: 啟用軸向鎖定時，限制游標只能在 X 軸上移動。"	""
+zh_TW: 啟用軸向鎖定時，限制游標只能在 X 軸上移動。"	"按住轴向锁定时，将光标移动限制在X轴上。"
 "editor.cursorSettings.axisLock.x.tooltip.title"	"X %s"	"Original Translation
 zh_CN: X %s
-zh_TW: X %s"	""
+zh_TW: X %s"	"X %s"
 "editor.cursorSettings.axisLock.y.title"	"Y"	"Original Translation
 zh_CN: Y
-zh_TW: Y"	""
+zh_TW: Y"	"Y"
 "editor.cursorSettings.axisLock.y.tooltip"	"Restrict cursor movement along the Y axis while axis lock is held."	"Original Translation
 zh_CN: 按住轴锁定时，将光标的移动限制在Y轴方向上。
-zh_TW: 啟用軸向鎖定時，限制游標只能在 Y 軸上移動。"	""
+zh_TW: 啟用軸向鎖定時，限制游標只能在 Y 軸上移動。"	"按住轴向锁定时，将光标移动限制在Y轴上。"
 "editor.cursorSettings.axisLock.y.tooltip.title"	"Y %s"	"Original Translation
 zh_CN: Y %s
-zh_TW: Y %s"	""
+zh_TW: Y %s"	"Y %s"
 "editor.cursorSettings.axisLock.z.title"	"Z"	"Original Translation
 zh_CN: Z
-zh_TW: Z"	""
+zh_TW: Z"	"Z"
 "editor.cursorSettings.axisLock.z.tooltip"	"Restrict cursor movement along the Z axis while axis lock is held."	"Original Translation
 zh_CN: 按住轴锁定时，将光标的移动限制在Z轴方向上。
-zh_TW: 啟用軸向鎖定時，限制游標只能在 Z 軸上移動。"	""
+zh_TW: 啟用軸向鎖定時，限制游標只能在 Z 軸上移動。"	"按住轴向锁定时，将光标移动限制在Z轴上。"
 "editor.cursorSettings.axisLock.z.tooltip.title"	"Z %s"	"Original Translation
 zh_CN: Z %s
-zh_TW: Z %s"	""
+zh_TW: Z %s"	"Z %s"
 "editor.cursorSettings.backFace.title"	"Back Face"	"Original Translation
 zh_CN: 背面
-zh_TW: 背面"	""
+zh_TW: 背面"	"背面"
 "editor.cursorSettings.backFace.tooltip"	"Target the block adjacent to the face under the cursor."	"Original Translation
 zh_CN: 选取与光标所指表面相邻的方块。
-zh_TW: 鎖定游標下方塊面相鄰的方塊。"	""
+zh_TW: 鎖定游標下方塊面相鄰的方塊。"	"瞄准光标所在面相邻的方块。"
 "editor.cursorSettings.backFace.tooltip.title"	"Back Face %s"	"Original Translation
 zh_CN: 背面 %s
-zh_TW: 背面 %s"	""
+zh_TW: 背面 %s"	"背面%s"
 "editor.cursorSettings.cursorOffset.title"	"Cursor Offset"	"Original Translation
 zh_CN: 光标偏移量
-zh_TW: 游標偏移"	""
+zh_TW: 游標偏移"	"光标偏移"
 "editor.cursorSettings.cursorOffset.tooltip"	"Offset the cursor position in world space."	"Original Translation
 zh_CN: 在世界空间中偏移光标位置。
-zh_TW: 偏移世界空間中的游標位置。"	""
+zh_TW: 偏移世界空間中的游標位置。"	"在世界空间中偏移光标位置。"
 "editor.cursorSettings.fixedDistance.title"	"Fixed Distance"	"Original Translation
 zh_CN: 固定距离
-zh_TW: 固定距離"	""
+zh_TW: 固定距離"	"固定距离"
 "editor.cursorSettings.fixedDistance.tooltip"	"Set the cursor distance from the player. Use Shift+mouse wheel to adjust the distance."	"Original Translation
 zh_CN: 设置光标与玩家之间的距离。使用Shift+鼠标滚轮调整距离。
-zh_TW: 設定游標與玩家間的距離。按住 Shift 鍵並滾動滑鼠滾輪即可調整距離。"	""
+zh_TW: 設定游標與玩家間的距離。按住 Shift 鍵並滾動滑鼠滾輪即可調整距離。"	"设置光标与玩家的距离。按Shift+滚动鼠标滚轮调整距离。"
 "editor.cursorSettings.keybinding.axisLock.title"	"Activate Cursor Axis Lock"	"Original Translation
 zh_CN: 激活光标轴锁定
-zh_TW: 啟用游標軸向鎖定"	""
+zh_TW: 啟用游標軸向鎖定"	"启用光标轴向锁定"
 "editor.cursorSettings.keybinding.axisLock.tooltip"	"Temporarily constrain cursor targeting to the selected axes."	"Original Translation
 zh_CN: 暂时将光标选取范围限制在所选轴上。
-zh_TW: 暫時將游標限制在所選軸向上。"	""
+zh_TW: 暫時將游標限制在所選軸向上。"	"临时将光标目标约束在所选轴向上。"
 "editor.cursorSettings.keybinding.clearAxisLock.title"	"Clear Cursor Axis Locks"	"Original Translation
 zh_CN: 清除光标轴锁定
-zh_TW: 清除游標軸向鎖定"	""
+zh_TW: 清除游標軸向鎖定"	"清除光标轴向锁定"
 "editor.cursorSettings.keybinding.clearAxisLock.tooltip"	"Clear the selected axes and disable axis locking."	"Original Translation
 zh_CN: 清除已选中的轴向并关闭轴锁定。
-zh_TW: 清除所選軸向，並停用軸向鎖定。"	""
+zh_TW: 清除所選軸向，並停用軸向鎖定。"	"清除所选轴并禁用轴向锁定。"
 "editor.cursorSettings.keybinding.moveCursorBack.title"	"Move Cursor Back"	"Original Translation
 zh_CN: 向后移动光标
-zh_TW: 向後移動游標"	""
+zh_TW: 向後移動游標"	"后移光标"
 "editor.cursorSettings.keybinding.moveCursorBack.tooltip"	"Moves the cursor backward."	"Original Translation
 zh_CN: 向后移动光标。
-zh_TW: 將游標向後移動。"	""
+zh_TW: 將游標向後移動。"	"向后移动光标。"
 "editor.cursorSettings.keybinding.moveCursorDown.title"	"Move Cursor Down"	"Original Translation
 zh_CN: 向下移动光标
-zh_TW: 向下移動游標"	""
+zh_TW: 向下移動游標"	"下移光标"
 "editor.cursorSettings.keybinding.moveCursorDown.tooltip"	"Moves the cursor down."	"Original Translation
 zh_CN: 向下移动光标。
-zh_TW: 將游標向下移動。"	""
+zh_TW: 將游標向下移動。"	"向下移动光标。"
 "editor.cursorSettings.keybinding.moveCursorForward.title"	"Move Cursor Forward"	"Original Translation
 zh_CN: 向前移动光标
-zh_TW: 向前移動游標"	""
+zh_TW: 向前移動游標"	"前移光标"
 "editor.cursorSettings.keybinding.moveCursorForward.tooltip"	"Moves the cursor forward."	"Original Translation
 zh_CN: 向前移动光标。
-zh_TW: 將游標向前移動。"	""
+zh_TW: 將游標向前移動。"	"向前移动光标。"
 "editor.cursorSettings.keybinding.moveCursorLeft.title"	"Move Cursor Left"	"Original Translation
 zh_CN: 向左移动光标
-zh_TW: 向左移動游標"	""
+zh_TW: 向左移動游標"	"左移光标"
 "editor.cursorSettings.keybinding.moveCursorLeft.tooltip"	"Moves the cursor to the left."	"Original Translation
 zh_CN: 向左移动光标。
-zh_TW: 將游標向左移動。"	""
+zh_TW: 將游標向左移動。"	"向左移动光标。"
 "editor.cursorSettings.keybinding.moveCursorRight.title"	"Move Cursor Right"	"Original Translation
 zh_CN: 向右移动光标
-zh_TW: 向右移動游標"	""
+zh_TW: 向右移動游標"	"右移光标"
 "editor.cursorSettings.keybinding.moveCursorRight.tooltip"	"Moves the cursor to the right."	"Original Translation
 zh_CN: 向右移动光标。
-zh_TW: 將游標向右移動。"	""
+zh_TW: 將游標向右移動。"	"向右移动光标。"
 "editor.cursorSettings.keybinding.moveCursorUp.title"	"Move Cursor Up"	"Original Translation
 zh_CN: 向上移动光标
-zh_TW: 向上移動游標"	""
+zh_TW: 向上移動游標"	"上移光标"
 "editor.cursorSettings.keybinding.moveCursorUp.tooltip"	"Moves the cursor up."	"Original Translation
 zh_CN: 向上移动光标。
-zh_TW: 將游標向上移動。"	""
+zh_TW: 將游標向上移動。"	"向上移动光标。"
 "editor.cursorSettings.keybinding.toggleAxisLockX.title"	"Toggle Cursor X-Axis Lock"	"Original Translation
 zh_CN: 切换光标X轴锁定
-zh_TW: 切換游標 X 軸向鎖定"	""
+zh_TW: 切換游標 X 軸向鎖定"	"切换光标X轴锁定"
 "editor.cursorSettings.keybinding.toggleAxisLockX.tooltip"	"Toggle the X axis selection and enable axis locking."	"Original Translation
 zh_CN: 切换X轴选中状态并启用轴锁定。
-zh_TW: 切換 X 軸的選取狀態，並啟用軸向鎖定。"	""
+zh_TW: 切換 X 軸的選取狀態，並啟用軸向鎖定。"	"切换X轴选择并启用轴向锁定。"
 "editor.cursorSettings.keybinding.toggleAxisLockY.title"	"Toggle Cursor Y-Axis Lock"	"Original Translation
 zh_CN: 切换光标Y轴锁定
-zh_TW: 切換游標 Y 軸向鎖定"	""
+zh_TW: 切換游標 Y 軸向鎖定"	"切换光标Y轴锁定"
 "editor.cursorSettings.keybinding.toggleAxisLockY.tooltip"	"Toggle the Y axis selection and enable axis locking."	"Original Translation
 zh_CN: 切换Y轴选中状态并启用轴锁定。
-zh_TW: 切換 Y 軸的選取狀態，並啟用軸向鎖定。"	""
+zh_TW: 切換 Y 軸的選取狀態，並啟用軸向鎖定。"	"切换Y轴选择并启用轴向锁定。"
 "editor.cursorSettings.keybinding.toggleAxisLockZ.title"	"Toggle Cursor Z-Axis Lock"	"Original Translation
 zh_CN: 切换光标Z轴锁定
-zh_TW: 切換游標 Z 軸向鎖定"	""
+zh_TW: 切換游標 Z 軸向鎖定"	"切换光标Z轴锁定"
 "editor.cursorSettings.keybinding.toggleAxisLockZ.tooltip"	"Toggle the Z axis selection and enable axis locking."	"Original Translation
 zh_CN: 切换Z轴选中状态并启用轴锁定。
-zh_TW: 切換 Z 軸的選取狀態，並啟用軸向鎖定。"	""
+zh_TW: 切換 Z 軸的選取狀態，並啟用軸向鎖定。"	"切换Z轴选择并启用轴向锁定。"
 "editor.cursorSettings.keybinding.toggleBackFace.title"	"Toggle Cursor Back-Face Targeting"	"Original Translation
 zh_CN: 切换光标背面选取功能
-zh_TW: 切換游標背面目標"	""
+zh_TW: 切換游標背面目標"	"切换光标背面目标"
 "editor.cursorSettings.keybinding.toggleBackFace.tooltip"	"Toggle back-face targeting in block precision mode."	"Original Translation
 zh_CN: 在方块精确模式下切换背面选取功能。
-zh_TW: 在方塊精準模式下，切換背面目標。"	""
+zh_TW: 在方塊精準模式下，切換背面目標。"	"在方块精确模式下切换背面目标。"
 "editor.cursorSettings.keybinding.toggleControlMode.title"	"Toggle Cursor Mode"	"Original Translation
 zh_CN: 切换光标模式
-zh_TW: 切換游標模式"	""
+zh_TW: 切換游標模式"	"切换光标模式"
 "editor.cursorSettings.keybinding.toggleControlMode.tooltip"	"Switch between Fixed and Collision Point cursor modes."	"Original Translation
 zh_CN: 在“固定”和“碰撞点”两种光标模式之间进行切换。
-zh_TW: 在固定與碰撞點游標模式間切換。"	""
+zh_TW: 在固定與碰撞點游標模式間切換。"	"切换固定/碰撞点光标模式。"
 "editor.cursorSettings.keybinding.toggleProjectThroughLiquid.title"	"Toggle Cursor Projection Through Liquids"	"Original Translation
 zh_CN: 切换光标穿透液体
-zh_TW: 切換游標穿透液體投射"	""
+zh_TW: 切換游標穿透液體投射"	"切换指针光标穿透液体"
 "editor.cursorSettings.keybinding.toggleProjectThroughLiquid.tooltip"	"Toggle whether the cursor projects through liquid blocks."	"Original Translation
 zh_CN: 切换光标是否可以穿透液体方块。
-zh_TW: 切換游標是否能穿透液體方塊。"	""
+zh_TW: 切換游標是否能穿透液體方塊。"	"切换指针光标是否穿透液体方块。"
 "editor.cursorSettings.mode.collisionPoint"	"Collision Point"	"Original Translation
 zh_CN: 碰撞点
-zh_TW: 碰撞點"	""
+zh_TW: 碰撞點"	"碰撞点"
 "editor.cursorSettings.mode.fixed"	"Fixed"	"Original Translation
 zh_CN: 固定
-zh_TW: 固定"	""
+zh_TW: 固定"	"固定"
 "editor.cursorSettings.mode.title"	"Cursor Mode"	"Original Translation
 zh_CN: 光标模式
-zh_TW: 游標模式"	""
+zh_TW: 游標模式"	"光标模式"
 "editor.cursorSettings.mode.tooltip"	"Choose between a collision point and a fixed cursor position. Use %s to toggle cursor mode."	"Original Translation
 zh_CN: 在“碰撞点”和“固定”两种光标模式之间选择。使用%s切换光标模式。
-zh_TW: 在碰撞點與固定游標位置間進行選擇。使用 %s 切換游標模式。"	""
+zh_TW: 在碰撞點與固定游標位置間進行選擇。使用 %s 切換游標模式。"	"在碰撞点和固定光标位置之间选择。按%s切换光标模式。"
 "editor.cursorSettings.projectThroughLiquid.title"	"Project Through Liquids"	"Original Translation
 zh_CN: 穿透液体投射
-zh_TW: 穿透液體投射"	""
+zh_TW: 穿透液體投射"	"指针穿透液体"
 "editor.cursorSettings.projectThroughLiquid.tooltip"	"Ignore liquid blocks so the cursor can reach blocks behind them."	"Original Translation
 zh_CN: 忽略液体方块，使光标能够到达其后面的方块。
-zh_TW: 忽略液體方塊，將游標對準後方的方塊。"	""
+zh_TW: 忽略液體方塊，將游標對準後方的方塊。"	"忽略液体方块，使光标能够到达液体后方的方块。"
 "editor.cursorSettings.projectThroughLiquid.tooltip.title"	"Project Through Liquids %s"	"Original Translation
 zh_CN: 穿透液体投射 %s
-zh_TW: 穿透液體投射 %s"	""
+zh_TW: 穿透液體投射 %s"	"指针穿透液体 %s"
 "editor.cursorSettings.rootPane.title"	"Cursor Settings"	"Original Translation
 zh_CN: 光标设置
-zh_TW: 游標設定"	""
+zh_TW: 游標設定"	"光标设置"
 "editor.cursorSettings.rootPane.tooltip"	"Choose how the cursor targets and moves."	"Original Translation
 zh_CN: 选择光标的目标选取和移动方式。
-zh_TW: 選擇游標目標與移動模式。"	""
+zh_TW: 選擇游標目標與移動模式。"	"选择光标的目标和移动方式。"
 "editor.fillBiomes.actionBar.label"	"Biome Data Assignment"	"Original Translation
 zh_CN: 生物群系数据分配
 zh_TW: 生態域資料指派"	"生物群系数据分配"
@@ -11106,19 +11106,19 @@ zh_CN: 自定义网格工具
 zh_TW: 自訂網格工具"	"自定义网格工具"
 "editor.introduction.guidePlanes.tab1.content"	"Guide planes create a temporary surface that other tools can use for drawing and placement.%sThis makes it easier to place blocks in mid-air, especially in void dimensions."	"Original Translation
 zh_CN: 引导平面会创建一个临时表面，供其他工具绘图和放置物体。%s这样就能更轻松地在空中放置方块，特别是在虚空维度中。
-zh_TW: 你可以利用參考平面建立一個供其他工具繪製和放置物品的臨時表面。%s有了它，在空中放置方塊就方便多了，尤其是在虛空維度中更為實用。"	""
+zh_TW: 你可以利用參考平面建立一個供其他工具繪製和放置物品的臨時表面。%s有了它，在空中放置方塊就方便多了，尤其是在虛空維度中更為實用。"	"参考平面会创建临时表面，供其他工具用于绘制和放置。%s这样在空中放置方块就更加容易，尤其是在虚空维度中。"
 "editor.introduction.guidePlanes.tab1.title"	"Guide Planes"	"Original Translation
 zh_CN: 引导平面
-zh_TW: 參考平面"	""
+zh_TW: 參考平面"	"引导平面"
 "editor.introduction.guidePlanes.tab2.content"	"Use the Guide Planes panel to create and manage existing guide planes.%sCustomize their name and color, adjust the grid density, and show/hide guide planes to manage clutter. Hidden guide planes will not affect other tools."	"Original Translation
 zh_CN: 使用引导平面面板来创建和管理已有的引导平面。%s你可以自定义名称和颜色，调整网格密度，显示或隐藏引导平面，让工作界面更加整洁。隐藏的引导平面不会影响其他工具。
-zh_TW: 使用參考平面面板輕鬆建立、管理現有參考平面。%s在這裡，您可以自訂平面的名稱和顏色、調整網絡密度，還能隨時顯示或隱藏參考平面，讓畫面井然有序。就算隱藏起來，也不會影響其他工具的功能。"	""
+zh_TW: 使用參考平面面板輕鬆建立、管理現有參考平面。%s在這裡，您可以自訂平面的名稱和顏色、調整網絡密度，還能隨時顯示或隱藏參考平面，讓畫面井然有序。就算隱藏起來，也不會影響其他工具的功能。"	"使用参考平面面板可以创建与管理现有的参考平面。%s自定义参考平面的名称和颜色、调整网格密度，以及显示/隐藏参考平面以管理杂乱内容。隐藏的参考平面不会影响其他工具。"
 "editor.introduction.guidePlanes.tab2.title"	"Create and Manage"	"Original Translation
 zh_CN: 创建与管理
-zh_TW: 建立與管理"	""
+zh_TW: 建立與管理"	"创建与管理"
 "editor.introduction.guidePlanes.title"	"Guide Planes"	"Original Translation
 zh_CN: 引导平面
-zh_TW: 參考平面"	""
+zh_TW: 參考平面"	"引导平面"
 "editor.introduction.layouts.tab1.content"	"%s A Layout is a re-usable arrangement of Structures that can be repeated all over your world.%s Layouts exist only in the Editor until you bake them into the world.%s You can edit a Layout and every unbaked instance will receive those edits."	"Original Translation
 zh_CN: %s 布局是一种可重复使用的结构排列，可以在你的世界中多次放置。%s 布局仅存在于编辑器中，直到你将其烘焙到世界中。%s 你可以编辑布局，所有未烘焙的实例都会收到这些编辑。
 zh_TW: %s佈局是可重複使用的結構排列，可在世界各處重複放置。%s佈局只存在於編輯器中，直到你將其套用到世界中。%s你可以編輯佈局，所有尚未套用的執行個體都會套用這些變更。"	"%s布局是可重复使用的结构排列，可以在你的世界中到处重复。%s布局只存在于编辑器中，直到你将它们烘焙到世界中。%s你可以编辑布局，每个未烘焙的实例都会收到这些编辑。"
@@ -11145,7 +11145,7 @@ zh_CN: 简介
 zh_TW: 簡介"	"介绍"
 "editor.logging.worldDownloadImportedMessage"	"Download from Realms was successful. The world has been imported."	"Original Translation
 zh_CN: 从 Realms 下载世界成功。该世界已导入完毕。
-zh_TW: 已成功從 Realms 下載世界。世界已匯入。"	""
+zh_TW: 已成功從 Realms 下載世界。世界已匯入。"	"从Realm下载成功。已导入世界。"
 "editor.logging.worldExportMessage"	"Exporting world was Successful. World Location: %s"	"Original Translation
 zh_CN: 成功导出世界。世界位置：%s
 zh_TW: 匯出世界成功。世界位置：%s"	"世界导出成功。世界位置：%s"
@@ -11202,13 +11202,13 @@ zh_CN: 选择和修改现有布局实例的属性，或者在世界中放置新�
 zh_TW: 選取並修改現有佈局執行個體的屬性，或是在世界中放置新的執行個體"	"选择并修改现有布局实例的属性，或在世界中放置新的实例"
 "editor.prefabInstanceEditor.rotation.180"	"180°"	"Original Translation
 zh_CN: 180°
-zh_TW: 180°"	""
+zh_TW: 180°"	"180°"
 "editor.prefabInstanceEditor.rotation.270"	"270°"	"Original Translation
 zh_CN: 270°
-zh_TW: 270°"	""
+zh_TW: 270°"	"270°"
 "editor.prefabInstanceEditor.rotation.90"	"90°"	"Original Translation
 zh_CN: 90°
-zh_TW: 90°"	""
+zh_TW: 90°"	"90°"
 "editor.prefabInstanceEditor.rotation.none"	"None"	"Original Translation
 zh_CN: 无
 zh_TW: 無"	"无"
@@ -11598,7 +11598,7 @@ zh_CN: 布局编辑器工具
 zh_TW: 佈局編輯器工具"	"布局编辑器工具"
 "editor.prefabLayoutInstanceEditor.instanceSubPane.title"	"%s"	"Original Translation
 zh_CN: %s
-zh_TW: %s"	""
+zh_TW: %s"	"%s"
 "editor.prefabLayoutInstanceEditor.label.noLayouts"	"The Layouts tool requires that you have one or more Layouts defined for use. Create Layouts in the Layouts Management panel."	"Original Translation
 zh_CN: 布局工具需先定义一个或多个布局。请在布局管理面板中创建布局。
 zh_TW: 佈局工具需要先定義至少一個佈局。請在「佈局管理」面板中建立佈局。"	"布局工具要求你已定义一个或多个布局以供使用。请在“布局管理”面板中创建布局。"
@@ -11976,16 +11976,16 @@ zh_CN: 在布局工具的“放置”和“编辑”模式之间切换。
 zh_TW: 在「放置」和「編輯」之間切換佈局工具的模式。"	"在放置和编辑之间切换布局工具的模式。"
 "editor.updateInfo.26u6.layouts"	"Improvements have been made to the Layouts tool and the Layout Instance tool. Adding, selecting, and manipulating structures within a layout should be easier."	"Original Translation
 zh_CN: 布局工具和布局实例工具已改进。现在在布局中添加、选择和操作结构更加简单。
-zh_TW: 已改良配置工具及配置執行個體工具。現在新增、選取和操作配置內的結構變得更方便了。"	""
+zh_TW: 已改良配置工具及配置執行個體工具。現在新增、選取和操作配置內的結構變得更方便了。"	"布局工具和布局实例工具现已得到改进。在布局中添加、选择和操作结构将更加简单。"
 "editor.updateInfo.26u7.annotations"	"Mark up your world with notes for later using the Annotation tool. Add text or freehand lines from Editor."	"Original Translation
 zh_CN: 使用注释工具为你的世界添加备注，方便日后查看。你可以在编辑器中添加文本或手绘线条。
-zh_TW: 利用註記工具在世界裡隨手標記，方便日後查看。從編輯器就能直接新增文字或繪製線條。"	""
+zh_TW: 利用註記工具在世界裡隨手標記，方便日後查看。從編輯器就能直接新增文字或繪製線條。"	"使用注解工具在世界中标记说明，供后续参考。从编辑器添加文本或手绘直线。"
 "editor.updateInfo.26u7.annotationsWithComment"	"Mark up your world with notes for later using the Annotation tool. Add text or freehand lines from Editor, or place a Comment while you're playtesting."	"Original Translation
 zh_CN: 使用注释工具为你的世界添加备注，方便日后查看。你可以在编辑器中添加文本或手绘线条，或者在试玩时放置评论。
-zh_TW: 利用註記工具在世界裡隨手標記，方便日後查看。從編輯器就能直接新增文字、繪製線條，還可以一邊試玩、一邊留言。"	""
+zh_TW: 利用註記工具在世界裡隨手標記，方便日後查看。從編輯器就能直接新增文字、繪製線條，還可以一邊試玩、一邊留言。"	"使用注解工具在世界中标记说明，供后续参考。从编辑器中添加文本或手绘直线，或在游戏测试时放置注释。"
 "editor.updateInfo.26u7.guidePlanes"	"Add Guide Planes for precise raycasting, especially in the sky or in a void. Find the Guide Planes panel on your action bar."	"Original Translation
 zh_CN: 新增引导平面，便于精确射线投射，尤其适用于天空或虚空中。在操作栏找到引导平面面板。
-zh_TW: 新增參考平面，提升光線投射的精準度，在天空或虛空中特別好用。按一下動作列就能找到參考平面面板。"	""
+zh_TW: 新增參考平面，提升光線投射的精準度，在天空或虛空中特別好用。按一下動作列就能找到參考平面面板。"	"添加引导平面以实现精确的射线投射，尤其是在天空或虚空环境中。在操作栏中找到引导平面面板。"
 "editor.vibrantVisuals.chunkManagement.keyBinding.label"	"Vibrant Visuals"	"Original Translation
 zh_CN: 灵动视效
 zh_TW: 絢麗視覺"	"灵动视效"
@@ -15192,7 +15192,7 @@ zh_CN: 按钮
 zh_TW: 按鈕"	"按钮"
 "hbui.ChatMessage.narration.unavailable"	"Selection unavailable"	"Original Translation
 zh_CN: 无法选择
-zh_TW: 無法選取"	""
+zh_TW: 無法選取"	"选择不可用"
 "hbui.ChatOptionsRoute.copyOrReportMessages"	"Copy or Report Messages"	"Original Translation
 zh_CN: 复制或举报消息
 zh_TW: 複製或檢舉訊息"	"复制或举报消息"
@@ -15201,7 +15201,7 @@ zh_CN: 屏蔽或举报玩家
 zh_TW: 靜音或檢舉玩家"	"禁言或举报玩家"
 "hbui.ChatOptionsRoute.reportMessages"	"Report Messages"	"Original Translation
 zh_CN: 举报消息
-zh_TW: 檢舉訊息"	""
+zh_TW: 檢舉訊息"	"举报消息"
 "hbui.ChatOptionsRoute.title"	"Options for chat"	"Original Translation
 zh_CN: 聊天选项
 zh_TW: 聊天選項"	"聊天选项"
@@ -16533,10 +16533,10 @@ zh_CN: 立即重生
 zh_TW: 立即重生"	"立即重生"
 "hbui.CreateNewWorld.advanced.invisibleArmorDescription"	"Let players hide their equipped armor from the inventory screen"	"Original Translation
 zh_CN: 允许玩家在物品栏界面中隐藏已装备的盔甲
-zh_TW: 允許玩家在物品欄畫面隱藏已裝備的護甲"	""
+zh_TW: 允許玩家在物品欄畫面隱藏已裝備的護甲"	"玩家可以在物品栏屏幕中隐藏已装备盔甲"
 "hbui.CreateNewWorld.advanced.invisibleArmorTitle"	"Invisible armor"	"Original Translation
 zh_CN: 隐形盔甲
-zh_TW: 隱形護甲"	""
+zh_TW: 隱形護甲"	"隐形盔甲"
 "hbui.CreateNewWorld.advanced.mobLootDescription"	"Mobs drop items when killed"	"Original Translation
 zh_CN: 生物在被杀时会掉落物品
 zh_TW: 生物遭到擊殺時會掉落物品"	"生物被杀死时掉落物品"
@@ -19635,7 +19635,7 @@ zh_CN: 按 %1$s 打开账户抽屉
 zh_TW: 按下 %1$s 以開啟帳戶欄"	"按下%1$s打开账户列表"
 "hbui.EditorPlayScreen.editorProjects.copyrightLogo"	"©Mojang AB"	"Original Translation
 zh_CN: ©Mojang AB
-zh_TW: ©Mojang AB"	""
+zh_TW: ©Mojang AB"	"©Mojang AB"
 "hbui.EditorPlayScreen.editorProjects.createNewProject"	"Create new project"	"Original Translation
 zh_CN: 创建新项目
 zh_TW: 建立新專案"	"创建新的项目"
@@ -19731,7 +19731,7 @@ zh_CN: 按标签
 zh_TW: 依標籤"	"按标签"
 "hbui.EditorRemotePane.listPane.sortType.ztoa"	"z-A, 9-0"	"Original Translation
 zh_CN: z-A，9-0
-zh_TW: z-A，9-0"	""
+zh_TW: z-A，9-0"	"z-A，9-0"
 "hbui.EditorRemotePane.listPane.untagged"	"Untagged"	"Original Translation
 zh_CN: 无标签
 zh_TW: 無標籤"	"未标记"
@@ -20832,7 +20832,7 @@ zh_CN: 我同意上述赠礼条款。
 zh_TW: 我同意上述贈禮條款。"	"我同意上述赠送条款。"
 "hbui.GiftingPurchaseConfirmScreen.eula"	"EULA"	"Original Translation
 zh_CN: 最终用户许可协议
-zh_TW: 使用者授權合約"	""
+zh_TW: 使用者授權合約"	"最终用户许可协议"
 "hbui.GiftingPurchaseConfirmScreen.giftTerms1"	"By sending this gift, you agree to the Minecraft EULA and the Microsoft Services Agreement, and you acknowledge the Microsoft Privacy Statement."	"Original Translation
 zh_CN: 发送此礼物即表示您同意 Minecraft 最终用户许可协议和微软服务协议，并认可微软隐私声明。
 zh_TW: 贈送此禮物即代表你同意 Minecraft 使用者授權合約及 Microsoft 服務協議，且已了解 Microsoft 隱私權政策。"	"赠送此礼物即代表你同意Minecraft最终用户许可协议和Microsoft服务协议，并确认已知悉Microsoft隐私声明。"
@@ -20961,7 +20961,7 @@ zh_CN: 拒绝
 zh_TW: 拒絕"	"拒绝"
 "hbui.InboxGiftDetails.declined"	"Declined"	"Original Translation
 zh_CN: 已拒绝
-zh_TW: 已拒絕"	""
+zh_TW: 已拒絕"	"已拒绝"
 "hbui.InboxGiftDetails.error.acceptMessage"	"Accept failed, please try again later."	"Original Translation
 zh_CN: 接受失败，请稍后再试。
 zh_TW: 無法接受，請稍後再試。"	"接受失败，请稍后重试。"
@@ -21264,10 +21264,10 @@ zh_CN: 收件箱
 zh_TW: 收件匣"	"收件箱"
 "hbui.InboxRoute.inboxUnavailable"	"Inbox Unavailable"	"Original Translation
 zh_CN: 收件箱不可用
-zh_TW: 收件匣無法使用"	""
+zh_TW: 收件匣無法使用"	"收件箱不可用"
 "hbui.InboxRoute.inboxUnavailableBody"	"Please sign in to view your inbox."	"Original Translation
 zh_CN: 请登录以查看你的收件箱。
-zh_TW: 請登入並查看收件匣。"	""
+zh_TW: 請登入並查看收件匣。"	"请登录以查看你的收件箱。"
 "hbui.InboxRoute.invites"	"Invites"	"Original Translation
 zh_CN: 邀请
 zh_TW: 邀請"	"邀请"
@@ -21744,49 +21744,49 @@ zh_CN: 这里还没有世界……
 zh_TW: 這裡還沒有世界"	"这里还没有世界……"
 "hbui.MainMenu.ClientDrivenRecentlyPlayedFab.realmWorld"	"Realm"	"Original Translation
 zh_CN: Realm
-zh_TW: Realm"	""
+zh_TW: Realm"	"Realm"
 "hbui.MainMenu.Discovery.Marketplace.price.free"	"Free"	"Original Translation
 zh_CN: 免费
-zh_TW: 免費"	""
+zh_TW: 免費"	"免费"
 "hbui.MainMenu.Discovery.Marketplace.price.narration"	"Price: %1$s Minecoins"	"Original Translation
 zh_CN: 价格：%1$s Minecoins
-zh_TW: 價格：%1$s Minecoin"	""
+zh_TW: 價格：%1$s Minecoin"	"价格：%2$s枚Minecoin"
 "hbui.MainMenu.Discovery.Marketplace.price.narrationStrikeThrough"	"Price: %1$s Minecoins . Free with your Marketplace Pass"	"Original Translation
 zh_CN: 价格：%1$s Minecoins。拥有 Marketplace Pass 可免费获取
-zh_TW: 價格：%1$s Minecoin。擁有 Marketplace Pass 即可免費獲得"	""
+zh_TW: 價格：%1$s Minecoin。擁有 Marketplace Pass 即可免費獲得"	"价格：%1$s枚Minecoin。使用Marketplace Pass可免费获取"
 "hbui.MainMenu.Discovery.error.message"	"Couldn't load content"	"Original Translation
 zh_CN: 内容加载失败
-zh_TW: 無法載入內容"	""
+zh_TW: 無法載入內容"	"无法加载内容"
 "hbui.MainMenu.Discovery.error.tryAgain"	"Try again"	"Original Translation
 zh_CN: 重试
-zh_TW: 再試一次"	""
+zh_TW: 再試一次"	"重试"
 "hbui.MainMenu.Discovery.inputLegend.action"	"View"	"Original Translation
 zh_CN: 查看
 zh_TW: 檢視"	"查看"
 "hbui.MainMenu.Discovery.narration.discoverMore"	"Discover more"	"Original Translation
 zh_CN: 发现更多
-zh_TW: 探索更多"	""
+zh_TW: 探索更多"	"了解更多"
 "hbui.MainMenu.Discovery.narration.otherOptionsHint"	"Other options are still available"	"Original Translation
 zh_CN: 其他选项仍可用
-zh_TW: 仍可使用其他選項"	""
+zh_TW: 仍可使用其他選項"	"其他选项仍然可用"
 "hbui.MainMenu.Discovery.narration.realmsBanner"	"Realms"	"Original Translation
 zh_CN: Realms
-zh_TW: Realms"	""
+zh_TW: Realms"	"Realms"
 "hbui.MainMenu.Discovery.narration.screenName"	"Discovery screen"	"Original Translation
 zh_CN: 发现界面
-zh_TW: 探索畫面"	""
+zh_TW: 探索畫面"	"探索屏幕"
 "hbui.MainMenu.Discovery.platformSignIn.button.nsa"	"Sign in"	"Original Translation
 zh_CN: 登录
-zh_TW: 登入"	""
+zh_TW: 登入"	"登录"
 "hbui.MainMenu.Discovery.platformSignIn.button.psn"	"Log in to PlayStation™Network"	"Original Translation
 zh_CN: 登录 PlayStation™Network
-zh_TW: 登入 PlayStation™Network"	""
+zh_TW: 登入 PlayStation™Network"	"登录到PlayStation™Network"
 "hbui.MainMenu.Discovery.platformSignIn.message.nsa"	"Sign in to a Nintendo Account to see what’s here."	"Original Translation
 zh_CN: 登录至 Nintendo 账号查看此处的内容。
-zh_TW: 登入 Nintendo帳號，即可查看此處內容。"	""
+zh_TW: 登入 Nintendo帳號，即可查看此處內容。"	"登录到Nintendo账户以查看此处的内容。"
 "hbui.MainMenu.Discovery.platformSignIn.message.psn"	"Log in to PlayStation™Network to see what’s here."	"Original Translation
 zh_CN: 登录 PlayStation™Network 以查看内容。
-zh_TW: 登入 PlayStation™Network 即可查看此處內容。"	""
+zh_TW: 登入 PlayStation™Network 即可查看此處內容。"	"登录到PlayStation™Network以查看此处的内容。"
 "hbui.MainMenu.DiscoverySection.narration.role"	"Section"	"Original Translation
 zh_CN: 分区
 zh_TW: 區段"	"选区"
@@ -21840,10 +21840,10 @@ zh_CN: 开始游戏
 zh_TW: 進行遊戲"	"开始游戏"
 "hbui.MainMenu.RealmsButton.inputLegend"	"Realms"	"Original Translation
 zh_CN: Realms
-zh_TW: Realms"	""
+zh_TW: Realms"	"Realms"
 "hbui.MainMenu.RealmsButton.label"	"Realms"	"Original Translation
 zh_CN: Realms
-zh_TW: Realms"	""
+zh_TW: Realms"	"Realms"
 "hbui.MainMenu.SettingsButton.inputLegend"	"Settings"	"Original Translation
 zh_CN: 设置
 zh_TW: 設定"	"设置"
@@ -21903,7 +21903,7 @@ zh_CN: 垂直菜单
 zh_TW: 垂直選單"	"垂直菜单"
 "hbui.MainMenu.signingIn"	"Signing in"	"Original Translation
 zh_CN: 正在登录
-zh_TW: 登入中"	""
+zh_TW: 登入中"	"正在登录"
 "hbui.ManageShowcaseErrorModal.close"	"Close"	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"	"关闭"
@@ -22002,7 +22002,7 @@ zh_CN: 前往
 zh_TW: 前往"	"前往"
 "hbui.Marketplace.ContentCard.installed"	"Installed"	"Original Translation
 zh_CN: 已安装
-zh_TW: 已安裝"	""
+zh_TW: 已安裝"	"已安装"
 "hbui.Marketplace.ContentCard.narration"	"%1$s by %2$s. Rating: %3$s. Price: %4$s Minecoins"	"Original Translation
 zh_CN: %1$s，作者：%2$s。评级：%3$s。价格：%4$s Minecoins
 zh_TW: %1$s，作者：%2$s。評分：%3$s。價格：%4$s Minecoins"	"%1$s，作者：%2$s。评分：%3$s。价格：%4$s枚Minecoin"
@@ -22017,16 +22017,16 @@ zh_CN: #1
 zh_TW: #1"	"No.1"
 "hbui.Marketplace.ContentCard.pass"	"Pass"	"Original Translation
 zh_CN: 使用券
-zh_TW: 通行證"	""
+zh_TW: 通行證"	"Pass"
 "hbui.Marketplace.ContentCard.sale"	"Sale"	"Original Translation
 zh_CN: 特惠
 zh_TW: 特價"	"特惠"
 "hbui.Marketplace.ContentCard.saleEndsInDays"	"Ends in %1$sd"	"Original Translation
 zh_CN: 距结束还有 %1$sd
-zh_TW: %1$s 天後結束"	""
+zh_TW: %1$s 天後結束"	"将在%1$s天后结束"
 "hbui.Marketplace.ContentCard.saleEndsInHoursMinutes"	"%1$sh %2$sm"	"Original Translation
 zh_CN: %1$s小时 %2$s分钟
-zh_TW: %1$s 小時 %2$s 分鐘"	""
+zh_TW: %1$s 小時 %2$s 分鐘"	"将在%1$s小时%2$s分钟后结束"
 "hbui.Marketplace.ContentCard.tryFree"	"Try free"	"Original Translation
 zh_CN: 免费试用
 zh_TW: 免費試玩"	"免费尝试"
@@ -22119,10 +22119,10 @@ zh_CN: 价格：%1$s Minecoins
 zh_TW: 價格：%1$s Minecoin"	"价格：%2$s枚Minecoin"
 "hbui.Marketplace.Price.narrationSaleMinecoins"	"Original price: %1$s Minecoins. Sale price: %2$s Minecoins"	"Original Translation
 zh_CN: 原价：%1$s Minecoins。现价：%2$s Minecoins
-zh_TW: 原價：%1$s Minecoin。特價：%2$s Minecoin"	""
+zh_TW: 原價：%1$s Minecoin。特價：%2$s Minecoin"	"原价：%1$s枚Minecoin。特惠价：%2$s枚Minecoin"
 "hbui.Marketplace.Price.narrationSaleTokens"	"Original price: %1$s Tokens. Sale price: %2$s Tokens"	"Original Translation
 zh_CN: 原价：%1$s 令牌。现价：%2$s 令牌
-zh_TW: 原價：%1$s 代幣。特價：%2$s 代幣"	""
+zh_TW: 原價：%1$s 代幣。特價：%2$s 代幣"	"原价：%2$s枚Token。特惠价：%2$s枚Token"
 "hbui.Marketplace.Price.narrationTokens"	"Price: %1$s Tokens"	"Original Translation
 zh_CN: 价格：%1$s 令牌
 zh_TW: 價格：%1$s 代幣"	"价格：%2$s枚代币"
@@ -22131,7 +22131,7 @@ zh_CN: 已拥有
 zh_TW: 已擁有"	"已拥有"
 "hbui.Marketplace.Redeem.Error.defaultErrorMessage"	"Sorry, an unexpected error has occurred. The error has been recorded and we will investigate. Please try to redeem your code later."	"Original Translation
 zh_CN: 很抱歉，发生了意外错误。错误已被记录，我们会进行调查。请稍后再次尝试兑换代码。
-zh_TW: 抱歉，發生意外錯誤。系統已記錄錯誤，我們會調查原因。請稍後再兌換代碼。"	""
+zh_TW: 抱歉，發生意外錯誤。系統已記錄錯誤，我們會調查原因。請稍後再兌換代碼。"	"抱歉，发生了意外错误。该错误已被记录，我们将进行调查。请稍后再尝试兑换你的代码。"
 "hbui.Marketplace.Redeem.Error.notEligibleForRedemption"	"This code cannot be redeemed in Minecraft on this device."	"Original Translation
 zh_CN: 此代码无法在本设备上的 Minecraft 中兑换。
 zh_TW: 此代碼無法在這部裝置的 Minecraft 中兌換。"	"无法在此设备上的Minecraft中兑换此代码。"
@@ -22143,10 +22143,10 @@ zh_CN: 此代码无法兑换。请检查代码并重试。
 zh_TW: 無法兌換此代碼。請檢查代碼後再試一次。"	"无法兑换此代码。请检查代码后重试。"
 "hbui.Marketplace.Redeem.Error.tokenAlreadyRedeemed"	"This code has already been redeemed."	"Original Translation
 zh_CN: 此兑换码已被使用。
-zh_TW: 已兌換過此代碼。"	""
+zh_TW: 已兌換過此代碼。"	"此代码已被兑换。"
 "hbui.Marketplace.Redeem.Error.userAlreadyOwnsContent"	"You already own this content."	"Original Translation
 zh_CN: 你已经拥有此内容。
-zh_TW: 你擁有這個內容了。"	""
+zh_TW: 你擁有這個內容了。"	"你已拥有此内容。"
 "hbui.Marketplace.RedeemRoute.loadingContent"	"Loading content..."	"Original Translation
 zh_CN: 正在加载内容...
 zh_TW: 正在載入內容……"	"正在加载内容…"
@@ -22176,43 +22176,43 @@ zh_CN: 查看
 zh_TW: 檢視"	"查看"
 "hbui.MarketplaceCalloutBannerFab.defaultButtonText"	"Clear"	"Original Translation
 zh_CN: 清除
-zh_TW: 清除"	""
+zh_TW: 清除"	"清除"
 "hbui.MarketplaceCalloutBannerFab.defaultDisplayText"	"Result for search"	"Original Translation
 zh_CN: 搜索结果
-zh_TW: 搜尋結果"	""
+zh_TW: 搜尋結果"	"搜索结果"
 "hbui.MarketplaceFilterModal.apply"	"Apply"	"Original Translation
 zh_CN: 应用
-zh_TW: 套用"	""
+zh_TW: 套用"	"应用"
 "hbui.MarketplaceFilterModal.clear"	"Clear"	"Original Translation
 zh_CN: 清除
-zh_TW: 清除"	""
+zh_TW: 清除"	"清除"
 "hbui.MarketplaceFilterModal.header"	"Filter"	"Original Translation
 zh_CN: 筛选
-zh_TW: 篩選"	""
+zh_TW: 篩選"	"筛选器"
 "hbui.MarketplaceFilterModal.narration.accordionExpandedHint"	"Navigate down to choose filters"	"Original Translation
 zh_CN: 向下导航选择筛选条件
-zh_TW: 向下導覽，選擇篩選條件"	""
+zh_TW: 向下導覽，選擇篩選條件"	"向下浏览以选择筛选条件"
 "hbui.MarketplaceFilterModal.narration.accordionHint"	"Expand to see filter options"	"Original Translation
 zh_CN: 展开以查看筛选选项
-zh_TW: 展開，查看篩選選項"	""
+zh_TW: 展開，查看篩選選項"	"展开以查看筛选选项"
 "hbui.MarketplaceFilterModal.narration.closeButtonHint"	"Button"	"Original Translation
 zh_CN: 按钮
-zh_TW: 按鈕"	""
+zh_TW: 按鈕"	"按钮"
 "hbui.MarketplaceFilterModal.narration.enumeration"	"%1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
-zh_TW: %1$s/%2$s"	""
+zh_TW: %1$s/%2$s"	"第%1$s个，共%2$s个"
 "hbui.MarketplaceFilterModal.narration.selectOneHint"	"Only one option can be selected"	"Original Translation
 zh_CN: 只能选择一个选项
-zh_TW: 只能選取一個選項"	""
+zh_TW: 只能選取一個選項"	"只能选择一个选项"
 "hbui.MarketplacePackDownloadStates.checkingStorage.title"	"Checking available space"	"Original Translation
 zh_CN: 正在检查可用空间
 zh_TW: 正在檢查可用空間"	"正在检查可用空间"
 "hbui.MarketplacePassBanner.ABBannerNarration"	"Marketplace Pass"	"Original Translation
 zh_CN: Marketplace Pass
-zh_TW: Marketplace Pass"	""
+zh_TW: Marketplace Pass"	"Marketplace Pass"
 "hbui.MarketplacePassBanner.ABBannerText"	"Customize your adventures with worlds, add-ons, cosmetics, and more"	"Original Translation
 zh_CN: 用世界、追加内容、装饰品等内容，自定义你的冒险
-zh_TW: 使用世界、附加內容、外觀等內容，量身打造專屬冒險"	""
+zh_TW: 使用世界、附加內容、外觀等內容，量身打造專屬冒險"	"使用世界、附加包、外观等内容自定义你的冒险"
 "hbui.MarketplacePassBanner.bannerText.freeWeekend"	"Free Weekend - Play now!"	"Original Translation
 zh_CN: 免费周末 - 立即游玩！
 zh_TW: 免費週末 - 立即遊玩！"	"周末免费 - 即刻游戏！"
@@ -22239,7 +22239,7 @@ zh_CN: 文本块
 zh_TW: 文字方塊"	"文本块"
 "hbui.MarketplacePassPDPHero.offerSubtitle"	"%1$s %2$s/month"	"Original Translation
 zh_CN: %1$s %2$s/月
-zh_TW: %1$s %2$s/月"	""
+zh_TW: %1$s %2$s/月"	"%1$s：%2$s/月"
 "hbui.MarketplacePassPDPRoute.title"	"MARKETPLACE PASS"	"Original Translation
 zh_CN: Marketplace Pass
 zh_TW: Marketplace Pass"	"Marketplace Pass"
@@ -22290,22 +22290,22 @@ zh_CN: 愿望清单
 zh_TW: 願望清單"	"愿望清单"
 "hbui.MarketplaceSearchRow.narration.filter"	"Filter Button"	"Original Translation
 zh_CN: 筛选器按钮
-zh_TW: 篩選按鈕"	""
+zh_TW: 篩選按鈕"	"筛选器按钮"
 "hbui.MarketplaceSearchRow.narration.searchBar"	"Text Box Search"	"Original Translation
 zh_CN: 搜索框
-zh_TW: 搜尋文字方塊"	""
+zh_TW: 搜尋文字方塊"	"文本框搜索"
 "hbui.MarketplaceSearchRow.narration.sort"	"Sort Button"	"Original Translation
 zh_CN: 排序按钮
-zh_TW: 排序按鈕"	""
+zh_TW: 排序按鈕"	"排序按钮"
 "hbui.MarketplaceSearchRow.placeholder"	"Search"	"Original Translation
 zh_CN: 搜索
-zh_TW: 搜尋"	""
+zh_TW: 搜尋"	"搜索"
 "hbui.MarketplaceSortModal.header"	"Sort"	"Original Translation
 zh_CN: 排序
-zh_TW: 排序"	""
+zh_TW: 排序"	"排序"
 "hbui.MarketplaceSortModal.narration.enumeration"	"%1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
-zh_TW: %1$s/%2$s"	""
+zh_TW: %1$s/%2$s"	"第%1$s个，共%2$s个"
 "hbui.MobileDataBlockedModal.changeSettings"	"Change settings"	"Original Translation
 zh_CN: 更改设置
 zh_TW: 變更設定"	"更改设置"
@@ -22428,7 +22428,7 @@ zh_CN: 服务器地址
 zh_TW: 伺服器位址"	"服务器地址"
 "hbui.MyServersRoute.details.addressPlaceholder"	"XX.XXX.XXX.XXX"	"Original Translation
 zh_CN: XX.XXX.XXX.XXX
-zh_TW: XX.XXX.XXX.XXX"	""
+zh_TW: XX.XXX.XXX.XXX"	"XX.XXX.XXX.XXX"
 "hbui.MyServersRoute.details.description"	"Server description"	"Original Translation
 zh_CN: 服务器描述
 zh_TW: 伺服器說明"	"服务器描述"
@@ -24567,7 +24567,7 @@ zh_CN: %1$s 个世界已被隐藏
 zh_TW: 已隱藏 %1$s (一些) 世界"	"%1$s个世界已被隐藏"
 "hbui.PlayScreen.worldMissingMarioMashUpModal.body"	"Some worlds are hidden because of missing entitlements. Visit the Marketplace and sign in to claim your content."	"Original Translation
 zh_CN: 有些世界因缺少权益而被隐藏。请前往市场并登录以领取您的内容。
-zh_TW: 部分世界因缺少使用權而隱藏。請前往市集並登入，以領取你的內容。"	""
+zh_TW: 部分世界因缺少使用權而隱藏。請前往市集並登入，以領取你的內容。"	"部分世界因权限缺失而被隐藏。请前往市场并登录以领取你的内容。"
 "hbui.PlayScreen.worldMissingMarioMashUpModal.close"	"Close"	"Original Translation
 zh_CN: 关闭
 zh_TW: 關閉"	"关闭"
@@ -24945,7 +24945,7 @@ zh_CN: 离开
 zh_TW: 離開"	"离开"
 "hbui.PlayerListItem.blocked"	"Blocked"	"Original Translation
 zh_CN: 已屏蔽
-zh_TW: 已封鎖"	""
+zh_TW: 已封鎖"	"已屏蔽"
 "hbui.PlayerListItem.buttonSiblings"	"Button %1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 个按钮，共 %2$s 个
 zh_TW: 按鈕 %1$s/%2$s"	"按钮：第%1$s个，共%2$s个"
@@ -24996,7 +24996,7 @@ zh_CN: 成员
 zh_TW: 成員"	"成员"
 "hbui.PlayerListItem.muted"	"Muted"	"Original Translation
 zh_CN: 已静音
-zh_TW: 已靜音"	""
+zh_TW: 已靜音"	"已禁言"
 "hbui.PlayerListItem.narration.acceptInvite"	"Accept invite"	"Original Translation
 zh_CN: 接受邀请
 zh_TW: 接受邀請"	"接受邀请"
@@ -25047,7 +25047,7 @@ zh_CN: 第 %1$s 个玩家，共 %2$s 个
 zh_TW: %1$s/%2$s 位玩家"	"第%1$s名，共%2$s名玩家"
 "hbui.PlayerListItem.narration.playerEnumerationWithSection"	"%1$s of %2$s %3$s"	"Original Translation
 zh_CN: %1$s/%2$s %3$s
-zh_TW: %3$s，第 %1$s 位，共 %2$s 位"	""
+zh_TW: %3$s，第 %1$s 位，共 %2$s 位"	"第%1$s页/共%2$s页 %3$s"
 "hbui.PlayerListItem.narration.playerInvited"	"This player has been invited"	"Original Translation
 zh_CN: 该玩家已被邀请
 zh_TW: 已邀請此玩家"	"此玩家已被邀请"
@@ -25500,7 +25500,7 @@ zh_CN: 更多选项
 zh_TW: 更多選項"	"更多选项"
 "hbui.PreStartScreen.platformSignIn.body.nsa"	"Sign in to your Nintendo Account to create a link to this console, access online services, and collect My Nintendo points."	"Original Translation
 zh_CN: 登录 Nintendo 账号以关联此主机、访问在线服务并领取 My Nintendo 积分。
-zh_TW: 登入 Nintendo 帳號，將帳戶連結至這台主機、使用線上服務，並獲得 My Nintendo 點數。"	""
+zh_TW: 登入 Nintendo 帳號，將帳戶連結至這台主機、使用線上服務，並獲得 My Nintendo 點數。"	"登录你的Nintendo账户以关联此主机、访问在线服务并收集My Nintendo积分。"
 "hbui.PreStartScreen.platformSignIn.body.psn"	"Sign in to the PlayStation™Network to play online with friends, access social features, and discover games from the store."	"Original Translation
 zh_CN: 登录 PlayStation™Network，与好友在线游玩，体验社交功能，并在商店发现新游戏。
 zh_TW: 登入 PlayStation™Network，即可與好友線上遊玩、使用社交功能，並探索商店中的遊戲。"	"登录PlayStation™Network与好友在线游戏、使用社交功能，并从商店发现游戏。"
@@ -25521,7 +25521,7 @@ zh_CN: Nintendo 账号
 zh_TW: Nintendo 帳號"	"Nintendo账户"
 "hbui.PreStartScreen.platformSignIn.title.psn"	"PlayStation™Network"	"Original Translation
 zh_CN: PlayStation™Network
-zh_TW: PlayStation™Network"	""
+zh_TW: PlayStation™Network"	"PlayStation™Network"
 "hbui.PreStartScreen.screenSize.buttons.enumeration"	"%1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
 zh_TW: %1$s/%2$s"	"第%1$s个，共%2$s个"
@@ -26919,7 +26919,7 @@ zh_CN: 重置世界
 zh_TW: 重設世界"	"重置世界"
 "hbui.Realms.RealmsHub.SlotsScreen.fileDetails"	"%1$s %2$s"	"Original Translation
 zh_CN: %1$s %2$s
-zh_TW: %1$s %2$s"	""
+zh_TW: %1$s %2$s"	"%1$s %2$s"
 "hbui.Realms.RealmsHub.World.ResettingWorld"	"Resetting world"	"Original Translation
 zh_CN: 正在重置世界
 zh_TW: 正在重設世界"	"正在重置世界"
@@ -26928,7 +26928,7 @@ zh_CN: %1$s 从存档中恢复了 %2$s
 zh_TW: %1$s 從存檔中還原了 %2$s"	"%1$s从存档中恢复了%2$s"
 "hbui.Realms.RealmsHub.adminLog.enumeration"	"%1$s of %2$s"	"Original Translation
 zh_CN: 第 %1$s 个，共 %2$s 个
-zh_TW: %1$s/%2$s"	""
+zh_TW: %1$s/%2$s"	"第%1$s个，共%2$s个"
 "hbui.Realms.RealmsHub.adminLog.invite_accepted"	"%1$s accepted invitation"	"Original Translation
 zh_CN: %1$s 已接受邀请
 zh_TW: %1$s 已接受邀請"	"%1$s接受了邀请"
@@ -27435,10 +27435,10 @@ zh_CN: 关闭
 zh_TW: 關閉"	"关闭"
 "hbui.RealmsFeedModeration.error.delete.comment.message"	"Unable to delete comment. Please check your internet connection and try again."	"Original Translation
 zh_CN: 无法删除评论。请检查你的网络连接并重试。
-zh_TW: 無法刪除留言。請檢查網際網路連線，然後再試一次。"	"无法删除评论，请检查你的网络连接并重试。"
+zh_TW: 無法刪除留言。請檢查網際網路連線，然後再試一次。"	"无法删除注释，请检查你的网络连接并重试。"
 "hbui.RealmsFeedModeration.error.delete.comment.title"	"Failed to delete comment"	"Original Translation
 zh_CN: 无法删除评论
-zh_TW: 刪除留言失敗"	"删除评论失败"
+zh_TW: 刪除留言失敗"	"删除注释失败"
 "hbui.RealmsFeedModeration.error.delete.post.message"	"Unable to delete story. Please check your internet connection and try again."	"Original Translation
 zh_CN: 无法删除故事。请检查你的 Internet 连接，然后重试。
 zh_TW: 無法刪除動態。請檢查網際網路連線，然後再試一次。"	"无法删除动态，请检查你的网络连接并重试。"
@@ -27468,13 +27468,13 @@ zh_CN: 移动到右侧以进行其他操作
 zh_TW: 向右移動以執行其他操作"	"移动到右侧执行其他操作"
 "hbui.RealmsFeedModeration.item.comment.delete"	"Yes, delete comment"	"Original Translation
 zh_CN: 是，删除评论
-zh_TW: 好的，刪除留言"	"是，删除评论"
+zh_TW: 好的，刪除留言"	"是，删除注释"
 "hbui.RealmsFeedModeration.item.comment.delete.message"	"This will permanently delete this comment from the feed"	"Original Translation
 zh_CN: 这将从动态中永久删除该评论
-zh_TW: 這則留言會從動態消息中永久刪除。"	"此操作将从动态信息流中永久删除该评论"
+zh_TW: 這則留言會從動態消息中永久刪除。"	"此操作将从动态信息流中永久删除该注释"
 "hbui.RealmsFeedModeration.item.comment.delete.title"	"Delete Comment?"	"Original Translation
 zh_CN: 是否要删除评论？
-zh_TW: 是否要刪除留言？"	"删除评论？"
+zh_TW: 是否要刪除留言？"	"删除注释？"
 "hbui.RealmsFeedModeration.item.delete"	"Yes, delete story"	"Original Translation
 zh_CN: 是，删除故事
 zh_TW: 好的，刪除動態"	"是，删除动态"
@@ -27489,7 +27489,7 @@ zh_CN: 是否要删除故事？
 zh_TW: 是否要刪除動態？"	"删除动态？"
 "hbui.RealmsFeedModeration.item.deleteComment"	"Delete comment"	"Original Translation
 zh_CN: 删除评论
-zh_TW: 刪除留言"	"删除评论"
+zh_TW: 刪除留言"	"删除注释"
 "hbui.RealmsFeedModeration.item.deleteHint"	"Click to delete this post from the Stories feed"	"Original Translation
 zh_CN: 点击以从故事动态中删除此贴子
 zh_TW: 按一下以從動態摘要中刪除此貼文"	"点击以删除该动态帖子"
@@ -27546,7 +27546,7 @@ zh_CN: 重新加载
 zh_TW: 重新載入"	"重新加载"
 "hbui.RealmsFeedModeration.item.reportComment"	"Comment"	"Original Translation
 zh_CN: 评论
-zh_TW: 留言"	"评论"
+zh_TW: 留言"	"注释"
 "hbui.RealmsFeedModeration.item.reportGroupRole"	"group"	"Original Translation
 zh_CN: 组
 zh_TW: 小組"	"组"
@@ -27576,7 +27576,7 @@ zh_CN: 查看截图
 zh_TW: 檢視畫面照片"	"查看截图"
 "hbui.RealmsFeedModeration.notify.deleteComment.toast"	"Comment deleted"	"Original Translation
 zh_CN: 评论已删除
-zh_TW: 留言已刪除"	"评论已删除"
+zh_TW: 留言已刪除"	"注释已删除"
 "hbui.RealmsFeedModeration.notify.deletePost.toast"	"Story deleted"	"Original Translation
 zh_CN: 故事已删除
 zh_TW: 動態已刪除"	"动态已删除"
@@ -27747,7 +27747,7 @@ zh_CN: 编写故事…
 zh_TW: 寫自己的故事…"	"写下你的动态…"
 "hbui.RealmsPDPFAQAccordion.clickToCollapse"	"Click to collapse"	"Original Translation
 zh_CN: 点击以折叠
-zh_TW: 點擊即可折疊此面板"	""
+zh_TW: 點擊即可折疊此面板"	"点击折叠"
 "hbui.RealmsPDPFAQAccordion.clickToExpand"	"Click to expand"	"Original Translation
 zh_CN: 单击展开
 zh_TW: 按一下以展開"	"点击展开"
@@ -28422,7 +28422,7 @@ zh_CN: 第 %1$s 个，共 %2$s 个
 zh_TW: %1$s/%2$s"	"第%1$s个，共%2$s个"
 "hbui.RealmsPurchaseSubscriptionRoute.panelButton.eula"	"EULA"	"Original Translation
 zh_CN: 最终用户许可协议
-zh_TW: 使用者授權合約"	""
+zh_TW: 使用者授權合約"	"最终用户许可协议"
 "hbui.RealmsPurchaseSubscriptionRoute.panelButton.privacyPolicy"	"Privacy policy"	"Original Translation
 zh_CN: 隐私政策
 zh_TW: 隱私政策"	"隐私政策"
@@ -29331,10 +29331,10 @@ zh_CN: 管理员将收到关于此故事的通知。你确定要发送通知吗�
 zh_TW: 系統將通知管理員有關此動態的資訊。確定要傳送通知嗎？"	"系统管理员将收到关于此动态的通知。你确定要发送通知吗？"
 "hbui.RealmsStories.feedPost.options.notify.admin.message.comment"	"The administrators will be notified about this comment. Are you sure you want to send the notification?"	"Original Translation
 zh_CN: 管理员将收到关于此评论的通知。你确定要发送通知吗？
-zh_TW: 系統將通知管理員有關此留言的資訊。確定要傳送通知嗎？"	"系统管理员将收到关于此评论的通知。你确定要发送通知吗？"
+zh_TW: 系統將通知管理員有關此留言的資訊。確定要傳送通知嗎？"	"系统管理员将收到关于此注释的通知。你确定要发送通知吗？"
 "hbui.RealmsStories.feedPost.options.notify.admin.message.comment.narration"	"Textblock. The administrators will be notified about this comment. Are you sure you want to send the notification?"	"Original Translation
 zh_CN: 文本方块。管理员将收到关于此评论的通知。你确定要发送通知吗？
-zh_TW: 文字區塊。系統將通知管理員有關此留言的資訊。確定要傳送通知嗎？"	"文本块。系统管理员将收到关于此评论的通知。你确定要发送通知吗？"
+zh_TW: 文字區塊。系統將通知管理員有關此留言的資訊。確定要傳送通知嗎？"	"文本块。系统管理员将收到关于此注释的通知。你确定要发送通知吗？"
 "hbui.RealmsStories.feedPost.options.notify.admin.message.narration"	"Textblock. The administrators will be notified about this story. Are you sure you want to send the notification?"	"Original Translation
 zh_CN: 文本方块。管理员将收到关于此故事的通知。你确定要发送通知吗？
 zh_TW: 文字區塊。系統將通知管理員有關此動態的資訊。確定要傳送通知嗎？"	"文本块。系统管理员将收到关于此动态的通知。你确定要发送通知吗？"
@@ -29592,7 +29592,7 @@ zh_CN: Section
 zh_TW: 區段"	"部分"
 "hbui.RealmsStories.members.showAll"	"Realm Member list"	"Original Translation
 zh_CN: Realm 成员列表
-zh_TW: Realm 成員名單"	""
+zh_TW: Realm 成員名單"	"Realm成员列表"
 "hbui.RealmsStories.members.sort"	"Sort"	"Original Translation
 zh_CN: 排序
 zh_TW: 排序"	"排序"
@@ -29829,13 +29829,13 @@ zh_CN: 选择要设置的 Realm
 zh_TW: 選擇要設定的 Realm"	"选择要配置的Realm"
 "hbui.ReconcileRealmRoute.label.core"	"Core"	"Original Translation
 zh_CN: Core
-zh_TW: Core"	""
+zh_TW: Core"	"Core"
 "hbui.ReconcileRealmRoute.label.plus"	"Plus"	"Original Translation
 zh_CN: Plus
-zh_TW: Plus"	""
+zh_TW: Plus"	"Plus"
 "hbui.ReconcileRealmRoute.label.pro"	"Pro"	"Original Translation
 zh_CN: Pro
-zh_TW: Pro"	""
+zh_TW: Pro"	"Pro"
 "hbui.ReconcileRealmRoute.players"	"%s Players"	"Original Translation
 zh_CN: %s 位玩家
 zh_TW: %s 位玩家"	"%s名玩家"
@@ -29874,7 +29874,7 @@ zh_CN: 请告知我们事件发生的地方。这能帮我们研究您的案例�
 zh_TW: 請讓我們知道事件發生在哪裡。這將有助於我們研究你的案例。"	"请告知我们事件发生的位置。这有助于我们调查你的案例。"
 "hbui.ReportPlayerRoute.areaPanel.placeholder"	"Select where the incident took place"	"Original Translation
 zh_CN: 选择事件发生地点
-zh_TW: 選取事件發生地"	""
+zh_TW: 選取事件發生地"	"选择事件发生的位置"
 "hbui.ReportPlayerRoute.areaPanel.title"	"Where did you observe the bad behavior?"	"Original Translation
 zh_CN: 您在哪里观察到了不好的行为？
 zh_TW: 你在哪裡觀察到了不良行為？"	"你在哪里观察到了不良行为？"
@@ -29949,70 +29949,70 @@ zh_CN: 确认选择
 zh_TW: 確認選擇"	"确认选择"
 "hbui.ReportPlayerRoute.copyOrReportMessages.copiedMessagesToast"	"Messages copied"	"Original Translation
 zh_CN: 消息已复制
-zh_TW: 已複製訊息"	""
+zh_TW: 已複製訊息"	"消息已复制"
 "hbui.ReportPlayerRoute.copyOrReportMessages.copyButtonText"	"Copy"	"Original Translation
 zh_CN: 复制
-zh_TW: 複製"	""
+zh_TW: 複製"	"复制"
 "hbui.ReportPlayerRoute.copyOrReportMessages.copyButtonTextPlural"	"Copy %1$s messages"	"Original Translation
 zh_CN: 复制%1$s条消息
-zh_TW: 複製 %1$s 則訊息"	""
+zh_TW: 複製 %1$s 則訊息"	"复制%1$s条消息"
 "hbui.ReportPlayerRoute.copyOrReportMessages.copyButtonTextSingular"	"Copy 1 message"	"Original Translation
 zh_CN: 复制 1 条消息
-zh_TW: 複製 1 則訊息"	""
+zh_TW: 複製 1 則訊息"	"复制1条消息"
 "hbui.ReportPlayerRoute.copyOrReportMessages.maxMessagesSelected"	"You've reached the maximum number of messages that can be selected"	"Original Translation
 zh_CN: 你已达到可选择的消息数量上限
-zh_TW: 選取的訊息數量已達上限"	""
+zh_TW: 選取的訊息數量已達上限"	"你已达到可以选择消息的最大数量"
 "hbui.ReportPlayerRoute.copyOrReportMessages.narration.limitReached"	"Maximum of %1$s messages reached. Deselect a message to select another."	"Original Translation
 zh_CN: 已达到最多 %1$s 条消息。请取消选择一条消息后再选择其他消息。
-zh_TW: 已達 %1$s 則訊息的上限。請先取消選取一則訊息，才能選取其他訊息。"	""
+zh_TW: 已達 %1$s 則訊息的上限。請先取消選取一則訊息，才能選取其他訊息。"	"已达到%1$s条消息的上限。取消选择消息以选择其他消息。"
 "hbui.ReportPlayerRoute.copyOrReportMessages.narration.messagesGroup"	"Select messages"	"Original Translation
 zh_CN: 选择消息
-zh_TW: 選取訊息"	""
+zh_TW: 選取訊息"	"选择消息"
 "hbui.ReportPlayerRoute.copyOrReportMessages.narration.moreMessagesDownHint"	"Navigate down to see more messages"	"Original Translation
 zh_CN: 向下导航可查看更多消息
-zh_TW: 向下導覽查看更多訊息"	""
+zh_TW: 向下導覽查看更多訊息"	"向下浏览查看更多消息"
 "hbui.ReportPlayerRoute.copyOrReportMessages.narration.moreMessagesHint"	"Navigate up to see more messages"	"Original Translation
 zh_CN: 向上导航可查看更多消息
-zh_TW: 向上導覽查看更多訊息"	""
+zh_TW: 向上導覽查看更多訊息"	"向上浏览查看更多消息"
 "hbui.ReportPlayerRoute.copyOrReportMessages.narration.moreMessagesUpOrDownHint"	"Navigate up or down to see more messages"	"Original Translation
 zh_CN: 向上或向下导航可查看更多消息
-zh_TW: 向上或向下導覽查看更多訊息"	""
+zh_TW: 向上或向下導覽查看更多訊息"	"向上或向下浏览查看更多消息"
 "hbui.ReportPlayerRoute.copyOrReportMessages.narration.selectedCountPlural"	"%1$s messages selected"	"Original Translation
 zh_CN: 已选择 %1$s 条消息
-zh_TW: 已選取 %1$s 則訊息"	""
+zh_TW: 已選取 %1$s 則訊息"	"已选择%1$s条消息"
 "hbui.ReportPlayerRoute.copyOrReportMessages.narration.selectedCountSingular"	"1 message selected"	"Original Translation
 zh_CN: 已选择 1 条消息
-zh_TW: 已選取 1 則訊息"	""
+zh_TW: 已選取 1 則訊息"	"已选择1条消息"
 "hbui.ReportPlayerRoute.copyOrReportMessages.narration.selectedCountZero"	"No messages selected"	"Original Translation
 zh_CN: 未选择消息
-zh_TW: 尚未選取任何訊息"	""
+zh_TW: 尚未選取任何訊息"	"没有选择私信"
 "hbui.ReportPlayerRoute.copyOrReportMessages.narration.selectionLimitReason"	"Maximum of %1$s messages selected."	"Original Translation
 zh_CN: 已选择最多 %1$s 条消息。
-zh_TW: 已選取 %1$s 則訊息，達到數量上限。"	""
+zh_TW: 已選取 %1$s 則訊息，達到數量上限。"	"已选择最多%1$s条消息。"
 "hbui.ReportPlayerRoute.copyOrReportMessages.reportButtonText"	"Report"	"Original Translation
 zh_CN: 举报
-zh_TW: 檢舉"	""
+zh_TW: 檢舉"	"举报"
 "hbui.ReportPlayerRoute.copyOrReportMessages.reportButtonTextPlural"	"Report %1$s messages"	"Original Translation
 zh_CN: 举报 %1$s 条消息
-zh_TW: 檢舉 %1$s 則訊息"	""
+zh_TW: 檢舉 %1$s 則訊息"	"举报%1$s条消息"
 "hbui.ReportPlayerRoute.copyOrReportMessages.reportButtonTextSingular"	"Report 1 message"	"Original Translation
 zh_CN: 举报 1 条消息
-zh_TW: 檢舉 1 則訊息"	""
+zh_TW: 檢舉 1 則訊息"	"举报1条消息"
 "hbui.ReportPlayerRoute.copyOrReportMessages.title"	"Copy or Report Messages"	"Original Translation
 zh_CN: 复制或举报消息
-zh_TW: 複製或檢舉訊息"	""
+zh_TW: 複製或檢舉訊息"	"复制或举报消息"
 "hbui.ReportPlayerRoute.copyOrReportMessages.titleReportOnly"	"Report Messages"	"Original Translation
 zh_CN: 举报消息
-zh_TW: 檢舉訊息"	""
+zh_TW: 檢舉訊息"	"举报消息"
 "hbui.ReportPlayerRoute.copyOrReportMessagesFTUE.body"	"Select messages using the checkbox. You can select one or multiple messages to copy or report."	"Original Translation
 zh_CN: 通过复选框选择消息。可选择一条或多条消息进行复制或举报。
-zh_TW: 使用核取方塊選取訊息。你可以選取一則或多則訊息來複製或檢舉。"	""
+zh_TW: 使用核取方塊選取訊息。你可以選取一則或多則訊息來複製或檢舉。"	"使用复选框选择消息。你可以选择一条或多条消息进行复制或举报。"
 "hbui.ReportPlayerRoute.copyOrReportMessagesFTUE.okayButton"	"Okay"	"Original Translation
 zh_CN: 好的
-zh_TW: 好"	""
+zh_TW: 好"	"确定"
 "hbui.ReportPlayerRoute.copyOrReportMessagesFTUE.title"	"Select messages"	"Original Translation
 zh_CN: 选择消息
-zh_TW: 選取訊息"	""
+zh_TW: 選取訊息"	"选择消息"
 "hbui.ReportPlayerRoute.drugsOrAlcohol"	"Drugs or alcohol"	"Original Translation
 zh_CN: 毒品或酒精
 zh_TW: 毒品或酒精"	"吸毒或饮酒"
@@ -30072,22 +30072,22 @@ zh_CN: 举报选项不可用
 zh_TW: 檢舉選項無法使用"	"举报选项不可用"
 "hbui.ReportPlayerRoute.playerPanel.description"	"To report the messages, select the player responsible. Inappropriate content from any player in the reported messages will result in action being taken against them."	"Original Translation
 zh_CN: 要举报这些消息，请选择相关责任玩家。如果被举报的消息中包含任何玩家发布的不当内容，我们都将对相应玩家采取处理措施。
-zh_TW: 如果要檢舉訊息，請先選取違規的玩家。如果我們發現檢舉訊息中有不當內容，相關玩家將受到懲處。"	""
+zh_TW: 如果要檢舉訊息，請先選取違規的玩家。如果我們發現檢舉訊息中有不當內容，相關玩家將受到懲處。"	"要举报这些消息，请选择相关玩家。举报消息中任何玩家的不当内容将对其采取行动。"
 "hbui.ReportPlayerRoute.playerPanel.placeholder"	"Select a player"	"Original Translation
 zh_CN: 选择玩家
-zh_TW: 選取玩家"	""
+zh_TW: 選取玩家"	"选择播放器"
 "hbui.ReportPlayerRoute.playerPanel.title"	"Who do you want to report?"	"Original Translation
 zh_CN: 你想举报谁？
-zh_TW: 你要檢舉誰？"	""
+zh_TW: 你要檢舉誰？"	"你想举报哪名玩家？"
 "hbui.ReportPlayerRoute.reasonPanel.chatReportTitle"	"Why are you reporting these messages?"	"Original Translation
 zh_CN: 为什么要举报这些消息？
-zh_TW: 你為什麼要檢舉這些訊息？"	""
+zh_TW: 你為什麼要檢舉這些訊息？"	"你为什么要举报这些消息？"
 "hbui.ReportPlayerRoute.reasonPanel.description"	"If someone is in immediate danger, call local emergency services. Don't wait."	"Original Translation
 zh_CN: 如果有人处于紧急危险之中，请致电当地紧急服务部门。不要等待。
 zh_TW: 如果有人有立即危險，請聯絡當地緊急服務單位。不要拖延。"	"如果有人正处于危险之中，请立即拨打当地紧急服务热线，不要犹豫。"
 "hbui.ReportPlayerRoute.reasonPanel.placeholder"	"Select a reason"	"Original Translation
 zh_CN: 选择原因
-zh_TW: 選取檢舉原因"	""
+zh_TW: 選取檢舉原因"	"请选择原因"
 "hbui.ReportPlayerRoute.reasonPanel.title"	"Why are you reporting %1$s?"	"Original Translation
 zh_CN: 您为什么要举报 %1$s？
 zh_TW: 你為什麼要檢舉 %1$s？"	"你为什么要举报%1$s？"
@@ -30135,31 +30135,31 @@ zh_CN: 没有体育道德的行为
 zh_TW: 不當行為"	"没有体育道德的行为"
 "hbui.ReportPlayerRoute.viewMessagesModal.closeButton"	"Close"	"Original Translation
 zh_CN: 关闭
-zh_TW: 關閉"	""
+zh_TW: 關閉"	"关闭"
 "hbui.ReportPlayerRoute.viewMessagesModal.narration.moreMessagesDownHint"	"Navigate down to see more messages"	"Original Translation
 zh_CN: 向下导航可查看更多消息
-zh_TW: 向下導覽查看更多訊息"	""
+zh_TW: 向下導覽查看更多訊息"	"向下浏览查看更多消息"
 "hbui.ReportPlayerRoute.viewMessagesModal.narration.moreMessagesHint"	"Navigate up to see more messages"	"Original Translation
 zh_CN: 向上导航可查看更多消息
-zh_TW: 向上導覽查看更多訊息"	""
+zh_TW: 向上導覽查看更多訊息"	"向上浏览查看更多消息"
 "hbui.ReportPlayerRoute.viewMessagesModal.narration.moreMessagesUpOrDownHint"	"Navigate up or down to see more messages"	"Original Translation
 zh_CN: 向上或向下导航可查看更多消息
-zh_TW: 向上或向下導覽查看更多訊息"	""
+zh_TW: 向上或向下導覽查看更多訊息"	"向上或向下浏览查看更多消息"
 "hbui.ReportPlayerRoute.viewMessagesModal.title"	"View messages"	"Original Translation
 zh_CN: 查看消息
-zh_TW: 檢視訊息"	""
+zh_TW: 檢視訊息"	"查看消息"
 "hbui.ReportPlayerRoute.viewMessagesPanel.button"	"View messages"	"Original Translation
 zh_CN: 查看消息
-zh_TW: 檢視訊息"	""
+zh_TW: 檢視訊息"	"查看消息"
 "hbui.ReportPlayerRoute.viewMessagesPanel.buttonSingular"	"View message"	"Original Translation
 zh_CN: 查看消息
-zh_TW: 檢視訊息"	""
+zh_TW: 檢視訊息"	"查看消息"
 "hbui.ReportPlayerRoute.viewMessagesPanel.text"	"%1$s messages selected"	"Original Translation
 zh_CN: 已选择 %1$s 条消息
-zh_TW: 已選取 %1$s 則訊息"	""
+zh_TW: 已選取 %1$s 則訊息"	"已选择%1$s条消息"
 "hbui.ReportPlayerRoute.viewMessagesPanel.textSingular"	"1 message selected"	"Original Translation
 zh_CN: 已选择 1 条消息
-zh_TW: 已選取 1 則訊息"	""
+zh_TW: 已選取 1 則訊息"	"已选择1条消息"
 "hbui.ReportPlayerRoute.wantToReportThem"	"I want to report them"	"Original Translation
 zh_CN: 我想举报
 zh_TW: 我想檢舉他們"	"我要举报他们"
@@ -31338,7 +31338,7 @@ zh_CN: 进一步探索 Marketplace Pass 订阅用户的世界模板。
 zh_TW: 對於 Marketplace Pass 定期服務的使用者，我們提供更多世界範本。"	"订阅Marketplace Pass，探索更多世界模板。"
 "hbui.StartFromTemplateRoute.MarketplacePass.featured"	"Featured"	"Original Translation
 zh_CN: 精选
-zh_TW: 精選"	""
+zh_TW: 精選"	"精选"
 "hbui.StartFromTemplateRoute.MarketplacePass.noInternetMessage"	"Please check your internet connection to browse Marketplace."	"Original Translation
 zh_CN: 请检查您的互联网连接以浏览市场。
 zh_TW: 請檢查網際網路連線以瀏覽市集。"	"请检查你的网络连接以浏览市场。"
@@ -31350,7 +31350,7 @@ zh_CN: Marketplace Pass 模板
 zh_TW: Marketplace Pass 範本"	"Marketplace Pass模板"
 "hbui.StartFromTemplateRoute.MarketplacePass.viewCatalog"	"View catalog"	"Original Translation
 zh_CN: 查看目录
-zh_TW: 檢視目錄"	""
+zh_TW: 檢視目錄"	"查看内容库"
 "hbui.StartFromTemplateRoute.NoContentMessage.goToMarketplaceButton"	"Go to Marketplace"	"Original Translation
 zh_CN: 前往市场
 zh_TW: 前往市集"	"前往市场"
@@ -31488,7 +31488,7 @@ zh_CN: 创建新世界
 zh_TW: 建立新世界"	"创建新的世界"
 "hbui.StartFromTemplateRoute.SideMenu.createFrom"	"Create From..."	"Original Translation
 zh_CN: 创建自……
-zh_TW: 根據以下來源建立……"	""
+zh_TW: 根據以下來源建立……"	"创建自…"
 "hbui.StartFromTemplateRoute.SideMenu.featured"	"Featured creators"	"Original Translation
 zh_CN: 精选创作者
 zh_TW: 精選創作者"	"精选创作者"
@@ -31587,7 +31587,7 @@ zh_CN: 从模板创建
 zh_TW: 從範本創建"	"从模板创建"
 "hbui.StartFromTemplateRoute.title.ABTest"	"Create"	"Original Translation
 zh_CN: 创建
-zh_TW: 建立"	""
+zh_TW: 建立"	"创建"
 "hbui.StartFromTemplateRoute.title.AddOn"	"Create From..."	"Original Translation
 zh_CN: 创建自...
 zh_TW: 從以下建立..."	"创建自…"
@@ -31863,10 +31863,10 @@ zh_CN: 云存储
 zh_TW: 雲端儲存空間"	"云存储"
 "hbui.Storage.StorageIndicator.gigabytes"	"%1$sGB"	"Original Translation
 zh_CN: %1$s GB
-zh_TW: %1$s GB"	""
+zh_TW: %1$s GB"	"%1$sGB"
 "hbui.Storage.StorageIndicator.kilobytes"	"%1$sKB"	"Original Translation
 zh_CN: %1$s KB
-zh_TW: %1$s KB"	""
+zh_TW: %1$s KB"	"%1$sKB"
 "hbui.Storage.StorageIndicator.localStorageAlmostFullLabel"	"Local storage is almost full"	"Original Translation
 zh_CN: 本地存储空间几乎已满。
 zh_TW: 本機儲存空間即將全滿"	"本地存储空间不足"
@@ -31887,10 +31887,10 @@ zh_CN: 市场存储空间
 zh_TW: 市集儲存空間"	"市场存储"
 "hbui.Storage.StorageIndicator.megabytes"	"%1$sMB"	"Original Translation
 zh_CN: %1$s MB
-zh_TW: %1$s MB"	""
+zh_TW: %1$s MB"	"%1$sMB"
 "hbui.Storage.StorageIndicator.petabytes"	"%1$sPB"	"Original Translation
 zh_CN: %1$s PB
-zh_TW: %1$s PB"	""
+zh_TW: %1$s PB"	"%1$sPB"
 "hbui.Storage.StorageIndicator.storageContextNarration"	"Storage information"	"Original Translation
 zh_CN: 存储信息
 zh_TW: 儲存空間資訊"	"存储信息"
@@ -31902,7 +31902,7 @@ zh_CN: 已使用 %1$s 个，共 %2$s 个
 zh_TW: 已使用 %1$s / %2$s"	"已使用%1$s，共%2$s"
 "hbui.Storage.StorageIndicator.terabytes"	"%1$sTB"	"Original Translation
 zh_CN: %1$s TB
-zh_TW: %1$s TB"	""
+zh_TW: %1$s TB"	"%1$sTB"
 "hbui.Storage.StorageListHeader.delete"	"Delete"	"Original Translation
 zh_CN: 删除
 zh_TW: 刪除"	"删除"
@@ -31956,7 +31956,7 @@ zh_CN: 版本：%1$s
 zh_TW: 版本 %1$s"	"版本：%1$s"
 "hbui.Storage.StorageListItem.size"	"%1$sMB"	"Original Translation
 zh_CN: %1$s MB
-zh_TW: %1$sMB"	""
+zh_TW: %1$sMB"	"%1$sMB"
 "hbui.Storage.StorageListItem.technicalDetailsLink"	"Technical details"	"Original Translation
 zh_CN: 技术详细信息
 zh_TW: 技術詳細資訊"	"技术详情"
@@ -32160,7 +32160,7 @@ zh_CN: 下载
 zh_TW: 下載"	"下载"
 "hbui.TemplateCard.installedABTest"	"Installed"	"Original Translation
 zh_CN: 已安装
-zh_TW: 已安裝"	""
+zh_TW: 已安裝"	"已安装"
 "hbui.TemplateCard.locked"	"Locked"	"Original Translation
 zh_CN: 已锁定
 zh_TW: 已鎖定"	"已锁定"
@@ -32169,7 +32169,7 @@ zh_CN: 创建
 zh_TW: 建立"	"创建"
 "hbui.TemplateCard.ownedABTest"	"Owned"	"Original Translation
 zh_CN: 已拥有
-zh_TW: 已擁有"	""
+zh_TW: 已擁有"	"已拥有"
 "hbui.TemplateCard.rate"	"Rate"	"Original Translation
 zh_CN: 速率
 zh_TW: 率"	"评分"
@@ -32178,7 +32178,7 @@ zh_CN: %1$s 颗星
 zh_TW: %1$s 顆星"	"%1$s星"
 "hbui.TemplateCard.ratingsCount"	"%1$s ratings"	"Original Translation
 zh_CN: %1$s条评分
-zh_TW: %1$s 則評分"	""
+zh_TW: %1$s 則評分"	"%1$s评分"
 "hbui.TemplateCard.start"	"Start"	"Original Translation
 zh_CN: 开始
 zh_TW: 開始"	"开始"
@@ -32910,7 +32910,7 @@ zh_CN: 使用免费 Microsoft 账户登录，体验 Minecraft 的完整世界。
 zh_TW: 使用你的免費 Microsoft 帳戶登入，即可探索完整的 Minecraft 世界。"	"使用你的免费Microsoft账户登录，体验Minecraft的完整世界。"
 "hbui.signInExternalDevice.inlineMessage1"	"https://microsoft.com/link"	"Original Translation
 zh_CN: https://microsoft.com/link
-zh_TW: https://microsoft.com/link"	""
+zh_TW: https://microsoft.com/link"	"https://microsoft.com/link"
 "hbui.signInExternalDevice.narrationOtherOptionLeft"	"Other sign in option available to the left"	"Original Translation
 zh_CN: 左侧有其他登录选项
 zh_TW: 左側另有登入選項"	"左侧可用的其他登录选项"
@@ -33090,7 +33090,7 @@ zh_CN: 盾牌可以格挡来袭的伤害。盾牌可以装备在便捷槽位以�
 zh_TW: 護盾可以格擋傷害，還可以裝備在副手物品欄以及物品快捷欄。按下 :_input_key.sneak: 按鈕或按 :_gamepad_stick_right: 可切換使用護盾來格擋。"	"盾牌能够抵挡受到的伤害。它可以装备在副手槽或快捷栏中。按下:_input_key.sneak:或:_gamepad_stick_right:切换为盾牌进行格挡。"
 "howtoplay.armor.text.5.gamepad_and_mouse"	"The Shield will block incoming damage. The Shield can be equipped in the offhand slot as well as the hotbar. Press :_input_key.sneak: or press :_gamepad_stick_right:/:_gamepad_stick_left: to toggle block with the Shield."	"Original Translation
 zh_CN: 盾牌会格挡来袭伤害。盾牌既可装备在副手栏，也可放在快捷栏中。按 :_input_key.sneak: 或 :_gamepad_stick_right:/:_gamepad_stick_left: 来切换盾牌的格挡状态。
-zh_TW: 護盾可以格擋傷害，還可以裝備在副手物品欄以及物品快捷欄。按下 :_input_key.sneak: 按鈕或按 :_gamepad_stick_right:/:_gamepad_stick_left: 可切換使用護盾來格擋。"	""
+zh_TW: 護盾可以格擋傷害，還可以裝備在副手物品欄以及物品快捷欄。按下 :_input_key.sneak: 按鈕或按 :_gamepad_stick_right:/:_gamepad_stick_left: 可切換使用護盾來格擋。"	"盾牌能够抵挡受到的伤害。它可以装备在副手槽或快捷栏中。按下:_input_key.sneak:或:_gamepad_stick_right:/:_gamepad_stick_left:切换为盾牌进行格挡。"
 "howtoplay.armor.text.5.keyboard"	"The Shield will block incoming damage. The Shield can be equipped in the offhand slot as well as the hotbar. Press and hold :_input_key.sneak: to block with the Shield."	"Original Translation
 zh_CN: 盾牌可以格挡来袭的伤害。盾牌可以装备在便捷槽位以及热键中。按住 :_input_key.sneak: 以使用盾牌进行格挡。
 zh_TW: 護盾可以格擋即將到來的傷害。護盾可以裝備在副手物品欄以及物品快捷欄。按住 :_input_key.sneak: 可使用護盾來格擋。"	"盾牌能够抵挡受到的伤害。它可以装备在副手槽或快捷栏中。按住:_input_key.sneak:使用盾牌进行格挡。"
@@ -33636,7 +33636,7 @@ zh_CN: 若要在创造模式下飞行，请快速按两次 :_input_key.jump:。�
 zh_TW: 如要在創造模式中飛行，請快速按 :_input_key.jump: 兩次；如要結束飛行，請重複相同的動作。要加快飛行速度，請在飛行過程中快速往前推動 :_gamepad_stick_left: 兩次。在飛行模式中，按住 :_input_key.jump:  可向上移動，按住 :_input_key.sneak: 則能向下移動。"	"若要在创造模式下飞行，请快速连按两次:_input_key.jump:。若要退出飞行，请重复上述操作。若要加快飞行，请在飞行期间快速连按两次:_gamepad_stick_left:。在飞行模式下，按住:_input_key.jump:可向上移动，按住:_input_key.sneak:可向下移动。"
 "howtoplay.creativeMode.text.4.gamepad_and_mouse"	"To fly when in Creative Mode, press :_input_key.jump: twice quickly. To exit flying, repeat the action. To fly faster, push :_gamepad_stick_left:/:_gamepad_stick_right: forward twice in rapid succession while flying. When in flying mode, you can hold down :_input_key.jump: to move up and :_input_key.sneak: to move down."	"Original Translation
 zh_CN: 在创造模式下飞行，请快速按两次 :_input_key.jump:。要退出飞行，重复该操作。想要飞得更快，请在飞行时快速连续向前推两次 :_gamepad_stick_left:/:_gamepad_stick_right:。在飞行模式下，你可以按住 :_input_key.jump: 向上移动，按住 :_input_key.sneak: 向下移动。
-zh_TW: 如要在創造模式中飛行，請快速按 :_input_key.jump: 兩次；如要結束飛行，請重複相同的動作。要加快飛行速度，請在飛行過程中快速往前推動 :_gamepad_stick_left:/:_gamepad_stick_right: 兩次。在飛行模式中，按住 :_input_key.jump: 可向上移動，按住 :_input_key.sneak: 則能向下移動。"	""
+zh_TW: 如要在創造模式中飛行，請快速按 :_input_key.jump: 兩次；如要結束飛行，請重複相同的動作。要加快飛行速度，請在飛行過程中快速往前推動 :_gamepad_stick_left:/:_gamepad_stick_right: 兩次。在飛行模式中，按住 :_input_key.jump: 可向上移動，按住 :_input_key.sneak: 則能向下移動。"	"若要在创造模式下飞行，请快速连按两次:_input_key.jump:。若要退出飞行，请重复上述操作。若要加快飞行，请在飞行期间快速连按两次:_gamepad_stick_left:/:_gamepad_stick_right:。在飞行模式下，按住:_input_key.jump:可向上移动，按住:_input_key.sneak:可向下移动。"
 "howtoplay.creativeMode.text.4.keyboard"	"To fly when in Creative Mode, press :_input_key.jump: twice quickly. To exit flying, repeat the action. To fly faster, push :_input_key.forward: twice in rapid succession or press :_input_key.sprint: while flying. When in flying mode, you can hold down :_input_key.jump: to move up and :_input_key.sneak: to move down."	"Original Translation
 zh_CN: 若要在创造模式下飞行，请快速按两次 :_input_key.jump:。若要退出飞行，请重复上述操作。若要加快飞行，请在飞行期间快速连续按两次 :_input_key.forward: 或按 :_input_key.sprint:。当处于飞行模式时，按住 :_input_key.jump: 可向上移动，按住 :_input_key.sneak: 可向下移动。
 zh_TW: 如要在創造模式中飛行，請快速按 :_input_key.jump: 兩次；如要結束飛行，請重複相同的動作。要加快飛行速度，請在飛行過程中快速連按 :_input_key.forward: 兩次，或按 :_input_key.sprint:。在飛行模式中，按住 :_input_key.jump: 可向上移動，按住 :_input_key.sneak: 則能向下移動。"	"若要在创造模式下飞行，请快速连按两次:_input_key.jump:。若要退出飞行，请重复上述操作。若要加快飞行，请在飞行期间快速连按两次:_input_key.forward:或按下:_input_key.sprint:。在飞行模式下，按住:_input_key.jump:可向上移动，按住:_input_key.sneak:可向下移动。"
@@ -34146,7 +34146,7 @@ zh_CN: 想要在§e快捷栏§f和物品栏之间移动物品吗？用光标选�
 zh_TW: 想在§e快捷欄§f與物品欄之間移動物品？使用游標選擇物品並按下:_gamepad_face_button_down:。接著移動游標至空物品槽，再按一下將物品放進去。"	"想在§e快捷栏§f和物品栏之间移动物品吗？打开你的物品栏，使用光标选择一个物品，按:_gamepad_face_button_down:拿起，然后将光标移动到一个空物品槽中，再次按下放置该物品。"
 "howtoplay.inventory.text.2.gamepad_and_mouse"	"Want to move something between your §ehotbar§f and your inventory? Use the cursor to select an item and press :_gamepad_bumper_right:/:_gamepad_bumper_left:. Then, move your cursor to an empty item slot and press again to drop the item."	"Original Translation
 zh_CN: 想在§e快捷栏§f和物品栏之间移动物品吗？用光标选中物品，然后按 :_gamepad_bumper_right:/:_gamepad_bumper_left:。接着将光标移到空物品栏，再次按下以丢弃物品。
-zh_TW: 想在§e快捷欄§f和物品欄之間移動一些物品嗎？用游標選擇物品，然後按下 :_gamepad_bumper_right:/:_gamepad_bumper_left:。接著將游標移到空白物品欄位，再按一次放下物品。"	""
+zh_TW: 想在§e快捷欄§f和物品欄之間移動一些物品嗎？用游標選擇物品，然後按下 :_gamepad_bumper_right:/:_gamepad_bumper_left:。接著將游標移到空白物品欄位，再按一次放下物品。"	"想在§e快捷栏§f和物品栏之间移动物品吗？打开你的物品栏，使用光标选择一个物品，按:_gamepad_bumper_right:/:_gamepad_bumper_left:拿起，然后将光标移动到一个空物品槽中，再次按下放置该物品。"
 "howtoplay.inventory.text.2.keyboard"	"Want to move something between your §ehotbar§f and your inventory? Open your inventory, click the item of your choice, then drag it to the empty item slot you'd like to move it to."	"Original Translation
 zh_CN: 想要在§e快捷栏§f和物品栏之间移动物品吗？打开物品栏，点击选择的物品，然后将其拖放到想要移至的空物品栏位上。
 zh_TW: 想在§e快捷欄§f與物品欄之間移動物品嗎？開啟物品欄，按一下所選的物品，然後將其拖曳到你想移動的空物品槽中。"	"想在§e快捷栏§f和物品栏之间移动物品吗？打开你的物品栏，点击你选择的物品，然后拖动到你想要移动到的空物品槽位。"
@@ -34377,7 +34377,7 @@ zh_CN: 使用 :_gamepad_stick_right: 环顾四周。
 zh_TW: 使用 :_gamepad_stick_right: 環顧四周。"	"使用:_gamepad_stick_right:来环顾四周。"
 "howtoplay.movingAround.text.2.gamepad_and_mouse"	"Look around with mouse controls."	"Original Translation
 zh_CN: 使用鼠标控制环顾四周。
-zh_TW: 操作滑鼠環顧四周。"	""
+zh_TW: 操作滑鼠環顧四周。"	"使用鼠标控制来环顾四周。"
 "howtoplay.movingAround.text.2.keyboard"	"Look around with the mouse."	"Original Translation
 zh_CN: 使用鼠标环顾四周。
 zh_TW: 用滑鼠查看四周。"	"使用鼠标来环顾四周。"
@@ -34389,7 +34389,7 @@ zh_CN: 使用 :_gamepad_stick_left: 在世界中四处移动。
 zh_TW: 使用 :_gamepad_stick_left: 在世界中到處移動。"	"使用:_gamepad_stick_left:在世界中四处移动。"
 "howtoplay.movingAround.text.3.gamepad_and_mouse"	"Move around the world using :_gamepad_stick_left:/:_gamepad_stick_right:."	"Original Translation
 zh_CN: 使用 :_gamepad_stick_left:/:_gamepad_stick_right: 在世界中移动。
-zh_TW: 使用 :_gamepad_stick_left:/:_gamepad_stick_right: 在世界中到處移動。"	""
+zh_TW: 使用 :_gamepad_stick_left:/:_gamepad_stick_right: 在世界中到處移動。"	"使用:_gamepad_stick_left:/:_gamepad_stick_right:在世界中四处移动。"
 "howtoplay.movingAround.text.3.touch.joystick_crosshair"	"Move around the world using the on-screen joystick:tip_virtual_joystick: ."	"Original Translation
 zh_CN: 使用屏幕上的 joystick:tip_virtual_joystick: 在世界中四处移动。
 zh_TW: 使用螢幕上的搖桿 :tip_virtual_joystick: 在世界中四處走動。"	"使用屏幕上的摇杆:tip_virtual_joystick:在世界中四处移动。"
@@ -35004,7 +35004,7 @@ zh_CN: 使用 :_gamepad_stick_right: 旋转 3D 预览。
 zh_TW: 使用 :_gamepad_stick_right: 可旋轉 3D 預覽。"	"使用:_gamepad_stick_right:来旋转3D预览。"
 "howtoplay.structureBlocks.text.9.gamepad_and_mouse"	"Use :_gamepad_stick_right:/:_gamepad_stick_left: to rotate the 3D preview."	"Original Translation
 zh_CN: 用 :_gamepad_stick_right:/:_gamepad_stick_left: 旋转 3D 预览。
-zh_TW: 使用 :_gamepad_stick_right:/:_gamepad_stick_left: 可旋轉 3D 預覽。"	""
+zh_TW: 使用 :_gamepad_stick_right:/:_gamepad_stick_left: 可旋轉 3D 預覽。"	"使用:_gamepad_stick_right:/:_gamepad_stick_left:来旋转3D预览。"
 "howtoplay.structureBlocks.text.9.keyboard"	"Press :_input_key.attack: and drag, to rotate the 3D preview."	"Original Translation
 zh_CN: 按 :_input_key.attack: 并拖动，以旋转 3D 预览。
 zh_TW: 按 :_input_key.attack: 並拖曳，即可旋轉 3D 預覽。"	"按:_input_key.attack:并拖动来旋转3D预览。"
@@ -35148,7 +35148,7 @@ zh_CN: 在看到矿车时按 :_input_key.use: 跃上并乘坐。向前推 :_game
 zh_TW: 在望向礦車時按 :_input_key.use:，即可進入並搭乘礦車。向前推動 :_gamepad_stick_left: 可往前行駛，按 :_input_key.jump: 或 :_input_key.sneak: 則能離開礦車。"	"在看向矿车时按:_input_key.use:乘坐。向前推:_gamepad_stick_left:可向前行驶。按:_input_key.jump:或:_input_key.sneak:可跃下。"
 "howtoplay.transportation.text.3.gamepad_and_mouse"	"Press :_input_key.use: while looking at a Minecart to hop in and ride. Push :_gamepad_stick_left:/:_gamepad_stick_right: forward to roll forward. Press :_input_key.jump: or :_input_key.sneak: to get out."	"Original Translation
 zh_CN: 目视矿车时按 :_input_key.use: 即可跳进去乘坐。向前推 :_gamepad_stick_left:/:_gamepad_stick_right: 即可前进。按 :_input_key.jump: 或 :_input_key.sneak: 下车。
-zh_TW: 在望向礦車時按 :_input_key.use:，即可進入並搭乘礦車。向前推動 :_gamepad_stick_left:/:_gamepad_stick_right: 可往前行駛，按 :_input_key.jump: 或 :_input_key.sneak: 則能離開礦車。"	""
+zh_TW: 在望向礦車時按 :_input_key.use:，即可進入並搭乘礦車。向前推動 :_gamepad_stick_left:/:_gamepad_stick_right: 可往前行駛，按 :_input_key.jump: 或 :_input_key.sneak: 則能離開礦車。"	"在看向矿车时按:_input_key.use:乘坐。向前推:_gamepad_stick_left:/:_gamepad_stick_right:可向前行驶。按:_input_key.jump:或:_input_key.sneak:可跃下。"
 "howtoplay.transportation.text.3.keyboard"	"Press :_input_key.use: while looking at a Minecart to hop in and ride. Press :_input_key.forward: to roll forward. Press :_input_key.jump: or :_input_key.sneak: to get out."	"Original Translation
 zh_CN: 在看着矿车时按 :_input_key.use: 跃上并乘坐。按 :_input_key.forward: 向前滚动。按 :_input_key.jump: 或 :_input_key.sneak: 跃下。
 zh_TW: 在望向礦車時按 :_input_key.use:，即可進入並搭乘礦車。按 :_input_key.forward: 可往前行駛，按 :_input_key.jump: 或 :_input_key.sneak: 則能離開礦車。"	"在看向矿车时按:_input_key.use:乘坐。按:_input_key.forward:向前行驶。按:_input_key.jump:或:_input_key.sneak:跃下。"
@@ -35172,7 +35172,7 @@ zh_CN: 在看到船时按 :_input_key.use: 可上船。按 :_gamepad_stick_left:
 zh_TW: 在視野朝向小船時按 :_input_key.use: 即可上船。往左或往右推動 :_gamepad_stick_left: 轉向，往前推動 :_gamepad_stick_left: 則可前進。按 :_input_key.jump: 或 :_input_key.sneak: 即可下船。"	"在看向船时按:_input_key.use:可上船。按:_gamepad_stick_left:左键或右键可调整方向。按:_gamepad_stick_left:前键可向前移动。按:_input_key.jump:或:_input_key.sneak:可下船。"
 "howtoplay.transportation.text.5.gamepad_and_mouse"	"Press :_input_key.use: while looking at a Boat to board it. Push :_gamepad_stick_left:/:_gamepad_stick_right: left or right to turn. Push :_gamepad_stick_left:/:_gamepad_stick_right: forward to move forward. Press :_input_key.jump: or :_input_key.sneak: to get out."	"Original Translation
 zh_CN: 目视船时按 :_input_key.use: 即可登船。向左或向右推 :_gamepad_stick_left:/:_gamepad_stick_right: 来转向。向前推 :_gamepad_stick_left:/:_gamepad_stick_right: 来前进。按 :_input_key.jump: 或 :_input_key.sneak: 下船。
-zh_TW: 在視野朝向小船時按 :_input_key.use: 即可上船。往左或往右推動 :_gamepad_stick_left:/:_gamepad_stick_right: 轉向，往前推動 :_gamepad_stick_left:/:_gamepad_stick_right: 則可前進。按 :_input_key.jump: 或 :_input_key.sneak: 即可下船。"	""
+zh_TW: 在視野朝向小船時按 :_input_key.use: 即可上船。往左或往右推動 :_gamepad_stick_left:/:_gamepad_stick_right: 轉向，往前推動 :_gamepad_stick_left:/:_gamepad_stick_right: 則可前進。按 :_input_key.jump: 或 :_input_key.sneak: 即可下船。"	"在看向船时按:_input_key.use:可上船。按:_gamepad_stick_left:/:_gamepad_stick_right:左键或右键可调整方向。按:_gamepad_stick_left:/:_gamepad_stick_right:前键可向前移动。按:_input_key.jump:或:_input_key.sneak:可下船。"
 "howtoplay.transportation.text.5.keyboard"	"Press :_input_key.use: while looking at a Boat to board it. Press :_input_key.left: or :_input_key.right: to turn left or right. Press :_input_key.forward: to move forward. Press :_input_key.jump: or :_input_key.sneak: to get out."	"Original Translation
 zh_CN: 在看到船时按 :_input_key.use: 可上船。按 :_input_key.left: 或 :_input_key.right: 可向左或向右转。按 :_input_key.forward: 可向前移动。按 :_input_key.jump: 或 :_input_key.sneak: 可下船。
 zh_TW: 在望向小船時按 :_input_key.use: 即可上船。按 :_input_key.left: 或 :_input_key.right: 可向左或向右轉。按 :_input_key.forward: 可往前移動。按 :_input_key.jump: 或 :_input_key.sneak: 就能下船。"	"在看向船时按:_input_key.use:可上船。按:_input_key.left:或:_input_key.right:可向左或向右转。按:_input_key.forward:可向前移动。按:_input_key.jump:或:_input_key.sneak:可下船。"
@@ -35598,7 +35598,7 @@ zh_CN: 睡觉
 zh_TW: 睡覺"	"睡觉"
 "hudScreen.tooltip.swapOffhand"	"Swap Off-hand"	"Original Translation
 zh_CN: 切换副手
-zh_TW: 交換副手物品"	""
+zh_TW: 交換副手物品"	"副手交换"
 "hudScreen.tooltip.throw"	"Throw"	"Original Translation
 zh_CN: 投掷
 zh_TW: 投擲"	"投掷"
@@ -38790,7 +38790,7 @@ zh_CN: 回响碎片
 zh_TW: 回聲碎片"	"回响碎片"
 "item.editor:comment.name"	"Comment"	"Original Translation
 zh_CN: 评论
-zh_TW: 註解"	""
+zh_TW: 註解"	"注释"
 "item.egg.name"	"Egg"	"Original Translation
 zh_CN: 鸡蛋
 zh_TW: 蛋"	"鸡蛋"
@@ -39708,7 +39708,7 @@ zh_CN: C418 - blocks
 zh_TW: C418 - blocks"	"C418 - blocks"
 "item.record_bounce.desc"	"fingerspit - Bounce"	"Original Translation
 zh_CN: fingerspit - Bounce
-zh_TW: fingerspit - Bounce"	""
+zh_TW: fingerspit - Bounce"	"fingerspit - Bounce"
 "item.record_cat.desc"	"C418 - cat"	"Original Translation
 zh_CN: C418 - cat
 zh_TW: C418 - cat"	"C418 - cat"
@@ -39726,7 +39726,7 @@ zh_CN: C418 - far
 zh_TW: C418 - far"	"C418 - far"
 "item.record_flurry.desc"	"Hyper Potions - Flurry"	"Original Translation
 zh_CN: Hyper Potions - Flurry
-zh_TW: Hyper Potions - Flurry"	""
+zh_TW: Hyper Potions - Flurry"	"Hyper Potions - Flurry"
 "item.record_lava_chicken.desc"	"Hyper Potions - Lava Chicken"	"Original Translation
 zh_CN: Hyper Potions - 熔岩鸡
 zh_TW: 超級藥水 - 熔岩雞"	"Hyper Potions - Lava Chicken"
@@ -41406,7 +41406,7 @@ zh_CN: 点击来开启麦克风/静音
 zh_TW: 按下以說話/靜音"	"开启麦克风/静音"
 "key.swapOffhand"	"Swap Item with Off-hand"	"Original Translation
 zh_CN: 与副手物品交换
-zh_TW: 與副手交換物品"	""
+zh_TW: 與副手交換物品"	"与副手交换物品"
 "key.toggleControlTips"	"Control Tips"	"Original Translation
 zh_CN: 控制提示
 zh_TW: 控制提示"	"控制提示"
@@ -41991,7 +41991,7 @@ zh_CN: 项目导入成功完成
 zh_TW: 專案匯入成功"	"项目导入成功"
 "level.editor.import.success.editorOnly"	"Project import finished successfully. Project is available in Editor"	"Original Translation
 zh_CN: 项目导入成功。该项目仅可在编辑器中使用
-zh_TW: 專案匯入成功。專案可於編輯器中使用"	""
+zh_TW: 專案匯入成功。專案可於編輯器中使用"	"项目导入成功。项目在编辑器中可用"
 "level.export.failed"	"World export failed"	"Original Translation
 zh_CN: 世界导出失败
 zh_TW: 世界匯出失敗"	"世界导出失败"
@@ -42018,7 +42018,7 @@ zh_CN: 启动失败
 zh_TW: 啟動失敗"	"世界启动失败"
 "library.prompt.inGameLink"	"You are about to load a new world.  This will save and quit your current game and end any multiplayer connections. Do you want to continue?"	"Original Translation
 zh_CN: 你即将加载一个新世界。这将保存并退出你当前的游戏，并断开所有多人连接。是否继续？
-zh_TW: 你即將載入新世界。這會儲存並退出目前的遊戲，同時中斷所有多人遊戲連線。要繼續嗎？"	""
+zh_TW: 你即將載入新世界。這會儲存並退出目前的遊戲，同時中斷所有多人遊戲連線。要繼續嗎？"	"你即将加载新的世界。此操作将保存并退出你当前的游戏，并结束所有多人游戏连接。你确定要继续吗？"
 "licensed_content.goBack"	"Go Back"	"Original Translation
 zh_CN: 返回
 zh_TW: 返回"	"返回"
@@ -42654,19 +42654,19 @@ zh_CN: 收件箱
 zh_TW: 收件匣"	"收件箱"
 "menu.joyconMouse.handSelect.left"	"Left Joy-Con 2"	"Original Translation
 zh_CN: 左侧 Joy-Con 2
-zh_TW: 左 Joy-Con 2"	""
+zh_TW: 左 Joy-Con 2"	"左侧Joy-Con 2"
 "menu.joyconMouse.handSelect.right"	"Right Joy-Con 2"	"Original Translation
 zh_CN: 右侧 Joy-Con 2
-zh_TW: 右 Joy-Con 2"	""
+zh_TW: 右 Joy-Con 2"	"右侧Joy-Con 2"
 "menu.joyconMouse.tab.description"	"Input options, sensitivity settings and button mapping for Joy-Con 2 Mouse"	"Original Translation
 zh_CN: Joy-Con 2 鼠标的输入选项、灵敏度设置和按钮映射
-zh_TW: Joy-Con 2 滑鼠的輸入選項、靈敏度設定與按鍵配置"	""
+zh_TW: Joy-Con 2 滑鼠的輸入選項、靈敏度設定與按鍵配置"	"Joy-Con 2鼠标输入选项、灵敏度设置和按键映射"
 "menu.joyconMouse.tab.mappings.description"	"Remap any and all Joy-Con 2 mouse buttons to play your way"	"Original Translation
 zh_CN: 随心定制 Joy-Con 2 鼠标按键，打造个性化游戏操控体验
-zh_TW: 自由重新配置 Joy-Con 2 的所有滑鼠按鈕，玩出你的風格"	""
+zh_TW: 自由重新配置 Joy-Con 2 的所有滑鼠按鈕，玩出你的風格"	"按你喜欢的方式来自定义Joy-Con 2鼠标按键"
 "menu.joyconMouse.tab.mappings.title"	"Button mapping"	"Original Translation
 zh_CN: 按键映射
-zh_TW: 按鍵配置"	""
+zh_TW: 按鍵配置"	"按键映射"
 "menu.keyboardAndMouse.access"	"Press :_gamepad_face_button_down: to open the Keyboard & Mouse Settings."	"Original Translation
 zh_CN: 按 :_gamepad_face_button_down: 打开“键盘和鼠标设置”。
 zh_TW: 按下 :_gamepad_face_button_down: 開啟鍵盤與滑鼠設定。"	"按下:_gamepad_face_button_down:打开键盘和鼠标设置。"
@@ -44340,10 +44340,10 @@ zh_CN: 独家优惠
 zh_TW: 獨家優惠"	"限时特惠"
 "options.customcursorsensitivity"	"Cursor Sensitivity"	"Original Translation
 zh_CN: 光标灵敏度
-zh_TW: 游標靈敏度"	""
+zh_TW: 游標靈敏度"	"光标灵敏度"
 "options.customcursorsensitivity.description"	"Adjust the speed of the cursor in menus"	"Original Translation
 zh_CN: 调整菜单中光标的速度
-zh_TW: 調整選單中的游標速度"	""
+zh_TW: 調整選單中的游標速度"	"调整菜单内光标移动的速度"
 "options.customiseTouchControls.description"	"Change on-screen button size and position to fit your play style"	"Original Translation
 zh_CN: 更改屏幕上按钮的大小和位置以符合你的游戏风格
 zh_TW: 變更螢幕按鈕的大小與位置，以符合您的遊玩風格"	"调整屏幕按钮的尺寸与位置，以适配你的游戏风格"
@@ -45717,10 +45717,10 @@ zh_CN: 小
 zh_TW: 小"	"小"
 "options.handSelect"	"Joy-Con 2 Mouse Selection"	"Original Translation
 zh_CN: Joy-Con 2 鼠标选择
-zh_TW: 選擇 Joy-Con 2 滑鼠"	""
+zh_TW: 選擇 Joy-Con 2 滑鼠"	"Joy-Con 2 鼠标选择"
 "options.handSelect.description"	"Choose which Joy-Con 2 to use for mouse input"	"Original Translation
 zh_CN: 请选择用于鼠标输入的 Joy-Con 2
-zh_TW: 選擇要使用哪個 Joy-Con 2 進行滑鼠輸入"	""
+zh_TW: 選擇要使用哪個 Joy-Con 2 進行滑鼠輸入"	"选择使用Joy-Con 2鼠标输入的方式"
 "options.hdr_brightness"	"Gamma"	"Original Translation
 zh_CN: 伽马值
 zh_TW: 伽瑪值"	"伽马值"
@@ -45885,25 +45885,25 @@ zh_CN: 反转摄像机 Y 轴
 zh_TW: 反轉相機 Y 軸"	"反转相机视角Y轴"
 "options.joyconMouse"	"Joy-Con 2 Mouse"	"Original Translation
 zh_CN: Joy-Con 2 鼠标
-zh_TW: Joy-Con 2 滑鼠"	""
+zh_TW: Joy-Con 2 滑鼠"	"Joy-Con 2鼠标"
 "options.joyconMouse.resetMappings"	"Reset mapping to default"	"Original Translation
 zh_CN: 将映射重置为默认
-zh_TW: 恢復預設按鍵配置"	""
+zh_TW: 恢復預設按鍵配置"	"重置为默认映射"
 "options.joyconMouse.resetMappings.buttonLabel"	"Reset"	"Original Translation
 zh_CN: 重置
-zh_TW: 重設"	""
+zh_TW: 重設"	"重置"
 "options.joyconMouse.resetMappings.description"	"Restore all Joy-Con 2 mouse button mappings to their original values"	"Original Translation
 zh_CN: 恢复所有 Joy-Con 2 鼠标按钮映射至原始值
-zh_TW: 將所有 Joy-Con 2 滑鼠按鍵配置恢復為預設值"	""
+zh_TW: 將所有 Joy-Con 2 滑鼠按鍵配置恢復為預設值"	"将所有Joy-Con 2鼠标按键映射恢复为预设值"
 "options.joyconMouse.resetSettings"	"Reset settings to default"	"Original Translation
 zh_CN: 将设置重置为默认
-zh_TW: 恢復預設設定"	""
+zh_TW: 恢復預設設定"	"重置为默认设置"
 "options.joyconMouse.resetSettings.buttonLabel"	"Reset"	"Original Translation
 zh_CN: 重置
-zh_TW: 重設"	""
+zh_TW: 重設"	"重置"
 "options.joyconMouse.resetSettings.description"	"Restore all the above Joy-Con 2 mouse options to their original values"	"Original Translation
 zh_CN: 恢复上述所有 Joy-Con 2 鼠标选项为原始值
-zh_TW: 將上述所有 Joy-Con 2 滑鼠選項恢復為原始值"	""
+zh_TW: 將上述所有 Joy-Con 2 滑鼠選項恢復為原始值"	"将以上所有Joy-Con 2鼠标选项恢复为预设值"
 "options.joystickMoveVisible"	"Joystick Always Visible"	"Original Translation
 zh_CN: 摇杆始终可见
 zh_TW: 永遠顯示搖桿"	"始终显示摇杆"
@@ -48642,7 +48642,7 @@ zh_CN: 喷溅型剧毒药水
 zh_TW: 噴濺型劇毒藥水"	"喷溅型剧毒药水"
 "potion.potency.0"	"I"	"Original Translation
 zh_CN: I
-zh_TW: I"	""
+zh_TW: I"	"I"
 "potion.potency.1"	"II"	"Original Translation
 zh_CN: II
 zh_TW: II"	"II"
@@ -49056,19 +49056,19 @@ zh_CN: 定位服务器
 zh_TW: 定位伺服器"	"定位服务器"
 "progressScreen.message.modifiedWorldWarning.1"	"Resource packs replace default assets and change how Minecraft looks and sounds!"	"Original Translation
 zh_CN: 资源包会替换默认素材，改变 Minecraft 的视觉和音效！
-zh_TW: 資源包能替換預設資產，為 Minecraft 帶來全新的畫面與音效！"	""
+zh_TW: 資源包能替換預設資產，為 Minecraft 帶來全新的畫面與音效！"	"资源包会替换默认资源，并改变Minecraft的外观和音效！"
 "progressScreen.message.modifiedWorldWarning.2"	"Behavior packs change how Minecraft works, from items and blocks to mobs and worlds!"	"Original Translation
 zh_CN: 行为包可以改变 Minecraft 的运行机制，包括物品、方块、生物和世界！
 zh_TW: 行為套件會改變 Minecraft 的遊戲機制，影響範圍涵蓋物品、方塊、生物到整個世界！"	"行为包可以改变Minecraft的游戏机制，包括物品、方块、生物和世界！"
 "progressScreen.message.modifiedWorldWarning.3"	"Add-ons can add new blocks, items, or mobs to a world."	"Original Translation
 zh_CN: 追加内容可以为世界新增方块、物品或生物。
-zh_TW: 附加內容會將新的方塊、物品或生物新增至你的世界。"	""
+zh_TW: 附加內容會將新的方塊、物品或生物新增至你的世界。"	"附加包可以为世界添加新的方块、物品或生物。"
 "progressScreen.message.modifiedWorldWarning.4"	"You can add multiple add-ons onto a single world at once."	"Original Translation
 zh_CN: 你可以同时为一个世界添加多个追加内容。
-zh_TW: 你可以一次將多個附加內容新增至一個世界中。"	""
+zh_TW: 你可以一次將多個附加內容新增至一個世界中。"	"你可以同时向单个世界添加多个附加包。"
 "progressScreen.message.modifiedWorldWarning.5"	"Worlds and add-ons are complex! While some work great together, you might get funky results with others."	"Original Translation
 zh_CN: 世界和追加内容都很复杂！虽然有些搭配效果很好，但有些搭配可能会产生奇怪的效果。
-zh_TW: 世界和附加內容非常複雜！雖然有些很合適一起使用，但有些可能會造成奇怪的結果。"	""
+zh_TW: 世界和附加內容非常複雜！雖然有些很合適一起使用，但有些可能會造成奇怪的結果。"	"世界和附加包十分复杂！多个附加包不一定能正常共同运作，有些可能会导致意外结果。"
 "progressScreen.message.noUploadEndpoint"	"Failed to find a place to upload your world. Maybe check your internet connection?"	"Original Translation
 zh_CN: 找不到上传世界的地方。或许您可以检查一下网络连接？
 zh_TW: 找不到上傳世界的地方。是否要檢查您的網際網路連線？"	"无法上传世界。请检查你的网络连接。"
@@ -50541,7 +50541,7 @@ zh_CN: 查看订阅
 zh_TW: 檢視訂閱"	"查看订阅"
 "realmsSettingsScreen.windowsStoreDisplayName"	"Microsoft Store"	"Original Translation
 zh_CN: Microsoft Store
-zh_TW: Microsoft Store"	""
+zh_TW: Microsoft Store"	"Microsoft Store"
 "realmsSettingsScreen.worldSectionTitle"	"World"	"Original Translation
 zh_CN: 世界
 zh_TW: 世界"	"世界"
@@ -52305,7 +52305,7 @@ zh_CN: 从列表移除并重新分配颜色。
 zh_TW: 從列表移除並重新分配顏色。"	"从列表中移除并重新分配颜色。"
 "resourcePack.editor.customMeshTool.colorBlockList.deleteButton"	"X"	"Original Translation
 zh_CN: X
-zh_TW: X"	""
+zh_TW: X"	"X"
 "resourcePack.editor.customMeshTool.colorBlockList.noColorSources"	"No detected source colors."	"Original Translation
 zh_CN: 未检测到源颜色。
 zh_TW: 未偵測到來源顏色。"	"未检测到源颜色。"
@@ -52368,13 +52368,13 @@ zh_CN: 导入自定义网格
 zh_TW: 匯入自訂網格"	"导入自定义网格"
 "resourcePack.editor.customMeshTool.fileSize.bytes"	"B"	"Original Translation
 zh_CN: B
-zh_TW: B"	""
+zh_TW: B"	"B"
 "resourcePack.editor.customMeshTool.fileSize.kilobytes"	"KB"	"Original Translation
 zh_CN: KB
-zh_TW: KB"	""
+zh_TW: KB"	"KB"
 "resourcePack.editor.customMeshTool.fileSize.megabytes"	"MB"	"Original Translation
 zh_CN: MB
-zh_TW: MB"	""
+zh_TW: MB"	"MB"
 "resourcePack.editor.customMeshTool.info.blocksPlaced"	"Placed %1$s blocks."	"Original Translation
 zh_CN: 已放置 %1$s 个方块。
 zh_TW: 已放置 %1$s 個方塊。"	"已放置%1$s个方块。"
@@ -54114,10 +54114,10 @@ zh_CN: 关于测试世界工作方式的信息。
 zh_TW: 關於「測試世界」如何運作的資訊。"	"关于如何使用测试世界的信息。"
 "resourcePack.editor.playtest.Dialog.KeepAnnotations"	"Keep Annotations"	"Original Translation
 zh_CN: 保留注释
-zh_TW: 保留註記"	""
+zh_TW: 保留註記"	"保留注解"
 "resourcePack.editor.playtest.Dialog.KeepAnnotations.tooltip"	"Include annotations in the playtest world."	"Original Translation
 zh_CN: 在试玩世界中包含注释。
-zh_TW: 在遊戲測試世界中加入註記。"	""
+zh_TW: 在遊戲測試世界中加入註記。"	"在游戏测试世界中包含注解。"
 "resourcePack.editor.playtest.Dialog.OverrideSpawn"	"Spawn at Current Location"	"Original Translation
 zh_CN: 在当前位置生成
 zh_TW: 在目前位置生成"	"在当前位置生成"
@@ -54231,7 +54231,7 @@ zh_CN: 从 Realms 下载世界失败。
 zh_TW: 從 Realms 下載世界失敗。"	"从Realm下载世界失败。"
 "resourcePack.editor.realmsPublish.DownloadImportSuccess"	"Downloading world from Realms was successful. The world has been imported and is ready to open."	"Original Translation
 zh_CN: 从 Realms 下载世界成功。该世界已导入完毕，可以打开了。
-zh_TW: 已成功從 Realms 下載世界。世界已匯入，現在可以開啟。"	""
+zh_TW: 已成功從 Realms 下載世界。世界已匯入，現在可以開啟。"	"从Realm下载世界成功。世界已导入并准备打开。"
 "resourcePack.editor.realmsPublish.DownloadProDisabled.tooltip"	"Downloads from Realms Pro are currently disabled"	"Original Translation
 zh_CN: 当前已禁用 Realms Pro 的下载功能
 zh_TW: 目前已停用從 Realms Pro 下載的功能"	"目前已禁用从Realms Pro下载"
@@ -55992,7 +55992,7 @@ zh_CN: 添加辅助平面
 zh_TW: 新增參考平面"	"添加引导平面"
 "resourcePack.editor.toolRail.guidePlanes.dropdown.addPlane.tooltip"	"Add a new guide plane by choosing which world axis it's aligned to"	"Original Translation
 zh_CN: 选择要对齐的世界轴，添加一个新的引导平面
-zh_TW: 根據世界軸向新增參考平面"	""
+zh_TW: 根據世界軸向新增參考平面"	"通过选择参考平面对齐的世界轴来添加新的参考平面"
 "resourcePack.editor.toolRail.guidePlanes.dropdown.gridResolution.eightBlocks"	"8 blocks"	"Original Translation
 zh_CN: 8 个方块
 zh_TW: 8 個方塊"	"8个方块"
@@ -56013,7 +56013,7 @@ zh_CN: 网格大小
 zh_TW: 網格大小"	"网格尺寸"
 "resourcePack.editor.toolRail.guidePlanes.dropdown.gridResolution.tooltip"	"Change the visual density of the guide plane grid"	"Original Translation
 zh_CN: 调整引导平面网格的显示密度
-zh_TW: 變更參考平面網絡的視覺密度"	""
+zh_TW: 變更參考平面網絡的視覺密度"	"更改参考平面网格的视觉密度"
 "resourcePack.editor.toolRail.guidePlanes.field.anchorPosition.title"	"Anchor Position"	"Original Translation
 zh_CN: 锚点位置
 zh_TW: 錨定位置"	"固定位置"
@@ -56067,7 +56067,7 @@ zh_CN: 引导平面
 zh_TW: 參考平面"	"引导平面"
 "resourcePack.editor.toolRail.guidePlanes.pane.tooltip"	"Guide planes provide a temporary surface for other tools to work against, making it easier to place and align blocks in mid-air or voids."	"Original Translation
 zh_CN: 引导平面可为其他工具提供临时操作表面，方便你在空中或虚空中放置和对齐方块。
-zh_TW: 你可以利用參考平面為其他工具提供一個臨時操作表面。有了它，在空中或虛空中放置或對齊方塊就方便多了。"	""
+zh_TW: 你可以利用參考平面為其他工具提供一個臨時操作表面。有了它，在空中或虛空中放置或對齊方塊就方便多了。"	"参考平面为其他工具提供临时表面以进行操作，从而更容易在空中或虚空中放置和对齐方块。"
 "resourcePack.editor.toolRail.guidePlanes.planeType.anchored"	"Anchored"	"Original Translation
 zh_CN: 锚定
 zh_TW: 已錨定"	"固定"
@@ -56115,13 +56115,13 @@ zh_CN: 显示
 zh_TW: 顯示"	"显示"
 "resourcePack.editor.toolRail.guidePlanes.viewControl.sort.aToZ"	"A-z"	"Original Translation
 zh_CN: A-z
-zh_TW: A-z"	""
+zh_TW: A-z"	"A-z"
 "resourcePack.editor.toolRail.guidePlanes.viewControl.sort.oldestNewest"	"Oldest-Newest"	"Original Translation
 zh_CN: 最旧-最新
 zh_TW: 依最舊到最新排序"	"从最旧到最新"
 "resourcePack.editor.toolRail.guidePlanes.viewControl.sort.zToA"	"z-A"	"Original Translation
 zh_CN: z-A
-zh_TW: z-A"	""
+zh_TW: z-A"	"z-A"
 "resourcePack.editor.toolRail.line.keyBinding.addToSelection.title"	"Add to Selection (volume)"	"Original Translation
 zh_CN: 添加到选择（区域）
 zh_TW: 新增至選取範圍 (體)"	"添加到选区"
@@ -56541,7 +56541,7 @@ zh_CN: 移除所有标尺点。
 zh_TW: 移除所有尺規點。"	"移除所有直尺点。"
 "resourcePack.editor.toolRail.rulerTool.description"	"Ruler tool for measuring distances in worlds. Click to place start point, drag to end point, or use coordinates input. CTRL + Left Mouse Click to begin an additional ruler set."	"Original Translation
 zh_CN: 用于在世界中测量距离的增强标尺工具。点击以放置起点，再拖拽到终点，或者使用坐标输入。按住 CTRL 键 + 点击鼠标左键，即可开始设置额外的标尺。
-zh_TW: 用於在世界中測量距離的尺規工具。按一下以放置起點，拖曳至終點，或使用座標輸入。按住 CTRL + 滑鼠左鍵按一下以開始另一組尺規。"	""
+zh_TW: 用於在世界中測量距離的尺規工具。按一下以放置起點，拖曳至終點，或使用座標輸入。按住 CTRL + 滑鼠左鍵按一下以開始另一組尺規。"	"用于在世界中测量距离的直尺工具。点击放置起点，拖动放置终点，或使用坐标输入。Ctrl+单击鼠标左键开始添加一组直尺集。"
 "resourcePack.editor.toolRail.rulerTool.distance.title"	"Distance"	"Original Translation
 zh_CN: 距离
 zh_TW: 距離"	"距离"
@@ -59604,7 +59604,7 @@ zh_CN: 了解更多
 zh_TW: 深入了解"	"了解更多"
 "store.gifting.sender.ineligible.message"	"%s"	"Original Translation
 zh_CN: %s
-zh_TW: %s"	""
+zh_TW: %s"	"%s"
 "store.gifting.sender.ineligible.title"	"Unable to Gift"	"Original Translation
 zh_CN: 无法赠送礼物
 zh_TW: 無法贈送"	"无法赠送"
@@ -60114,13 +60114,13 @@ zh_CN: 正在加载市场...
 zh_TW: 正在載入市集..."	"加载市场中…"
 "store.progress.dialog.tooltip.1"	"Add-ons can be used in new and existing worlds."	"Original Translation
 zh_CN: 追加内容可以在全新和现有的世界中使用。
-zh_TW: 新世界和現有世界都能使用附加內容。"	""
+zh_TW: 新世界和現有世界都能使用附加內容。"	"附加包在新的世界和现有世界中均可使用。"
 "store.progress.dialog.tooltip.2"	"Worlds, skins, add-ons, and texture packs change different parts of the Minecraft experience."	"Original Translation
 zh_CN: 世界、皮肤、追加内容和材质包会改变 Minecraft 游戏体验的不同方面。
 zh_TW: 世界、外觀、附加內容和材質套件能為 Minecraft 帶來全方位的全新遊戲體驗。"	"世界、皮肤、追加内容和材质包会为Minecraft的各个方面带来全新的游戏体验。"
 "store.progress.dialog.tooltip.3"	"You can find all downloaded content in your library and dressing room."	"Original Translation
 zh_CN: 你可以在库和更衣室中找到所有已下载的内容。
-zh_TW: 在資料庫和更衣室就能找到所有下載內容。"	""
+zh_TW: 在資料庫和更衣室就能找到所有下載內容。"	"你可以在你的库和更衣室中寻找所有已下载的内容。"
 "store.progress.dialog.tooltip.4"	"The Marketplace is perfect for discovering Minecraft content creators!"	"Original Translation
 zh_CN: 市场是发现 Minecraft 内容创作者的绝佳去处！
 zh_TW: 想發掘 Minecraft 創作者，市集絕對是不二之選！"	"市场是发现Minecraft内容创作者的绝佳去处！"
@@ -60333,7 +60333,7 @@ zh_CN: 来试试吧！
 zh_TW: 試用一下！"	"来试试吧！"
 "store.resourcePack.activateTexturePack"	"Activate Pack!"	"Original Translation
 zh_CN: 激活包！
-zh_TW: 啟用套件！"	""
+zh_TW: 啟用套件！"	"启用包！"
 "store.resourcePack.leaveWorldToActivate"	"Exit world to apply"	"Original Translation
 zh_CN: 退出世界以申请
 zh_TW: 退出世界以套用"	"退出世界以启用"
@@ -60432,7 +60432,7 @@ zh_CN: 图形
 zh_TW: 圖形"	"图像品质"
 "store.search.filter.graphics.rtx"	"RTX"	"Original Translation
 zh_CN: RTX
-zh_TW: RTX"	""
+zh_TW: RTX"	"RTX"
 "store.search.filter.graphics.vibrantVisuals"	"Vibrant Visuals"	"Original Translation
 zh_CN: 灵动视效
 zh_TW: 絢麗視覺"	"灵动视效"
@@ -62376,7 +62376,7 @@ zh_CN: 极寒之噬受伤
 zh_TW: 霜噬受傷"	"冻尸：受伤"
 "subtitles.entity.frostbite.shoot"	"Frostbite throws"	"Original Translation
 zh_CN: 极寒之噬投掷冰球
-zh_TW: 霜噬投擲"	""
+zh_TW: 霜噬投擲"	"冻尸：投掷"
 "subtitles.entity.generic.big_fall"	"Something fell"	"Original Translation
 zh_CN: 有东西掉落了
 zh_TW: 有東西倒下了"	"某物：着地"
@@ -62610,7 +62610,7 @@ zh_CN: 冰球击中
 zh_TW: 冰球擊中"	"冰球：击中"
 "subtitles.entity.ice_ball.throw"	"Ice Ball flies"	"Original Translation
 zh_CN: 冰球飞行
-zh_TW: 冰球飛過"	""
+zh_TW: 冰球飛過"	"冰球：飞出"
 "subtitles.entity.iron_golem.attack"	"Iron Golem attacks"	"Original Translation
 zh_CN: 铁傀儡攻击
 zh_TW: 鐵魔像攻擊"	"铁傀儡：攻击"
@@ -62871,7 +62871,7 @@ zh_CN: 鹦鹉低声喃喃
 zh_TW: 鸚鵡低聲說話"	"鹦鹉：咕哝"
 "subtitles.entity.parrot.imitate.frostbite"	"Parrot groans"	"Original Translation
 zh_CN: 鹦鹉呻吟
-zh_TW: 鸚鵡發出哼聲"	""
+zh_TW: 鸚鵡發出哼聲"	"鹦鹉：低吼"
 "subtitles.entity.parrot.imitate.ghast"	"Parrot cries"	"Original Translation
 zh_CN: 鹦哥大叫
 zh_TW: 鸚鵡哭泣"	"鹦鹉：哭泣"
@@ -63312,7 +63312,7 @@ zh_CN: 雪傀儡受伤
 zh_TW: 雪人受傷"	"雪傀儡：受伤"
 "subtitles.entity.snow_golem.shoot"	"Snow Golem throws"	"Original Translation
 zh_CN: 雪傀儡投掷雪球
-zh_TW: 雪人投擲"	""
+zh_TW: 雪人投擲"	"雪傀儡：投掷"
 "subtitles.entity.snowball.throw"	"Snowball flies"	"Original Translation
 zh_CN: 雪球飞行
 zh_TW: 雪球飛過"	"雪球：飞出"
@@ -63732,7 +63732,7 @@ zh_CN: 僵尸死亡
 zh_TW: 殭屍死亡"	"僵尸：死亡"
 "subtitles.entity.zombie.destroy_egg"	"Turtle Egg is stomped"	"Original Translation
 zh_CN: 海龟蛋被踩扁
-zh_TW: 海龜蛋被踩碎"	""
+zh_TW: 海龜蛋被踩碎"	"海龟蛋：被踩踏"
 "subtitles.entity.zombie.hurt"	"Zombie hurts"	"Original Translation
 zh_CN: 僵尸受伤
 zh_TW: 殭屍受傷"	"僵尸：受伤"
@@ -64626,19 +64626,19 @@ zh_CN: 方解石
 zh_TW: 方解石"	"方解石"
 "tile.calcite_double_slab.name"	"Calcite Double Slab"	"Original Translation
 zh_CN: 方解石双层台阶
-zh_TW: 方解石雙板"	""
+zh_TW: 方解石雙板"	"方解石双层台阶"
 "tile.calcite_pillar.name"	"Calcite Pillar"	"Original Translation
 zh_CN: 方解石柱
-zh_TW: 方解石柱"	""
+zh_TW: 方解石柱"	"方解石柱"
 "tile.calcite_slab.name"	"Calcite Slab"	"Original Translation
 zh_CN: 方解石台阶
-zh_TW: 方解石板"	""
+zh_TW: 方解石板"	"方解石台阶"
 "tile.calcite_stairs.name"	"Calcite Stairs"	"Original Translation
 zh_CN: 方解石楼梯
-zh_TW: 方解石階梯"	""
+zh_TW: 方解石階梯"	"方解石楼梯"
 "tile.calcite_wall.name"	"Calcite Wall"	"Original Translation
 zh_CN: 方解石墙
-zh_TW: 方解石牆"	""
+zh_TW: 方解石牆"	"方解石墙"
 "tile.calibrated_sculk_sensor.name"	"Calibrated Sculk Sensor"	"Original Translation
 zh_CN: 已校准潜声感测器
 zh_TW: 校準伏聆振測器"	"校频幽匿感测体"
@@ -64836,7 +64836,7 @@ zh_CN: 錾制树脂砖块
 zh_TW: 雕刻樹脂磚"	"雕纹树脂砖块"
 "tile.chiseled_soulshale.name"	"Chiseled Soulshale"	"Original Translation
 zh_CN: 雕纹灵魂岩
-zh_TW: 鑿刻靈魂頁岩"	""
+zh_TW: 鑿刻靈魂頁岩"	"雕纹灵魂页岩"
 "tile.chiseled_sulfur.name"	"Chiseled Sulfur"	"Original Translation
 zh_CN: 雕纹硫黄
 zh_TW: 鑿刻硫磺"	"雕纹硫黄"
@@ -67269,34 +67269,34 @@ zh_CN: 磨制黑石墙
 zh_TW: 拋光黑石牆"	"磨制黑石墙"
 "tile.polished_calcite.name"	"Polished Calcite"	"Original Translation
 zh_CN: 抛光方解石
-zh_TW: 拋光方解石"	""
+zh_TW: 拋光方解石"	"磨制方解石"
 "tile.polished_calcite_brick_double_slab.name"	"Polished Calcite Brick Double Slab"	"Original Translation
 zh_CN: 磨制方解石砖双层台阶
-zh_TW: 拋光方解石磚雙板"	""
+zh_TW: 拋光方解石磚雙板"	"磨制方解石砖双层台阶"
 "tile.polished_calcite_brick_slab.name"	"Polished Calcite Brick Slab"	"Original Translation
 zh_CN: 磨制方解石砖台阶
-zh_TW: 拋光方解石磚板"	""
+zh_TW: 拋光方解石磚板"	"磨制方解石砖台阶"
 "tile.polished_calcite_brick_stairs.name"	"Polished Calcite Brick Stairs"	"Original Translation
 zh_CN: 磨制方解石砖楼梯
-zh_TW: 拋光方解石磚階梯"	""
+zh_TW: 拋光方解石磚階梯"	"磨制方解石砖楼梯"
 "tile.polished_calcite_brick_wall.name"	"Polished Calcite Brick Wall"	"Original Translation
 zh_CN: 磨制方解石砖墙
-zh_TW: 拋光方解石磚牆"	""
+zh_TW: 拋光方解石磚牆"	"磨制方解石砖墙"
 "tile.polished_calcite_bricks.name"	"Polished Calcite Bricks"	"Original Translation
 zh_CN: 磨制方解石砖
-zh_TW: 拋光方解石磚"	""
+zh_TW: 拋光方解石磚"	"磨制方解石砖"
 "tile.polished_calcite_double_slab.name"	"Polished Calcite Double Slab"	"Original Translation
 zh_CN: 抛光方解石双层台阶
-zh_TW: 拋光方解石雙板"	""
+zh_TW: 拋光方解石雙板"	"磨制方解石双层台阶"
 "tile.polished_calcite_slab.name"	"Polished Calcite Slab"	"Original Translation
 zh_CN: 抛光方解石台阶
-zh_TW: 拋光方解石板"	""
+zh_TW: 拋光方解石板"	"磨制方解石台阶"
 "tile.polished_calcite_stairs.name"	"Polished Calcite Stairs"	"Original Translation
 zh_CN: 磨制方解石楼梯
-zh_TW: 拋光方解石階梯"	""
+zh_TW: 拋光方解石階梯"	"磨制方解石楼梯"
 "tile.polished_calcite_wall.name"	"Polished Calcite Wall"	"Original Translation
 zh_CN: 磨制方解石墙
-zh_TW: 拋光方解石牆"	""
+zh_TW: 拋光方解石牆"	"磨制方解石墙"
 "tile.polished_cinnabar.name"	"Polished Cinnabar"	"Original Translation
 zh_CN: 磨制朱砂
 zh_TW: 拋光朱砂塊"	"磨制朱砂"
